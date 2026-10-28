@@ -1,8 +1,8 @@
 ---
-title: Gregorio Luperini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Gregorio Luperini, centrocampista
+title: Francesco De Rose — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Francesco De Rose, centrocampista
   del Calcio Catania con 16 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/g-l/gregorio-luperini
+slug: 03-tesserati/calciatori/rosa-attuale/francesco-de-rose
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -11,15 +11,15 @@ total_appearances: 16
 seasons_count: 1
 tags:
 - calciatori
-- gregorio-luperini
+- francesco-de-rose
 - centrocampista
 sources:
 - author: Salvatore Giovanni Emanuele, Max Licari
-  title: Scheda anagrafica e statistiche di Gregorio Luperini
+  title: Scheda anagrafica e statistiche di Francesco De Rose
   publisher: calciocatania.com
-  url: https://www.calciocatania.com/giocatori/giocatori.php?Luperini-1105
+  url: https://www.calciocatania.com/giocatori/giocatori.php?De-Rose-1102
   year: 2024
-  reference: Archivio Giocatori CalcioCatania.com - ID 1105
+  reference: Archivio Giocatori CalcioCatania.com - ID 1102
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto
@@ -27,12 +27,14 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/gregorio-luperini
+- tesserati/calciatori/francesco-de-rose
+- 03-tesserati/calciatori/archivio/d-f/francesco-de-rose
+current_squad: true
 ---
 
-# Gregorio Luperini — Scheda Giocatore nel Calcio Catania
+# Francesco De Rose — Scheda Giocatore nel Calcio Catania
 
-**Gregorio Luperini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco De Rose** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
@@ -62,5 +64,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gregorio Luperini*, in [https://www.calciocatania.com/giocatori/giocatori.php?Luperini-1105](https://www.calciocatania.com/giocatori/giocatori.php?Luperini-1105), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco De Rose*, in [https://www.calciocatania.com/giocatori/giocatori.php?De-Rose-1102](https://www.calciocatania.com/giocatori/giocatori.php?De-Rose-1102), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

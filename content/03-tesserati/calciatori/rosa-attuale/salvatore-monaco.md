@@ -2,7 +2,7 @@
 title: Salvatore Monaco — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Salvatore Monaco, difensore
   del Calcio Catania con 11 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/s-z/salvatore-monaco
+slug: 03-tesserati/calciatori/rosa-attuale/salvatore-monaco
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -14,12 +14,12 @@ tags:
 - salvatore-monaco
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Salvatore Monaco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Salvatore Monaco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Salvatore_Monaco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Salvatore_Monaco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Salvatore Monaco
   publisher: calciocatania.com
@@ -34,6 +34,8 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-monaco
+- 03-tesserati/calciatori/archivio/s-z/salvatore-monaco
+current_squad: true
 ---
 # Salvatore Monaco — Scheda Giocatore nel Calcio Catania
 

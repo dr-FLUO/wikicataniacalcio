@@ -2,7 +2,7 @@
 title: Luca Verna — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Luca Verna, centrocampista
   del Calcio Catania con 18 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/g-l/luca-verna
+slug: 03-tesserati/calciatori/rosa-attuale/luca-verna
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -28,13 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1090_luca-verna.jpg
 image_credits:
-- image_path: 'assets/images/players/1090_luca-verna.jpg'
-  alt_text: "Ritratto del calciatore Luca Verna in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/1090_luca-verna.jpg
+  alt_text: Ritratto del calciatore Luca Verna in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/luca-verna
+- 03-tesserati/calciatori/archivio/g-l/luca-verna
+current_squad: true
 ---
 # Luca Verna — Scheda Giocatore nel Calcio Catania
 

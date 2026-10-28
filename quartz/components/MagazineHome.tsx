@@ -506,7 +506,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
                 <span>SFOGLIA IL MAGAZINE</span>
               </span>
             </a>
-            <a href="./02-cronistoria/stagioni/index" class="nfc-double-btn nfc-double-btn--light">
+            <a href="./02-cronistoria/stagioni/" class="nfc-double-btn nfc-double-btn--light">
               <span class="nfc-double-btn__inner">
                 <span>ANNALI STAGIONI (1929–OGGI) →</span>
               </span>
@@ -605,7 +605,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               <span class="nfc-rotate-btn__icon">🎲</span>
               <span>MESCOLA STORIE</span>
             </button>
-            <a href="./02-cronistoria/partite-storiche/index" class="nfc-link-arrow">
+            <a href="./02-cronistoria/partite-storiche/" class="nfc-link-arrow">
               TUTTI I DOSSIER STORICI →
             </a>
           </div>
@@ -785,7 +785,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               <span class="nfc-rotate-btn__icon">🎲</span>
               <span>MESCOLA VOLTI</span>
             </button>
-            <a href="./03-tesserati/index" class="nfc-link-arrow">
+            <a href="./03-tesserati/" class="nfc-link-arrow">
               ALBO COMPLETO TESSERATI →
             </a>
           </div>
@@ -819,7 +819,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
             <span class="nfc-section-kicker">03 / CONTINUITÀ STORICA E GIURIDICA</span>
             <h2 class="nfc-section-title">CRONOLOGIA DELLE RAGIONI SOCIALI E MATRICOLE FIGC</h2>
           </div>
-          <a href="./01-societa/index" class="nfc-link-arrow">
+          <a href="./01-societa/" class="nfc-link-arrow">
             ARCHIVIO SOCIETARIO COMPLETO →
           </a>
         </div>

@@ -2,7 +2,7 @@
 title: Matteo Di Gennaro — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Matteo Di Gennaro, difensore
   del Calcio Catania con 52 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/m-o/matteo-di-gennaro
+slug: 03-tesserati/calciatori/rosa-attuale/matteo-di-gennaro
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -27,13 +27,16 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1081_matteo-di-gennaro.png
 image_credits:
-- image_path: 'assets/images/players/1081_matteo-di-gennaro.png'
-  alt_text: "Ritratto del calciatore Matteo Di Gennaro in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1081_matteo-di-gennaro.png
+  alt_text: Ritratto del calciatore Matteo Di Gennaro in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/matteo-di-gennaro
+- 03-tesserati/calciatori/archivio/m-o/matteo-di-gennaro
+current_squad: true
 ---
 # Matteo Di Gennaro — Scheda Giocatore nel Calcio Catania
 

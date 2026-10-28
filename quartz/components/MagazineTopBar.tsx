@@ -17,11 +17,13 @@ const MagazineTopBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
   const baseDir = pathToRoot(currentSlug)
 
   const resolveHref = (target: string) => {
+    const isIndex = target.endsWith("/index") || target === "index"
     const cleanTarget = target.replace(/\/index$/, "")
+    const trailing = isIndex ? "/" : ""
     if (baseDir === ".") {
-      return `./${cleanTarget}`
+      return `./${cleanTarget}${trailing}`
     }
-    return `${baseDir}/${cleanTarget}`
+    return `${baseDir}/${cleanTarget}${trailing}`
   }
 
   const homeHref = baseDir === "." ? "./" : `${baseDir}/`

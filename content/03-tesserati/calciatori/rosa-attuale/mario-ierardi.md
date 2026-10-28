@@ -2,7 +2,7 @@
 title: Mario Ierardi — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Mario Ierardi, difensore
   del Calcio Catania con 61 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/m-o/mario-ierardi
+slug: 03-tesserati/calciatori/rosa-attuale/mario-ierardi
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -27,13 +27,16 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1076_mario-ierardi.png
 image_credits:
-- image_path: 'assets/images/players/1076_mario-ierardi.png'
-  alt_text: "Ritratto del calciatore Mario Ierardi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1076_mario-ierardi.png
+  alt_text: Ritratto del calciatore Mario Ierardi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mario-ierardi
+- 03-tesserati/calciatori/archivio/m-o/mario-ierardi
+current_squad: true
 ---
 # Mario Ierardi — Scheda Giocatore nel Calcio Catania
 

@@ -2,7 +2,7 @@
 title: Matteo Stoppa — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Matteo Stoppa, attaccante
   del Calcio Catania con 38 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/m-o/matteo-stoppa
+slug: 03-tesserati/calciatori/rosa-attuale/matteo-stoppa
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -27,13 +27,16 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1079_matteo-stoppa.jpg
 image_credits:
-- image_path: 'assets/images/players/1079_matteo-stoppa.jpg'
-  alt_text: "Ritratto del calciatore Matteo Stoppa in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1079_matteo-stoppa.jpg
+  alt_text: Ritratto del calciatore Matteo Stoppa in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/matteo-stoppa
+- 03-tesserati/calciatori/archivio/m-o/matteo-stoppa
+current_squad: true
 ---
 # Matteo Stoppa — Scheda Giocatore nel Calcio Catania
 

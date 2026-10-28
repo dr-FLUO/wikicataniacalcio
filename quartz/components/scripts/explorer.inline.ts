@@ -144,10 +144,26 @@ function createFolderNode(
     folderOuter.classList.add("open")
   }
 
+  if (node.data) {
+    const template = document.getElementById("template-file") as HTMLTemplateElement
+    const clone = template.content.cloneNode(true) as DocumentFragment
+    const overviewLi = clone.querySelector("li") as HTMLLIElement
+    const a = overviewLi.querySelector("a") as HTMLAnchorElement
+    a.href = resolveRelative(currentSlug, folderPath)
+    a.dataset.for = folderPath
+    a.className = "folder-overview-link"
+    a.textContent = "Panoramica Dossier"
+    if (currentSlug === folderPath || currentSlug === simplifySlug(folderPath)) {
+      a.classList.add("active")
+    }
+    ul.appendChild(overviewLi)
+  }
+
   for (const child of node.children) {
-    const childNode = child.isFolder
-      ? createFolderNode(currentSlug, child, opts)
-      : createFileNode(currentSlug, child)
+    const childNode =
+      child.isFolder && child.children.length > 0
+        ? createFolderNode(currentSlug, child, opts)
+        : createFileNode(currentSlug, child)
     ul.appendChild(childNode)
   }
 
@@ -212,9 +228,10 @@ async function setupExplorer(currentSlug: FullSlug) {
     // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
-      const node = child.isFolder
-        ? createFolderNode(currentSlug, child, opts)
-        : createFileNode(currentSlug, child)
+      const node =
+        child.isFolder && child.children.length > 0
+          ? createFolderNode(currentSlug, child, opts)
+          : createFileNode(currentSlug, child)
 
       fragment.appendChild(node)
     }

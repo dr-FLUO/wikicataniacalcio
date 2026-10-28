@@ -2,7 +2,7 @@
 title: Klavs Bethers — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Klavs Bethers, portiere
   del Calcio Catania con 57 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/g-l/klavs-bethers
+slug: 03-tesserati/calciatori/rosa-attuale/klavs-bethers
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -27,13 +27,16 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/945_klavs-bethers.png
 image_credits:
-- image_path: 'assets/images/players/945_klavs-bethers.png'
-  alt_text: "Ritratto del calciatore Klavs Bethers in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/945_klavs-bethers.png
+  alt_text: Ritratto del calciatore Klavs Bethers in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/klavs-bethers
+- 03-tesserati/calciatori/archivio/g-l/klavs-bethers
+current_squad: true
 ---
 # Klavs Bethers — Scheda Giocatore nel Calcio Catania
 

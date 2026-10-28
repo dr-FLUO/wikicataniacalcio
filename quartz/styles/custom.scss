@@ -3103,12 +3103,29 @@ footer.rossazzurri-footer {
             border-left: 2px solid var(--rossazzurro-red);
             padding-left: 6px;
           }
+
+          &.folder-overview-link {
+            font-weight: 700 !important;
+            color: var(--secondary) !important;
+            border-bottom: 1px dashed var(--wiki-border-hairline);
+            padding-bottom: 3px;
+            margin-bottom: 3px;
+
+            &::before {
+              content: "› ";
+              color: var(--rossazzurro-red);
+              font-weight: 900;
+            }
+
+            &:hover {
+              color: var(--rossazzurro-red) !important;
+            }
+          }
         }
       }
     }
 
     // Link di servizio archivio (Note Legali, Segnala Correzione) — Dimensione ridotta del 50%
-    & > ul.explorer-ul > li:not(:has(.folder-container)),
     & a[data-for="note-legali-privacy-accessibilita"],
     & a[data-for="segnala-correzione"] {
       font-size: 0.58rem !important; // -50% rispetto al font standard (~9px)

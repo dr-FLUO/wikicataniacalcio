@@ -2,7 +2,7 @@
 title: Armando Anastasio — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore
   del Calcio Catania con 28 presenze registrate in maglia rossazzurra.
-slug: 03-tesserati/calciatori/archivio/a-c/armando-anastasio
+slug: 03-tesserati/calciatori/rosa-attuale/armando-anastasio
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
@@ -27,13 +27,16 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1089_armando-anastasio.jpg
 image_credits:
-- image_path: 'assets/images/players/1089_armando-anastasio.jpg'
-  alt_text: "Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1089_armando-anastasio.jpg
+  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/armando-anastasio
+- 03-tesserati/calciatori/archivio/a-c/armando-anastasio
+current_squad: true
 ---
 # Armando Anastasio — Scheda Giocatore nel Calcio Catania
 

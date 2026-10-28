@@ -2,7 +2,7 @@
 title: Roberto Inglese — Il Centravanti di Serie A per la Scalata Rossazzurra (2024-2026)
 description: Biografia e statistiche di Roberto Inglese, centravanti di classe superiore
   con lunga militanza in Serie A, leader dell'attacco etneo dal 2024 al 2026.
-slug: 03-tesserati/calciatori/archivio/p-r/roberto-inglese
+slug: 03-tesserati/calciatori/rosa-attuale/roberto-inglese
 entity_type: calciatore
 status: verified
 last_verified_date: 2026-10-27
@@ -44,13 +44,16 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Inglese-1087
 image: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
 image_credits:
-- image_path: 'assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp'
-  alt_text: "Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
+  alt_text: Roberto Inglese, centravanti e punto di riferimento offensivo del Catania
+    FC
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/roberto-inglese
+- 03-tesserati/calciatori/archivio/p-r/roberto-inglese
+current_squad: true
 ---
 ![Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp)
 *Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*

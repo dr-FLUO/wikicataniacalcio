@@ -16,7 +16,7 @@ export const sharedPageComponents: SharedLayout = {
 // Explorer compatto ed editoriale per la navigazione archivistica
 const editorialExplorer = Component.Explorer({
   title: "Archivio Dossier",
-  folderClickBehavior: "collapse",
+  folderClickBehavior: "link",
   folderDefaultState: "collapsed",
   useSavedState: false,
   filterFn: (node) => {

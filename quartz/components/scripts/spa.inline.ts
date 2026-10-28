@@ -86,7 +86,12 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  const newSlug = html.body.dataset.slug as FullSlug | undefined
+  const targetUrl = new URL(url.href)
+  if (newSlug && (newSlug === "index" || newSlug.endsWith("/index")) && !targetUrl.pathname.endsWith("/")) {
+    targetUrl.pathname += "/"
+  }
+  normalizeRelativeURLs(html, targetUrl)
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -123,7 +128,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    history.pushState({}, "", targetUrl)
   }
 
   notifyNav(getFullSlug(window))
