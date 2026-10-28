@@ -32,7 +32,13 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+
+  const url = new URL(href)
+  if (window.location.hostname.endsWith(".github.io") && !url.pathname.startsWith("/wikicataniacalcio")) {
+    url.pathname = "/wikicataniacalcio" + (url.pathname.startsWith("/") ? url.pathname : "/" + url.pathname)
+  }
+
+  return { url, scroll: "routerNoscroll" in a.dataset ? false : undefined }
 }
 
 function notifyNav(url: FullSlug) {
@@ -59,6 +65,9 @@ function startLoading() {
 let isNavigating = false
 let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
+  if (window.location.hostname.endsWith(".github.io") && !url.pathname.startsWith("/wikicataniacalcio")) {
+    url.pathname = "/wikicataniacalcio" + (url.pathname.startsWith("/") ? url.pathname : "/" + url.pathname)
+  }
   isNavigating = true
   startLoading()
   p = p || new DOMParser()

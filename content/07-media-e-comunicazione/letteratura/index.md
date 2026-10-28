@@ -101,7 +101,16 @@ Oltre alla carta stampata, la conservazione della memoria rossazzurra poggia su 
 
 ---
 
-## 5. Almanacchi Ufficiali di Categoria
+## 5. Dossier Monografici della Sezione
+
+* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici sul Calcio Catania]]
+* [[07-media-e-comunicazione/letteratura/saggi-e-biografie|Saggi, Biografie e Memorialistica Rossazzurra]]
+* [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza: Decano della Storiografia Sportiva Catanese]]
+* [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò e gli Esordi al Cibali]]
+
+---
+
+## 6. Almanacchi Ufficiali di Categoria
 
 Fonti certificate per il confronto regolamentare, le classifiche algebriche e la matricola FIGC:
 

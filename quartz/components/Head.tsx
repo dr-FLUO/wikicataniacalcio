@@ -38,6 +38,15 @@ export default (() => {
 
     return (
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if (window.location.hostname.endsWith(".github.io") && !window.location.pathname.startsWith("/wikicataniacalcio")) {
+                window.location.replace("/wikicataniacalcio" + window.location.pathname + window.location.search + window.location.hash);
+              }
+            `,
+          }}
+        />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (

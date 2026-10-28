@@ -1,8 +1,6 @@
 ---
 title: 'Il Settore Giovanile del Calcio Catania (1946-2026): Storia, Talenti e Strutture'
-description: 'Dossier completo sul settore giovanile del Calcio Catania: la tradizione
-  della Primavera, i tornei storici, le strutture da Nesima a Torre del Grifo e i
-  talenti lanciati.'
+description: 'Dossier completo sul settore giovanile del Calcio Catania: la tradizione della Primavera, i tornei storici, le strutture da Nesima a Torre del Grifo e i talenti lanciati.'
 slug: 08-settori-paralleli/giovanili/index
 entity_type: section_index
 status: verified
@@ -22,7 +20,7 @@ tags:
 - campo-nesima
 - orazio-russo
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -46,18 +44,20 @@ Il vivaio del Calcio Catania ha costituito per decenni un serbatoio fondamentale
 
 ## 1. Dalle Origini al Torneo di Viareggio
 
-Fin dagli anni Cinquanta, sotto la guida tecnica di maestri come [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]], la società strutturò un capillare sistema di reclutamento nei quartieri popolari e nelle province della Sicilia orientale:
+Fin dagli anni Cinquanta, sotto la guida tecnica di maestri come [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], la società strutturò un capillare sistema di reclutamento nei quartieri popolari e nelle province della Sicilia orientale:
 * **Torneo di Viareggio (Coppa Carnevale)**: il Catania ha preso parte a numerose edizioni della prestigiosa kermesse mondiale giovanile, affrontando formazioni del calibro di Real Madrid, Santos e Juventus. Tra le partecipazioni più brillanti spiccano quelle degli anni Sessanta e dei primi anni Duemila.
-* Il legame con il territorio ha permesso la crescita di beniamini assoluti come [[societa/personaggi/orazio-russo\|Orazio Russo]], cresciuto nel vivaio etneo fino al debutto in prima squadra e a una lunga carriera da dirigente e responsabile del settore giovanile.
+* Il legame con il territorio ha permesso la crescita di beniamini assoluti come [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]], cresciuto nel vivaio etneo fino al debutto in prima squadra e a una lunga carriera da dirigente e responsabile del settore giovanile.
+* Approfondimento monografico: [[08-settori-paralleli/giovanili/albo-doro-e-torneo-di-viareggio|Il Catania al Torneo di Viareggio: Storiche Sfide e Albo d'Oro Giovanile]].
 
 ---
 
 ## 2. Le Strutture di Allenamento: Da Nesima a Torre del Grifo
 
 L'evoluzione logistica del vivaio si è articolata attorno a due snodi storici:
-1. [[stadio/campo-comunale-nesima\|Campo Comunale di Nesima]]: terreno di allenamento e di gara per quasi mezzo secolo, teatro della crescita di intere generazioni di giovani promesse.
-2. [[stadio/torre-del-grifo\|Torre del Grifo Village]]: inaugurato nel 2011, il centro sportivo di Mascalucia ha rappresentato un'eccellenza europea per strutture di medicina dello sport, foresterie e campi d'allenamento fino alla crisi del 2021.
-3. Con la rifondazione societaria del 2022 voluta da [[societa/presidenti/ross-pelligra\|Ross Pelligra]], il club ha riaperto i poli giovanili periferici e concentrato le squadre agonistiche a Nesima e Cibalino.
+1. [[04-strutture/centri-sportivi/campo-comunale-nesima|Campo Comunale di Nesima]]: terreno di allenamento e di gara per quasi mezzo secolo, teatro della crescita di intere generazioni di giovani promesse.
+2. [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]]: inaugurato nel 2011, il centro sportivo di Mascalucia ha rappresentato un'eccellenza europea per strutture di medicina dello sport, foresterie e campi d'allenamento fino alla crisi del 2021.
+3. Con la rifondazione societaria del 2022 voluta da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il club ha riaperto i poli giovanili periferici e concentrato le squadre agonistiche a Nesima e Cibalino.
+* Approfondimento monografico: [[08-settori-paralleli/giovanili/talenti-e-cantera-rossazzurra|La Cantera Rossazzurra: Talenti, Bandiere e Campioni del Vivaio]].
 
 ---
 
@@ -70,12 +70,14 @@ L'evoluzione logistica del vivaio si è articolata attorno a due snodi storici:
 
 ---
 
-## 4. Collegamenti e Voci Correlate
+## 4. Dossier e Voci della Sezione
 
-* [[stadio/campo-comunale-nesima\|Il Campo Comunale di Nesima Superiore]]
-* [[stadio/torre-del-grifo\|Il Centro Sportivo Torre del Grifo Village]]
-* [[societa/personaggi/orazio-russo\|Orazio Russo: Bandiera in campo e Responsabile del Vivaio]]
-* [[women/index\|Catania Women: Il comparto femminile rossazzurro]]
+* [[08-settori-paralleli/giovanili/albo-doro-e-torneo-di-viareggio|Il Catania al Torneo di Viareggio e Albo d'Oro Giovanile]]
+* [[08-settori-paralleli/giovanili/talenti-e-cantera-rossazzurra|La Cantera Rossazzurra: Talenti e Campioni del Vivaio]]
+* [[04-strutture/centri-sportivi/campo-comunale-nesima|Il Campo Comunale di Nesima Superiore]]
+* [[04-strutture/centri-sportivi/torre-del-grifo|Il Centro Sportivo Torre del Grifo Village]]
+* [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo: Bandiera in campo e Responsabile del Vivaio]]
+* [[08-settori-paralleli/women/index|Catania Women: Il comparto femminile rossazzurro]]
 
 ---
 

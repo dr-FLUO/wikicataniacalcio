@@ -92,6 +92,18 @@ const editorialExplorer = Component.Explorer({
         node.displayName = folderMap[seg]
       }
     } else {
+      const fileTitleMap: Record<string, string> = {
+        "lo-scudetto-1978-della-jolly-componibili": "Scudetto 1978 (Jolly)",
+        "dipartimento-catania-women": "Catania Women (Serie C)",
+        "albo-doro-e-torneo-di-viareggio": "Torneo di Viareggio",
+        "talenti-e-cantera-rossazzurra": "Cantera & Talenti",
+        "grandi-opere-e-almanacchi": "Grandi Opere & Almanacchi",
+        "saggi-e-biografie": "Saggi & Biografie",
+      }
+      if (node.slugSegment && fileTitleMap[node.slugSegment]) {
+        node.displayName = fileTitleMap[node.slugSegment]
+        return
+      }
       if (node.slug === "note-legali-privacy-accessibilita") {
         node.displayName = "Note Legali & Privacy"
         return

@@ -88,8 +88,12 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
 }
 
 export function simplifySlug(fp: FullSlug): SimpleSlug {
+  const isFolder = fp.endsWith("/index") || fp === "index"
   const res = stripSlashes(trimSuffix(fp, "index"), true)
-  return (res.length === 0 ? "/" : res) as SimpleSlug
+  if (res.length === 0) {
+    return "/" as SimpleSlug
+  }
+  return (isFolder ? `${res}/` : res) as SimpleSlug
 }
 
 export function transformInternalLink(link: string): RelativeURL {
