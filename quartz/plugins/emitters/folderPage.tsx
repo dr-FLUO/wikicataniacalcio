@@ -15,11 +15,12 @@ import {
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { FolderContent } from "../../components"
+import { FolderContent, TesseratiArchive } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
+import { getEditorialFolderInfo } from "../../util/editorialFolders"
 interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
@@ -64,18 +65,22 @@ function computeFolderInfo(
   content: ProcessedContent[],
   locale: keyof typeof TRANSLATIONS,
 ): Record<SimpleSlug, ProcessedContent> {
-  // Create default folder descriptions
+  // Create default folder descriptions using curated editorial info
   const folderInfo: Record<SimpleSlug, ProcessedContent> = Object.fromEntries(
-    [...folders].map((folder) => [
-      folder,
-      defaultProcessedContent({
-        slug: joinSegments(folder, "index") as FullSlug,
-        frontmatter: {
-          title: `${i18n(locale).pages.folderContent.folder}: ${folder}`,
-          tags: [],
-        },
-      }),
-    ]),
+    [...folders].map((folder) => {
+      const editorial = getEditorialFolderInfo(folder)
+      return [
+        folder,
+        defaultProcessedContent({
+          slug: joinSegments(folder, "index") as FullSlug,
+          frontmatter: {
+            title: editorial.title,
+            description: editorial.desc,
+            tags: [],
+          },
+        }),
+      ]
+    }),
   )
 
   // Update with actual content if available
@@ -104,6 +109,8 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
+    beforeBody: [TesseratiArchive()],
+    right: [],
     pageBody: FolderContent({ sort: userOpts?.sort }),
     ...userOpts,
   }

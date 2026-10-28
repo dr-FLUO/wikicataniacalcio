@@ -22,7 +22,7 @@ score_away: 1
 scorers:
 - minute: 54
   player: Diego Milito
-  team: Avversario
+  team: F.C. Internazionale
 - minute: 74
   player: Maxi López
   team: Catania

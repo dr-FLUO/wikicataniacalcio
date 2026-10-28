@@ -21,7 +21,7 @@ score_away: 1
 scorers:
 - minute: 18
   player: Massimo Tiribocchi
-  team: Avversario
+  team: A.C. Siena
 - minute: 34
   player: Vito Grieco
   team: Catania

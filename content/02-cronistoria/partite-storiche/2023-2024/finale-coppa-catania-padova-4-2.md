@@ -22,7 +22,7 @@ score_away: 2
 scorers:
 - minute: 3
   player: Mattia Bortolussi
-  team: Avversario
+  team: Calcio Padova
 - minute: 26
   player: Samuel Di Carmine
   team: Catania
@@ -32,7 +32,7 @@ scorers:
   team: Catania
 - minute: 73
   player: Marco Perrotta
-  team: Avversario
+  team: Calcio Padova
 - minute: 89
   player: Giuseppe Marsura
   team: Catania

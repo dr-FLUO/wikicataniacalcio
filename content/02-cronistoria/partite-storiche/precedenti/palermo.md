@@ -76,8 +76,8 @@ La 26ª giornata della Serie A 2008-2009 (domenica **1º marzo 2009**, ore 15:00
 | **3 dicembre 1961** | Serie A 1961-1962 | **Catania - Palermo** | **0-0** | Primo confronto nella massima serie a girone unico sotto la guida di [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
 | **2 febbraio 2007** | Serie A 2006-2007 | **Catania - Palermo** | **1-2** | Rete etnea di Caserta; gara segnata dai tragici scontri esterni e dal [[vicende-legali/decreto-2-febbraio-2007\|Decreto-Legge 8/2007]]. |
 | **2 dicembre 2007** | Serie A 2007-2008 | **Catania - Palermo** | **3-1** | Reti di [[tesserati/calciatori/giuseppe-mascara\|Mascara]], [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (rig.) e Jorge Martínez. |
-| **1º marzo 2009** | Serie A 2008-2009 | **[[partite/2008-2009/palermo-catania-0-4\|Palermo - Catania 0-4]]** | Ledesma, Morimoto, [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (da centrocampo) e Paolucci. |
-| **3 aprile 2011** | Serie A 2010-2011 | **[[partite/2010-2011/catania-palermo-4-0\|Catania - Palermo 4-0]]** | Aut. Balzaretti, [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]], Ledesma, Pesce (All. [[tesserati/allenatori/diego-pablo-simeone\|Diego Simeone]]). |
+| **1º marzo 2009** | Serie A 2008-2009 | **Palermo - Catania** | **0-4** | [[partite/2008-2009/palermo-catania-0-4\|Ledesma, Morimoto, Mascara (da 50m) e Paolucci]]. |
+| **3 aprile 2011** | Serie A 2010-2011 | **Catania - Palermo** | **4-0** | [[partite/2010-2011/catania-palermo-4-0\|Aut. Balzaretti, Bergessio, Ledesma, Pesce (All. Diego Simeone)]]. |
 | **18 dicembre 2011** | Serie A [[stagioni/2011-2012\|2011-2012]] | **Catania - Palermo** | **2-0** | Reti di [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] su punizione e Maxi López su rigore (All. Vincenzo Montella). |
 | **3 marzo 2021** | Serie C 2020-2021 | **Catania - Palermo** | **0-1** | e vittoria etnea all'andata a Catania nel dicembre 2021 (**2-0** con doppietta di Luca Moro prima dell'esclusione del [[stagioni/2021-2022\|2021-2022]]). |
 

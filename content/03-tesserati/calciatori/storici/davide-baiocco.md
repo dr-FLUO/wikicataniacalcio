@@ -1,13 +1,15 @@
 ---
 title: Davide Baiocco — Scheda Giocatore e Statistiche nel Calcio Catania
 description: Biografia, presenze e statistiche ufficiali di Davide Baiocco, centrocampista
-  del Calcio Catania con 122 presenze registrate in maglia rossazzurra.
+  del Calcio Catania con 129 presenze ufficiali registrate in maglia rossazzurra (122 campionato, 7 coppa).
 slug: 03-tesserati/calciatori/storici/davide-baiocco
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 122
+total_appearances: 129
+league_appearances: 122
+cup_appearances: 7
 seasons_count: 4
 tags:
 - calciatori
@@ -61,7 +63,7 @@ citizenship: Italia
 ## 1. Dati di Rendimento in Maglia Rossazzurra
 
 * **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 122
+* **Presenze Ufficiali complessive**: 129 (122 in Campionato, 7 in Coppa Italia)
 * **Stagioni disputate**: 4
 * **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
 

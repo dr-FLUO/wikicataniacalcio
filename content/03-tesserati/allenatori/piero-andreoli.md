@@ -6,10 +6,10 @@ slug: 03-tesserati/allenatori/piero-andreoli
 entity_type: allenatore
 status: verified
 last_verified_date: 2026-10-27
-birth_date: 1911-01-02
-death_date: 1960-03-26
-birth_place: Bologna, Italia
-death_place: Massa, Italia
+birth_date: 1911-11-02
+death_date: 1984-06-16
+birth_place: Verona, Italia
+death_place: Verona, Italia
 nationality: Italia
 role: Allenatore (ex Attaccante / Mezzala)
 catania_periods:

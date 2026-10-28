@@ -84,7 +84,7 @@ Il sabato **5 aprile 2003**, in occasione della 29ª giornata di Serie B che ved
 
 | Data | Organo Giudicante | Provvedimento e Motivazione Giuridica | Effetto sulla Classifica del Catania |
 | :--- | :--- | :--- | :--- |
-| **17 aprile 2003** | Reclamo LNP | Riccardo Gaucci presenta esposto ex art. 17 c. 5 C.G.S. chiedendo lo 0-2 a tavolino: l'impiego in Primavera non estingue la squalifica della prima squadra. | In attesa di giudizio (41 punti sul campo a fine torneo) |
+| **17 aprile 2003** | Reclamo LNP | Riccardo Gaucci presenta esposto ex art. 17 c. 5 C.G.S. chiedendo la vittoria per 2-0 a tavolino per il Catania: l'impiego in Primavera non estingue la squalifica della prima squadra. | In attesa di giudizio (41 punti sul campo a fine torneo) |
 | **24 aprile 2003** | Commissione Disciplinare LNP | Rigetto del reclamo catanese in primo grado e omologazione del risultato del campo (1-1). | Catania in zona retrocessione (41 pt) |
 | **28 aprile 2003** | Commissione d'Appello Federale (CAF) | Accoglimento del gravame etneo ex art. 31 Statuto FIGC; assegnazione della vittoria a tavolino per **2-0 al Catania** con decisione inappellabile di 2º grado. | **+2 punti al Catania** (43 pt, quota salvezza) |
 | **22 maggio 2003** | Corte Federale FIGC | Su ricorso del Siena avallato da 8 club cadetti (Ascoli, Bari, Cosenza, Genoa, Hellas Verona, Messina, Napoli, Venezia) ex art. 32 c. 5 Statuto FIGC, annulla il verdetto CAF per lesione dell'interesse di classifica di terzi. | **-2 punti al Catania** (ripristino 1-1; retrocessione in C1 a fine torneo con Vincenzo Guerini) |

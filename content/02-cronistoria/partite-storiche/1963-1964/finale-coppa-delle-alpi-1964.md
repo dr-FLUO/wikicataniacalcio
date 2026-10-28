@@ -22,10 +22,10 @@ score_away: 0
 scorers:
 - minute: 51
   player: Sauro Piaceri
-  team: Avversario
+  team: Genoa C.F.C.
 - minute: 80
   player: Sauro Piaceri
-  team: Avversario
+  team: Genoa C.F.C.
 tags:
 - coppa-delle-alpi-1964
 - carmelo-di-bella

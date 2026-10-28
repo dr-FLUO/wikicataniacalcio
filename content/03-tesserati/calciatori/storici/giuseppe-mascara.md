@@ -59,7 +59,7 @@ sources:
   reference: 'ID 51: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Mascara-51
 cover_image: mascara-tifosi.jpg
-cover_caption: 'Giuseppe Mascara acclamato dai tifosi: capitano, 236 presenze e 61
+cover_caption: 'Giuseppe Mascara acclamato dai tifosi: capitano, 235 presenze e 60
   reti in maglia rossazzurra.'
 cover_credit: 'Foto: Roberto Quartarone · Licenza: CC BY-SA 2.5'
 aliases:
@@ -99,7 +99,7 @@ Con il numero 7 (e in seguito anche la 10 e la fascia di capitano), Mascara inca
 
 1. **Il Gol da Centrocampo nel Derby di Palermo (1º marzo 2009):** Nella 26ª giornata della Serie A 2008-2009, allo Stadio Renzo Barbera, sul punteggio di 0-2 per il Catania di Walter Zenga (reti di Ledesma e [[tesserati/calciatori/marco-biagianti|Biagianti]]), al 44' del primo tempo Mascara raccoglie un pallone vagante a ridosso del cerchio di centrocampo (a circa 50 metri dalla porta) e lascia partire una parabola al volo di collo destro che scavalca il portiere della Nazionale Marco Amelia, insaccandosi sotto l'incrocio dei pali per lo storico **0-4 finale** nel [[partite/precedenti/palermo|Derby di Sicilia]].
 2. **La Convocazione in Nazionale A (6 giugno 2009):** Al termine della stagione 2008-2009 (chiusa con **12 reti in Serie A**), il commissario tecnico campione del mondo **Marcello Lippi** lo convoca in Nazionale maggiore: il 6 giugno 2009 a Pisa, nell'amichevole **Italia-Irlanda del Nord (3-0)**, Mascara parte titolare servendo a Giuseppe Rossi l'assist per il primo gol azzurro.
-3. **Il "Cucchiaio" all'Inter di Mourinho (12 marzo 2010):** Nella serata dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] contro la capolista [[partite/precedenti/inter|Inter]] (futura vincitrice della Champions League), con la squadra guidata da Siniša Mihajlović in vantaggio per 2-1 grazie a Maxi López, al 90' Mascara trasforma il calcio di rigore del definitivo **3-1** beffando Júlio César con un morbido *cucchiaio* centrale.
+3. **Il "Cucchiaio" all'Inter di Mourinho (12 marzo 2010):** Nella serata dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] contro la capolista [[partite/precedenti/inter|Inter]] (futura vincitrice della Champions League), con la squadra guidata da Siniša Mihajlović in vantaggio per 2-1 grazie a Maxi López, all'81' Mascara trasforma il calcio di rigore del **2-1** beffando Júlio César con un morbido *cucchiaio* centrale (il 3-1 definitivo sarà siglato da Jorge Martínez al 90').
 
 Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segnando anche una doppietta alla Roma), si trasferisce al Napoli in Serie A.
 

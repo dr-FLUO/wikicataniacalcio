@@ -1,0 +1,331 @@
+@use "../../styles/variables.scss" as *;
+
+.nfc-panoramica-container {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.nfc-panoramica-hero {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.nfc-panoramica-stripe {
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg, #d11a2a 0%, #d11a2a 50%, #004b87 50%, #004b87 100%);
+  margin-bottom: 1.25rem;
+  border-radius: 2px;
+}
+
+.nfc-panoramica-badge-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.nfc-panoramica-title {
+  font-family: "Big Shoulders Display", var(--headerFont);
+  font-size: 2.35rem;
+  line-height: 1.1;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--dark);
+  margin: 0.4rem 0 0.8rem 0;
+}
+
+.nfc-panoramica-deck {
+  font-family: "Plus Jakarta Sans", var(--bodyFont);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--gray);
+  margin: 0 0 1.2rem 0;
+}
+
+.nfc-panoramica-meta-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0.6rem 0.9rem;
+  background: rgba(0, 75, 135, 0.04);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.nfc-meta-pill-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+
+  strong {
+    color: var(--dark);
+    font-weight: 600;
+  }
+}
+
+.nfc-panoramica-intro {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px dashed var(--lightgray);
+
+  article h2 {
+    font-family: "Big Shoulders Display", var(--headerFont);
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+  }
+}
+
+.nfc-section-heading {
+  font-family: "Big Shoulders Display", var(--headerFont);
+  font-size: 1.35rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--dark);
+  border-left: 4px solid #d11a2a;
+  padding-left: 0.75rem;
+  margin: 2.25rem 0 1.25rem 0;
+}
+
+/* Griglia Sotto-Dossier */
+.nfc-subfolders-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.2rem;
+  margin-bottom: 2.5rem;
+
+  @media all and ($mobile) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.nfc-subfolder-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1.25rem;
+  text-decoration: none;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    border-color: #004b87;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 75, 135, 0.08);
+    text-decoration: none;
+  }
+}
+
+.nfc-subfolder-card__badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #004b87;
+  background: rgba(0, 75, 135, 0.08);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  align-self: flex-start;
+  margin-bottom: 0.6rem;
+}
+
+.nfc-subfolder-card__title {
+  font-family: "Big Shoulders Display", var(--headerFont);
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--dark);
+  margin: 0 0 0.4rem 0;
+  line-height: 1.2;
+}
+
+.nfc-subfolder-card__desc {
+  font-size: 0.88rem;
+  color: var(--gray);
+  line-height: 1.45;
+  flex-grow: 1;
+  margin: 0 0 1rem 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.nfc-subfolder-card__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.nfc-subfolder-card__count {
+  color: var(--gray);
+}
+
+.nfc-subfolder-card__arrow {
+  color: #004b87;
+}
+
+/* Griglia Schede Editoriali */
+.nfc-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1.35rem;
+  margin-bottom: 3rem;
+
+  @media all and ($mobile) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.nfc-editorial-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  padding: 1.35rem;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+
+  &:hover {
+    border-color: #d11a2a;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(209, 26, 42, 0.08);
+  }
+}
+
+.nfc-card__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.nfc-card__badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.22rem 0.55rem;
+  border-radius: 4px;
+  background: rgba(0, 75, 135, 0.08);
+  color: #004b87;
+
+  &.is-dirigente,
+  &.is-presidente {
+    background: rgba(0, 75, 135, 0.1);
+    color: #004b87;
+  }
+
+  &.is-partita,
+  &.is-match,
+  &.is-spareggio {
+    background: rgba(209, 26, 42, 0.1);
+    color: #d11a2a;
+  }
+
+  &.is-calciatore,
+  &.is-allenatore {
+    background: rgba(210, 153, 51, 0.12);
+    color: #a86c12;
+  }
+
+  &.is-ultras,
+  &.is-curva {
+    background: rgba(130, 20, 20, 0.1);
+    color: #821414;
+  }
+}
+
+.nfc-card__period {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--gray);
+}
+
+.nfc-card__title {
+  font-family: "Big Shoulders Display", var(--headerFont);
+  font-size: 1.35rem;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0 0 0.6rem 0;
+
+  a {
+    color: var(--dark);
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #d11a2a;
+      text-decoration: none;
+    }
+  }
+}
+
+.nfc-card__excerpt {
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--gray);
+  margin: 0 0 1.1rem 0;
+  flex-grow: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.nfc-card__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.nfc-card__tags {
+  display: flex;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.nfc-card__tag-pill {
+  font-size: 0.72rem;
+  color: var(--gray);
+  background: var(--lightgray);
+  padding: 0.15rem 0.45rem;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.nfc-card__action {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #d11a2a;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: color 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    color: #004b87;
+    transform: translateX(2px);
+    text-decoration: none;
+  }
+}
