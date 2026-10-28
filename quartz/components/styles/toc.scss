@@ -1,0 +1,73 @@
+@use "../../styles/variables.scss" as *;
+
+.toc {
+  display: flex;
+  flex-direction: column;
+  min-height: 1.4rem;
+  flex: 0 0 auto;
+  flex-shrink: 0;
+  width: 100%;
+  box-sizing: border-box;
+
+  &:has(button.toc-header.collapsed) {
+    flex: 0 0 auto;
+  }
+}
+
+button.toc-header {
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+
+  & h3 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+// Chiusura netta del contenuto quando collassato
+button.toc-header.collapsed + ul.toc-content,
+ul.toc-content.collapsed {
+  display: none !important;
+}
+
+ul.toc-content.overflow {
+  list-style: none;
+  position: relative;
+  margin: 0.5rem 0;
+  padding: 0;
+  overscroll-behavior: contain;
+
+  & > li > a {
+    color: var(--dark);
+    opacity: 0.35;
+    transition:
+      0.5s ease opacity,
+      0.3s ease color;
+    &.in-view {
+      opacity: 0.75;
+    }
+  }
+
+  @for $i from 0 through 6 {
+    & .depth-#{$i} {
+      padding-left: calc(1rem * #{$i});
+    }
+  }
+}

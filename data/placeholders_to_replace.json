@@ -1,0 +1,940 @@
+[
+  {
+    "rel_path": "allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp",
+    "filename": "carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp",
+    "full_path": "content/assets/images/allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp",
+    "filename": "cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp",
+    "full_path": "content/assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp",
+    "filename": "diego-simeone-calcio-catania-allenatore-serie-a-2011.webp",
+    "full_path": "content/assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp",
+    "filename": "domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp",
+    "full_path": "content/assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp",
+    "filename": "egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp",
+    "full_path": "content/assets/images/allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp",
+    "filename": "guido-mazzetti-calcio-catania-allenatore-anni-1970.webp",
+    "full_path": "content/assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/pasquale-marino-calcio-catania-allenatore-promozione-serie-a-2005-2007.webp",
+    "filename": "pasquale-marino-calcio-catania-allenatore-promozione-serie-a-2005-2007.webp",
+    "full_path": "content/assets/images/allenatori/pasquale-marino-calcio-catania-allenatore-promozione-serie-a-2005-2007.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp",
+    "filename": "vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp",
+    "full_path": "content/assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp",
+    "filename": "walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp",
+    "full_path": "content/assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp",
+    "filename": "aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp",
+    "full_path": "content/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp",
+    "filename": "aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp",
+    "full_path": "content/assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp",
+    "filename": "cinesinho-calcio-catania-figurina-panini-1963-1965.webp",
+    "full_path": "content/assets/images/calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/claudio-ranieri-calcio-catania-figurina-panini-1982-1983.webp",
+    "filename": "claudio-ranieri-calcio-catania-figurina-panini-1982-1983.webp",
+    "full_path": "content/assets/images/calciatori/figurine/claudio-ranieri-calcio-catania-figurina-panini-1982-1983.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp",
+    "filename": "damiano-morra-calcio-catania-figurina-panini-1975-1984.webp",
+    "full_path": "content/assets/images/calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/giancarlo-danova-calcio-catania-figurina-panini-1965-1966.webp",
+    "filename": "giancarlo-danova-calcio-catania-figurina-panini-1965-1966.webp",
+    "full_path": "content/assets/images/calciatori/figurine/giancarlo-danova-calcio-catania-figurina-panini-1965-1966.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/giorgio-mastropasqua-calcio-catania-figurina-panini-1982-1983.webp",
+    "filename": "giorgio-mastropasqua-calcio-catania-figurina-panini-1982-1983.webp",
+    "full_path": "content/assets/images/calciatori/figurine/giorgio-mastropasqua-calcio-catania-figurina-panini-1982-1983.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/giuseppe-vavassori-calcio-catania-figurina-panini-1961-1966.webp",
+    "filename": "giuseppe-vavassori-calcio-catania-figurina-panini-1961-1966.webp",
+    "full_path": "content/assets/images/calciatori/figurine/giuseppe-vavassori-calcio-catania-figurina-panini-1961-1966.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/guido-biondi-calcio-catania-figurina-panini-1975-1976.webp",
+    "filename": "guido-biondi-calcio-catania-figurina-panini-1975-1976.webp",
+    "full_path": "content/assets/images/calciatori/figurine/guido-biondi-calcio-catania-figurina-panini-1975-1976.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/horst-szymaniak-calcio-catania-figurina-panini-1961-1963.webp",
+    "filename": "horst-szymaniak-calcio-catania-figurina-panini-1961-1963.webp",
+    "full_path": "content/assets/images/calciatori/figurine/horst-szymaniak-calcio-catania-figurina-panini-1961-1963.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp",
+    "filename": "loris-boni-calcio-catania-figurina-panini-1979-1980.webp",
+    "full_path": "content/assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp",
+    "filename": "memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp",
+    "full_path": "content/assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp",
+    "filename": "nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp",
+    "full_path": "content/assets/images/calciatori/figurine/nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp",
+    "filename": "roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp",
+    "full_path": "content/assets/images/calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/foto-storiche/amedeo-biavati-calcio-catania-attaccante-passo-doppio-1935-1937.webp",
+    "filename": "amedeo-biavati-calcio-catania-attaccante-passo-doppio-1935-1937.webp",
+    "full_path": "content/assets/images/calciatori/foto-storiche/amedeo-biavati-calcio-catania-attaccante-passo-doppio-1935-1937.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/foto-storiche/formazione-ss-catania-campo-due-obelischi-1929.webp",
+    "filename": "formazione-ss-catania-campo-due-obelischi-1929.webp",
+    "full_path": "content/assets/images/calciatori/foto-storiche/formazione-ss-catania-campo-due-obelischi-1929.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp",
+    "filename": "mario-miltone-ss-catania-difensore-1934-1937.webp",
+    "full_path": "content/assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/foto-storiche/nicolo-nicolosi-calcio-catania-bomber-storico-1932-1940.webp",
+    "filename": "nicolo-nicolosi-calcio-catania-bomber-storico-1932-1940.webp",
+    "full_path": "content/assets/images/calciatori/foto-storiche/nicolo-nicolosi-calcio-catania-bomber-storico-1932-1940.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp",
+    "filename": "adriano-montalto-calcio-catania-attaccante-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp",
+    "filename": "alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp",
+    "filename": "alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp",
+    "filename": "emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp",
+    "filename": "gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp",
+    "filename": "marius-adamonis-calcio-catania-portiere-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp",
+    "filename": "roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp",
+    "filename": "stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp",
+    "full_path": "content/assets/images/calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp",
+    "filename": "maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp",
+    "full_path": "content/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp",
+    "size": [
+      600,
+      450
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp",
+    "filename": "maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp",
+    "full_path": "content/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp",
+    "size": [
+      600,
+      450
+    ],
+    "color": [
+      77,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp",
+    "filename": "maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp",
+    "full_path": "content/assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp",
+    "size": [
+      600,
+      450
+    ],
+    "color": [
+      77,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp",
+    "filename": "sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp",
+    "full_path": "content/assets/images/maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp",
+    "size": [
+      600,
+      450
+    ],
+    "color": [
+      77,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "maglie-e-simboli/sponsor/sponsor-storico-giovi-calcio-catania-anni-1990.webp",
+    "filename": "sponsor-storico-giovi-calcio-catania-anni-1990.webp",
+    "full_path": "content/assets/images/maglie-e-simboli/sponsor/sponsor-storico-giovi-calcio-catania-anni-1990.webp",
+    "size": [
+      600,
+      450
+    ],
+    "color": [
+      77,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp",
+    "filename": "espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp",
+    "full_path": "content/assets/images/media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp",
+    "size": [
+      800,
+      600
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "media-e-stampa/la-sicilia-prima-pagina-catania-in-serie-a-promozione-2006.webp",
+    "filename": "la-sicilia-prima-pagina-catania-in-serie-a-promozione-2006.webp",
+    "full_path": "content/assets/images/media-e-stampa/la-sicilia-prima-pagina-catania-in-serie-a-promozione-2006.webp",
+    "size": [
+      800,
+      600
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "media-e-stampa/la-sicilia-prima-pagina-clamoroso-al-cibali-catania-inter-1961.webp",
+    "filename": "la-sicilia-prima-pagina-clamoroso-al-cibali-catania-inter-1961.webp",
+    "full_path": "content/assets/images/media-e-stampa/la-sicilia-prima-pagina-clamoroso-al-cibali-catania-inter-1961.webp",
+    "size": [
+      800,
+      600
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/catania-giugliano-6-0-esultanza-serie-c-2026-2027.webp",
+    "filename": "catania-giugliano-6-0-esultanza-serie-c-2026-2027.webp",
+    "full_path": "content/assets/images/partite-storiche/catania-giugliano-6-0-esultanza-serie-c-2026-2027.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp",
+    "filename": "catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp",
+    "full_path": "content/assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp",
+    "filename": "catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp",
+    "full_path": "content/assets/images/partite-storiche/catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp",
+    "filename": "catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp",
+    "full_path": "content/assets/images/partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp",
+    "filename": "palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp",
+    "full_path": "content/assets/images/partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "partite-storiche/potenza-catania-2-1-azione-partita-serie-c-2026-2027.webp",
+    "filename": "potenza-catania-2-1-azione-partita-serie-c-2026-2027.webp",
+    "full_path": "content/assets/images/partite-storiche/potenza-catania-2-1-azione-partita-serie-c-2026-2027.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/angelo-massimino-calcio-catania-presidente-storico-1969-1996.webp",
+    "filename": "angelo-massimino-calcio-catania-presidente-storico-1969-1996.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/angelo-massimino-calcio-catania-presidente-storico-1969-1996.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/antonino-pulvirenti-calcio-catania-presidente-serie-a-2004-2015.webp",
+    "filename": "antonino-pulvirenti-calcio-catania-presidente-serie-a-2004-2015.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/antonino-pulvirenti-calcio-catania-presidente-serie-a-2004-2015.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/michele-finocchiaro-calcio-catania-presidente-rifondazione-1946-1948.webp",
+    "filename": "michele-finocchiaro-calcio-catania-presidente-rifondazione-1946-1948.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/michele-finocchiaro-calcio-catania-presidente-rifondazione-1946-1948.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp",
+    "filename": "pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/ross-pelligra-calcio-catania-presidente-catania-fc-2022-oggi.webp",
+    "filename": "ross-pelligra-calcio-catania-presidente-catania-fc-2022-oggi.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/ross-pelligra-calcio-catania-presidente-catania-fc-2022-oggi.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "presidenti-dirigenti/santi-maimone-calcio-catania-presidente-prima-serie-a-1953-1955.webp",
+    "filename": "santi-maimone-calcio-catania-presidente-prima-serie-a-1953-1955.webp",
+    "full_path": "content/assets/images/presidenti-dirigenti/santi-maimone-calcio-catania-presidente-prima-serie-a-1953-1955.webp",
+    "size": [
+      600,
+      798
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/classifiche-tabellini/classifica-serie-a-catania-ottavo-posto-1960-1961-calcio-catania.webp",
+    "filename": "classifica-serie-a-catania-ottavo-posto-1960-1961-calcio-catania.webp",
+    "full_path": "content/assets/images/stagioni/classifiche-tabellini/classifica-serie-a-catania-ottavo-posto-1960-1961-calcio-catania.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/classifiche-tabellini/classifica-serie-b-promozione-spareggi-roma-1982-1983-calcio-catania.webp",
+    "filename": "classifica-serie-b-promozione-spareggi-roma-1982-1983-calcio-catania.webp",
+    "full_path": "content/assets/images/stagioni/classifiche-tabellini/classifica-serie-b-promozione-spareggi-roma-1982-1983-calcio-catania.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/classifiche-tabellini/tabellino-catania-inter-2-0-clamoroso-al-cibali-1961-calcio-catania.webp",
+    "filename": "tabellino-catania-inter-2-0-clamoroso-al-cibali-1961-calcio-catania.webp",
+    "full_path": "content/assets/images/stagioni/classifiche-tabellini/tabellino-catania-inter-2-0-clamoroso-al-cibali-1961-calcio-catania.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/formazioni-storiche/formazione-calcio-catania-prima-serie-a-1953-1954.webp",
+    "filename": "formazione-calcio-catania-prima-serie-a-1953-1954.webp",
+    "full_path": "content/assets/images/stagioni/formazioni-storiche/formazione-calcio-catania-prima-serie-a-1953-1954.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/formazioni-storiche/formazione-calcio-catania-ritorno-serie-a-2005-2006.webp",
+    "filename": "formazione-calcio-catania-ritorno-serie-a-2005-2006.webp",
+    "full_path": "content/assets/images/stagioni/formazioni-storiche/formazione-calcio-catania-ritorno-serie-a-2005-2006.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "stagioni/formazioni-storiche/formazione-calcio-catania-spareggi-roma-serie-b-1982-1983.webp",
+    "filename": "formazione-calcio-catania-spareggi-roma-serie-b-1982-1983.webp",
+    "full_path": "content/assets/images/stagioni/formazioni-storiche/formazione-calcio-catania-spareggi-roma-serie-b-1982-1983.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "strutture-e-stadi/campo-comunale-nesima-calcio-catania-settore-giovanile.webp",
+    "filename": "campo-comunale-nesima-calcio-catania-settore-giovanile.webp",
+    "full_path": "content/assets/images/strutture-e-stadi/campo-comunale-nesima-calcio-catania-settore-giovanile.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "strutture-e-stadi/campo-piazza-esposizione-calcio-catania-storico-1930.webp",
+    "filename": "campo-piazza-esposizione-calcio-catania-storico-1930.webp",
+    "full_path": "content/assets/images/strutture-e-stadi/campo-piazza-esposizione-calcio-catania-storico-1930.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp",
+    "filename": "centro-sportivo-torre-del-grifo-village-calcio-catania.webp",
+    "full_path": "content/assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "strutture-e-stadi/stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp",
+    "filename": "stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp",
+    "full_path": "content/assets/images/strutture-e-stadi/stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "tifoseria-e-curva/curva-nord-catania-striscione-falange-dassalto-1979.webp",
+    "filename": "curva-nord-catania-striscione-falange-dassalto-1979.webp",
+    "full_path": "content/assets/images/tifoseria-e-curva/curva-nord-catania-striscione-falange-dassalto-1979.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  },
+  {
+    "rel_path": "tifoseria-e-curva/trasferta-roma-olimpico-calcio-catania-40000-tifosi-spareggi-1982-1983.webp",
+    "filename": "trasferta-roma-olimpico-calcio-catania-40000-tifosi-spareggi-1982-1983.webp",
+    "full_path": "content/assets/images/tifoseria-e-curva/trasferta-roma-olimpico-calcio-catania-40000-tifosi-spareggi-1982-1983.webp",
+    "size": [
+      1200,
+      900
+    ],
+    "color": [
+      79,
+      17,
+      35
+    ]
+  }
+]

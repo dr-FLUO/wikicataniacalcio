@@ -1,0 +1,962 @@
+[
+  {
+    "season_label": "1929-1930",
+    "wiki_title": "Società Sportiva Catania 1929-1930",
+    "allenatore": "{{Bandiera|Italia}} [[Giorgio Armari]]",
+    "presidente": "{{Bandiera|Italia}} [[Santi Quasimodo]]",
+    "campionato": "[[Seconda Divisione 1929-1930|Seconda Divisione]]",
+    "posizione": "9°",
+    "immagini": 20,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1930-1931",
+    "wiki_title": "Società Sportiva Catania 1930-1931",
+    "allenatore": "{{Bandiera|HUN 1918-1940}} [[Antal Mally]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} avv. Andrea Gaudioso",
+    "campionato": "[[Prima Divisione 1930-1931|Prima Divisione]]",
+    "posizione": "6º posto nel girone E.",
+    "immagini": 23,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1931-1932",
+    "wiki_title": "Società Sportiva Catania 1931-1932",
+    "allenatore": "{{Bandiera|Italia}} [[Nicola Papa]]",
+    "presidente": "{{Bandiera|Italia}} [[Vespasiano Trigona|Vespasiano Trigona di Misterbianco]]",
+    "campionato": "[[Prima Divisione 1931-1932|Prima Divisione]]",
+    "posizione": "6°",
+    "immagini": 22,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1932-1933",
+    "wiki_title": "Società Sportiva Catania 1932-1933",
+    "allenatore": "{{Bandiera|HUN 1918-1940}} [[Lajos Czeizler]], poi<br>{{Bandiera|ITA 1861-1946|Italia}} [[Giorgio Armari]]",
+    "presidente": "{{Bandiera|ITA 1861-1946|Italia}} [[Vespasiano Trigona|Vespasiano Trigona di Misterbianco]]",
+    "campionato": "[[Prima Divisione 1932-1933|Prima Divisione]]",
+    "posizione": "4º posto nel girone I.",
+    "immagini": 21,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1933-1934",
+    "wiki_title": "Società Sportiva Catania 1933-1934",
+    "allenatore": "{{Bandiera|HUN 1918-1940}} [[Géza Kertész]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Vespasiano Trigona|Vespasiano Trigona di Misterbianco]]",
+    "campionato": "[[Prima Divisione 1933-1934|Prima Divisione]]",
+    "posizione": "1° (Promossa in Serie B)",
+    "immagini": 28,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1934-1935",
+    "wiki_title": "Società Sportiva Catania 1934-1935",
+    "allenatore": "{{Bandiera|HUN 1918-1940}} [[Géza Kertész]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Vespasiano Trigona|Vespasiano Trigona di Misterbianco]]",
+    "campionato": "[[Serie B 1934-1935#Girone A|Serie B]]",
+    "posizione": "3º posto nel girone A.",
+    "immagini": 28,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1935-1936",
+    "wiki_title": "Società Sportiva Catania 1935-1936",
+    "allenatore": "{{Bandiera|HUN 1918-1940}} [[Géza Kertész]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Vespasiano Trigona|Vespasiano Trigona di Misterbianco]]",
+    "campionato": "[[Serie B 1935-1936|Serie B]]",
+    "posizione": "8º posto",
+    "immagini": 35,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1936-1937",
+    "wiki_title": "Associazione Fascista Calcio Catania 1936-1937",
+    "allenatore": "{{Bandiera|ITA}} [[Pietro Colombati]]",
+    "presidente": "{{Bandiera|ITA}} [[Vittorio Emanuele Brusca]]",
+    "campionato": "[[Serie B 1936-1937]]",
+    "posizione": "13º posto (retrocesso dopo spareggio)",
+    "immagini": 31,
+    "fonti_esterne": 13
+  },
+  {
+    "season_label": "1937-1938",
+    "wiki_title": "Associazione Fascista Calcio Catania 1937-1938",
+    "allenatore": "{{Bandiera|ITA}} [[Pietro Colombati]], poi<br/>{{Bandiera|ITA}} [[Giovanni Degni]]",
+    "presidente": "{{Bandiera|ITA}} [[Vittorio Emanuele Brusca]]",
+    "campionato": "[[Serie C 1937-1938|Serie C]]",
+    "posizione": "4°",
+    "immagini": 25,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1938-1939",
+    "wiki_title": "Associazione Fascista Calcio Catania 1938-1939",
+    "allenatore": "{{Bandiera|ITA 1861-1946}} [[Giovanni Degni]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Vittorio Emanuele Brusca]]",
+    "campionato": "[[Serie C 1938-1939|Serie C]]",
+    "posizione": "1º (promosso in Serie B).",
+    "immagini": 25,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1939-1940",
+    "wiki_title": "Associazione Fascista Calcio Catania 1939-1940",
+    "allenatore": "{{Bandiera|ITA 1861-1946}} [[Mario Sernagiotto]], <small>poi</small><br />{{Bandiera|HUN 1918-1940}} [[György Orth]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Vittorio Emanuele Brusca]]",
+    "campionato": "[[Serie B 1939-1940|Serie B]]",
+    "posizione": "18º posto.",
+    "immagini": 41,
+    "fonti_esterne": 6
+  },
+  {
+    "season_label": "1940-1941",
+    "wiki_title": "Associazione Fascista Calcio Catania 1940-1941",
+    "allenatore": "{{Bandiera|HUN 1940-1945}} Ernst Guzsik",
+    "presidente": "{{Bandiera|ITA 1861-1946}} [[Ruggero Albanese]] (reggente), poi<br />{{Bandiera|ITA 1861-1946}} Cav. Filippo Cusmano",
+    "campionato": "[[Serie C 1940-1941#Girone H|Serie C]]",
+    "posizione": "6º posto nel girone H.<ref>Per peggiore quoziente reti nei confronti del Brindisi.</ref>",
+    "immagini": 23,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1941-1942",
+    "wiki_title": "Associazione Fascista Calcio Catania 1941-1942",
+    "allenatore": "{{Bandiera|HUN 1940-1945}} [[Géza Kertész]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} Ottavio Teghini",
+    "campionato": "[[Serie C 1941-1942#Girone H|Serie C]]",
+    "posizione": "6º posto nel girone H.",
+    "immagini": 24,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1942-1943",
+    "wiki_title": "Associazione Fascista Calcio Catania 1942-1943",
+    "allenatore": "{{Bandiera|ITA 1861-1946}} [[Berardo Frisoni]]",
+    "presidente": "{{Bandiera|ITA 1861-1946}} Ottavio Teghini",
+    "campionato": "[[Serie C 1942-1943#Girone H|Serie C]]",
+    "posizione": "1º posto nel girone N. Escluso dal girone B delle finali.",
+    "immagini": 20,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1945-1946",
+    "wiki_title": "Unione Sportiva Catanese-Elefante 1945-1946",
+    "allenatore": "",
+    "presidente": "{{ITA}} [[Santi Manganaro Passanisi]]",
+    "campionato": "[[Serie C 1945-1946#Girone F|Serie C]]",
+    "posizione": "11º posto",
+    "immagini": 20,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1946-1947",
+    "wiki_title": "Club Calcio Catania 1946-1947",
+    "allenatore": "{{Bandiera|ITA}} Lorenzo Bergia, poi<br/>{{Bandiera|ITA}} [[Cesare Goffi]]",
+    "presidente": "{{Bandiera|ITA}} [[Santi Manganaro-Passanisi]]",
+    "campionato": "[[Serie C 1946-1947|Serie C]]",
+    "posizione": "6°",
+    "immagini": 18,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1947-1948",
+    "wiki_title": "Club Calcio Catania 1947-1948",
+    "allenatore": "{{Bandiera|ITA}} [[Achille Piccini]], poi<br/>{{Bandiera|ITA}} [[Nicolò Nicolosi (calciatore)|Nicolò Nicolosi]]",
+    "presidente": "{{Bandiera|ITA}} [[Santi Manganaro-Passanisi]]",
+    "campionato": "[[Serie C 1947-1948|Serie C]]",
+    "posizione": "1°",
+    "immagini": 25,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1948-1949",
+    "wiki_title": "Club Calcio Catania 1948-1949",
+    "allenatore": "{{Bandiera|ITA}} [[Giovanni Degni]],<br/>in seguito dalla nona giornata<br/>{{Bandiera|HUN}} [[József Bánás]]",
+    "presidente": "{{Bandiera|ITA}} Ing. Giuseppe Barreca",
+    "campionato": "[[Serie C 1948-1949|Serie C]]",
+    "posizione": "1° (promosso in Serie B)",
+    "immagini": 27,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1949-1950",
+    "wiki_title": "Club Calcio Catania 1949-1950",
+    "allenatore": "{{Bandiera|ITA}} [[Mario Magnozzi]] poi dalla 16ª {{Bandiera|HUN}} [[Stanislao Klein]]",
+    "presidente": "{{Bandiera|ITA}} Lorenzo Fazio",
+    "campionato": "[[Serie B 1949-1950|Serie B]]",
+    "posizione": "12º",
+    "immagini": 32,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1950-1951",
+    "wiki_title": "Club Calcio Catania 1950-1951",
+    "allenatore": "{{Bandiera|HUN}} [[Lajos Politzer]]",
+    "presidente": "{{Bandiera|ITA}} Lorenzo Fazio",
+    "campionato": "[[Serie B 1950-1951|Serie B]]",
+    "posizione": "6º posto.",
+    "immagini": 32,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1951-1952",
+    "wiki_title": "Club Calcio Catania 1951-1952",
+    "allenatore": "{{Bandiera|ITA}} [[Nereo Marini]], poi [[Rodolfo Brondi]], poi [[Fioravante Baldi]]",
+    "presidente": "{{Bandiera|ITA}} Arturo Michisanti",
+    "campionato": "[[Serie B 1951-1952|Serie B]]",
+    "posizione": "4º posto",
+    "immagini": 31,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1952-1953",
+    "wiki_title": "Club Calcio Catania 1952-1953",
+    "allenatore": "{{Bandiera|ITA}} [[Giulio Cappelli]], poi {{Bandiera|ITA}} [[Fioravante Baldi]]",
+    "presidente": "{{Bandiera|ITA}} Arturo Michisanti",
+    "campionato": "[[Serie B 1952-1953|Serie B]]",
+    "posizione": "3º posto",
+    "immagini": 29,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1953-1954",
+    "wiki_title": "Club Calcio Catania 1953-1954",
+    "allenatore": "{{Bandiera|ITA}} [[Piero Andreoli]]",
+    "presidente": "{{Bandiera|ITA}} Giuseppe Rizzo",
+    "campionato": "[[Serie B 1953-1954|Serie B]]",
+    "posizione": "1º posto, promosso",
+    "immagini": 48,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "1954-1955",
+    "wiki_title": "Club Calcio Catania 1954-1955",
+    "allenatore": "{{Bandiera|ITA}} [[Piero Andreoli]]",
+    "presidente": "{{Bandiera|ITA}} [[Giuseppe Rizzo]]",
+    "campionato": "[[Serie A 1954-1955|Serie A]]",
+    "posizione": "12º posto (retrocesso d'ufficio)",
+    "immagini": 30,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1955-1956",
+    "wiki_title": "Club Calcio Catania 1955-1956",
+    "allenatore": "{{Bandiera|ITA}} [[Piero Andreoli]], <small>poi </small><br />{{Bandiera|ITA}} [[Enzo Bellini (calciatore)|Enzo Bellini]]",
+    "presidente": "{{Bandiera|ITA}} Agatino Pesce",
+    "campionato": "[[Serie B 1955-1956|Serie B]]",
+    "posizione": "5º posto",
+    "immagini": 49,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1956-1957",
+    "wiki_title": "Club Calcio Catania 1956-1957",
+    "allenatore": "{{Bandiera|ITA}} [[Gipo Poggi]]",
+    "presidente": "{{Bandiera|ITA}} Agatino Pesce",
+    "campionato": "[[Serie B 1956-1957|Serie B]]",
+    "posizione": "4º posto",
+    "immagini": 51,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1957-1958",
+    "wiki_title": "Club Calcio Catania 1957-1958",
+    "allenatore": "{{Bandiera|ITA}} [[Gipo Poggi|Gipo Poggi (II)]] <small>(1ª-11ª)</small><br />{{Bandiera|ITA}} [[Riccardo Carapellese]] <small>(12ª-14ª)</small><br />{{Bandiera|ITA}} [[Nicolò Nicolosi (calciatore)|Nicolò Nicolosi]] <small>(15ª-16ª)</small><br />{{Bandiera|ITA}} [[Francesco Capocasale]] <small>(17ª-34ª)</small>",
+    "presidente": "{{Bandiera|ITA}} Agatino Pesce",
+    "campionato": "[[Serie B 1957-1958|Serie B]]",
+    "posizione": "11º posto",
+    "immagini": 28,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1958-1959",
+    "wiki_title": "Club Calcio Catania 1958-1959",
+    "allenatore": "{{Bandiera|YUG 1943-1992}} [[Blagoje Marjanović]] <small>(1ª-13ª)</small><br />{{Bandiera|ITA}} [[Carmelo Di Bella]] <small>(14ª-17ª)</small><br />{{Bandiera|ITA}} [[Carmelo Di Bella]] & {{Bandiera|ITA}} [[Felice Borel|Felice Borel (II)]] (D.T.) <small>(18ª-38ª)</small>",
+    "presidente": "{{Bandiera|ITA}} Arturo Michisanti fino a marzo, poi Ignazio Marcoccio",
+    "campionato": "[[Serie B 1958-1959|Serie B]]",
+    "posizione": "16º posto",
+    "immagini": 33,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1959-1960",
+    "wiki_title": "Club Calcio Catania 1959-1960",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie B 1959-1960|Serie B]]",
+    "posizione": "3º posto. Promossa in Serie A.",
+    "immagini": 30,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1960-1961",
+    "wiki_title": "Club Calcio Catania 1960-1961",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A 1960-1961|Serie A]]",
+    "posizione": "8º posto",
+    "immagini": 40,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1961-1962",
+    "wiki_title": "Club Calcio Catania 1961-1962",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A 1961-1962|Serie A]]",
+    "posizione": "10°",
+    "immagini": 44,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "1962-1963",
+    "wiki_title": "Club Calcio Catania 1962-1963",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A]]",
+    "posizione": "11°",
+    "immagini": 44,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "1963-1964",
+    "wiki_title": "Club Calcio Catania 1963-1964",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A 1963-1964|Serie A]]",
+    "posizione": "8°",
+    "immagini": 48,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1964-1965",
+    "wiki_title": "Club Calcio Catania 1964-1965",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A]]",
+    "posizione": "8°",
+    "immagini": 33,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "1965-1966",
+    "wiki_title": "Club Calcio Catania 1965-1966",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]<small>(fino alla 16ª)</small><br />{{Bandiera|ITA}} [[Luigi Valsecchi (allenatore di calcio)|Luigi Valsecchi]] <small>(dalla 16ª in poi)</small>",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie A 1965-1966|Serie A]]",
+    "posizione": "17° (retrocesso in Serie B)",
+    "immagini": 36,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "1966-1967",
+    "wiki_title": "Club Calcio Catania 1966-1967",
+    "allenatore": "{{Bandiera|ITA}} [[Dino Ballacci]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio (Commissario Straordinario)",
+    "campionato": "[[Serie B 1966-1967|Serie B]]",
+    "posizione": "3º posto",
+    "immagini": 33,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1967-1968",
+    "wiki_title": "Calcio Catania 1967-1968",
+    "allenatore": "{{Bandiera|ITA}} [[Dino Ballacci]]<br />{{Bandiera|ITA}} [[Luigi Valsecchi (allenatore di calcio)|Luigi Valsecchi]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie B 1967-1968|Serie B]]",
+    "posizione": "10º posto",
+    "immagini": 31,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1968-1969",
+    "wiki_title": "Calcio Catania 1968-1969",
+    "allenatore": "{{Bandiera|ITA}} [[Egizio Rubino]]",
+    "presidente": "{{Bandiera|ITA}} Ignazio Marcoccio",
+    "campionato": "[[Serie B 1968-1969|Serie B]]",
+    "posizione": "15º posto",
+    "immagini": 31,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1969-1970",
+    "wiki_title": "Calcio Catania 1969-1970",
+    "allenatore": "{{Bandiera|ITA}} [[Egizio Rubino]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1969-1970|Serie B]]",
+    "posizione": "3º posto. Promosso in Serie A.",
+    "immagini": 32,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1970-1971",
+    "wiki_title": "Calcio Catania 1970-1971",
+    "allenatore": "{{Bandiera|ITA}} [[Egizio Rubino]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie A 1970-1971|Serie A]]",
+    "posizione": "16° (retrocessa in Serie B)",
+    "immagini": 33,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1971-1972",
+    "wiki_title": "Calcio Catania 1971-1972",
+    "allenatore": "{{Bandiera|ITA}} [[Luigi Valsecchi (allenatore di calcio)|Luigi Valsecchi]] e<br />{{Bandiera|ARG}} [[Salvador Calvanese]], poi<br />{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1971-1972|Serie B]]",
+    "posizione": "8º posto",
+    "immagini": 32,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1972-1973",
+    "wiki_title": "Calcio Catania 1972-1973",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1972-1973|Serie B]]",
+    "posizione": "5º",
+    "immagini": 32,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1973-1974",
+    "wiki_title": "Calcio Catania 1973-1974",
+    "allenatore": "{{Bandiera|ITA}} [[Guido Mazzetti]] (1ª-22ª)<br />{{Bandiera|ITA}} [[Luigi Valsecchi (allenatore di calcio)|Luigi Valsecchi]] (23ª-27ª)<br />{{Bandiera|ITA}} [[Adelmo Prenna]] (28ª-38ª)",
+    "presidente": "{{Bandiera|ITA}} Salvatore Coco",
+    "campionato": "[[Serie B 1973-1974|Serie B]]",
+    "posizione": "20º (retrocesso in Serie C)",
+    "immagini": 34,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1974-1975",
+    "wiki_title": "Calcio Catania 1974-1975",
+    "allenatore": "{{Bandiera|ITA}} [[Gennaro Rambone]], poi<br />{{Bandiera|ITA}} [[Egizio Rubino]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C 1974-1975|Serie C]]",
+    "posizione": "1º nel girone C (promosso in Serie B)",
+    "immagini": 30,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1975-1976",
+    "wiki_title": "Calcio Catania 1975-1976",
+    "allenatore": "{{Bandiera|ITA}} [[Egizio Rubino]] <small>(1ª-25ª)</small><br />{{Bandiera|ITA}} [[Guido Mazzetti]] <small>(26ª-38ª)</small>",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1975-1976|Serie B]]",
+    "posizione": "16º posto",
+    "immagini": 35,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1976-1977",
+    "wiki_title": "Calcio Catania 1976-1977",
+    "allenatore": "{{Bandiera|ITA}} [[Carmelo Di Bella]], poi<br/>{{Bandiera|ITA}} [[Luigi Valsecchi (allenatore di calcio)|Luigi Valsecchi]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1976-1977|Serie B]]",
+    "posizione": "18º (retrocesso in Serie C)",
+    "immagini": 34,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1977-1978",
+    "wiki_title": "Calcio Catania 1977-1978",
+    "allenatore": "{{Bandiera|ITA}} [[Carlo Matteucci (calciatore)|Carlo Matteucci]], poi<br />{{Bandiera|ITA}} [[Guido Mazzetti]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C 1977-1978|Serie C]]",
+    "posizione": "2º posto, girone C",
+    "immagini": 29,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1978-1979",
+    "wiki_title": "Calcio Catania 1978-1979",
+    "allenatore": "{{Bandiera|ITA}} [[Adelmo Capelli]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C1 1978-1979|Serie C1]]",
+    "posizione": "3°",
+    "immagini": 26,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1979-1980",
+    "wiki_title": "Calcio Catania 1979-1980",
+    "allenatore": "{{Bandiera|ITA}} [[Gennaro Rambone]], poi<br />{{Bandiera|ITA}} [[Lino De Petrillo]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C1 1979-1980|Serie C1]]",
+    "posizione": "1º posto (promosso in Serie B)",
+    "immagini": 27,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1980-1981",
+    "wiki_title": "Calcio Catania 1980-1981",
+    "allenatore": "{{Bandiera|ITA}} [[Lino De Petrillo]], poi<br/>{{Bandiera|ITA}} [[Guido Mazzetti]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1980-1981|Serie B]]",
+    "posizione": "13º",
+    "immagini": 34,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1981-1982",
+    "wiki_title": "Calcio Catania 1981-1982",
+    "allenatore": "{{Bandiera|ITA}} [[Giorgio Michelotti]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1981-1982|Serie B]]",
+    "posizione": "8º",
+    "immagini": 34,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1982-1983",
+    "wiki_title": "Calcio Catania 1982-1983",
+    "allenatore": "{{Bandiera|ITA}} [[Gianni Di Marzio]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1982-1983|Serie B]]",
+    "posizione": "3º (promosso in Serie A)",
+    "immagini": 74,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1983-1984",
+    "wiki_title": "Calcio Catania 1983-1984",
+    "allenatore": "{{Bandiera|ITA}} [[Gianni Di Marzio]], poi dal 13 dicembre 1983 <br />{{Bandiera|ITA}} [[Giovan Battista Fabbri (allenatore di calcio)|Giovan Battista Fabbri]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie A 1983-1984|Serie A]]",
+    "posizione": "16º (retrocesso in Serie B)",
+    "immagini": 46,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1984-1985",
+    "wiki_title": "Calcio Catania 1984-1985",
+    "allenatore": "{{Bandiera|ITA}} [[Antonio Renna]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1984-1985|Serie B]]",
+    "posizione": "14º",
+    "immagini": 50,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1985-1986",
+    "wiki_title": "Calcio Catania 1985-1986",
+    "allenatore": "{{Bandiera|ITA}} [[Gennaro Rambone]] <small>(1ª-14ª)</small><br/>{{Bandiera|ITA}} [[Salvatore Bianchetti]] <small>(15ª-19ª)</small><br/>{{Bandiera|ITA}} [[Antonio Colomban]] <small>(20ª-30ª)</small>",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1985-1986|Serie B]]",
+    "posizione": "11º posto",
+    "immagini": 50,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1986-1987",
+    "wiki_title": "Calcio Catania 1986-1987",
+    "allenatore": "{{Bandiera|ITA}} [[Gennaro Rambone]], poi <br/>{{Bandiera|ITA}} [[Bruno Pace]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie B 1986-1987|Serie B]]",
+    "posizione": "19º posto (retrocesso in [[Serie C1]]).",
+    "immagini": 48,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1987-1988",
+    "wiki_title": "Calcio Catania 1987-1988",
+    "allenatore": "{{Bandiera|ITA}} [[Osvaldo Jaconi]] poi<br />{{Bandiera|ITA}} [[pietro Santin]] poi<br />{{Bandiera|ITA}} [[Bruno Pace]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Attaguile]]",
+    "campionato": "[[Serie C1 1987-1988|Serie C1]]",
+    "posizione": "15º nel girone B",
+    "immagini": 30,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1988-1989",
+    "wiki_title": "Calcio Catania 1988-1989",
+    "allenatore": "{{Bandiera|ITA}} [[Bruno Pace]] <small>(1ª-12ª)</small>, poi<br/>{{Bandiera|ITA}} Carmelo Russo <small>(13ª-34ª)</small>",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Attaguile]]",
+    "campionato": "[[Serie C1 1988-1989|Serie C1]]",
+    "posizione": "10º posto",
+    "immagini": 29,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1989-1990",
+    "wiki_title": "Calcio Catania 1989-1990",
+    "allenatore": "{{Bandiera|ITA}} Carmelo Russo, poi<br/>{{Bandiera|ITA}} [[Angelo Sormani]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Attaguile]]",
+    "campionato": "[[Serie C1 1989-1990|Serie C1]]",
+    "posizione": "6º",
+    "immagini": 29,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1990-1991",
+    "wiki_title": "Calcio Catania 1990-1991",
+    "allenatore": "{{Bandiera|BRA}} [[Angelo Sormani]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Attaguile]]",
+    "campionato": "[[Serie C1 1990-1991|Serie C1 - gir. B]]",
+    "posizione": "11°",
+    "immagini": 26,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1991-1992",
+    "wiki_title": "Calcio Catania 1991-1992",
+    "allenatore": "{{Bandiera|ITA}} [[Giuseppe Caramanno]]",
+    "presidente": "{{Bandiera|ITA}} [[Salvatore Massimino]]",
+    "campionato": "[[Serie C1]]",
+    "posizione": "6°",
+    "immagini": 24,
+    "fonti_esterne": 0
+  },
+  {
+    "season_label": "1992-1993",
+    "wiki_title": "Calcio Catania 1992-1993",
+    "allenatore": "{{Bandiera|ITA}} [[Salvatore Bianchetti]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C1 1992-1993|Serie C1 - gir. B]]",
+    "posizione": "8º posto",
+    "immagini": 28,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1993-1994",
+    "wiki_title": "Calcio Catania 1993-1994",
+    "allenatore": "{{Bandiera|ITA}} [[Franco Indelicato]], poi<br />{{Bandiera|ITA}} [[Lorenzo Barlassina]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Eccellenza Sicilia 1993-1994|Eccellenza]]",
+    "posizione": "3º posto (promosso in [[Campionato Nazionale Dilettanti 1994-1995|CND 1994-1995]].",
+    "immagini": 24,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1994-1995",
+    "wiki_title": "Calcio Catania 1994-1995",
+    "allenatore": "{{Bandiera|ITA}} [[Pier Giuseppe Mosti]]<br />poi {{Bandiera|ITA}} Angelo Busetta",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Campionato Nazionale Dilettanti 1994-1995#Girone I|C.N.D.]]",
+    "posizione": "1º posto nel girone I, promosso in [[Serie C2 1995-1996|Serie C2]].",
+    "immagini": 31,
+    "fonti_esterne": 3
+  },
+  {
+    "season_label": "1995-1996",
+    "wiki_title": "Calcio Catania 1995-1996",
+    "allenatore": "{{Bandiera|ITA}} [[Mario Russo (calciatore)|Mario Russo]]",
+    "presidente": "{{Bandiera|ITA}} [[Angelo Massimino]]",
+    "campionato": "[[Serie C2 1995-1996|Serie C2]]",
+    "posizione": "8º posto",
+    "immagini": 27,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1996-1997",
+    "wiki_title": "Calcio Catania 1996-1997",
+    "allenatore": "{{Bandiera|ITA}} Angelo Busetta poi<br/> {{Bandiera|ITA}} [[Giovanni Mei]]",
+    "presidente": "{{Bandiera|ITA}} Grazia Codiglione",
+    "campionato": "[[Serie C2]]",
+    "posizione": "4º posto",
+    "immagini": 27,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1997-1998",
+    "wiki_title": "Calcio Catania 1997-1998",
+    "allenatore": "{{Bandiera|ITA}} [[Giovanni Mei]] poi<br/>{{Bandiera|ITA}} [[Franco Gagliardi]]",
+    "presidente": "{{Bandiera|ITA}} Grazia Codiglione",
+    "campionato": "[[Serie C2 1997-1998|Serie C2, Girone C]]",
+    "posizione": "10º",
+    "immagini": 27,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1998-1999",
+    "wiki_title": "Calcio Catania 1998-1999",
+    "allenatore": "{{Bandiera|ITA}} [[Piero Cucchi]]",
+    "presidente": "{{Bandiera|ITA}} Grazia Codiglione",
+    "campionato": "[[Serie C2 1998-1999|Serie C2]]",
+    "posizione": "'''1º''' ''(in Serie C1)''",
+    "immagini": 32,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "1999-2000",
+    "wiki_title": "Calcio Catania 1999-2000",
+    "allenatore": "{{Bandiera|ITA}} [[Giovanni Simonelli (allenatore)|Giovanni Simonelli]]",
+    "presidente": "{{Bandiera|ITA}} Grazia Codiglione",
+    "campionato": "[[Serie C1 1999-2000|Serie C1 - gir. B]]",
+    "posizione": "7º posto",
+    "immagini": 29,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "2000-2001",
+    "wiki_title": "Calcio Catania 2000-2001",
+    "allenatore": "{{Bandiera|ITA}} [[Ivo Iaconi]] a seguire {{Bandiera|ITA}} [[Vincenzo Guerini]] a seguire {{Bandiera|ITA}} [[Ivo Iaconi]] a seguire {{Bandiera|ITA}} [[Vincenzo Guerini]]",
+    "presidente": "{{Bandiera|ITA}} Riccardo Gaucci",
+    "campionato": "[[Serie C1 2000-2001|Serie C1]]",
+    "posizione": "3°",
+    "immagini": 41,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "2001-2002",
+    "wiki_title": "Calcio Catania 2001-2002",
+    "allenatore": "{{Bandiera|ITA}} [[Aldo Ammazzalorso]] poi<br/>{{Bandiera|ITA}} [[Pietro Vierchowod]] poi<br/>{{Bandiera|ITA}} [[Francesco Graziani]]",
+    "presidente": "{{Bandiera|ITA}} Riccardo Gaucci",
+    "campionato": "[[Serie C1 2001-2002|Serie C1]]",
+    "posizione": "3° (vince playoff e sale in B)",
+    "immagini": 32,
+    "fonti_esterne": 1
+  },
+  {
+    "season_label": "2002-2003",
+    "wiki_title": "Calcio Catania 2002-2003",
+    "allenatore": "{{Bandiera|ITA}} [[Francesco Graziani]] & {{Bandiera|ITA}} [[Maurizio Pellegrino]] (1ª)<br />{{Bandiera|WAL}} [[John Toshack]] (2ª)<br />{{Bandiera|ITA}} [[Francesco Graziani]] & {{Bandiera|ITA}} [[Maurizio Pellegrino]] (3ª-10ª)<br />{{Bandiera|ITA}} [[Francesco Graziani]] (11ª)<br />{{Bandiera|WAL}} [[John Toshack]] (12ª-20ª)<br />{{Bandiera|ITA}} [[Edoardo Reja]] (21ª-29ª)<br />{{Bandiera|ITA}} [[Vincenzo Guerini]] (30ª-38ª)",
+    "presidente": "{{Bandiera|ITA}} Riccardo Gaucci",
+    "campionato": "[[Serie B 2002-2003|Serie B]]",
+    "posizione": "17º posto",
+    "immagini": 36,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "2003-2004",
+    "wiki_title": "Calcio Catania 2003-2004",
+    "allenatore": "{{Bandiera|ITA}} [[Gabriele Matricciani]]",
+    "presidente": "{{Bandiera|ITA}} [[Riccardo Gaucci]]",
+    "campionato": "[[Serie B]]",
+    "posizione": "9º posto",
+    "immagini": 43,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "2004-2005",
+    "wiki_title": "Calcio Catania 2004-2005",
+    "allenatore": "{{Bandiera|ITA}} [[Maurizio Costantini]] dalla 12ª {{Bandiera|ITA}} [[Nedo Sonetti]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie B]]",
+    "posizione": "12º posto",
+    "immagini": 38,
+    "fonti_esterne": 5
+  },
+  {
+    "season_label": "2005-2006",
+    "wiki_title": "Calcio Catania 2005-2006",
+    "allenatore": "{{Bandiera|ITA}} [[Pasquale Marino]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie B 2005-2006|Serie B]]",
+    "posizione": "2º posto (promosso in Serie A)",
+    "immagini": 38,
+    "fonti_esterne": 2
+  },
+  {
+    "season_label": "2006-2007",
+    "wiki_title": "Calcio Catania 2006-2007",
+    "allenatore": "{{Bandiera|ITA}} [[Pasquale Marino]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A]]",
+    "posizione": "13º posto",
+    "immagini": 38,
+    "fonti_esterne": 53
+  },
+  {
+    "season_label": "2007-2008",
+    "wiki_title": "Calcio Catania 2007-2008",
+    "allenatore": "{{Bandiera|Italia}} [[Silvio Baldini]], poi<br/> {{Bandiera|Italia}} [[Walter Zenga]]",
+    "presidente": "{{Bandiera|Italia}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2007-2008|Serie A]]",
+    "posizione": "17º posto",
+    "immagini": 37,
+    "fonti_esterne": 61
+  },
+  {
+    "season_label": "2008-2009",
+    "wiki_title": "Calcio Catania 2008-2009",
+    "allenatore": "{{Bandiera|ITA}} [[Walter Zenga]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2008-2009|Serie A]]",
+    "posizione": "15º posto",
+    "immagini": 53,
+    "fonti_esterne": 72
+  },
+  {
+    "season_label": "2009-2010",
+    "wiki_title": "Calcio Catania 2009-2010",
+    "allenatore": "{{Bandiera|ITA}} [[Gianluca Atzori]] <small>(fino al 7/12/2009)</small><br />{{Bandiera|SRB}} [[Siniša Mihajlović]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2009-2010|Serie A]]",
+    "posizione": "13º posto",
+    "immagini": 53,
+    "fonti_esterne": 81
+  },
+  {
+    "season_label": "2010-2011",
+    "wiki_title": "Calcio Catania 2010-2011",
+    "allenatore": "{{Bandiera|ITA}} [[Marco Giampaolo]] <small>(fino al 19/01/2011)</small><br/>{{Bandiera|ARG}} [[Diego Simeone]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2010-2011|Serie A]]",
+    "posizione": "13º posto",
+    "immagini": 57,
+    "fonti_esterne": 70
+  },
+  {
+    "season_label": "2011-2012",
+    "wiki_title": "Calcio Catania 2011-2012",
+    "allenatore": "{{Bandiera|ITA}} [[Vincenzo Montella]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2011-2012|Serie A]]",
+    "posizione": "11º",
+    "immagini": 60,
+    "fonti_esterne": 67
+  },
+  {
+    "season_label": "2012-2013",
+    "wiki_title": "Calcio Catania 2012-2013",
+    "allenatore": "{{Bandiera|ITA}} [[Rolando Maran]]",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2012-2013|Serie A]]",
+    "posizione": "8º",
+    "immagini": 64,
+    "fonti_esterne": 63
+  },
+  {
+    "season_label": "2013-2014",
+    "wiki_title": "Calcio Catania 2013-2014",
+    "allenatore": "{{Bandiera|ITA}} [[Rolando Maran]] <small>(1ª-8ª; 20ª-32ª)</small><br/>{{Bandiera|ITA}} [[Luigi De Canio]] <small>(9ª-19ª)</small><br/>{{Bandiera|ITA}} [[Maurizio Pellegrino]] <small>(33ª-38ª)</small>",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie A 2013-2014|Serie A]]",
+    "posizione": "18º (in Serie B)",
+    "immagini": 61,
+    "fonti_esterne": 52
+  },
+  {
+    "season_label": "2014-2015",
+    "wiki_title": "Calcio Catania 2014-2015",
+    "allenatore": "{{Bandiera|ITA}} [[Maurizio Pellegrino]] <small>(fino al 14/09/2014)</small><br />{{Bandiera|ITA}} [[Giuseppe Sannino]] <small>(fino al 19/12/2014) </small><br />{{Bandiera|ITA}} [[Maurizio Pellegrino]] <small> (fino al 3/1/2015) </small><br />{{Bandiera|ITA}} [[Dario Marcolin]] <small> (dal 3/1/2015)</small>",
+    "presidente": "{{Bandiera|ITA}} [[Antonino Pulvirenti]]",
+    "campionato": "[[Serie B 2014-2015|Serie B]]",
+    "posizione": "22º (retrocesso d'ufficio in [[Lega Pro]] dalla giustizia sportiva)",
+    "immagini": 67,
+    "fonti_esterne": 15
+  },
+  {
+    "season_label": "2015-2016",
+    "wiki_title": "Calcio Catania 2015-2016",
+    "allenatore": "{{Bandiera|ITA}} [[Giuseppe Pancaro]] <small>(fino al 01/03/2016)</small><br />{{Bandiera|ITA}} [[Francesco Moriero]]",
+    "presidente": "{{Bandiera|ITA}} Carmelo Antonio Milazzo <small>(fino al 07/10/2015)</small><br />{{Bandiera|ITA}} Nicolò Micena <small>(fino al 19/04/2016) </small><br />{{Bandiera|ITA}} Davide Franco",
+    "campionato": "[[Lega Pro 2015-2016|Lega Pro]]",
+    "posizione": "13º",
+    "immagini": 42,
+    "fonti_esterne": 15
+  },
+  {
+    "season_label": "2016-2017",
+    "wiki_title": "Calcio Catania 2016-2017",
+    "allenatore": "{{Bandiera|ITA}} Giuseppe Rigoli, poi<br/> {{Bandiera|ITA}} [[Mario Petrone]], poi<br/> {{Bandiera|ITA}} Giovanni Pulvirenti",
+    "presidente": "{{Bandiera|ITA}} Davide Franco",
+    "campionato": "[[Lega Pro 2016-2017|Lega Pro]]",
+    "posizione": "11°",
+    "immagini": 44,
+    "fonti_esterne": 7
+  },
+  {
+    "season_label": "2017-2018",
+    "wiki_title": "Calcio Catania 2017-2018",
+    "allenatore": "{{Bandiera|ITA}} [[Cristiano Lucarelli]]",
+    "presidente": "{{Bandiera|ITA}} Davide Franco",
+    "campionato": "[[Serie C 2017-2018|Serie C]]",
+    "posizione": "2° gir. C- ai playoff",
+    "immagini": 43,
+    "fonti_esterne": 17
+  },
+  {
+    "season_label": "2018-2019",
+    "wiki_title": "Calcio Catania 2018-2019",
+    "allenatore": "{{Bandiera|ITA}} [[Andrea Sottil]]<br />''(fino al 25 febbraio)''<br />{{Bandiera|ITA}} [[Walter Novellino]], poi <br />''(fino al 5 maggio)'', poi <br />{{Bandiera|ITA}} [[Andrea Sottil]]",
+    "presidente": "{{Bandiera|ITA}} Davide Franco",
+    "campionato": "[[Serie C 2018-2019|Serie C]]",
+    "posizione": "4°",
+    "immagini": 58,
+    "fonti_esterne": 105
+  },
+  {
+    "season_label": "2019-2020",
+    "wiki_title": "Calcio Catania 2019-2020",
+    "allenatore": "{{Bandiera|ITA}} [[Andrea Camplone]]<br />''(fino al 21 ottobre 2019)'', poi <br />{{Bandiera|ITA}} [[Cristiano Lucarelli]]",
+    "presidente": "{{Bandiera|ITA}} Davide Franco<br />''(fino al 18 marzo 2020)'', poi <br />{{Bandiera|ITA}} Gianluca Astorina",
+    "campionato": "[[Serie C 2019-2020|Serie C]]",
+    "posizione": "6° ''(play off)''",
+    "immagini": 38,
+    "fonti_esterne": 51
+  },
+  {
+    "season_label": "2020-2021",
+    "wiki_title": "Calcio Catania 2020-2021",
+    "allenatore": "{{Bandiera|ITA}} Giuseppe Raffaele<ref name=a>fino al 18 marzo</ref>, poi <br />{{Bandiera|ITA}} [[Francesco Baldini]]",
+    "presidente": "{{Bandiera|ITA}} Nicola Le Mura<ref name=\"lemura\">{{cita news|autore=G. Tomasello|url=https://www.lasicilia.it/news/sport/355220/calcio-catania-le-mura-e-amministratore-unico-ma-ce-lultimo-ostacolo.html|titolo=Calcio Catania, Le Mura è amministratore unico ma c'è l'ultimo ostacolo|pubblicazione=[[La Sicilia]].it|data=2 agosto 2020|accesso=4 dicembre 2020}}</ref>",
+    "campionato": "[[Serie C 2020-2021|Serie C]]",
+    "posizione": "6°. Perde il primo turno Play-off.",
+    "immagini": 37,
+    "fonti_esterne": 69
+  },
+  {
+    "season_label": "2021-2022",
+    "wiki_title": "Calcio Catania 2021-2022",
+    "allenatore": "{{Bandiera|ITA}} [[Francesco Baldini]]",
+    "presidente": "{{Bandiera|ITA}} Nicola Le Mura<br />''(fino al 16 novembre 2021)'', poi <br />{{Bandiera|ITA}} Sergio Santagati",
+    "campionato": "[[Serie C 2021-2022|Serie C]]",
+    "posizione": "",
+    "immagini": 36,
+    "fonti_esterne": 91
+  },
+  {
+    "season_label": "2022-2023",
+    "wiki_title": "Catania Società Sportiva Dilettantistica 2022-2023",
+    "allenatore": "{{Bandiera|ITA}} Giovanni Ferraro",
+    "presidente": "{{Bandiera|ITA}} {{Bandiera|AUS}} Rosario Pelligra",
+    "campionato": "[[Serie D 2022-2023|Serie D]]",
+    "posizione": "'''1º''' (in Serie C)",
+    "immagini": 49,
+    "fonti_esterne": 93
+  },
+  {
+    "season_label": "2023-2024",
+    "wiki_title": "Catania Football Club 2023-2024",
+    "allenatore": "{{Bandiera|ITA}} [[Luca Tabbiani]] <small>(1ª-12ª)</small><br />{{Bandiera|ITA}} [[Michele Zeoli]] <small>(13ª)</small><br />{{Bandiera|ITA}} [[Cristiano Lucarelli]] <small>(14ª-30ª)</small><br />{{Bandiera|ITA}} [[Michele Zeoli]] <small>(31ª-)</small>",
+    "presidente": "{{Bandiera|ITA}} {{Bandiera|AUS}} Rosario Pelligra",
+    "campionato": "[[Serie C 2023-2024|Serie C]]",
+    "posizione": "13° ''(ai play off come vincitore della Coppa Italia Serie C)''",
+    "immagini": 51,
+    "fonti_esterne": 81
+  },
+  {
+    "season_label": "2024-2025",
+    "wiki_title": "Catania Football Club 2024-2025",
+    "allenatore": "{{Bandiera|ITA}} [[Domenico Toscano]]",
+    "presidente": "{{Bandiera|ITA}} {{Bandiera|AUS}} Rosario Pelligra",
+    "campionato": "[[Serie C 2024-2025|Serie C]]",
+    "posizione": "5° ''(primo turno della fase nazionale dei play-off)''",
+    "immagini": 33,
+    "fonti_esterne": 112
+  },
+  {
+    "season_label": "2025-2026",
+    "wiki_title": "Catania Football Club 2025-2026",
+    "allenatore": "{{Bandiera|ITA}} [[Domenico Toscano]] <small>(1ª-32ª)</small><br/>{{Bandiera|ITA}} [[William Viali]] <small>(33ª-36ª)</small><br/>{{Bandiera|ITA}} [[Domenico Toscano]] <small>(37ª-38ª e play-off)</small>",
+    "presidente": "{{Bandiera|ITA}} {{Bandiera|AUS}} Rosario Pelligra",
+    "campionato": "[[Serie C 2025-2026#Girone C|Serie C]]",
+    "posizione": "2º (''semifinale dei play-off)''",
+    "immagini": 33,
+    "fonti_esterne": 90
+  },
+  {
+    "season_label": "2026-2027",
+    "wiki_title": "Catania Football Club 2026-2027",
+    "allenatore": "{{Bandiera|ITA}} Emilio Longo",
+    "presidente": "{{Bandiera|ITA}} {{Bandiera|AUS}} Rosario Pelligra",
+    "campionato": "[[Serie C 2026-2027#Girone C|Serie C]]",
+    "posizione": "''in corso''",
+    "immagini": 20,
+    "fonti_esterne": 54
+  }
+]

@@ -1,0 +1,3768 @@
+{
+  "648": {
+    "id": "648",
+    "name": "Adelmo Prenna",
+    "role": "Centrocampista",
+    "total_appearances": 145,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/prenna.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Prenna-648",
+    "slug": "adelmo-prenna",
+    "birth_date": "1930-05-27",
+    "birth_place": "Roma",
+    "seasons_stats": [
+      {
+        "season": "1963-1964",
+        "appearances": "4",
+        "starts": "4",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "1958-1959",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "8"
+      }
+    ]
+  },
+  "424": {
+    "id": "424",
+    "name": "Adriano Polenta",
+    "role": "Difensore",
+    "total_appearances": 108,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/polenta.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Polenta-424",
+    "slug": "adriano-polenta",
+    "birth_date": "1958-02-04",
+    "birth_place": "Osimo",
+    "seasons_stats": [
+      {
+        "season": "1988-1989",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1987-1988",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1986-1987",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1985-1986",
+        "appearances": "12",
+        "starts": "12",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1984-1985",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "467": {
+    "id": "467",
+    "name": "Aldo Cantarutti",
+    "role": "Attaccante",
+    "total_appearances": 94,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/cantarutti.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Cantarutti-467",
+    "slug": "aldo-cantarutti",
+    "birth_date": "1958-01-17",
+    "birth_place": "Manzano",
+    "seasons_stats": [
+      {
+        "season": "1983-1984",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "1982-1983",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "1981-1982",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "10"
+      }
+    ]
+  },
+  "11": {
+    "id": "11",
+    "name": "Alejandro Dario  Gomez",
+    "role": "Centrocampista",
+    "total_appearances": 101,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/gomez2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Gomez-11",
+    "slug": "alejandro-gomez",
+    "birth_date": "1988-02-15",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "8"
+      }
+    ]
+  },
+  "196": {
+    "id": "196",
+    "name": "Alessandro Ambrosi",
+    "role": "Attaccante",
+    "total_appearances": 20,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/ambrosi.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Ambrosi-196",
+    "slug": "alessandro-ambrosi",
+    "birth_date": "1971-07-12",
+    "birth_place": "Fiuggi",
+    "seasons_stats": [
+      {
+        "season": "2000-2001",
+        "appearances": "20",
+        "starts": "20",
+        "subs": "0",
+        "goals": "12"
+      }
+    ]
+  },
+  "614": {
+    "id": "614",
+    "name": "Alessandro Vitali",
+    "role": "Attaccante",
+    "total_appearances": 27,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/vitali.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Vitali-614",
+    "slug": "alessandro-vitali",
+    "birth_date": "1945-03-06",
+    "birth_place": "Cento",
+    "seasons_stats": [
+      {
+        "season": "1967-1968",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "9"
+      }
+    ]
+  },
+  "578": {
+    "id": "578",
+    "name": "Aquilino Bonfanti",
+    "role": "Attaccante",
+    "total_appearances": 100,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/bonfanti1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Bonfanti-578",
+    "slug": "aquilino-bonfanti",
+    "birth_date": "1943-02-25",
+    "birth_place": "Milano",
+    "seasons_stats": [
+      {
+        "season": "1971-1972",
+        "appearances": "36",
+        "starts": "35",
+        "subs": "1",
+        "goals": "9"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "13"
+      }
+    ]
+  },
+  "846": {
+    "id": "846",
+    "name": "Armando Perrone",
+    "role": "Centrocampista",
+    "total_appearances": 1,
+    "seasons_count": 1,
+    "thumb": null,
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Perrone-846",
+    "slug": "armando-perrone",
+    "birth_date": "1921-01-25",
+    "birth_place": "-",
+    "seasons_stats": [
+      {
+        "season": "2005-2006",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1948-1949",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "7"
+      }
+    ]
+  },
+  "735": {
+    "id": "735",
+    "name": "Bruno Micheloni",
+    "role": "Attaccante",
+    "total_appearances": 34,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/micheloni.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Micheloni-735",
+    "slug": "bruno-micheloni",
+    "birth_date": "1925-01-13",
+    "birth_place": "San Martino Buon Albergo",
+    "seasons_stats": [
+      {
+        "season": "1953-1954",
+        "appearances": "26",
+        "starts": "26",
+        "subs": "0",
+        "goals": "8"
+      },
+      {
+        "season": "1952-1953",
+        "appearances": "8",
+        "starts": "8",
+        "subs": "0",
+        "goals": "12"
+      }
+    ]
+  },
+  "867": {
+    "id": "867",
+    "name": "Caetano Prosperi Calil",
+    "role": "Attaccante",
+    "total_appearances": 42,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/calil_001.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Calil-867",
+    "slug": "caetano-calil",
+    "birth_date": "1984-05-20",
+    "birth_place": "Guaxupè (BRA)",
+    "seasons_stats": [
+      {
+        "season": "2015-2016",
+        "appearances": "31",
+        "starts": "30",
+        "subs": "1",
+        "goals": "11"
+      },
+      {
+        "season": "2016-2017",
+        "appearances": "11",
+        "starts": "10",
+        "subs": "1",
+        "goals": "1"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "410": {
+    "id": "410",
+    "name": "Carlo Borghi",
+    "role": "Attaccante",
+    "total_appearances": 125,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/borghi.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Borghi-410",
+    "slug": "carlo-borghi",
+    "birth_date": "1958-01-01",
+    "birth_place": "Pian di Rocca",
+    "seasons_stats": [
+      {
+        "season": "1988-1989",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1987-1988",
+        "appearances": "20",
+        "starts": "20",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "1986-1987",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1985-1986",
+        "appearances": "12",
+        "starts": "12",
+        "subs": "0",
+        "goals": "10"
+      },
+      {
+        "season": "1984-1985",
+        "appearances": "29",
+        "starts": "28",
+        "subs": "1",
+        "goals": "5"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "26",
+        "starts": "23",
+        "subs": "3",
+        "goals": "6"
+      }
+    ]
+  },
+  "478": {
+    "id": "478",
+    "name": "Claudio Ranieri",
+    "role": "Difensore",
+    "total_appearances": 64,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/ranieri.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Ranieri-478",
+    "slug": "claudio-ranieri",
+    "birth_date": "1951-10-20",
+    "birth_place": "Roma",
+    "seasons_stats": [
+      {
+        "season": "1983-1984",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1982-1983",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "477": {
+    "id": "477",
+    "name": "Damiano Morra",
+    "role": "Centrocampista",
+    "total_appearances": 283,
+    "seasons_count": 9,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/morra1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Morra-477",
+    "slug": "damiano-morra",
+    "birth_date": "1955-02-22",
+    "birth_place": "San Fernando",
+    "seasons_stats": [
+      {
+        "season": "1983-1984",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1982-1983",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1981-1982",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1980-1981",
+        "appearances": "38",
+        "starts": "37",
+        "subs": "1",
+        "goals": "4"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "1978-1979",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1977-1978",
+        "appearances": "39",
+        "starts": "39",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "21",
+        "starts": "19",
+        "subs": "2",
+        "goals": "1"
+      }
+    ]
+  },
+  "99": {
+    "id": "99",
+    "name": "Eddy Baggio",
+    "role": "Attaccante",
+    "total_appearances": 43,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/baggio.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Baggio-99",
+    "slug": "eddy-baggio",
+    "birth_date": "1974-08-23",
+    "birth_place": "Caldogno",
+    "seasons_stats": [
+      {
+        "season": "2004-2005",
+        "appearances": "11",
+        "starts": "11",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2002-2003",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2001-2002",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "18"
+      }
+    ]
+  },
+  "13": {
+    "id": "13",
+    "name": "Francesco  Lodi",
+    "role": "Centrocampista",
+    "total_appearances": 216,
+    "seasons_count": 8,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/lodi4.png",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Lodi-13",
+    "slug": "francesco-lodi",
+    "birth_date": "1984-03-23",
+    "birth_place": "Napoli",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "15",
+        "starts": "15",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "9"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "8"
+      },
+      {
+        "season": "2018-2019",
+        "appearances": "39",
+        "starts": "36",
+        "subs": "3",
+        "goals": "13"
+      },
+      {
+        "season": "2019-2020",
+        "appearances": "16",
+        "starts": "14",
+        "subs": "2",
+        "goals": "5"
+      },
+      {
+        "season": "2022-2023",
+        "appearances": "30",
+        "starts": "29",
+        "subs": "1",
+        "goals": "5"
+      }
+    ]
+  },
+  "571": {
+    "id": "571",
+    "name": "Fulvio Francesconi",
+    "role": "Attaccante",
+    "total_appearances": 66,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/francesconi.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Francesconi-571",
+    "slug": "fulvio-francesconi",
+    "birth_date": "1944-11-19",
+    "birth_place": "Russi",
+    "seasons_stats": [
+      {
+        "season": "1972-1973",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "10"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "30",
+        "starts": "27",
+        "subs": "3",
+        "goals": "10"
+      }
+    ]
+  },
+  "534": {
+    "id": "534",
+    "name": "Giampietro Spagnolo",
+    "role": "Attaccante",
+    "total_appearances": 130,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/spagnolo1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Spagnolo-534",
+    "slug": "giampietro-spagnolo",
+    "birth_date": "1949-10-20",
+    "birth_place": "Castelnuovo del Garda",
+    "seasons_stats": [
+      {
+        "season": "1977-1978",
+        "appearances": "17",
+        "starts": "12",
+        "subs": "5",
+        "goals": "2"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1974-1975",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "20"
+      },
+      {
+        "season": "1973-1974",
+        "appearances": "31",
+        "starts": "30",
+        "subs": "1",
+        "goals": "10"
+      }
+    ]
+  },
+  "642": {
+    "id": "642",
+    "name": "Giancarlo Danova",
+    "role": "Attaccante",
+    "total_appearances": 58,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/danova.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Danova-642",
+    "slug": "giancarlo-danova",
+    "birth_date": "1938-11-18",
+    "birth_place": "Sesto S.Giovanni",
+    "seasons_stats": [
+      {
+        "season": "1964-1965",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "12"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "7"
+      }
+    ]
+  },
+  "64": {
+    "id": "64",
+    "name": "Gionatha Spinesi",
+    "role": "Attaccante",
+    "total_appearances": 110,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/spinesi3.png",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Spinesi-64",
+    "slug": "gionatha-spinesi",
+    "birth_date": "1978-03-09",
+    "birth_place": "Pisa",
+    "seasons_stats": [
+      {
+        "season": "2008-2009",
+        "appearances": "8",
+        "starts": "6",
+        "subs": "2",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "17"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "23"
+      }
+    ]
+  },
+  "51": {
+    "id": "51",
+    "name": "Giuseppe Mascara",
+    "role": "Attaccante",
+    "total_appearances": 224,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/mascara1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Mascara-51",
+    "slug": "giuseppe-mascara",
+    "birth_date": "1979-08-22",
+    "birth_place": "Caltagirone",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "8"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "12"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "14"
+      },
+      {
+        "season": "2003-2004",
+        "appearances": "41",
+        "starts": "41",
+        "subs": "0",
+        "goals": "13"
+      }
+    ]
+  },
+  "320": {
+    "id": "320",
+    "name": "Giuseppe Pietro Mosca",
+    "role": "Attaccante",
+    "total_appearances": 27,
+    "seasons_count": 1,
+    "thumb": null,
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Mosca-320",
+    "slug": "giuseppe-mosca",
+    "birth_date": "1967-07-03",
+    "birth_place": "-",
+    "seasons_stats": [
+      {
+        "season": "1994-1995",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "20"
+      }
+    ]
+  },
+  "16": {
+    "id": "16",
+    "name": "Gonzalo  Bergessio",
+    "role": "Attaccante",
+    "total_appearances": 109,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/bergessio3.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Bergessio-16",
+    "slug": "gonzalo-bergessio",
+    "birth_date": "1984-07-20",
+    "birth_place": "Cordoba",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "13",
+        "starts": "13",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "34",
+        "starts": "33",
+        "subs": "1",
+        "goals": "7"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "13"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "10"
+      }
+    ]
+  },
+  "720": {
+    "id": "720",
+    "name": "Guido Klein",
+    "role": "Attaccante",
+    "total_appearances": 61,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/klein.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Klein-720",
+    "slug": "guido-klein",
+    "birth_date": "1923-03-21",
+    "birth_place": "Roma",
+    "seasons_stats": [
+      {
+        "season": "1955-1956",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "1954-1955",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1953-1954",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1952-1953",
+        "appearances": "10",
+        "starts": "10",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1951-1952",
+        "appearances": "15",
+        "starts": "15",
+        "subs": "0",
+        "goals": "13"
+      },
+      {
+        "season": "1950-1951",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "15"
+      }
+    ]
+  },
+  "106": {
+    "id": "106",
+    "name": "Jedaias Capucho Neves Jeda",
+    "role": "Attaccante",
+    "total_appearances": 19,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/jeda.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Jeda-106",
+    "slug": "jeda",
+    "birth_date": "1979-04-15",
+    "birth_place": "Santarém",
+    "seasons_stats": [
+      {
+        "season": "2004-2005",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "6"
+      }
+    ]
+  },
+  "74": {
+    "id": "74",
+    "name": "Jorge Andres Barrios Martinez",
+    "role": "Attaccante",
+    "total_appearances": 83,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/martimez3.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Martinez-74",
+    "slug": "jorge-martinez",
+    "birth_date": "1983-04-05",
+    "birth_place": "Montevideo",
+    "seasons_stats": [
+      {
+        "season": "2009-2010",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "9"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "31",
+        "starts": "30",
+        "subs": "1",
+        "goals": "8"
+      }
+    ]
+  },
+  "709": {
+    "id": "709",
+    "name": "Karl Age Hansen",
+    "role": "Centrocampista",
+    "total_appearances": 26,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/hansen.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Hansen-709",
+    "slug": "karl-aage-hansen",
+    "birth_date": "1921-07-04",
+    "birth_place": "Mesinge (Danimarca)",
+    "seasons_stats": [
+      {
+        "season": "1956-1957",
+        "appearances": "17",
+        "starts": "17",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1955-1956",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1954-1955",
+        "appearances": "9",
+        "starts": "9",
+        "subs": "0",
+        "goals": "2"
+      }
+    ]
+  },
+  "353": {
+    "id": "353",
+    "name": "Loriano Cipriani",
+    "role": "Attaccante",
+    "total_appearances": 74,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/cipriani_001.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-353",
+    "slug": "loriano-cipriani",
+    "birth_date": "1962-09-30",
+    "birth_place": "San Vincenzo",
+    "seasons_stats": [
+      {
+        "season": "1992-1993",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "1991-1992",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1990-1991",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "1989-1990",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "12"
+      }
+    ]
+  },
+  "263": {
+    "id": "263",
+    "name": "Luca Lugnan",
+    "role": "Attaccante",
+    "total_appearances": 49,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/lugnan.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Lugnan-263",
+    "slug": "luca-lugnan",
+    "birth_date": "1969-01-18",
+    "birth_place": "Udine",
+    "seasons_stats": [
+      {
+        "season": "1998-1999",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1997-1998",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "5"
+      }
+    ]
+  },
+  "797": {
+    "id": "797",
+    "name": "Lucas Nahuel Castro",
+    "role": "Centrocampista",
+    "total_appearances": 76,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/castro.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Castro-797",
+    "slug": "lucas-castro",
+    "birth_date": "1989-04-09",
+    "birth_place": "La Plata",
+    "seasons_stats": [
+      {
+        "season": "2012-2013",
+        "appearances": "30",
+        "starts": "29",
+        "subs": "1",
+        "goals": "4"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2014-2015",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "6"
+      }
+    ]
+  },
+  "141": {
+    "id": "141",
+    "name": "Luis Airton Barroso Oliveira",
+    "role": "Attaccante",
+    "total_appearances": 65,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/oliveira.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Oliveira-141",
+    "slug": "luis-oliveira",
+    "birth_date": "1969-03-24",
+    "birth_place": "Sao Luis",
+    "seasons_stats": [
+      {
+        "season": "2003-2004",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "13"
+      },
+      {
+        "season": "2002-2003",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "13"
+      }
+    ]
+  },
+  "10": {
+    "id": "10",
+    "name": "Marco  Biagianti",
+    "role": "Centrocampista",
+    "total_appearances": 262,
+    "seasons_count": 12,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/biagianti1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Biagianti-10",
+    "slug": "marco-biagianti",
+    "birth_date": "1984-04-19",
+    "birth_place": "Firenze",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "15",
+        "starts": "15",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "2",
+        "starts": "2",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "13",
+        "starts": "13",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "27",
+        "starts": "25",
+        "subs": "2",
+        "goals": "0"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "1",
+        "starts": "0",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2016-2017",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2018-2019",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "2019-2020",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "Mariano Gonzalo  Andujar",
+    "role": "Portiere",
+    "total_appearances": 146,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/andujar2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Andujar-2",
+    "slug": "mariano-andujar",
+    "birth_date": "1983-07-30",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "21": {
+    "id": "21",
+    "name": "Mariano Julio  Izco",
+    "role": "Centrocampista",
+    "total_appearances": 256,
+    "seasons_count": 10,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/izco2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Izco-21",
+    "slug": "mariano-izco",
+    "birth_date": "1983-03-13",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "18",
+        "starts": "17",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "30",
+        "starts": "29",
+        "subs": "1",
+        "goals": "1"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "27",
+        "starts": "26",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "32",
+        "starts": "31",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2020-2021",
+        "appearances": "21",
+        "starts": "21",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2021-2022",
+        "appearances": "21",
+        "starts": "19",
+        "subs": "2",
+        "goals": "0"
+      }
+    ]
+  },
+  "77": {
+    "id": "77",
+    "name": "Matias Augustin Silvestre",
+    "role": "Difensore",
+    "total_appearances": 115,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/silvestre.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Silvestre-77",
+    "slug": "matias-silvestre",
+    "birth_date": "1984-09-25",
+    "birth_place": "Mercedes",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "11",
+        "starts": "11",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "27": {
+    "id": "27",
+    "name": "Maximiliano Gastòn  Lopez",
+    "role": "Attaccante",
+    "total_appearances": 76,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/maxilopez2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Lopez-27",
+    "slug": "maxi-lopez",
+    "birth_date": "1984-04-03",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "32",
+        "starts": "31",
+        "subs": "1",
+        "goals": "9"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "11"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "14",
+        "starts": "14",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "12",
+        "starts": "9",
+        "subs": "3",
+        "goals": "1"
+      }
+    ]
+  },
+  "727": {
+    "id": "727",
+    "name": "Michele Manenti",
+    "role": "Centrocampista",
+    "total_appearances": 36,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/manenti.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Manenti-727",
+    "slug": "michele-manenti",
+    "birth_date": "1928-10-13",
+    "birth_place": "Milano",
+    "seasons_stats": [
+      {
+        "season": "1954-1955",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1953-1954",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "15"
+      }
+    ]
+  },
+  "449": {
+    "id": "449",
+    "name": "Orazio Sorbello",
+    "role": "Attaccante",
+    "total_appearances": 2,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/sorbello.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Sorbello-449",
+    "slug": "orazio-sorbello",
+    "birth_date": "1959-08-10",
+    "birth_place": "Acireale",
+    "seasons_stats": [
+      {
+        "season": "1986-1987",
+        "appearances": "2",
+        "starts": "2",
+        "subs": "0",
+        "goals": "6"
+      }
+    ]
+  },
+  "33": {
+    "id": "33",
+    "name": "Pablo Cesar Barrientos",
+    "role": "Centrocampista",
+    "total_appearances": 88,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/barrientos3_001.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Barrientos-33",
+    "slug": "pablo-barrientos",
+    "birth_date": "1985-01-17",
+    "birth_place": "Comodoro Rivadaria",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "2",
+        "starts": "2",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "2",
+        "starts": "2",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "25",
+        "starts": "24",
+        "subs": "1",
+        "goals": "4"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "5"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "5"
+      }
+    ]
+  },
+  "460": {
+    "id": "460",
+    "name": "Luis Vincencote Pedrinho",
+    "role": "Difensore",
+    "total_appearances": 68,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/pedrinho.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Pedrinho-460",
+    "slug": "pedrinho",
+    "birth_date": "1957-10-22",
+    "birth_place": "Santo Andrè",
+    "seasons_stats": [
+      {
+        "season": "1985-1986",
+        "appearances": "6",
+        "starts": "6",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1984-1985",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1983-1984",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "3"
+      }
+    ]
+  },
+  "686": {
+    "id": "686",
+    "name": "Riccardo Carapellese",
+    "role": "Attaccante",
+    "total_appearances": 32,
+    "seasons_count": 2,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/carapellesi.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Carapellese-686",
+    "slug": "riccardo-carapellese",
+    "birth_date": "1922-07-01",
+    "birth_place": "Cerignola",
+    "seasons_stats": [
+      {
+        "season": "2004-2005",
+        "appearances": "2",
+        "starts": "2",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1958-1959",
+        "appearances": "11",
+        "starts": "11",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1957-1958",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "6"
+      }
+    ]
+  },
+  "1087": {
+    "id": "1087",
+    "name": "Roberto Inglese",
+    "role": "Attaccante",
+    "total_appearances": 29,
+    "seasons_count": 1,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/inglese_54289008094_o.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Inglese-1087",
+    "slug": "roberto-inglese",
+    "birth_date": "1991-11-12",
+    "birth_place": "Lucera",
+    "seasons_stats": [
+      {
+        "season": "2024-2025",
+        "appearances": "29",
+        "starts": "22",
+        "subs": "7",
+        "goals": "14"
+      }
+    ]
+  },
+  "616": {
+    "id": "616",
+    "name": "Salvador Calvanese",
+    "role": "Attaccante",
+    "total_appearances": 124,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/calvanese.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Calvanese-616",
+    "slug": "salvador-calvanese",
+    "birth_date": "1934-08-17",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "1966-1967",
+        "appearances": "17",
+        "starts": "17",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1965-1966",
+        "appearances": "17",
+        "starts": "17",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "3",
+        "starts": "3",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "4"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "9"
+      }
+    ]
+  },
+  "1059": {
+    "id": "1059",
+    "name": "Samuel Di Carmine",
+    "role": "Attaccante",
+    "total_appearances": 29,
+    "seasons_count": 1,
+    "thumb": null,
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Di-Carmine-1059",
+    "slug": "samuel-di-carmine",
+    "birth_date": "1988-09-29",
+    "birth_place": "Firenze",
+    "seasons_stats": [
+      {
+        "season": "2023-2024",
+        "appearances": "29",
+        "starts": "23",
+        "subs": "6",
+        "goals": "7"
+      }
+    ]
+  },
+  "227": {
+    "id": "227",
+    "name": "Umberto Brutto",
+    "role": "Centrocampista",
+    "total_appearances": 75,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/umbertorutto.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Brutto-227",
+    "slug": "umberto-brutto",
+    "birth_date": "1971-11-15",
+    "birth_place": "Catanzaro",
+    "seasons_stats": [
+      {
+        "season": "1999-2000",
+        "appearances": "14",
+        "starts": "14",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1998-1999",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1997-1998",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1996-1997",
+        "appearances": "3",
+        "starts": "2",
+        "subs": "1",
+        "goals": "3"
+      }
+    ]
+  },
+  "574": {
+    "id": "574",
+    "name": "Rino Rado",
+    "role": "Portiere",
+    "total_appearances": 234,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/rinorado.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Rado-574",
+    "slug": null,
+    "birth_date": "1941-09-10",
+    "birth_place": "San Stino di Livenza",
+    "seasons_stats": [
+      {
+        "season": "1972-1973",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "579": {
+    "id": "579",
+    "name": "Luciano Buzzacchera",
+    "role": "Difensore",
+    "total_appearances": 218,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/buzzacchera.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Buzzacchera-579",
+    "slug": null,
+    "birth_date": "1939-03-23",
+    "birth_place": "Montecchio Precalcino",
+    "seasons_stats": [
+      {
+        "season": "1971-1972",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1965-1966",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1956-1957",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "484": {
+    "id": "484",
+    "name": "Domenico Labrocca",
+    "role": "Difensore",
+    "total_appearances": 198,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/labrocca1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Labrocca-484",
+    "slug": null,
+    "birth_date": "1952-08-18",
+    "birth_place": "Asmara",
+    "seasons_stats": [
+      {
+        "season": "1982-1983",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1980-1981",
+        "appearances": "22",
+        "starts": "19",
+        "subs": "3",
+        "goals": "1"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1978-1979",
+        "appearances": "31",
+        "starts": "30",
+        "subs": "1",
+        "goals": "1"
+      },
+      {
+        "season": "1977-1978",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "647": {
+    "id": "647",
+    "name": "Mario Corti",
+    "role": "Difensore",
+    "total_appearances": 189,
+    "seasons_count": 8,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/mariocorti.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Corti-647",
+    "slug": null,
+    "birth_date": "1931-11-16",
+    "birth_place": "Genova",
+    "seasons_stats": [
+      {
+        "season": "1964-1965",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "13",
+        "starts": "13",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1958-1959",
+        "appearances": "19",
+        "starts": "19",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1957-1958",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "581": {
+    "id": "581",
+    "name": "Angelo Pereni",
+    "role": "Centrocampista",
+    "total_appearances": 189,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/pereniangelo.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Pereni-581",
+    "slug": null,
+    "birth_date": "1943-12-12",
+    "birth_place": "Gorla Minore",
+    "seasons_stats": [
+      {
+        "season": "1971-1972",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "3"
+      }
+    ]
+  },
+  "610": {
+    "id": "610",
+    "name": "Renato Rambaldelli",
+    "role": "Difensore",
+    "total_appearances": 181,
+    "seasons_count": 8,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/rambaldelli.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Rambaldelli-610",
+    "slug": null,
+    "birth_date": "1936-07-02",
+    "birth_place": "Torino",
+    "seasons_stats": [
+      {
+        "season": "1967-1968",
+        "appearances": "6",
+        "starts": "6",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1965-1966",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "15",
+        "starts": "15",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "8",
+        "starts": "8",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "627": {
+    "id": "627",
+    "name": "Alvaro Biagini",
+    "role": "Centrocampista",
+    "total_appearances": 170,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/biagini.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Biagini-627",
+    "slug": null,
+    "birth_date": "1935-10-01",
+    "birth_place": "Montecatini",
+    "seasons_stats": [
+      {
+        "season": "1965-1966",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "8",
+        "starts": "8",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "9"
+      }
+    ]
+  },
+  "669": {
+    "id": "669",
+    "name": "Elio Grani",
+    "role": "Difensore",
+    "total_appearances": 168,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/grani.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Grani-669",
+    "slug": null,
+    "birth_date": "1930-06-02",
+    "birth_place": "Castelvetro (MO)",
+    "seasons_stats": [
+      {
+        "season": "1961-1962",
+        "appearances": "13",
+        "starts": "13",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1958-1959",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1957-1958",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1956-1957",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "480": {
+    "id": "480",
+    "name": "Roberto Sorrentino",
+    "role": "Portiere",
+    "total_appearances": 167,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/sorrentino.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Sorrentino-480",
+    "slug": null,
+    "birth_date": "1955-08-14",
+    "birth_place": "Napoli",
+    "seasons_stats": [
+      {
+        "season": "1983-1984",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1982-1983",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1981-1982",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1980-1981",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "6": {
+    "id": "6",
+    "name": "Giovanni  Marchese",
+    "role": "Difensore",
+    "total_appearances": 160,
+    "seasons_count": 8,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/marchese2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Marchese-6",
+    "slug": null,
+    "birth_date": "1984-10-17",
+    "birth_place": "Caltanissetta",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "12",
+        "starts": "12",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "4",
+        "starts": "4",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "14",
+        "starts": "13",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2016-2017",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "33",
+        "starts": "31",
+        "subs": "2",
+        "goals": "1"
+      },
+      {
+        "season": "2018-2019",
+        "appearances": "13",
+        "starts": "13",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2019-2020",
+        "appearances": "6",
+        "starts": "5",
+        "subs": "1",
+        "goals": "0"
+      }
+    ]
+  },
+  "487": {
+    "id": "487",
+    "name": "Lorenzo Barlassina",
+    "role": "Centrocampista",
+    "total_appearances": 159,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/barlassina1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Barlassina-487",
+    "slug": null,
+    "birth_date": "1948-07-07",
+    "birth_place": "Limbiate",
+    "seasons_stats": [
+      {
+        "season": "1981-1982",
+        "appearances": "35",
+        "starts": "35",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1980-1981",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1978-1979",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "26",
+        "starts": "26",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "621": {
+    "id": "621",
+    "name": "Giuseppe Vavassori",
+    "role": "Portiere",
+    "total_appearances": 158,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/vavassori.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Vavassori-621",
+    "slug": null,
+    "birth_date": "1934-06-29",
+    "birth_place": "Rivoli",
+    "seasons_stats": [
+      {
+        "season": "1966-1967",
+        "appearances": "8",
+        "starts": "8",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1965-1966",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "573": {
+    "id": "573",
+    "name": "Paolo Montanari",
+    "role": "Difensore",
+    "total_appearances": 153,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/montanari1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Montanari-573",
+    "slug": null,
+    "birth_date": "1944-09-24",
+    "birth_place": "Reggio Emilia",
+    "seasons_stats": [
+      {
+        "season": "1972-1973",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "26",
+        "starts": "24",
+        "subs": "2",
+        "goals": "0"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "11",
+        "starts": "10",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "18",
+        "starts": "17",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "868": {
+    "id": "868",
+    "name": "Andrea Russotto",
+    "role": "Attaccante",
+    "total_appearances": 148,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/310450733_130808326381592_3313232105675466530_n-(3)-(4).jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Russotto-868",
+    "slug": null,
+    "birth_date": "1988-05-25",
+    "birth_place": "Roma",
+    "seasons_stats": [
+      {
+        "season": "2015-2016",
+        "appearances": "24",
+        "starts": "22",
+        "subs": "2",
+        "goals": "6"
+      },
+      {
+        "season": "2016-2017",
+        "appearances": "30",
+        "starts": "29",
+        "subs": "1",
+        "goals": "2"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "31",
+        "starts": "30",
+        "subs": "1",
+        "goals": "6"
+      },
+      {
+        "season": "2020-2021",
+        "appearances": "13",
+        "starts": "12",
+        "subs": "1",
+        "goals": "4"
+      },
+      {
+        "season": "2021-2022",
+        "appearances": "24",
+        "starts": "23",
+        "subs": "1",
+        "goals": "2"
+      },
+      {
+        "season": "2022-2023",
+        "appearances": "26",
+        "starts": "20",
+        "subs": "6",
+        "goals": "8"
+      }
+    ]
+  },
+  "8": {
+    "id": "8",
+    "name": "Nicolàs Federico  Spolli",
+    "role": "Difensore",
+    "total_appearances": 148,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/spolli2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Spolli-8",
+    "slug": null,
+    "birth_date": "1983-02-20",
+    "birth_place": "Coronel Bogado",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "25",
+        "starts": "24",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "26",
+        "starts": "26",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "21",
+        "starts": "21",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2014-2015",
+        "appearances": "16",
+        "starts": "16",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "528": {
+    "id": "528",
+    "name": "Adelchi Malaman",
+    "role": "Attaccante",
+    "total_appearances": 147,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/malaman1.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Malaman-528",
+    "slug": null,
+    "birth_date": "1951-04-24",
+    "birth_place": "Castel d'Azzano",
+    "seasons_stats": [
+      {
+        "season": "1978-1979",
+        "appearances": "7",
+        "starts": "2",
+        "subs": "5",
+        "goals": "1"
+      },
+      {
+        "season": "1977-1978",
+        "appearances": "35",
+        "starts": "34",
+        "subs": "1",
+        "goals": "4"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "11",
+        "starts": "11",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1974-1975",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "8"
+      },
+      {
+        "season": "1973-1974",
+        "appearances": "31",
+        "starts": "29",
+        "subs": "2",
+        "goals": "2"
+      }
+    ]
+  },
+  "462": {
+    "id": "462",
+    "name": "Pier Giuseppe Mosti",
+    "role": "Centrocampista",
+    "total_appearances": 145,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/mosti.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Mosti-462",
+    "slug": null,
+    "birth_date": "1955-04-24",
+    "birth_place": "Massa",
+    "seasons_stats": [
+      {
+        "season": "1984-1985",
+        "appearances": "23",
+        "starts": "22",
+        "subs": "1",
+        "goals": "1"
+      },
+      {
+        "season": "1983-1984",
+        "appearances": "29",
+        "starts": "29",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1982-1983",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1981-1982",
+        "appearances": "34",
+        "starts": "28",
+        "subs": "6",
+        "goals": "1"
+      },
+      {
+        "season": "1980-1981",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "4"
+      }
+    ]
+  },
+  "541": {
+    "id": "541",
+    "name": "Zelico Petrovic",
+    "role": "Portiere",
+    "total_appearances": 145,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/petrovic.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Petrovic-541",
+    "slug": null,
+    "birth_date": "1948-04-14",
+    "birth_place": "Pola",
+    "seasons_stats": [
+      {
+        "season": "1976-1977",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1974-1975",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1973-1974",
+        "appearances": "36",
+        "starts": "35",
+        "subs": "1",
+        "goals": "0"
+      }
+    ]
+  },
+  "569": {
+    "id": "569",
+    "name": "Giorgio Bernardis",
+    "role": "Centrocampista",
+    "total_appearances": 142,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/bernardis.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Bernardis-569",
+    "slug": null,
+    "birth_date": "1945-06-22",
+    "birth_place": "Campolongo",
+    "seasons_stats": [
+      {
+        "season": "1972-1973",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "3"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "31",
+        "starts": "29",
+        "subs": "2",
+        "goals": "1"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "5",
+        "starts": "4",
+        "subs": "1",
+        "goals": "0"
+      }
+    ]
+  },
+  "594": {
+    "id": "594",
+    "name": "Mauro Vaiani",
+    "role": "Centrocampista",
+    "total_appearances": 139,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/vaiani.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Vaiani-594",
+    "slug": null,
+    "birth_date": "1940-01-20",
+    "birth_place": "Livorno",
+    "seasons_stats": [
+      {
+        "season": "1970-1971",
+        "appearances": "8",
+        "starts": "5",
+        "subs": "3",
+        "goals": "1"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "30",
+        "starts": "24",
+        "subs": "6",
+        "goals": "0"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "35",
+        "starts": "31",
+        "subs": "4",
+        "goals": "1"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1966-1967",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "672": {
+    "id": "672",
+    "name": "Sebastiano Buzzin",
+    "role": "Attaccante",
+    "total_appearances": 135,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/buzzin.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672",
+    "slug": null,
+    "birth_date": "1929-12-24",
+    "birth_place": "Cormons",
+    "seasons_stats": [
+      {
+        "season": "1960-1961",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "8"
+      },
+      {
+        "season": "1958-1959",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "7"
+      },
+      {
+        "season": "1957-1958",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "6"
+      },
+      {
+        "season": "1956-1957",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "10"
+      }
+    ]
+  },
+  "507": {
+    "id": "507",
+    "name": "Luigi Chiavaro",
+    "role": "Difensore",
+    "total_appearances": 133,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/chiavaro.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Chiavaro-507",
+    "slug": null,
+    "birth_date": "1956-08-25",
+    "birth_place": "Catania",
+    "seasons_stats": [
+      {
+        "season": "1980-1981",
+        "appearances": "9",
+        "starts": "9",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1979-1980",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1978-1979",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1977-1978",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "26",
+        "starts": "26",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "4",
+        "starts": "3",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "1974-1975",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "61": {
+    "id": "61",
+    "name": "Cristian Silvestri",
+    "role": "Difensore",
+    "total_appearances": 123,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/silvestri.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Silvestri-61",
+    "slug": null,
+    "birth_date": "1975-01-21",
+    "birth_place": "Roma",
+    "seasons_stats": [
+      {
+        "season": "2008-2009",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2004-2005",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "2"
+      }
+    ]
+  },
+  "40": {
+    "id": "40",
+    "name": "Davide Baiocco",
+    "role": "Centrocampista",
+    "total_appearances": 122,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/baiocco.png",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Baiocco-40",
+    "slug": null,
+    "birth_date": "1975-05-08",
+    "birth_place": "Perugia",
+    "seasons_stats": [
+      {
+        "season": "2008-2009",
+        "appearances": "20",
+        "starts": "20",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2006-2007",
+        "appearances": "33",
+        "starts": "33",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "5": {
+    "id": "5",
+    "name": "Ciro  Capuano",
+    "role": "Difensore",
+    "total_appearances": 122,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/capuano2.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Capuano-5",
+    "slug": null,
+    "birth_date": "1981-07-10",
+    "birth_place": "Napoli",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "31",
+        "starts": "31",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "14",
+        "starts": "14",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "5",
+        "starts": "5",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2014-2015",
+        "appearances": "24",
+        "starts": "24",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "585": {
+    "id": "585",
+    "name": "Angelo Volpato",
+    "role": "Attaccante",
+    "total_appearances": 122,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/volpato.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Volpato-585",
+    "slug": null,
+    "birth_date": "1943-06-07",
+    "birth_place": "Azzano San Paolo",
+    "seasons_stats": [
+      {
+        "season": "1972-1973",
+        "appearances": "36",
+        "starts": "35",
+        "subs": "1",
+        "goals": "2"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "16",
+        "starts": "13",
+        "subs": "3",
+        "goals": "1"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "13",
+        "starts": "11",
+        "subs": "2",
+        "goals": "1"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "5",
+        "starts": "5",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "29",
+        "starts": "25",
+        "subs": "4",
+        "goals": "2"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "3"
+      }
+    ]
+  },
+  "891": {
+    "id": "891",
+    "name": "Matteo Pisseri",
+    "role": "Portiere",
+    "total_appearances": 118,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/pisseri_012.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Pisseri-891",
+    "slug": null,
+    "birth_date": "1991-11-21",
+    "birth_place": "Parma",
+    "seasons_stats": [
+      {
+        "season": "2016-2017",
+        "appearances": "39",
+        "starts": "39",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2017-2018",
+        "appearances": "40",
+        "starts": "40",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2018-2019",
+        "appearances": "39",
+        "starts": "39",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "922": {
+    "id": "922",
+    "name": "Luca Calapai",
+    "role": "Difensore",
+    "total_appearances": 117,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/calapai_062.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Calapai-922",
+    "slug": null,
+    "birth_date": "1993-05-20",
+    "birth_place": "Messina",
+    "seasons_stats": [
+      {
+        "season": "2011-2012",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2018-2019",
+        "appearances": "35",
+        "starts": "31",
+        "subs": "4",
+        "goals": "3"
+      },
+      {
+        "season": "2019-2020",
+        "appearances": "28",
+        "starts": "27",
+        "subs": "1",
+        "goals": "1"
+      },
+      {
+        "season": "2020-2021",
+        "appearances": "35",
+        "starts": "33",
+        "subs": "2",
+        "goals": "2"
+      },
+      {
+        "season": "2021-2022",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "55": {
+    "id": "55",
+    "name": "Armando Pantanelli",
+    "role": "Portiere",
+    "total_appearances": 116,
+    "seasons_count": 3,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/pantanelli.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Pantanelli-55",
+    "slug": null,
+    "birth_date": "1971-06-01",
+    "birth_place": "Torino",
+    "seasons_stats": [
+      {
+        "season": "2006-2007",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2005-2006",
+        "appearances": "41",
+        "starts": "41",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2004-2005",
+        "appearances": "38",
+        "starts": "38",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "615": {
+    "id": "615",
+    "name": "Remo Bicchierai",
+    "role": "Difensore",
+    "total_appearances": 115,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/bicchierai.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Bicchierai-615",
+    "slug": null,
+    "birth_date": "1938-08-18",
+    "birth_place": "Firenze",
+    "seasons_stats": [
+      {
+        "season": "1966-1967",
+        "appearances": "11",
+        "starts": "11",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1965-1966",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "25",
+        "starts": "25",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "28",
+        "starts": "28",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "583": {
+    "id": "583",
+    "name": "Umberto Strucchi",
+    "role": "Centrocampista",
+    "total_appearances": 115,
+    "seasons_count": 5,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/strucchi.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Strucchi-583",
+    "slug": null,
+    "birth_date": "1943-01-11",
+    "birth_place": "Scandiano",
+    "seasons_stats": [
+      {
+        "season": "1971-1972",
+        "appearances": "12",
+        "starts": "12",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "21",
+        "starts": "21",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1969-1970",
+        "appearances": "36",
+        "starts": "36",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1968-1969",
+        "appearances": "29",
+        "starts": "28",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "1967-1968",
+        "appearances": "17",
+        "starts": "17",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "559": {
+    "id": "559",
+    "name": "Romano Fogli",
+    "role": "Centrocampista",
+    "total_appearances": 114,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/fogli.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Fogli-559",
+    "slug": null,
+    "birth_date": "1938-01-21",
+    "birth_place": "S. Maria a Monte",
+    "seasons_stats": [
+      {
+        "season": "1991-1992",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1973-1974",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1972-1973",
+        "appearances": "34",
+        "starts": "34",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1971-1972",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "2"
+      },
+      {
+        "season": "1970-1971",
+        "appearances": "26",
+        "starts": "26",
+        "subs": "0",
+        "goals": "1"
+      }
+    ]
+  },
+  "629": {
+    "id": "629",
+    "name": "Giorgio Michelotti",
+    "role": "Difensore",
+    "total_appearances": 113,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/michelotti.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Michelotti-629",
+    "slug": null,
+    "birth_date": "1936-01-20",
+    "birth_place": "Bengasi",
+    "seasons_stats": [
+      {
+        "season": "1965-1966",
+        "appearances": "5",
+        "starts": "5",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1964-1965",
+        "appearances": "22",
+        "starts": "22",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1963-1964",
+        "appearances": "0",
+        "starts": "0",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1962-1963",
+        "appearances": "5",
+        "starts": "5",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1961-1962",
+        "appearances": "12",
+        "starts": "12",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1960-1961",
+        "appearances": "32",
+        "starts": "32",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1959-1960",
+        "appearances": "37",
+        "starts": "37",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "1056": {
+    "id": "1056",
+    "name": "Alessandro Quaini",
+    "role": "Centrocampista",
+    "total_appearances": 111,
+    "seasons_count": 4,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/quaini.png",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Quaini-1056",
+    "slug": null,
+    "birth_date": "1998-09-17",
+    "birth_place": "Cremona",
+    "seasons_stats": [
+      {
+        "season": "2023-2024",
+        "appearances": "33",
+        "starts": "32",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2024-2025",
+        "appearances": "32",
+        "starts": "21",
+        "subs": "11",
+        "goals": "1"
+      },
+      {
+        "season": "2025-2026",
+        "appearances": "32",
+        "starts": "28",
+        "subs": "4",
+        "goals": "0"
+      },
+      {
+        "season": "2026-2027",
+        "appearances": "14",
+        "starts": "14",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "Pablo Sebastian Valeira  Alvarez",
+    "role": "Difensore",
+    "total_appearances": 110,
+    "seasons_count": 7,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/alvarez3.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Alvarez-3",
+    "slug": null,
+    "birth_date": "1984-04-17",
+    "birth_place": "Buenos Aires",
+    "seasons_stats": [
+      {
+        "season": "2010-2011",
+        "appearances": "23",
+        "starts": "23",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2009-2010",
+        "appearances": "24",
+        "starts": "23",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2008-2009",
+        "appearances": "5",
+        "starts": "4",
+        "subs": "1",
+        "goals": "0"
+      },
+      {
+        "season": "2007-2008",
+        "appearances": "6",
+        "starts": "6",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2011-2012",
+        "appearances": "7",
+        "starts": "7",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2012-2013",
+        "appearances": "27",
+        "starts": "27",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "2013-2014",
+        "appearances": "18",
+        "starts": "18",
+        "subs": "0",
+        "goals": "0"
+      }
+    ]
+  },
+  "505": {
+    "id": "505",
+    "name": "Antonino Cantone",
+    "role": "Centrocampista",
+    "total_appearances": 105,
+    "seasons_count": 6,
+    "thumb": "https://www.calciocatania.com/cmsAdmin/uploads/thumb/cantone.jpg",
+    "url": "https://www.calciocatania.com/giocatori/giocatori.php?Cantone-505",
+    "slug": null,
+    "birth_date": "1953-06-14",
+    "birth_place": "Catania",
+    "seasons_stats": [
+      {
+        "season": "1980-1981",
+        "appearances": "1",
+        "starts": "1",
+        "subs": "0",
+        "goals": "0"
+      },
+      {
+        "season": "1978-1979",
+        "appearances": "20",
+        "starts": "15",
+        "subs": "5",
+        "goals": "0"
+      },
+      {
+        "season": "1977-1978",
+        "appearances": "34",
+        "starts": "33",
+        "subs": "1",
+        "goals": "2"
+      },
+      {
+        "season": "1976-1977",
+        "appearances": "30",
+        "starts": "30",
+        "subs": "0",
+        "goals": "1"
+      },
+      {
+        "season": "1975-1976",
+        "appearances": "8",
+        "starts": "5",
+        "subs": "3",
+        "goals": "0"
+      },
+      {
+        "season": "1973-1974",
+        "appearances": "12",
+        "starts": "8",
+        "subs": "4",
+        "goals": "0"
+      }
+    ]
+  }
+}

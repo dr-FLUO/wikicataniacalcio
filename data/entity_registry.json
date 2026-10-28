@@ -1,0 +1,2613 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-10-27",
+  "description": "Registro canonico delle entità, degli slug e delle regole di disambiguazione temporale della Wiki Calcio Catania (1929-Oggi)",
+  "entities": {
+    "societa/1929-ss-catania": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Società Sportiva Catania / AFC Catania (1929-1943)",
+      "figc_matricola": "N/A (Pre-1946)",
+      "aliases": [
+        "SS Catania",
+        "Società Sportiva Catania",
+        "AFC Catania",
+        "Associazione Fascista Calcio Catania"
+      ]
+    },
+    "societa/1946-club-calcio-catania": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Club Calcio Catania (1946-1967)",
+      "figc_matricola": "11700",
+      "aliases": [
+        "Club Calcio Catania",
+        "C.C. Catania"
+      ]
+    },
+    "societa/1967-calcio-catania-spa-massimino": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Calcio Catania S.p.A. — Era Massimino (1967-1993)",
+      "figc_matricola": "11700",
+      "aliases": [
+        "Calcio Catania S.p.A. (Era Massimino)",
+        "Catania di Massimino"
+      ]
+    },
+    "societa/2000-era-gaucci": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Calcio Catania S.p.A. — Gestione Gaucci (2000-2004)",
+      "figc_matricola": "11700",
+      "aliases": [
+        "Calcio Catania S.p.A. (Gestione Gaucci)",
+        "Catania di Gaucci",
+        "Era Gaucci"
+      ]
+    },
+    "societa/2004-era-pulvirenti": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Calcio Catania S.p.A. — Era Pulvirenti (2004-2020)",
+      "figc_matricola": "11700",
+      "aliases": [
+        "Calcio Catania S.p.A. (Era Pulvirenti)",
+        "Catania di Pulvirenti",
+        "Era Pulvirenti-Lo Monaco"
+      ]
+    },
+    "societa/2020-sigi-e-fallimento": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Calcio Catania S.p.A. — Gestione SIGI e Fallimento (2020-2022)",
+      "figc_matricola": "11700",
+      "aliases": [
+        "SIGI S.p.A.",
+        "Sport Investment Group Italia",
+        "Gestione SIGI"
+      ]
+    },
+    "societa/2022-pelligra-catania-fc": {
+      "entity_type": "era_societaria",
+      "canonical_name": "Catania SSD / Catania Football Club (2022-Oggi)",
+      "figc_matricola": "955013",
+      "aliases": [
+        "Catania SSD",
+        "Catania Football Club",
+        "Catania FC",
+        "Pelligra Group Catania"
+      ]
+    },
+    "societa/presidenti/vespasiano-trigona": {
+      "entity_type": "dirigente",
+      "canonical_name": "Vespasiano Trigona (Duca di Misterbianco)",
+      "aliases": [
+        "Duca Trigona",
+        "Vespasiano Trigona"
+      ]
+    },
+    "societa/presidenti/ignazio-marcoccio": {
+      "entity_type": "dirigente",
+      "canonical_name": "Ignazio Marcoccio",
+      "aliases": [
+        "Marcoccio",
+        "Presidente Marcoccio"
+      ]
+    },
+    "societa/presidenti/angelo-massimino": {
+      "entity_type": "dirigente",
+      "canonical_name": "Angelo Massimino",
+      "aliases": [
+        "Il Presidentissimo",
+        "Cavaliere Massimino",
+        "Don Angelo Massimino"
+      ],
+      "disambiguation_note": "Non confondere con lo Stadio Angelo Massimino (stadio/angelo-massimino)"
+    },
+    "societa/presidenti/riccardo-gaucci": {
+      "entity_type": "dirigente",
+      "canonical_name": "Riccardo Gaucci",
+      "aliases": [
+        "Gaucci Jr."
+      ]
+    },
+    "societa/presidenti/luciano-gaucci": {
+      "entity_type": "dirigente",
+      "canonical_name": "Luciano Gaucci",
+      "aliases": [
+        "Patron Gaucci"
+      ]
+    },
+    "societa/presidenti/antonino-pulvirenti": {
+      "entity_type": "dirigente",
+      "canonical_name": "Antonino Pulvirenti",
+      "aliases": [
+        "Nino Pulvirenti",
+        "Pulvirenti"
+      ]
+    },
+    "societa/presidenti/pietro-lo-monaco": {
+      "entity_type": "dirigente",
+      "canonical_name": "Pietro Lo Monaco",
+      "aliases": [
+        "Lo Monaco",
+        "AD Lo Monaco"
+      ]
+    },
+    "societa/presidenti/sergio-gasparin": {
+      "entity_type": "dirigente",
+      "canonical_name": "Sergio Gasparin",
+      "aliases": [
+        "Gasparin"
+      ]
+    },
+    "societa/presidenti/ross-pelligra": {
+      "entity_type": "dirigente",
+      "canonical_name": "Ross Pelligra",
+      "aliases": [
+        "Rosario Pelligra",
+        "Pelligra"
+      ]
+    },
+    "societa/presidenti/vincenzo-grella": {
+      "entity_type": "dirigente",
+      "canonical_name": "Vincenzo Grella",
+      "aliases": [
+        "Vince Grella",
+        "Grella"
+      ]
+    },
+    "stagioni/1933-1934": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1933-1934",
+      "aliases": [
+        "1933-34",
+        "1933-1934"
+      ]
+    },
+    "stagioni/1953-1954": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1953-1954",
+      "aliases": [
+        "1953-54",
+        "1953-1954"
+      ]
+    },
+    "stagioni/1954-1955": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1954-1955",
+      "aliases": [
+        "1954-55",
+        "1954-1955"
+      ]
+    },
+    "stagioni/1960-1961": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1960-1961",
+      "aliases": [
+        "1960-61",
+        "1960-1961"
+      ]
+    },
+    "stagioni/1963-1964": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1963-1964",
+      "aliases": [
+        "1963-64",
+        "1963-1964"
+      ]
+    },
+    "stagioni/1964-1965": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1964-1965",
+      "aliases": [
+        "1964-65",
+        "1964-1965"
+      ]
+    },
+    "stagioni/1969-1970": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1969-1970",
+      "aliases": [
+        "1969-70",
+        "1969-1970"
+      ]
+    },
+    "stagioni/1979-1980": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1979-1980",
+      "aliases": [
+        "1979-80",
+        "1979-1980"
+      ]
+    },
+    "stagioni/1982-1983": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1982-1983",
+      "aliases": [
+        "1982-83",
+        "1982-1983"
+      ]
+    },
+    "stagioni/1983-1984": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1983-1984",
+      "aliases": [
+        "1983-84",
+        "1983-1984"
+      ]
+    },
+    "stagioni/1993-1994": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1993-1994",
+      "aliases": [
+        "1993-94",
+        "1993-1994",
+        "Eccellenza 1993-1994"
+      ]
+    },
+    "stagioni/2001-2002": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2001-2002",
+      "aliases": [
+        "2001-02",
+        "2001-2002"
+      ]
+    },
+    "stagioni/2002-2003": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2002-2003",
+      "aliases": [
+        "2002-03",
+        "2002-2003",
+        "Serie B 2002-2003"
+      ]
+    },
+    "stagioni/2003-2004": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2003-2004",
+      "aliases": [
+        "2003-04",
+        "2003-2004",
+        "Serie B 2003-2004"
+      ]
+    },
+    "stagioni/2005-2006": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2005-2006",
+      "aliases": [
+        "2005-06",
+        "2005-2006"
+      ]
+    },
+    "stagioni/2011-2012": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2011-2012",
+      "aliases": [
+        "2011-12",
+        "2011-2012"
+      ]
+    },
+    "stagioni/2012-2013": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2012-2013",
+      "aliases": [
+        "2012-13",
+        "2012-2013",
+        "Serie A 2012-2013"
+      ]
+    },
+    "stagioni/2013-2014": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2013-2014",
+      "aliases": [
+        "2013-14",
+        "2013-2014"
+      ]
+    },
+    "stagioni/2014-2015": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2014-2015",
+      "aliases": [
+        "2014-15",
+        "2014-2015"
+      ]
+    },
+    "stagioni/2015-2016": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2015-2016",
+      "aliases": [
+        "2015-16",
+        "2015-2016"
+      ]
+    },
+    "stagioni/2021-2022": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2021-2022",
+      "aliases": [
+        "2021-22",
+        "2021-2022"
+      ]
+    },
+    "stagioni/2022-2023": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2022-2023",
+      "aliases": [
+        "2022-23",
+        "2022-2023"
+      ]
+    },
+    "stagioni/2023-2024": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2023-2024",
+      "aliases": [
+        "2023-24",
+        "2023-2024"
+      ]
+    },
+    "partite/1960-1961/catania-inter-2-0": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Inter 2-0 (4 giugno 1961)",
+      "aliases": [
+        "Clamoroso al Cibali",
+        "Catania-Inter 2-0"
+      ]
+    },
+    "partite/1982-1983/spareggio-catania-como-1-0": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Como 1-0 (Spareggio Roma 1983)",
+      "aliases": [
+        "Spareggio Catania-Como"
+      ]
+    },
+    "partite/1982-1983/spareggio-catania-cremonese-0-0": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Cremonese 0-0 (Spareggio Roma 1983)",
+      "aliases": [
+        "Spareggio Catania-Cremonese",
+        "Spareggio con la Cremonese"
+      ]
+    },
+    "partite/2002-2003/catania-siena-1-1": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Siena 1-1 (12 aprile 2003)",
+      "aliases": [
+        "Catania-Siena 1-1",
+        "Catania-Siena del 2003"
+      ]
+    },
+    "partite/2008-2009/palermo-catania-0-4": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Palermo-Catania 0-4 (1º marzo 2009)",
+      "aliases": [
+        "Palermo-Catania 0-4",
+        "Trionfo del Barbera",
+        "Gol da centrocampo di Mascara"
+      ]
+    },
+    "partite/2009-2010/catania-inter-3-1": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Inter 3-1 (12 marzo 2010)",
+      "aliases": [
+        "Catania-Inter 3-1",
+        "Cucchiaio di Mascara all'Inter"
+      ]
+    },
+    "partite/2010-2011/catania-palermo-4-0": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Palermo 4-0 (3 aprile 2011)",
+      "aliases": [
+        "Catania-Palermo 4-0",
+        "Poker al Massimino",
+        "Derby del 4-0 2011"
+      ]
+    },
+    "partite/2023-2024/finale-coppa-catania-padova-4-2": {
+      "entity_type": "tabellino_gara",
+      "canonical_name": "Catania-Padova 4-2 d.t.s. (Finale Coppa Italia Serie C 2024)",
+      "aliases": [
+        "Catania-Padova 4-2",
+        "Finale Coppa Italia Serie C 2024"
+      ]
+    },
+    "partite/precedenti/inter": {
+      "entity_type": "archivio_precedenti",
+      "canonical_name": "Precedenti Catania-Inter",
+      "aliases": [
+        "F.C. Internazionale Milano",
+        "Inter"
+      ]
+    },
+    "partite/precedenti/palermo": {
+      "entity_type": "archivio_precedenti",
+      "canonical_name": "Derby di Sicilia (Catania-Palermo)",
+      "aliases": [
+        "Derby di Sicilia",
+        "Precedenti col Palermo"
+      ]
+    },
+    "partite/precedenti/salernitana": {
+      "entity_type": "archivio_precedenti",
+      "canonical_name": "Precedenti Catania-Salernitana",
+      "aliases": [
+        "Salernitana"
+      ]
+    },
+    "partite/precedenti/casarano": {
+      "entity_type": "archivio_precedenti",
+      "canonical_name": "Precedenti Catania-Casarano",
+      "aliases": [
+        "Casarano"
+      ]
+    },
+    "partite/precedenti/atalanta-u23": {
+      "entity_type": "archivio_precedenti",
+      "canonical_name": "Precedenti Catania-Atalanta U23",
+      "aliases": [
+        "Atalanta U23"
+      ]
+    },
+    "tesserati/calciatori/marco-biagianti": {
+      "entity_type": "calciatore",
+      "canonical_name": "Marco Biagianti",
+      "aliases": [
+        "Biagianti",
+        "Capitan Biagianti"
+      ]
+    },
+    "tesserati/calciatori/damiano-morra": {
+      "entity_type": "calciatore",
+      "canonical_name": "Damiano Morra",
+      "aliases": [
+        "Morra"
+      ]
+    },
+    "tesserati/calciatori/mariano-izco": {
+      "entity_type": "calciatore",
+      "canonical_name": "Mariano Izco",
+      "aliases": [
+        "Izco",
+        "Mariano Julio Izco"
+      ]
+    },
+    "tesserati/calciatori/giuseppe-mascara": {
+      "entity_type": "calciatore",
+      "canonical_name": "Giuseppe Mascara",
+      "aliases": [
+        "Mascara",
+        "Beppe Mascara"
+      ]
+    },
+    "tesserati/calciatori/nicolo-nicolosi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Nicolò Nicolosi",
+      "aliases": [
+        "Cocò Nicolosi",
+        "Nicolosi"
+      ]
+    },
+    "tesserati/calciatori/gonzalo-bergessio": {
+      "entity_type": "calciatore",
+      "canonical_name": "Gonzalo Bergessio",
+      "aliases": [
+        "Bergessio",
+        "El Lavandina"
+      ]
+    },
+    "tesserati/calciatori/francesco-lodi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Francesco Lodi",
+      "aliases": [
+        "Ciccio Lodi",
+        "Lodi"
+      ]
+    },
+    "tesserati/calciatori/adelmo-prenna": {
+      "entity_type": "calciatore",
+      "canonical_name": "Adelmo Prenna",
+      "aliases": [
+        "Memo Prenna",
+        "Prenna"
+      ]
+    },
+    "tesserati/calciatori/gionatha-spinesi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Gionatha Spinesi",
+      "aliases": [
+        "Spinesi",
+        "Il Gabbiano"
+      ]
+    },
+    "tesserati/calciatori/alejandro-gomez": {
+      "entity_type": "calciatore",
+      "canonical_name": "Alejandro Gómez",
+      "aliases": [
+        "Papu Gómez",
+        "Alejandro Gomez",
+        "Papu Gomez",
+        "El Papu"
+      ]
+    },
+    "tesserati/calciatori/pablo-barrientos": {
+      "entity_type": "calciatore",
+      "canonical_name": "Pablo Barrientos",
+      "aliases": [
+        "El Pitu",
+        "Pablo César Barrientos",
+        "Pitu Barrientos",
+        "Barrientos"
+      ]
+    },
+    "tesserati/calciatori/maxi-lopez": {
+      "entity_type": "calciatore",
+      "canonical_name": "Maxi López",
+      "aliases": [
+        "Maxi Lopez",
+        "La Galina d'Oro",
+        "Maxi Gastón López",
+        "El Galina"
+      ]
+    },
+    "tesserati/calciatori/jorge-martinez": {
+      "entity_type": "calciatore",
+      "canonical_name": "Jorge Martínez",
+      "aliases": [
+        "Jorge Martinez",
+        "El Malaka",
+        "Malaka Martínez",
+        "Malaka Martinez"
+      ]
+    },
+    "tesserati/allenatori/geza-kertesz": {
+      "entity_type": "allenatore",
+      "canonical_name": "Géza Kertész",
+      "aliases": [
+        "Kertész",
+        "Geza Kertesz"
+      ]
+    },
+    "tesserati/allenatori/piero-andreoli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Piero Andreoli",
+      "aliases": [
+        "Andreoli"
+      ]
+    },
+    "tesserati/allenatori/carmelo-di-bella": {
+      "entity_type": "allenatore",
+      "canonical_name": "Carmelo Di Bella",
+      "aliases": [
+        "Di Bella",
+        "Don Carmelo Di Bella"
+      ]
+    },
+    "tesserati/allenatori/egizio-rubino": {
+      "entity_type": "allenatore",
+      "canonical_name": "Egizio Rubino",
+      "aliases": [
+        "Rubino"
+      ]
+    },
+    "tesserati/allenatori/gianni-di-marzio": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gianni Di Marzio",
+      "aliases": [
+        "Di Marzio"
+      ]
+    },
+    "tesserati/allenatori/vincenzo-guerini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Vincenzo Guerini",
+      "aliases": [
+        "Guerini"
+      ]
+    },
+    "tesserati/allenatori/pasquale-marino": {
+      "entity_type": "allenatore",
+      "canonical_name": "Pasquale Marino",
+      "aliases": [
+        "Marino"
+      ]
+    },
+    "tesserati/allenatori/diego-pablo-simeone": {
+      "entity_type": "allenatore",
+      "canonical_name": "Diego Pablo Simeone",
+      "aliases": [
+        "Cholo Simeone",
+        "Diego Simeone"
+      ]
+    },
+    "tesserati/allenatori/rolando-maran": {
+      "entity_type": "allenatore",
+      "canonical_name": "Rolando Maran",
+      "aliases": [
+        "Maran"
+      ]
+    },
+    "tesserati/allenatori/michele-zeoli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Michele Zeoli",
+      "aliases": [
+        "Zeoli",
+        "Zorro Zeoli"
+      ]
+    },
+    "tesserati/allenatori/sinisa-mihajlovic": {
+      "entity_type": "allenatore",
+      "canonical_name": "Siniša Mihajlović",
+      "aliases": [
+        "Sinisa Mihajlovic",
+        "Mihajlovic",
+        "Mihajlović"
+      ]
+    },
+    "stadio/piazza-esposizione": {
+      "entity_type": "impianto_sportivo",
+      "canonical_name": "Campo di Piazza Esposizione",
+      "aliases": [
+        "Piazza Esposizione",
+        "Campo Piazza Verga"
+      ]
+    },
+    "stadio/angelo-massimino": {
+      "entity_type": "impianto_sportivo",
+      "canonical_name": "Stadio Angelo Massimino (Cibali)",
+      "aliases": [
+        "Stadio Cibali",
+        "Stadio Angelo Massimino",
+        "Cibali",
+        "Massimino"
+      ],
+      "temporal_display_rules": {
+        "1937-2002": "Stadio Cibali",
+        "2002-2099": "Stadio Angelo Massimino"
+      }
+    },
+    "stadio/torre-del-grifo": {
+      "entity_type": "impianto_sportivo",
+      "canonical_name": "Torre del Grifo Village",
+      "aliases": [
+        "Torre del Grifo",
+        "Centro Sportivo Torre del Grifo"
+      ]
+    },
+    "maglie/loghi-storici-liotru": {
+      "entity_type": "kit_storico",
+      "canonical_name": "Evoluzione dello Stemma Storico e de u Liotru",
+      "aliases": [
+        "u Liotru",
+        "Stemma del Catania",
+        "Logo storico"
+      ]
+    },
+    "vicende-legali/caso-scaramella-1955": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Il Caso Scaramella (1955)",
+      "aliases": [
+        "Caso Scaramella",
+        "Scandalo Scaramella"
+      ]
+    },
+    "vicende-legali/caso-catania-1993-eccellenza": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Il Contenzioso FIGC dell'Estate 1993 e l'Eccellenza",
+      "aliases": [
+        "Caso Catania 1993",
+        "Esclusione 1993"
+      ]
+    },
+    "vicende-legali/caso-catania-2003": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Il Caso Catania (2003) — Caso Martinelli e Legge 280/2003",
+      "aliases": [
+        "Caso Catania",
+        "Caso Catania 2003",
+        "Caso Martinelli"
+      ]
+    },
+    "vicende-legali/decreto-2-febbraio-2007": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "I Fatti del 2 Febbraio 2007 e la Legge 41/2007",
+      "aliases": [
+        "2 febbraio 2007",
+        "Legge Amato-Melandri"
+      ]
+    },
+    "vicende-legali/treni-del-gol-2015": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Inchiesta I Treni del Gol (2015)",
+      "aliases": [
+        "Treni del Gol",
+        "Inchiesta Treni del Gol"
+      ]
+    },
+    "vicende-legali/blocco-ripescaggi-2018": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Il Contenzioso sui Ripescaggi e la Serie B a 19 Squadre (2018)",
+      "aliases": [
+        "Blocco ripescaggi 2018"
+      ]
+    },
+    "vicende-legali/fallimento-2021-art52-noif": {
+      "entity_type": "vicenda_legale",
+      "canonical_name": "Sentenza di Fallimento n. 158/2021 e Procedura Art. 52 c. 10 NOIF",
+      "aliases": [
+        "Fallimento 2021",
+        "Sentenza 158/2021"
+      ]
+    },
+    "tifoseria/curva-sud/index": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "Curva Sud Stadio Cibali / Massimino",
+      "aliases": [
+        "Curva Sud",
+        "Curva Sud Catania"
+      ]
+    },
+    "tifoseria/curva-nord/index": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "Curva Nord Stadio Cibali / Massimino (CCN)",
+      "aliases": [
+        "Curva Nord",
+        "Catania Curva Nord",
+        "CCN"
+      ]
+    },
+    "tifoseria/curva-sud/falange-d-assalto": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "Falange d'Assalto Rossazzurra (1979)",
+      "aliases": [
+        "Falange d'Assalto",
+        "Falange"
+      ]
+    },
+    "tifoseria/curva-sud/irriducibili-1991": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "Irriducibili 1991 (Primo Amore)",
+      "aliases": [
+        "Irriducibili 1991",
+        "Primo Amore"
+      ]
+    },
+    "tifoseria/biografie/ciccio-famoso": {
+      "entity_type": "biografia_tifo",
+      "canonical_name": "Francesco 'Ciccio' Famoso",
+      "aliases": [
+        "Ciccio Famoso",
+        "Ciccio Falange",
+        "Francesco Famoso"
+      ]
+    },
+    "tifoseria/eventi/esodo-roma-1983": {
+      "entity_type": "evento_tifo",
+      "canonical_name": "L'Esodo dei 40.000 allo Stadio Olimpico di Roma (1983)",
+      "aliases": [
+        "Esodo di Roma 1983",
+        "40.000 di Roma"
+      ]
+    },
+    "tifoseria/eventi/boicottaggio-atletico-1993": {
+      "entity_type": "evento_tifo",
+      "canonical_name": "Il Rifiuto dell'Atletico Catania e la Fedeltà in Eccellenza (1993-1994)",
+      "aliases": [
+        "Boicottaggio Atletico Catania"
+      ]
+    },
+    "tifoseria/gemellaggi/crotone": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Gemellaggio Catania-Crotone (2001)",
+      "aliases": [
+        "Crotone",
+        "Curva Sud Crotone"
+      ]
+    },
+    "tifoseria/gemellaggi/triestina": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Gemellaggio Catania-Triestina (2004)",
+      "aliases": [
+        "Triestina",
+        "Curva Furlan Triestina"
+      ]
+    },
+    "tifoseria/gemellaggi/napoli": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Amicizia e Gemellaggio Catania-Napoli (2009)",
+      "aliases": [
+        "Napoli",
+        "Ultras Curva A Napoli"
+      ]
+    },
+    "tifoseria/gemellaggi/borussia-dortmund": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Amicizia Internazionale Catania-Borussia Dortmund",
+      "aliases": [
+        "Borussia Dortmund",
+        "Desperados 1999"
+      ]
+    },
+    "tifoseria/gemellaggi/genoa": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Rispetto e Amicizia Catania-Genoa",
+      "aliases": [
+        "Genoa"
+      ]
+    },
+    "tifoseria/rivalita/palermo": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Rivalità Storica Catania-Palermo",
+      "aliases": [
+        "Palermo"
+      ]
+    },
+    "tifoseria/rivalita/messina": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Rivalità Storica Catania-Messina",
+      "aliases": [
+        "Messina"
+      ]
+    },
+    "tifoseria/rivalita/siracusa": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Rivalità Catania-Siracusa (Derby dello Jonio)",
+      "aliases": [
+        "Siracusa"
+      ]
+    },
+    "tifoseria/rivalita/atletico-catania": {
+      "entity_type": "relazione_tifo",
+      "canonical_name": "Vicenda e Rigetto dell'Atletico Catania",
+      "aliases": [
+        "Atletico Catania"
+      ]
+    },
+    "maglie/sponsor-tecnici-e-commerciali": {
+      "entity_type": "kit_storico",
+      "canonical_name": "Sponsor Tecnici e Commerciali del Calcio Catania (1979-Oggi)",
+      "aliases": [
+        "Sponsor tecnici del Catania",
+        "Sponsor commerciali del Catania",
+        "Sponsor storici",
+        "Fornitori tecnici Calcio Catania"
+      ]
+    },
+    "tifoseria/curva-nord/a-sostegno-di-una-fede": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "A Sostegno di una fede (Curva Nord Catania)",
+      "aliases": [
+        "A Sostegno di una fede",
+        "A Sostegno Di Una Fede",
+        "ASDUF",
+        "Striscione A Sostegno di una fede"
+      ]
+    },
+    "tifoseria/curva-nord/mecha-katane": {
+      "entity_type": "gruppo_ultras",
+      "canonical_name": "Mecha Katane e Clan Rionali Curva Nord",
+      "aliases": [
+        "Mecha Katane",
+        "Mecha Klan",
+        "Clan rionali Curva Nord",
+        "Mecha Katane Curva Nord"
+      ]
+    },
+    "stagioni/1929-1930": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1929-1930",
+      "aliases": [
+        "Campionato 1929-1930",
+        "Catania 1929-1930",
+        "1929-1930"
+      ]
+    },
+    "stagioni/2006-2007": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2006-2007",
+      "aliases": [
+        "Campionato 2006-2007",
+        "Catania 2006-2007",
+        "2006-2007"
+      ]
+    },
+    "stagioni/2008-2009": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2008-2009",
+      "aliases": [
+        "Campionato 2008-2009",
+        "Catania 2008-2009",
+        "2008-2009"
+      ]
+    },
+    "stagioni/2009-2010": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2009-2010",
+      "aliases": [
+        "Campionato 2009-2010",
+        "Catania 2009-2010",
+        "2009-2010"
+      ]
+    },
+    "stagioni/2010-2011": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2010-2011",
+      "aliases": [
+        "Campionato 2010-2011",
+        "Catania 2010-2011",
+        "2010-2011"
+      ]
+    },
+    "stagioni/1930-1931": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1930-1931",
+      "aliases": [
+        "Campionato 1930-1931",
+        "Catania 1930-1931",
+        "1930-1931"
+      ]
+    },
+    "stagioni/1931-1932": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1931-1932",
+      "aliases": [
+        "Campionato 1931-1932",
+        "Catania 1931-1932",
+        "1931-1932"
+      ]
+    },
+    "stagioni/1932-1933": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1932-1933",
+      "aliases": [
+        "Campionato 1932-1933",
+        "Catania 1932-1933",
+        "1932-1933"
+      ]
+    },
+    "stagioni/1934-1935": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1934-1935",
+      "aliases": [
+        "Campionato 1934-1935",
+        "Catania 1934-1935",
+        "1934-1935"
+      ]
+    },
+    "stagioni/1935-1936": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1935-1936",
+      "aliases": [
+        "Campionato 1935-1936",
+        "Catania 1935-1936",
+        "1935-1936"
+      ]
+    },
+    "stagioni/1936-1937": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1936-1937",
+      "aliases": [
+        "Campionato 1936-1937",
+        "Catania 1936-1937",
+        "1936-1937"
+      ]
+    },
+    "stagioni/1937-1938": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1937-1938",
+      "aliases": [
+        "Campionato 1937-1938",
+        "Catania 1937-1938",
+        "1937-1938"
+      ]
+    },
+    "stagioni/1938-1939": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1938-1939",
+      "aliases": [
+        "Campionato 1938-1939",
+        "Catania 1938-1939",
+        "1938-1939"
+      ]
+    },
+    "stagioni/1939-1940": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1939-1940",
+      "aliases": [
+        "Campionato 1939-1940",
+        "Catania 1939-1940",
+        "1939-1940"
+      ]
+    },
+    "stagioni/1940-1941": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1940-1941",
+      "aliases": [
+        "Campionato 1940-1941",
+        "Catania 1940-1941",
+        "1940-1941"
+      ]
+    },
+    "stagioni/1941-1942": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1941-1942",
+      "aliases": [
+        "Campionato 1941-1942",
+        "Catania 1941-1942",
+        "1941-1942"
+      ]
+    },
+    "stagioni/1942-1943": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1942-1943",
+      "aliases": [
+        "Campionato 1942-1943",
+        "Catania 1942-1943",
+        "1942-1943"
+      ]
+    },
+    "stagioni/1946-1947": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1946-1947",
+      "aliases": [
+        "Campionato 1946-1947",
+        "Catania 1946-1947",
+        "1946-1947"
+      ]
+    },
+    "stagioni/1947-1948": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1947-1948",
+      "aliases": [
+        "Campionato 1947-1948",
+        "Catania 1947-1948",
+        "1947-1948"
+      ]
+    },
+    "stagioni/1948-1949": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1948-1949",
+      "aliases": [
+        "Campionato 1948-1949",
+        "Catania 1948-1949",
+        "1948-1949"
+      ]
+    },
+    "stagioni/1949-1950": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1949-1950",
+      "aliases": [
+        "Campionato 1949-1950",
+        "Catania 1949-1950",
+        "1949-1950"
+      ]
+    },
+    "stagioni/1950-1951": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1950-1951",
+      "aliases": [
+        "Campionato 1950-1951",
+        "Catania 1950-1951",
+        "1950-1951"
+      ]
+    },
+    "stagioni/1951-1952": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1951-1952",
+      "aliases": [
+        "Campionato 1951-1952",
+        "Catania 1951-1952",
+        "1951-1952"
+      ]
+    },
+    "stagioni/1952-1953": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1952-1953",
+      "aliases": [
+        "Campionato 1952-1953",
+        "Catania 1952-1953",
+        "1952-1953"
+      ]
+    },
+    "stagioni/1955-1956": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1955-1956",
+      "aliases": [
+        "Campionato 1955-1956",
+        "Catania 1955-1956",
+        "1955-1956"
+      ]
+    },
+    "stagioni/1956-1957": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1956-1957",
+      "aliases": [
+        "Campionato 1956-1957",
+        "Catania 1956-1957",
+        "1956-1957"
+      ]
+    },
+    "stagioni/1957-1958": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1957-1958",
+      "aliases": [
+        "Campionato 1957-1958",
+        "Catania 1957-1958",
+        "1957-1958"
+      ]
+    },
+    "stagioni/1958-1959": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1958-1959",
+      "aliases": [
+        "Campionato 1958-1959",
+        "Catania 1958-1959",
+        "1958-1959"
+      ]
+    },
+    "stagioni/1959-1960": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1959-1960",
+      "aliases": [
+        "Campionato 1959-1960",
+        "Catania 1959-1960",
+        "1959-1960"
+      ]
+    },
+    "stagioni/1961-1962": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1961-1962",
+      "aliases": [
+        "Campionato 1961-1962",
+        "Catania 1961-1962",
+        "1961-1962"
+      ]
+    },
+    "stagioni/1962-1963": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1962-1963",
+      "aliases": [
+        "Campionato 1962-1963",
+        "Catania 1962-1963",
+        "1962-1963"
+      ]
+    },
+    "stagioni/1965-1966": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1965-1966",
+      "aliases": [
+        "Campionato 1965-1966",
+        "Catania 1965-1966",
+        "1965-1966"
+      ]
+    },
+    "stagioni/1966-1967": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1966-1967",
+      "aliases": [
+        "Campionato 1966-1967",
+        "Catania 1966-1967",
+        "1966-1967"
+      ]
+    },
+    "stagioni/1967-1968": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1967-1968",
+      "aliases": [
+        "Campionato 1967-1968",
+        "Catania 1967-1968",
+        "1967-1968"
+      ]
+    },
+    "stagioni/1968-1969": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1968-1969",
+      "aliases": [
+        "Campionato 1968-1969",
+        "Catania 1968-1969",
+        "1968-1969"
+      ]
+    },
+    "stagioni/1970-1971": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1970-1971",
+      "aliases": [
+        "Campionato 1970-1971",
+        "Catania 1970-1971",
+        "1970-1971"
+      ]
+    },
+    "stagioni/1971-1972": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1971-1972",
+      "aliases": [
+        "Campionato 1971-1972",
+        "Catania 1971-1972",
+        "1971-1972"
+      ]
+    },
+    "stagioni/1972-1973": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1972-1973",
+      "aliases": [
+        "Campionato 1972-1973",
+        "Catania 1972-1973",
+        "1972-1973"
+      ]
+    },
+    "stagioni/1973-1974": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1973-1974",
+      "aliases": [
+        "Campionato 1973-1974",
+        "Catania 1973-1974",
+        "1973-1974"
+      ]
+    },
+    "stagioni/1974-1975": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1974-1975",
+      "aliases": [
+        "Campionato 1974-1975",
+        "Catania 1974-1975",
+        "1974-1975"
+      ]
+    },
+    "stagioni/1975-1976": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1975-1976",
+      "aliases": [
+        "Campionato 1975-1976",
+        "Catania 1975-1976",
+        "1975-1976"
+      ]
+    },
+    "stagioni/1976-1977": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1976-1977",
+      "aliases": [
+        "Campionato 1976-1977",
+        "Catania 1976-1977",
+        "1976-1977"
+      ]
+    },
+    "stagioni/1977-1978": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1977-1978",
+      "aliases": [
+        "Campionato 1977-1978",
+        "Catania 1977-1978",
+        "1977-1978"
+      ]
+    },
+    "stagioni/1978-1979": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1978-1979",
+      "aliases": [
+        "Campionato 1978-1979",
+        "Catania 1978-1979",
+        "1978-1979"
+      ]
+    },
+    "stagioni/1980-1981": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1980-1981",
+      "aliases": [
+        "Campionato 1980-1981",
+        "Catania 1980-1981",
+        "1980-1981"
+      ]
+    },
+    "stagioni/1981-1982": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1981-1982",
+      "aliases": [
+        "Campionato 1981-1982",
+        "Catania 1981-1982",
+        "1981-1982"
+      ]
+    },
+    "stagioni/1984-1985": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1984-1985",
+      "aliases": [
+        "Campionato 1984-1985",
+        "Catania 1984-1985",
+        "1984-1985"
+      ]
+    },
+    "stagioni/1985-1986": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1985-1986",
+      "aliases": [
+        "Campionato 1985-1986",
+        "Catania 1985-1986",
+        "1985-1986"
+      ]
+    },
+    "stagioni/1986-1987": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1986-1987",
+      "aliases": [
+        "Campionato 1986-1987",
+        "Catania 1986-1987",
+        "1986-1987"
+      ]
+    },
+    "stagioni/1987-1988": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1987-1988",
+      "aliases": [
+        "Campionato 1987-1988",
+        "Catania 1987-1988",
+        "1987-1988"
+      ]
+    },
+    "stagioni/1988-1989": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1988-1989",
+      "aliases": [
+        "Campionato 1988-1989",
+        "Catania 1988-1989",
+        "1988-1989"
+      ]
+    },
+    "stagioni/1989-1990": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1989-1990",
+      "aliases": [
+        "Campionato 1989-1990",
+        "Catania 1989-1990",
+        "1989-1990"
+      ]
+    },
+    "stagioni/1990-1991": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1990-1991",
+      "aliases": [
+        "Campionato 1990-1991",
+        "Catania 1990-1991",
+        "1990-1991"
+      ]
+    },
+    "stagioni/1991-1992": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1991-1992",
+      "aliases": [
+        "Campionato 1991-1992",
+        "Catania 1991-1992",
+        "1991-1992"
+      ]
+    },
+    "stagioni/1992-1993": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1992-1993",
+      "aliases": [
+        "Campionato 1992-1993",
+        "Catania 1992-1993",
+        "1992-1993"
+      ]
+    },
+    "stagioni/1994-1995": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1994-1995",
+      "aliases": [
+        "Campionato 1994-1995",
+        "Catania 1994-1995",
+        "1994-1995"
+      ]
+    },
+    "stagioni/1995-1996": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1995-1996",
+      "aliases": [
+        "Campionato 1995-1996",
+        "Catania 1995-1996",
+        "1995-1996"
+      ]
+    },
+    "stagioni/1996-1997": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1996-1997",
+      "aliases": [
+        "Campionato 1996-1997",
+        "Catania 1996-1997",
+        "1996-1997"
+      ]
+    },
+    "stagioni/1997-1998": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1997-1998",
+      "aliases": [
+        "Campionato 1997-1998",
+        "Catania 1997-1998",
+        "1997-1998"
+      ]
+    },
+    "stagioni/1998-1999": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1998-1999",
+      "aliases": [
+        "Campionato 1998-1999",
+        "Catania 1998-1999",
+        "1998-1999"
+      ]
+    },
+    "stagioni/1999-2000": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 1999-2000",
+      "aliases": [
+        "Campionato 1999-2000",
+        "Catania 1999-2000",
+        "1999-2000"
+      ]
+    },
+    "stagioni/2000-2001": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2000-2001",
+      "aliases": [
+        "Campionato 2000-2001",
+        "Catania 2000-2001",
+        "2000-2001"
+      ]
+    },
+    "stagioni/2004-2005": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2004-2005",
+      "aliases": [
+        "Campionato 2004-2005",
+        "Catania 2004-2005",
+        "2004-2005"
+      ]
+    },
+    "stagioni/2007-2008": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2007-2008",
+      "aliases": [
+        "Campionato 2007-2008",
+        "Catania 2007-2008",
+        "2007-2008"
+      ]
+    },
+    "stagioni/2016-2017": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2016-2017",
+      "aliases": [
+        "Campionato 2016-2017",
+        "Catania 2016-2017",
+        "2016-2017"
+      ]
+    },
+    "stagioni/2017-2018": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2017-2018",
+      "aliases": [
+        "Campionato 2017-2018",
+        "Catania 2017-2018",
+        "2017-2018"
+      ]
+    },
+    "stagioni/2018-2019": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2018-2019",
+      "aliases": [
+        "Campionato 2018-2019",
+        "Catania 2018-2019",
+        "2018-2019"
+      ]
+    },
+    "stagioni/2019-2020": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2019-2020",
+      "aliases": [
+        "Campionato 2019-2020",
+        "Catania 2019-2020",
+        "2019-2020"
+      ]
+    },
+    "stagioni/2020-2021": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2020-2021",
+      "aliases": [
+        "Campionato 2020-2021",
+        "Catania 2020-2021",
+        "2020-2021"
+      ]
+    },
+    "stagioni/2024-2025": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2024-2025",
+      "aliases": [
+        "Campionato 2024-2025",
+        "Catania 2024-2025",
+        "2024-2025"
+      ]
+    },
+    "stagioni/2025-2026": {
+      "entity_type": "stagione_agonistica",
+      "canonical_name": "Stagione 2025-2026",
+      "aliases": [
+        "Campionato 2025-2026",
+        "Catania 2025-2026",
+        "2025-2026"
+      ]
+    },
+    "tifoseria/curva-nord/coreografie-storiche-massimino": {
+      "entity_type": "evento_tifo",
+      "canonical_name": "Coreografie Storiche della Curva Nord allo Stadio Massimino",
+      "aliases": [
+        "Coreografie Curva Nord",
+        "Coreografie storiche Curva Nord",
+        "Scenografie Curva Nord Massimino"
+      ]
+    },
+    "tifoseria/curva-nord/festa-curva-nord-famiglie-bambini-2026": {
+      "entity_type": "evento_tifo",
+      "canonical_name": "Festa della Curva Nord per Famiglie e Bambini (Ottobre 2026)",
+      "aliases": [
+        "Festa Curva Nord famiglie e bambini",
+        "Festa Curva Nord 2026",
+        "Festa Curva Nord Piazza Spedini"
+      ]
+    },
+    "tifoseria/eventi/daspo-ordine-pubblico-legislazione": {
+      "entity_type": "evento_tifo",
+      "canonical_name": "Ordine Pubblico, DASPO e Legislazione Speciale Antiviolenza",
+      "aliases": [
+        "DASPO e ordine pubblico",
+        "Legislazione antiviolenza stadi",
+        "Legislazione speciale tifo Catania"
+      ]
+    },
+    "tesserati/allenatori/walter-zenga": {
+      "entity_type": "allenatore",
+      "canonical_name": "Walter Zenga",
+      "aliases": [
+        "Zenga",
+        "Uomo Ragno"
+      ]
+    },
+    "tesserati/allenatori/vincenzo-montella": {
+      "entity_type": "allenatore",
+      "canonical_name": "Vincenzo Montella",
+      "aliases": [
+        "Montella",
+        "Aeroplanino"
+      ]
+    },
+    "tesserati/calciatori/aldo-cantarutti": {
+      "entity_type": "calciatore",
+      "canonical_name": "Aldo Cantarutti",
+      "aliases": [
+        "Cantarutti"
+      ]
+    },
+    "tesserati/calciatori/claudio-ranieri": {
+      "entity_type": "calciatore",
+      "canonical_name": "Claudio Ranieri",
+      "aliases": [
+        "Ranieri",
+        "Capitan Ranieri"
+      ]
+    },
+    "tesserati/calciatori/matias-silvestre": {
+      "entity_type": "calciatore",
+      "canonical_name": "Matías Silvestre",
+      "aliases": [
+        "Matias Silvestre",
+        "Silvestre"
+      ]
+    },
+    "tesserati/calciatori/mariano-andujar": {
+      "entity_type": "calciatore",
+      "canonical_name": "Mariano Andújar",
+      "aliases": [
+        "Mariano Andujar",
+        "Andujar"
+      ]
+    },
+    "tesserati/calciatori/lucas-castro": {
+      "entity_type": "calciatore",
+      "canonical_name": "Lucas Castro",
+      "aliases": [
+        "El Pata",
+        "Lucas Nahuel Castro",
+        "Castro"
+      ]
+    },
+    "tesserati/calciatori/piero-blengino": {
+      "entity_type": "calciatore",
+      "canonical_name": "Piero Blengino",
+      "aliases": [
+        "Pierino Blengino",
+        "Blengino"
+      ]
+    },
+    "tesserati/calciatori/ercole-bodini": {
+      "entity_type": "calciatore",
+      "canonical_name": "Ercole Bodini",
+      "aliases": [
+        "Bodini",
+        "Ercole Bodini I"
+      ]
+    },
+    "tesserati/calciatori/ettore-brossi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Ettore Brossi",
+      "aliases": [
+        "Brossi"
+      ]
+    },
+    "tesserati/calciatori/enzo-bellini": {
+      "entity_type": "calciatore",
+      "canonical_name": "Enzo Bellini",
+      "aliases": [
+        "Bellini"
+      ]
+    },
+    "tesserati/calciatori/romano-schillani": {
+      "entity_type": "calciatore",
+      "canonical_name": "Romano Schillani",
+      "aliases": [
+        "Schillani"
+      ]
+    },
+    "tesserati/calciatori/engelbert-koenig": {
+      "entity_type": "calciatore",
+      "canonical_name": "Engelbert Koenig",
+      "aliases": [
+        "Koenig",
+        "Engelbert König"
+      ]
+    },
+    "tesserati/calciatori/armando-perrone": {
+      "entity_type": "calciatore",
+      "canonical_name": "Armando Perrone",
+      "aliases": [
+        "Perrone"
+      ]
+    },
+    "tesserati/calciatori/goffredo-romani": {
+      "entity_type": "calciatore",
+      "canonical_name": "Goffredo Romani",
+      "aliases": [
+        "Romani"
+      ]
+    },
+    "tesserati/calciatori/guido-klein": {
+      "entity_type": "calciatore",
+      "canonical_name": "Guido Klein",
+      "aliases": [
+        "Klein"
+      ]
+    },
+    "tesserati/calciatori/bruno-micheloni": {
+      "entity_type": "calciatore",
+      "canonical_name": "Bruno Micheloni",
+      "aliases": [
+        "Micheloni"
+      ]
+    },
+    "tesserati/calciatori/michele-manenti": {
+      "entity_type": "calciatore",
+      "canonical_name": "Michele Manenti",
+      "aliases": [
+        "Manenti"
+      ]
+    },
+    "tesserati/calciatori/karl-aage-hansen": {
+      "entity_type": "calciatore",
+      "canonical_name": "Karl Aage Hansen",
+      "aliases": [
+        "Hansen",
+        "Karl Hansen"
+      ]
+    },
+    "tesserati/calciatori/guido-spikofski": {
+      "entity_type": "calciatore",
+      "canonical_name": "Guido Spikofski",
+      "aliases": [
+        "Spikofski",
+        "György Spikofszky"
+      ]
+    },
+    "tesserati/calciatori/ermo-buzzin": {
+      "entity_type": "calciatore",
+      "canonical_name": "Ermo Buzzin",
+      "aliases": [
+        "Buzzin"
+      ]
+    },
+    "tesserati/calciatori/riccardo-carapellese": {
+      "entity_type": "calciatore",
+      "canonical_name": "Riccardo Carapellese",
+      "aliases": [
+        "Carapellese"
+      ]
+    },
+    "tesserati/calciatori/salvador-calvanese": {
+      "entity_type": "calciatore",
+      "canonical_name": "Salvador Calvanese",
+      "aliases": [
+        "Todo Calvanese",
+        "Calvanese"
+      ]
+    },
+    "tesserati/calciatori/giancarlo-danova": {
+      "entity_type": "calciatore",
+      "canonical_name": "Giancarlo Danova",
+      "aliases": [
+        "Danova",
+        "Pantera"
+      ]
+    },
+    "tesserati/calciatori/alessandro-vitali": {
+      "entity_type": "calciatore",
+      "canonical_name": "Alessandro Vitali",
+      "aliases": [
+        "Vitali"
+      ]
+    },
+    "tesserati/calciatori/aquilino-bonfanti": {
+      "entity_type": "calciatore",
+      "canonical_name": "Aquilino Bonfanti",
+      "aliases": [
+        "Bonfanti"
+      ]
+    },
+    "tesserati/calciatori/fulvio-francesconi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Fulvio Francesconi",
+      "aliases": [
+        "Francesconi"
+      ]
+    },
+    "tesserati/calciatori/giampietro-spagnolo": {
+      "entity_type": "calciatore",
+      "canonical_name": "Giampietro Spagnolo",
+      "aliases": [
+        "Spagnolo",
+        "Il Gigante Spagnolo"
+      ]
+    },
+    "tesserati/calciatori/pedrinho": {
+      "entity_type": "calciatore",
+      "canonical_name": "Pedrinho",
+      "aliases": [
+        "Pedro Luís Vicençote",
+        "Pedrinho Vicençote"
+      ]
+    },
+    "tesserati/calciatori/carlo-borghi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Carlo Borghi",
+      "aliases": [
+        "Borghi"
+      ]
+    },
+    "tesserati/calciatori/orazio-sorbello": {
+      "entity_type": "calciatore",
+      "canonical_name": "Orazio Sorbello",
+      "aliases": [
+        "Sorbello"
+      ]
+    },
+    "tesserati/calciatori/adriano-polenta": {
+      "entity_type": "calciatore",
+      "canonical_name": "Adriano Polenta",
+      "aliases": [
+        "Polenta"
+      ]
+    },
+    "tesserati/calciatori/loris-pradella": {
+      "entity_type": "calciatore",
+      "canonical_name": "Loris Pradella",
+      "aliases": [
+        "Pradella"
+      ]
+    },
+    "tesserati/calciatori/loriano-cipriani": {
+      "entity_type": "calciatore",
+      "canonical_name": "Loriano Cipriani",
+      "aliases": [
+        "Cipriani"
+      ]
+    },
+    "tesserati/calciatori/giuseppe-mosca": {
+      "entity_type": "calciatore",
+      "canonical_name": "Giuseppe Mosca",
+      "aliases": [
+        "Mosca"
+      ]
+    },
+    "tesserati/calciatori/maurizio-naccari": {
+      "entity_type": "calciatore",
+      "canonical_name": "Maurizio Naccari",
+      "aliases": [
+        "Naccari"
+      ]
+    },
+    "tesserati/calciatori/tiziano-disidoro": {
+      "entity_type": "calciatore",
+      "canonical_name": "Tiziano D'Isidoro",
+      "aliases": [
+        "D'Isidoro",
+        "Disidoro"
+      ]
+    },
+    "tesserati/calciatori/luca-lugnan": {
+      "entity_type": "calciatore",
+      "canonical_name": "Luca Lugnan",
+      "aliases": [
+        "Lugnan"
+      ]
+    },
+    "tesserati/calciatori/umberto-brutto": {
+      "entity_type": "calciatore",
+      "canonical_name": "Umberto Brutto",
+      "aliases": [
+        "Brutto",
+        "Capitan Brutto"
+      ]
+    },
+    "tesserati/calciatori/roberto-passiatore": {
+      "entity_type": "calciatore",
+      "canonical_name": "Roberto Passiatore",
+      "aliases": [
+        "Passiatore"
+      ]
+    },
+    "tesserati/calciatori/alessandro-ambrosi": {
+      "entity_type": "calciatore",
+      "canonical_name": "Alessandro Ambrosi",
+      "aliases": [
+        "Ambrosi",
+        "Il Re Leone"
+      ]
+    },
+    "tesserati/calciatori/eddy-baggio": {
+      "entity_type": "calciatore",
+      "canonical_name": "Eddy Baggio",
+      "aliases": [
+        "Baggio",
+        "Eddy Baggio"
+      ]
+    },
+    "tesserati/calciatori/luis-oliveira": {
+      "entity_type": "calciatore",
+      "canonical_name": "Luís Oliveira",
+      "aliases": [
+        "Lulù Oliveira",
+        "Oliveira",
+        "Luís Airton Oliveira Barroso"
+      ]
+    },
+    "tesserati/calciatori/jeda": {
+      "entity_type": "calciatore",
+      "canonical_name": "Jeda",
+      "aliases": [
+        "Jedaias Capucho Neves",
+        "Jeda Neves"
+      ]
+    },
+    "tesserati/calciatori/caetano-calil": {
+      "entity_type": "calciatore",
+      "canonical_name": "Caetano Calil",
+      "aliases": [
+        "Calil",
+        "Caetano Prata Calil"
+      ]
+    },
+    "tesserati/calciatori/samuel-di-carmine": {
+      "entity_type": "calciatore",
+      "canonical_name": "Samuel Di Carmine",
+      "aliases": [
+        "Di Carmine"
+      ]
+    },
+    "tesserati/calciatori/roberto-inglese": {
+      "entity_type": "calciatore",
+      "canonical_name": "Roberto Inglese",
+      "aliases": [
+        "Inglese",
+        "Bobby English"
+      ]
+    },
+    "tesserati/allenatori/giorgio-armari": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giorgio Armari",
+      "aliases": [
+        "Armari"
+      ]
+    },
+    "tesserati/allenatori/michele-spata": {
+      "entity_type": "allenatore",
+      "canonical_name": "Michele Spata",
+      "aliases": [
+        "Spata"
+      ]
+    },
+    "tesserati/allenatori/antal-mally": {
+      "entity_type": "allenatore",
+      "canonical_name": "Antal Mally",
+      "aliases": [
+        "Mally",
+        "Antal Málly"
+      ]
+    },
+    "tesserati/allenatori/nicola-papa": {
+      "entity_type": "allenatore",
+      "canonical_name": "Nicola Papa",
+      "aliases": [
+        "Papa"
+      ]
+    },
+    "tesserati/allenatori/walter-joackim": {
+      "entity_type": "allenatore",
+      "canonical_name": "Walter Joackim",
+      "aliases": [
+        "Joackim",
+        "Walter Joachim"
+      ]
+    },
+    "tesserati/allenatori/giacinto-bavazzano": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giacinto Bavazzano",
+      "aliases": [
+        "Bavazzano"
+      ]
+    },
+    "tesserati/allenatori/lajos-czeizler": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lajos Czeizler",
+      "aliases": [
+        "Czeizler"
+      ]
+    },
+    "tesserati/allenatori/pietro-colombati": {
+      "entity_type": "allenatore",
+      "canonical_name": "Pietro Colombati",
+      "aliases": [
+        "Colombati"
+      ]
+    },
+    "tesserati/allenatori/giovanni-degni": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giovanni Degni",
+      "aliases": [
+        "Degni"
+      ]
+    },
+    "tesserati/allenatori/mario-sernagiotto": {
+      "entity_type": "allenatore",
+      "canonical_name": "Mario Sernagiotto",
+      "aliases": [
+        "Sernagiotto"
+      ]
+    },
+    "tesserati/allenatori/gyorgy-orth": {
+      "entity_type": "allenatore",
+      "canonical_name": "György Orth",
+      "aliases": [
+        "Orth",
+        "Gyorgy Orth"
+      ]
+    },
+    "tesserati/allenatori/ernst-guzsik": {
+      "entity_type": "allenatore",
+      "canonical_name": "Ernst Guzsik",
+      "aliases": [
+        "Guzsik",
+        "Guszik",
+        "Ernst Guszik"
+      ]
+    },
+    "tesserati/allenatori/berardo-frisoni": {
+      "entity_type": "allenatore",
+      "canonical_name": "Berardo Frisoni",
+      "aliases": [
+        "Frisoni",
+        "Frisoni II"
+      ]
+    },
+    "tesserati/allenatori/lorenzo-bergia": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lorenzo Bergia",
+      "aliases": [
+        "Bergia"
+      ]
+    },
+    "tesserati/allenatori/cesare-goffi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Cesare Goffi",
+      "aliases": [
+        "Goffi"
+      ]
+    },
+    "tesserati/allenatori/achille-piccini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Achille Piccini",
+      "aliases": [
+        "Piccini"
+      ]
+    },
+    "tesserati/allenatori/nicolo-nicolosi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Nicolò Nicolosi",
+      "aliases": [
+        "Nicolosi",
+        "Segnapiano"
+      ]
+    },
+    "tesserati/allenatori/jozsef-banas": {
+      "entity_type": "allenatore",
+      "canonical_name": "József Bánás",
+      "aliases": [
+        "Bánás",
+        "Banas",
+        "Jozsef Banas"
+      ]
+    },
+    "tesserati/allenatori/mario-magnozzi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Mario Magnozzi",
+      "aliases": [
+        "Magnozzi",
+        "Motorino"
+      ]
+    },
+    "tesserati/allenatori/stanislao-klein": {
+      "entity_type": "allenatore",
+      "canonical_name": "Stanislao Klein",
+      "aliases": [
+        "Klein"
+      ]
+    },
+    "tesserati/allenatori/lajos-politzer": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lajos Politzer",
+      "aliases": [
+        "Politzer"
+      ]
+    },
+    "tesserati/allenatori/nereo-marini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Nereo Marini",
+      "aliases": [
+        "Marini"
+      ]
+    },
+    "tesserati/allenatori/rodolfo-brondi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Rodolfo Brondi",
+      "aliases": [
+        "Brondi"
+      ]
+    },
+    "tesserati/allenatori/fioravante-baldi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Fioravante Baldi",
+      "aliases": [
+        "Baldi"
+      ]
+    },
+    "tesserati/allenatori/giulio-cappelli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giulio Cappelli",
+      "aliases": [
+        "Cappelli"
+      ]
+    },
+    "tesserati/allenatori/enzo-bellini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Enzo Bellini",
+      "aliases": [
+        "Bellini"
+      ]
+    },
+    "tesserati/allenatori/gipo-poggi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gipo Poggi",
+      "aliases": [
+        "Poggi",
+        "Gipo Poggi II"
+      ]
+    },
+    "tesserati/allenatori/riccardo-carapellese": {
+      "entity_type": "allenatore",
+      "canonical_name": "Riccardo Carapellese",
+      "aliases": [
+        "Carapellese"
+      ]
+    },
+    "tesserati/allenatori/francesco-capocasale": {
+      "entity_type": "allenatore",
+      "canonical_name": "Francesco Capocasale",
+      "aliases": [
+        "Capocasale"
+      ]
+    },
+    "tesserati/allenatori/blagoje-marjanovic": {
+      "entity_type": "allenatore",
+      "canonical_name": "Blagoje Marjanović",
+      "aliases": [
+        "Marjanovic",
+        "Moša",
+        "Blagoje Marjanovic"
+      ]
+    },
+    "tesserati/allenatori/felice-borel": {
+      "entity_type": "allenatore",
+      "canonical_name": "Felice Borel",
+      "aliases": [
+        "Borel",
+        "Farfallino",
+        "Felice Borel II"
+      ]
+    },
+    "tesserati/allenatori/luigi-valsecchi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Luigi Valsecchi",
+      "aliases": [
+        "Valsecchi",
+        "Zio Gigi"
+      ]
+    },
+    "tesserati/allenatori/dino-ballacci": {
+      "entity_type": "allenatore",
+      "canonical_name": "Dino Ballacci",
+      "aliases": [
+        "Ballacci"
+      ]
+    },
+    "tesserati/allenatori/salvador-calvanese": {
+      "entity_type": "allenatore",
+      "canonical_name": "Salvador Calvanese",
+      "aliases": [
+        "Calvanese",
+        "Todo Calvanese"
+      ]
+    },
+    "tesserati/allenatori/guido-mazzetti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Guido Mazzetti",
+      "aliases": [
+        "Mazzetti",
+        "Sor Guido"
+      ]
+    },
+    "tesserati/allenatori/adelmo-prenna": {
+      "entity_type": "allenatore",
+      "canonical_name": "Adelmo Prenna",
+      "aliases": [
+        "Prenna"
+      ]
+    },
+    "tesserati/allenatori/gennaro-rambone": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gennaro Rambone",
+      "aliases": [
+        "Rambone"
+      ]
+    },
+    "tesserati/allenatori/carlo-matteucci": {
+      "entity_type": "allenatore",
+      "canonical_name": "Carlo Matteucci",
+      "aliases": [
+        "Matteucci"
+      ]
+    },
+    "tesserati/allenatori/adelmo-capelli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Adelmo Capelli",
+      "aliases": [
+        "Capelli"
+      ]
+    },
+    "tesserati/allenatori/lino-de-petrillo": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lino De Petrillo",
+      "aliases": [
+        "De Petrillo"
+      ]
+    },
+    "tesserati/allenatori/giorgio-michelotti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giorgio Michelotti",
+      "aliases": [
+        "Michelotti"
+      ]
+    },
+    "tesserati/allenatori/giovan-battista-fabbri": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giovan Battista Fabbri",
+      "aliases": [
+        "Fabbri",
+        "Gibì Fabbri"
+      ]
+    },
+    "tesserati/allenatori/antonio-renna": {
+      "entity_type": "allenatore",
+      "canonical_name": "Antonio Renna",
+      "aliases": [
+        "Renna"
+      ]
+    },
+    "tesserati/allenatori/salvatore-bianchetti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Salvatore Bianchetti",
+      "aliases": [
+        "Bianchetti"
+      ]
+    },
+    "tesserati/allenatori/antonio-colomban": {
+      "entity_type": "allenatore",
+      "canonical_name": "Antonio Colomban",
+      "aliases": [
+        "Colomban"
+      ]
+    },
+    "tesserati/allenatori/bruno-pace": {
+      "entity_type": "allenatore",
+      "canonical_name": "Bruno Pace",
+      "aliases": [
+        "Pace"
+      ]
+    },
+    "tesserati/allenatori/osvaldo-jaconi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Osvaldo Jaconi",
+      "aliases": [
+        "Jaconi"
+      ]
+    },
+    "tesserati/allenatori/pietro-santin": {
+      "entity_type": "allenatore",
+      "canonical_name": "Pietro Santin",
+      "aliases": [
+        "Santin"
+      ]
+    },
+    "tesserati/allenatori/carmelo-russo": {
+      "entity_type": "allenatore",
+      "canonical_name": "Carmelo Russo",
+      "aliases": [
+        "Russo Carmelo"
+      ]
+    },
+    "tesserati/allenatori/angelo-sormani": {
+      "entity_type": "allenatore",
+      "canonical_name": "Angelo Sormani",
+      "aliases": [
+        "Sormani",
+        "Angelo Benedicto Sormani"
+      ]
+    },
+    "tesserati/allenatori/giuseppe-caramanno": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giuseppe Caramanno",
+      "aliases": [
+        "Caramanno"
+      ]
+    },
+    "tesserati/allenatori/franco-vannini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Franco Vannini",
+      "aliases": [
+        "Vannini",
+        "Condor Vannini"
+      ]
+    },
+    "tesserati/allenatori/franco-indelicato": {
+      "entity_type": "allenatore",
+      "canonical_name": "Franco Indelicato",
+      "aliases": [
+        "Indelicato"
+      ]
+    },
+    "tesserati/allenatori/lorenzo-barlassina": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lorenzo Barlassina",
+      "aliases": [
+        "Barlassina",
+        "Lilly Barlassina"
+      ]
+    },
+    "tesserati/allenatori/pier-giuseppe-mosti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Pier Giuseppe Mosti",
+      "aliases": [
+        "Mosti"
+      ]
+    },
+    "tesserati/allenatori/angelo-busetta": {
+      "entity_type": "allenatore",
+      "canonical_name": "Angelo Busetta",
+      "aliases": [
+        "Busetta",
+        "Professore Busetta"
+      ]
+    },
+    "tesserati/allenatori/lamberto-leonardi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Lamberto Leonardi",
+      "aliases": [
+        "Leonardi"
+      ]
+    },
+    "tesserati/allenatori/aldo-cerantola": {
+      "entity_type": "allenatore",
+      "canonical_name": "Aldo Cerantola",
+      "aliases": [
+        "Cerantola"
+      ]
+    },
+    "tesserati/allenatori/mario-russo": {
+      "entity_type": "allenatore",
+      "canonical_name": "Mario Russo",
+      "aliases": [
+        "Mario Russo"
+      ]
+    },
+    "tesserati/allenatori/giovanni-mei": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giovanni Mei",
+      "aliases": [
+        "Mei"
+      ]
+    },
+    "tesserati/allenatori/franco-gagliardi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Franco Gagliardi",
+      "aliases": [
+        "Gagliardi"
+      ]
+    },
+    "tesserati/allenatori/piero-cucchi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Piero Cucchi",
+      "aliases": [
+        "Cucchi",
+        "Generale Cucchi"
+      ]
+    },
+    "tesserati/allenatori/gianni-simonelli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gianni Simonelli",
+      "aliases": [
+        "Simonelli",
+        "Giovanni Simonelli",
+        "Professore di Nola"
+      ]
+    },
+    "tesserati/allenatori/ivo-iaconi": {
+      "entity_type": "allenatore",
+      "canonical_name": "Ivo Iaconi",
+      "aliases": [
+        "Iaconi"
+      ]
+    },
+    "tesserati/allenatori/aldo-ammazzalorso": {
+      "entity_type": "allenatore",
+      "canonical_name": "Aldo Ammazzalorso",
+      "aliases": [
+        "Ammazzalorso"
+      ]
+    },
+    "tesserati/allenatori/pietro-vierchowod": {
+      "entity_type": "allenatore",
+      "canonical_name": "Pietro Vierchowod",
+      "aliases": [
+        "Vierchowod",
+        "Lo Zar",
+        "Zar Vierchowod"
+      ]
+    },
+    "tesserati/allenatori/francesco-graziani": {
+      "entity_type": "allenatore",
+      "canonical_name": "Francesco Graziani",
+      "aliases": [
+        "Graziani",
+        "Ciccio Graziani"
+      ]
+    },
+    "tesserati/allenatori/maurizio-pellegrino": {
+      "entity_type": "allenatore",
+      "canonical_name": "Maurizio Pellegrino",
+      "aliases": [
+        "Pellegrino"
+      ]
+    },
+    "tesserati/allenatori/john-toshack": {
+      "entity_type": "allenatore",
+      "canonical_name": "John Toshack",
+      "aliases": [
+        "Toshack"
+      ]
+    },
+    "tesserati/allenatori/edoardo-reja": {
+      "entity_type": "allenatore",
+      "canonical_name": "Edoardo Reja",
+      "aliases": [
+        "Reja",
+        "Edy Reja"
+      ]
+    },
+    "tesserati/allenatori/gabriele-matricciani": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gabriele Matricciani",
+      "aliases": [
+        "Matricciani"
+      ]
+    },
+    "tesserati/allenatori/stefano-colantuono": {
+      "entity_type": "allenatore",
+      "canonical_name": "Stefano Colantuono",
+      "aliases": [
+        "Colantuono"
+      ]
+    },
+    "tesserati/allenatori/maurizio-costantini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Maurizio Costantini",
+      "aliases": [
+        "Costantini"
+      ]
+    },
+    "tesserati/allenatori/nedo-sonetti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Nedo Sonetti",
+      "aliases": [
+        "Sonetti"
+      ]
+    },
+    "tesserati/allenatori/silvio-baldini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Silvio Baldini",
+      "aliases": [
+        "Baldini",
+        "Silvio Baldini"
+      ]
+    },
+    "tesserati/allenatori/gianluca-atzori": {
+      "entity_type": "allenatore",
+      "canonical_name": "Gianluca Atzori",
+      "aliases": [
+        "Atzori"
+      ]
+    },
+    "tesserati/allenatori/marco-giampaolo": {
+      "entity_type": "allenatore",
+      "canonical_name": "Marco Giampaolo",
+      "aliases": [
+        "Giampaolo"
+      ]
+    },
+    "tesserati/allenatori/luigi-de-canio": {
+      "entity_type": "allenatore",
+      "canonical_name": "Luigi De Canio",
+      "aliases": [
+        "De Canio",
+        "Gigi De Canio"
+      ]
+    },
+    "tesserati/allenatori/giuseppe-sannino": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giuseppe Sannino",
+      "aliases": [
+        "Sannino",
+        "Beppe Sannino"
+      ]
+    },
+    "tesserati/allenatori/dario-marcolin": {
+      "entity_type": "allenatore",
+      "canonical_name": "Dario Marcolin",
+      "aliases": [
+        "Marcolin"
+      ]
+    },
+    "tesserati/allenatori/giuseppe-pancaro": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giuseppe Pancaro",
+      "aliases": [
+        "Pancaro",
+        "Pippo Pancaro"
+      ]
+    },
+    "tesserati/allenatori/francesco-moriero": {
+      "entity_type": "allenatore",
+      "canonical_name": "Francesco Moriero",
+      "aliases": [
+        "Moriero",
+        "Checco Moriero"
+      ]
+    },
+    "tesserati/allenatori/giuseppe-rigoli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giuseppe Rigoli",
+      "aliases": [
+        "Rigoli",
+        "Pino Rigoli"
+      ]
+    },
+    "tesserati/allenatori/mario-petrone": {
+      "entity_type": "allenatore",
+      "canonical_name": "Mario Petrone",
+      "aliases": [
+        "Petrone"
+      ]
+    },
+    "tesserati/allenatori/giovanni-pulvirenti": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giovanni Pulvirenti",
+      "aliases": [
+        "Gianni Pulvirenti"
+      ]
+    },
+    "tesserati/allenatori/cristiano-lucarelli": {
+      "entity_type": "allenatore",
+      "canonical_name": "Cristiano Lucarelli",
+      "aliases": [
+        "Lucarelli"
+      ]
+    },
+    "tesserati/allenatori/andrea-sottil": {
+      "entity_type": "allenatore",
+      "canonical_name": "Andrea Sottil",
+      "aliases": [
+        "Sottil"
+      ]
+    },
+    "tesserati/allenatori/walter-novellino": {
+      "entity_type": "allenatore",
+      "canonical_name": "Walter Novellino",
+      "aliases": [
+        "Novellino",
+        "Monzon"
+      ]
+    },
+    "tesserati/allenatori/andrea-camplone": {
+      "entity_type": "allenatore",
+      "canonical_name": "Andrea Camplone",
+      "aliases": [
+        "Camplone"
+      ]
+    },
+    "tesserati/allenatori/giuseppe-raffaele": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giuseppe Raffaele",
+      "aliases": [
+        "Raffaele"
+      ]
+    },
+    "tesserati/allenatori/francesco-baldini": {
+      "entity_type": "allenatore",
+      "canonical_name": "Francesco Baldini",
+      "aliases": [
+        "Baldini Francesco"
+      ]
+    },
+    "tesserati/allenatori/giovanni-ferraro": {
+      "entity_type": "allenatore",
+      "canonical_name": "Giovanni Ferraro",
+      "aliases": [
+        "Ferraro"
+      ]
+    },
+    "tesserati/allenatori/luca-tabbiani": {
+      "entity_type": "allenatore",
+      "canonical_name": "Luca Tabbiani",
+      "aliases": [
+        "Tabbiani"
+      ]
+    },
+    "tesserati/allenatori/domenico-toscano": {
+      "entity_type": "allenatore",
+      "canonical_name": "Domenico Toscano",
+      "aliases": [
+        "Toscano",
+        "Mimmo Toscano",
+        "Il Cannibale"
+      ]
+    },
+    "tesserati/allenatori/william-viali": {
+      "entity_type": "allenatore",
+      "canonical_name": "William Viali",
+      "aliases": [
+        "Viali"
+      ]
+    }
+  }
+}
