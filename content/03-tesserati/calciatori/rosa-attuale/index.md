@@ -50,6 +50,7 @@ Benvenuti nella sezione ufficiale dedicata alla **Prima Squadra del Catania Foot
 * **Direttore Generale**: Alessandro Zarbano
 * **Direttore Sportivo**: Fortunato Varrà
 * **Allenatore Responsabile**: Emilio Longo
+* **Capitano**: [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]]
 * **Allenatore in Seconda**: Vincenzo Migliaccio
 * **Collaboratore Tecnico**: Ivan Moschella
 * **Allenatore dei Portieri**: Antonello Degiorgi
@@ -72,6 +73,7 @@ Benvenuti nella sezione ufficiale dedicata alla **Prima Squadra del Catania Foot
 | Num | Calciatore | Nazionalità | Anno | Presenze / Reti 26-27 | Scheda Monografica |
 | :---: | :--- | :---: | :---: | :---: | :--- |
 | **2** | [[03-tesserati/calciatori/rosa-attuale/gabriele-pagliai\|Gabriele Pagliai]] | Italia | 2002 | 8 / 0 | Terzino destro in prestito dall'Ascoli |
+| **22** | [[03-tesserati/calciatori/archivio/a-c/alessio-castellini\|Alessio Castellini]] | Italia | 2003 | 11 / 0 | **Capitano**, leader e difensore polivalente |
 | **5** | [[03-tesserati/calciatori/rosa-attuale/marco-perrotta\|Marco Perrotta]] | Italia | 1994 | 9 / 0 | Centrale difensivo mancino d'esperienza |
 | **6** | [[03-tesserati/calciatori/rosa-attuale/andrea-allegretto\|Andrea Allegretto]] | Italia | 2001 | 7 / 0 | Difensore centrale di marcatura |
 | **15** | [[03-tesserati/calciatori/rosa-attuale/matteo-di-gennaro\|Matteo Di Gennaro]] | Italia | 1994 | 10 / 0 | Pilastro della retroguardia |

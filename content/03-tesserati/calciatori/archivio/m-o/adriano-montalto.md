@@ -10,9 +10,9 @@ birth_date: 1988-04-06
 birth_place: Erice (TP), Italia
 nationality: Italia
 role: Centravanti / Attaccante d'area
-current_squad: true
+current_squad: false
 catania_periods:
-- 2024-2027
+- 2024-2026
 total_appearances: 34
 league_appearances: 30
 total_goals: 8
@@ -74,15 +74,16 @@ Conosciuto nell'ambiente calcistico con il soprannome di *"Tagliagole"* per la s
 ## 2. Il Ruolo nel Reparto d'Attacco Etneo
 
 Approdato a Catania nell'estate del **2024**:
-* Costituisce la spalla ideale o l'alternativa di lusso a [[tesserati/calciatori/roberto-inglese|Roberto Inglese]].
-* Nella [[stagioni/2026-2027|stagione 2026-2027]] si è fatto trovare pronto in ogni circostanza, risultando decisivo sia da titolare sia a partita in corso con gol pesanti da palla inattiva.
+* Ha costituito la spalla ideale o l'alternativa di lusso a [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]].
+* Nel biennio 2024-2026 si è fatto trovare pronto in ogni circostanza, risultando decisivo sia da titolare sia a partita in corso con gol pesanti da palla inattiva.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/roberto-inglese|Roberto Inglese: Compagno di reparto]]
+* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Compagno di reparto]]
 * [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
 * [[stadio/angelo-massimino|Lo Stadio Angelo Massimino]]
 

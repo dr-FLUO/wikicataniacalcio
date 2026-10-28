@@ -1,0 +1,240 @@
+[
+  {
+    "turno": "1ª giornata",
+    "data": "18 settembre 1955",
+    "sq1": "Catania",
+    "sq2": "Legnano",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "2ª giornata",
+    "data": "25 settembre 1955",
+    "sq1": "Catania",
+    "sq2": "Como",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "3ª giornata",
+    "data": "2 ottobre 1955",
+    "sq1": "Brescia",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "4ª giornata",
+    "data": "9 ottobre 1955",
+    "sq1": "Modena",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "5ª giornata",
+    "data": "16 ottobre 1955",
+    "sq1": "Catania",
+    "sq2": "Parma",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "6ª giornata",
+    "data": "23 ottobre 1955",
+    "sq1": "Catania",
+    "sq2": "Taranto",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "7ª giornata",
+    "data": "30 ottobre 1955",
+    "sq1": "Alessandria",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "8ª giornata",
+    "data": "6 novembre 1955",
+    "sq1": "Verona",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "9ª giornata",
+    "data": "13 novembre 1955",
+    "sq1": "Catania",
+    "sq2": "Simmenthal-Monza",
+    "punteggio": "3-1"
+  },
+  {
+    "turno": "10ª giornata",
+    "data": "4 dicembre 1955",
+    "sq1": "Catania",
+    "sq2": "Marzotto",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "11ª giornata",
+    "data": "11 dicembre 1955",
+    "sq1": "Udinese",
+    "sq2": "Catania",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "12ª giornata",
+    "data": "25 dicembre 1955",
+    "sq1": "Cagliari",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "13ª giornata",
+    "data": "1º gennaio 1956",
+    "sq1": "Catania",
+    "sq2": "Salernitana",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "14ª giornata",
+    "data": "8 gennaio 1956",
+    "sq1": "Catania",
+    "sq2": "Livorno",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "15ª giornata",
+    "data": "15 gennaio 1956",
+    "sq1": "ACR Messina (1947-1998)",
+    "sq2": "Catania",
+    "punteggio": "0-1"
+  },
+  {
+    "turno": "16ª giornata",
+    "data": "22 gennaio 1955",
+    "sq1": "Catania",
+    "sq2": "Palermo",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "17ª giornata",
+    "data": "29 gennaio 1956",
+    "sq1": "Bari",
+    "sq2": "Catania",
+    "punteggio": "2-3"
+  },
+  {
+    "turno": "18ª giornata",
+    "data": "5 febbraio 1956",
+    "sq1": "Legnano",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "19ª giornata",
+    "data": "19 febbraio 1956",
+    "sq1": "Como",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "20ª giornata",
+    "data": "26 febbraio 1956",
+    "sq1": "Catania",
+    "sq2": "Brescia",
+    "punteggio": "1-2"
+  },
+  {
+    "turno": "21ª giornata",
+    "data": "4 marzo 1956",
+    "sq1": "Catania",
+    "sq2": "Modena",
+    "punteggio": "3-1"
+  },
+  {
+    "turno": "22ª giornata",
+    "data": "11 marzo 1956",
+    "sq1": "Parma",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "23ª giornata",
+    "data": "18 marzo 1956",
+    "sq1": "Taranto",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "24ª giornata",
+    "data": "25 marzo 1956",
+    "sq1": "Catania",
+    "sq2": "Alessandria",
+    "punteggio": "3-1"
+  },
+  {
+    "turno": "25ª giornata",
+    "data": "1º aprile 1956",
+    "sq1": "Catania",
+    "sq2": "Verona",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "26ª giornata",
+    "data": "8 aprile 1956",
+    "sq1": "Simmenthal-Monza",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "27ª giornata",
+    "data": "15 aprile 1956",
+    "sq1": "Marzotto",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "28ª giornata",
+    "data": "29 aprile 1956",
+    "sq1": "Catania",
+    "sq2": "Udinese",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "29ª giornata",
+    "data": "6 maggio 1956",
+    "sq1": "Catania",
+    "sq2": "Cagliari",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "30ª giornata",
+    "data": "13 maggio 1956",
+    "sq1": "Salernitana",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "31ª giornata<ref>Partita giocata in anticipo il 19 maggio 1956.</ref>",
+    "data": "20 maggio 1956",
+    "sq1": "Livorno",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "32ª giornata",
+    "data": "27 maggio 1956",
+    "sq1": "Catania",
+    "sq2": "ACR Messina (1947-1998)",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "33ª giornata",
+    "data": "3 giugno 1956",
+    "sq1": "Palermo",
+    "sq2": "Catania",
+    "punteggio": "3-3"
+  },
+  {
+    "turno": "34ª giornata",
+    "data": "10 giugno 1956",
+    "sq1": "Catania",
+    "sq2": "Bari",
+    "punteggio": "1-2"
+  }
+]

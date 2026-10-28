@@ -12,9 +12,9 @@ birth_date: 1993-03-09
 birth_place: Sanremo (IM), Italia
 nationality: Italia
 role: Centrocampista centrale / Mediano
-current_squad: true
+current_squad: false
 catania_periods:
-- 2024-2027
+- 2024-2026
 total_appearances: 45
 league_appearances: 40
 total_goals: 3
@@ -68,16 +68,17 @@ Cresciuto nel vivaio del Genoa, Sturaro ha costruito una carriera di altissimo p
 
 Ingaggiato per fungere da guida dentro e fuori dal campo:
 * Ha conquistato la **Coppa Italia Serie C** nell'aprile 2024 sotto la gestione di [[tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
-* Con l'arrivo del tecnico [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] nella [[stagioni/2026-2027|stagione 2026-2027]], Sturaro è diventato il punto di riferimento tattico davanti alla difesa, formando con il capitano [[tesserati/calciatori/alessio-castellini|Alessio Castellini]] e il bomber [[tesserati/calciatori/roberto-inglese|Roberto Inglese]] l'asse portante della formazione rossazzurra.
+* Con l'arrivo del tecnico [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] nella [[stagioni/2024-2025|stagione 2024-2025]] e nella successiva [[stagioni/2025-2026|2025-2026]], Sturaro è diventato il punto di riferimento tattico davanti alla difesa, formando con il capitano [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]] e il bomber [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]] l'asse portante della formazione rossazzurra.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore rossazzurro]]
-* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Il capitano etneo]]
-* [[tesserati/calciatori/roberto-inglese|Roberto Inglese: Compagno di reparto]]
+* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano]]
+* [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Compagno di reparto]]
 * [[societa/presidenti/ross-pelligra|Ross Pelligra: Proprietà societaria]]
 
 ---
@@ -85,6 +86,6 @@ Ingaggiato per fungere da guida dentro e fuori dal campo:
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Stefano Sturaro](https://it.wikipedia.org/wiki/Stefano_Sturaro)*.
 
-1. **Lega Italiana Calcio Professionistico**, *Ruolino e Tabellini Ufficiali Catania FC 2024-2027*, Lega Pro, Firenze, 2026.
+1. **Lega Italiana Calcio Professionistico**, *Ruolino e Tabellini Ufficiali Catania FC 2024-2026*, Lega Pro, Firenze, 2026.
 2. **Quotidiano La Sicilia**, *Sturaro, il cuore pulsante del Catania: esperienza europea al servizio della maglia*, Editoriale La Sicilia, Catania, 12 ottobre 2025.
 3. **Almanacco Illustrato del Calcio**, Edizioni Panini, Modena, volumi 2015-2026.

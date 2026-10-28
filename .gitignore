@@ -20,3 +20,4 @@ __pycache__/
 
 # Snapshot di backup automatici
 backups/
+logs/

@@ -1,0 +1,240 @@
+[
+  {
+    "turno": "1ª giornata",
+    "data": "16 settembre 1956",
+    "sq1": "Marzotto",
+    "sq2": "Catania",
+    "punteggio": "1-4"
+  },
+  {
+    "turno": "2ª giornata",
+    "data": "23 settembre 1956",
+    "sq1": "Venezia",
+    "sq2": "Catania",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "3ª giornata",
+    "data": "30 settembre 1956",
+    "sq1": "Catania",
+    "sq2": "Alessandria",
+    "punteggio": "2-2"
+  },
+  {
+    "turno": "4ª giornata",
+    "data": "7 ottobre 1956",
+    "sq1": "Catania",
+    "sq2": "Legnano",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "5ª giornata",
+    "data": "14 ottobre 1956",
+    "sq1": "Taranto",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "6ª giornata",
+    "data": "21 ottobre 1956",
+    "sq1": "Catania",
+    "sq2": "ACR Messina (1947-1998)",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "7ª giornata",
+    "data": "28 ottobre 1956",
+    "sq1": "Cagliari",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "8ª giornata",
+    "data": "18 novembre 1956",
+    "sq1": "Catania",
+    "sq2": "Bari",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "9ª giornata",
+    "data": "25 novembre 1956",
+    "sq1": "Sambenedettese",
+    "sq2": "Catania",
+    "punteggio": "0-2"
+  },
+  {
+    "turno": "10ª giornata",
+    "data": "2 dicembre 1956",
+    "sq1": "Brescia",
+    "sq2": "Catania",
+    "punteggio": "0-1"
+  },
+  {
+    "turno": "11ª giornata<ref>Partita anticipata il 9 dicembre 1956.</ref>",
+    "data": "16 dicembre 1956",
+    "sq1": "Catania",
+    "sq2": "Verona",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "12ª giornata",
+    "data": "23 dicembre 1956",
+    "sq1": "Catania",
+    "sq2": "Parma",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "13ª giornata",
+    "data": "30 dicembre 1956",
+    "sq1": "Como",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "14ª giornata",
+    "data": "6 gennaio 1957",
+    "sq1": "Catania",
+    "sq2": "Simmenthal Monza",
+    "punteggio": "3-1"
+  },
+  {
+    "turno": "15ª giornata",
+    "data": "13 gennaio 1957",
+    "sq1": "Novara",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "16ª giornata",
+    "data": "20 gennaio 1957",
+    "sq1": "Catania",
+    "sq2": "Pro Patria",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "17ª giornata",
+    "data": "27 gennaio 1957",
+    "sq1": "Catania",
+    "sq2": "Modena",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "18ª giornata",
+    "data": "3 febbraio 1957",
+    "sq1": "Catania",
+    "sq2": "Marzotto",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "19ª giornata",
+    "data": "10 febbraio 1957",
+    "sq1": "Catania",
+    "sq2": "Venezia",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "20ª giornata",
+    "data": "17 febbraio 1957",
+    "sq1": "Alessandria",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "21ª giornata",
+    "data": "24 febbraio 1957",
+    "sq1": "Legnano",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "22ª giornata",
+    "data": "3 marzo 1957",
+    "sq1": "Catania",
+    "sq2": "Taranto",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "23ª giornata",
+    "data": "10 marzo 1957",
+    "sq1": "ACR Messina (1947-1998)",
+    "sq2": "Catania",
+    "punteggio": "1-3"
+  },
+  {
+    "turno": "24ª giornata",
+    "data": "17 marzo 1957",
+    "sq1": "Catania",
+    "sq2": "Cagliari",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "25ª giornata",
+    "data": "24 marzo 1957",
+    "sq1": "Bari",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "26ª giornata",
+    "data": "31 marzo 1957",
+    "sq1": "Catania",
+    "sq2": "Sambenedettese",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "27ª giornata",
+    "data": "7 aprile 1957",
+    "sq1": "Catania",
+    "sq2": "Brescia",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "28ª giornata",
+    "data": "14 aprile 1957",
+    "sq1": "Verona",
+    "sq2": "Catania",
+    "punteggio": "3-2"
+  },
+  {
+    "turno": "29ª giornata<ref>Partita anticipata il 21 aprile 1957.</ref>",
+    "data": "28 aprile 1957",
+    "sq1": "Parma",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "30ª giornata",
+    "data": "5 maggio 1957",
+    "sq1": "Catania",
+    "sq2": "Como",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "31ª giornata",
+    "data": "19 maggio 1957",
+    "sq1": "Simmenthal Monza",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "32ª giornata",
+    "data": "2 giugno 1957",
+    "sq1": "Catania",
+    "sq2": "Novara",
+    "punteggio": "4-1"
+  },
+  {
+    "turno": "33ª giornata",
+    "data": "9 giugno 1957",
+    "sq1": "Pro Patria",
+    "sq2": "Catania",
+    "punteggio": "2-3"
+  },
+  {
+    "turno": "34ª giornata",
+    "data": "16 giugno 1957",
+    "sq1": "Modena",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  }
+]

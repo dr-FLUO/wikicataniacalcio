@@ -59,19 +59,19 @@ Cresciuto calcisticamente tra Foggia e Salernitana, ha maturato oltre 200 presen
 
 ---
 
-## 2. Il Protagonismo con Domenico Toscano
+## 2. Il Protagonismo nel Catania di Emilio Longo
 
-Nella [[stagioni/2026-2027|stagione 2026-2027]], schierato da [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] come trequartista di sinistra o seconda punta a supporto di [[tesserati/calciatori/roberto-inglese|Roberto Inglese]]:
-* Ha inanellato prestazioni di altissimo livello, servendo 5 assist decisivi e siglando reti di pregevole fattura, tra cui la spettacolare doppietta nel 6-0 contro il Giugliano.
+Nella [[stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] come trequartista di sinistra o seconda punta a supporto del bomber [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]]:
+* Ha inanellato prestazioni di altissimo livello, servendo assist decisivi e risultando il miglior marcatore complessivo (5 reti tra campionato e Coppa Italia), tra cui la spettacolare doppietta nel 6-0 contro il Giugliano.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/roberto-inglese|Roberto Inglese: Compagno di reparto offensivo]]
-* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Il capitano]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda: Compagno di reparto offensivo]]
+* [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Il capitano]]
+* [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore]]
 
 ---
 

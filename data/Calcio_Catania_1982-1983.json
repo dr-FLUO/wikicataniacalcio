@@ -1,0 +1,317 @@
+[
+  {
+    "turno": "1ª giornata",
+    "data": "12 settembre 1982",
+    "sq1": "Cremonese",
+    "sq2": "Catania",
+    "punteggio": "0-1"
+  },
+  {
+    "turno": "2ª giornata",
+    "data": "19 settembre 1982",
+    "sq1": "Catania",
+    "sq2": "Milan",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "3ª giornata",
+    "data": "26 settembre 1982",
+    "sq1": "Lecce",
+    "sq2": "Catania",
+    "punteggio": "0-1"
+  },
+  {
+    "turno": "4ª giornata",
+    "data": "3 ottobre 1982",
+    "sq1": "Catania",
+    "sq2": "Reggiana",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "5ª giornata",
+    "data": "10 ottobre 1982",
+    "sq1": "Atalanta",
+    "sq2": "Catania",
+    "punteggio": "0-1"
+  },
+  {
+    "turno": "6ª giornata",
+    "data": "17 ottobre 1982",
+    "sq1": "Catania",
+    "sq2": "Varese",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "7ª giornata",
+    "data": "24 ottobre 1982",
+    "sq1": "Palermo",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "8ª giornata",
+    "data": "31 ottobre 1982",
+    "sq1": "Cavese",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "9ª giornata",
+    "data": "7 novembre 1982",
+    "sq1": "Catania",
+    "sq2": "Pistoiese",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "10ª giornata",
+    "data": "14 novembre 1982",
+    "sq1": "Campobasso",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "11ª giornata",
+    "data": "21 novembre 1982",
+    "sq1": "Catania",
+    "sq2": "Bari",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "12ª giornata",
+    "data": "28 novembre 1982",
+    "sq1": "Como",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "13ª giornata",
+    "data": "5 dicembre 1982",
+    "sq1": "Catania",
+    "sq2": "Arezzo",
+    "punteggio": "3-0"
+  },
+  {
+    "turno": "14ª giornata",
+    "data": "12 dicembre 1983",
+    "sq1": "Catania",
+    "sq2": "Sambenedettese",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "15ª giornata",
+    "data": "19 dicembre 1982",
+    "sq1": "Bologna",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "16ª giornata",
+    "data": "2 gennaio 1982",
+    "sq1": "Catania",
+    "sq2": "Monza",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "17ª giornata",
+    "data": "9 gennaio 1982",
+    "sq1": "Foggia",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "18ª giornata",
+    "data": "16 gennaio 1983",
+    "sq1": "Catania",
+    "sq2": "Lazio",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "19ª giornata",
+    "data": "19 gennaio 1983",
+    "sq1": "Perugia",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "20º giornata",
+    "data": "30 gennaio 1983",
+    "sq1": "Catania",
+    "sq2": "Cremonese",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "21º giornata",
+    "data": "13 febbraio 1983",
+    "sq1": "Milan",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "22º giornata",
+    "data": "20 febbraio 1983",
+    "sq1": "Catania",
+    "sq2": "Lecce",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "23º giornata",
+    "data": "27 febbraio 1983",
+    "sq1": "Reggiana",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "24º giornata",
+    "data": "6 marzo 1983",
+    "sq1": "Catania",
+    "sq2": "Atalanta",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "25º giornata",
+    "data": "13 marzo 1983",
+    "sq1": "Varese",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "26º giornata",
+    "data": "20 marzo 1983",
+    "sq1": "Catania",
+    "sq2": "Palermo",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "27º giornata",
+    "data": "27 marzo 1983",
+    "sq1": "Catania",
+    "sq2": "Cavese",
+    "punteggio": "2-0"
+  },
+  {
+    "turno": "28º giornata",
+    "data": "2 aprile 1983",
+    "sq1": "Pistoiese",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "29º giornata",
+    "data": "10 aprile 1983",
+    "sq1": "Catania",
+    "sq2": "Campobasso",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "30º giornata",
+    "data": "17 aprile 1983",
+    "sq1": "Bari",
+    "sq2": "Catania",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "31º giornata",
+    "data": "24 aprile 1983",
+    "sq1": "Catania",
+    "sq2": "Como",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "32º giornata",
+    "data": "1º maggio 1983",
+    "sq1": "Arezzo",
+    "sq2": "Catania",
+    "punteggio": "2-2"
+  },
+  {
+    "turno": "33º giornata",
+    "data": "8 maggio 1983",
+    "sq1": "Sambenedettese",
+    "sq2": "Catania",
+    "punteggio": "1-3"
+  },
+  {
+    "turno": "34º giornata",
+    "data": "15 maggio 1983",
+    "sq1": "Catania",
+    "sq2": "Bologna",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "35º giornata",
+    "data": "22 maggio 1983",
+    "sq1": "Monza",
+    "sq2": "Catania",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "36º giornata",
+    "data": "29 maggio 1983",
+    "sq1": "Catania",
+    "sq2": "Foggia",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "37º giornata",
+    "data": "5 giugno 1983",
+    "sq1": "Lazio",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "38º giornata",
+    "data": "14 giugno 1983",
+    "sq1": "Catania",
+    "sq2": "Perugia",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "",
+    "data": "18 giugno 1983",
+    "sq1": "Catania",
+    "sq2": "Como",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "",
+    "data": "25 giugno 1983",
+    "sq1": "Catania",
+    "sq2": "Cremonese",
+    "punteggio": "0-0"
+  },
+  {
+    "turno": "1º giornata",
+    "data": "18 agosto 1982",
+    "sq1": "Catania",
+    "sq2": "Juventus",
+    "punteggio": "1-1"
+  },
+  {
+    "turno": "2º giornata",
+    "data": "22 agosto 1982",
+    "sq1": "Catania",
+    "sq2": "Genoa",
+    "punteggio": "1-0"
+  },
+  {
+    "turno": "3º giornata",
+    "data": "29 agosto 1982",
+    "sq1": "Milan",
+    "sq2": "Catania",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "4º giornata",
+    "data": "1º settembre 1982",
+    "sq1": "Catania",
+    "sq2": "Padova",
+    "punteggio": "2-1"
+  },
+  {
+    "turno": "5º giornata",
+    "data": "5 settembre 1982",
+    "sq1": "Pescara",
+    "sq2": "Catania",
+    "punteggio": "1-1"
+  }
+]

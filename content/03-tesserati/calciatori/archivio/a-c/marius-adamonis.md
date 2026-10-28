@@ -1,7 +1,7 @@
 ---
 title: Marius Adamonis — Portiere della Nazionale Lituana e del Catania FC
 description: 'Biografia, statistiche e carriera di Marius Adamonis: estremo difensore
-  lituano, sicurezza tra i pali del Catania FC nella stagione 2026-2027.'
+  lituano, sicurezza tra i pali del Catania FC nel biennio 2024-2026.'
 slug: 03-tesserati/calciatori/archivio/a-c/marius-adamonis
 entity_type: calciatore
 status: verified
@@ -10,9 +10,9 @@ birth_date: 1997-05-13
 birth_place: Panevėžys, Lituania
 nationality: Lituania
 role: Portiere
-current_squad: true
+current_squad: false
 catania_periods:
-- 2024-2027
+- 2024-2026
 total_appearances: 38
 league_appearances: 35
 total_goals: 0
@@ -46,7 +46,7 @@ seasons_count: 1
 ![Fototessera ufficiale del portiere lituano del Catania Marius Adamonis — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp)
 *Fototessera ufficiale del portiere lituano del Catania Marius Adamonis — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-Nato a Panevėžys il **13 maggio 1997**, **Marius Adamonis** è l'estremo difensore titolare del Catania Football Club e portiere nel giro della Nazionale maggiore della Lituania.
+Nato a Panevėžys il **13 maggio 1997**, **Marius Adamonis** è stato l'estremo difensore del Catania Football Club dal 2024 al 2026 e portiere nel giro della Nazionale maggiore della Lituania.
 
 ---
 
@@ -58,18 +58,19 @@ Ingaggiato giovanissimo dalla Lazio nel 2016 per difendere i pali della formazio
 
 ---
 
-## 2. Il Ruolo Decisivo nel Catania di Toscano
+## 2. Il Ruolo Decisivo nel Catania di Toscano (2024-2026)
 
 Ingaggiato nell'estate del **2024** per blindare la porta rossazzurra:
-* Nella [[stagioni/2026-2027|stagione 2026-2027]] si è distinto collezionando numerosi *clean sheet* e guidando con autorevolezza la retroguardia guidata dal capitano [[tesserati/calciatori/alessio-castellini|Alessio Castellini]].
+* Nel biennio 2024-2026 si è distinto collezionando numerosi *clean sheet* e guidando con autorevolezza la retroguardia guidata dal capitano [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]].
 * La sua freddezza e la leadership tra i pali ne fanno uno dei migliori portieri dell'intera Serie C.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Capitano e centrale difensivo]]
+* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano e compagno di squadra]]
 * [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
 * [[societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
 

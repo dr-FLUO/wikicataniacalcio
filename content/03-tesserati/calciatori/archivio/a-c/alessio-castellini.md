@@ -75,8 +75,8 @@ Cresciuto nel vivaio del Brescia, Castellini ha sposato il progetto catanese nel
 
 ## 2. Duttilità Tattica e Fascia di Capitano
 
-Impiegabile indifferentemente come terzino sinistro, difensore centrale o terzo di sinistra nella difesa a tre di [[tesserati/allenatori/domenico-toscano|Domenico Toscano]]:
-* Nella [[stagioni/2026-2027|stagione 2026-2027]], Castellini ha tagliato il traguardo storico delle oltre 120 presenze ufficiali in rossazzurro a soli ventitré anni.
+Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno della retroguardia, guidata prima da [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] (2024-2026) e poi da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] (2026-2027):
+* Nella [[stagioni/2026-2027|stagione 2026-2027]], confermato saldamente capitano e bandiera del club, Castellini ha tagliato il traguardo storico delle oltre 120 presenze ufficiali in rossazzurro a soli ventitré anni.
 * La sua compostezza, le doti di leadership e la fedeltà alla maglia ne hanno fatto uno dei calciatori più amati e rispettati della storia recente del club.
 
 ---
@@ -84,9 +84,11 @@ Impiegabile indifferentemente come terzino sinistro, difensore centrale o terzo 
 ## 3. Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro: Compagno di reparto]]
-* [[tesserati/calciatori/roberto-inglese|Roberto Inglese: Il bomber etneo]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore attuale]]
+* [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda: Compagno di squadra]]
+* [[03-tesserati/calciatori/archivio/s-z/stefano-sturaro|Stefano Sturaro: Ex compagno di reparto]]
+* [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Ex compagno di squadra]]
+* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
 * [[societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
 
 ---

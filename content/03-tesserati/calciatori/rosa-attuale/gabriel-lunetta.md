@@ -32,7 +32,7 @@ tags:
 - centrocampisti
 - lunetta
 - serie-c
-- toscano
+- emilio-longo
 - ross-pelligra
 sources:
 - author: Lega Italiana Calcio Professionistico
@@ -73,16 +73,17 @@ Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida es
 
 Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenza aerobica:
 * Garantisce copertura sull'out mancino e pericolosità sui calci piazzati offensivi.
-* Nella [[stagioni/2026-2027|stagione 2026-2027]] si è distinto per continuità di rendimento e gol pesanti nelle sfide contro le dirette concorrenti alla promozione.
+* Nella [[stagioni/2026-2027|stagione 2026-2027]], con l'avvento in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], si è distinto come pendolino di centrocampo per continuità di rendimento e 2 gol pesanti nelle sfide di vertice.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Compagno di catena]]
-* [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro: Centrocampista]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano e compagno di catena]]
+* [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi: Centrocampista]]
+* [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore attuale]]
+* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
 
 ---
 

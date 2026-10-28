@@ -60,21 +60,21 @@ Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Seri
 
 Arrivato in Sicilia nell'estate del **2023**:
 * Ha fatto parte del gruppo che ha alzato al cielo la **Coppa Italia Serie C** nell'aprile 2024.
-* Nella [[stagioni/2026-2027|stagione 2026-2027]], sotto la sapiente regia di [[tesserati/allenatori/domenico-toscano|Domenico Toscano]], Quaini agisce da diga metodista davanti alla difesa al fianco di [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro]], garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco.
+* Nella [[stagioni/2026-2027|stagione 2026-2027]], sotto la guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Quaini agisce da diga metodista davanti alla difesa al fianco di [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi]] ed [[03-tesserati/calciatori/rosa-attuale/emanuele-torrasi|Emanuele Torrasi]], garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco (andando a segno anche nel blitz esterno di Potenza).
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro: Compagno di reparto]]
-* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Capitano]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi: Compagno di reparto]]
+* [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano]]
+* [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore]]
 
 ---
 
 ## Fonti e Bibliografia
 
 1. **Lega Italiana Calcio Professionistico**, *Ruolino e Tabellini Ufficiali Alessandro Quaini (Catania FC)*, Lega Pro, Firenze, 2026.
-2. **Quotidiano La Sicilia**, *Quaini, il professore silenzioso della mediana: geometria e precisione per Toscano*, Editoriale La Sicilia, Catania, 10 settembre 2026.
+2. **Quotidiano La Sicilia**, *Quaini, il professore silenzioso della mediana: geometria e precisione per Longo*, Editoriale La Sicilia, Catania, 10 settembre 2026.
 3. **Almanacco Illustrato del Calcio**, Edizioni Panini, Modena, 2026.
