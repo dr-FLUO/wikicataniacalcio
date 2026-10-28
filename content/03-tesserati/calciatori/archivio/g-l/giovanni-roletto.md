@@ -55,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Portiere |
 | **Nazionalità Sportiva** | Regno d'Italia |
 | **Data e Luogo di Nascita** | 1908-04-18 — Rosignano Monferrato |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

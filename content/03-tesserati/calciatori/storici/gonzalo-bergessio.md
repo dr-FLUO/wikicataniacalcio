@@ -101,10 +101,10 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]] | 13 | 5 | 0 (0) | **13 (5)** |
-| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | Vincenzo Montella | 34 | 7 | 0 (0) | **34 (7)** |
-| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|Rolando Maran]] | 32 | 13 | 4 (2) | **36 (15)** |
-| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|R. Maran]], L. De Canio, M. Pellegrino | 30 | 10 | 0 (0) | **30 (10)** |
+| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]] | 13 | 5 | 0 (0) | **13 (5)** |
+| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Vincenzo Montella | 34 | 7 | 0 (0) | **34 (7)** |
+| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|Rolando Maran]] | 32 | 13 | 4 (2) | **36 (15)** |
+| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|R. Maran]], L. De Canio, M. Pellegrino | 30 | 10 | 0 (0) | **30 (10)** |
 | **Totale Carriera** | **4 Stagioni in Rossazzurro** | **Serie A** | — | **109** | **35** | **4 (2)** | **113 (37)** |
 
 

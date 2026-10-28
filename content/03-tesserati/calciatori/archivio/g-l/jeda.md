@@ -88,7 +88,7 @@ Con la maglia numero 11, Jeda conquistò i tifosi del Massimino per la sua rapid
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2005) | 19 | 6 | Attaccante / Seconda punta | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]] |
+| Campionato (2005) | 19 | 6 | Attaccante / Seconda punta | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] |
 | **Totale Complessivo** | **19** | **6** | — | — |
 
 ---

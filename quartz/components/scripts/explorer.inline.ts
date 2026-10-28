@@ -79,12 +79,25 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
+function getExplorerNodeHref(currentSlug: FullSlug, targetSlug: FullSlug): string {
+  const isGh = typeof window !== "undefined" && window.location.hostname.endsWith(".github.io")
+  const base = isGh ? "/wikicataniacalcio" : ""
+
+  const isFolder = targetSlug.endsWith("/index") || targetSlug === "index"
+  const clean = targetSlug.replace(/\/index$/, "")
+  if (clean === "" || clean === "index") {
+    return base ? `${base}/` : "/"
+  }
+  const trailing = isFolder ? "/" : ""
+  return base ? `${base}/${clean}${trailing}` : `/${clean}${trailing}`
+}
+
 function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
   const template = document.getElementById("template-file") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
   const a = li.querySelector("a") as HTMLAnchorElement
-  a.href = resolveRelative(currentSlug, node.slug)
+  a.href = getExplorerNodeHref(currentSlug, node.slug)
   a.dataset.for = node.slug
   a.textContent = node.displayName
 
@@ -119,7 +132,7 @@ function createFolderNode(
     // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
-    a.href = resolveRelative(currentSlug, folderPath)
+    a.href = getExplorerNodeHref(currentSlug, folderPath)
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
@@ -149,7 +162,7 @@ function createFolderNode(
     const clone = template.content.cloneNode(true) as DocumentFragment
     const overviewLi = clone.querySelector("li") as HTMLLIElement
     const a = overviewLi.querySelector("a") as HTMLAnchorElement
-    a.href = resolveRelative(currentSlug, folderPath)
+    a.href = getExplorerNodeHref(currentSlug, folderPath)
     a.dataset.for = folderPath
     a.className = "folder-overview-link"
     a.textContent = "Panoramica Dossier"

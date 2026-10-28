@@ -82,7 +82,7 @@ Inaugurò il campionato con squillanti vittorie offensive prima dell'avvicendame
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2019-2020|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2019-2020\|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -83,7 +83,7 @@ Lavorò al fianco del giovane Carmelo Di Bella dalla 18ª alla 38ª giornata, co
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1958-1959|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

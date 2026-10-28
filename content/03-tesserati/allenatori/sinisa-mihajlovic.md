@@ -123,13 +123,13 @@ Il **24 maggio 2010**, dopo aver centrato la salvezza e fatto innamorare la piaz
 
 | Data | Giornata | Incontro | Risultato | Marcatori Rossazzurri | Valore Storico e d'Impatto |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| **20 dicembre 2009** | 17ª Giornata | **Juventus - Catania** | **1-2** | [[tesserati/calciatori/jorge-martinez|Martínez]] (23' rig.), [[tesserati/calciatori/mariano-izco|Izco]] (87') | **Prima vittoria a Torino sulla Juventus dopo quasi 47 anni** (dal 1963). |
-| **6 gennaio 2010** | 18ª Giornata | **Catania - Bologna** | **1-0** | Spolli (32') | Primo successo casalingo dell'era Mihajlović al [[stadio/angelo-massimino|Massimino]]. |
-| **7 febbraio 2010** | 23ª Giornata | **Lazio - Catania** | **0-1** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (63') | 1º gol del centravanti argentino e vittoria all'Olimpico di Roma. |
-| **27 febbraio 2010** | 26ª Giornata | **Catania - Bari** | **4-0** | Ricchiuti (4'), Llama (40'), Morimoto (81'), [[tesserati/calciatori/jorge-martinez|Martínez]] (91') | Più larga vittoria stagionale interna in Serie A. |
-| **12 marzo 2010** | 28ª Giornata | **[[partite/precedenti/inter|Catania - Inter]]** | **3-1** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (74'), [[tesserati/calciatori/giuseppe-mascara|Mascara]] (81' rig.), [[tesserati/calciatori/jorge-martinez|Martínez]] (90') | **Trionfo storico contro l'Inter del Triplete di José Mourinho.** |
-| **3 aprile 2010** | 32ª Giornata | **[[partite/precedenti/palermo|Catania - Palermo]]** | **2-0** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (14', 32') | **Vittoria netta nel Derby di Sicilia al Massimino.** |
-| **2 maggio 2010** | 36ª Giornata | **Catania - Juventus** | **1-1** | [[tesserati/calciatori/jorge-martinez|Martínez]] (24') | 4º punto stagionale conquistato contro i bianconeri. |
+| **20 dicembre 2009** | 17ª Giornata | **Juventus - Catania** | **1-2** | [[tesserati/calciatori/jorge-martinez\|Martínez]] (23' rig.), [[tesserati/calciatori/mariano-izco\|Izco]] (87') | **Prima vittoria a Torino sulla Juventus dopo quasi 47 anni** (dal 1963). |
+| **6 gennaio 2010** | 18ª Giornata | **Catania - Bologna** | **1-0** | Spolli (32') | Primo successo casalingo dell'era Mihajlović al [[stadio/angelo-massimino\|Massimino]]. |
+| **7 febbraio 2010** | 23ª Giornata | **Lazio - Catania** | **0-1** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (63') | 1º gol del centravanti argentino e vittoria all'Olimpico di Roma. |
+| **27 febbraio 2010** | 26ª Giornata | **Catania - Bari** | **4-0** | Ricchiuti (4'), Llama (40'), Morimoto (81'), [[tesserati/calciatori/jorge-martinez\|Martínez]] (91') | Più larga vittoria stagionale interna in Serie A. |
+| **12 marzo 2010** | 28ª Giornata | **[[partite/precedenti/inter\|Catania - Inter]]** | **3-1** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (74'), [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (81' rig.), [[tesserati/calciatori/jorge-martinez\|Martínez]] (90') | **Trionfo storico contro l'Inter del Triplete di José Mourinho.** |
+| **3 aprile 2010** | 32ª Giornata | **[[partite/precedenti/palermo\|Catania - Palermo]]** | **2-0** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (14', 32') | **Vittoria netta nel Derby di Sicilia al Massimino.** |
+| **2 maggio 2010** | 36ª Giornata | **Catania - Juventus** | **1-1** | [[tesserati/calciatori/jorge-martinez\|Martínez]] (24') | 4º punto stagionale conquistato contro i bianconeri. |
 
 ---
 

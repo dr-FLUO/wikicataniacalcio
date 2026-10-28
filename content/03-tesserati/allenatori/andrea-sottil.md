@@ -85,7 +85,7 @@ Condusse la squadra a 65 punti al quarto posto, richiamato alla vigilia degli sp
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2018-2019|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2018-2019\|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

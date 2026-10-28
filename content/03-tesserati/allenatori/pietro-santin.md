@@ -71,7 +71,7 @@ Portò a Catania la sua notevole esperienza tattica e la perfetta conoscenza dei
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1987-1988|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1987-1988\|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

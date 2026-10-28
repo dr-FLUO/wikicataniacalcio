@@ -74,8 +74,8 @@ Nel 1992-1993 ottenne una straordinaria salvezza sul campo all'ottavo posto con 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1985-1986|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1992-1993|1992-1993]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1992-1993\|1992-1993]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -68,7 +68,7 @@ Nel 1988-1989 risalì la classifica fino a un dignitoso 10º posto finale con 31
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1988-1989|1988-1989]], [[stagioni/1989-1990|1989-1990]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1988-1989\|1988-1989]], [[stagioni/1989-1990\|1989-1990]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

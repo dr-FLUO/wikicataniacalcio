@@ -66,9 +66,9 @@ Negli anni Novanta dalla Falange si è staccata l'ala radicale dei *Decisi*, men
 
 | Anno / Periodo | Evento Storico per il Gruppo e la Curva Sud | Impatto Identitario e Relazionale |
 | :--- | :--- | :--- |
-| **1979** | Fondazione nel quartiere del Castello Ursino per mano di Francesco "Ciccio" Famoso. | Nascita ufficiale del movimento ultras organizzato a Catania in [[tifoseria/index|Curva Sud]]. |
+| **1979** | Fondazione nel quartiere del Castello Ursino per mano di Francesco "Ciccio" Famoso. | Nascita ufficiale del movimento ultras organizzato a Catania in [[tifoseria/index\|Curva Sud]]. |
 | **Giugno 1983** | Coordinamento coreografico dell'esodo di 40.000 catanesi a Roma per gli spareggi contro Como e Cremonese. | Consacrazione nazionale della tifoseria rossazzurra e ritorno in Serie A nella Stagione 1982-1983. |
-| **1993–1994** | Boicottaggio totale dell'Atletico Catania di Franco Proto dopo il declassamento in Eccellenza. | Salvaguardia dell'identità popolare e media di 9.000 spettatori al [[stadio/angelo-massimino|Cibali]] nel campionato di Eccellenza 1993-1994. |
+| **1993–1994** | Boicottaggio totale dell'Atletico Catania di Franco Proto dopo il declassamento in Eccellenza. | Salvaguardia dell'identità popolare e media di 9.000 spettatori al [[stadio/angelo-massimino\|Cibali]] nel campionato di Eccellenza 1993-1994. |
 | **2015–2016** | Scelta strategica della Curva Sud di aderire alla Tessera del Tifoso dopo la retrocessione d'ufficio in Lega Pro. | Presenza ininterrotta in ogni trasferta dietro lo striscione unificante **_Estrema Appartenenza_**. |
 | **1 febbraio 2017** | Scomparsa dello storico leader Francesco "Ciccio" Famoso all'età di 60 anni. | Camera ardente ed esequie partecipate da migliaia di cittadini; tributi ufficiali esposti dalle curve di Borussia Dortmund, Bayern Monaco, Napoli, Benevento e Crotone. |
 

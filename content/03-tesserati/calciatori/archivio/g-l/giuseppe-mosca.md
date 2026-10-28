@@ -73,7 +73,7 @@ Nella [[stagioni/1993-1994|Stagione 1993-1994]] guidò l'attacco rossazzurro sui
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1993-1995) | 56 | 37 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1993-1995) | 56 | 37 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 4 | 0 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **60** | **37** | — | — |
 

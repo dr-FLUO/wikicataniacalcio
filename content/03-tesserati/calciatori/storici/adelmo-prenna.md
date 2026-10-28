@@ -95,12 +95,12 @@ Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-m
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Campionato | Reti Campionato | Coppe Naz./Int. (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **1958-1959** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | F. Blason, [[tesserati/calciatori/nicolo-nicolosi|N. Nicolosi]], [[tesserati/allenatori/carmelo-di-bella|C. Di Bella]] | 25 | 5 | 2 (1) | **27 (6)** |
-| **1959-1960** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 28 | 11 | 1 (0) | **29 (11)** |
-| **[[stagioni/1960-1961|1960-1961]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 32 | 11 | 2 (0) | **34 (11)** |
-| **1961-1962** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 25 | 7 | 2 (1) | **27 (8)** |
-| **1962-1963** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 18 | 5 | 2 (1) | **20 (6)** |
-| **[[stagioni/1963-1964|1963-1964]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 18 | 6 | 3 (0) | **21 (6)** |
+| **1958-1959** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | F. Blason, [[tesserati/calciatori/nicolo-nicolosi\|N. Nicolosi]], [[tesserati/allenatori/carmelo-di-bella\|C. Di Bella]] | 25 | 5 | 2 (1) | **27 (6)** |
+| **1959-1960** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 28 | 11 | 1 (0) | **29 (11)** |
+| **[[stagioni/1960-1961\|1960-1961]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 32 | 11 | 2 (0) | **34 (11)** |
+| **1961-1962** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 25 | 7 | 2 (1) | **27 (8)** |
+| **1962-1963** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 18 | 5 | 2 (1) | **20 (6)** |
+| **[[stagioni/1963-1964\|1963-1964]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 18 | 6 | 3 (0) | **21 (6)** |
 | **Totale Carriera** | **6 Stagioni (1958–1964)** | **Serie A / B** | — | **146 (93 A + 53 B)** | **45 (29 A + 16 B)** | **12 (3)** | **158 (48)** |
 
 

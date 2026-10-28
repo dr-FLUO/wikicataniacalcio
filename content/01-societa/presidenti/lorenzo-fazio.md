@@ -51,8 +51,8 @@ aliases:
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |
 | :--- | :--- | :--- | :--- |
-| **1949–1950** | Serie B | [[tesserati/allenatori/mario-magnozzi|Mario Magnozzi]], poi [[tesserati/allenatori/stanislao-klein|Stanislao Klein]] | 12º posto (Salvezza tranquilla) |
-| **1950–1951** | Serie B | [[tesserati/allenatori/lajos-politzer|Lajos Politzer]], poi [[tesserati/allenatori/nereo-marini|Nereo Marini]] | 7º posto |
+| **1949–1950** | Serie B | [[tesserati/allenatori/mario-magnozzi\|Mario Magnozzi]], poi [[tesserati/allenatori/stanislao-klein\|Stanislao Klein]] | 12º posto (Salvezza tranquilla) |
+| **1950–1951** | Serie B | [[tesserati/allenatori/lajos-politzer\|Lajos Politzer]], poi [[tesserati/allenatori/nereo-marini\|Nereo Marini]] | 7º posto |
 
 ---
 

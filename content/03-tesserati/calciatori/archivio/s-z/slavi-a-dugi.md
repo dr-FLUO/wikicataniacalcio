@@ -55,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Svizzera |
 | **Data e Luogo di Nascita** | 1985-01-17 — Gradačac |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

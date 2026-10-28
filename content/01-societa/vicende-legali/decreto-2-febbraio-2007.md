@@ -98,12 +98,12 @@ Il **Giudice Sportivo della Lega Nazionale Professionisti** (Gianpaolo Tosel), c
 | Data | Giornata Serie A | Incontro "Casalingo" | Sede del Campo Neutro (Porte Chiuse) | Risultato | Marcatori Rossazzurri |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | **18 febbraio 2007** | 24ª Giornata | **Catania - Fiorentina** | Stadio Romeo Neri, **Rimini** | **0-1** | — |
-| **25 febbraio 2007** | 25ª Giornata | **Catania - Inter** | Stadio Dino Manuzzi, **Cesena** | **2-5** | [[tesserati/calciatori/gionatha-spinesi|Spinesi]] (65'), Corona (74') |
+| **25 febbraio 2007** | 25ª Giornata | **Catania - Inter** | Stadio Dino Manuzzi, **Cesena** | **2-5** | [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (65'), Corona (74') |
 | **11 marzo 2007** | 28ª Giornata | **Catania - Siena** | Stadio Alberto Braglia, **Modena** | **1-1** | Corona (57') |
 | **18 marzo 2007** | 29ª Giornata | **Catania - Reggina** | Stadio Romeo Neri, **Rimini** | **1-4** | Rossini (90') |
 | **15 aprile 2007** | 32ª Giornata | **Catania - Roma** | Stadio Via del Mare, **Lecce** | **0-2** | — |
-| **29 aprile 2007** | 34ª Giornata | **Catania - Ascoli** | Stadio Alberto Braglia, **Modena** | **3-3** | [[tesserati/calciatori/giuseppe-mascara|Mascara]] (23' rig.), Colucci (52'), Marino (79') |
-| **13 maggio 2007** | 36ª Giornata | **Catania - Milan** | Stadio Renato Dall'Ara, **Bologna** | **1-1** | [[tesserati/calciatori/gionatha-spinesi|Spinesi]] (61') |
+| **29 aprile 2007** | 34ª Giornata | **Catania - Ascoli** | Stadio Alberto Braglia, **Modena** | **3-3** | [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (23' rig.), Colucci (52'), Marino (79') |
+| **13 maggio 2007** | 36ª Giornata | **Catania - Milan** | Stadio Renato Dall'Ara, **Bologna** | **1-1** | [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (61') |
 | **27 maggio 2007** | 38ª Giornata | **Catania - ChievoVerona** | Stadio Renato Dall'Ara, **Bologna** *(Con pubblico)* | **2-0** | Rossini (66'), Minelli (80') — *Salvezza in Serie A (41 pt)* |
 
 ---

@@ -93,7 +93,7 @@ Dopo la controversa retrocessione a tavolino del 1955 per il Caso Scaramella, Ha
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1954-1957) | 79 | 7 | Centrocampista / Regista | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1954-1957) | 79 | 7 | Centrocampista / Regista | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **79** | **7** | — | — |
 
 ---

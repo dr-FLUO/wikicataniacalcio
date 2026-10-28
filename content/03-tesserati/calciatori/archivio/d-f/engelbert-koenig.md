@@ -76,7 +76,7 @@ Schierato titolare inamovibile al centro dell'attacco dall'allenatore ungherese 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1941-1942) | 23 | 18 | Attaccante / Centravanti | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
+| Campionato (1941-1942) | 23 | 18 | Attaccante / Centravanti | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
 | **Totale Complessivo** | **23** | **18** | — | — |
 
 ---

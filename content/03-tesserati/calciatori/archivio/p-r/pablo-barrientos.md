@@ -129,11 +129,11 @@ Nel luglio 2014, dopo **93 gare ufficiali e 15 reti** con il Catania, fa ritorno
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
-| **2010-2011** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 4 | 0 | 2 (0) | **6 (0)** |
-| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 4 | 1 (0) | **26 (4)** |
-| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 27 | 5 | 4 (1) | **31 (6)** |
-| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 5 | 0 (0) | **28 (5)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
+| **2010-2011** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 4 | 0 | 2 (0) | **6 (0)** |
+| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 4 | 1 (0) | **26 (4)** |
+| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 27 | 5 | 4 (1) | **31 (6)** |
+| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 5 | 0 (0) | **28 (5)** |
 | **Totale Carriera** | **5 Stagioni nel Catania** | **Serie A** | **86** | **14** | **7 (1)** | **93 (15)** |
 
 ---

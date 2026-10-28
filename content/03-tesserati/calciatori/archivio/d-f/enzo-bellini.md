@@ -78,7 +78,7 @@ Nel campionato di Serie C 1938-1939 Bellini fu devastante per le retroguardie av
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1938-1940) | 41 | 15 | Attaccante / Ala destra | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
+| Campionato (1938-1940) | 41 | 15 | Attaccante / Ala destra | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 4 | 1 | Attaccante / Ala destra | Gare ufficiali |
 | **Totale Complessivo** | **45** | **16** | — | — |
 

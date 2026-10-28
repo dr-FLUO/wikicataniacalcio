@@ -72,7 +72,7 @@ Soprannominato dai tifosi il *Cobra* per la freddezza nei sedici metri, Passiato
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1998-2000) | 58 | 18 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1998-2000) | 58 | 18 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 6 | 0 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **64** | **18** | — | — |
 

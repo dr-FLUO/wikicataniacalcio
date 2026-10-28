@@ -65,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Slovacchia |
 | **Data e Luogo di Nascita** | 1992-07-03 — Revúca |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

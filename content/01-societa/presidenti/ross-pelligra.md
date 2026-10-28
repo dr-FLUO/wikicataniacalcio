@@ -64,11 +64,11 @@ aliases:
 
 | Data | Snodo Societario, Sportivo e Patrimoniale | Dettaglio |
 | :--- | :--- | :--- |
-| **24 giugno – 13 luglio 2022** | Assegnazione del bando ex art. 52 c. 10 NOIF e fondazione del **Catania SSD a r.l.** | Affiancato da [[societa/presidenti/vincenzo-grella|Vincenzo Grella]] (vicepresidente e AD) e Mark Bresciano, avvia la matricola 955013. |
-| **19 marzo 2023** | **Vittoria del campionato di [[stagioni/2022-2023|Serie D 2022-2023]]** con 6 turni d'anticipo. | 88 punti totali (28 vittorie su 34 gare) sotto la guida di Giovanni Ferraro e trasformazione in **Catania Football Club S.r.l.** |
-| **2 aprile 2024** | **Conquista della Coppa Italia Serie C [[stagioni/2023-2024|2023-2024]]** allo [[stadio/angelo-massimino|Stadio Angelo Massimino]]. | Vittoria per [[partite/2023-2024/finale-coppa-catania-padova-4-2|4-2 d.t.s. sul Padova]] con [[tesserati/allenatori/michele-zeoli|Michele Zeoli]] in panchina: primo trofeo nazionale della storia del club. |
-| **23 ott 2025 – 19 feb 2026** | **[[stadio/acquisizione-torre-del-grifo-2025-2026|Acquisizione di Torre del Grifo Village]]** all'asta fallimentare. | Offerta vincente di **5.500.000 euro** contro *Aurora S.r.l.* e rogito definitivo del 19 febbraio 2026. |
-| **22 ottobre 2026** | **[[maglie/acquisizione-marchio-storico-2026|Acquisizione dello storico marchio del Calcio Catania]]** all'asta. | Offerta vincente di **250.000 euro** dopo il duello con *Revolution Group*, riportando a casa lo [[maglie/loghi-storici-liotru|stemma storico del 1946/1996]]. |
+| **24 giugno – 13 luglio 2022** | Assegnazione del bando ex art. 52 c. 10 NOIF e fondazione del **Catania SSD a r.l.** | Affiancato da [[societa/presidenti/vincenzo-grella\|Vincenzo Grella]] (vicepresidente e AD) e Mark Bresciano, avvia la matricola 955013. |
+| **19 marzo 2023** | **Vittoria del campionato di [[stagioni/2022-2023\|Serie D 2022-2023]]** con 6 turni d'anticipo. | 88 punti totali (28 vittorie su 34 gare) sotto la guida di Giovanni Ferraro e trasformazione in **Catania Football Club S.r.l.** |
+| **2 aprile 2024** | **Conquista della Coppa Italia Serie C [[stagioni/2023-2024\|2023-2024]]** allo [[stadio/angelo-massimino\|Stadio Angelo Massimino]]. | Vittoria per [[partite/2023-2024/finale-coppa-catania-padova-4-2\|4-2 d.t.s. sul Padova]] con [[tesserati/allenatori/michele-zeoli\|Michele Zeoli]] in panchina: primo trofeo nazionale della storia del club. |
+| **23 ott 2025 – 19 feb 2026** | **[[stadio/acquisizione-torre-del-grifo-2025-2026\|Acquisizione di Torre del Grifo Village]]** all'asta fallimentare. | Offerta vincente di **5.500.000 euro** contro *Aurora S.r.l.* e rogito definitivo del 19 febbraio 2026. |
+| **22 ottobre 2026** | **[[maglie/acquisizione-marchio-storico-2026\|Acquisizione dello storico marchio del Calcio Catania]]** all'asta. | Offerta vincente di **250.000 euro** dopo il duello con *Revolution Group*, riportando a casa lo [[maglie/loghi-storici-liotru\|stemma storico del 1946/1996]]. |
 
 ---
 

@@ -52,11 +52,11 @@ aliases:
 
 | Periodo / Data | Attività ed Evento | Risultato |
 | :--- | :--- | :--- |
-| **Giugno – Luglio 2022** | Stesura del piano industriale del Pelligra Group per il bando ex [[vicende-legali/fallimento-2021-art52-noif|art. 52 c. 10 NOIF]] e nomina a Vicepresidente e AD. | Nascita del [[societa/2022-pelligra-catania-fc|Catania SSD a r.l.]] e avvio della matricola 955013. |
-| **[[stagioni/2022-2023|2022–2023]]** | Direzione dell'area esecutiva nella stagione del ritorno in Serie C. | Vittoria del Girone I di Serie D con **88 punti** e trasformazione in **Catania Football Club S.r.l.** |
-| **2 aprile 2024** | Conquista della **Coppa Italia Serie C [[stagioni/2023-2024|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[partite/2023-2024/finale-coppa-catania-padova-4-2|Catania-Padova 4-2 d.t.s.]]). |
-| **19 febbraio 2026** | Sottoscrizione del rogito definitivo per **[[stadio/acquisizione-torre-del-grifo-2025-2026|Torre del Grifo Village]]**. | Acquisizione per **5,5 milioni di euro** e riapertura del centro sportivo di Mascalucia. |
-| **22 ottobre 2026** | Coordinamento dell'offerta vincente nell'asta per il **[[maglie/acquisizione-marchio-storico-2026|marchio storico del Calcio Catania]]**. | Riacquisto per **250.000 euro** dello [[maglie/loghi-storici-liotru|stemma storico del 1946/1996]]. |
+| **Giugno – Luglio 2022** | Stesura del piano industriale del Pelligra Group per il bando ex [[vicende-legali/fallimento-2021-art52-noif\|art. 52 c. 10 NOIF]] e nomina a Vicepresidente e AD. | Nascita del [[societa/2022-pelligra-catania-fc\|Catania SSD a r.l.]] e avvio della matricola 955013. |
+| **[[stagioni/2022-2023\|2022–2023]]** | Direzione dell'area esecutiva nella stagione del ritorno in Serie C. | Vittoria del Girone I di Serie D con **88 punti** e trasformazione in **Catania Football Club S.r.l.** |
+| **2 aprile 2024** | Conquista della **Coppa Italia Serie C [[stagioni/2023-2024\|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[partite/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2 d.t.s.]]). |
+| **19 febbraio 2026** | Sottoscrizione del rogito definitivo per **[[stadio/acquisizione-torre-del-grifo-2025-2026\|Torre del Grifo Village]]**. | Acquisizione per **5,5 milioni di euro** e riapertura del centro sportivo di Mascalucia. |
+| **22 ottobre 2026** | Coordinamento dell'offerta vincente nell'asta per il **[[maglie/acquisizione-marchio-storico-2026\|marchio storico del Calcio Catania]]**. | Riacquisto per **250.000 euro** dello [[maglie/loghi-storici-liotru\|stemma storico del 1946/1996]]. |
 
 ---
 

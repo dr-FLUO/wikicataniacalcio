@@ -85,7 +85,7 @@ Nelle stagioni [[stagioni/1930-1931|1930-1931]] (10 reti) e [[stagioni/1931-1932
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1930-1935) | 104 | 37 | Centrocampista / Mezzala offensiva | [[societa/1929-ss-catania|Società Sportiva Catania]] |
+| Campionato (1930-1935) | 104 | 37 | Centrocampista / Mezzala offensiva | [[societa/1929-ss-catania\|Società Sportiva Catania]] |
 | Coppe Nazionali / Spareggi | 6 | 0 | Centrocampista / Mezzala offensiva | Gare ufficiali |
 | **Totale Complessivo** | **110** | **37** | — | — |
 

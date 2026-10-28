@@ -47,7 +47,7 @@ aliases:
 
 | Competizione | Piazzamento / Risultato | Dati Statistici Chiave |
 | :--- | :--- | :--- |
-| **[[stagioni/2012-2013|Serie A 2012-2013]]** | **8º posto assoluto** (a -1 dall'Europa League) | **56 punti** in 38 gare (15 V, 11 N, 12 P — **Record storico di punti e vittorie in A**). |
+| **[[stagioni/2012-2013\|Serie A 2012-2013]]** | **8º posto assoluto** (a -1 dall'Europa League) | **56 punti** in 38 gare (15 V, 11 N, 12 P — **Record storico di punti e vittorie in A**). |
 | **Coppa Italia 2012-2013** | **Quarti di Finale** | Eliminato il Parma negli ottavi ai rigori al Tardini. |
 | **Campionato Primavera** | **Semifinale Scudetto Final Eight** | La Primavera rossazzurra raggiunge le semifinali nazionali per il titolo italiano. |
 

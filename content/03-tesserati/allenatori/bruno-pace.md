@@ -84,7 +84,7 @@ Nel giugno 1988 a Cosenza guidò il Catania nel doppio spareggio salvezza contro
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1986-1987|1986-1987]], [[stagioni/1987-1988|1987-1988]], [[stagioni/1988-1989|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1986-1987\|1986-1987]], [[stagioni/1987-1988\|1987-1988]], [[stagioni/1988-1989\|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

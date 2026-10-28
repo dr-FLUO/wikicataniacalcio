@@ -70,7 +70,7 @@ Nel 1936-1937 affrontò il campionato di Serie B con gli etnei, confermandosi al
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1936-1937|1936-1937]], [[stagioni/1937-1938|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1936-1937\|1936-1937]], [[stagioni/1937-1938\|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

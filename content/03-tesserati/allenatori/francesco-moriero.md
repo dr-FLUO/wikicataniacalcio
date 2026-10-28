@@ -83,7 +83,7 @@ Il culmine della sua gestione fu il trionfo per 2-1 nel derby contro il Messina 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2015-2016|2015-2016]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2015-2016\|2015-2016]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

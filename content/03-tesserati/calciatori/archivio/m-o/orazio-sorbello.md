@@ -79,7 +79,7 @@ Nella difficile stagione cadetta 1986-1987 Sorbello lottò con grinta contro le 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1987, 1991-1993) | 69 | 16 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1986-1987, 1991-1993) | 69 | 16 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 6 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **75** | **18** | — | — |
 

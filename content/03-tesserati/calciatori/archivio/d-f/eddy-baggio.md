@@ -79,7 +79,7 @@ Tra i suoi capolavori etnei si ricordano il gol capolavoro nella semifinale di r
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2001-2002) | 31 | 18 | Attaccante / Centravanti | [[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]] |
+| Campionato (2001-2002) | 31 | 18 | Attaccante / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
 | Coppe Nazionali / Spareggi | 5 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **36** | **20** | — | — |
 

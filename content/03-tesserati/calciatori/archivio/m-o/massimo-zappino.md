@@ -65,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Portiere |
 | **Nazionalità Sportiva** | Brasile |
 | **Data e Luogo di Nascita** | 1981-06-12 — Pesqueira |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

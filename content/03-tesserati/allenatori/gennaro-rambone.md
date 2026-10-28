@@ -88,9 +88,9 @@ Nel 1979-1980 avviò la cavalcata vincente in Serie C1 conquistando 11 punti nel
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1974-1975|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1979-1980|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1985-1986|1985-1986]], [[stagioni/1986-1987|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1974-1975\|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1979-1980\|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1985-1986\|1985-1986]], [[stagioni/1986-1987\|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

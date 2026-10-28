@@ -83,7 +83,7 @@ Nel 1989-1990 condusse gli etnei al sesto posto; nel 1990-1991 guidò la squadra
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1989-1990|1989-1990]], [[stagioni/1990-1991|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1989-1990\|1989-1990]], [[stagioni/1990-1991\|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

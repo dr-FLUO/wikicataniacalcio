@@ -80,7 +80,7 @@ Dopo la retrocessione del 1984, Pedrinho decise di rimanere a Catania in Serie B
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1983-1985) | 51 | 10 | Difensore / Terzino sinistro | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1983-1985) | 51 | 10 | Difensore / Terzino sinistro | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 5 | 0 | Difensore / Terzino sinistro | Gare ufficiali |
 | **Totale Complessivo** | **56** | **10** | — | — |
 

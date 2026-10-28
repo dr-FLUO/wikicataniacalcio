@@ -157,19 +157,26 @@ export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newB
 }
 
 // resolve /a/b/c to ../..
-export function pathToRoot(slug: FullSlug): RelativeURL {
-  let rootPath = slug
-    .split("/")
-    .filter((x) => x !== "")
-    .slice(0, -1)
-    .map((_) => "..")
-    .join("/")
-
-  if (rootPath.length === 0) {
-    rootPath = "."
+export function pathToRoot(slug: FullSlug | SimpleSlug | string): RelativeURL {
+  if (!slug || slug === "index" || slug === "/" || slug === "404") {
+    return "." as RelativeURL
   }
 
-  return rootPath as RelativeURL
+  const clean = slug.replace(/^\/+|\/+$/g, "")
+  const segments = clean.split("/").filter((x) => x !== "")
+
+  let depth = segments.length
+  if (segments[segments.length - 1] === "index") {
+    depth = segments.length - 1
+  } else if (!slug.endsWith("/") && !slug.endsWith("/index")) {
+    depth = segments.length - 1
+  }
+
+  if (depth <= 0) {
+    return "." as RelativeURL
+  }
+
+  return Array(depth).fill("..").join("/") as RelativeURL
 }
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
@@ -209,7 +216,7 @@ export function joinSegments(...args: string[]): string {
   }
 
   // if the last segment is a folder, add a trailing slash
-  if (args[args.length - 1].endsWith("/")) {
+  if (args[args.length - 1].endsWith("/") && !joined.endsWith("/")) {
     joined = joined + "/"
   }
 

@@ -125,9 +125,9 @@ Nell'agosto 2013, dopo **111 partite e 18 reti** complessive in maglia rossazzur
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 4 | 1 (0) | **37 (4)** |
-| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 4 | 1 (1) | **35 (5)** |
-| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 8 | 3 (1) | **39 (9)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 4 | 1 (0) | **37 (4)** |
+| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 4 | 1 (1) | **35 (5)** |
+| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 8 | 3 (1) | **39 (9)** |
 | **Totale Carriera** | **3 Stagioni in Rossazzurro** | **Serie A** | **106** | **16** | **5 (2)** | **111 (18)** |
 
 ---

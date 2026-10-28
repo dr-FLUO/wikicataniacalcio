@@ -98,18 +98,18 @@ Ripresa la fascia di capitano (condivisa con [[tesserati/calciatori/francesco-lo
 
 | Stagione | Società / Matricola | Categoria | Presenze Camp. (Playoff) | Reti Camp. | Coppe Ufficiali (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2006-2007** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 21 | 0 | 4 (0) | **25 (0)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 2 | 1 (0) | **33 (2)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 0 | 2 (0) | **30 (0)** |
-| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 15 | 0 | 0 (0) | **15 (0)** |
-| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 1 | 1 (0) | **20 (1)** |
-| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 0 | 2 (0) | **37 (0)** |
-| **[[stagioni/2013-2014|2013-2014]]** (ago.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 1 | 0 | 0 (0) | **1 (0)** |
-| **2016-2017** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Lega Pro | 31 (+1 PO) | 1 | 1 (0) | **33 (1)** |
-| **2017-2018** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 28 (+4 PO) | 0 | 1 (0) | **33 (0)** |
-| **2018-2019** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 32 (+5 PO) | 1 | 2 (1) | **39 (2)** |
-| **2019-2020** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 14 (+1 PO) | 0 | 1 (0) | **16 (0)** |
+| **2006-2007** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 21 | 0 | 4 (0) | **25 (0)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 2 | 1 (0) | **33 (2)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 0 | 2 (0) | **30 (0)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 15 | 0 | 0 (0) | **15 (0)** |
+| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 1 | 1 (0) | **20 (1)** |
+| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 0 | 2 (0) | **37 (0)** |
+| **[[stagioni/2013-2014\|2013-2014]]** (ago.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1 | 0 | 0 (0) | **1 (0)** |
+| **2016-2017** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Lega Pro | 31 (+1 PO) | 1 | 1 (0) | **33 (1)** |
+| **2017-2018** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 28 (+4 PO) | 0 | 1 (0) | **33 (0)** |
+| **2018-2019** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 32 (+5 PO) | 1 | 2 (1) | **39 (2)** |
+| **2019-2020** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 14 (+1 PO) | 0 | 1 (0) | **16 (0)** |
 | **Totale Carriera** | **11 Stagioni in Rossazzurro** | **Serie A / Serie C** | **258 (+11 PO)** | **5** | **15 (1)** | **284 (6)** |
 
 Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]] guidata dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[societa/presidenti/vincenzo-grella|Vincenzo Grella]], Biagianti è rientrato nei quadri societari come team manager e dirigente del settore giovanile, partecipando dalla panchina alla vittoria della [[stagioni/2022-2023|Serie D 2022-2023]].

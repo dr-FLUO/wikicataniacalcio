@@ -85,8 +85,8 @@ Nel 1938-1939 conquistò una trionfale promozione in Serie B vincendo il girone 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1937-1938|1937-1938]], [[stagioni/1938-1939|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1948-1949|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1937-1938\|1937-1938]], [[stagioni/1938-1939\|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

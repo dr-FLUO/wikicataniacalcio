@@ -81,7 +81,7 @@ Costruì una delle formazioni difensivamente più solide della categoria, valori
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1996-1997|1996-1997]], [[stagioni/1997-1998|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1996-1997\|1996-1997]], [[stagioni/1997-1998\|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

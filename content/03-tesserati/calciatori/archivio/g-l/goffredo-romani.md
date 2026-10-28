@@ -72,7 +72,7 @@ Tra le sue prestazioni più brillanti della stagione 1949-1950 spiccano le doppi
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1949-1950) | 37 | 11 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1949-1950) | 37 | 11 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **37** | **11** | — | — |
 
 ---

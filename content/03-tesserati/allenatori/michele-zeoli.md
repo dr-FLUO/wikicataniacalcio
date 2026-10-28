@@ -83,9 +83,9 @@ Il **2 aprile 2024**, nella finale di ritorno della **Coppa Italia Serie C** all
 
 | Periodo / Stagione | Ruolo | Società / Matricola | Categoria | Presenze / Panchine | Reti / Bilancio | Traguardo Storico |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
-| **1999-2004** (5 stag.) | **Calciatore** (Difensore) | [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] (11700) | Serie C1 / Serie B | **104** (100 camp. + 4 PO) | **5 reti** | **Promozione in Serie B ([[stagioni/2001-2002|2001-2002]])** a Taranto. |
-| **[[stagioni/2022-2023|2022-2023]]** | **Viceallenatore** | [[societa/2022-pelligra-catania-fc|Catania SSD]] (955013) | Serie D (Gir. I) | 34 (+2 Poule) | 28V, 4N, 2P (88 pt) | **1º posto e Promozione in Serie C.** |
-| **[[stagioni/2023-2024|2023-2024]]** | **Allenatore Prima Squadra** | [[societa/2022-pelligra-catania-fc|Catania FC]] (955013) | Serie C + Coppa + PO | **15** (9 camp. + 1 CI + 1 F.CI + 4 PO) | 6V, 1N, 8P | **Vincitore Coppa Italia Serie C 2023-2024** ([[partite/2023-2024/finale-coppa-catania-padova-4-2|4-2 al Padova]]). |
+| **1999-2004** (5 stag.) | **Calciatore** (Difensore) | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie C1 / Serie B | **104** (100 camp. + 4 PO) | **5 reti** | **Promozione in Serie B ([[stagioni/2001-2002\|2001-2002]])** a Taranto. |
+| **[[stagioni/2022-2023\|2022-2023]]** | **Viceallenatore** | [[societa/2022-pelligra-catania-fc\|Catania SSD]] (955013) | Serie D (Gir. I) | 34 (+2 Poule) | 28V, 4N, 2P (88 pt) | **1º posto e Promozione in Serie C.** |
+| **[[stagioni/2023-2024\|2023-2024]]** | **Allenatore Prima Squadra** | [[societa/2022-pelligra-catania-fc\|Catania FC]] (955013) | Serie C + Coppa + PO | **15** (9 camp. + 1 CI + 1 F.CI + 4 PO) | 6V, 1N, 8P | **Vincitore Coppa Italia Serie C 2023-2024** ([[partite/2023-2024/finale-coppa-catania-padova-4-2\|4-2 al Padova]]). |
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michele Zeoli](https://it.wikipedia.org/wiki/Michele_Zeoli)*.

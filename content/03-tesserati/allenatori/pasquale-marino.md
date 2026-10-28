@@ -88,8 +88,8 @@ I tragici [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]] a
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. | V | N | P | GF | GS | Punti (Regime 3 pt) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/2005-2006|2005-2006]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | **2º posto — Promosso direttamente in Serie A** | 42 | 22 | 12 | 8 | 67 | 42 | **78** |
-| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | **13º posto — Salvezza in Serie A** *(Catania-Chievo 2-0 a Bologna)* | 38 | 10 | 11 | 17 | 46 | 68 | **41** |
+| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | **2º posto — Promosso direttamente in Serie A** | 42 | 22 | 12 | 8 | 67 | 42 | **78** |
+| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **13º posto — Salvezza in Serie A** *(Catania-Chievo 2-0 a Bologna)* | 38 | 10 | 11 | 17 | 46 | 68 | **41** |
 | **Totale** | **2 Stagioni (2005–2007)** | **Serie B / A** | **80 gare Camp. + 2 Coppa Italia = 82 panchine** | **80** | **32** | **23** | **25** | **113** | **110** | **119** |
 
 

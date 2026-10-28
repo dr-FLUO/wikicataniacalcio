@@ -73,7 +73,7 @@ Schierato titolare sia da Giovanni Mei che successivamente da Franco Gagliardi, 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1997-1998) | 28 | 5 | Attaccante / Seconda punta | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1997-1998) | 28 | 5 | Attaccante / Seconda punta | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 2 | 0 | Attaccante / Seconda punta | Gare ufficiali |
 | **Totale Complessivo** | **30** | **5** | — | — |
 

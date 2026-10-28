@@ -132,11 +132,11 @@ Chiude la sua avventura complessiva ai piedi dell'Etna con **87 presenze ufficia
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2009-2010** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 17 | 11 | 0 (0) | **17 (11)** |
-| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 8 | 2 (2) | **37 (10)** |
-| **[[stagioni/2011-2012|2011-2012]]** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 14 | 3 | 2 (2) | **16 (5)** |
+| **2009-2010** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 17 | 11 | 0 (0) | **17 (11)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 8 | 2 (2) | **37 (10)** |
+| **[[stagioni/2011-2012\|2011-2012]]** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 14 | 3 | 2 (2) | **16 (5)** |
 | *Subtotale 1º Ciclo* | *Era Mihajlović / Simeone / Montella* | *Serie A* | *66* | *22* | *4 (4)* | ***70 (26)*** |
-| **[[stagioni/2013-2014|2013-2014]]** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 12 | 1 | 1 (0) | **13 (1)** |
+| **[[stagioni/2013-2014\|2013-2014]]** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 12 | 1 | 1 (0) | **13 (1)** |
 | **Totale Complessivo** | **Due Cicli in Rossazzurro** | **Serie A** | **78** | **23** | **5 / 9 (4)** | **87 (27)** |
 
 ---

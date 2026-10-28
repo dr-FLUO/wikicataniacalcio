@@ -65,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Uruguay |
 | **Data e Luogo di Nascita** | 1979-11-17 — Montevideo |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -71,7 +71,7 @@ In campionato Pradella firmò reti pesanti al Cibali contro Campobasso, Ischia e
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1988-1989) | 27 | 5 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1988-1989) | 27 | 5 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 6 | 4 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **33** | **9** | — | — |
 

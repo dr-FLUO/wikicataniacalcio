@@ -81,7 +81,7 @@ Avviò la ricostruzione tecnica del gruppo etneo dopo la retrocessione dalla Ser
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1987-1988|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1987-1988\|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

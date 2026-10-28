@@ -79,7 +79,7 @@ Dotato di un senso della posizione impeccabile e di grande personalità nell'imp
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1988) | 56 | 7 | Difensore / Libero | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1986-1988) | 56 | 7 | Difensore / Libero | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 8 | 1 | Difensore / Libero | Gare ufficiali |
 | **Totale Complessivo** | **64** | **8** | — | — |
 

@@ -89,7 +89,7 @@ Nel campionato 1971-1972 decise sfide caldissime contro Genoa, Bari e Reggina; n
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1971-1973) | 70 | 20 | Attaccante / Ala tornante | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1971-1973) | 70 | 20 | Attaccante / Ala tornante | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 4 | 0 | Attaccante / Ala tornante | Gare ufficiali |
 | **Totale Complessivo** | **74** | **20** | — | — |
 

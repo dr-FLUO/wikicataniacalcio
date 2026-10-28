@@ -83,7 +83,7 @@ Impresse alla squadra un carattere indomito e una solidità difensiva proverbial
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1966-1967|1966-1967]], [[stagioni/1967-1968|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1966-1967\|1966-1967]], [[stagioni/1967-1968\|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

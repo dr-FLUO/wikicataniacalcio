@@ -52,10 +52,10 @@ aliases:
 
 | Anno | Evento Societario e Sportivo | Dettaglio |
 | :--- | :--- | :--- |
-| **Maggio 2000** | Acquisizione del 100% del Calcio Catania S.p.A. dagli eredi di [[societa/presidenti/angelo-massimino|Angelo Massimino]]. | Insediamento del figlio [[societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] alla presidenza. |
-| **9 giugno 2002** | **Promozione in Serie B** allo Stadio Iacovone di Taranto. | Finale playoff [[partite/2001-2002/spareggio-taranto-catania-0-0|Taranto-Catania 0-0]] (1-0 all'andata al Cibali con gol di Fini). |
-| **Aprile – Agosto 2003** | Battaglia legale al TAR Catania e al CGA nel **[[vicende-legali/caso-catania-2003|Caso Catania]]**. | Emanazione del D.L. 220/2003 (Legge 280/2003) e allargamento della Serie B a 24 squadre. |
-| **Giugno 2004** | Conclusione della [[stagioni/2003-2004|Serie B 2003-2004]] al 9º posto e cessione della società. | Passaggio di proprietà del Calcio Catania S.p.A. alla *Finaria* di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]. |
+| **Maggio 2000** | Acquisizione del 100% del Calcio Catania S.p.A. dagli eredi di [[societa/presidenti/angelo-massimino\|Angelo Massimino]]. | Insediamento del figlio [[societa/presidenti/riccardo-gaucci\|Riccardo Gaucci]] alla presidenza. |
+| **9 giugno 2002** | **Promozione in Serie B** allo Stadio Iacovone di Taranto. | Finale playoff [[partite/2001-2002/spareggio-taranto-catania-0-0\|Taranto-Catania 0-0]] (1-0 all'andata al Cibali con gol di Fini). |
+| **Aprile – Agosto 2003** | Battaglia legale al TAR Catania e al CGA nel **[[vicende-legali/caso-catania-2003\|Caso Catania]]**. | Emanazione del D.L. 220/2003 (Legge 280/2003) e allargamento della Serie B a 24 squadre. |
+| **Giugno 2004** | Conclusione della [[stagioni/2003-2004\|Serie B 2003-2004]] al 9º posto e cessione della società. | Passaggio di proprietà del Calcio Catania S.p.A. alla *Finaria* di [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]. |
 
 ---
 

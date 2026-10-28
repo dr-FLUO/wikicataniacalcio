@@ -62,9 +62,9 @@ La 26ª giornata della Serie A 2008-2009 (domenica **1º marzo 2009**, ore 15:00
 | :--- | :--- |
 | **Data e Competizione** | Domenica 1º marzo 2009 — Serie A 2008-2009 (26ª Giornata) |
 | **Impianto e Arbitro** | Stadio Renzo Barbera, Palermo (ca. 22.000 spett.) — Arbitro: Roberto Rosetti (Torino) |
-| **Marcatori** | **14' Ledesma** (C), **37' Morimoto** (C), **44' [[tesserati/calciatori/giuseppe-mascara|Mascara]]** (C), **67' Paolucci** (C) |
+| **Marcatori** | **14' Ledesma** (C), **37' Morimoto** (C), **44' [[tesserati/calciatori/giuseppe-mascara\|Mascara]]** (C), **67' Paolucci** (C) |
 | **Formazione Palermo** | Amelia; Cassani (46' Succi), Kjær (69' Carrozzieri), Bovo, Balzaretti; Migliaccio (65' G. Tedesco), Liverani, Bresciano; Simplicio; Miccoli, Cavani. — **All.:** Davide Ballardini. |
-| **Formazione Catania** | Bizzarri; Potenza, Silvestre, Stovini, Capuano (78' Silvestri); Carboni; Ledesma (70' [[tesserati/calciatori/mariano-izco|Izco]]), [[tesserati/calciatori/marco-biagianti|Biagianti]], Baiocco; [[tesserati/calciatori/giuseppe-mascara|Mascara]], Morimoto (46' Paolucci). — **All.:** Walter Zenga. |
+| **Formazione Catania** | Bizzarri; Potenza, Silvestre, Stovini, Capuano (78' Silvestri); Carboni; Ledesma (70' [[tesserati/calciatori/mariano-izco\|Izco]]), [[tesserati/calciatori/marco-biagianti\|Biagianti]], Baiocco; [[tesserati/calciatori/giuseppe-mascara\|Mascara]], Morimoto (46' Paolucci). — **All.:** Walter Zenga. |
 
 ---
 
@@ -72,14 +72,14 @@ La 26ª giornata della Serie A 2008-2009 (domenica **1º marzo 2009**, ore 15:00
 
 | Data | Competizione | Incontro | Risultato | Marcatori Rossazzurri e Note Storiche |
 | :--- | :--- | :--- | :---: | :--- |
-| **1º novembre 1936** | Coppa Italia 1936-1937 | **Catania - Palermo** | **1-0** | Primo derby ufficiale assoluto (disputato a [[stadio/piazza-esposizione|Piazza Esposizione]]). |
-| **3 dicembre 1961** | Serie A 1961-1962 | **Catania - Palermo** | **0-0** | Primo confronto nella massima serie a girone unico sotto la guida di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. |
-| **2 febbraio 2007** | Serie A 2006-2007 | **Catania - Palermo** | **1-2** | Rete etnea di Caserta; gara segnata dai tragici scontri esterni e dal [[vicende-legali/decreto-2-febbraio-2007|Decreto-Legge 8/2007]]. |
-| **2 dicembre 2007** | Serie A 2007-2008 | **Catania - Palermo** | **3-1** | Reti di [[tesserati/calciatori/giuseppe-mascara|Mascara]], [[tesserati/calciatori/gionatha-spinesi|Spinesi]] (rig.) e Jorge Martínez. |
-| **1º marzo 2009** | Serie A 2008-2009 | **[[partite/2008-2009/palermo-catania-0-4|Palermo - Catania 0-4]]** | Ledesma, Morimoto, [[tesserati/calciatori/giuseppe-mascara|Mascara]] (da centrocampo) e Paolucci. |
-| **3 aprile 2011** | Serie A 2010-2011 | **[[partite/2010-2011/catania-palermo-4-0|Catania - Palermo 4-0]]** | Aut. Balzaretti, [[tesserati/calciatori/gonzalo-bergessio|Bergessio]], Ledesma, Pesce (All. [[tesserati/allenatori/diego-pablo-simeone|Diego Simeone]]). |
-| **18 dicembre 2011** | Serie A [[stagioni/2011-2012|2011-2012]] | **Catania - Palermo** | **2-0** | Reti di [[tesserati/calciatori/francesco-lodi|Francesco Lodi]] su punizione e Maxi López su rigore (All. Vincenzo Montella). |
-| **3 marzo 2021** | Serie C 2020-2021 | **Catania - Palermo** | **0-1** | e vittoria etnea all'andata a Catania nel dicembre 2021 (**2-0** con doppietta di Luca Moro prima dell'esclusione del [[stagioni/2021-2022|2021-2022]]). |
+| **1º novembre 1936** | Coppa Italia 1936-1937 | **Catania - Palermo** | **1-0** | Primo derby ufficiale assoluto (disputato a [[stadio/piazza-esposizione\|Piazza Esposizione]]). |
+| **3 dicembre 1961** | Serie A 1961-1962 | **Catania - Palermo** | **0-0** | Primo confronto nella massima serie a girone unico sotto la guida di [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
+| **2 febbraio 2007** | Serie A 2006-2007 | **Catania - Palermo** | **1-2** | Rete etnea di Caserta; gara segnata dai tragici scontri esterni e dal [[vicende-legali/decreto-2-febbraio-2007\|Decreto-Legge 8/2007]]. |
+| **2 dicembre 2007** | Serie A 2007-2008 | **Catania - Palermo** | **3-1** | Reti di [[tesserati/calciatori/giuseppe-mascara\|Mascara]], [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (rig.) e Jorge Martínez. |
+| **1º marzo 2009** | Serie A 2008-2009 | **[[partite/2008-2009/palermo-catania-0-4\|Palermo - Catania 0-4]]** | Ledesma, Morimoto, [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (da centrocampo) e Paolucci. |
+| **3 aprile 2011** | Serie A 2010-2011 | **[[partite/2010-2011/catania-palermo-4-0\|Catania - Palermo 4-0]]** | Aut. Balzaretti, [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]], Ledesma, Pesce (All. [[tesserati/allenatori/diego-pablo-simeone\|Diego Simeone]]). |
+| **18 dicembre 2011** | Serie A [[stagioni/2011-2012\|2011-2012]] | **Catania - Palermo** | **2-0** | Reti di [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] su punizione e Maxi López su rigore (All. Vincenzo Montella). |
+| **3 marzo 2021** | Serie C 2020-2021 | **Catania - Palermo** | **0-1** | e vittoria etnea all'andata a Catania nel dicembre 2021 (**2-0** con doppietta di Luca Moro prima dell'esclusione del [[stagioni/2021-2022\|2021-2022]]). |
 
 ---
 

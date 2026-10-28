@@ -100,14 +100,14 @@ Tra il **1947 e il 1949**, ormai veterano, mette a segno le sue ultime **11 reti
 
 | Periodo / Stagione | Società / Matricola | Categoria | Presenze Totali | Reti Campionato / Fasi Finali | Reti Coppa Italia | Totale Reti Ufficiali |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **1932-1933** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Prima Divisione (III) | 18 | 11 | — | **11** |
-| **[[stagioni/1933-1934|1933-1934]]** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Prima Divisione (III) | 30 | 18 (14 reg. + 4 fin.) | — | **18** |
-| **1934-1935** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Serie B | 27 | 13 | — | **13** |
-| **1935-1936** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Serie B | 32 | 12 | 0 | **12** |
-| **1936-1937** | [[societa/1929-ss-catania|AFC Catania]] (Pre-1946) | Serie B | 26 | 11 | 3 | **14** |
-| **1939-1940** | [[societa/1929-ss-catania|AFC Catania]] (Pre-1946) | Serie B | 23 | 3 | 0 | **3** |
-| **1942-1943** | [[societa/1929-ss-catania|AFC Catania]] (Pre-1946) | Serie C | 16 | 10 | — | **10** |
-| **1947-1949** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie C | 25 | 11 | — | **11** |
+| **1932-1933** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Prima Divisione (III) | 18 | 11 | — | **11** |
+| **[[stagioni/1933-1934\|1933-1934]]** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Prima Divisione (III) | 30 | 18 (14 reg. + 4 fin.) | — | **18** |
+| **1934-1935** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B | 27 | 13 | — | **13** |
+| **1935-1936** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B | 32 | 12 | 0 | **12** |
+| **1936-1937** | [[societa/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie B | 26 | 11 | 3 | **14** |
+| **1939-1940** | [[societa/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie B | 23 | 3 | 0 | **3** |
+| **1942-1943** | [[societa/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie C | 16 | 10 | — | **10** |
+| **1947-1949** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie C | 25 | 11 | — | **11** |
 | **Totale Ufficiale Consolidato** | **4 Cicli (1932–1949)** | **Serie B / Serie C** | **149** *(gare omologate)* | **71 (camp.) + 4 (fin.)** | **3** | **78** |
 
 > [!info] Nota Metodologica sul Conteggio delle 78 Reti Ufficiali

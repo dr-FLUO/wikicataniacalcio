@@ -55,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Spagna |
 | **Data e Luogo di Nascita** | 1986-06-26 — Lomas de Zamora |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

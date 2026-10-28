@@ -77,11 +77,11 @@ Dopo la retrocessione dalla Serie A nel [[stagioni/2013-2014|2013-2014]] e il de
 
 | Data / Periodo | Snodo Giuridico e Patrimoniale su Torre del Grifo | Conseguenze sull'Impianto |
 | :--- | :--- | :--- |
-| **18 maggio 2011** | Inaugurazione ufficiale di Torre del Grifo Village a Mascalucia. | Diventa sede legale, centro d'allenamento e ritiro del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]. |
-| **23 luglio 2020** | Acquisizione del Calcio Catania da parte della [[societa/2020-sigi-e-fallimento|SIGI S.p.A.]]. | Il debito ipotecario verso l'Istituto per il Credito Sportivo e l'Erario frena nel 2021 la trattativa con Joe Tacopina. |
-| **22 dicembre 2021** | [[vicende-legali/fallimento-2021-art52-noif|Sentenza di Fallimento n. 158/2021]] del Tribunale di Catania. | La Curatela Fallimentare scorpora il ramo d'azienda sportivo dal complesso immobiliare di Torre del Grifo. |
-| **9 aprile 2022** | Cessazione dell'esercizio provvisorio e revoca dell'affiliazione FIGC ([[stagioni/2021-2022|2021-2022]]). | Chiusura del centro sportivo e avvio delle procedure competitive di vendita all'asta da parte della Curatela. |
-| **2022–2025** | Nascita del [[societa/2022-pelligra-catania-fc|Catania FC]] di [[societa/presidenti/ross-pelligra|Ross Pelligra]] e aste della Curatela. | Il nuovo club manifesta l'interesse strategico a riacquisire e riqualificare l'impianto per restituirlo alla prima squadra e al vivaio. |
+| **18 maggio 2011** | Inaugurazione ufficiale di Torre del Grifo Village a Mascalucia. | Diventa sede legale, centro d'allenamento e ritiro del [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]]. |
+| **23 luglio 2020** | Acquisizione del Calcio Catania da parte della [[societa/2020-sigi-e-fallimento\|SIGI S.p.A.]]. | Il debito ipotecario verso l'Istituto per il Credito Sportivo e l'Erario frena nel 2021 la trattativa con Joe Tacopina. |
+| **22 dicembre 2021** | [[vicende-legali/fallimento-2021-art52-noif\|Sentenza di Fallimento n. 158/2021]] del Tribunale di Catania. | La Curatela Fallimentare scorpora il ramo d'azienda sportivo dal complesso immobiliare di Torre del Grifo. |
+| **9 aprile 2022** | Cessazione dell'esercizio provvisorio e revoca dell'affiliazione FIGC ([[stagioni/2021-2022\|2021-2022]]). | Chiusura del centro sportivo e avvio delle procedure competitive di vendita all'asta da parte della Curatela. |
+| **2022–2025** | Nascita del [[societa/2022-pelligra-catania-fc\|Catania FC]] di [[societa/presidenti/ross-pelligra\|Ross Pelligra]] e aste della Curatela. | Il nuovo club manifesta l'interesse strategico a riacquisire e riqualificare l'impianto per restituirlo alla prima squadra e al vivaio. |
 
 ---
 

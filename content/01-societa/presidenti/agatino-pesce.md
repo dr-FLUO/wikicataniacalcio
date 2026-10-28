@@ -53,8 +53,8 @@ Durante il suo mandato dirigenziale:
 | Stagione | Campionato | Allenatore | Piazzamento Finale |
 | :--- | :--- | :--- | :--- |
 | **1955–1956** | Serie B | Enzo Bellini, poi Sebastiano Buzzin | 5º posto |
-| **1956–1957** | Serie B | [[tesserati/allenatori/gipo-poggi|Gipo Poggi]] | 4º posto |
-| **1957–1958** | Serie B | [[tesserati/allenatori/gipo-poggi|Gipo Poggi]], poi Francesco Capocasale | 11º posto |
+| **1956–1957** | Serie B | [[tesserati/allenatori/gipo-poggi\|Gipo Poggi]] | 4º posto |
+| **1957–1958** | Serie B | [[tesserati/allenatori/gipo-poggi\|Gipo Poggi]], poi Francesco Capocasale | 11º posto |
 
 ---
 

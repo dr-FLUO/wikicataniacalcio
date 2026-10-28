@@ -12,21 +12,33 @@ const NAV_ITEMS = [
   { num: "08", label: "Paralleli", slug: "08-settori-paralleli/index", prefix: "08-settori-paralleli" },
 ]
 
-const MagazineTopBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const MagazineTopBar: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => {
   const currentSlug = fileData.slug ?? "index"
   const baseDir = pathToRoot(currentSlug)
+  const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
+  const basePrefix = url.pathname.replace(/\/$/, "")
 
   const resolveHref = (target: string) => {
     const isIndex = target.endsWith("/index") || target === "index"
     const cleanTarget = target.replace(/\/index$/, "")
     const trailing = isIndex ? "/" : ""
+    if (currentSlug === "404") {
+      return basePrefix ? `${basePrefix}/${cleanTarget}${trailing}` : `/${cleanTarget}${trailing}`
+    }
     if (baseDir === ".") {
       return `./${cleanTarget}${trailing}`
     }
     return `${baseDir}/${cleanTarget}${trailing}`
   }
 
-  const homeHref = baseDir === "." ? "./" : `${baseDir}/`
+  const homeHref =
+    currentSlug === "404"
+      ? basePrefix
+        ? `${basePrefix}/`
+        : "/"
+      : baseDir === "."
+        ? "./"
+        : `${baseDir}/`
 
   return (
     <header class="nfc-masthead" role="banner" aria-label="Testata editoriale Wiki Catania Calcio">

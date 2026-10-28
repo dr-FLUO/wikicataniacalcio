@@ -48,13 +48,13 @@ Questa sezione raccoglie la mappatura storica, sociologica e topografica del mov
 
 | Voce Enciclopedica | Settore di Riferimento | Anno d'Origine | Sintesi Storica e Identitaria |
 | :--- | :--- | :---: | :--- |
-| **[[tifoseria/curva-sud/index|Curva Sud Stadio Cibali / Massimino]]** | Curva Sud (Anello Inferiore e Superiore) e Tribune | **1979** | Mappatura completa dell'Anello Inferiore e dell'Anello Superiore, dello striscione unificante **_Estrema Appartenenza_** (2015) e dei gruppi attivi in Tribuna B e Tribuna A. |
-| **[[tifoseria/curva-nord/index|Curva Nord Stadio Cibali / Massimino (CCN)]]** | Curva Nord | **1980** | Dai gruppi degli anni Ottanta ad *A Sostegno di una fede*, *A.N.R.* e *UCN*, fino alla sigla unitaria **Catania Curva Nord (CCN)** e alla rete dei clan rionali. |
-| **[[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto Rossazzurra (1979)]]** | Curva Sud — Anello Inferiore | **1979** | Primo gruppo ultras organizzato di Catania, fondato nel quartiere Castello Ursino da [[tifoseria/biografie/ciccio-famoso|Francesco "Ciccio" Famoso]]. |
-| **[[tifoseria/curva-sud/irriducibili-1991|Irriducibili 1991 (Primo Amore)]]** | Curva Sud — Anello Inferiore | **1991** | Storico gruppo guida dell'Anello Inferiore della Sud (*I.R.A.*), nato nel 1991 come *Primo Amore* da un nucleo proveniente dalla Nord. |
-| **[[tifoseria/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede (1998)]]** | Curva Nord | **1998** | Storico gruppo guida e drappo identitario della Nord per quasi vent'anni; intransigenza contro la Tessera del Tifoso fino allo scioglimento del 2016. |
-| **[[tifoseria/curva-nord/mecha-katane|Mecha Katane e Clan Rionali]]** | Curva Nord e Tribuna B | **1980** | Mappatura antropologica dei clan territoriali (*Monte Po'*, *Librino*, *San Giorgio*, *Piazza Palestro*, *Stazione*, *Cibali*) e del *Mecha Klan* in Tribuna B. |
-| **[[tifoseria/curva-nord/coreografie-storiche-massimino|Coreografie Storiche della Curva Nord]]** | Curva Nord | **1980** | L'arte monumentale delle scenografie al Massimino: dal Liotru gigante ai mosaici di cartoncini nei Derby di Serie A e al trionfo di Coppa Italia 2024. |
+| **[[tifoseria/curva-sud/index\|Curva Sud Stadio Cibali / Massimino]]** | Curva Sud (Anello Inferiore e Superiore) e Tribune | **1979** | Mappatura completa dell'Anello Inferiore e dell'Anello Superiore, dello striscione unificante **_Estrema Appartenenza_** (2015) e dei gruppi attivi in Tribuna B e Tribuna A. |
+| **[[tifoseria/curva-nord/index\|Curva Nord Stadio Cibali / Massimino (CCN)]]** | Curva Nord | **1980** | Dai gruppi degli anni Ottanta ad *A Sostegno di una fede*, *A.N.R.* e *UCN*, fino alla sigla unitaria **Catania Curva Nord (CCN)** e alla rete dei clan rionali. |
+| **[[tifoseria/curva-sud/falange-d-assalto\|Falange d'Assalto Rossazzurra (1979)]]** | Curva Sud — Anello Inferiore | **1979** | Primo gruppo ultras organizzato di Catania, fondato nel quartiere Castello Ursino da [[tifoseria/biografie/ciccio-famoso\|Francesco "Ciccio" Famoso]]. |
+| **[[tifoseria/curva-sud/irriducibili-1991\|Irriducibili 1991 (Primo Amore)]]** | Curva Sud — Anello Inferiore | **1991** | Storico gruppo guida dell'Anello Inferiore della Sud (*I.R.A.*), nato nel 1991 come *Primo Amore* da un nucleo proveniente dalla Nord. |
+| **[[tifoseria/curva-nord/a-sostegno-di-una-fede\|A Sostegno di una fede (1998)]]** | Curva Nord | **1998** | Storico gruppo guida e drappo identitario della Nord per quasi vent'anni; intransigenza contro la Tessera del Tifoso fino allo scioglimento del 2016. |
+| **[[tifoseria/curva-nord/mecha-katane\|Mecha Katane e Clan Rionali]]** | Curva Nord e Tribuna B | **1980** | Mappatura antropologica dei clan territoriali (*Monte Po'*, *Librino*, *San Giorgio*, *Piazza Palestro*, *Stazione*, *Cibali*) e del *Mecha Klan* in Tribuna B. |
+| **[[tifoseria/curva-nord/coreografie-storiche-massimino\|Coreografie Storiche della Curva Nord]]** | Curva Nord | **1980** | L'arte monumentale delle scenografie al Massimino: dal Liotru gigante ai mosaici di cartoncini nei Derby di Serie A e al trionfo di Coppa Italia 2024. |
 
 ---
 
@@ -89,11 +89,11 @@ La tifoseria del Catania è stata protagonista di mobilitazioni popolari di mass
 
 | Relazione Diplomatica | Anno d'Origine | Ambito | Genesi e Caratteristiche del Legame |
 | :--- | :---: | :--- | :--- |
-| **[[tifoseria/gemellaggi/crotone|Gemellaggio Catania-Crotone]]** | **2001** | Nazionale (Calabria) | Fratellanza nata nel 2001 nel ricordo del giovane tifoso rossazzurro **Fabrizio Lo Presti** e suggellata dallo striscione della Curva Sud crotonese. |
-| **[[tifoseria/gemellaggi/triestina|Gemellaggio Catania-Triestina]]** | **2004** | Nazionale (Venezia Giulia) | Gemellaggio sancito al [[stadio/angelo-massimino|Massimino]] in Serie B 2004-2005 in occasione del **50º anniversario del ritorno di Trieste all'Italia**. |
-| **[[tifoseria/gemellaggi/napoli|Amicizia e Gemellaggio Catania-Napoli]]** | **2009** | Nazionale / Internazionale | Alleanza con la **Curva A** e gruppi della Curva B del Napoli nata in Serie A nel 2009 e condivisa sull'asse con Dortmund. |
-| **[[tifoseria/gemellaggi/borussia-dortmund|Amicizia Internazionale Catania-Borussia Dortmund]]** | **Anni 2010** | Internazionale (Germania e Polonia) | Legame con i **Desperados 1999** e la *Südtribüne* del Borussia Dortmund e fratellanza rossazzurra della Sud con i polacchi del **Polonia Bytom**. |
-| **[[tifoseria/gemellaggi/genoa|Rispetto Catania-Genoa e Altre Amicizie]]** | **Anni '80–2000** | Regionale e Nazionale | Storico rispetto con il **Genoa** e quadro delle amicizie con **Trapani**, **Sicula Leonzio**, **Benevento**, **Parma**, **Monopoli** e **Potenza**. |
+| **[[tifoseria/gemellaggi/crotone\|Gemellaggio Catania-Crotone]]** | **2001** | Nazionale (Calabria) | Fratellanza nata nel 2001 nel ricordo del giovane tifoso rossazzurro **Fabrizio Lo Presti** e suggellata dallo striscione della Curva Sud crotonese. |
+| **[[tifoseria/gemellaggi/triestina\|Gemellaggio Catania-Triestina]]** | **2004** | Nazionale (Venezia Giulia) | Gemellaggio sancito al [[stadio/angelo-massimino\|Massimino]] in Serie B 2004-2005 in occasione del **50º anniversario del ritorno di Trieste all'Italia**. |
+| **[[tifoseria/gemellaggi/napoli\|Amicizia e Gemellaggio Catania-Napoli]]** | **2009** | Nazionale / Internazionale | Alleanza con la **Curva A** e gruppi della Curva B del Napoli nata in Serie A nel 2009 e condivisa sull'asse con Dortmund. |
+| **[[tifoseria/gemellaggi/borussia-dortmund\|Amicizia Internazionale Catania-Borussia Dortmund]]** | **Anni 2010** | Internazionale (Germania e Polonia) | Legame con i **Desperados 1999** e la *Südtribüne* del Borussia Dortmund e fratellanza rossazzurra della Sud con i polacchi del **Polonia Bytom**. |
+| **[[tifoseria/gemellaggi/genoa\|Rispetto Catania-Genoa e Altre Amicizie]]** | **Anni '80–2000** | Regionale e Nazionale | Storico rispetto con il **Genoa** e quadro delle amicizie con **Trapani**, **Sicula Leonzio**, **Benevento**, **Parma**, **Monopoli** e **Potenza**. |
 
 ---
 

@@ -108,9 +108,9 @@ Il **1º luglio 2010**, la Juventus acquista Jorge Martínez a titolo definitivo
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 31 | 8 | 5 (1) | **36 (9)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 30 | 5 | 1 (0) | **31 (5)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 9 | 1 (0) | **26 (9)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 31 | 8 | 5 (1) | **36 (9)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 30 | 5 | 1 (0) | **31 (5)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 9 | 1 (0) | **26 (9)** |
 | **Totale Carriera** | **3 Stagioni nel Catania** | **Serie A** | **86** | **22** | **7 (1)** | **93 (23)** |
 
 ---

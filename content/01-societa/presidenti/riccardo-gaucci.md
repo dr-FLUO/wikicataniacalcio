@@ -48,10 +48,10 @@ aliases:
 
 | Stagione | Categoria | Allenatori Principali | Risultato e Snodi Storici |
 | :--- | :--- | :--- | :--- |
-| **2000–2001** | Serie C1 (Gir. B) | Ivo Iaconi, [[tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]] | 3º posto e finale playoff persa col [[tifoseria/rivalita/messina|Messina]]. |
-| **[[stagioni/2001-2002|2001–2002]]** | Serie C1 (Gir. B) | Ammazzalorso, Vierchowod, Ciccio Graziani & Maurizio Pellegrino | **Promozione in Serie B** nella [[partite/2001-2002/spareggio-taranto-catania-0-0|finale playoff contro il Taranto (1-0 / 0-0)]]. |
-| **[[stagioni/2002-2003|2002–2003]]** | Serie B | Jaconi, Pellegrino, Toshack, Reja, [[tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]] | Reclamo su [[partite/2002-2003/catania-siena-1-1|Catania-Siena 1-1]] e vittoria al TAR nel **[[vicende-legali/caso-catania-2003|Caso Catania (2003)]]**. |
-| **[[stagioni/2003-2004|2003–2004]]** | Serie B (a 24 squadre) | Stefano Colantuono | **9º posto (67 punti)** con l'esplosione di [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e Luís Oliveira; cessione a [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]. |
+| **2000–2001** | Serie C1 (Gir. B) | Ivo Iaconi, [[tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] | 3º posto e finale playoff persa col [[tifoseria/rivalita/messina\|Messina]]. |
+| **[[stagioni/2001-2002\|2001–2002]]** | Serie C1 (Gir. B) | Ammazzalorso, Vierchowod, Ciccio Graziani & Maurizio Pellegrino | **Promozione in Serie B** nella [[partite/2001-2002/spareggio-taranto-catania-0-0\|finale playoff contro il Taranto (1-0 / 0-0)]]. |
+| **[[stagioni/2002-2003\|2002–2003]]** | Serie B | Jaconi, Pellegrino, Toshack, Reja, [[tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] | Reclamo su [[partite/2002-2003/catania-siena-1-1\|Catania-Siena 1-1]] e vittoria al TAR nel **[[vicende-legali/caso-catania-2003\|Caso Catania (2003)]]**. |
+| **[[stagioni/2003-2004\|2003–2004]]** | Serie B (a 24 squadre) | Stefano Colantuono | **9º posto (67 punti)** con l'esplosione di [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]] e Luís Oliveira; cessione a [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]. |
 
 ---
 

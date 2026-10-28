@@ -81,7 +81,7 @@ Allenatore di profonda intelligenza tattica proveniente dalla scuola calcistica 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1956-1957|1956-1957]], [[stagioni/1957-1958|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1956-1957\|1956-1957]], [[stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

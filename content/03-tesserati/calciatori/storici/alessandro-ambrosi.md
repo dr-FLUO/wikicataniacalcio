@@ -87,7 +87,7 @@ Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e L
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2000-2002) | 42 | 15 | Attaccante / Centravanti | [[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]] |
+| Campionato (2000-2002) | 42 | 15 | Attaccante / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
 | Coppe Nazionali / Spareggi | 5 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **47** | **16** | — | — |
 

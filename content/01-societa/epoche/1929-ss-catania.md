@@ -84,11 +84,11 @@ Riconquistata la Serie B nel **1938-1939** e richiamato in panchina [[tesserati/
 
 | Periodo / Stagione | Ragione Sociale | Presidente / Commissario | Allenatore Principale | Impianto Casalingo | Risultato Sportivo di Rilievo |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1929–1932** | *Società Sportiva Catania* | Santi Quasimodo, Giuseppe Fusco | Giorgio Armari, Antal Mally | [[stadio/piazza-esposizione|Piazza Esposizione]] | Fondazione del club (giugno 1929) e approdo in Prima Divisione. |
-| **[[stagioni/1933-1934|1933–1934]]** | *Società Sportiva Catania* | [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona]] | [[tesserati/allenatori/geza-kertesz|Géza Kertész]] | [[stadio/piazza-esposizione|Piazza Esposizione]] | **1ª Promozione storica in Serie B** (vittoria girone finale Prima Divisione). |
-| **1934–1936** | *Società Sportiva Catania* | [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona]] | [[tesserati/allenatori/geza-kertesz|Géza Kertész]], Pietro Colombetti | [[stadio/piazza-esposizione|Piazza Esposizione]] | 4º posto in Serie B 1934-35; emersione del debito di **2.600.000 lire** verso Trigona. |
-| **1936–1939** | *AFC Catania* | Vittorio Emanuele Brusca, Filippo Cusmano | Pietro Colombetti, Giovanni Degni | [[stadio/angelo-massimino|Stadio Cibali]] (dal 28/11/1937) | Inaugurazione dello [[stadio/angelo-massimino|Stadio Cibali]]; **2ª Promozione in Serie B** (1938-39). |
-| **1939–1943** | *AFC Catania* | Filippo Cusmano, Lorenzo Fazio | [[tesserati/allenatori/geza-kertesz|Géza Kertész]] (1941-42), Berardo Frisoni | [[stadio/angelo-massimino|Stadio Cibali]] | 1º posto Girone N di Serie C 1942-43; sospensione attività per la Seconda Guerra Mondiale. |
+| **1929–1932** | *Società Sportiva Catania* | Santi Quasimodo, Giuseppe Fusco | Giorgio Armari, Antal Mally | [[stadio/piazza-esposizione\|Piazza Esposizione]] | Fondazione del club (giugno 1929) e approdo in Prima Divisione. |
+| **[[stagioni/1933-1934\|1933–1934]]** | *Società Sportiva Catania* | [[societa/presidenti/vespasiano-trigona\|Vespasiano Trigona]] | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]] | [[stadio/piazza-esposizione\|Piazza Esposizione]] | **1ª Promozione storica in Serie B** (vittoria girone finale Prima Divisione). |
+| **1934–1936** | *Società Sportiva Catania* | [[societa/presidenti/vespasiano-trigona\|Vespasiano Trigona]] | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]], Pietro Colombetti | [[stadio/piazza-esposizione\|Piazza Esposizione]] | 4º posto in Serie B 1934-35; emersione del debito di **2.600.000 lire** verso Trigona. |
+| **1936–1939** | *AFC Catania* | Vittorio Emanuele Brusca, Filippo Cusmano | Pietro Colombetti, Giovanni Degni | [[stadio/angelo-massimino\|Stadio Cibali]] (dal 28/11/1937) | Inaugurazione dello [[stadio/angelo-massimino\|Stadio Cibali]]; **2ª Promozione in Serie B** (1938-39). |
+| **1939–1943** | *AFC Catania* | Filippo Cusmano, Lorenzo Fazio | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]] (1941-42), Berardo Frisoni | [[stadio/angelo-massimino\|Stadio Cibali]] | 1º posto Girone N di Serie C 1942-43; sospensione attività per la Seconda Guerra Mondiale. |
 
 ---
 

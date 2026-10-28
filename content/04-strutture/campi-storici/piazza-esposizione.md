@@ -77,9 +77,9 @@ Nonostante il fondo in terra battuta e la capienza ridotta (spesso integrata dai
 | **Denominazione Storica** | Campo dei Giochi di Piazza Esposizione (poi area di Piazza Giovanni Verga) |
 | **Ubicazione Urbana** | Catania — Quartiere Borgo-Sanzio / Corso Italia / Viale XX Settembre |
 | **Superficie di Gioco** | Terra battuta (*"terreno polveroso o fangoso"* nelle cronache d'epoca) |
-| **Periodo d'Uso Rossazzurro** | **1929 – 28 novembre 1937** ([[societa/1929-ss-catania|SS Catania / AFC Catania]]) |
-| **Massimo Traguardo Agonistico** | Promozione in Serie B nella [[stagioni/1933-1934|Stagione 1933-1934]] e tre campionati cadetti (1934–1937) |
-| **Impianto Successivo** | [[stadio/angelo-massimino|Stadio Cibali / Stadio Angelo Massimino]] (dal 28/11/1937) |
+| **Periodo d'Uso Rossazzurro** | **1929 – 28 novembre 1937** ([[societa/1929-ss-catania\|SS Catania / AFC Catania]]) |
+| **Massimo Traguardo Agonistico** | Promozione in Serie B nella [[stagioni/1933-1934\|Stagione 1933-1934]] e tre campionati cadetti (1934–1937) |
+| **Impianto Successivo** | [[stadio/angelo-massimino\|Stadio Cibali / Stadio Angelo Massimino]] (dal 28/11/1937) |
 
 ---
 

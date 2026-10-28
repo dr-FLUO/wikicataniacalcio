@@ -79,7 +79,7 @@ Nel campionato [[stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1989-1993) | 114 | 38 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1989-1993) | 114 | 38 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 11 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **125** | **40** | — | — |
 

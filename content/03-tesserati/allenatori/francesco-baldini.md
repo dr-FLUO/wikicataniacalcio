@@ -83,7 +83,7 @@ Nonostante mesi senza stipendi e la revoca dell'esercizio provvisorio il 9 april
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2020-2021|2020-2021]], [[stagioni/2021-2022|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2020-2021\|2020-2021]], [[stagioni/2021-2022\|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

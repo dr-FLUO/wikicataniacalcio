@@ -92,8 +92,8 @@ Confermato per la [[stagioni/2013-2014|Stagione 2013-2014]], Maran paga lo smant
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Serie A | V | N | P | GF | GS | Punti | Coppa Italia |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
-| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
+| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
+| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
 | **Totale** | **2 Stagioni (2012–2014)** | **Serie A** | **59 panchine Serie A + 4 Coppa Italia = 63** | **59** | **17** | **17** | **25** | **67** | **85** | **68** | **4** |
 
 ## Fonti e Bibliografia

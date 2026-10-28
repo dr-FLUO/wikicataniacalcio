@@ -93,7 +93,7 @@ Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 ret
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1968-1972) | 101 | 29 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1968-1972) | 101 | 29 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 8 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **109** | **30** | — | — |
 

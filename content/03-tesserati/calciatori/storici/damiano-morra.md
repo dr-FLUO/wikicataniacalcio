@@ -90,15 +90,15 @@ Nella successiva [[stagioni/1983-1984|Stagione 1983-1984]], corona il sogno di g
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Camp. (+Spar.) | Reti Camp. | Coppe (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **1975-1976** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/egizio-rubino|E. Rubino]], G. Mazzetti | 28 | 1 | 4 (0) | **32 (1)** |
-| **1976-1977** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella|C. Di Bella]], L. Valsecchi | 34 | 2 | 4 (0) | **38 (2)** |
-| **1977-1978** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C | C. Matteucci, G. Mazzetti | 35 (+1 sp.) | 2 | 6 (1) | **42 (3)** |
-| **1978-1979** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C1 | A. Capelli | 31 | 3 | 4 (0) | **35 (3)** |
-| **[[stagioni/1979-1980|1979-1980]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C1 | L. De Petrillo, [[tesserati/allenatori/egizio-rubino|E. Rubino]] | 4 | 0 | 0 (0) | **4 (0)** |
-| **1980-1981** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | L. De Petrillo, G. Mazzetti | 31 | 2 | 4 (0) | **35 (2)** |
-| **1981-1982** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | G. Michelotti, S. Improta | 27 | 0 | 2 (0) | **29 (0)** |
-| **[[stagioni/1982-1983|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] | 35 (+2 sp.) | 1 | 3 (0) | **40 (1)** |
-| **[[stagioni/1983-1984|1983-1984]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/gianni-di-marzio|G. Di Marzio]], G.B. Fabbri | 25 | 0 | 1 (0) | **26 (0)** |
+| **1975-1976** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/egizio-rubino\|E. Rubino]], G. Mazzetti | 28 | 1 | 4 (0) | **32 (1)** |
+| **1976-1977** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella\|C. Di Bella]], L. Valsecchi | 34 | 2 | 4 (0) | **38 (2)** |
+| **1977-1978** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C | C. Matteucci, G. Mazzetti | 35 (+1 sp.) | 2 | 6 (1) | **42 (3)** |
+| **1978-1979** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 | A. Capelli | 31 | 3 | 4 (0) | **35 (3)** |
+| **[[stagioni/1979-1980\|1979-1980]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 | L. De Petrillo, [[tesserati/allenatori/egizio-rubino\|E. Rubino]] | 4 | 0 | 0 (0) | **4 (0)** |
+| **1980-1981** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | L. De Petrillo, G. Mazzetti | 31 | 2 | 4 (0) | **35 (2)** |
+| **1981-1982** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | G. Michelotti, S. Improta | 27 | 0 | 2 (0) | **29 (0)** |
+| **[[stagioni/1982-1983\|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]] | 35 (+2 sp.) | 1 | 3 (0) | **40 (1)** |
+| **[[stagioni/1983-1984\|1983-1984]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/gianni-di-marzio\|G. Di Marzio]], G.B. Fabbri | 25 | 0 | 1 (0) | **26 (0)** |
 | **Totale** | **9 Stagioni Consecutive** | **A / B / C** | — | **250 (+3 sp.)** | **11** | **28 (1)** | **281 (12)** |
 
 

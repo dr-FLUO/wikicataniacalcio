@@ -79,7 +79,7 @@ Tra i suoi gol memorabili in maglia etnea si ricordano le marcature pesanti cont
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1967-1968) | 36 | 9 | Attaccante / Mezzala offensiva | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1967-1968) | 36 | 9 | Attaccante / Mezzala offensiva | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | **Totale Complessivo** | **36** | **9** | — | — |
 
 ---

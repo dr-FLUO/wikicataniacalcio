@@ -64,7 +64,7 @@ Costretta a vincere a tutti i costi per superare gli etnei in classifica, la Cre
 
 | Pos. | Squadra | Punti | G | V | N | P | GF | GS | DR | Verdetto Ufficiale |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **1º** | **[[societa/1967-calcio-catania-spa-massimino|Calcio Catania]]** | **3** | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **Promosso in Serie A [[stagioni/1983-1984|1983-1984]]** |
+| **1º** | **[[societa/1967-calcio-catania-spa-massimino\|Calcio Catania]]** | **3** | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **Promosso in Serie A [[stagioni/1983-1984\|1983-1984]]** |
 | **2º** | **U.S. Cremonese** | **2** | 2 | 0 | 2 | 0 | 0 | 0 | 0 | Rimane in Serie B |
 | **3º** | **Como Calcio** | **1** | 2 | 0 | 1 | 1 | 0 | 1 | -1 | Rimane in Serie B |
 
@@ -76,10 +76,10 @@ Costretta a vincere a tutti i costi per superare gli etnei in classifica, la Cre
 | :--- | :--- |
 | **Data e Ora** | Sabato 25 giugno 1983, ore 17:30 |
 | **Impianto** | Stadio Olimpico, Roma (campo neutro — oltre 40.000 spettatori catanesi) |
-| **Competizione** | [[stagioni/1982-1983|Serie B 1982-1983]] — Spareggi Promozione (3ª e decisiva gara) |
+| **Competizione** | [[stagioni/1982-1983\|Serie B 1982-1983]] — Spareggi Promozione (3ª e decisiva gara) |
 | **Arbitro** | Gianfranco Menegali della sezione AIA di Roma |
 | **Marcatori** | *Nessuno (0-0)* |
-| **Formazione Catania** | Sorrentino; Chinellato, Ciampoli, Giovannelli, Ranieri, Mastropasqua; [[tesserati/calciatori/damiano-morra|Morra]], Mastalli, Cantarutti, Mosti, Crialesi. — *A disp.:* Onorati, Labrocca, Gamberini, Crusco, Barozzi. — **All.:** [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]. |
+| **Formazione Catania** | Sorrentino; Chinellato, Ciampoli, Giovannelli, Ranieri, Mastropasqua; [[tesserati/calciatori/damiano-morra\|Morra]], Mastalli, Cantarutti, Mosti, Crialesi. — *A disp.:* Onorati, Labrocca, Gamberini, Crusco, Barozzi. — **All.:** [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]]. |
 | **Formazione Cremonese** | Pionetti; Di Chiara, Garzilli, Galbagini, Paolinelli; Bonomi, Viganò, Finardi, Bencina; Frutti, Vialli. — *A disp.:* Drago, Montorfano, Mazzoni, Rebonato, Fin. — **All.:** Emiliano Mondonico. |
 
 ---

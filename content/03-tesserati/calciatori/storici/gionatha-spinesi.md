@@ -99,11 +99,11 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Campionato | Reti Campionato | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2004-2005** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
-| **[[stagioni/2005-2006|2005-2006]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
-| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
+| **2004-2005** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
+| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
+| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
 | **Totale Carriera** | **5 Stagioni (2004–2009)** | **Serie A / B** | — | **135 (72 A + 63 B)** | **47 (20 A + 27 B)** | **8 (2)** | **143 (49)** |
 
 

@@ -81,7 +81,7 @@ Tecnico rigoroso e metodico, gettò le basi della rosa che avrebbe poi raggiunto
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2000-2001|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2000-2001\|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

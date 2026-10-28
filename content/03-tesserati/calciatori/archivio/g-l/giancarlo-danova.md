@@ -91,7 +91,7 @@ Nella stagione d'esordio 1964-1965 realizzò 6 reti fondamentali, tra cui il gol
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1964-1966) | 57 | 10 | Attaccante / Ala | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1964-1966) | 57 | 10 | Attaccante / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 3 | 0 | Attaccante / Ala | Gare ufficiali |
 | **Totale Complessivo** | **60** | **10** | — | — |
 

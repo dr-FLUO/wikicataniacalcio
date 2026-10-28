@@ -73,7 +73,7 @@ Capace di saltare l'avversario con finte fulminee e di crossare con precisione m
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1955-1957) | 60 | 10 | Attaccante / Ala destra | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1955-1957) | 60 | 10 | Attaccante / Ala destra | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **60** | **10** | — | — |
 
 ---

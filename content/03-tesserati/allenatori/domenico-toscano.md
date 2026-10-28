@@ -81,7 +81,7 @@ Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; conf
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2024-2025|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2024-2025\|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

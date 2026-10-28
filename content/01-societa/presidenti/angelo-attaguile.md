@@ -54,10 +54,10 @@ Durante il suo quadriennio:
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |
 | :--- | :--- | :--- | :--- |
-| **1987–1988** | Serie C1 (Gir. B) | Osvaldo Jaconi, poi [[tesserati/allenatori/bruno-pace|Bruno Pace]] | 15º posto |
-| **1988–1989** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo|Carmelo Russo]] | 6º posto |
-| **1989–1990** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo|Carmelo Russo]], poi [[tesserati/allenatori/angelo-sormani|Angelo Sormani]] | 6º posto |
-| **1990–1991** | Serie C1 (Gir. B) | [[tesserati/allenatori/angelo-sormani|Angelo Sormani]] | 11º posto |
+| **1987–1988** | Serie C1 (Gir. B) | Osvaldo Jaconi, poi [[tesserati/allenatori/bruno-pace\|Bruno Pace]] | 15º posto |
+| **1988–1989** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo\|Carmelo Russo]] | 6º posto |
+| **1989–1990** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo\|Carmelo Russo]], poi [[tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 6º posto |
+| **1990–1991** | Serie C1 (Gir. B) | [[tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 11º posto |
 
 ---
 

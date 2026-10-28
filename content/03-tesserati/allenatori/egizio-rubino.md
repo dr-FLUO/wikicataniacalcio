@@ -84,12 +84,12 @@ Dopo aver iniziato anche il torneo cadetto 1975-1976 (lanciando titolare un giov
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. | V | N | P | Note Storiche |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1968-1969** (nov.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | 11º posto (Salvezza) | 32 | 9 | 14 | 9 | Subentra alla 7ª giornata a L. Valsecchi. |
-| **[[stagioni/1969-1970|1969-1970]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (48 pt) — Promosso in Serie A** | 38 | 15 | 18 | 5 | Vittoria decisiva 3-1 a Reggio Calabria (14/06/1970). |
-| **1970-1971** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie A | 16º posto (21 punti) | 30 | 5 | 11 | 14 | Intero campionato in massima serie. |
-| **1974-1975** (ott.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C (Gir. C) | **1º posto (57 pt) — Promosso in Serie B** | 33 | 18 | 14 | 1 | Subentra alla 6ª giornata; 3-0 a Torre del Greco. |
-| **1975-1976** (fino mar.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 24ª giornata da G. Mazzetti | 24 | 6 | 10 | 8 | Esordio di [[tesserati/calciatori/damiano-morra|Damiano Morra]]. |
-| **[[stagioni/1979-1980|1979-1980]]** (mag.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **1º posto (44 pt) — Promosso in Serie B** | 5 | 2 | 2 | 1 | Guida la squadra nelle ultime 5 giornate. |
+| **1968-1969** (nov.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | 11º posto (Salvezza) | 32 | 9 | 14 | 9 | Subentra alla 7ª giornata a L. Valsecchi. |
+| **[[stagioni/1969-1970\|1969-1970]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (48 pt) — Promosso in Serie A** | 38 | 15 | 18 | 5 | Vittoria decisiva 3-1 a Reggio Calabria (14/06/1970). |
+| **1970-1971** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | 16º posto (21 punti) | 30 | 5 | 11 | 14 | Intero campionato in massima serie. |
+| **1974-1975** (ott.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C (Gir. C) | **1º posto (57 pt) — Promosso in Serie B** | 33 | 18 | 14 | 1 | Subentra alla 6ª giornata; 3-0 a Torre del Greco. |
+| **1975-1976** (fino mar.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 24ª giornata da G. Mazzetti | 24 | 6 | 10 | 8 | Esordio di [[tesserati/calciatori/damiano-morra\|Damiano Morra]]. |
+| **[[stagioni/1979-1980\|1979-1980]]** (mag.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **1º posto (44 pt) — Promosso in Serie B** | 5 | 2 | 2 | 1 | Guida la squadra nelle ultime 5 giornate. |
 | **Totale** | **6 Stagioni in 3 Cicli** | **A / B / C** | **162 panchine Camp. + 6 Coppa Italia = 168** | **162** | **55** | **69** | **38** | **3 Promozioni conquistate col Catania.** |
 
 

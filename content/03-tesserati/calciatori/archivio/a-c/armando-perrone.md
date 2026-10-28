@@ -74,7 +74,7 @@ Affiancato prima a Musmeci e poi dal 1947 al grande veterano Nicolò Nicolosi e 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1946-1949) | 65 | 18 | Attaccante / Ala | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1946-1949) | 65 | 18 | Attaccante / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **65** | **18** | — | — |
 
 ---

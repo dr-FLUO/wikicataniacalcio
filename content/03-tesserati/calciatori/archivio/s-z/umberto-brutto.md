@@ -73,7 +73,7 @@ Nella storica annata 1998-1999 Brutto fu decisivo con gol fondamentali contro Ca
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1997-2000) | 81 | 14 | Centrocampista / Ala destra / Capitano | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1997-2000) | 81 | 14 | Centrocampista / Ala destra / Capitano | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 7 | 1 | Centrocampista / Ala destra / Capitano | Gare ufficiali |
 | **Totale Complessivo** | **88** | **15** | — | — |
 

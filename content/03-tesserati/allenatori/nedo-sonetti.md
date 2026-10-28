@@ -82,7 +82,7 @@ Riorganizzò la difesa e valorizzò elementi cardine come Pantanelli, Cesar e Si
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2004-2005|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

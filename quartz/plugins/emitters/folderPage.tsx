@@ -90,11 +90,11 @@ function computeFolderInfo(
 }
 
 function _getFolders(slug: FullSlug): SimpleSlug[] {
-  var folderName = path.dirname(slug ?? "") as SimpleSlug
+  var folderName = path.posix.dirname(slug ?? "") as SimpleSlug
   const parentFolderNames = [folderName]
 
   while (folderName !== ".") {
-    folderName = path.dirname(folderName ?? "") as SimpleSlug
+    folderName = path.posix.dirname(folderName ?? "") as SimpleSlug
     parentFolderNames.push(folderName)
   }
   return parentFolderNames

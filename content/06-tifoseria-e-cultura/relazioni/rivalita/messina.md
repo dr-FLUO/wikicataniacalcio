@@ -69,11 +69,11 @@ Promosso il Catania in Serie B l'anno seguente a Taranto ([[stagioni/2001-2002|S
 
 | Periodo / Stagione | Categoria | Snodi Principali nella Storia della Rivalità |
 | :--- | :--- | :--- |
-| **1950–1965** | Serie B e Serie A ([[stagioni/1963-1964|1963-1964]], [[stagioni/1964-1965|1964-1965]]) | Primi confronti in cadetteria e primo storico doppio incrocio in massima serie negli anni d'oro di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. |
-| **Anni '80 – '90** | Serie B, Serie C1 e Serie C2 | Nascita della rivalità ultras strutturata tra [[tifoseria/curva-sud/index|Curva Sud]] / [[tifoseria/curva-nord/index|Curva Nord]] e la *Curva Sud* peloritana allo Stadio Celeste. |
+| **1950–1965** | Serie B e Serie A ([[stagioni/1963-1964\|1963-1964]], [[stagioni/1964-1965\|1964-1965]]) | Primi confronti in cadetteria e primo storico doppio incrocio in massima serie negli anni d'oro di [[societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] e [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
+| **Anni '80 – '90** | Serie B, Serie C1 e Serie C2 | Nascita della rivalità ultras strutturata tra [[tifoseria/curva-sud/index\|Curva Sud]] / [[tifoseria/curva-nord/index\|Curva Nord]] e la *Curva Sud* peloritana allo Stadio Celeste. |
 | **10–17 giugno 2001** | Finale Playoff Serie C1 2000-2001 | Doppia sfida promozione (1-1 al Cibali, 1-0 al Celeste) funestata dal lancio della bomba carta che costò la vita al tifoso messinese **Antonino Currò**. |
-| **2002–2007** | Serie B ([[stagioni/2002-2003|2002-2003]], [[stagioni/2003-2004|2003-2004]]) e Serie A (2006-2007) | Sfide ad alta tensione agonistica tra il Catania dell'[[societa/2000-era-gaucci|Era Gaucci]] / [[societa/2004-era-pulvirenti|Era Pulvirenti]] e il Messina di Pietro Franza. |
-| **[[stagioni/2015-2016|2015-2016]] – [[stagioni/2023-2024|2023-2024]]** | Lega Pro / Serie C (Girone C) | Ritrovati confronti in terza serie ( quasi sempre con divieto di vendita dei tagliandi ai residenti nella provincia ospite per disposizioni dell'ONMS). |
+| **2002–2007** | Serie B ([[stagioni/2002-2003\|2002-2003]], [[stagioni/2003-2004\|2003-2004]]) e Serie A (2006-2007) | Sfide ad alta tensione agonistica tra il Catania dell'[[societa/2000-era-gaucci\|Era Gaucci]] / [[societa/2004-era-pulvirenti\|Era Pulvirenti]] e il Messina di Pietro Franza. |
+| **[[stagioni/2015-2016\|2015-2016]] – [[stagioni/2023-2024\|2023-2024]]** | Lega Pro / Serie C (Girone C) | Ritrovati confronti in terza serie ( quasi sempre con divieto di vendita dei tagliandi ai residenti nella provincia ospite per disposizioni dell'ONMS). |
 
 ---
 

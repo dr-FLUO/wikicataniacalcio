@@ -76,7 +76,7 @@ Nel torneo inaugurale di Seconda Divisione Sud 1929-1930, Blengino fu il perno d
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1929-1931) | 29 | 10 | Attaccante / Ala | [[societa/1929-ss-catania|Società Sportiva Catania]] |
+| Campionato (1929-1931) | 29 | 10 | Attaccante / Ala | [[societa/1929-ss-catania\|Società Sportiva Catania]] |
 | **Totale Complessivo** | **29** | **10** | — | — |
 
 ---

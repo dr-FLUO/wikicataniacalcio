@@ -94,8 +94,8 @@ Confermato per la [[stagioni/1983-1984|Serie A 1983-1984]] (nonostante le diverg
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. (+Spar.) | V | N | P | Coppa Italia |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/1982-1983|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (45 pt) — Promosso in Serie A agli spareggi di Roma** | 38 (+2 sp.) | 15 | 18 | 7 | 5 (2V, 2N, 1P) |
-| **[[stagioni/1983-1984|1983-1984]]** (fino dic.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie A | Sostituito dopo la 12ª giornata da G.B. Fabbri | 12 | 1 | 5 | 6 | 2 (1V, 1N, 0P) |
+| **[[stagioni/1982-1983\|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (45 pt) — Promosso in Serie A agli spareggi di Roma** | 38 (+2 sp.) | 15 | 18 | 7 | 5 (2V, 2N, 1P) |
+| **[[stagioni/1983-1984\|1983-1984]]** (fino dic.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | Sostituito dopo la 12ª giornata da G.B. Fabbri | 12 | 1 | 5 | 6 | 2 (1V, 1N, 0P) |
 | **Totale** | **2 Stagioni (1982–1983)** | **Serie B / A** | **1 Promozione in Serie A (Spareggi Olimpico)** | **50 (+2 sp.)** | **16** | **23** | **13** | **7 (Tot. 59 gare)** |
 
 ## Fonti e Bibliografia

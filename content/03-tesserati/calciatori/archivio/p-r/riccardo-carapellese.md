@@ -90,7 +90,7 @@ Indossando la fascia di capitano con dignità regale, guidò i giovani compagni 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1957-1959) | 30 | 9 | Attaccante / Ala sinistra / Capitano | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1957-1959) | 30 | 9 | Attaccante / Ala sinistra / Capitano | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **30** | **9** | — | — |
 
 ---

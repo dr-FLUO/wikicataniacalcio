@@ -78,7 +78,7 @@ Con la partenza di Nicolosi al Napoli, nella [[stagioni/1937-1938|Stagione 1937-
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1936-1938) | 55 | 25 | Attaccante / Centravanti | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
+| Campionato (1936-1938) | 55 | 25 | Attaccante / Centravanti | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 3 | 0 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **58** | **25** | — | — |
 

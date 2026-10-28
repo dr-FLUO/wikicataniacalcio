@@ -89,7 +89,7 @@ Nel campionato 2024-2025 decise big match contro Benevento, Trapani e Avellino, 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2024-2026) | 52 | 19 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]] |
+| Campionato (2024-2026) | 52 | 19 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc\|Catania Football Club (Era Pelligra)]] |
 | Coppe Nazionali / Spareggi | 6 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **58** | **20** | — | — |
 

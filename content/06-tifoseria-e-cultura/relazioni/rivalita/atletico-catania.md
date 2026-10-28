@@ -69,10 +69,10 @@ Per la prima e unica volta nella storia (nelle stagioni **1999-2000** e **2000-2
 
 | Stagione e Data | Competizione | Incontro e Risultato | Significato Storico nel Confronto Cittadino |
 | :--- | :--- | :---: | :--- |
-| **[[stagioni/1993-1994|1993-1994]]** | Serie C1 vs. Eccellenza Sicilia | Coabitazione a distanza allo [[stadio/angelo-massimino|Stadio Cibali]] | [[tifoseria/eventi/boicottaggio-atletico-1993|Boicottaggio totale dell'Atletico Catania]] in C1 e 9.000 spettatori di media per la matricola 11700 in Eccellenza. |
-| **31 ottobre 1999** | Serie C1 1999-2000 (Andata) | **Atletico Catania-Catania 0-0** | Primo incrocio ufficiale in campionato allo [[stadio/angelo-massimino|Stadio Cibali]] con la quasi totalità del pubblico di fede rossazzurra. |
+| **[[stagioni/1993-1994\|1993-1994]]** | Serie C1 vs. Eccellenza Sicilia | Coabitazione a distanza allo [[stadio/angelo-massimino\|Stadio Cibali]] | [[tifoseria/eventi/boicottaggio-atletico-1993\|Boicottaggio totale dell'Atletico Catania]] in C1 e 9.000 spettatori di media per la matricola 11700 in Eccellenza. |
+| **31 ottobre 1999** | Serie C1 1999-2000 (Andata) | **Atletico Catania-Catania 0-0** | Primo incrocio ufficiale in campionato allo [[stadio/angelo-massimino\|Stadio Cibali]] con la quasi totalità del pubblico di fede rossazzurra. |
 | **12 marzo 2000** | Serie C1 1999-2000 (Ritorno) | **Catania-Atletico Catania 2-1** | Vittoria del Catania (7º a fine torneo davanti all'Atletico 17º e salvo solo ai playout), che sancisce il **sorpasso definitivo della matricola 11700**. |
-| **1º ottobre 2000 / 11 febbraio 2001** | Serie C1 2000-2001 ([[societa/2000-era-gaucci|Era Gaucci]]) | **Catania-Atletico Catania 0-0 / 1-0** | Ultimi confronti in terza serie: il Catania disputa la finale playoff per la Serie B, mentre l'Atletico Catania retrocede in Serie C2 e va incontro al fallimento nel 2001. |
+| **1º ottobre 2000 / 11 febbraio 2001** | Serie C1 2000-2001 ([[societa/2000-era-gaucci\|Era Gaucci]]) | **Catania-Atletico Catania 0-0 / 1-0** | Ultimi confronti in terza serie: il Catania disputa la finale playoff per la Serie B, mentre l'Atletico Catania retrocede in Serie C2 e va incontro al fallimento nel 2001. |
 
 Con la retrocessione e il successivo fallimento dell'Atletico Catania nel 2001 — proprio mentre il Calcio Catania S.p.A. si apprestava a riconquistare la Serie B nella [[stagioni/2001-2002|Stagione 2001-2002]] — si chiuse definitivamente la parentesi dualistica degli anni Novanta, confermando la centralità inscindibile tra il popolo rossazzurro e la propria tradizione storica.
 

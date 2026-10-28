@@ -76,7 +76,7 @@ In mezzo alla tempesta giudiziaria del Caso Catania nel 2003, Oliveira rimase il
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2002-2004) | 71 | 26 | Attaccante / Seconda punta / Centravanti | [[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]] |
+| Campionato (2002-2004) | 71 | 26 | Attaccante / Seconda punta / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
 | Coppe Nazionali / Spareggi | 3 | 2 | Attaccante / Seconda punta / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **74** | **28** | — | — |
 

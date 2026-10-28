@@ -82,8 +82,8 @@ Nel 2014 sfiorò un clamoroso miracolo salvezza in Serie A con tre vittorie cons
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002|2001-2002]], [[stagioni/2002-2003|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/2013-2014|2013-2014]], [[stagioni/2014-2015|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002\|2001-2002]], [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2013-2014\|2013-2014]], [[stagioni/2014-2015\|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

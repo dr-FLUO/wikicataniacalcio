@@ -71,7 +71,7 @@ Nonostante le pesanti sanzioni e la pandemia di COVID-19, tenne la squadra stabi
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2020-2021|2020-2021]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2020-2021\|2020-2021]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -105,12 +105,12 @@ Il **16 dicembre 2016**, il Direttivo di *A Sostegno di una fede* emanò un comu
 
 | Parametro Storico | Dati e Riferimenti Identitari | Note e Riferimenti Normativi |
 | :--- | :--- | :--- |
-| **Denominazione Ufficiale** | **A Sostegno di una fede** | Drappo storico centrale della [[tifoseria/curva-nord/index|Curva Nord]]. |
+| **Denominazione Ufficiale** | **A Sostegno di una fede** | Drappo storico centrale della [[tifoseria/curva-nord/index\|Curva Nord]]. |
 | **Anno di Nascita** | **1998** | Nato in Serie C2 per unificare le anime del settore. |
 | **Data di Scioglimento** | **16 dicembre 2016** | Comunicato ufficiale di autoscioglimento all'apice della militanza. |
-| **Settore Occupato** | [[stadio/angelo-massimino|Stadio Angelo Massimino]] — **Curva Nord** | Posizionamento centrale sulla balaustra superiore della gradinata. |
-| **Posizione sulla Tessera** | **Contrarietà assoluta e intransigente** | Rifiuto della sottoscrizione ex [[vicende-legali/decreto-2-febbraio-2007|L. 41/2007]]. |
-| **Amicizie Riconosciute** | [[tifoseria/gemellaggi/triestina|Triestina]], [[tifoseria/gemellaggi/crotone|Crotone]], [[tifoseria/gemellaggi/napoli|Napoli]], [[tifoseria/gemellaggi/borussia-dortmund|Borussia Dortmund]] | Asse storico di cooperazione e rispetto nazionale ed europeo. |
+| **Settore Occupato** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]] — **Curva Nord** | Posizionamento centrale sulla balaustra superiore della gradinata. |
+| **Posizione sulla Tessera** | **Contrarietà assoluta e intransigente** | Rifiuto della sottoscrizione ex [[vicende-legali/decreto-2-febbraio-2007\|L. 41/2007]]. |
+| **Amicizie Riconosciute** | [[tifoseria/gemellaggi/triestina\|Triestina]], [[tifoseria/gemellaggi/crotone\|Crotone]], [[tifoseria/gemellaggi/napoli\|Napoli]], [[tifoseria/gemellaggi/borussia-dortmund\|Borussia Dortmund]] | Asse storico di cooperazione e rispetto nazionale ed europeo. |
 | **Eredità Storica** | Base ideale per la nascita di **Catania Curva Nord (CCN)** | Spirito trasfuso nella riorganizzazione unitaria del tifo post-2021. |
 
 ---

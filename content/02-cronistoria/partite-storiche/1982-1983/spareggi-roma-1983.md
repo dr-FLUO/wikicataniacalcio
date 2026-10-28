@@ -77,7 +77,7 @@ La partita decisiva è una battaglia tattica ad alta tensione agonistica. La ret
 
 | Squadra | Punti | Giocate | Vinte | Nulle | Perse | GF | GS | DR | Esito |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **[[societa/matricola-11700|Catania]]** | **3** | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **Promosso in Serie A** |
+| **[[societa/matricola-11700\|Catania]]** | **3** | 2 | 1 | 1 | 0 | 1 | 0 | +1 | **Promosso in Serie A** |
 | **Cremonese** | **1** | 2 | 0 | 1 | 1 | 0 | 0 | 0 | Rimasta in Serie B |
 | **Como** | **1** | 2 | 0 | 1 | 1 | 0 | 1 | -1 | Rimasta in Serie B |
 

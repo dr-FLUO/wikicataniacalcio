@@ -68,13 +68,13 @@ Sul piano nazionale, il quadro delle relazioni amichevoli comprende piazze con c
 
 | Tifoseria / Club Amico | Area Geografica | Epoca d'Origine | Genesi e Caratteristiche del Rapporto |
 | :--- | :--- | :--- | :--- |
-| **Genoa** | Liguria (Genova) | Anni 2000 | Storico rispetto reciproco negli anni della Serie B ([[stagioni/2003-2004|2003-2004]]) e della Serie A (2007–2014), rafforzato dalla comune amicizia con il [[tifoseria/gemellaggi/napoli|Napoli]]. |
-| **Trapani** | Sicilia (Trapani) | Anni '80–'90 | Storica amicizia e alleanza regionale siciliana, saldata anche dalla comune rivalità verso il [[tifoseria/rivalita/palermo|Palermo]]. |
+| **Genoa** | Liguria (Genova) | Anni 2000 | Storico rispetto reciproco negli anni della Serie B ([[stagioni/2003-2004\|2003-2004]]) e della Serie A (2007–2014), rafforzato dalla comune amicizia con il [[tifoseria/gemellaggi/napoli\|Napoli]]. |
+| **Trapani** | Sicilia (Trapani) | Anni '80–'90 | Storica amicizia e alleanza regionale siciliana, saldata anche dalla comune rivalità verso il [[tifoseria/rivalita/palermo\|Palermo]]. |
 | **Sicula Leonzio** | Sicilia (Lentini, SR) | Anni '80–'90 | Fratellanza territoriale e condivisione del bacino sportivo ai confini della Piana di Catania. |
-| **Benevento** | Campania (Benevento) | Anni '90–2010 | Profonda amicizia e rispetto reciproco tra i gruppi della [[tifoseria/curva-sud/index|Curva Sud]] e la *Curva Sud* sannita; omaggio ufficiale esposto a Benevento per [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]] nel febbraio 2017. |
-| **Parma** | Emilia-Romagna (Parma) | Anni '80 | Gemellaggio storico nato negli anni Ottanta (con i *Boys Parma 1977*) ai tempi dei confronti cadetti dell'[[societa/1967-calcio-catania-spa-massimino|Era Massimino]], evolutosi nei decenni in un rapporto di cordiale rispetto. |
+| **Benevento** | Campania (Benevento) | Anni '90–2010 | Profonda amicizia e rispetto reciproco tra i gruppi della [[tifoseria/curva-sud/index\|Curva Sud]] e la *Curva Sud* sannita; omaggio ufficiale esposto a Benevento per [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]] nel febbraio 2017. |
+| **Parma** | Emilia-Romagna (Parma) | Anni '80 | Gemellaggio storico nato negli anni Ottanta (con i *Boys Parma 1977*) ai tempi dei confronti cadetti dell'[[societa/1967-calcio-catania-spa-massimino\|Era Massimino]], evolutosi nei decenni in un rapporto di cordiale rispetto. |
 | **Monopoli** e **Potenza** | Puglia e Basilicata | Anni '90–2010 | Rapporti di stima e rispetto ultras maturati nei campionati di Serie C1/Lega Pro del Girone C. |
-| **Battipagliese**, **Ebolitana**, **Vigor Lamezia** | Campania e Calabria | Anni '90 | Amicizie nate negli anni della risalita dal Campionato Nazionale Dilettanti e dalla Serie C2 dopo l'[[stagioni/1993-1994|Eccellenza 1993-1994]]. |
+| **Battipagliese**, **Ebolitana**, **Vigor Lamezia** | Campania e Calabria | Anni '90 | Amicizie nate negli anni della risalita dal Campionato Nazionale Dilettanti e dalla Serie C2 dopo l'[[stagioni/1993-1994\|Eccellenza 1993-1994]]. |
 
 ---
 

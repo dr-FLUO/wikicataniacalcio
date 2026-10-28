@@ -70,12 +70,12 @@ Appena sette giorni più tardi, il **16 giugno 2002**, nel corso dei festeggiame
 
 | Voce | Dettaglio Ufficiale |
 | :--- | :--- |
-| **Data e Competizione** | Domenica **9 giugno 2002**, ore 16:30 — Finale di Ritorno Playoff Serie C1 Girone B ([[stagioni/2001-2002|2001-2002]]) |
+| **Data e Competizione** | Domenica **9 giugno 2002**, ore 16:30 — Finale di Ritorno Playoff Serie C1 Girone B ([[stagioni/2001-2002\|2001-2002]]) |
 | **Impianto e Spettatori** | Stadio Erasmo Iacovone, Taranto — ca. 22.000 spettatori |
 | **Arbitro** | Paolo Silvio Mazzoleni della sezione di Bergamo |
 | **Risultato** | **0-0** *(Andata: Catania-Taranto 1-0, 74' Fini — **Catania promosso in Serie B**)* |
 | **Formazione Taranto** | Di Bitonto; Galeoto, Pisano, Marziano, Siroti; Bennardo, Cazzarò (24' pt Andrisani), Giugliano (1' st Parente), Triuzzi; Riganò, Cariello (37' st De Liguori). — *A disp.:* Signorile, Cioffi, Pizzolla, Staffolani. — **All.:** Gianni Simonelli. |
-| **Formazione Catania** | Iezzo; De Martis, [[tesserati/allenatori/michele-zeoli|Zeoli]], Pane, Bussi, Baronchelli; Fini, Cordone, Bonomi; Cicconi, E. Baggio (42' st Breda). — *A disp.:* Fiorentini, Minieri, Lolli, Amoruso, Lasme, Kanyengele. — **All.:** Francesco Graziani e Maurizio Pellegrino. |
+| **Formazione Catania** | Iezzo; De Martis, [[tesserati/allenatori/michele-zeoli\|Zeoli]], Pane, Bussi, Baronchelli; Fini, Cordone, Bonomi; Cicconi, E. Baggio (42' st Breda). — *A disp.:* Fiorentini, Minieri, Lolli, Amoruso, Lasme, Kanyengele. — **All.:** Francesco Graziani e Maurizio Pellegrino. |
 | **Note e Ammoniti** | **Ammoniti:** Cicconi (C), Giugliano (T), Galeoto (T), Riganò (T), Bussi (C). |
 
 ---

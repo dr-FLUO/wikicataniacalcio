@@ -79,7 +79,7 @@ Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1950-1953) | 91 | 32 | Attaccante / Centravanti / Ala | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1950-1953) | 91 | 32 | Attaccante / Centravanti / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **91** | **32** | — | — |
 
 ---

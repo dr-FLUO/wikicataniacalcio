@@ -80,7 +80,7 @@ Nella stagione cadetta [[stagioni/1973-1974|1973-1974]] Spagnolo fu il capocanno
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1973-1977) | 129 | 47 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1973-1977) | 129 | 47 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 10 | 3 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **139** | **50** | — | — |
 

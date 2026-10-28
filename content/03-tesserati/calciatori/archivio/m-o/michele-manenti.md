@@ -94,7 +94,7 @@ Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patr
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1953-1955) | 62 | 24 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1953-1955) | 62 | 24 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **62** | **24** | — | — |
 
 ---

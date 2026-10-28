@@ -85,7 +85,7 @@ In coppia con Maurizio Pellegrino compì un autentico capolavoro psicologico e t
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002|2001-2002]], [[stagioni/2002-2003|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002\|2001-2002]], [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

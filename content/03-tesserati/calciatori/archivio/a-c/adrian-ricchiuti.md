@@ -65,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1978-06-30 — Lanús |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -59,9 +59,9 @@ Dopo la parentesi di Agatino Pesce seguita al Caso Scaramella, Michisanti tornò
 | Stagione | Categoria | Allenatore | Risultato Finale |
 | :--- | :--- | :--- | :--- |
 | **1951–1952** | Serie B | Nereo Marini, poi Rodolfo Brondi, poi Fioravante Baldi | 4º posto |
-| **1952–1953** | Serie B | Giulio Cappelli, poi [[tesserati/allenatori/fioravante-baldi|Fioravante Baldi]] | 3º posto |
-| **1953–1954** | Serie B | [[tesserati/allenatori/piero-andreoli|Piero Andreoli]] | **1º posto (Promozione in Serie A)** |
-| **1958–1959** | Serie B | Blagoje Marjanovic, poi [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | Gestione societaria fino a marzo 1959 |
+| **1952–1953** | Serie B | Giulio Cappelli, poi [[tesserati/allenatori/fioravante-baldi\|Fioravante Baldi]] | 3º posto |
+| **1953–1954** | Serie B | [[tesserati/allenatori/piero-andreoli\|Piero Andreoli]] | **1º posto (Promozione in Serie A)** |
+| **1958–1959** | Serie B | Blagoje Marjanovic, poi [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | Gestione societaria fino a marzo 1959 |
 
 ---
 

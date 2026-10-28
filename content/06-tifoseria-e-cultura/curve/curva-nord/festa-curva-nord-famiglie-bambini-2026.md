@@ -101,10 +101,10 @@ Nel pomeriggio, la festa ha visto l'arrivo a sorpresa di una delegazione ufficia
 | **Denominazione Ufficiale** | **«Catania Siamo Noi»** |
 | **Data di Svolgimento** | **14 Ottobre 2026** |
 | **Luogo e Quartiere** | **Piazza Dante**, Quartiere Antico Corso, Catania (davanti al Monastero dei Benedettini) |
-| **Entità Promotrici** | **[[tifoseria/curva-nord/index|Curva Nord Catania]]** in collaborazione con l'associazione **«Oltre»** |
+| **Entità Promotrici** | **[[tifoseria/curva-nord/index\|Curva Nord Catania]]** in collaborazione con l'associazione **«Oltre»** |
 | **Target Principale** | Famiglie, residenti e bambini dai 6 ai 12 anni |
 | **Attività Cardine** | Torneo di calcio per bambini, laboratorio artistico *«La Catania che vorrei»*, animazione popolare |
-| **Presenze Straordinarie** | Delegazione ufficiale di atleti della prima squadra del [[societa/2022-pelligra-catania-fc|Catania Football Club]] |
+| **Presenze Straordinarie** | Delegazione ufficiale di atleti della prima squadra del [[societa/2022-pelligra-catania-fc\|Catania Football Club]] |
 | **Contesto Storico-Giuridico** | Vigilia dell'apertura dell'asta telematica fallimentare per l'assegnazione dello **storico marchio FIGC 11700** |
 | **Epilogo Connesso** | Riacquisto ufficiale del logo storico da parte del club il **22 ottobre 2026** per 250.000 € |
 

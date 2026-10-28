@@ -87,20 +87,20 @@ Il sabato Santo **23 aprile 2011** (34ª giornata di Serie A 2010-2011), il Cata
 
 | Calciatore / Tecnico | Ruolo | Periodo a Catania | Presenze / Reti in Rossazzurro | Note e Primati Storici |
 | :--- | :--- | :---: | :---: | :--- |
-| **[[tesserati/calciatori/mariano-izco|Mariano Julio Izco]]** | Centrocampista | 2006–2014 | **280 pres. / 6 reti** (218 pres. in Serie A) | **Primatista assoluto di presenze del Catania in Serie A (218)**; capitano. |
-| **[[tesserati/calciatori/gonzalo-bergessio|Gonzalo Rubén Bergessio]]** | Attaccante | 2011–2014 | **113 pres. / 37 reti** (35 reti in Serie A) | **Primatista assoluto di reti del Catania in Serie A (35)**; 13 gol nel [[stagioni/2012-2013|2012-2013]]. |
+| **[[tesserati/calciatori/mariano-izco\|Mariano Julio Izco]]** | Centrocampista | 2006–2014 | **280 pres. / 6 reti** (218 pres. in Serie A) | **Primatista assoluto di presenze del Catania in Serie A (218)**; capitano. |
+| **[[tesserati/calciatori/gonzalo-bergessio\|Gonzalo Rubén Bergessio]]** | Attaccante | 2011–2014 | **113 pres. / 37 reti** (35 reti in Serie A) | **Primatista assoluto di reti del Catania in Serie A (35)**; 13 gol nel [[stagioni/2012-2013\|2012-2013]]. |
 | **Mariano Gonzalo Andújar** | Portiere | 2009–2012, 2012–2014 | **150 presenze** | Portiere della Nazionale argentina ai Mondiali 2010 e 2014 (Vicecampione del Mondo). |
 | **Nicolás Federico Spolli** | Difensore centrale | 2009–2015 | **155 pres. / 8 reti** | Colonna difensiva per sei stagioni tra Serie A e B. |
-| **Alejandro "Papu" Gómez** | Ala offensiva | 2010–2013 | **111 pres. / 18 reti** | Protagonista dei 56 punti con [[tesserati/allenatori/rolando-maran|Rolando Maran]]; Campione del Mondo 2022 con l'Argentina. |
+| **Alejandro "Papu" Gómez** | Ala offensiva | 2010–2013 | **111 pres. / 18 reti** | Protagonista dei 56 punti con [[tesserati/allenatori/rolando-maran\|Rolando Maran]]; Campione del Mondo 2022 con l'Argentina. |
 | **Matías Agustín Silvestre** | Difensore centrale | 2008–2011 | **123 pres. / 7 reti** | Capitano nel 2010-2011 e difensore goleador. |
 | **Pablo César Barrientos** | Trequartista / Ala | 2009–2013, 2014 | **91 pres. / 15 reti** | *"El Pitu"*; talento purissimo del tridente con Gómez e Bergessio. |
 | **Pablo Sebastián Álvarez** | Terzino destro | 2008, 2009–2014 | **123 presenze** | Titolare fisso della difesa nei cicli di Montella e Maran. |
-| **Maxi López** | Attaccante | 2010–2012, 2013–2014 | **83 pres. / 26 reti** | 11 reti nei primi 6 mesi del 2010; decisivo in [[partite/2009-2010/catania-inter-3-1|Catania-Inter 3-1]]. |
-| **Lucas Nahuel Castro** | Centrocampista / Ala | 2012–2015 | **92 pres. / 13 reti** | *"El Pata"*; uomo chiave nella [[stagioni/2012-2013|Stagione 2012-2013]]. |
-| **Sergio Bernardo Almiron** | Centrocampista | 2011–2015 | **101 pres. / 9 reti** | Perno di centrocampo accanto a [[tesserati/calciatori/francesco-lodi|Francesco Lodi]] e [[tesserati/calciatori/marco-biagianti|Marco Biagianti]]. |
+| **Maxi López** | Attaccante | 2010–2012, 2013–2014 | **83 pres. / 26 reti** | 11 reti nei primi 6 mesi del 2010; decisivo in [[partite/2009-2010/catania-inter-3-1\|Catania-Inter 3-1]]. |
+| **Lucas Nahuel Castro** | Centrocampista / Ala | 2012–2015 | **92 pres. / 13 reti** | *"El Pata"*; uomo chiave nella [[stagioni/2012-2013\|Stagione 2012-2013]]. |
+| **Sergio Bernardo Almiron** | Centrocampista | 2011–2015 | **101 pres. / 9 reti** | Perno di centrocampo accanto a [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] e [[tesserati/calciatori/marco-biagianti\|Marco Biagianti]]. |
 | **Ezequiel Alejo Carboni** | Mediano | 2008–2011 | **81 presenze** | Diga di centrocampo nei cicli di Zenga, Mihajlović e Simeone (poi tecnico giovanili). |
-| **Pablo Martín Ledesma** | Centrocampista | 2008–2011 | **80 pres. / 5 reti** | Autore del primo gol nello storico [[partite/2008-2009/palermo-catania-0-4|Palermo-Catania 0-4 (2009)]]. |
-| **[[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]** | Allenatore | Gen.–Mag. 2011 | **18 panchine in Serie A** | Record di 46 punti nel 2010-2011 (incluso il 4-0 al Palermo) prima dei trionfi all'Atlético Madrid. |
+| **Pablo Martín Ledesma** | Centrocampista | 2008–2011 | **80 pres. / 5 reti** | Autore del primo gol nello storico [[partite/2008-2009/palermo-catania-0-4\|Palermo-Catania 0-4 (2009)]]. |
+| **[[tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]]** | Allenatore | Gen.–Mag. 2011 | **18 panchine in Serie A** | Record di 46 punti nel 2010-2011 (incluso il 4-0 al Palermo) prima dei trionfi all'Atlético Madrid. |
 
 ---
 

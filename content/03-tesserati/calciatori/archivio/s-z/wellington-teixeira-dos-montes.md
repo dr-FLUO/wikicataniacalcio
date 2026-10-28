@@ -56,7 +56,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Brasile |
 | **Data e Luogo di Nascita** | 1988-06-21 — Santa Catarina |
-| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -24,6 +24,61 @@ const isSamePage = (url: URL): boolean => {
   return sameOrigin && samePath
 }
 
+const TOP_SECTIONS = [
+  "01-societa",
+  "02-cronistoria",
+  "03-tesserati",
+  "04-strutture",
+  "05-identita-e-simboli",
+  "06-tifoseria-e-cultura",
+  "07-media-e-comunicazione",
+  "08-settori-paralleli",
+  "tags",
+  "note-legali-privacy-accessibilita",
+  "segnala-correzione",
+  "societa",
+  "cronistoria",
+  "tesserati",
+  "strutture",
+  "stadio",
+  "simboli",
+  "tifoseria",
+  "media",
+  "paralleli",
+  "stagioni",
+  "partite-storiche",
+  "vicende-legali",
+]
+
+function sanitizePathname(pathname: string): string {
+  const isGh = window.location.hostname.endsWith(".github.io")
+  let clean = pathname.replace(/\/+/g, "/")
+
+  let prefix = ""
+  if (isGh) {
+    prefix = "/wikicataniacalcio"
+    if (clean.startsWith("/wikicataniacalcio")) {
+      clean = clean.slice("/wikicataniacalcio".length)
+    }
+  }
+
+  const segments = clean.split("/").filter((x) => x.length > 0)
+  let lastSectionIdx = -1
+  for (let i = 0; i < segments.length; i++) {
+    if (TOP_SECTIONS.includes(segments[i])) {
+      lastSectionIdx = i
+    }
+  }
+
+  if (lastSectionIdx > 0) {
+    clean = "/" + segments.slice(lastSectionIdx).join("/")
+  } else if (!clean.startsWith("/")) {
+    clean = "/" + clean
+  }
+
+  return prefix + clean
+}
+
 const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined => {
   if (!isElement(target)) return
   if (target.attributes.getNamedItem("target")?.value === "_blank") return
@@ -34,9 +89,7 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if (!isLocalUrl(href)) return
 
   const url = new URL(href)
-  if (window.location.hostname.endsWith(".github.io") && !url.pathname.startsWith("/wikicataniacalcio")) {
-    url.pathname = "/wikicataniacalcio" + (url.pathname.startsWith("/") ? url.pathname : "/" + url.pathname)
-  }
+  url.pathname = sanitizePathname(url.pathname)
 
   return { url, scroll: "routerNoscroll" in a.dataset ? false : undefined }
 }
@@ -65,14 +118,16 @@ function startLoading() {
 let isNavigating = false
 let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
-  if (window.location.hostname.endsWith(".github.io") && !url.pathname.startsWith("/wikicataniacalcio")) {
-    url.pathname = "/wikicataniacalcio" + (url.pathname.startsWith("/") ? url.pathname : "/" + url.pathname)
-  }
+  url.pathname = sanitizePathname(url.pathname)
   isNavigating = true
   startLoading()
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
+      if (!res.ok) {
+        window.location.assign(url)
+        return
+      }
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
         return res.text()
@@ -97,6 +152,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   const html = p.parseFromString(contents, "text/html")
   const newSlug = html.body.dataset.slug as FullSlug | undefined
   const targetUrl = new URL(url.href)
+  targetUrl.pathname = sanitizePathname(targetUrl.pathname)
   if (newSlug && (newSlug === "index" || newSlug.endsWith("/index")) && !targetUrl.pathname.endsWith("/")) {
     targetUrl.pathname += "/"
   }

@@ -80,7 +80,7 @@ Nel primo triennio (1979-1982) formò un tandem irresistibile con Damiano Morra 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1979-1982, 1985-1988) | 130 | 28 | Attaccante / Ala destra | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1979-1982, 1985-1988) | 130 | 28 | Attaccante / Ala destra | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 15 | 4 | Attaccante / Ala destra | Gare ufficiali |
 | **Totale Complessivo** | **145** | **32** | — | — |
 

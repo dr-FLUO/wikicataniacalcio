@@ -81,9 +81,9 @@ Il **29 giugno 2015**, nel corso dell'interrogatorio di garanzia dinanzi al GIP 
 | Data Incontro | Giornata Serie B | Partita | Risultato sul Campo | Esito Accertamento Procura Federale / TFN |
 | :--- | :--- | :--- | :---: | :--- |
 | **2 aprile 2015** | 34ª Giornata | **Varese - Catania** | **0-3** | Gara oggetto di confessione (concorso nell'alterazione del risultato). |
-| **11 aprile 2015** | 35ª Giornata | **Catania - Trapani** | **4-1** | Gara oggetto di confessione presso lo [[stadio/angelo-massimino|Stadio Angelo Massimino]]. |
+| **11 aprile 2015** | 35ª Giornata | **Catania - Trapani** | **4-1** | Gara oggetto di confessione presso lo [[stadio/angelo-massimino\|Stadio Angelo Massimino]]. |
 | **19 aprile 2015** | 36ª Giornata | **Latina - Catania** | **1-2** | Gara oggetto di confessione. |
-| **24 aprile 2015** | 37ª Giornata | **Catania - Ternana** | **2-0** | Gara oggetto di confessione presso lo [[stadio/angelo-massimino|Stadio Angelo Massimino]]. |
+| **24 aprile 2015** | 37ª Giornata | **Catania - Ternana** | **2-0** | Gara oggetto di confessione presso lo [[stadio/angelo-massimino\|Stadio Angelo Massimino]]. |
 | **2 maggio 2015** | 39ª Giornata | **Catania - Livorno** | **1-1** | Gara oggetto di confessione (quinto risultato utile consecutivo). |
 
 *(Nota: ulteriori approfondimenti investigativi riguardarono le gare Brescia-Catania 4-2 del 9 maggio 2015 e Bologna-Catania 2-0 del 27 aprile 2015).*
@@ -94,10 +94,10 @@ Il **29 giugno 2015**, nel corso dell'interrogatorio di garanzia dinanzi al GIP 
 
 | Data | Organo Giudicante | Provvedimento Adottato | Impatto su Società e Classifica |
 | :--- | :--- | :--- | :--- |
-| **23 giugno 2015** | Procura della Repubblica / GIP Catania | Esecuzione di 7 misure cautelari nell'operazione *I Treni del Gol* per frode sportiva ex art. 1 L. 401/1989. | Dimissioni dei vertici del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]. |
-| **29 giugno 2015** | Interrogatorio GIP Catania / Procura Federale | Confessione di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] sulle 5 partite pagate 100.000 euro ciascuna; attivazione dell'esimente/attenuante ex art. 24 C.G.S. per collaborazione fattiva. | Evitata la retrocessione diretta in Serie D chiesta in assenza di collaborazione. |
+| **23 giugno 2015** | Procura della Repubblica / GIP Catania | Esecuzione di 7 misure cautelari nell'operazione *I Treni del Gol* per frode sportiva ex art. 1 L. 401/1989. | Dimissioni dei vertici del [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]]. |
+| **29 giugno 2015** | Interrogatorio GIP Catania / Procura Federale | Confessione di [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]] sulle 5 partite pagate 100.000 euro ciascuna; attivazione dell'esimente/attenuante ex art. 24 C.G.S. per collaborazione fattiva. | Evitata la retrocessione diretta in Serie D chiesta in assenza di collaborazione. |
 | **20 agosto 2015** | Tribunale Federale Nazionale (TFN — 1º Grado) | Condanna del Catania all'**ultimo posto nella Serie B 2014-2015 (22º posto, retrocessione in Lega Pro)**, **-12 punti di penalizzazione** per il 2015-2016 e 150.000 € di ammenda. | Retrocessione d'ufficio in Lega Pro (e riammissione della Virtus Entella in Serie B). |
-| **29 agosto 2015** | Corte Federale d'Appello (CFA — 2º Grado) | Conferma della retrocessione in Lega Pro; **riduzione della penalizzazione da 12 a 9 punti** per la [[stagioni/2015-2016|Stagione 2015-2016]] (a cui si aggiungeranno altri punti per inadempienze amministrative). | Il Catania parte da **-9 punti** nel Girone C di Lega Pro 2015-2016. |
+| **29 agosto 2015** | Corte Federale d'Appello (CFA — 2º Grado) | Conferma della retrocessione in Lega Pro; **riduzione della penalizzazione da 12 a 9 punti** per la [[stagioni/2015-2016\|Stagione 2015-2016]] (a cui si aggiungeranno altri punti per inadempienze amministrative). | Il Catania parte da **-9 punti** nel Girone C di Lega Pro 2015-2016. |
 
 ---
 
@@ -105,8 +105,8 @@ Il **29 giugno 2015**, nel corso dell'interrogatorio di garanzia dinanzi al GIP 
 
 | Soggetto Sanzionato | Ruolo e Qualifica | Sanzione Principale (Inibizione / Declassamento) | Ammenda Pecuniaria | Preclusione (Radiazione FIGC) |
 | :--- | :--- | :--- | :---: | :---: |
-| **[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]** | Società (Resp. diretta ex artt. 4 e 7 C.G.S.) | **Ultimo posto Serie B 2014-2015 (Retrocessione in Lega Pro)** + **9 punti di penalizzazione** (12 in 1º grado) nel [[stagioni/2015-2016|2015-2016]] | **150.000 €** | — |
-| **[[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]** | Presidente C.d.A. Calcio Catania S.p.A. | **5 anni di inibizione** | **300.000 €** | No (attenuante collaborazione ex art. 24 C.G.S.) |
+| **[[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]]** | Società (Resp. diretta ex artt. 4 e 7 C.G.S.) | **Ultimo posto Serie B 2014-2015 (Retrocessione in Lega Pro)** + **9 punti di penalizzazione** (12 in 1º grado) nel [[stagioni/2015-2016\|2015-2016]] | **150.000 €** | — |
+| **[[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]** | Presidente C.d.A. Calcio Catania S.p.A. | **5 anni di inibizione** | **300.000 €** | No (attenuante collaborazione ex art. 24 C.G.S.) |
 | **Pablo Gustavo Cosentino** | Amministratore Delegato Calcio Catania S.p.A. | **4 anni di inibizione** | **50.000 €** | No |
 | **Daniele Delli Carri** | Ex Direttore Sportivo Calcio Catania S.p.A. | **4 anni di inibizione** | **30.000 €** | No |
 | **Piero Di Luzio** | Tesserato / Intermediario | **5 anni di inibizione** | **150.000 €** | **Sì (Preclusione)** |

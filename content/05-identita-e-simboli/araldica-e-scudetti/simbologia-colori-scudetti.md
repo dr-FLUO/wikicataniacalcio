@@ -84,12 +84,12 @@ Nel calcio cittadino, la figura del Liotru:
 
 | Periodo | Denominazione Ufficiale | Descrizione Araldica dello Stemma | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| **1929–1936** | [[societa/1929-ss-catania|S.S. Catania]] | Scudo ovale bordato d'oro con strisce verticali alternate rosso/azzurro ed elefante nero centrale | Debutto ufficiale nei campionati FIGC |
-| **1936–1943** | [[societa/1936-afc-catania|A.F.C. Catania]] | Scudo svizzero a strisce rossazzurre con fascio littorio laterale ed elefante sormontato da corona | Anni della Serie B fascista e Seconda Guerra Mondiale |
-| **1946–1967** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[societa/presidenti/santi-maimone|Santi Maimone]] |
-| **1967–2022** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[societa/matricola-11700|Matricola 11700]] |
+| **1929–1936** | [[societa/1929-ss-catania\|S.S. Catania]] | Scudo ovale bordato d'oro con strisce verticali alternate rosso/azzurro ed elefante nero centrale | Debutto ufficiale nei campionati FIGC |
+| **1936–1943** | [[societa/1936-afc-catania\|A.F.C. Catania]] | Scudo svizzero a strisce rossazzurre con fascio littorio laterale ed elefante sormontato da corona | Anni della Serie B fascista e Seconda Guerra Mondiale |
+| **1946–1967** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[societa/presidenti/santi-maimone\|Santi Maimone]] |
+| **1967–2022** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[societa/matricola-11700\|Matricola 11700]] |
 | **2022–2023** | Catania SSD | Scudetto circolare con Liotru geometrico moderno e strisce verticali stilizzate | Campionato vinto di Serie D con record di punti |
-| **2023–Oggi** | Catania FC | Ritorno al logo storico originario dopo riscatto all'asta giudiziaria da parte di [[societa/presidenti/ross-pelligra|Ross Pelligra]] | Marchio storico riacquisito dal Tribunale |
+| **2023–Oggi** | Catania FC | Ritorno al logo storico originario dopo riscatto all'asta giudiziaria da parte di [[societa/presidenti/ross-pelligra\|Ross Pelligra]] | Marchio storico riacquisito dal Tribunale |
 
 ---
 

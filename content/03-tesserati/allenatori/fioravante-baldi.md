@@ -82,7 +82,7 @@ Nel 1952-1953, in coppia con il D.T. Giulio Cappelli, totalizzò 41 punti al ter
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1951-1952|1951-1952]], [[stagioni/1952-1953|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1951-1952\|1951-1952]], [[stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

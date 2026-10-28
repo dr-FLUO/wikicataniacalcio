@@ -107,13 +107,13 @@ Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segn
 
 | Stagione | Società / Matricola | Categoria | Presenze Campionato | Reti Campionato | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **[[stagioni/2003-2004|2003-2004]]** | [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] (11700) | Serie B | 41 | 13 | 1 (0) | **42 (13)** |
-| **[[stagioni/2005-2006|2005-2006]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | 36 | 14 | 0 (0) | **36 (14)** |
-| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 6 | 1 (0) | **29 (6)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 4 | 5 (2) | **40 (6)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 12 | 2 (0) | **36 (12)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 8 | 1 (0) | **33 (8)** |
-| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 18 | 1 | 1 (0) | **19 (1)** |
+| **[[stagioni/2003-2004\|2003-2004]]** | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie B | 41 | 13 | 1 (0) | **42 (13)** |
+| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | 36 | 14 | 0 (0) | **36 (14)** |
+| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 6 | 1 (0) | **29 (6)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 4 | 5 (2) | **40 (6)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 12 | 2 (0) | **36 (12)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 8 | 1 (0) | **33 (8)** |
+| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 18 | 1 | 1 (0) | **19 (1)** |
 | **Totale** | **7 Stagioni in Rossazzurro** | **Serie A / B** | **224 (145 A + 79 B)** | **58 (31 A + 27 B)** | **11 (2)** | **235 (60)** |
 
 

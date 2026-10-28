@@ -87,7 +87,7 @@ Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stag
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1960-1962, 1964-1967) | 113 | 23 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1960-1962, 1964-1967) | 113 | 23 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 4 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **117** | **24** | — | — |
 

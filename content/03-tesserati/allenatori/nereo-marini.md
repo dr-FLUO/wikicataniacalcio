@@ -68,7 +68,7 @@ Nel campionato 1951-1952 guidò la squadra fino alla 18ª giornata prima del pas
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1950-1951|1950-1951]], [[stagioni/1951-1952|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1950-1951\|1950-1951]], [[stagioni/1951-1952\|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

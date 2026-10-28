@@ -84,7 +84,7 @@ Il 25 maggio 1980 a Reggio Calabria guidò i rossazzurri nella vittoria per 1-0 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1979-1980|1979-1980]], [[stagioni/1980-1981|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1979-1980\|1979-1980]], [[stagioni/1980-1981\|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

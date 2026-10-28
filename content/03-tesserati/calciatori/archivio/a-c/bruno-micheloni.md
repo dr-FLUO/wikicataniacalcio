@@ -79,7 +79,7 @@ Dopo aver segnato 8 reti nel 1951-1952, nella [[stagioni/1952-1953|Stagione 1952
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1951-1954) | 64 | 21 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
+| Campionato (1951-1954) | 64 | 21 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
 | **Totale Complessivo** | **64** | **21** | — | — |
 
 ---
