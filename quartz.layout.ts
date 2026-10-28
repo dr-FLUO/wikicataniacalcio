@@ -19,7 +19,25 @@ const editorialExplorer = Component.Explorer({
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: false,
-  filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "index",
+  filterFn: (node) => {
+    if (node.slugSegment === "tags" || node.slugSegment === "index") return false
+    // Mantiene il nodo 'archivio' come portale unico, ma esclude tutti i sotto-cluster A-Z e i 1.400+ file foglia
+    // dalla sidebar sinistra, per garantire un albero di navigazione ultra-pulito, leggero e immediato.
+    if (
+      node.slug &&
+      node.slugSegment !== "archivio" &&
+      (node.slug.includes("archivio/") ||
+        node.slugSegment === "a-c" ||
+        node.slugSegment === "d-f" ||
+        node.slugSegment === "g-l" ||
+        node.slugSegment === "m-o" ||
+        node.slugSegment === "p-r" ||
+        node.slugSegment === "s-z")
+    ) {
+      return false
+    }
+    return true
+  },
   mapFn: (node) => {
     const folderMap: Record<string, string> = {
       "01-societa": "01 · Società",
@@ -40,7 +58,7 @@ const editorialExplorer = Component.Explorer({
       "calciatori": "Calciatori",
       "rosa-attuale": "Rosa Attuale (2026–2027)",
       "storici": "Calciatori Storici",
-      "archivio": "Archivio Anagrafico",
+      "archivio": "Archivio Tesserati (Filtri A–Z)",
       "a-c": "Lettere A–C",
       "d-f": "Lettere D–F",
       "g-l": "Lettere G–L",
@@ -114,6 +132,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.MagazineHome(),
     Component.MagazineArticleHero(),
+    Component.TesseratiArchive(),
   ],
   afterBody: [
     Component.ConditionalRender({
@@ -154,6 +173,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.TesseratiArchive(),
   ],
   left: [editorialExplorer],
   right: [Component.Graph()],

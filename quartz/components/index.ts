@@ -28,6 +28,7 @@ import MagazineTopBar from "./MagazineTopBar"
 import MagazineArticleHero from "./MagazineArticleHero"
 import MagazineHome from "./MagazineHome"
 import UpdateBadge from "./UpdateBadge"
+import TesseratiArchive from "./TesseratiArchive"
 
 export {
   ArticleTitle,
@@ -60,4 +61,5 @@ export {
   MagazineArticleHero,
   MagazineHome,
   UpdateBadge,
+  TesseratiArchive,
 }

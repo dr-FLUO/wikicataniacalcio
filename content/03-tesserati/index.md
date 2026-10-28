@@ -35,6 +35,12 @@ aliases:
 
 Questa sezione raccoglie le schede biografiche, tattiche e statistiche delle **bandiere**, dei **primatisti assoluti di presenze e reti** e dei **grandi condottieri della panchina** che hanno segnato la storia del Catania dal 1929 a oggi attraverso le diverse ere societarie: dalla pionieristica [[societa/1929-ss-catania|Società Sportiva Catania]] al [[societa/1946-club-calcio-catania|Club Calcio Catania]], dall'epopea del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. di Angelo Massimino]] alla [[societa/2000-era-gaucci|Gestione Gaucci]], fino al ciclo moderno in Serie A dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]] e alla rinascita con il [[societa/2022-pelligra-catania-fc|Catania Football Club]] di [[societa/presidenti/ross-pelligra|Ross Pelligra]].
 
+> [!NOTE]
+> ### 📇 Registro Generale Tesserati (Filtri A–Z per Cognome)
+> Per consultare l'elenco completo dei **1.432 tesserati** della storia etnea con ordinamento per **Cognome**, filtri istantanei per ruolo, presenze e ricerca testuale:
+> 
+> 🔗 **[[03-tesserati/calciatori/archivio/index|Accedi all'Archivio Generale Tesserati con Filtri (1929–2027) →]]**
+
 ---
 
 ## A. Hall of Fame Calciatori: Bandiere e Primatisti

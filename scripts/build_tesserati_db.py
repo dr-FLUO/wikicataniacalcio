@@ -2,11 +2,31 @@ import glob, os, re, yaml, json, unicodedata
 
 PREFIXES = {'di', 'de', 'del', 'della', 'delle', 'delli', 'da', 'dal', 'dalla', 'dalle', 'lo', 'la', 'li', 'le', 'van', 'von', 'do', 'dos', 'das'}
 
+SPECIAL_NAMES = {
+    'diego pablo simeone': ('Simeone', 'Diego Pablo'),
+    'sergio bernardo almiron': ('Almiron', 'Sergio Bernardo'),
+    'cristian daniel ledesma': ('Ledesma', 'Cristian Daniel'),
+    'pablo cesar barrientos': ('Barrientos', 'Pablo César'),
+    'guilherme raymundo do prado': ('Do Prado', 'Guilherme (Guly)'),
+    'guly do prado': ('Do Prado', 'Guly'),
+    'babu': ('Babú', ''),
+    'cate': ('Catê', ''),
+    'jeda': ('Jeda', ''),
+    'pia': ('Piá', ''),
+}
+
 def normalize_ascii(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
 
 def split_name(full_name):
+    # Remove quotation marks or nicknames in quotes
     full_name = re.sub(r'["«»“"][^"«»“”]+["«»“”]', '', full_name).strip()
+    clean_lower = normalize_ascii(full_name).lower()
+    if clean_lower in SPECIAL_NAMES:
+        c, n = SPECIAL_NAMES[clean_lower]
+        init = normalize_ascii(c).lstrip("'").lstrip('"')[0].upper()
+        return c, n, init
+
     parts = full_name.split()
     if len(parts) <= 1:
         c_clean = normalize_ascii(full_name).lstrip("'").lstrip('"')
@@ -70,7 +90,6 @@ for f in files:
     img = data.get('image', '')
     entity = data.get('entity_type', 'calciatore')
     
-    # Simplify role category for easy filtering
     role_lower = role.lower()
     if 'allenatore' in role_lower:
         cat_role = 'Allenatore'
@@ -86,32 +105,29 @@ for f in files:
         cat_role = 'Calciatore'
     
     db.append({
-        'cognome': cognome,
-        'nome': nome,
-        'name': f"{cognome}, {nome}" if nome else cognome,
-        'full_name': f"{nome} {cognome}" if nome else cognome,
-        'initial': initial,
-        'slug': slug,
-        'role': role,
-        'cat_role': cat_role,
-        'apps': apps,
-        'seasons': seasons,
-        'has_image': bool(img),
-        'image': img,
-        'entity': entity
+        'c': cognome,
+        'n': nome,
+        'i': initial,
+        'r': role,
+        'cr': cat_role,
+        'a': apps,
+        's': seasons,
+        'u': slug,
+        'img': img if img else ''
     })
 
-# Primary Sort: COGNOME (A-Z), then NOME (A-Z)
-db.sort(key=lambda x: (normalize_ascii(x['cognome']).upper(), normalize_ascii(x['nome']).upper()))
+# Rigorous sorting: COGNOME (A-Z), then NOME (A-Z)
+db.sort(key=lambda x: (normalize_ascii(x['c']).upper(), normalize_ascii(x['n']).upper()))
 
 print(f"Total valid database entries: {len(db)}")
-print("\nFirst 15 entries sorted by Cognome:")
-for x in db[:15]:
-    print(f"  [{x['initial']}] {x['name']} | Role: {x['cat_role']} ({x['role']}) | Presenze: {x['apps']} | Slug: {x['slug']}")
 
-# Save to static JSON
+# Output files
+os.makedirs('quartz/components', exist_ok=True)
+with open('quartz/components/tesserati_db.json', 'w', encoding='utf-8') as out:
+    json.dump(db, out, ensure_ascii=False, indent=None, separators=(',', ':'))
+
 os.makedirs('quartz/static/data', exist_ok=True)
 with open('quartz/static/data/tesserati_db.json', 'w', encoding='utf-8') as out:
-    json.dump(db, out, ensure_ascii=False, indent=2)
+    json.dump(db, out, ensure_ascii=False, indent=None, separators=(',', ':'))
 
-print("\nSaved database to quartz/static/data/tesserati_db.json successfully!")
+print("Saved database to quartz/components/tesserati_db.json and quartz/static/data/tesserati_db.json successfully!")

@@ -31,6 +31,12 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const { tree, fileData, allFiles, cfg } = props
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
+    if (
+      fileData.slug &&
+      (fileData.slug.endsWith("/archivio") || fileData.slug.endsWith("/archivio/index"))
+    ) {
+      return null
+    }
     const folder = trie.findNode(fileData.slug!.split("/"))
     if (!folder) {
       return null
