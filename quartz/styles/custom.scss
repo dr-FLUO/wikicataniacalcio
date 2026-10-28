@@ -307,13 +307,85 @@ details.nfc-stat-accordion {
 }
 
 // ============================================================================
+// 0. FLUID EDGE-TO-EDGE PAGE LAYOUT & SIDEBARS TO SCREEN BORDER
+// ============================================================================
+
+.page {
+  max-width: 100vw !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box;
+}
+
+@media (min-width: 1200px) {
+  body:not([data-slug="index"]) #quartz-body {
+    display: grid !important;
+    grid-template-columns: 290px 1fr 330px !important;
+    column-gap: 2rem !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0 1rem !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+  }
+
+  body:not([data-slug="index"]) .center {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    > * {
+      width: 100%;
+      max-width: 880px;
+      box-sizing: border-box;
+    }
+
+    > hr {
+      max-width: 880px;
+    }
+
+    .article-hero-mosaic {
+      max-width: 980px;
+    }
+
+    .page-header {
+      max-width: 880px;
+    }
+
+    .page-footer {
+      max-width: 880px;
+    }
+  }
+}
+
+// ============================================================================
 // 1. TOP ARCHITECTURAL MAGAZINE MASTHEAD (NOFC + SINCRO)
 // ============================================================================
 
-.nfc-top-shell {
+.nfc-top-wrapper {
   position: sticky;
   top: 0;
   z-index: 120;
+  width: 100%;
+}
+
+.nfc-top-stripe {
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(
+    90deg,
+    var(--rossazzurro-red) 0%,
+    var(--rossazzurro-red) 50%,
+    var(--rossazzurro-blue) 50%,
+    var(--rossazzurro-blue) 100%
+  );
+}
+
+.nfc-top-shell {
   width: 100%;
   background-color: var(--wiki-surface-elevated);
   border-bottom: 1.5px solid var(--wiki-border-strong);
@@ -330,15 +402,7 @@ details.nfc-stat-accordion {
 }
 
 .nfc-masthead__stripe {
-  height: 4px;
-  width: 100%;
-  background: linear-gradient(
-    90deg,
-    var(--rossazzurro-red) 0%,
-    var(--rossazzurro-red) 50%,
-    var(--rossazzurro-blue) 50%,
-    var(--rossazzurro-blue) 100%
-  );
+  display: none !important;
 }
 
 .nfc-masthead__grid {
@@ -1756,9 +1820,9 @@ body:not([data-slug="index"]) article#main-article-content > h1:first-child {
 
 .nfc-article-hero__title {
   font-family: var(--font-display) !important;
-  font-size: clamp(2.4rem, 4.6vw, 4.1rem) !important;
+  font-size: clamp(1.9rem, 3.6vw, 3.25rem) !important;
   font-weight: 900 !important;
-  line-height: 0.92 !important;
+  line-height: 0.95 !important;
   letter-spacing: -0.01em !important;
   text-transform: uppercase;
   color: var(--dark) !important;
@@ -2256,18 +2320,18 @@ table:not(.table-container table) {
 // Sidebar Destra: Responsive e Adattiva
 @media (min-width: 1200px) {
   .right.sidebar {
-    width: 290px !important;
-    max-width: 290px !important;
-    flex: 0 0 290px !important;
+    width: 330px !important;
+    max-width: 330px !important;
+    flex: 0 0 330px !important;
     box-sizing: border-box !important;
-    max-height: 100vh !important;
-    height: 100vh !important;
+    max-height: calc(100vh - 74px) !important;
+    height: calc(100vh - 74px) !important;
     position: sticky !important;
-    top: 0 !important;
+    top: 74px !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
     overscroll-behavior: contain !important;
-    padding: 1.25rem 0.6rem 4rem 1.25rem !important;
+    padding: 1.25rem 0 4rem 0.5rem !important;
     gap: 1.15rem !important;
     display: flex !important;
     flex-direction: column !important;
@@ -2888,10 +2952,30 @@ footer.rossazzurri-footer {
 
 @media (min-width: 1200px) {
   .left.sidebar {
-    width: 260px;
-    max-width: 260px;
-    flex: 0 0 260px;
-    padding-right: 1rem;
+    width: 290px !important;
+    max-width: 290px !important;
+    flex: 0 0 290px !important;
+    box-sizing: border-box !important;
+    padding: 1.25rem 0.5rem 2rem 0 !important;
+    position: sticky !important;
+    top: 74px !important;
+    max-height: calc(100vh - 74px) !important;
+    height: calc(100vh - 74px) !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    scrollbar-width: thin;
+    scrollbar-color: var(--lightgray) transparent;
+
+    &::-webkit-scrollbar {
+      width: 4px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background: var(--lightgray);
+      border-radius: 4px;
+    }
+    &::-webkit-scrollbar-thumb:hover {
+      background: var(--gray);
+    }
   }
 }
 

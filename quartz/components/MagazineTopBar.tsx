@@ -31,7 +31,6 @@ const MagazineTopBar: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
       <a href="#main-article-content" class="skip-to-content">
         Salta al contenuto principale
       </a>
-      <div class="nfc-masthead__stripe" aria-hidden="true" />
       <div class="nfc-masthead__grid">
         {/* Cella 1: Brand Box editoriale in stile No Football Colors */}
         <div class="nfc-masthead__brand-cell">
