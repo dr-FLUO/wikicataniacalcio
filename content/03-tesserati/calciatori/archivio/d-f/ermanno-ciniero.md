@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ermanno-ciniero
+- ermanno-ciniero
+- tesserati/ermanno-ciniero
+- calciatori/ermanno-ciniero
 ---
+
 
 # Ermanno Ciniero — Scheda Giocatore nel Calcio Catania
 
-**Ermanno Ciniero** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Calciatore**.
+**Ermanno Ciniero** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Calciatore**.
 
 ---
 

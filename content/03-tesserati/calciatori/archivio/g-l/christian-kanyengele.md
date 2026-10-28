@@ -1,50 +1,56 @@
 ---
-title: "Christian Kanyengele — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Christian Kanyengele, attaccante del Calcio Catania con 22 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/g-l/christian-kanyengele"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1976-11-15"
-birth_place: "Kisangani, R.D. Congo"
-death_date: ""
-nationality: "Repubblica Democratica del Congo"
+title: Christian Kanyengele — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Christian Kanyengele,
+  attaccante del Calcio Catania con 22 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/g-l/christian-kanyengele
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1976-11-15'
+birth_place: Kisangani, R.D. Congo
+death_date: ''
+nationality: Repubblica Democratica del Congo
 total_appearances: 22
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "christian-kanyengele"
-  - "attaccante"
+- calciatori
+- christian-kanyengele
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Christian Kanyengele"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Christian_Kanyengele"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/christian-kanyengele.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Christian Kanyengele
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Christian_Kanyengele
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/christian-kanyengele.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/christian-kanyengele.jpg"
-    alt_text: "Ritratto fotografico di Christian Kanyengele calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/christian-kanyengele.jpg
+  alt_text: Ritratto fotografico di Christian Kanyengele calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/christian-kanyengele"
-  - "christian-kanyengele"
+- tesserati/calciatori/christian-kanyengele
+- christian-kanyengele
+- tesserati/christian-kanyengele
+- calciatori/christian-kanyengele
+citizenship: Repubblica Democratica del Congo
 ---
+
 # Christian Kanyengele — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Christian Kanyengele in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/christian-kanyengele.jpg)
 *Ritratto del calciatore Christian Kanyengele in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Christian Kanyengele** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Christian Kanyengele** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 

@@ -14,12 +14,12 @@ tags:
 - riccardo-maniero
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riccardo Maniero'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riccardo Maniero
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riccardo_Maniero'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riccardo_Maniero
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Riccardo Maniero
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/riccardo-maniero
+- riccardo-maniero
+- tesserati/riccardo-maniero
+- calciatori/riccardo-maniero
 image_credits:
-- image_path: '/assets/images/calciatori/riccardo-maniero.jpg'
-  alt_text: "Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/riccardo-maniero.jpg
+  alt_text: 'Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1987-11-26'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Riccardo Maniero — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-maniero.jpg)
 *Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Riccardo Maniero** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Riccardo Maniero** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

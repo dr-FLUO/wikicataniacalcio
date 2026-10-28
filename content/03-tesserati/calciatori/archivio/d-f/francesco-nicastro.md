@@ -14,12 +14,12 @@ tags:
 - francesco-nicastro
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Francesco Nicastro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Nicastro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Francesco_Nicastro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Francesco_Nicastro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Francesco Nicastro
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-nicastro
+- francesco-nicastro
+- tesserati/francesco-nicastro
+- calciatori/francesco-nicastro
+birth_date: '1991-10-26'
+birth_place: Campofranco
+citizenship: Italia
 ---
+
 # Francesco Nicastro — Scheda Giocatore nel Calcio Catania
 
-**Francesco Nicastro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Francesco Nicastro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

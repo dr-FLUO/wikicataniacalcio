@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/77_matias-augustin-silvestre.jpg
 image_credits:
-- image_path: 'assets/images/players/77_matias-augustin-silvestre.jpg'
-  alt_text: "Ritratto del calciatore Matias Augustin Silvestre in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/77_matias-augustin-silvestre.jpg
+  alt_text: Ritratto del calciatore Matias Augustin Silvestre in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/matias-augustin-silvestre
+- matias-augustin-silvestre
+- tesserati/matias-augustin-silvestre
+- calciatori/matias-augustin-silvestre
 ---
+
 # Matias Augustin Silvestre — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Matias Augustin Silvestre in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/77_matias-augustin-silvestre.jpg)
 *Ritratto del calciatore Matias Augustin Silvestre in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Matias Augustin Silvestre** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Matias Augustin Silvestre** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -28,20 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/948_leon--ipo.jpg
 image_credits:
-- image_path: 'assets/images/players/948_leon--ipo.jpg'
-  alt_text: "Ritratto del calciatore Leon  Šipoš in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/948_leon--ipo.jpg
+  alt_text: Ritratto del calciatore Leon  Šipoš in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/leon-šipoš
+- leon-šipoš
+- tesserati/leon-šipoš
+- calciatori/leon-šipoš
 ---
+
 # Leon  Šipoš — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Leon  Šipoš in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/948_leon--ipo.jpg)
 *Ritratto del calciatore Leon  Šipoš in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Leon  Šipoš** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Leon  Šipoš** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alberto-pari
+- alberto-pari
+- tesserati/alberto-pari
+- calciatori/alberto-pari
 ---
+
 
 # Alberto Pari — Scheda Giocatore nel Calcio Catania
 
-**Alberto Pari** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alberto Pari** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

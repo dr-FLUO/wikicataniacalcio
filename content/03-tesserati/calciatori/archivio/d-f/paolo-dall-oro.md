@@ -1,50 +1,56 @@
 ---
-title: "Paolo Dall'Oro — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Paolo Dall'Oro, difensore del Calcio Catania con 38 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/d-f/paolo-dall-oro"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1956-02-12"
-birth_place: "Ceggia, Italia"
-death_date: ""
-nationality: "Italia"
+title: Paolo Dall'Oro — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Paolo Dall'Oro, difensore
+  del Calcio Catania con 38 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/d-f/paolo-dall-oro
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1956-02-12'
+birth_place: Ceggia, Italia
+death_date: ''
+nationality: Italia
 total_appearances: 38
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "paolo-dall-oro"
-  - "difensore"
+- calciatori
+- paolo-dall-oro
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Paolo Dall'Oro"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Paolo_Dall%27Oro"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/paolo-dall-oro.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Paolo Dall'Oro
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Paolo_Dall%27Oro
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/paolo-dall-oro.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/paolo-dall-oro.jpg"
-    alt_text: "Ritratto fotografico di Paolo Dall'Oro calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/paolo-dall-oro.jpg
+  alt_text: Ritratto fotografico di Paolo Dall'Oro calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/paolo-dall-oro"
-  - "paolo-dall-oro"
+- tesserati/calciatori/paolo-dall-oro
+- paolo-dall-oro
+- tesserati/paolo-dall-oro
+- calciatori/paolo-dall-oro
+citizenship: Italia
 ---
+
 # Paolo Dall'Oro — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Paolo Dall'Oro in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/paolo-dall-oro.jpg)
 *Ritratto del calciatore Paolo Dall'Oro in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Paolo Dall'Oro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Paolo Dall'Oro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Biografia e Profilo Tecnico
 

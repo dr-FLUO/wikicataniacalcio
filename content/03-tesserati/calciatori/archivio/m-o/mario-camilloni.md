@@ -14,12 +14,12 @@ tags:
 - mario-camilloni
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mario Camilloni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Camilloni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mario_Camilloni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mario_Camilloni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mario Camilloni
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-camilloni
+- mario-camilloni
+- tesserati/mario-camilloni
+- calciatori/mario-camilloni
+birth_date: '1929-06-07'
+birth_place: Roma
+citizenship: Regno d'Italia
 ---
+
 # Mario Camilloni — Scheda Giocatore nel Calcio Catania
 
-**Mario Camilloni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Mario Camilloni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

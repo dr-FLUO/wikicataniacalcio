@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/840_sergio-garufi.jpg
 image_credits:
-- image_path: 'assets/images/players/840_sergio-garufi.jpg'
-  alt_text: "Ritratto del calciatore Sergio Garufi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/840_sergio-garufi.jpg
+  alt_text: Ritratto del calciatore Sergio Garufi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/sergio-garufi
+- sergio-garufi
+- tesserati/sergio-garufi
+- calciatori/sergio-garufi
+birth_date: '1995-09-16'
+birth_place: Giarre
+citizenship: Italia
 ---
+
 # Sergio Garufi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Sergio Garufi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/840_sergio-garufi.jpg)
 *Ritratto del calciatore Sergio Garufi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Sergio Garufi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Sergio Garufi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

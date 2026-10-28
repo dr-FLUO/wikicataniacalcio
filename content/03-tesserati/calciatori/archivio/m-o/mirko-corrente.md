@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mirko-corrente
+- mirko-corrente
+- tesserati/mirko-corrente
+- calciatori/mirko-corrente
 ---
+
 
 # Mirko Corrente — Scheda Giocatore nel Calcio Catania
 
-**Mirko Corrente** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Mirko Corrente** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

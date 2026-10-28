@@ -26,12 +26,12 @@ tags:
 - serie-c
 - pancaro
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Caetano Prósperi Calil'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Caetano Prósperi Calil
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Caetano_Calil'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Caetano_Calil
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Italiana Calcio Professionistico
   title: Almanacco Ufficiale Lega Pro 2015-2016
   publisher: Lega Pro - Firenze
@@ -50,7 +50,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Calil-867
 aliases:
 - tesserati/calciatori/caetano-calil
+- caetano-calil
+- tesserati/caetano-calil
+- calciatori/caetano-calil
 ---
+
 # Caetano Calil
 
 **Caetano Prata Calil** (Guaxupé, 20 maggio 1984) è un ex calciatore brasiliano, nel ruolo di attaccante e seconda punta. Acquistato dal Catania nell'agosto **2015** dopo aver trascinato la Salernitana alla promozione, fu il perno offensivo della complessa [[stagioni/2015-2016|Stagione 2015-2016]] in Lega Pro.
@@ -76,7 +80,7 @@ Con doppiette memorabili contro Catanzaro e Ischia Isolaverde e prodezze al Mass
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2015-2017) | 48 | 12 | Attaccante / Trequartista | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] |
+| Campionato (2015-2017) | 48 | 12 | Attaccante / Trequartista | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]] |
 | Coppe Nazionali / Spareggi | 2 | 0 | Attaccante / Trequartista | Gare ufficiali |
 | **Totale Complessivo** | **50** | **12** | — | — |
 

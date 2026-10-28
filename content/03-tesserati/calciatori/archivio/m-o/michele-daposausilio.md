@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1071_michele-daposausilio.jpg
 image_credits:
-- image_path: 'assets/images/players/1071_michele-daposausilio.jpg'
-  alt_text: "Ritratto del calciatore Michele D&apos;Ausilio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1071_michele-daposausilio.jpg
+  alt_text: Ritratto del calciatore Michele D&apos;Ausilio in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/michele-daposausilio
+- michele-daposausilio
+- tesserati/michele-daposausilio
+- calciatori/michele-daposausilio
 ---
+
 # Michele D&apos;Ausilio — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Michele D&apos;Ausilio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1071_michele-daposausilio.jpg)
 *Ritratto del calciatore Michele D&apos;Ausilio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Michele D&apos;Ausilio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Michele D&apos;Ausilio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

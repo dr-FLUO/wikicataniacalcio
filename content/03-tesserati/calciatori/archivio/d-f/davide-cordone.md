@@ -14,12 +14,12 @@ tags:
 - davide-cordone
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Davide Cordone'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Davide Cordone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Davide_Cordone'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Davide_Cordone
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Davide Cordone
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/158_davide-cordone.jpg
 image_credits:
-- image_path: 'assets/images/players/158_davide-cordone.jpg'
-  alt_text: "Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/158_davide-cordone.jpg
+  alt_text: Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/davide-cordone
+- davide-cordone
+- tesserati/davide-cordone
+- calciatori/davide-cordone
+birth_date: '1971-09-17'
+birth_place: Varese
+citizenship: Italia
 ---
+
 # Davide Cordone — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/158_davide-cordone.jpg)
 *Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Davide Cordone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Davide Cordone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

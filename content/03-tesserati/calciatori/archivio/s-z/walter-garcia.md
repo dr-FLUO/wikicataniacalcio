@@ -1,40 +1,46 @@
 ---
-title: "Walter García — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Walter García, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/walter-garcia"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1984-03-14"
-birth_place: "Buenos Aires"
-death_date: ""
-nationality: "Argentina"
+title: Walter García — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Walter García, difensore
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/walter-garcia
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1984-03-14'
+birth_place: Buenos Aires
+death_date: ''
+nationality: Argentina
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "walter-garcia"
-  - "difensore"
+- calciatori
+- walter-garcia
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Walter García"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Walter_Garc%C3%ADa"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Walter García
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Walter_Garc%C3%ADa
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/walter-garcia"
-  - "walter-garcia"
+- tesserati/calciatori/walter-garcia
+- walter-garcia
+- tesserati/walter-garcia
+- calciatori/walter-garcia
+citizenship: Argentina
 ---
+
 # Walter García — Scheda Giocatore nel Calcio Catania
 
-**Walter García** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Walter García** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1984-03-14 — Buenos Aires |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

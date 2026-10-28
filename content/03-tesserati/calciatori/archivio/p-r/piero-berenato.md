@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/piero-berenato
+- piero-berenato
+- tesserati/piero-berenato
+- calciatori/piero-berenato
 ---
+
 
 # Piero Berenato — Scheda Giocatore nel Calcio Catania
 
-**Piero Berenato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Piero Berenato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

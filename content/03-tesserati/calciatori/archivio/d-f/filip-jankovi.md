@@ -1,40 +1,46 @@
 ---
-title: "Filip Janković — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Filip Janković, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/filip-jankovi"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1995-01-17"
-birth_place: "Belgrado"
-death_date: ""
-nationality: "Serbia"
+title: Filip Janković — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Filip Janković, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/filip-jankovi
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1995-01-17'
+birth_place: Belgrado
+death_date: ''
+nationality: Serbia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "filip-jankovi"
-  - "centrocampista"
+- calciatori
+- filip-jankovi
+- centrocampista
 sources:
-  - author: "Wikidata Contributors"
-    title: "Scheda Biografica Entità Q5448487 (Filip Janković)"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://www.wikidata.org/wiki/Q5448487"
-    reference: "Registro anagrafico e identificativo sportivo internazionale"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikidata Contributors
+  title: Scheda Biografica Entità Q5448487 (Filip Janković)
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://www.wikidata.org/wiki/Q5448487
+  reference: Registro anagrafico e identificativo sportivo internazionale
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/filip-jankovi"
-  - "filip-jankovi"
+- tesserati/calciatori/filip-jankovi
+- filip-jankovi
+- tesserati/filip-jankovi
+- calciatori/filip-jankovi
+citizenship: Serbia
 ---
+
 # Filip Janković — Scheda Giocatore nel Calcio Catania
 
-**Filip Janković** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Filip Janković** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Serbia |
 | **Data e Luogo di Nascita** | 1995-01-17 — Belgrado |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-caracciolo
+- francesco-caracciolo
+- tesserati/francesco-caracciolo
+- calciatori/francesco-caracciolo
 ---
+
 
 # Francesco Caracciolo — Scheda Giocatore nel Calcio Catania
 
-**Francesco Caracciolo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco Caracciolo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

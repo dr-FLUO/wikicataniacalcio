@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/willy-pittana
+- willy-pittana
+- tesserati/willy-pittana
+- calciatori/willy-pittana
 ---
+
 
 # Willy Pittana — Scheda Giocatore nel Calcio Catania
 
-**Willy Pittana** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Willy Pittana** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

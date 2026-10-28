@@ -22,12 +22,12 @@ tags:
 - pietro-lo-monaco
 - antonino-pulvirenti
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Walter Zenga"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Walter Zenga
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Walter_Zenga"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Walter_Zenga
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -44,14 +44,18 @@ cover_caption: Walter Zenga, allenatore del Catania nel 2008-2009, protagonista 
   salvezza e dello storico 4-0 al Barbera di Palermo.
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 image_credits:
-- image_path: 'assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp'
-  alt_text: "Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo"
-  author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
+- image_path: assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp
+  alt_text: Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/walter-zenga
+- walter-zenga
+- tesserati/walter-zenga
+- allenatori/walter-zenga
 ---
+
 ![Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp)
 *Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 

@@ -14,12 +14,12 @@ tags:
 - bruno-porcelli
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Bruno Porcelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Bruno Porcelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Bruno_Porcelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Bruno_Porcelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Bruno Porcelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/bruno-porcelli
+- bruno-porcelli
+- tesserati/bruno-porcelli
+- calciatori/bruno-porcelli
+birth_date: '1919-09-04'
+birth_place: Tortona
+citizenship: Italia
 ---
+
 # Bruno Porcelli — Scheda Giocatore nel Calcio Catania
 
-**Bruno Porcelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Bruno Porcelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

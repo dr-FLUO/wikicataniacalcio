@@ -14,12 +14,12 @@ tags:
 - vincenzo-esposito
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Vincenzo Esposito'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vincenzo Esposito
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Vincenzo_Esposito_(calciatore_1971)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Vincenzo_Esposito_(calciatore_1971)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Vincenzo Esposito
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/vincenzo-esposito
+- vincenzo-esposito
+- tesserati/vincenzo-esposito
+- calciatori/vincenzo-esposito
+birth_date: '1971-01-06'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Vincenzo Esposito — Scheda Giocatore nel Calcio Catania
 
-**Vincenzo Esposito** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Vincenzo Esposito** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

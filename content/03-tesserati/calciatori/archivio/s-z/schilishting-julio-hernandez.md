@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/schilishting-julio-hernandez
+- schilishting-julio-hernandez
+- tesserati/schilishting-julio-hernandez
+- calciatori/schilishting-julio-hernandez
 ---
+
 
 # Schilishting Julio Hernandez — Scheda Giocatore nel Calcio Catania
 
-**Schilishting Julio Hernandez** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Schilishting Julio Hernandez** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

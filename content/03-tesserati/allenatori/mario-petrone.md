@@ -21,12 +21,12 @@ tags:
 - bassano
 - ascoli
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Mario Petrone"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Petrone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Mario_Petrone"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Mario_Petrone
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -40,7 +40,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/mario-petrone
+- mario-petrone
+- tesserati/mario-petrone
+- allenatori/mario-petrone
 ---
+
 
 
 # Mario Petrone
@@ -67,7 +71,7 @@ Nonostante la brevità dell'esperienza concluse la sua avventura rassegnando le 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2016-2017|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

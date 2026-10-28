@@ -26,12 +26,12 @@ tags:
 - era-gaucci
 - vincenzo-guerini
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alessandro Ambrosi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Ambrosi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alessandro_Ambrosi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alessandro_Ambrosi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,13 +46,18 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Ambrosi-196
 aliases:
 - tesserati/calciatori/alessandro-ambrosi
+- alessandro-ambrosi
+- tesserati/alessandro-ambrosi
+- calciatori/alessandro-ambrosi
 image_credits:
-- image_path: '/assets/images/calciatori/alessandro-ambrosi.jpg'
-  alt_text: "Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/alessandro-ambrosi.jpg
+  alt_text: 'Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 ---
+
 # Alessandro Ambrosi
 
 ![Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alessandro-ambrosi.jpg)
@@ -82,7 +87,7 @@ Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e L
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2000-2002) | 42 | 15 | Attaccante / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
+| Campionato (2000-2002) | 42 | 15 | Attaccante / Centravanti | [[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]] |
 | Coppe Nazionali / Spareggi | 5 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **47** | **16** | — | — |
 

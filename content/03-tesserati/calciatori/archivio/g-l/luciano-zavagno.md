@@ -1,40 +1,46 @@
 ---
-title: "Luciano Zavagno — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Luciano Zavagno, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/g-l/luciano-zavagno"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1977-08-06"
-birth_place: "Santa Fe"
-death_date: ""
-nationality: "Argentina"
+title: Luciano Zavagno — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Luciano Zavagno, difensore
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/g-l/luciano-zavagno
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1977-08-06'
+birth_place: Santa Fe
+death_date: ''
+nationality: Argentina
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "luciano-zavagno"
-  - "difensore"
+- calciatori
+- luciano-zavagno
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Luciano Zavagno"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Luciano_Zavagno"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luciano Zavagno
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Luciano_Zavagno
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/luciano-zavagno"
-  - "luciano-zavagno"
+- tesserati/calciatori/luciano-zavagno
+- luciano-zavagno
+- tesserati/luciano-zavagno
+- calciatori/luciano-zavagno
+citizenship: Argentina
 ---
+
 # Luciano Zavagno — Scheda Giocatore nel Calcio Catania
 
-**Luciano Zavagno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luciano Zavagno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1977-08-06 — Santa Fe |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

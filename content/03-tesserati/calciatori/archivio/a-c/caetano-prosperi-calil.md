@@ -14,12 +14,12 @@ tags:
 - caetano-prosperi-calil
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Caetano Prósperi Calil'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Caetano Prósperi Calil
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Caetano_Calil'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Caetano_Calil
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Caetano Prosperi Calil
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/867_caetano-prosperi-calil.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/caetano-prosperi-calil.jpg'
-  alt_text: "Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/caetano-prosperi-calil.jpg
+  alt_text: 'Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/caetano-prosperi-calil
+- caetano-prosperi-calil
+- tesserati/caetano-prosperi-calil
+- calciatori/caetano-prosperi-calil
+birth_date: '1984-05-20'
+birth_place: Guaxupé
+citizenship: Brasile
 ---
+
 # Caetano Prosperi Calil — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/caetano-prosperi-calil.jpg)
 *Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Caetano Prosperi Calil** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Caetano Prosperi Calil** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

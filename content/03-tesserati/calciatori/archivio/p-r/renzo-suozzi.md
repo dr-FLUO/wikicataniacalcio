@@ -14,12 +14,12 @@ tags:
 - renzo-suozzi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Renzo Suozzi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Renzo Suozzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Renzo_Suozzi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Renzo_Suozzi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Renzo Suozzi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/renzo-suozzi
+- renzo-suozzi
+- tesserati/renzo-suozzi
+- calciatori/renzo-suozzi
+birth_date: '1922-08-24'
+birth_place: Torino
+citizenship: Italia
 ---
+
 # Renzo Suozzi — Scheda Giocatore nel Calcio Catania
 
-**Renzo Suozzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Renzo Suozzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

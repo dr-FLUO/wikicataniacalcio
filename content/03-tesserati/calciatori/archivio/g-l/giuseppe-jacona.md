@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-jacona
+- giuseppe-jacona
+- tesserati/giuseppe-jacona
+- calciatori/giuseppe-jacona
 ---
+
 
 # Giuseppe Jacona — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Jacona** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giuseppe Jacona** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

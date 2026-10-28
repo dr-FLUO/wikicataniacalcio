@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/raimondo-guilherme-do-prado
+- raimondo-guilherme-do-prado
+- tesserati/raimondo-guilherme-do-prado
+- calciatori/raimondo-guilherme-do-prado
 ---
+
 
 # Raimondo Guilherme Do Prado — Scheda Giocatore nel Calcio Catania
 
-**Raimondo Guilherme Do Prado** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Raimondo Guilherme Do Prado** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

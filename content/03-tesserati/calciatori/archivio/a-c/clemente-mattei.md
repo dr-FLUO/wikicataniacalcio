@@ -14,12 +14,12 @@ tags:
 - clemente-mattei
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Clemente Mattei'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Clemente Mattei
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Clemente_Mattei'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Clemente_Mattei
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Clemente Mattei
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/clemente-mattei
+- clemente-mattei
+- tesserati/clemente-mattei
+- calciatori/clemente-mattei
+birth_date: '1939-01-01'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Clemente Mattei — Scheda Giocatore nel Calcio Catania
 
-**Clemente Mattei** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Clemente Mattei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

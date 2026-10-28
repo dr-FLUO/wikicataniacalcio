@@ -14,12 +14,12 @@ tags:
 - gianluca-musacci
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianluca Musacci'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianluca Musacci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianluca_Musacci'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianluca_Musacci
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianluca Musacci
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianluca-musacci
+- gianluca-musacci
+- tesserati/gianluca-musacci
+- calciatori/gianluca-musacci
+birth_date: '1987-04-01'
+birth_place: Viareggio
+citizenship: Italia
 ---
+
 # Gianluca Musacci — Scheda Giocatore nel Calcio Catania
 
-**Gianluca Musacci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gianluca Musacci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

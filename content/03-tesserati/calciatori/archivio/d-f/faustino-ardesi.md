@@ -14,12 +14,12 @@ tags:
 - faustino-ardesi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Faustino Ardesi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Faustino Ardesi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Faustino_Ardesi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Faustino_Ardesi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Faustino Ardesi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/faustino-ardesi
+- faustino-ardesi
+- tesserati/faustino-ardesi
+- calciatori/faustino-ardesi
+birth_date: '1921-07-10'
+birth_place: Brescia
+citizenship: Italia
 ---
+
 # Faustino Ardesi — Scheda Giocatore nel Calcio Catania
 
-**Faustino Ardesi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Faustino Ardesi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

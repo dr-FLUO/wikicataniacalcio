@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/santo-gianguzzo
+- santo-gianguzzo
+- tesserati/santo-gianguzzo
+- calciatori/santo-gianguzzo
 ---
+
 
 # Santo Gianguzzo — Scheda Giocatore nel Calcio Catania
 
-**Santo Gianguzzo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Santo Gianguzzo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -59,9 +59,9 @@ Quarantanove anni dopo l'impresa di Di Bella, nell'anticipo serale della 28ª gi
 | Dati Gara | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Competizione** | Venerdì 12 marzo 2010, ore 20:45 — Serie A 2009-2010 (28ª Giornata) |
-| **Impianto e Arbitro** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania (21.000 spett.) — Arbitro: Paolo Valeri (Roma) |
-| **Marcatori** | **54' Milito** (I), **74' Maxi López** (C), **81' rig. [[tesserati/calciatori/giuseppe-mascara\|Mascara]]** (C), **90' Martínez** (C) |
-| **Formazione Catania (4-3-3)** | Andújar; Álvarez, Terlizzi, Silvestre, Capuano (88' Potenza); [[tesserati/calciatori/mariano-izco\|Izco]], [[tesserati/calciatori/marco-biagianti\|Biagianti]], Ricchiuti (76' Delvecchio); [[tesserati/calciatori/giuseppe-mascara\|Mascara]], Maxi López (83' Carboni), Martínez. — **All.:** Siniša Mihajlović. |
+| **Impianto e Arbitro** | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania (21.000 spett.) — Arbitro: Paolo Valeri (Roma) |
+| **Marcatori** | **54' Milito** (I), **74' Maxi López** (C), **81' rig. [[tesserati/calciatori/giuseppe-mascara|Mascara]]** (C), **90' Martínez** (C) |
+| **Formazione Catania (4-3-3)** | Andújar; Álvarez, Terlizzi, Silvestre, Capuano (88' Potenza); [[tesserati/calciatori/mariano-izco|Izco]], [[tesserati/calciatori/marco-biagianti|Biagianti]], Ricchiuti (76' Delvecchio); [[tesserati/calciatori/giuseppe-mascara|Mascara]], Maxi López (83' Carboni), Martínez. — **All.:** Siniša Mihajlović. |
 | **Formazione Inter (4-3-1-2)** | Júlio César; Maicon, Lúcio, Materazzi, J. Zanetti; Stanković (77' Pandev), Cambiasso (79' Muntari), Mariga (46' Quaresma); Sneijder; Milito, Eto'o. — **All.:** José Mourinho (in panchina Giuseppe Baresi). |
 
 ---
@@ -70,12 +70,12 @@ Quarantanove anni dopo l'impresa di Di Bella, nell'anticipo serale della 28ª gi
 
 | Data | Stagione | Incontro | Risultato | Marcatori Rossazzurri |
 | :--- | :---: | :--- | :---: | :--- |
-| **19 dicembre 1954** | [[stagioni/1954-1955\|1954-1955]] | **Catania - Inter** | **1-1** / **2-0** *(1961)* | Prima sfida al Cibali in Serie A (1-1, rete di Hansen); prima vittoria il **4 giugno 1961** (**2-0**, Castellazzi, Calvanese). |
-| **4 giugno 1961** | [[stagioni/1960-1961\|1960-1961]] | **[[partite/1960-1961/catania-inter-2-0\|Catania - Inter]]** | **2-0** | **25' Castellazzi**, **70' Calvanese** (All. [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]). |
+| **19 dicembre 1954** | [[stagioni/1954-1955|1954-1955]] | **Catania - Inter** | **1-1** / **2-0** *(1961)* | Prima sfida al Cibali in Serie A (1-1, rete di Hansen); prima vittoria il **4 giugno 1961** (**2-0**, Castellazzi, Calvanese). |
+| **4 giugno 1961** | [[stagioni/1960-1961|1960-1961]] | **[[partite/1960-1961/catania-inter-2-0|Catania - Inter]]** | **2-0** | **25' Castellazzi**, **70' Calvanese** (All. [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]). |
 | **17 marzo 1963** | 1962-1963 | **Catania - Inter** | **1-0** | **63' Bruno Petroni** contro l'Inter futura Campione d'Italia. |
 | **20 febbraio 1966** | 1965-1966 | **Catania - Inter** | **1-0** | **19' Gianni Facchin** contro la *Grande Inter* bicampione d'Europa e del Mondo. |
-| **12 marzo 2010** | 2009-2010 | **[[partite/2009-2010/catania-inter-3-1\|Catania - Inter]]** | **3-1** | **74' Maxi López**, **81' rig. [[tesserati/calciatori/giuseppe-mascara\|Mascara]]**, **90' Martínez** (All. Siniša Mihajlović). |
-| **15 ottobre 2011** | [[stagioni/2011-2012\|2011-2012]] | **Catania - Inter** | **2-1** | **47' Almirón**, **51' rig. [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]]** in rimonta sul gol iniziale di Cambiasso (All. Vincenzo Montella). |
+| **12 marzo 2010** | 2009-2010 | **[[partite/2009-2010/catania-inter-3-1|Catania - Inter]]** | **3-1** | **74' Maxi López**, **81' rig. [[tesserati/calciatori/giuseppe-mascara|Mascara]]**, **90' Martínez** (All. Siniša Mihajlović). |
+| **15 ottobre 2011** | [[stagioni/2011-2012|2011-2012]] | **Catania - Inter** | **2-1** | **47' Almirón**, **51' rig. [[tesserati/calciatori/francesco-lodi|Francesco Lodi]]** in rimonta sul gol iniziale di Cambiasso (All. Vincenzo Montella). |
 
 ---
 

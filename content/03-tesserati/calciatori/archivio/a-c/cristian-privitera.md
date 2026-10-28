@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cristian-privitera
+- cristian-privitera
+- tesserati/cristian-privitera
+- calciatori/cristian-privitera
 ---
+
 
 # Cristian Privitera — Scheda Giocatore nel Calcio Catania
 
-**Cristian Privitera** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Cristian Privitera** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,25 +14,25 @@ catania_periods:
 - 2000-2001
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: "assets/images/allenatori/ivo-iaconi.jpg"
+image: assets/images/allenatori/ivo-iaconi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/ivo-iaconi.jpg"
-    alt_text: "Ritratto fotografico di Ivo Iaconi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/ivo-iaconi.jpg
+  alt_text: Ritratto fotografico di Ivo Iaconi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
 - serie-c1
 - era-gaucci
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Ivo Iaconi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ivo Iaconi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Ivo_Iaconi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Ivo_Iaconi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/ivo-iaconi
+- ivo-iaconi
+- tesserati/ivo-iaconi
+- allenatori/ivo-iaconi
 ---
+
 
 
 # Ivo Iaconi
@@ -77,7 +81,7 @@ Tecnico rigoroso e metodico, gettò le basi della rosa che avrebbe poi raggiunto
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2000-2001\|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2000-2001|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

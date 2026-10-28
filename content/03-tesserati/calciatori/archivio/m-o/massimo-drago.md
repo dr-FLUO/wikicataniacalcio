@@ -14,12 +14,12 @@ tags:
 - massimo-drago
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Massimo Drago'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Massimo Drago
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Massimo_Drago'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Massimo_Drago
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Massimo Drago
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/302_massimo-drago.jpg
 image_credits:
-- image_path: 'assets/images/players/302_massimo-drago.jpg'
-  alt_text: "Ritratto del calciatore Massimo Drago in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/302_massimo-drago.jpg
+  alt_text: Ritratto del calciatore Massimo Drago in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/massimo-drago
+- massimo-drago
+- tesserati/massimo-drago
+- calciatori/massimo-drago
+birth_date: '1971-03-02'
+birth_place: Crotone
+citizenship: Italia
 ---
+
 # Massimo Drago — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Massimo Drago in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/302_massimo-drago.jpg)
 *Ritratto del calciatore Massimo Drago in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Massimo Drago** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Massimo Drago** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

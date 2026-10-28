@@ -15,25 +15,25 @@ catania_periods:
 - 1951-1953
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/fioravante-baldi.jpg"
+image: assets/images/allenatori/fioravante-baldi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/fioravante-baldi.jpg"
-    alt_text: "Ritratto fotografico di Fioravante Baldi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/fioravante-baldi.jpg
+  alt_text: Ritratto fotografico di Fioravante Baldi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-cinquanta
 - serie-b
 - bologna-scudetti
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Fioravante Baldi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fioravante Baldi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Fioravante_Baldi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Fioravante_Baldi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/fioravante-baldi
+- fioravante-baldi
+- tesserati/fioravante-baldi
+- allenatori/fioravante-baldi
 ---
+
 
 
 # Fioravante Baldi
@@ -78,7 +82,7 @@ Nel 1952-1953, in coppia con il D.T. Giulio Cappelli, totalizzò 41 punti al ter
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1951-1952\|1951-1952]], [[stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1951-1952|1951-1952]], [[stagioni/1952-1953|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

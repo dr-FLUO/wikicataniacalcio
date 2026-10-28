@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1047_alessandro-de-respinis.jpg
 image_credits:
-- image_path: 'assets/images/players/1047_alessandro-de-respinis.jpg'
-  alt_text: "Ritratto del calciatore Alessandro De Respinis in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1047_alessandro-de-respinis.jpg
+  alt_text: Ritratto del calciatore Alessandro De Respinis in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/alessandro-de-respinis
+- alessandro-de-respinis
+- tesserati/alessandro-de-respinis
+- calciatori/alessandro-de-respinis
 ---
+
 # Alessandro De Respinis — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alessandro De Respinis in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1047_alessandro-de-respinis.jpg)
 *Ritratto del calciatore Alessandro De Respinis in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Alessandro De Respinis** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Alessandro De Respinis** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

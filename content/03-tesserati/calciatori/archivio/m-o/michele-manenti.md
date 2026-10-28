@@ -31,12 +31,12 @@ tags:
 - piero-andreoli
 - prima-promozione-serie-a
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Michele Manenti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Michele Manenti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Michele_Manenti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Michele_Manenti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -51,13 +51,20 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Manenti-727
 aliases:
 - tesserati/calciatori/michele-manenti
+- michele-manenti
+- tesserati/michele-manenti
+- calciatori/michele-manenti
 image_credits:
-- image_path: '/assets/images/calciatori/michele-manenti.jpg'
-  alt_text: "Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/michele-manenti.jpg
+  alt_text: 'Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Regno d'Italia
+seasons_count: 2
 ---
+
 # Michele Manenti
 
 ![Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/michele-manenti.jpg)
@@ -87,7 +94,7 @@ Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patr
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1953-1955) | 62 | 24 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1953-1955) | 62 | 24 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **62** | **24** | — | — |
 
 ---

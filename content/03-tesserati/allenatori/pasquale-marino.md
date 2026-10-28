@@ -24,12 +24,12 @@ tags:
 - giuseppe-mascara
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pasquale Marino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pasquale Marino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pasquale_Marino'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pasquale_Marino
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,14 +46,22 @@ cover_caption: Pasquale Marino, allenatore dell'indimenticabile ritorno in Serie
   nel 2005-2006 e della salvezza a Bologna nel 2007.
 cover_credit: 'Foto: Roberto Vicario · Licenza: CC BY-SA 3.0'
 image_credits:
-- image_path: '/assets/images/calciatori/pasquale-marino.jpg'
-  alt_text: "Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/pasquale-marino.jpg
+  alt_text: 'Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/pasquale-marino
+- pasquale-marino
+- tesserati/pasquale-marino
+- allenatori/pasquale-marino
+citizenship: Italia
+total_appearances: 17
+seasons_count: 3
 ---
+
 ![Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pasquale-marino.jpg)
 *Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
@@ -80,8 +88,8 @@ I tragici [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]] a
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. | V | N | P | GF | GS | Punti (Regime 3 pt) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | **2º posto — Promosso direttamente in Serie A** | 42 | 22 | 12 | 8 | 67 | 42 | **78** |
-| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **13º posto — Salvezza in Serie A** *(Catania-Chievo 2-0 a Bologna)* | 38 | 10 | 11 | 17 | 46 | 68 | **41** |
+| **[[stagioni/2005-2006|2005-2006]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | **2º posto — Promosso direttamente in Serie A** | 42 | 22 | 12 | 8 | 67 | 42 | **78** |
+| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | **13º posto — Salvezza in Serie A** *(Catania-Chievo 2-0 a Bologna)* | 38 | 10 | 11 | 17 | 46 | 68 | **41** |
 | **Totale** | **2 Stagioni (2005–2007)** | **Serie B / A** | **80 gare Camp. + 2 Coppa Italia = 82 panchine** | **80** | **32** | **23** | **25** | **113** | **110** | **119** |
 
 

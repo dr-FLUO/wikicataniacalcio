@@ -26,12 +26,12 @@ tags:
 - hall-of-fame
 - recordman
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nicolò Nicolosi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nicolò Nicolosi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nicol%C3%B2_Nicolosi_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nicol%C3%B2_Nicolosi_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -45,13 +45,19 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/nicolo-nicolosi
+- nicolo-nicolosi
+- tesserati/nicolo-nicolosi
+- allenatori/nicolo-nicolosi
 image_credits:
-- image_path: '/assets/images/calciatori/nicolo-nicolosi.jpg'
-  alt_text: "Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/nicolo-nicolosi.jpg
+  alt_text: 'Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Regno d'Italia
 ---
+
 # Nicolò Nicolosi
 
 ![Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nicolo-nicolosi.jpg)
@@ -80,8 +86,8 @@ Nel 1947-1948 subentrò a Piccini vincendo il girone T di Serie C con 47 punti e
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1947-1948\|1947-1948]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1947-1948|1947-1948]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1957-1958|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - vito-grieco
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Vito Grieco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vito Grieco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Vito_Grieco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Vito_Grieco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Vito Grieco
   publisher: calciocatania.com
@@ -34,19 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/134_vito-grieco.jpg
 image_credits:
-- image_path: 'assets/images/players/134_vito-grieco.jpg'
-  alt_text: "Ritratto del calciatore Vito Grieco in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/134_vito-grieco.jpg
+  alt_text: Ritratto del calciatore Vito Grieco in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/vito-grieco
+aliases:
+- vito-grieco
+- tesserati/vito-grieco
+- calciatori/vito-grieco
+birth_date: '1971-02-06'
+birth_place: Molfetta
+citizenship: Italia
 ---
+
 # Vito Grieco — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Vito Grieco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/134_vito-grieco.jpg)
 *Ritratto del calciatore Vito Grieco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Vito Grieco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Vito Grieco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

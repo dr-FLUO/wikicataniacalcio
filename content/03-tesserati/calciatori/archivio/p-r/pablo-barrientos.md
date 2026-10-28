@@ -31,12 +31,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pablo Barrientos'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pablo Barrientos
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pablo_Barrientos'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pablo_Barrientos
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Ufficiale Serie A TIM (2009-2014) — Scheda Pablo César
     Barrientos
@@ -68,13 +68,19 @@ cover_caption: Pablo César Barrientos («El Pitu») durante la preparazione con
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0 (Wikimedia Commons)'
 aliases:
 - tesserati/calciatori/pablo-barrientos
+- pablo-barrientos
+- tesserati/pablo-barrientos
+- calciatori/pablo-barrientos
 image_credits:
-- image_path: '/assets/images/calciatori/pablo-barrientos.jpg'
-  alt_text: "Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/pablo-barrientos.jpg
+  alt_text: 'Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Pablo Barrientos
 
 ![Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pablo-barrientos.jpg)
@@ -123,11 +129,11 @@ Nel luglio 2014, dopo **93 gare ufficiali e 15 reti** con il Catania, fa ritorno
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
-| **2010-2011** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 4 | 0 | 2 (0) | **6 (0)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 4 | 1 (0) | **26 (4)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 27 | 5 | 4 (1) | **31 (6)** |
-| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 5 | 0 (0) | **28 (5)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
+| **2010-2011** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 4 | 0 | 2 (0) | **6 (0)** |
+| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 25 | 4 | 1 (0) | **26 (4)** |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 27 | 5 | 4 (1) | **31 (6)** |
+| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 5 | 0 (0) | **28 (5)** |
 | **Totale Carriera** | **5 Stagioni nel Catania** | **Serie A** | **86** | **14** | **7 (1)** | **93 (15)** |
 
 ---

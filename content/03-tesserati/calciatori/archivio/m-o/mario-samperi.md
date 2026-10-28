@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-samperi
+- mario-samperi
+- tesserati/mario-samperi
+- calciatori/mario-samperi
 ---
+
 
 # Mario Samperi — Scheda Giocatore nel Calcio Catania
 
-**Mario Samperi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mario Samperi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

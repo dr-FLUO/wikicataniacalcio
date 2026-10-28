@@ -14,12 +14,12 @@ tags:
 - kingsley-boateng
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Kingsley Boateng'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Kingsley Boateng
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Kingsley_Boateng'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Kingsley_Boateng
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Kingsley Boateng
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/807_kingsley-boateng.jpg
 image_credits:
-- image_path: 'assets/images/players/807_kingsley-boateng.jpg'
-  alt_text: "Ritratto del calciatore Kingsley Boateng in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/807_kingsley-boateng.jpg
+  alt_text: Ritratto del calciatore Kingsley Boateng in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/kingsley-boateng
+- kingsley-boateng
+- tesserati/kingsley-boateng
+- calciatori/kingsley-boateng
+birth_date: '1994-04-07'
+birth_place: Mampong
+citizenship: Ghana
 ---
+
 # Kingsley Boateng — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Kingsley Boateng in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/807_kingsley-boateng.jpg)
 *Ritratto del calciatore Kingsley Boateng in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Kingsley Boateng** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Kingsley Boateng** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

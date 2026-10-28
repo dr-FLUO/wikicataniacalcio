@@ -14,12 +14,12 @@ tags:
 - nassim-mendil
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nassim Mendil'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nassim Mendil
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nassim_Mendil'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nassim_Mendil
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Nassim Mendil
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/nassim-mendil
+- nassim-mendil
+- tesserati/nassim-mendil
+- calciatori/nassim-mendil
 image_credits:
-- image_path: '/assets/images/calciatori/nassim-mendil.jpg'
-  alt_text: "Ritratto ufficiale di Nassim Mendil — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/nassim-mendil.jpg
+  alt_text: 'Ritratto ufficiale di Nassim Mendil — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1979-03-27'
+birth_place: Rognac
+citizenship: Francia
 ---
+
 # Nassim Mendil — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Nassim Mendil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nassim-mendil.jpg)
 *Ritratto ufficiale di Nassim Mendil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Nassim Mendil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nassim Mendil** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Nassim Mendil** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

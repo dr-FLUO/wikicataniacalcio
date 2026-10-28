@@ -14,12 +14,12 @@ tags:
 - giordano-caini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giordano Caini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giordano Caini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giordano_Caini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giordano_Caini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: "Scheda anagrafica e statistiche di Giordano\t Caini"
   publisher: calciocatania.com
@@ -34,10 +34,14 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giordano-caini
+- giordano-caini
+- tesserati/giordano-caini
+- calciatori/giordano-caini
 ---
+
 # Giordano	 Caini — Scheda Giocatore nel Calcio Catania
 
-**Giordano	 Caini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giordano	 Caini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

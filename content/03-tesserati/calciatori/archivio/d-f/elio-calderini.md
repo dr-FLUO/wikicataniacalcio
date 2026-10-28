@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/elio-calderini
+- elio-calderini
+- tesserati/elio-calderini
+- calciatori/elio-calderini
+birth_date: '1988-06-09'
+birth_place: Città di Castello
+citizenship: Italia
 ---
+
 # Elio Calderini — Scheda Giocatore nel Calcio Catania
 
-**Elio Calderini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Elio Calderini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

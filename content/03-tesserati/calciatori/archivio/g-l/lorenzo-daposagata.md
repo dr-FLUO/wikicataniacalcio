@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/lorenzo-daposagata
+- lorenzo-daposagata
+- tesserati/lorenzo-daposagata
+- calciatori/lorenzo-daposagata
 ---
+
 
 # Lorenzo D&apos;Agata — Scheda Giocatore nel Calcio Catania
 
-**Lorenzo D&apos;Agata** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Calciatore**.
+**Lorenzo D&apos;Agata** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Calciatore**.
 
 ---
 

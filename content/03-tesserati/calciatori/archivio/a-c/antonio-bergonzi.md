@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonio-bergonzi
+- antonio-bergonzi
+- tesserati/antonio-bergonzi
+- calciatori/antonio-bergonzi
 ---
+
 
 # Antonio Bergonzi — Scheda Giocatore nel Calcio Catania
 
-**Antonio Bergonzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Antonio Bergonzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giorgio-biondelli
+- giorgio-biondelli
+- tesserati/giorgio-biondelli
+- calciatori/giorgio-biondelli
 ---
+
 
 # Giorgio Biondelli — Scheda Giocatore nel Calcio Catania
 
-**Giorgio Biondelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giorgio Biondelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

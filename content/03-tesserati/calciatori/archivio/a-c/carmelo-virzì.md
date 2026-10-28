@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carmelo-virzì
+- carmelo-virzì
+- tesserati/carmelo-virzì
+- calciatori/carmelo-virzì
 ---
+
 
 # Carmelo Virzì — Scheda Giocatore nel Calcio Catania
 
-**Carmelo Virzì** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Carmelo Virzì** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

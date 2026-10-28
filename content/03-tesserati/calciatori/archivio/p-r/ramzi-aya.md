@@ -28,19 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/906_ramzi-aya.jpg
 image_credits:
-- image_path: 'assets/images/players/906_ramzi-aya.jpg'
-  alt_text: "Ritratto del calciatore Ramzi Aya in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/906_ramzi-aya.jpg
+  alt_text: Ritratto del calciatore Ramzi Aya in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/ramzi-aya
+aliases:
+- ramzi-aya
+- tesserati/ramzi-aya
+- calciatori/ramzi-aya
 ---
+
 # Ramzi Aya — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ramzi Aya in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/906_ramzi-aya.jpg)
 *Ritratto del calciatore Ramzi Aya in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Ramzi Aya** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ramzi Aya** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

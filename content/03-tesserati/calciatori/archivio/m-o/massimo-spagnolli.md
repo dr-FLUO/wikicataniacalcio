@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimo-spagnolli
+- massimo-spagnolli
+- tesserati/massimo-spagnolli
+- calciatori/massimo-spagnolli
 ---
+
 
 # Massimo Spagnolli — Scheda Giocatore nel Calcio Catania
 
-**Massimo Spagnolli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Massimo Spagnolli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

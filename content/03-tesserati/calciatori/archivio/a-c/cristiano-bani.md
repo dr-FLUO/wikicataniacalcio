@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cristiano-bani
+- cristiano-bani
+- tesserati/cristiano-bani
+- calciatori/cristiano-bani
 ---
+
 
 # Cristiano Bani — Scheda Giocatore nel Calcio Catania
 
-**Cristiano Bani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Cristiano Bani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

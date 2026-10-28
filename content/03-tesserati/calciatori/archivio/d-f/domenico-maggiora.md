@@ -14,12 +14,12 @@ tags:
 - domenico-maggiora
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Domenico Maggiora'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Domenico Maggiora
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Domenico_Maggiora'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Domenico_Maggiora
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Domenico Maggiora
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/451_domenico-maggiora.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/domenico-maggiora.jpg'
-  alt_text: "Ritratto ufficiale di Domenico Maggiora — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/domenico-maggiora.jpg
+  alt_text: 'Ritratto ufficiale di Domenico Maggiora — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/domenico-maggiora
+- domenico-maggiora
+- tesserati/domenico-maggiora
+- calciatori/domenico-maggiora
+birth_date: '1955-01-14'
+birth_place: Quattordio
+citizenship: Italia
 ---
+
 # Domenico Maggiora — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Domenico Maggiora — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/domenico-maggiora.jpg)
 *Ritratto ufficiale di Domenico Maggiora — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Domenico Maggiora — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Domenico Maggiora** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Domenico Maggiora** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

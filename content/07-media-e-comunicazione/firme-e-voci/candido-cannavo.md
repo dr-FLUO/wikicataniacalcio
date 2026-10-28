@@ -39,8 +39,8 @@ Nato a Catania il **29 novembre 1928** e scomparso a Milano il **22 febbraio 200
 ## 1. La Giovinezza a Catania e l'Apprendistato a "La Sicilia"
 
 Cresciuto nel cuore storico di Catania, Cannavò si avvicinò giovanissimo allo sport come atleta (praticando atletica leggera e pallavolo) prima di intraprendere l'attività giornalistica:
-* Nel **1947**, a soli diciannove anni, venne assunto come praticante nella neonata redazione de [[media/testate/la-sicilia\|La Sicilia]].
-* Per quasi un ventennio seguì costantemente il Calcio Catania in casa e in trasferta, raccontando con prosa lirica ed etica la storica scalata della squadra allenata da [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] in Serie A nei primi anni Sessanta.
+* Nel **1947**, a soli diciannove anni, venne assunto come praticante nella neonata redazione de [[media/testate/la-sicilia|La Sicilia]].
+* Per quasi un ventennio seguì costantemente il Calcio Catania in casa e in trasferta, raccontando con prosa lirica ed etica la storica scalata della squadra allenata da [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] in Serie A nei primi anni Sessanta.
 * Fu tra i primi cronisti a esaltare la dimensione sociale ed identitaria del tifo etneo, evidenziando come le vittorie del Catania rappresentassero un momento di riscatto culturale per l'intera Sicilia.
 
 ---
@@ -61,10 +61,10 @@ Autore di importanti saggi sulla legalità, sui giovani e sulla disabilità (tra
 
 ## 4. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia\|La Sicilia: Il quotidiano dei primi passi giornalistici]]
-* [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella e il Catania degli anni Sessanta]]
-* [[stadio/angelo-massimino\|Lo Stadio Angelo Massimino (ex Cibali)]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/la-sicilia|La Sicilia: Il quotidiano dei primi passi giornalistici]]
+* [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella e il Catania degli anni Sessanta]]
+* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino (ex Cibali)]]
 
 ---
 

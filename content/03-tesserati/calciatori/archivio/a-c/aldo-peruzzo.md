@@ -14,12 +14,12 @@ tags:
 - aldo-peruzzo
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Aldo Peruzzo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Peruzzo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Aldo_Peruzzo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Aldo_Peruzzo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Aldo Peruzzo
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/aldo-peruzzo
+- aldo-peruzzo
+- tesserati/aldo-peruzzo
+- calciatori/aldo-peruzzo
+birth_date: '1924-05-20'
+birth_place: Genova
+citizenship: Regno d'Italia
 ---
+
 # Aldo Peruzzo — Scheda Giocatore nel Calcio Catania
 
-**Aldo Peruzzo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Aldo Peruzzo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

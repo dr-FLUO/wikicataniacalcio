@@ -1,50 +1,56 @@
 ---
-title: "Albano Bizzarri — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Albano Bizzarri, portiere del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/a-c/albano-bizzarri"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Portiere"
-birth_date: "1977-11-09"
-birth_place: "Etruria"
-death_date: ""
-nationality: "Argentina"
+title: Albano Bizzarri — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Albano Bizzarri, portiere
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/a-c/albano-bizzarri
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Portiere
+birth_date: '1977-11-09'
+birth_place: Etruria
+death_date: ''
+nationality: Argentina
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "albano-bizzarri"
-  - "portiere"
+- calciatori
+- albano-bizzarri
+- portiere
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Albano Bizzarri"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Albano_Bizzarri"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/albano-bizzarri.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Albano Bizzarri
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Albano_Bizzarri
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/albano-bizzarri.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/albano-bizzarri.jpg"
-    alt_text: "Ritratto fotografico di Albano Bizzarri calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/albano-bizzarri.jpg
+  alt_text: Ritratto fotografico di Albano Bizzarri calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/albano-bizzarri"
-  - "albano-bizzarri"
+- tesserati/calciatori/albano-bizzarri
+- albano-bizzarri
+- tesserati/albano-bizzarri
+- calciatori/albano-bizzarri
+citizenship: Argentina
 ---
+
 # Albano Bizzarri — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Albano Bizzarri in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/albano-bizzarri.jpg)
 *Ritratto del calciatore Albano Bizzarri in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Albano Bizzarri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Albano Bizzarri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Portiere |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1977-11-09 — Etruria |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

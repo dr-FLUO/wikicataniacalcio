@@ -30,12 +30,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gonzalo Bergessio'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gonzalo Bergessio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gonzalo_Bergessio'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gonzalo_Bergessio
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Serie A TIM (2011-2014) — Scheda Gonzalo Rubén Bergessio
   publisher: Lega Serie A
@@ -61,13 +61,19 @@ cover_caption: Gonzalo Rubén Bergessio («El Lavandina»), capocannoniere in Se
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/calciatori/gonzalo-bergessio
+- gonzalo-bergessio
+- tesserati/gonzalo-bergessio
+- calciatori/gonzalo-bergessio
 image_credits:
-- image_path: '/assets/images/calciatori/gonzalo-bergessio.jpg'
-  alt_text: "Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/gonzalo-bergessio.jpg
+  alt_text: 'Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Gonzalo Bergessio
 
 ![Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gonzalo-bergessio.jpg)
@@ -95,10 +101,10 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]] | 13 | 5 | 0 (0) | **13 (5)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Vincenzo Montella | 34 | 7 | 0 (0) | **34 (7)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|Rolando Maran]] | 32 | 13 | 4 (2) | **36 (15)** |
-| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|R. Maran]], L. De Canio, M. Pellegrino | 30 | 10 | 0 (0) | **30 (10)** |
+| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]] | 13 | 5 | 0 (0) | **13 (5)** |
+| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | Vincenzo Montella | 34 | 7 | 0 (0) | **34 (7)** |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|Rolando Maran]] | 32 | 13 | 4 (2) | **36 (15)** |
+| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|R. Maran]], L. De Canio, M. Pellegrino | 30 | 10 | 0 (0) | **30 (10)** |
 | **Totale Carriera** | **4 Stagioni in Rossazzurro** | **Serie A** | — | **109** | **35** | **4 (2)** | **113 (37)** |
 
 

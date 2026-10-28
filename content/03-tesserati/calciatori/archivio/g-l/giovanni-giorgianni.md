@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-giorgianni
+- giovanni-giorgianni
+- tesserati/giovanni-giorgianni
+- calciatori/giovanni-giorgianni
 ---
+
 
 # Giovanni Giorgianni — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Giorgianni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Giovanni Giorgianni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

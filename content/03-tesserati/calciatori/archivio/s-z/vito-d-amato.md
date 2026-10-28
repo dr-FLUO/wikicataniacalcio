@@ -1,50 +1,56 @@
 ---
-title: "Vito D'Amato — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Vito D'Amato, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/vito-d-amato"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1944-07-27"
-birth_place: "Gallipoli"
-death_date: "2025-09-03"
-nationality: "Italia"
+title: Vito D'Amato — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Vito D'Amato, attaccante
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/vito-d-amato
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1944-07-27'
+birth_place: Gallipoli
+death_date: '2025-09-03'
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "vito-d-amato"
-  - "attaccante"
+- calciatori
+- vito-d-amato
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Vito D'Amato"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Vito_D%27Amato"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/vito-d-amato.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vito D'Amato
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Vito_D%27Amato
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/vito-d-amato.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/vito-d-amato.jpg"
-    alt_text: "Ritratto fotografico di Vito D'Amato calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/vito-d-amato.jpg
+  alt_text: Ritratto fotografico di Vito D'Amato calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/vito-d-amato"
-  - "vito-d-amato"
+- tesserati/calciatori/vito-d-amato
+- vito-d-amato
+- tesserati/vito-d-amato
+- calciatori/vito-d-amato
+citizenship: Italia
 ---
+
 # Vito D'Amato — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Vito D'Amato in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/vito-d-amato.jpg)
 *Ritratto del calciatore Vito D'Amato in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Vito D'Amato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Vito D'Amato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1944-07-27 — Gallipoli |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

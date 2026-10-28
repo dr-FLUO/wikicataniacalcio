@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rossano-mencacci
+- rossano-mencacci
+- tesserati/rossano-mencacci
+- calciatori/rossano-mencacci
 ---
+
 
 # Rossano Mencacci — Scheda Giocatore nel Calcio Catania
 
-**Rossano Mencacci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Rossano Mencacci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

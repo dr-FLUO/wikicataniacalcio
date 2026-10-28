@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/maurizio-intagliata
+- maurizio-intagliata
+- tesserati/maurizio-intagliata
+- calciatori/maurizio-intagliata
 ---
+
 
 # Maurizio Intagliata — Scheda Giocatore nel Calcio Catania
 
-**Maurizio Intagliata** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Intagliata** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

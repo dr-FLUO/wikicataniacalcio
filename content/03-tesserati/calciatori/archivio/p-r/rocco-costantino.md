@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rocco-costantino
+- rocco-costantino
+- tesserati/rocco-costantino
+- calciatori/rocco-costantino
 ---
+
 
 # Rocco Costantino — Scheda Giocatore nel Calcio Catania
 
-**Rocco Costantino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Rocco Costantino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - manuel-coppola
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Manuel Coppola'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Manuel Coppola
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Manuel_Coppola'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Manuel_Coppola
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Manuel Coppola
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/manuel-coppola
+- manuel-coppola
+- tesserati/manuel-coppola
+- calciatori/manuel-coppola
 image_credits:
-- image_path: '/assets/images/calciatori/manuel-coppola.jpg'
-  alt_text: "Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/manuel-coppola.jpg
+  alt_text: 'Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1982-05-11'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Manuel Coppola — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/manuel-coppola.jpg)
 *Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Manuel Coppola** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Manuel Coppola** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

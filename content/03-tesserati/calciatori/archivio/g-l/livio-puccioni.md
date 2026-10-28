@@ -14,12 +14,12 @@ tags:
 - livio-puccioni
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Livio Puccioni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Livio Puccioni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Livio_Puccioni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Livio_Puccioni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Livio Puccioni
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/livio-puccioni
+- livio-puccioni
+- tesserati/livio-puccioni
+- calciatori/livio-puccioni
+birth_date: '1926-05-03'
+birth_place: Castelfiorentino
+citizenship: Regno d'Italia
 ---
+
 # Livio Puccioni — Scheda Giocatore nel Calcio Catania
 
-**Livio Puccioni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Livio Puccioni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

@@ -14,13 +14,13 @@ catania_periods:
 - 2015-2016
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/giuseppe-pancaro.jpg"
+image: assets/images/allenatori/giuseppe-pancaro.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giuseppe-pancaro.jpg"
-    alt_text: "Ritratto fotografico di Giuseppe Pancaro allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giuseppe-pancaro.jpg
+  alt_text: Ritratto fotografico di Giuseppe Pancaro allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemiladieci
@@ -28,12 +28,12 @@ tags:
 - scudetto-lazio
 - milan
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Giuseppe Pancaro"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Pancaro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Giuseppe_Pancaro"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Giuseppe_Pancaro
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giuseppe-pancaro
+- giuseppe-pancaro
+- tesserati/giuseppe-pancaro
+- allenatori/giuseppe-pancaro
 ---
+
 
 
 # Giuseppe Pancaro
@@ -78,7 +82,7 @@ Seppe compattare l'ambiente e azzerare l'handicap in poche settimane grazie a un
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2015-2016\|2015-2016]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2015-2016|2015-2016]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

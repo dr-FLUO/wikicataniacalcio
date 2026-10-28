@@ -14,12 +14,12 @@ tags:
 - franco-carrera
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Franco Carrera'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco Carrera
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Franco_Carrera'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Franco_Carrera
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Franco Carrera
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/599_franco-carrera.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/franco-carrera.jpg'
-  alt_text: "Ritratto ufficiale di Franco Carrera — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/franco-carrera.jpg
+  alt_text: 'Ritratto ufficiale di Franco Carrera — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/franco-carrera
+- franco-carrera
+- tesserati/franco-carrera
+- calciatori/franco-carrera
+birth_date: '1943-11-08'
+birth_place: Torino
+citizenship: Italia
 ---
+
 # Franco Carrera — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Franco Carrera — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/franco-carrera.jpg)
 *Ritratto ufficiale di Franco Carrera — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Franco Carrera — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Franco Carrera** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Franco Carrera** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

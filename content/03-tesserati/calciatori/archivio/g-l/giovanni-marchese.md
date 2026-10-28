@@ -14,12 +14,12 @@ tags:
 - giovanni-marchese
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Marchese'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Marchese
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Marchese_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Marchese_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni  Marchese
   publisher: calciocatania.com
@@ -33,21 +33,26 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/6_giovanni--marchese.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/giovanni-marchese.jpg'
-  alt_text: "Ritratto ufficiale di Giovanni Marchese — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/giovanni-marchese.jpg
+  alt_text: 'Ritratto ufficiale di Giovanni Marchese — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/giovanni-marchese
+- giovanni-marchese
+- tesserati/giovanni-marchese
+- calciatori/giovanni-marchese
 ---
+
 # Giovanni  Marchese — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Giovanni Marchese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/giovanni-marchese.jpg)
 *Ritratto ufficiale di Giovanni Marchese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Giovanni Marchese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Giovanni  Marchese** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giovanni  Marchese** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

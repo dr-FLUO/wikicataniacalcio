@@ -29,12 +29,12 @@ tags:
 - serie-b
 - punizioni
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pedrinho'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pedrinho
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pedrinho'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pedrinho
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -49,7 +49,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Pedrinho-460
 aliases:
 - tesserati/calciatori/pedrinho
+- pedrinho
+- tesserati/pedrinho
+- calciatori/pedrinho
+citizenship: Brasile
 ---
+
 # Pedrinho
 
 **Pedrinho**, all'anagrafe **Pedro Luís Vicençote** (Santo André, 22 ottobre 1957), è un ex calciatore brasiliano, nel ruolo di terzino sinistro. Giunto a Catania nell'estate del **1983** dal Vasco da Gama per rinforzare il Catania neopromosso in Serie A di Gianni Di Marzio, è stato uno dei più celebri calciatori internazionali ad aver vestito la maglia rossazzurra.
@@ -75,7 +80,7 @@ Dopo la retrocessione del 1984, Pedrinho decise di rimanere a Catania in Serie B
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1983-1985) | 51 | 10 | Difensore / Terzino sinistro | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1983-1985) | 51 | 10 | Difensore / Terzino sinistro | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 5 | 0 | Difensore / Terzino sinistro | Gare ufficiali |
 | **Totale Complessivo** | **56** | **10** | — | — |
 

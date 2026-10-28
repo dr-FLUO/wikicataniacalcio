@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-montalbano
+- giovanni-montalbano
+- tesserati/giovanni-montalbano
+- calciatori/giovanni-montalbano
 ---
+
 
 # Giovanni Montalbano — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Montalbano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Montalbano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

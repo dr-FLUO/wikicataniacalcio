@@ -1,30 +1,33 @@
 ---
-title: "Calciatori Storici del Catania — Bandiere, Capitani e Leggende Rossazzurre"
-description: "Albo d'oro e galleria delle grandi bandiere, primatisti e campioni che hanno segnato la storia del Calcio Catania dal 1929 a oggi: biografie monografiche, presenze e gol storici."
-slug: "03-tesserati/calciatori/storici/index"
-entity_type: "section_index"
-status: "verified"
-last_verified_date: "2026-10-28"
+title: Calciatori Storici del Catania — Bandiere, Capitani e Leggende Rossazzurre
+description: 'Albo d''oro e galleria delle grandi bandiere, primatisti e campioni
+  che hanno segnato la storia del Calcio Catania dal 1929 a oggi: biografie monografiche,
+  presenze e gol storici.'
+slug: 03-tesserati/calciatori/storici/index
+entity_type: section_index
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "calciatori"
-  - "storici"
-  - "bandiere"
-  - "hall-of-fame"
-  - "leggende"
+- calciatori
+- storici
+- bandiere
+- hall-of-fame
+- leggende
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Monografie storiche, carriere e presenze dei grandi campioni"
-  - author: "Lega Nazionale Professionisti Serie A / FIGC"
-    title: "Albo Storico Marcatori e Presenze Ufficiali Serie A"
-    publisher: "Lega Serie A, Milano"
-    year: 2024
-    reference: "Statistiche all-time della massima serie"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Monografie storiche, carriere e presenze dei grandi campioni
+- author: Lega Nazionale Professionisti Serie A / FIGC
+  title: Albo Storico Marcatori e Presenze Ufficiali Serie A
+  publisher: Lega Serie A, Milano
+  year: 2024
+  reference: Statistiche all-time della massima serie
 aliases:
-  - "calciatori/storici/index"
-  - "tesserati/calciatori/storici"
+- calciatori/storici/index
+- tesserati/calciatori/storici
 ---
 
 # Calciatori Storici del Catania — Bandiere e Leggende
@@ -37,16 +40,16 @@ Questa sezione raccoglie le monografie biografiche dei **calciatori simbolo** ch
 
 | Calciatore | Ruolo | Presenze / Reti | Periodi | Primato Storico |
 | :--- | :--- | :---: | :---: | :--- |
-| [[03-tesserati/calciatori/storici/marco-biagianti\|Marco Biagianti]] | Centrocampista | **284** / 6 | 2007–13, 2016–20 | **Record assoluto di presenze** in gare ufficiali col Catania |
-| [[03-tesserati/calciatori/storici/damiano-morra\|Damiano Morra]] | Mediano | **281** / 12 | 1975–1984 | Bandiera per 9 stagioni consecutive con 2 promozioni |
-| [[03-tesserati/calciatori/storici/mariano-izco\|Mariano Izco]] | Centrocampista | **280** / 6 | 2006–14, 2020–21 | **Record assoluto di presenze in Serie A col Catania (218)** |
-| [[03-tesserati/calciatori/storici/francesco-lodi\|Francesco Lodi]] | Regista | **238** / 53 | 2011–23 (4 cicli) | Centrocampista più prolifico e re dei calci piazzati |
-| [[03-tesserati/calciatori/storici/giuseppe-mascara\|Giuseppe Mascara]] | Attaccante | **235** / 60 | 2003–04, 2005–11 | Simbolo dell'era moderna, primo etneo in Nazionale A |
-| [[03-tesserati/calciatori/storici/nicolo-nicolosi\|Nicolò Nicolosi]] | Centravanti | 149 / **78** | 1932–49 (4 cicli) | **Miglior marcatore assoluto di tutti i tempi** (78 gol) |
-| [[03-tesserati/calciatori/storici/gonzalo-bergessio\|Gonzalo Bergessio]] | Centravanti | 113 / **37** | 2011–2014 | **Miglior marcatore di sempre del Catania in Serie A (35 gol)** |
-| [[03-tesserati/calciatori/storici/gionatha-spinesi\|Gionatha Spinesi]] | Attaccante | 143 / **49** | 2004–2009 | *"Il Gabbiano"*, 23 reti nella promozione in A 2005-06 |
-| [[03-tesserati/calciatori/storici/adelmo-prenna\|Adelmo Prenna]] | Mezzala | 158 / **48** | 1958–1964 | Cannoniere del ciclo d'oro di Di Bella e del 2-0 all'Inter |
-| [[03-tesserati/calciatori/storici/orazio-russo\|Orazio Russo]] | Attaccante | 119 / 12 | 1991–2010 (4 cicli) | **Unico calciatore in rete in C2, C1, B e Serie A col Catania** |
+| [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]] | Centrocampista | **284** / 6 | 2007–13, 2016–20 | **Record assoluto di presenze** in gare ufficiali col Catania |
+| [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] | Mediano | **281** / 12 | 1975–1984 | Bandiera per 9 stagioni consecutive con 2 promozioni |
+| [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]] | Centrocampista | **280** / 6 | 2006–14, 2020–21 | **Record assoluto di presenze in Serie A col Catania (218)** |
+| [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] | Regista | **238** / 53 | 2011–23 (4 cicli) | Centrocampista più prolifico e re dei calci piazzati |
+| [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] | Attaccante | **235** / 60 | 2003–04, 2005–11 | Simbolo dell'era moderna, primo etneo in Nazionale A |
+| [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]] | Centravanti | 149 / **78** | 1932–49 (4 cicli) | **Miglior marcatore assoluto di tutti i tempi** (78 gol) |
+| [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]] | Centravanti | 113 / **37** | 2011–2014 | **Miglior marcatore di sempre del Catania in Serie A (35 gol)** |
+| [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] | Attaccante | 143 / **49** | 2004–2009 | *"Il Gabbiano"*, 23 reti nella promozione in A 2005-06 |
+| [[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]] | Mezzala | 158 / **48** | 1958–1964 | Cannoniere del ciclo d'oro di Di Bella e del 2-0 all'Inter |
+| [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]] | Attaccante | 119 / 12 | 1991–2010 (4 cicli) | **Unico calciatore in rete in C2, C1, B e Serie A col Catania** |
 
 ---
 

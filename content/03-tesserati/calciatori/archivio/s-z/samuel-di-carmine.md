@@ -44,7 +44,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Di-Carmine-1059
 aliases:
 - tesserati/calciatori/samuel-di-carmine
+- samuel-di-carmine
+- tesserati/samuel-di-carmine
+- calciatori/samuel-di-carmine
+seasons_count: 1
 ---
+
 
 # Samuel Di Carmine
 
@@ -71,7 +76,7 @@ Tra i momenti più alti della sua stagione si ricordano la doppietta nel derby v
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2023-2024) | 29 | 8 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc\|Catania Football Club (Era Pelligra)]] |
+| Campionato (2023-2024) | 29 | 8 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]] |
 | Coppe Nazionali / Spareggi | 5 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **34** | **10** | — | — |
 

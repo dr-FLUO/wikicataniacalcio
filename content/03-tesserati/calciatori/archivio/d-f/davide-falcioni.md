@@ -14,12 +14,12 @@ tags:
 - davide-falcioni
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Davide Falcioni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Davide Falcioni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Davide_Falcioni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Davide_Falcioni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Davide Falcioni
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/davide-falcioni
+- davide-falcioni
+- tesserati/davide-falcioni
+- calciatori/davide-falcioni
+birth_date: '1975-05-19'
+birth_place: Fano
+citizenship: Italia
 ---
+
 # Davide Falcioni — Scheda Giocatore nel Calcio Catania
 
-**Davide Falcioni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Davide Falcioni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

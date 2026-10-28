@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-fardella
+- giuseppe-fardella
+- tesserati/giuseppe-fardella
+- calciatori/giuseppe-fardella
 ---
+
 
 # Giuseppe Fardella — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Fardella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Fardella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - fabian-rinaudo
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabián Rinaudo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabián Rinaudo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabi%C3%A1n_Rinaudo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabi%C3%A1n_Rinaudo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabian Rinaudo
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/817_fabian-rinaudo.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/fabian-rinaudo.jpg'
-  alt_text: "Ritratto ufficiale di Fabián Rinaudo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/fabian-rinaudo.jpg
+  alt_text: 'Ritratto ufficiale di Fabián Rinaudo — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/fabian-rinaudo
+- fabian-rinaudo
+- tesserati/fabian-rinaudo
+- calciatori/fabian-rinaudo
+birth_date: '1987-05-15'
+birth_place: Armstrong
+citizenship: Argentina
 ---
+
 # Fabian Rinaudo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Fabián Rinaudo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/fabian-rinaudo.jpg)
 *Ritratto ufficiale di Fabián Rinaudo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Fabián Rinaudo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Fabian Rinaudo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabian Rinaudo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

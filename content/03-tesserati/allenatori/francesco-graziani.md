@@ -15,13 +15,13 @@ catania_periods:
 - 2001-2003
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: "assets/images/allenatori/francesco-graziani.jpg"
+image: assets/images/allenatori/francesco-graziani.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/francesco-graziani.jpg"
-    alt_text: "Ritratto fotografico di Francesco Graziani allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/francesco-graziani.jpg
+  alt_text: Ritratto fotografico di Francesco Graziani allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
@@ -31,12 +31,12 @@ tags:
 - campione-del-mondo-1982
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Francesco Graziani"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Graziani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Francesco_Graziani"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Francesco_Graziani
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -50,7 +50,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/francesco-graziani
+- francesco-graziani
+- tesserati/francesco-graziani
+- allenatori/francesco-graziani
 ---
+
 
 
 # Francesco Graziani
@@ -81,7 +85,7 @@ In coppia con Maurizio Pellegrino compì un autentico capolavoro psicologico e t
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]], [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002|2001-2002]], [[stagioni/2002-2003|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

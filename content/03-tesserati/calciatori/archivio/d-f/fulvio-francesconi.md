@@ -26,12 +26,12 @@ tags:
 - salvador-calvanese
 - carmelo-di-bella
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fulvio Francesconi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fulvio Francesconi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fulvio_Francesconi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fulvio_Francesconi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,13 +46,20 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Francesconi-571
 aliases:
 - tesserati/calciatori/fulvio-francesconi
+- fulvio-francesconi
+- tesserati/fulvio-francesconi
+- calciatori/fulvio-francesconi
 image_credits:
-- image_path: '/assets/images/calciatori/fulvio-francesconi.jpg'
-  alt_text: "Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/fulvio-francesconi.jpg
+  alt_text: 'Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Italia
+seasons_count: 2
 ---
+
 # Fulvio Francesconi
 
 ![Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/fulvio-francesconi.jpg)
@@ -82,7 +89,7 @@ Nel campionato 1971-1972 decise sfide caldissime contro Genoa, Bari e Reggina; n
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1971-1973) | 70 | 20 | Attaccante / Ala tornante | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1971-1973) | 70 | 20 | Attaccante / Ala tornante | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 4 | 0 | Attaccante / Ala tornante | Gare ufficiali |
 | **Totale Complessivo** | **74** | **20** | — | — |
 

@@ -21,12 +21,12 @@ tags:
 - pietro-lo-monaco
 - antonino-pulvirenti
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Vincenzo Montella"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vincenzo Montella
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Vincenzo_Montella"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Vincenzo_Montella
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Lega Nazionale Professionisti Serie A
   title: Almanacco Ufficiale Serie A TIM 2011-2012 — Statistiche e Tabellini Calcio
     Catania
@@ -50,14 +50,18 @@ cover_caption: Vincenzo Montella, allenatore del Calcio Catania nella stagione r
   di Serie A 2011-2012 (48 punti).
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 image_credits:
-- image_path: 'assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp'
-  alt_text: "Vincenzo Montella, autore del record di punti in Serie A 2011-2012"
-  author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
+- image_path: assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp
+  alt_text: Vincenzo Montella, autore del record di punti in Serie A 2011-2012
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/vincenzo-montella
+- vincenzo-montella
+- tesserati/vincenzo-montella
+- allenatori/vincenzo-montella
 ---
+
 ![Vincenzo Montella, autore del record di punti in Serie A 2011-2012 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp)
 *Vincenzo Montella, autore del record di punti in Serie A 2011-2012 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 

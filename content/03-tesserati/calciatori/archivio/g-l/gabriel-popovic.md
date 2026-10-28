@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gabriel-popovic
+- gabriel-popovic
+- tesserati/gabriel-popovic
+- calciatori/gabriel-popovic
 ---
+
 
 # Gabriel Popovic — Scheda Giocatore nel Calcio Catania
 
-**Gabriel Popovic** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gabriel Popovic** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

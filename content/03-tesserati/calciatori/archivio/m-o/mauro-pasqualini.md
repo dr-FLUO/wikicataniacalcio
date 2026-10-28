@@ -1,40 +1,46 @@
 ---
-title: "Mauro Pasqualini — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Mauro Pasqualini, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/m-o/mauro-pasqualini"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1947-12-01"
-birth_place: "Crevalcore"
-death_date: "2024-01-22"
-nationality: "Italia"
+title: Mauro Pasqualini — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Mauro Pasqualini, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/m-o/mauro-pasqualini
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1947-12-01'
+birth_place: Crevalcore
+death_date: '2024-01-22'
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "mauro-pasqualini"
-  - "centrocampista"
+- calciatori
+- mauro-pasqualini
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Mauro Pasqualini"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Mauro_Pasqualini"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mauro Pasqualini
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Mauro_Pasqualini
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/mauro-pasqualini"
-  - "mauro-pasqualini"
+- tesserati/calciatori/mauro-pasqualini
+- mauro-pasqualini
+- tesserati/mauro-pasqualini
+- calciatori/mauro-pasqualini
+citizenship: Italia
 ---
+
 # Mauro Pasqualini — Scheda Giocatore nel Calcio Catania
 
-**Mauro Pasqualini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mauro Pasqualini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1947-12-01 — Crevalcore |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

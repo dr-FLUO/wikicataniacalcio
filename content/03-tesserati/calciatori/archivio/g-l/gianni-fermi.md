@@ -14,12 +14,12 @@ tags:
 - gianni-fermi
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianni Fermi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianni Fermi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianni_Fermi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianni_Fermi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianni Fermi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianni-fermi
+- gianni-fermi
+- tesserati/gianni-fermi
+- calciatori/gianni-fermi
+birth_date: '1935-02-21'
+birth_place: Monticelli d’Ongina
+citizenship: Italia
 ---
+
 # Gianni Fermi — Scheda Giocatore nel Calcio Catania
 
-**Gianni Fermi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gianni Fermi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

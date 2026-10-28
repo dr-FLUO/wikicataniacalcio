@@ -14,12 +14,12 @@ tags:
 - orlando-rozzoni
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Orlando Rozzoni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Orlando Rozzoni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Orlando_Rozzoni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Orlando_Rozzoni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Orlando Rozzoni
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/645_orlando-rozzoni.jpg
 image_credits:
-- image_path: 'assets/images/players/645_orlando-rozzoni.jpg'
-  alt_text: "Ritratto del calciatore Orlando Rozzoni in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/645_orlando-rozzoni.jpg
+  alt_text: Ritratto del calciatore Orlando Rozzoni in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/orlando-rozzoni
+- orlando-rozzoni
+- tesserati/orlando-rozzoni
+- calciatori/orlando-rozzoni
+birth_date: '1937-07-23'
+birth_place: Treviglio
+citizenship: Regno d'Italia
 ---
+
 # Orlando Rozzoni — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Orlando Rozzoni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/645_orlando-rozzoni.jpg)
 *Ritratto del calciatore Orlando Rozzoni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Orlando Rozzoni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Orlando Rozzoni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

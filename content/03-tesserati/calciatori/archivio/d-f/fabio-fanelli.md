@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabio-fanelli
+- fabio-fanelli
+- tesserati/fabio-fanelli
+- calciatori/fabio-fanelli
 ---
+
 
 # Fabio Fanelli — Scheda Giocatore nel Calcio Catania
 
-**Fabio Fanelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Fabio Fanelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

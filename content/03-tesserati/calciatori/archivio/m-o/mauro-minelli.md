@@ -14,12 +14,12 @@ tags:
 - mauro-minelli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mauro Minelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mauro Minelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mauro_Minelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mauro_Minelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mauro Minelli
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/53_mauro-minelli.jpg
 image_credits:
-- image_path: 'assets/images/players/53_mauro-minelli.jpg'
-  alt_text: "Ritratto del calciatore Mauro Minelli in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/53_mauro-minelli.jpg
+  alt_text: Ritratto del calciatore Mauro Minelli in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mauro-minelli
+- mauro-minelli
+- tesserati/mauro-minelli
+- calciatori/mauro-minelli
+birth_date: '1981-04-02'
+birth_place: San Giovanni Bianco
+citizenship: Italia
 ---
+
 # Mauro Minelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mauro Minelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/53_mauro-minelli.jpg)
 *Ritratto del calciatore Mauro Minelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mauro Minelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Mauro Minelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

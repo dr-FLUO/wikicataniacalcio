@@ -29,12 +29,12 @@ tags:
 - catania-degli-argentini
 - pietro-lo-monaco
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Matías Silvestre'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Matías Silvestre
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mat%C3%ADas_Silvestre'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mat%C3%ADas_Silvestre
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Almanacco Ufficiale Serie A TIM — Scheda e presenze Matías Silvestre
   publisher: Lega Serie A
@@ -54,13 +54,19 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Silvestre-77
 aliases:
 - tesserati/calciatori/matias-silvestre
+- matias-silvestre
+- tesserati/matias-silvestre
+- calciatori/matias-silvestre
 image_credits:
-- image_path: '/assets/images/calciatori/matias-silvestre.jpg'
-  alt_text: "Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/matias-silvestre.jpg
+  alt_text: 'Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Matías Silvestre
 
 ![Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/matias-silvestre.jpg)

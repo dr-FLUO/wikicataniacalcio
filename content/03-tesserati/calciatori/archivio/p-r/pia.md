@@ -1,50 +1,56 @@
 ---
-title: "Piá — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Piá, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/p-r/pia"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1982-03-22"
-birth_place: "Ibitinga"
-death_date: ""
-nationality: "Brasile"
+title: Piá — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Piá, attaccante del Calcio
+  Catania.
+slug: 03-tesserati/calciatori/archivio/p-r/pia
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1982-03-22'
+birth_place: Ibitinga
+death_date: ''
+nationality: Brasile
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "pia"
-  - "attaccante"
+- calciatori
+- pia
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Piá"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Pi%C3%A1"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/pia.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Piá
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Pi%C3%A1
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/pia.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/pia.jpg"
-    alt_text: "Ritratto fotografico di Piá calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/pia.jpg
+  alt_text: Ritratto fotografico di Piá calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/pia"
-  - "pia"
+- tesserati/calciatori/pia
+- pia
+- tesserati/pia
+- calciatori/pia
+citizenship: Brasile
 ---
+
 # Piá — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Piá in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pia.jpg)
 *Ritratto del calciatore Piá in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Piá** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Piá** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Brasile |
 | **Data e Luogo di Nascita** | 1982-03-22 — Ibitinga |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

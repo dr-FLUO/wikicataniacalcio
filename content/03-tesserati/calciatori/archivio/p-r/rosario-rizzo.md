@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rosario-rizzo
+- rosario-rizzo
+- tesserati/rosario-rizzo
+- calciatori/rosario-rizzo
 ---
+
 
 # Rosario Rizzo — Scheda Giocatore nel Calcio Catania
 
-**Rosario Rizzo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Rosario Rizzo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

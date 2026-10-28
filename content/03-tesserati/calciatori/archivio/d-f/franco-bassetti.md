@@ -1,40 +1,46 @@
 ---
-title: "Franco Bassetti — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Franco Bassetti, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/franco-bassetti"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1928-01-13"
-birth_place: "Romano di Lombardia"
-death_date: ""
-nationality: "Italia"
+title: Franco Bassetti — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Franco Bassetti, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/franco-bassetti
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1928-01-13'
+birth_place: Romano di Lombardia
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "franco-bassetti"
-  - "centrocampista"
+- calciatori
+- franco-bassetti
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Franco Bassetti"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Franco_Bassetti"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco Bassetti
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Franco_Bassetti
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/franco-bassetti"
-  - "franco-bassetti"
+- tesserati/calciatori/franco-bassetti
+- franco-bassetti
+- tesserati/franco-bassetti
+- calciatori/franco-bassetti
+citizenship: Italia
 ---
+
 # Franco Bassetti — Scheda Giocatore nel Calcio Catania
 
-**Franco Bassetti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Franco Bassetti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1928-01-13 — Romano di Lombardia |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

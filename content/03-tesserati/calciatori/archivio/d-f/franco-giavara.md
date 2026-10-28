@@ -14,12 +14,12 @@ tags:
 - franco-giavara
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Franco Giavara'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco Giavara
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Franco_Giavara'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Franco_Giavara
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Franco Giavara
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/659_franco-giavara.jpg
 image_credits:
-- image_path: 'assets/images/players/659_franco-giavara.jpg'
-  alt_text: "Ritratto del calciatore Franco Giavara in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/659_franco-giavara.jpg
+  alt_text: Ritratto del calciatore Franco Giavara in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/franco-giavara
+- franco-giavara
+- tesserati/franco-giavara
+- calciatori/franco-giavara
+birth_date: '1933-10-20'
+birth_place: Mantova
+citizenship: Italia
 ---
+
 # Franco Giavara — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Franco Giavara in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/659_franco-giavara.jpg)
 *Ritratto del calciatore Franco Giavara in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Franco Giavara** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Franco Giavara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

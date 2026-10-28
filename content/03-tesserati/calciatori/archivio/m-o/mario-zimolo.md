@@ -14,12 +14,12 @@ tags:
 - mario-zimolo
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mario Zimolo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Zimolo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mario_Zimolo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mario_Zimolo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mario Zimolo
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-zimolo
+- mario-zimolo
+- tesserati/mario-zimolo
+- calciatori/mario-zimolo
+birth_date: '1947-05-05'
+birth_place: Sagrado
+citizenship: Italia
 ---
+
 # Mario Zimolo — Scheda Giocatore nel Calcio Catania
 
-**Mario Zimolo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Mario Zimolo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

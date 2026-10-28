@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/399_nicola-daposottavio.jpg
 image_credits:
-- image_path: 'assets/images/players/399_nicola-daposottavio.jpg'
-  alt_text: "Ritratto del calciatore Nicola D&apos;Ottavio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/399_nicola-daposottavio.jpg
+  alt_text: Ritratto del calciatore Nicola D&apos;Ottavio in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/nicola-daposottavio
+- nicola-daposottavio
+- tesserati/nicola-daposottavio
+- calciatori/nicola-daposottavio
 ---
+
 # Nicola D&apos;Ottavio — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nicola D&apos;Ottavio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/399_nicola-daposottavio.jpg)
 *Ritratto del calciatore Nicola D&apos;Ottavio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Nicola D&apos;Ottavio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Nicola D&apos;Ottavio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

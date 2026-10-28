@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-spampinato
+- francesco-spampinato
+- tesserati/francesco-spampinato
+- calciatori/francesco-spampinato
 ---
+
 
 # Francesco Spampinato — Scheda Giocatore nel Calcio Catania
 
-**Francesco Spampinato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Francesco Spampinato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

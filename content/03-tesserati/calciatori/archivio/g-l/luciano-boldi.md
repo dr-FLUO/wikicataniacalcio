@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luciano-boldi
+- luciano-boldi
+- tesserati/luciano-boldi
+- calciatori/luciano-boldi
 ---
+
 
 # Luciano Boldi — Scheda Giocatore nel Calcio Catania
 
-**Luciano Boldi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luciano Boldi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

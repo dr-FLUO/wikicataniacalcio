@@ -14,12 +14,12 @@ tags:
 - fabio-calcaterra
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabio Calcaterra'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabio Calcaterra
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabio_Calcaterra'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabio_Calcaterra
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabio Calcaterra
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabio-calcaterra
+- fabio-calcaterra
+- tesserati/fabio-calcaterra
+- calciatori/fabio-calcaterra
+birth_date: '1965-05-13'
+birth_place: Magenta
+citizenship: Italia
 ---
+
 # Fabio Calcaterra — Scheda Giocatore nel Calcio Catania
 
-**Fabio Calcaterra** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Fabio Calcaterra** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

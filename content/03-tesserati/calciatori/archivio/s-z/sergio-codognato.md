@@ -14,12 +14,12 @@ tags:
 - sergio-codognato
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sergio Codognato'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sergio Codognato
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sergio_Codognato'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sergio_Codognato
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sergio Codognato
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/640_sergio-codognato.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/sergio-codognato.jpg'
-  alt_text: "Ritratto ufficiale di Sergio Codognato — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/sergio-codognato.jpg
+  alt_text: 'Ritratto ufficiale di Sergio Codognato — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/sergio-codognato
+- sergio-codognato
+- tesserati/sergio-codognato
+- calciatori/sergio-codognato
+birth_date: '1944-04-03'
+birth_place: Limbiate
+citizenship: Italia
 ---
+
 # Sergio Codognato — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Sergio Codognato — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/sergio-codognato.jpg)
 *Ritratto ufficiale di Sergio Codognato — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Sergio Codognato — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Sergio Codognato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Sergio Codognato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

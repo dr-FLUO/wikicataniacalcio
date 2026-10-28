@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gonzalo-piermarteri
+- gonzalo-piermarteri
+- tesserati/gonzalo-piermarteri
+- calciatori/gonzalo-piermarteri
+birth_date: '1995-05-06'
+birth_place: Córdoba
+citizenship: Argentina
 ---
+
 # Gonzalo Piermarteri — Scheda Giocatore nel Calcio Catania
 
-**Gonzalo Piermarteri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gonzalo Piermarteri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

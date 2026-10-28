@@ -14,12 +14,12 @@ tags:
 - luigi-pagliuca
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luigi Pagliuca'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luigi Pagliuca
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luigi_Pagliuca'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luigi_Pagliuca
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luigi Pagliuca
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/142_luigi-pagliuca.jpg
 image_credits:
-- image_path: 'assets/images/players/142_luigi-pagliuca.jpg'
-  alt_text: "Ritratto del calciatore Luigi Pagliuca in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/142_luigi-pagliuca.jpg
+  alt_text: Ritratto del calciatore Luigi Pagliuca in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/luigi-pagliuca
+- luigi-pagliuca
+- tesserati/luigi-pagliuca
+- calciatori/luigi-pagliuca
+birth_date: '1979-08-29'
+birth_place: Prato
+citizenship: Italia
 ---
+
 # Luigi Pagliuca — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luigi Pagliuca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/142_luigi-pagliuca.jpg)
 *Ritratto del calciatore Luigi Pagliuca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Luigi Pagliuca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luigi Pagliuca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

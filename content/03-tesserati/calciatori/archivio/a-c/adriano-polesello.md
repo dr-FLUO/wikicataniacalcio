@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/adriano-polesello
+- adriano-polesello
+- tesserati/adriano-polesello
+- calciatori/adriano-polesello
 ---
+
 
 # Adriano Polesello — Scheda Giocatore nel Calcio Catania
 
-**Adriano Polesello** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Adriano Polesello** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

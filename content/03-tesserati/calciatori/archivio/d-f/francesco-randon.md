@@ -14,12 +14,12 @@ tags:
 - francesco-randon
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Francesco Randon'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Randon
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Francesco_Randon'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Francesco_Randon
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Francesco Randon
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/750_francesco-randon.jpg
 image_credits:
-- image_path: 'assets/images/players/750_francesco-randon.jpg'
-  alt_text: "Ritratto del calciatore Francesco Randon in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/750_francesco-randon.jpg
+  alt_text: Ritratto del calciatore Francesco Randon in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/francesco-randon
+- francesco-randon
+- tesserati/francesco-randon
+- calciatori/francesco-randon
+birth_date: '1925-11-23'
+birth_place: Castelgomberto
+citizenship: Regno d'Italia
 ---
+
 # Francesco Randon — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Francesco Randon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/750_francesco-randon.jpg)
 *Ritratto del calciatore Francesco Randon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Francesco Randon** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Francesco Randon** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - riccardo-zampagna
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riccardo Zampagna'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riccardo Zampagna
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riccardo_Zampagna'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riccardo_Zampagna
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Riccardo Zampagna
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/riccardo-zampagna
+- riccardo-zampagna
+- tesserati/riccardo-zampagna
+- calciatori/riccardo-zampagna
+birth_date: '1974-11-15'
+birth_place: Terni
+citizenship: Italia
 ---
+
 # Riccardo Zampagna — Scheda Giocatore nel Calcio Catania
 
-**Riccardo Zampagna** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Riccardo Zampagna** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

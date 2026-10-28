@@ -29,12 +29,12 @@ tags:
 - record-punti
 - rolando-maran
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Lucas Castro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lucas Castro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Lucas_Castro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Lucas_Castro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Almanacco Ufficiale Serie A TIM — Scheda e statistiche Lucas Castro
   publisher: Lega Serie A
@@ -54,7 +54,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Castro-797
 aliases:
 - tesserati/calciatori/lucas-castro
+- lucas-castro
+- tesserati/lucas-castro
+- calciatori/lucas-castro
+citizenship: Argentina
 ---
+
 # Lucas Castro
 
 **Lucas Nahuel Castro**, noto con il soprannome di ***«El Pata»*** (La Plata, 9 aprile 1989), è un calciatore argentino, nel ruolo di mezzala, centrocampista offensivo ed esterno d'attacco. Acquistato dal Racing Club di Avellaneda nell'estate del **2012**, ha militato nel [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] per tre stagioni (dal 2012 al 2015), totalizzando **94 presenze ufficiali e 13 reti** e affermandosi come uno dei giocatori più tecnici e amati della colonia argentina etnea.

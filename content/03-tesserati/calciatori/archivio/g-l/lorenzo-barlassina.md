@@ -14,12 +14,12 @@ tags:
 - lorenzo-barlassina
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Lorenzo Barlassina'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lorenzo Barlassina
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Lorenzo_Barlassina'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Lorenzo_Barlassina
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Lorenzo Barlassina
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/487_lorenzo-barlassina.jpg
 image_credits:
-- image_path: 'assets/images/players/487_lorenzo-barlassina.jpg'
-  alt_text: "Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/487_lorenzo-barlassina.jpg
+  alt_text: Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/lorenzo-barlassina
+- lorenzo-barlassina
+- tesserati/lorenzo-barlassina
+- calciatori/lorenzo-barlassina
+birth_date: '1948-07-07'
+birth_place: Limbiate
+citizenship: Italia
 ---
+
 # Lorenzo Barlassina — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/487_lorenzo-barlassina.jpg)
 *Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Lorenzo Barlassina** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Lorenzo Barlassina** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

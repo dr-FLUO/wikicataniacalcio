@@ -14,12 +14,12 @@ tags:
 - pietro-ghedin
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pietro Ghedin'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pietro Ghedin
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pietro_Ghedin'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pietro_Ghedin
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pietro Ghedin
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/561_pietro-ghedin.jpg
 image_credits:
-- image_path: 'assets/images/players/561_pietro-ghedin.jpg'
-  alt_text: "Ritratto del calciatore Pietro Ghedin in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/561_pietro-ghedin.jpg
+  alt_text: Ritratto del calciatore Pietro Ghedin in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/pietro-ghedin
+- pietro-ghedin
+- tesserati/pietro-ghedin
+- calciatori/pietro-ghedin
+birth_date: '1952-11-21'
+birth_place: Scorzè
+citizenship: Italia
 ---
+
 # Pietro Ghedin — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Pietro Ghedin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/561_pietro-ghedin.jpg)
 *Ritratto del calciatore Pietro Ghedin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Pietro Ghedin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Pietro Ghedin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

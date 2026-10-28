@@ -28,19 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/322_mario-noto.jpg
 image_credits:
-- image_path: 'assets/images/players/322_mario-noto.jpg'
-  alt_text: "Ritratto del calciatore Mario Noto in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/322_mario-noto.jpg
+  alt_text: Ritratto del calciatore Mario Noto in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/mario-noto
+aliases:
+- mario-noto
+- tesserati/mario-noto
+- calciatori/mario-noto
 ---
+
 # Mario Noto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mario Noto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/322_mario-noto.jpg)
 *Ritratto del calciatore Mario Noto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mario Noto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Mario Noto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

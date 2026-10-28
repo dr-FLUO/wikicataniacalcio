@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/oreste-francia
+- oreste-francia
+- tesserati/oreste-francia
+- calciatori/oreste-francia
 ---
+
 
 # Oreste Francia — Scheda Giocatore nel Calcio Catania
 
-**Oreste Francia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Oreste Francia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

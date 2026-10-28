@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-del-giudice
+- giuseppe-del-giudice
+- tesserati/giuseppe-del-giudice
+- calciatori/giuseppe-del-giudice
 ---
+
 
 # Giuseppe Del Giudice — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Del Giudice** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giuseppe Del Giudice** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

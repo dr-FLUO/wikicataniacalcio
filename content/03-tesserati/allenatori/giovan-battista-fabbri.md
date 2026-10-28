@@ -22,12 +22,12 @@ tags:
 - vicenza-miracolo
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Giovan Battista Fabbri"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovan Battista Fabbri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Giovan_Battista_Fabbri_%28allenatore_di_calcio%29"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Giovan_Battista_Fabbri_%28allenatore_di_calcio%29
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -41,7 +41,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giovan-battista-fabbri
+- giovan-battista-fabbri
+- tesserati/giovan-battista-fabbri
+- allenatori/giovan-battista-fabbri
 ---
+
 
 
 # Giovan Battista Fabbri
@@ -68,7 +72,7 @@ Nonostante la difficile situazione di classifica, cercò sempre di proporre un c
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1983-1984\|1983-1984]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1983-1984|1983-1984]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

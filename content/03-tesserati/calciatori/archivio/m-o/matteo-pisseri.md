@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/891_matteo-pisseri.jpg
 image_credits:
-- image_path: 'assets/images/players/891_matteo-pisseri.jpg'
-  alt_text: "Ritratto del calciatore Matteo Pisseri in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/891_matteo-pisseri.jpg
+  alt_text: Ritratto del calciatore Matteo Pisseri in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/matteo-pisseri
+- matteo-pisseri
+- tesserati/matteo-pisseri
+- calciatori/matteo-pisseri
 ---
+
 # Matteo Pisseri — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Matteo Pisseri in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/891_matteo-pisseri.jpg)
 *Ritratto del calciatore Matteo Pisseri in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Matteo Pisseri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Matteo Pisseri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

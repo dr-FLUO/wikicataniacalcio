@@ -1,50 +1,56 @@
 ---
-title: "Giulio Rossi — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Giulio Rossi, centrocampista del Calcio Catania con 50 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/p-r/giulio-rossi"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1912-04-12"
-birth_place: "Locate di Triulzi, Italia"
-death_date: "1974-03-24"
-nationality: "Italia"
+title: Giulio Rossi — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Giulio Rossi, centrocampista
+  del Calcio Catania con 50 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/p-r/giulio-rossi
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1912-04-12'
+birth_place: Locate di Triulzi, Italia
+death_date: '1974-03-24'
+nationality: Italia
 total_appearances: 50
 seasons_count: 2
 tags:
-  - "calciatori"
-  - "giulio-rossi"
-  - "centrocampista"
+- calciatori
+- giulio-rossi
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Giulio Rossi"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Giulio_Rossi_(calciatore_1912)"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giulio Rossi
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Giulio_Rossi_(calciatore_1912)
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp
 image_credits:
-  - image_path: "assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp"
-    alt_text: "Ritratto fotografico di Giulio Rossi calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp
+  alt_text: Ritratto fotografico di Giulio Rossi calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/giulio-rossi"
-  - "giulio-rossi"
+- tesserati/calciatori/giulio-rossi
+- giulio-rossi
+- tesserati/giulio-rossi
+- calciatori/giulio-rossi
+citizenship: Regno d'Italia
 ---
+
 # Giulio Rossi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giulio Rossi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp)
 *Ritratto del calciatore Giulio Rossi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Giulio Rossi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giulio Rossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 

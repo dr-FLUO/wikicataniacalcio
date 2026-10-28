@@ -14,25 +14,25 @@ catania_periods:
 - 1996-1998
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/giovanni-mei.jpg"
+image: assets/images/allenatori/giovanni-mei.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giovanni-mei.jpg"
-    alt_text: "Ritratto fotografico di Giovanni Mei allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giovanni-mei.jpg
+  alt_text: Ritratto fotografico di Giovanni Mei allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - serie-c2
 - playoff
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Giovanni Mei"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Mei
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Giovanni_Mei"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Giovanni_Mei
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giovanni-mei
+- giovanni-mei
+- tesserati/giovanni-mei
+- allenatori/giovanni-mei
 ---
+
 
 
 # Giovanni Mei
@@ -77,7 +81,7 @@ Costruì una delle formazioni difensivamente più solide della categoria, valori
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1996-1997\|1996-1997]], [[stagioni/1997-1998\|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1996-1997|1996-1997]], [[stagioni/1997-1998|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

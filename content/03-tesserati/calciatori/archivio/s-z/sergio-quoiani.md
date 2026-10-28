@@ -14,12 +14,12 @@ tags:
 - sergio-quoiani
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sergio Quoiani'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sergio Quoiani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sergio_Quoiani'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sergio_Quoiani
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sergio Quoiani
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/sergio-quoiani
+- sergio-quoiani
+- tesserati/sergio-quoiani
+- calciatori/sergio-quoiani
+birth_date: '1927-04-12'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Sergio Quoiani — Scheda Giocatore nel Calcio Catania
 
-**Sergio Quoiani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Sergio Quoiani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

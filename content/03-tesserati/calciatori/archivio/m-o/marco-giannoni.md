@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-giannoni
+- marco-giannoni
+- tesserati/marco-giannoni
+- calciatori/marco-giannoni
 ---
+
 
 # Marco Giannoni — Scheda Giocatore nel Calcio Catania
 
-**Marco Giannoni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Marco Giannoni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

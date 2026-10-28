@@ -1,50 +1,56 @@
 ---
-title: "Felipe Seymour — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Felipe Seymour, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/felipe-seymour"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1987-07-23"
-birth_place: "Santiago del Cile"
-death_date: ""
-nationality: "Cile"
+title: Felipe Seymour — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Felipe Seymour, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/felipe-seymour
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1987-07-23'
+birth_place: Santiago del Cile
+death_date: ''
+nationality: Cile
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "felipe-seymour"
-  - "centrocampista"
+- calciatori
+- felipe-seymour
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Felipe Seymour"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Felipe_Seymour"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/felipe-seymour.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Felipe Seymour
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Felipe_Seymour
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/felipe-seymour.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/felipe-seymour.jpg"
-    alt_text: "Ritratto fotografico di Felipe Seymour calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/felipe-seymour.jpg
+  alt_text: Ritratto fotografico di Felipe Seymour calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/felipe-seymour"
-  - "felipe-seymour"
+- tesserati/calciatori/felipe-seymour
+- felipe-seymour
+- tesserati/felipe-seymour
+- calciatori/felipe-seymour
+citizenship: Cile
 ---
+
 # Felipe Seymour — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Felipe Seymour in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/felipe-seymour.jpg)
 *Ritratto del calciatore Felipe Seymour in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Felipe Seymour** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Felipe Seymour** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Cile |
 | **Data e Luogo di Nascita** | 1987-07-23 — Santiago del Cile |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -31,12 +31,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gionatha Spinesi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gionatha Spinesi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gionatha_Spinesi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gionatha_Spinesi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -60,13 +60,20 @@ cover_caption: 'Gionatha Spinesi (#24) e Giuseppe Mascara al calcio d''inizio: l
 cover_credit: 'Foto: Roberto Quartarone · Licenza: CC BY-SA 2.5'
 aliases:
 - tesserati/calciatori/gionatha-spinesi
+- gionatha-spinesi
+- tesserati/gionatha-spinesi
+- calciatori/gionatha-spinesi
 image_credits:
-- image_path: '/assets/images/calciatori/gionatha-spinesi.jpg'
-  alt_text: "Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/gionatha-spinesi.jpg
+  alt_text: 'Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Italia
+seasons_count: 4
 ---
+
 # Gionatha Spinesi
 
 ![Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gionatha-spinesi.jpg)
@@ -92,11 +99,11 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Campionato | Reti Campionato | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2004-2005** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
-| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
-| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
+| **2004-2005** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
+| **[[stagioni/2005-2006|2005-2006]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
+| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
 | **Totale Carriera** | **5 Stagioni (2004–2009)** | **Serie A / B** | — | **135 (72 A + 63 B)** | **47 (20 A + 27 B)** | **8 (2)** | **143 (49)** |
 
 

@@ -104,9 +104,9 @@ Dopo il pareggio tra lombardi, al Catania bastava non perdere contro la Cremones
 
 | Data e Incontro | Risultato | Marcatori | Presenza Stimata Tifosi Catanesi | Esito Finale |
 | :--- | :---: | :--- | :---: | :--- |
-| **18 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-como-1-0\|Catania-Como]] | **1-0** | 71' Angelo Crialesi (C) | ~25.000 spettatori etnei | Catania primo a quota 2 pt. |
+| **18 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-como-1-0|Catania-Como]] | **1-0** | 71' Angelo Crialesi (C) | ~25.000 spettatori etnei | Catania primo a quota 2 pt. |
 | **22 giugno 1983**<br/>Cremonese-Como | **0-0** | — | — | Como eliminato (1 pt); Cremonese a 1 pt. |
-| **25 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-cremonese-0-0\|Catania-Cremonese]] | **0-0** | — | **~40.000 spettatori etnei** | **Catania promosso in Serie A** (3 pt). |
+| **25 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese]] | **0-0** | — | **~40.000 spettatori etnei** | **Catania promosso in Serie A** (3 pt). |
 
 > [!quote] La Testimonianza Storica di Emiliano Mondonico
 > *"Quando siamo entrati in campo all'Olimpico e abbiamo alzato gli occhi verso gli spalti tutti colorati di rosso e d'azzurro, con quarantamila persone che cantavano per il Catania, abbiamo capito che non stavamo giocando contro una squadra di calcio, ma contro un popolo intero."* — **Emiliano Mondonico**, allenatore della Cremonese.

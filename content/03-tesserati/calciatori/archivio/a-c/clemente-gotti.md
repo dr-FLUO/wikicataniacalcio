@@ -14,12 +14,12 @@ tags:
 - clemente-gotti
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Clemente Gotti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Clemente Gotti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Clemente_Gotti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Clemente_Gotti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Clemente Gotti
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/clemente-gotti
+- clemente-gotti
+- tesserati/clemente-gotti
+- calciatori/clemente-gotti
+birth_date: '1930-12-07'
+birth_place: Ponte San Pietro
+citizenship: Regno d'Italia
 ---
+
 # Clemente Gotti — Scheda Giocatore nel Calcio Catania
 
-**Clemente Gotti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Clemente Gotti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

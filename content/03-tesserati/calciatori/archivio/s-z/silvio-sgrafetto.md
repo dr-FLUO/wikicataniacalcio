@@ -14,12 +14,12 @@ tags:
 - silvio-sgrafetto
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Silvio Sgrafetto'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Silvio Sgrafetto
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Silvio_Sgrafetto'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Silvio_Sgrafetto
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Silvio Sgrafetto
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/silvio-sgrafetto
+- silvio-sgrafetto
+- tesserati/silvio-sgrafetto
+- calciatori/silvio-sgrafetto
+birth_date: '1943-11-20'
+birth_place: Desio
+citizenship: Italia
 ---
+
 # Silvio Sgrafetto — Scheda Giocatore nel Calcio Catania
 
-**Silvio Sgrafetto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Silvio Sgrafetto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

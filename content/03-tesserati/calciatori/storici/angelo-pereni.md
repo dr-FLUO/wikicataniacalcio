@@ -14,12 +14,12 @@ tags:
 - angelo-pereni
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Angelo Pereni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Angelo Pereni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Angelo_Pereni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Angelo_Pereni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Angelo Pereni
   publisher: calciocatania.com
@@ -33,14 +33,22 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/581_angelo-pereni.jpg
 image_credits:
-- image_path: 'assets/images/players/581_angelo-pereni.jpg'
-  alt_text: "Ritratto del calciatore Angelo Pereni in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/581_angelo-pereni.jpg
+  alt_text: Ritratto del calciatore Angelo Pereni in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/angelo-pereni
+- angelo-pereni
+- tesserati/angelo-pereni
+- calciatori/angelo-pereni
+birth_date: '1943-12-12'
+birth_place: Gorla Minore
+citizenship: Italia
 ---
+
 # Angelo Pereni — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Angelo Pereni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/581_angelo-pereni.jpg)

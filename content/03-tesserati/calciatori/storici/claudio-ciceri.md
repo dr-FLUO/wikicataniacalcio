@@ -14,12 +14,12 @@ tags:
 - claudio-ciceri
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Ciceri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Ciceri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Ciceri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Ciceri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Claudio Ciceri
   publisher: calciocatania.com
@@ -33,14 +33,22 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/523_claudio-ciceri.jpg
 image_credits:
-- image_path: 'assets/images/players/523_claudio-ciceri.jpg'
-  alt_text: "Ritratto del calciatore Claudio Ciceri in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/523_claudio-ciceri.jpg
+  alt_text: Ritratto del calciatore Claudio Ciceri in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/claudio-ciceri
+- claudio-ciceri
+- tesserati/claudio-ciceri
+- calciatori/claudio-ciceri
+birth_date: '1951-05-10'
+birth_place: Milano
+citizenship: Italia
 ---
+
 # Claudio Ciceri — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Claudio Ciceri in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/523_claudio-ciceri.jpg)

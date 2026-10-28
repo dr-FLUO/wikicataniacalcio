@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-ogliari
+- marco-ogliari
+- tesserati/marco-ogliari
+- calciatori/marco-ogliari
 ---
+
 
 # Marco Ogliari — Scheda Giocatore nel Calcio Catania
 
-**Marco Ogliari** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Marco Ogliari** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

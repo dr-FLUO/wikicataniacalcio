@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/paolo-tarini
+- paolo-tarini
+- tesserati/paolo-tarini
+- calciatori/paolo-tarini
 ---
+
 
 # Paolo Tarini — Scheda Giocatore nel Calcio Catania
 
-**Paolo Tarini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Paolo Tarini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

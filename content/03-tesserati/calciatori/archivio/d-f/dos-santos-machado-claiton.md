@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/dos-santos-machado-claiton
+- dos-santos-machado-claiton
+- tesserati/dos-santos-machado-claiton
+- calciatori/dos-santos-machado-claiton
 ---
+
 
 # dos Santos Machado Claiton — Scheda Giocatore nel Calcio Catania
 
-**dos Santos Machado Claiton** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**dos Santos Machado Claiton** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

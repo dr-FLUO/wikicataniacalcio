@@ -51,11 +51,11 @@ Benvenuti nell'**Albo Storico Generale dei Calciatori del Calcio Catania**, l'an
 ## Primati e Record All-Time in Maglia Rossazzurra
 
 ### Top 10 Presenze Assolute di Sempre
-1. **[[tesserati/calciatori/damiano-morra\|Damiano Morra]]** — **283 presenze** (9 stagioni, 1975–1984)
-2. **[[tesserati/calciatori/marco-biagianti\|Marco Biagianti]]** — **262 presenze** (12 stagioni, 2007–2020)
-3. **[[tesserati/calciatori/mariano-izco\|Mariano Izco]]** — **256 presenze** (10 stagioni, 2006–2021)
+1. **[[tesserati/calciatori/damiano-morra|Damiano Morra]]** — **283 presenze** (9 stagioni, 1975–1984)
+2. **[[tesserati/calciatori/marco-biagianti|Marco Biagianti]]** — **262 presenze** (12 stagioni, 2007–2020)
+3. **[[tesserati/calciatori/mariano-izco|Mariano Izco]]** — **256 presenze** (10 stagioni, 2006–2021)
 4. **Rino Rado** — **234 presenze** (7 stagioni, 1966–1973)
-5. **[[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]]** — **224 presenze** (7 stagioni, 2003–2011)
+5. **[[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]]** — **224 presenze** (7 stagioni, 2003–2011)
 6. **Luciano Buzzacchera** — **221 presenze** (8 stagioni, 1965–1973)
 7. **Domenico Labrocca** — **220 presenze** (7 stagioni, 1975–1983)
 8. **Mario Corti** — **200 presenze** (8 stagioni, 1957–1964)
@@ -63,7 +63,7 @@ Benvenuti nell'**Albo Storico Generale dei Calciatori del Calcio Catania**, l'an
 10. **Renato Rambaldelli** — **189 presenze** (8 stagioni, 1959–1967)
 
 ### Primati Iconici e Simboli della Storia Etnea
-- **Unico calciatore in tutte le serie professionistiche col Catania (C2, C1, B, A):** **[[tesserati/calciatori/orazio-russo\|Orazio Russo]]** (119 presenze totali e 12 reti in 4 cicli storici dal 1991 al 2010; capitano all'addio in Serie A nel 2010, poi Team Manager in Serie A e Responsabile del Settore Giovanile).
+- **Unico calciatore in tutte le serie professionistiche col Catania (C2, C1, B, A):** **[[tesserati/calciatori/orazio-russo|Orazio Russo]]** (119 presenze totali e 12 reti in 4 cicli storici dal 1991 al 2010; capitano all'addio in Serie A nel 2010, poi Team Manager in Serie A e Responsabile del Settore Giovanile).
 
 ---
 
@@ -73,13 +73,13 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 
 | # | Calciatore | Ruolo | Presenze | Stagioni |
 | :---: | :--- | :--- | :---: | :---: |
-| 1 | **[[tesserati/calciatori/damiano-morra\|Damiano Morra]]** | Centrocampista | 283 | 9 stagioni |
-| 2 | **[[tesserati/calciatori/marco-biagianti\|Marco  Biagianti]]** | Centrocampista | 262 | 12 stagioni |
-| 3 | **[[tesserati/calciatori/mariano-izco\|Mariano Julio  Izco]]** | Centrocampista | 256 | 10 stagioni |
+| 1 | **[[tesserati/calciatori/damiano-morra|Damiano Morra]]** | Centrocampista | 283 | 9 stagioni |
+| 2 | **[[tesserati/calciatori/marco-biagianti|Marco  Biagianti]]** | Centrocampista | 262 | 12 stagioni |
+| 3 | **[[tesserati/calciatori/mariano-izco|Mariano Julio  Izco]]** | Centrocampista | 256 | 10 stagioni |
 | 4 | Rino Rado | Portiere | 234 | 7 stagioni |
-| 5 | **[[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]]** | Attaccante | 224 | 7 stagioni |
+| 5 | **[[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]]** | Attaccante | 224 | 7 stagioni |
 | 6 | Luciano Buzzacchera | Difensore | 218 | 7 stagioni |
-| 7 | **[[tesserati/calciatori/francesco-lodi\|Francesco  Lodi]]** | Centrocampista | 216 | 8 stagioni |
+| 7 | **[[tesserati/calciatori/francesco-lodi|Francesco  Lodi]]** | Centrocampista | 216 | 8 stagioni |
 | 8 | Domenico Labrocca | Difensore | 198 | 7 stagioni |
 | 9 | Angelo Pereni | Centrocampista | 189 | 6 stagioni |
 | 10 | Mario Corti | Difensore | 189 | 8 stagioni |
@@ -94,17 +94,17 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 19 | Andrea Russotto | Attaccante | 148 | 6 stagioni |
 | 20 | Nicolàs Federico  Spolli | Difensore | 148 | 6 stagioni |
 | 21 | Adelchi Malaman | Attaccante | 147 | 6 stagioni |
-| 22 | **[[tesserati/calciatori/mariano-andujar\|Mariano Gonzalo  Andujar]]** | Portiere | 146 | 5 stagioni |
-| 23 | **[[tesserati/calciatori/adelmo-prenna\|Adelmo Prenna]]** | Centrocampista | 145 | 6 stagioni |
+| 22 | **[[tesserati/calciatori/mariano-andujar|Mariano Gonzalo  Andujar]]** | Portiere | 146 | 5 stagioni |
+| 23 | **[[tesserati/calciatori/adelmo-prenna|Adelmo Prenna]]** | Centrocampista | 145 | 6 stagioni |
 | 24 | Pier Giuseppe Mosti | Centrocampista | 145 | 5 stagioni |
 | 25 | Zelico Petrovic | Portiere | 145 | 4 stagioni |
 | 26 | Giorgio Bernardis | Centrocampista | 142 | 5 stagioni |
 | 27 | Mauro Vaiani | Centrocampista | 139 | 5 stagioni |
 | 28 | Sebastiano Buzzin | Attaccante | 135 | 5 stagioni |
 | 29 | Luigi Chiavaro | Difensore | 133 | 7 stagioni |
-| 30 | **[[tesserati/calciatori/giampietro-spagnolo\|Giampietro Spagnolo]]** | Attaccante | 130 | 5 stagioni |
-| 31 | **[[tesserati/calciatori/carlo-borghi\|Carlo Borghi]]** | Attaccante | 125 | 6 stagioni |
-| 32 | **[[tesserati/calciatori/salvador-calvanese\|Salvador Calvanese]]** | Attaccante | 124 | 6 stagioni |
+| 30 | **[[tesserati/calciatori/giampietro-spagnolo|Giampietro Spagnolo]]** | Attaccante | 130 | 5 stagioni |
+| 31 | **[[tesserati/calciatori/carlo-borghi|Carlo Borghi]]** | Attaccante | 125 | 6 stagioni |
+| 32 | **[[tesserati/calciatori/salvador-calvanese|Salvador Calvanese]]** | Attaccante | 124 | 6 stagioni |
 | 33 | Cristian Silvestri | Difensore | 123 | 5 stagioni |
 | 34 | Angelo Volpato | Attaccante | 122 | 6 stagioni |
 | 35 | Ciro  Capuano | Difensore | 122 | 7 stagioni |
@@ -112,16 +112,16 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 37 | Matteo Pisseri | Portiere | 118 | 3 stagioni |
 | 38 | Luca Calapai | Difensore | 117 | 4 stagioni |
 | 39 | Armando Pantanelli | Portiere | 116 | 3 stagioni |
-| 40 | **[[tesserati/calciatori/matias-silvestre\|Matias Augustin Silvestre]]** | Difensore | 115 | 4 stagioni |
+| 40 | **[[tesserati/calciatori/matias-silvestre|Matias Augustin Silvestre]]** | Difensore | 115 | 4 stagioni |
 | 41 | Remo Bicchierai | Difensore | 115 | 5 stagioni |
 | 42 | Umberto Strucchi | Centrocampista | 115 | 5 stagioni |
 | 43 | Romano Fogli | Centrocampista | 114 | 4 stagioni |
 | 44 | Giorgio Michelotti | Difensore | 113 | 7 stagioni |
 | 45 | Alessandro Quaini | Centrocampista | 111 | 4 stagioni |
-| 46 | **[[tesserati/calciatori/gionatha-spinesi\|Gionatha Spinesi]]** | Attaccante | 110 | 4 stagioni |
+| 46 | **[[tesserati/calciatori/gionatha-spinesi|Gionatha Spinesi]]** | Attaccante | 110 | 4 stagioni |
 | 47 | Pablo Sebastian Valeira  Alvarez | Difensore | 110 | 7 stagioni |
-| 48 | **[[tesserati/calciatori/gonzalo-bergessio\|Gonzalo  Bergessio]]** | Attaccante | 109 | 4 stagioni |
-| 49 | **[[tesserati/calciatori/adriano-polenta\|Adriano Polenta]]** | Difensore | 108 | 5 stagioni |
+| 48 | **[[tesserati/calciatori/gonzalo-bergessio|Gonzalo  Bergessio]]** | Attaccante | 109 | 4 stagioni |
+| 49 | **[[tesserati/calciatori/adriano-polenta|Adriano Polenta]]** | Difensore | 108 | 5 stagioni |
 | 50 | Antonino Cantone | Centrocampista | 105 | 6 stagioni |
 | 51 | Michele Zeoli | Difensore | 104 | 4 stagioni |
 | 52 | Guido Biondi | Centrocampista | 103 | 5 stagioni |
@@ -129,27 +129,27 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 54 | Ubaldo Spanio | Difensore | 103 | 3 stagioni |
 | 55 | Fabio Caserta | Centrocampista | 102 | 4 stagioni |
 | 56 | Lorenzo Stovini | Difensore | 102 | 3 stagioni |
-| 57 | **[[tesserati/calciatori/alejandro-gomez\|Alejandro Dario  Gomez]]** | Centrocampista | 101 | 3 stagioni |
+| 57 | **[[tesserati/calciatori/alejandro-gomez|Alejandro Dario  Gomez]]** | Centrocampista | 101 | 3 stagioni |
 | 58 | Gennaro Iezzo | Portiere | 101 | 4 stagioni |
 | 59 | Giovanni Simonini | Difensore | 101 | 4 stagioni |
 | 60 | Giuseppe Rizzo | Centrocampista | 101 | 7 stagioni |
-| 61 | **[[tesserati/calciatori/aquilino-bonfanti\|Aquilino Bonfanti]]** | Attaccante | 100 | 3 stagioni |
+| 61 | **[[tesserati/calciatori/aquilino-bonfanti|Aquilino Bonfanti]]** | Attaccante | 100 | 3 stagioni |
 | 62 | Ennio Mastalli | Attaccante | 99 | 4 stagioni |
 | 63 | Michele Fini | Centrocampista | 98 | 3 stagioni |
 | 64 | Angelo Crialesi | Attaccante | 97 | 3 stagioni |
 | 65 | Claudio Ciceri | Attaccante | 97 | 3 stagioni |
 | 66 | Alessio Castellini | Difensore | 96 | 3 stagioni |
 | 67 | Giuseppe  Bellusci | Difensore | 96 | 5 stagioni |
-| 68 | **[[tesserati/calciatori/aldo-cantarutti\|Aldo Cantarutti]]** | Attaccante | 94 | 3 stagioni |
+| 68 | **[[tesserati/calciatori/aldo-cantarutti|Aldo Cantarutti]]** | Attaccante | 94 | 3 stagioni |
 | 69 | Guglielmo Toros | Difensore | 94 | 3 stagioni |
 | 70 | Sergio Pietro Baisi | Attaccante | 93 | 3 stagioni |
 | 71 | Antonio Seveso | Portiere | 92 | 7 stagioni |
 | 72 | Ezequiel Christian  Llama | Centrocampista | 92 | 7 stagioni |
-| 73 | **[[tesserati/calciatori/orazio-russo\|Orazio Russo]]** | Attaccante | 92 | 6 stagioni |
+| 73 | **[[tesserati/calciatori/orazio-russo|Orazio Russo]]** | Attaccante | 92 | 6 stagioni |
 | 74 | Andrea Mazzarani | Centrocampista | 91 | 3 stagioni |
 | 75 | Davis Curiale | Attaccante | 91 | 3 stagioni |
 | 76 | Francesco Ciampoli | Difensore | 90 | 4 stagioni |
-| 77 | **[[tesserati/calciatori/pablo-barrientos\|Pablo Cesar Barrientos]]** | Centrocampista | 88 | 5 stagioni |
+| 77 | **[[tesserati/calciatori/pablo-barrientos|Pablo Cesar Barrientos]]** | Centrocampista | 88 | 5 stagioni |
 | 78 | Adrián Ricchiuti | Attaccante | 86 | 4 stagioni |
 | 79 | Takayuky Morimoto | Attaccante | 86 | 6 stagioni |
 | 80 | Maurizio Giovanelli | Centrocampista | 85 | 3 stagioni |
@@ -157,7 +157,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 82 | Kalifa Manneh | Attaccante | 84 | 4 stagioni |
 | 83 | Luigi Muraro | Portiere | 84 | 7 stagioni |
 | 84 | Maks Barišič | Attaccante | 84 | 5 stagioni |
-| 85 | **[[tesserati/calciatori/jorge-martinez\|Jorge Andres Barrios Martinez]]** | Attaccante | 83 | 3 stagioni |
+| 85 | **[[tesserati/calciatori/jorge-martinez|Jorge Andres Barrios Martinez]]** | Attaccante | 83 | 3 stagioni |
 | 86 | Renzo Castagnini | Difensore | 83 | 3 stagioni |
 | 87 | Rosario Bucolo | Centrocampista | 83 | 4 stagioni |
 | 88 | Sergio Bernardo Almiron | Centrocampista | 82 | 4 stagioni |
@@ -170,15 +170,15 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 95 | Roberto Benincasa | Difensore | 78 | 3 stagioni |
 | 96 | Ramzi Aya | Difensore | 77 | 2 stagioni |
 | 97 | Ezequiel Alejo  Carboni | Centrocampista | 76 | 3 stagioni |
-| 98 | **[[tesserati/calciatori/lucas-castro\|Lucas Nahuel Castro]]** | Centrocampista | 76 | 3 stagioni |
+| 98 | **[[tesserati/calciatori/lucas-castro|Lucas Nahuel Castro]]** | Centrocampista | 76 | 3 stagioni |
 | 99 | Massimo Cicconi | Attaccante | 76 | 3 stagioni |
 | 100 | Maximiliano Gastòn  Lopez | Attaccante | 76 | 4 stagioni |
 | 101 | Pablo Martin Ledesma | Centrocampista | 76 | 4 stagioni |
 | 102 | Nicola Legrottaglie | Difensore | 75 | 3 stagioni |
-| 103 | **[[tesserati/calciatori/umberto-brutto\|Umberto Brutto]]** | Centrocampista | 75 | 4 stagioni |
+| 103 | **[[tesserati/calciatori/umberto-brutto|Umberto Brutto]]** | Centrocampista | 75 | 4 stagioni |
 | 104 | Vincenzo Del Vecchio | Difensore | 75 | 5 stagioni |
 | 105 | Giampaolo Lampredi | Difensore | 74 | 3 stagioni |
-| 106 | **[[tesserati/calciatori/loriano-cipriani\|Loriano Cipriani]]** | Attaccante | 74 | 4 stagioni |
+| 106 | **[[tesserati/calciatori/loriano-cipriani|Loriano Cipriani]]** | Attaccante | 74 | 4 stagioni |
 | 107 | Luciano Limena | Difensore | 74 | 3 stagioni |
 | 108 | Massimo Cherubini | Difensore | 74 | 4 stagioni |
 | 109 | Sergio Reggiani | Difensore | 74 | 3 stagioni |
@@ -209,13 +209,13 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 134 | Igor Marziano | Centrocampista | 67 | 3 stagioni |
 | 135 | Alvaro Bravetti | Difensore | 66 | 5 stagioni |
 | 136 | Andrea Sottil | Difensore | 66 | 3 stagioni |
-| 137 | **[[tesserati/calciatori/fulvio-francesconi\|Fulvio Francesconi]]** | Attaccante | 66 | 2 stagioni |
+| 137 | **[[tesserati/calciatori/fulvio-francesconi|Fulvio Francesconi]]** | Attaccante | 66 | 2 stagioni |
 | 138 | Remo Morelli | Attaccante | 66 | 4 stagioni |
 | 139 | Carlo Facchin | Attaccante | 65 | 2 stagioni |
 | 140 | Francesco Passiatore | Attaccante | 65 | 3 stagioni |
-| 141 | **[[tesserati/calciatori/luis-oliveira\|Luis Airton Barroso Oliveira]]** | Attaccante | 65 | 2 stagioni |
+| 141 | **[[tesserati/calciatori/luis-oliveira|Luis Airton Barroso Oliveira]]** | Attaccante | 65 | 2 stagioni |
 | 142 | Nicola Fusaro | Centrocampista | 65 | 3 stagioni |
-| 143 | **[[tesserati/calciatori/claudio-ranieri\|Claudio Ranieri]]** | Difensore | 64 | 2 stagioni |
+| 143 | **[[tesserati/calciatori/claudio-ranieri|Claudio Ranieri]]** | Difensore | 64 | 2 stagioni |
 | 144 | Giuseppe Gaspari | Portiere | 64 | 2 stagioni |
 | 145 | Marco Piga | Attaccante | 64 | 2 stagioni |
 | 146 | Pasquale Casale | Centrocampista | 64 | 2 stagioni |
@@ -227,7 +227,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 152 | Guido Luigi Battilani | Difensore | 62 | 2 stagioni |
 | 153 | Horst Szymaniak | Centrocampista | 62 | 2 stagioni |
 | 154 | Gennaro Delvecchio | Centrocampista | 61 | 5 stagioni |
-| 155 | **[[tesserati/calciatori/guido-klein\|Guido Klein]]** | Attaccante | 61 | 6 stagioni |
+| 155 | **[[tesserati/calciatori/guido-klein|Guido Klein]]** | Attaccante | 61 | 6 stagioni |
 | 156 | Mario Ierardi | Difensore | 61 | 3 stagioni |
 | 157 | Massimo De Martis | Difensore | 61 | 2 stagioni |
 | 158 | Alessandro  Potenza | Difensore | 60 | 6 stagioni |
@@ -241,7 +241,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 166 | Sidney Cunha Cinesinho | Centrocampista | 59 | 2 stagioni |
 | 167 | Carlo Baccarini | Difensore | 58 | 5 stagioni |
 | 168 | Ferruccio Caceffo | Centrocampista | 58 | 5 stagioni |
-| 169 | **[[tesserati/calciatori/giancarlo-danova\|Giancarlo Danova]]** | Attaccante | 58 | 2 stagioni |
+| 169 | **[[tesserati/calciatori/giancarlo-danova|Giancarlo Danova]]** | Attaccante | 58 | 2 stagioni |
 | 170 | Gianfranco Trombini | Attaccante | 58 | 3 stagioni |
 | 171 | Mario Fara | Centrocampista | 58 | 2 stagioni |
 | 172 | Mark Edusei | Centrocampista | 58 | 2 stagioni |
@@ -277,7 +277,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 202 | Alessandro Raimo | Difensore | 50 | 3 stagioni |
 | 203 | Giuseppe Colucci | Attaccante | 50 | 2 stagioni |
 | 204 | Francesco Di Tacchio | Centrocampista | 49 | 3 stagioni |
-| 205 | **[[tesserati/calciatori/luca-lugnan\|Luca Lugnan]]** | Attaccante | 49 | 2 stagioni |
+| 205 | **[[tesserati/calciatori/luca-lugnan|Luca Lugnan]]** | Attaccante | 49 | 2 stagioni |
 | 206 | Renato Alberti | Difensore | 49 | 4 stagioni |
 | 207 | Rocco Sabato | Difensore | 49 | 4 stagioni |
 | 208 | Fabian Rinaudo | Centrocampista | 48 | 2 stagioni |
@@ -301,14 +301,14 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 226 | Gennaro Monaco | Difensore | 44 | 5 stagioni |
 | 227 | Marco Chiarella | Attaccante | 44 | 2 stagioni |
 | 228 | Andrea Zanchi | Difensore | 43 | 2 stagioni |
-| 229 | **[[tesserati/calciatori/eddy-baggio\|Eddy Baggio]]** | Attaccante | 43 | 3 stagioni |
+| 229 | **[[tesserati/calciatori/eddy-baggio|Eddy Baggio]]** | Attaccante | 43 | 3 stagioni |
 | 230 | Gianvito Plasmati | Attaccante | 43 | 3 stagioni |
 | 231 | Guglielmo Stendardo | Difensore | 43 | 1 stagione |
 | 232 | Matteo Rossi | Centrocampista | 43 | 2 stagioni |
 | 233 | Michele Paolucci | Attaccante | 43 | 2 stagioni |
 | 234 | Piero Fraccapani | Difensore | 43 | 3 stagioni |
 | 235 | Stefan Djordjevic | Difensore | 43 | 2 stagioni |
-| 236 | **[[tesserati/calciatori/caetano-calil\|Caetano Prosperi Calil]]** | Attaccante | 42 | 3 stagioni |
+| 236 | **[[tesserati/calciatori/caetano-calil|Caetano Prosperi Calil]]** | Attaccante | 42 | 3 stagioni |
 | 237 | Daniele Donnarumma | Difensore | 42 | 2 stagioni |
 | 238 | Jacopo Dall&apos;Oglio | Centrocampista | 42 | 2 stagioni |
 | 239 | Marcello Gamberini | Difensore | 42 | 2 stagioni |
@@ -348,7 +348,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 273 | Domenico Di Cecco | Centrocampista | 36 | 2 stagioni |
 | 274 | dos Santos Machado Claiton | Difensore | 36 | 2 stagioni |
 | 275 | Enrico Vella | Centrocampista | 36 | 1 stagione |
-| 276 | **[[tesserati/calciatori/michele-manenti\|Michele Manenti]]** | Centrocampista | 36 | 2 stagioni |
+| 276 | **[[tesserati/calciatori/michele-manenti|Michele Manenti]]** | Centrocampista | 36 | 2 stagioni |
 | 277 | Tiago Casasola | Difensore | 36 | 1 stagione |
 | 278 | Valeriano Prestanti | Difensore | 36 | 1 stagione |
 | 279 | Alessandro Marotta | Attaccante | 35 | 1 stagione |
@@ -360,7 +360,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 285 | Pierantonio Bortot | Attaccante | 35 | 3 stagioni |
 | 286 | Alessandro Marzio | Centrocampista | 34 | 2 stagioni |
 | 287 | Andrea Esposito | Difensore | 34 | 2 stagioni |
-| 288 | **[[tesserati/calciatori/bruno-micheloni\|Bruno Micheloni]]** | Attaccante | 34 | 1 stagione |
+| 288 | **[[tesserati/calciatori/bruno-micheloni|Bruno Micheloni]]** | Attaccante | 34 | 1 stagione |
 | 289 | Carlo Taldo | Attaccante | 34 | 2 stagioni |
 | 290 | Francesco Randon | Attaccante | 34 | 2 stagioni |
 | 291 | Giovanni Menozzi | Portiere | 34 | 2 stagioni |
@@ -396,7 +396,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 321 | Mauro Bicicli | Attaccante | 32 | 1 stagione |
 | 322 | Nazzareno Canuti | Difensore | 32 | 3 stagioni |
 | 323 | Pierluigi Nicoli | Centrocampista | 32 | 1 stagione |
-| 324 | **[[tesserati/calciatori/riccardo-carapellese\|Riccardo Carapellese]]** | Attaccante | 32 | 2 stagioni |
+| 324 | **[[tesserati/calciatori/riccardo-carapellese|Riccardo Carapellese]]** | Attaccante | 32 | 2 stagioni |
 | 325 | Alves de Lima Raphael Martinho | Centrocampista | 31 | 2 stagioni |
 | 326 | Andrea Allegretto | Difensore | 31 | 3 stagioni |
 | 327 | Antonio Marcellini | Centrocampista | 31 | 1 stagione |
@@ -431,9 +431,9 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 356 | Luigi Origgi | Difensore | 29 | 2 stagioni |
 | 357 | Mario Giannini | Difensore | 29 | 1 stagione |
 | 358 | Mirco Brilli | Difensore | 29 | 1 stagione |
-| 359 | **[[tesserati/calciatori/roberto-inglese\|Roberto Inglese]]** | Attaccante | 29 | 1 stagione |
+| 359 | **[[tesserati/calciatori/roberto-inglese|Roberto Inglese]]** | Attaccante | 29 | 1 stagione |
 | 360 | Roberto Ricca | Difensore | 29 | 2 stagioni |
-| 361 | **[[tesserati/calciatori/samuel-di-carmine\|Samuel Di Carmine]]** | Attaccante | 29 | 1 stagione |
+| 361 | **[[tesserati/calciatori/samuel-di-carmine|Samuel Di Carmine]]** | Attaccante | 29 | 1 stagione |
 | 362 | Simone Russini | Centrocampista | 29 | 1 stagione |
 | 363 | Thomas Manfredini | Difensore | 29 | 1 stagione |
 | 364 | Armando Anastasio | Difensore | 28 | 1 stagione |
@@ -459,11 +459,11 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 384 | Renato Cattaneo | Centrocampista | 28 | 3 stagioni |
 | 385 | Alessandro Costa | Attaccante | 27 | 2 stagioni |
 | 386 | Alessandro Susi | Centrocampista | 27 | 1 stagione |
-| 387 | **[[tesserati/calciatori/alessandro-vitali\|Alessandro Vitali]]** | Attaccante | 27 | 1 stagione |
+| 387 | **[[tesserati/calciatori/alessandro-vitali|Alessandro Vitali]]** | Attaccante | 27 | 1 stagione |
 | 388 | Alfredo Napoleoni | Difensore | 27 | 1 stagione |
 | 389 | Eduardo Ricagni | Centrocampista | 27 | 1 stagione |
 | 390 | Gaston Sauro | Difensore | 27 | 1 stagione |
-| 391 | **[[tesserati/calciatori/giuseppe-mosca\|Giuseppe Pietro Mosca]]** | Attaccante | 27 | 1 stagione |
+| 391 | **[[tesserati/calciatori/giuseppe-mosca|Giuseppe Pietro Mosca]]** | Attaccante | 27 | 1 stagione |
 | 392 | Luigi Falcone | Attaccante | 27 | 1 stagione |
 | 393 | Mario Noto | Portiere | 27 | 1 stagione |
 | 394 | Rocco Roberto Paris | Difensore | 27 | 1 stagione |
@@ -479,7 +479,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 404 | Fabio Visca | Attaccante | 26 | 1 stagione |
 | 405 | Giuseppe Scienza | Centrocampista | 26 | 2 stagioni |
 | 406 | Joel Baraye | Difensore | 26 | 1 stagione |
-| 407 | **[[tesserati/calciatori/karl-aage-hansen\|Karl Age Hansen]]** | Centrocampista | 26 | 3 stagioni |
+| 407 | **[[tesserati/calciatori/karl-aage-hansen|Karl Age Hansen]]** | Centrocampista | 26 | 3 stagioni |
 | 408 | Massimiliano Caliari | Centrocampista | 26 | 1 stagione |
 | 409 | Massimo D&apos;Aviri | Centrocampista | 26 | 2 stagioni |
 | 410 | Michele Pagano | Difensore | 26 | 1 stagione |
@@ -560,7 +560,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 485 | Moïse Emmanuel Mbende | Difensore | 21 | 1 stagione |
 | 486 | Oreste Francia | Centrocampista | 21 | 2 stagioni |
 | 487 | Sergio Gontan Keko | Attaccante | 21 | 2 stagioni |
-| 488 | **[[tesserati/calciatori/alessandro-ambrosi\|Alessandro Ambrosi]]** | Attaccante | 20 | 1 stagione |
+| 488 | **[[tesserati/calciatori/alessandro-ambrosi|Alessandro Ambrosi]]** | Attaccante | 20 | 1 stagione |
 | 489 | Alexandro Binda | Centrocampista | 20 | 1 stagione |
 | 490 | Antonio Dal Poggetto | Portiere | 20 | 4 stagioni |
 | 491 | Cristian Caccetta | Centrocampista | 20 | 1 stagione |
@@ -1003,7 +1003,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 928 | Maurizio Lubbia | Centrocampista | 2 | 1 stagione |
 | 929 | Menotti Avanzolini | Centrocampista | 2 | 1 stagione |
 | 930 | Nicolo Catania | Centrocampista | 2 | 1 stagione |
-| 931 | **[[tesserati/calciatori/orazio-sorbello\|Orazio Sorbello]]** | Attaccante | 2 | 1 stagione |
+| 931 | **[[tesserati/calciatori/orazio-sorbello|Orazio Sorbello]]** | Attaccante | 2 | 1 stagione |
 | 932 | Osvaldo Biancardi | Centrocampista | 2 | 1 stagione |
 | 933 | Paolo Acerbis | Portiere | 2 | 1 stagione |
 | 934 | Raffaele Bella | Centrocampista | 2 | 2 stagioni |
@@ -1021,7 +1021,7 @@ La tabella seguente include l'anagrafe completa ordinata per presenze ufficiali 
 | 946 | Andrea Pazzagli | Portiere | 1 | 1 stagione |
 | 947 | Antonino Barraco | Centrocampista | 1 | 1 stagione |
 | 948 | Antonio Santurro | Portiere | 1 | 1 stagione |
-| 949 | **[[tesserati/calciatori/armando-perrone\|Armando Perrone]]** | Centrocampista | 1 | 1 stagione |
+| 949 | **[[tesserati/calciatori/armando-perrone|Armando Perrone]]** | Centrocampista | 1 | 1 stagione |
 | 950 | Axel Gulin | Centrocampista | 1 | 1 stagione |
 | 951 | Benito Filippazzo | Attaccante | 1 | 1 stagione |
 | 952 | Bruno Porcelli | Attaccante | 1 | 2 stagioni |

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabrizio-filistad
+- fabrizio-filistad
+- tesserati/fabrizio-filistad
+- calciatori/fabrizio-filistad
 ---
+
 
 # Fabrizio Filistad — Scheda Giocatore nel Calcio Catania
 
-**Fabrizio Filistad** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Fabrizio Filistad** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - angelo-volpato
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Angelo Volpato'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Angelo Volpato
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Angelo_Volpato'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Angelo_Volpato
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Angelo Volpato
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/585_angelo-volpato.jpg
 image_credits:
-- image_path: 'assets/images/players/585_angelo-volpato.jpg'
-  alt_text: "Ritratto del calciatore Angelo Volpato in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/585_angelo-volpato.jpg
+  alt_text: Ritratto del calciatore Angelo Volpato in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/angelo-volpato
+- angelo-volpato
+- tesserati/angelo-volpato
+- calciatori/angelo-volpato
+birth_date: '1943-06-07'
+birth_place: Azzano San Paolo
+citizenship: Italia
 ---
+
 # Angelo Volpato — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Angelo Volpato in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/585_angelo-volpato.jpg)
 *Ritratto del calciatore Angelo Volpato in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Angelo Volpato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Angelo Volpato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

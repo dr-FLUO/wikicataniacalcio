@@ -14,25 +14,25 @@ catania_periods:
 - 2004-2005
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/maurizio-costantini.jpg"
+image: assets/images/allenatori/maurizio-costantini.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/maurizio-costantini.jpg"
-    alt_text: "Ritratto fotografico di Maurizio Costantini allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/maurizio-costantini.jpg
+  alt_text: Ritratto fotografico di Maurizio Costantini allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
 - serie-b
 - era-pulvirenti
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Maurizio Costantini"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maurizio Costantini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Maurizio_Costantini"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Maurizio_Costantini
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/maurizio-costantini
+- maurizio-costantini
+- tesserati/maurizio-costantini
+- allenatori/maurizio-costantini
 ---
+
 
 
 # Maurizio Costantini
@@ -77,7 +81,7 @@ Guidò il Catania nelle prime 11 giornate della Serie B 2004-2005, gettando le b
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2004-2005|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

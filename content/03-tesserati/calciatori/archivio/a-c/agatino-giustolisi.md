@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/agatino-giustolisi
+- agatino-giustolisi
+- tesserati/agatino-giustolisi
+- calciatori/agatino-giustolisi
 ---
+
 
 # Agatino Giustolisi — Scheda Giocatore nel Calcio Catania
 
-**Agatino Giustolisi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Agatino Giustolisi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

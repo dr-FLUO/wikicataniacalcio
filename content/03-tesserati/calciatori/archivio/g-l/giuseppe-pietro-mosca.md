@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-pietro-mosca
+- giuseppe-pietro-mosca
+- tesserati/giuseppe-pietro-mosca
+- calciatori/giuseppe-pietro-mosca
 ---
+
 
 # Giuseppe Pietro Mosca — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Pietro Mosca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giuseppe Pietro Mosca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

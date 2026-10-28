@@ -14,12 +14,12 @@ tags:
 - innocente-meroi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Innocente Meroi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Innocente Meroi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Innocente_Meroi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Innocente_Meroi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Innocente Meroi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/696_innocente-meroi.jpg
 image_credits:
-- image_path: 'assets/images/players/696_innocente-meroi.jpg'
-  alt_text: "Ritratto del calciatore Innocente Meroi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/696_innocente-meroi.jpg
+  alt_text: Ritratto del calciatore Innocente Meroi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/innocente-meroi
+- innocente-meroi
+- tesserati/innocente-meroi
+- calciatori/innocente-meroi
+birth_date: '1937-01-16'
+birth_place: Udine
+citizenship: Italia
 ---
+
 # Innocente Meroi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Innocente Meroi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/696_innocente-meroi.jpg)
 *Ritratto del calciatore Innocente Meroi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Innocente Meroi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Innocente Meroi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

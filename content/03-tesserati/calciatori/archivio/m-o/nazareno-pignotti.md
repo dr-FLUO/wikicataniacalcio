@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/nazareno-pignotti
+- nazareno-pignotti
+- tesserati/nazareno-pignotti
+- calciatori/nazareno-pignotti
 ---
+
 
 # Nazareno Pignotti — Scheda Giocatore nel Calcio Catania
 
-**Nazareno Pignotti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Nazareno Pignotti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

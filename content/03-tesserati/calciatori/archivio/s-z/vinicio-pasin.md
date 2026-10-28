@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/vinicio-pasin
+- vinicio-pasin
+- tesserati/vinicio-pasin
+- calciatori/vinicio-pasin
 ---
+
 
 # Vinicio Pasin — Scheda Giocatore nel Calcio Catania
 
-**Vinicio Pasin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Vinicio Pasin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

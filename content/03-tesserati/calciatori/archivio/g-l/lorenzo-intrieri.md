@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/lorenzo-intrieri
+- lorenzo-intrieri
+- tesserati/lorenzo-intrieri
+- calciatori/lorenzo-intrieri
 ---
+
 
 # Lorenzo Intrieri — Scheda Giocatore nel Calcio Catania
 
-**Lorenzo Intrieri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Lorenzo Intrieri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

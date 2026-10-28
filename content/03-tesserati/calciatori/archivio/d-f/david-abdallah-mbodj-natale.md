@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/david-abdallah-mbodj-natale
+- david-abdallah-mbodj-natale
+- tesserati/david-abdallah-mbodj-natale
+- calciatori/david-abdallah-mbodj-natale
 ---
+
 
 # David Abdallah Mbodj Natale — Scheda Giocatore nel Calcio Catania
 
-**David Abdallah Mbodj Natale** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**David Abdallah Mbodj Natale** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

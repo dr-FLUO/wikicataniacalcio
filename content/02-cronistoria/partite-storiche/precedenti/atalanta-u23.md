@@ -55,8 +55,8 @@ Sorteggiato contro la giovane e talentuosa **Atalanta U23** di Francesco Modesto
 
 | Data | Competizione | Incontro e Impianto | Risultato | Marcatori e Verdetto |
 | :--- | :--- | :--- | :---: | :--- |
-| **14 maggio 2024** | Playoff Nazionali Serie C [[stagioni/2023-2024\|2023-2024]] (Andata 1º Turno) | **Atalanta U23 - Catania**<br/>*(Stadio Comunale, Caravaggio)* | **0-1** | **84' Bouah** (Catania) — Arbitro: Leonardo Mastrodomenico (Matera). |
-| **18 maggio 2024** | Playoff Nazionali Serie C [[stagioni/2023-2024\|2023-2024]] (Ritorno 1º Turno) | **Catania - Atalanta U23**<br/>*([[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania)* | **0-1** | **91' Cissé** (Atalanta U23) — **Catania qualificato** al 2º Turno Nazionale come testa di serie. |
+| **14 maggio 2024** | Playoff Nazionali Serie C [[stagioni/2023-2024|2023-2024]] (Andata 1º Turno) | **Atalanta U23 - Catania**<br/>*(Stadio Comunale, Caravaggio)* | **0-1** | **84' Bouah** (Catania) — Arbitro: Leonardo Mastrodomenico (Matera). |
+| **18 maggio 2024** | Playoff Nazionali Serie C [[stagioni/2023-2024|2023-2024]] (Ritorno 1º Turno) | **Catania - Atalanta U23**<br/>*([[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania)* | **0-1** | **91' Cissé** (Atalanta U23) — **Catania qualificato** al 2º Turno Nazionale come testa di serie. |
 
 ---
 
@@ -69,7 +69,7 @@ Sorteggiato contro la giovane e talentuosa **Atalanta U23** di Francesco Modesto
 | **Arbitro** | Leonardo Mastrodomenico della sezione AIA di Matera |
 | **Marcatore** | **84' Devid Eugene Bouah** (Catania) |
 | **Formazione Atalanta U23 (3-4-1-2)** | Vismara; Bernasconi, Comi, Berto; Palestra (85' Ghislandi), Panada (85' Muhameti), Mendicino, Ceresoli; Capone; Diao (46' De Nipoti), Cissé (67' Vlahović). — **All.:** Francesco Modesto. |
-| **Formazione Catania (3-5-2)** | Furlan; Monaco (72' Curado), Quaini, Celli; Bouah, Zammarini (87' Kontek), Welbeck, Cicerelli (64' Tello), Castellini (87' Rapisarda); Di Carmine (72' Costantino), Cianci. — **All.:** [[tesserati/allenatori/michele-zeoli\|Michele Zeoli]]. |
+| **Formazione Catania (3-5-2)** | Furlan; Monaco (72' Curado), Quaini, Celli; Bouah, Zammarini (87' Kontek), Welbeck, Cicerelli (64' Tello), Castellini (87' Rapisarda); Di Carmine (72' Costantino), Cianci. — **All.:** [[tesserati/allenatori/michele-zeoli|Michele Zeoli]]. |
 
 ---
 

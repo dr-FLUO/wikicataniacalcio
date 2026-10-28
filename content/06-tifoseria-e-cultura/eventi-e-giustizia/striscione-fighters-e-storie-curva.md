@@ -70,11 +70,11 @@ Nel fine settimana successivo alla sua morte, decine di stadi italiani ed europe
 
 | Stadio / Nazione | Tifoseria / Curva | Messaggio e Significato del Tributo |
 | :--- | :--- | :--- |
-| **Westfalenstadion, Dortmund (Germania)** | *Desperados 1999* / *Südtribüne* ([[tifoseria/gemellaggi/borussia-dortmund\|Borussia Dortmund]]) | Striscione commemorativo in lingua italiana nella curva più grande d'Europa in onore del fratello catanese. |
-| **Allianz Arena, Monaco di Baviera (Germania)** | *Schickeria München* (Bayern Monaco) | Omaggio ufficiale della curva bavarese alla memoria storica di [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]]. |
-| **Bytom (Polonia)** | Ultras **Polonia Bytom** | Tributo dei fratelli polacchi rossazzurri gemellati con la [[tifoseria/curva-sud/index\|Curva Sud]]. |
-| **Stadio San Paolo, Napoli** | Curva A e Curva B ([[tifoseria/gemellaggi/napoli\|Napoli]]) | Striscioni e cori in memoria di Ciccio nel segno del gemellaggio Catania-Napoli. |
-| **Crotone, Trieste, Benevento, Genova** | Curve di [[tifoseria/gemellaggi/crotone\|Crotone]], [[tifoseria/gemellaggi/triestina\|Triestina]], Benevento, [[tifoseria/gemellaggi/genoa\|Genoa]] e curve rivali | Tributi trasversali da parte di tifoserie gemellate e storiche avversarie in riconoscimento di 38 anni di militanza. |
+| **Westfalenstadion, Dortmund (Germania)** | *Desperados 1999* / *Südtribüne* ([[tifoseria/gemellaggi/borussia-dortmund|Borussia Dortmund]]) | Striscione commemorativo in lingua italiana nella curva più grande d'Europa in onore del fratello catanese. |
+| **Allianz Arena, Monaco di Baviera (Germania)** | *Schickeria München* (Bayern Monaco) | Omaggio ufficiale della curva bavarese alla memoria storica di [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]]. |
+| **Bytom (Polonia)** | Ultras **Polonia Bytom** | Tributo dei fratelli polacchi rossazzurri gemellati con la [[tifoseria/curva-sud/index|Curva Sud]]. |
+| **Stadio San Paolo, Napoli** | Curva A e Curva B ([[tifoseria/gemellaggi/napoli|Napoli]]) | Striscioni e cori in memoria di Ciccio nel segno del gemellaggio Catania-Napoli. |
+| **Crotone, Trieste, Benevento, Genova** | Curve di [[tifoseria/gemellaggi/crotone|Crotone]], [[tifoseria/gemellaggi/triestina|Triestina]], Benevento, [[tifoseria/gemellaggi/genoa|Genoa]] e curve rivali | Tributi trasversali da parte di tifoserie gemellate e storiche avversarie in riconoscimento di 38 anni di militanza. |
 
 ---
 

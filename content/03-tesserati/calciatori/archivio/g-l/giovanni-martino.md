@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-martino
+- giovanni-martino
+- tesserati/giovanni-martino
+- calciatori/giovanni-martino
 ---
+
 
 # Giovanni Martino — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Martino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giovanni Martino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

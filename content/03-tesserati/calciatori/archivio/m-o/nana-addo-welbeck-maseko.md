@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/938_nana-addo-welbeck-maseko.jpg
 image_credits:
-- image_path: 'assets/images/players/938_nana-addo-welbeck-maseko.jpg'
-  alt_text: "Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/938_nana-addo-welbeck-maseko.jpg
+  alt_text: Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/nana-addo-welbeck-maseko
+- nana-addo-welbeck-maseko
+- tesserati/nana-addo-welbeck-maseko
+- calciatori/nana-addo-welbeck-maseko
 ---
+
 # Nana Addo Welbeck Maseko — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/938_nana-addo-welbeck-maseko.jpg)
 *Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Nana Addo Welbeck Maseko** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nana Addo Welbeck Maseko** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

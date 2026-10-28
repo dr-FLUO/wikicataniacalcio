@@ -14,12 +14,12 @@ tags:
 - mariano-marchetti
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mariano Marchetti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mariano Marchetti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mariano_Marchetti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mariano_Marchetti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mariano Marchetti
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mariano-marchetti
+- mariano-marchetti
+- tesserati/mariano-marchetti
+- calciatori/mariano-marchetti
+birth_date: '1960-02-20'
+birth_place: Bassano del Grappa
+citizenship: Italia
 ---
+
 # Mariano Marchetti — Scheda Giocatore nel Calcio Catania
 
-**Mariano Marchetti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mariano Marchetti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

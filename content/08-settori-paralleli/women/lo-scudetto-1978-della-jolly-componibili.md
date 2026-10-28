@@ -42,7 +42,7 @@ Il **2 novembre 1978** rappresenta una data incisa a caratteri d'oro nella memor
 
 ## 1. Genesi della Società: Da Nesima alla Serie A
 
-Le radici del club affondano nel quartiere popolare di [[08-settori-paralleli/giovanili/index\|Nesima Inferiore]], dove nel 1972 il dirigente Giovanni Cristaudo fondò la *Polisportiva Libertas Nesima Inferiore*, iscritta alla Serie B regionale.
+Le radici del club affondano nel quartiere popolare di [[08-settori-paralleli/giovanili/index|Nesima Inferiore]], dove nel 1972 il dirigente Giovanni Cristaudo fondò la *Polisportiva Libertas Nesima Inferiore*, iscritta alla Serie B regionale.
 
 La svolta societaria avvenne nel 1975 quando l'imprenditore **Angelo Cutispoti**, titolare dell'azienda di arredamenti e cucine componibili *Jolly Componibili*, rilevò il sodalizio ribattezzandolo **Calcio Femminile Jolly Componibili Cutispoti Catania**. La guida tecnica venne affidata a **Gianni Prevosti**, indimenticata ala del Calcio Catania maschile negli anni Cinquanta, coadiuvato in panchina da Rosario Coci.
 
@@ -58,7 +58,7 @@ Alla sua prima apparizione in Serie A, la squadra rossazzurra mise a segno una c
 * **+7 punti di vantaggio** sulla seconda classificata, la blasonata Lazio Lubiam di Roma;
 * Miglior attacco e difesa meno battuta del torneo.
 
-Le gare interne vennero disputate sul manto erboso dello [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Cibali]], che fece registrare presenze entusiastiche di pubblico e famiglie, trascinate dal carisma del capitano scozzese **Rose Reilly**, autentico fenomeno atletico e tecnico dell'epoca, laureatasi capocannoniere assoluta della Serie A con **32 reti in 22 incontri**.
+Le gare interne vennero disputate sul manto erboso dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], che fece registrare presenze entusiastiche di pubblico e famiglie, trascinate dal carisma del capitano scozzese **Rose Reilly**, autentico fenomeno atletico e tecnico dell'epoca, laureatasi capocannoniere assoluta della Serie A con **32 reti in 22 incontri**.
 
 ---
 
@@ -86,7 +86,7 @@ La formazione titolare schierata dal tecnico Gianni Prevosti vedeva una perfetta
 
 Nella successiva stagione 1979, con lo scudetto cucito sul petto rossazzurro, la compagine concluse al terzo posto. Al termine del torneo, a causa dell'onerosità della gestione professionistica e della mancanza di contributi istituzionali adeguati, la dirigenza Cutispoti cedette il titolo sportivo all'Alaska Lecce, che avrebbe continuato la striscia vincente al Sud.
 
-Il ricordo della Jolly Componibili è rimasto scolpito nella toponomastica sentimentale etnea ed è stato celebrato nel 2020 con l'intitolazione di una stele commemorativa e l'uscita del volume di riferimento *Il cielo è rosa sopra il Cibali*. La sua eredità è oggi raccolta dal [[08-settori-paralleli/women/dipartimento-catania-women\|Dipartimento Catania Women del Catania FC]].
+Il ricordo della Jolly Componibili è rimasto scolpito nella toponomastica sentimentale etnea ed è stato celebrato nel 2020 con l'intitolazione di una stele commemorativa e l'uscita del volume di riferimento *Il cielo è rosa sopra il Cibali*. La sua eredità è oggi raccolta dal [[08-settori-paralleli/women/dipartimento-catania-women|Dipartimento Catania Women del Catania FC]].
 
 ---
 

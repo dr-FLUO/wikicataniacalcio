@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/144_gabriele-scandurra.jpg
 image_credits:
-- image_path: 'assets/images/players/144_gabriele-scandurra.jpg'
-  alt_text: "Ritratto del calciatore Gabriele Scandurra in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/144_gabriele-scandurra.jpg
+  alt_text: Ritratto del calciatore Gabriele Scandurra in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gabriele-scandurra
+- gabriele-scandurra
+- tesserati/gabriele-scandurra
+- calciatori/gabriele-scandurra
+birth_date: '1978-11-26'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Gabriele Scandurra — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gabriele Scandurra in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/144_gabriele-scandurra.jpg)
 *Ritratto del calciatore Gabriele Scandurra in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gabriele Scandurra** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gabriele Scandurra** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

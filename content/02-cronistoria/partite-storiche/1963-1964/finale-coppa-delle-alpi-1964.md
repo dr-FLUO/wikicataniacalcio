@@ -82,7 +82,7 @@ Arbitrata dal celebre direttore di gara internazionale elvetico **Gottfried Dien
 | **1ª Giornata Gir. A** | **20 giugno 1964** — Ginevra | **Servette - Catania** | **2-3** | Esordio vittorioso contro il club ginevrino. |
 | **2ª Giornata Gir. A** | **24 giugno 1964** — Zurigo | **Zurigo - Catania** | **2-3** | Seconda vittoria esterna consecutiva in Svizzera. |
 | **3ª Giornata Gir. A** | **27 giugno 1964** — Bienne | **Catania - Roma** | **4-2** | Trionfo sui giallorossi e **1º posto nel Girone A** (6 punti). |
-| **FINALE** | **1º luglio 1964** — Berna (*Wankdorf*) | **[[tifoseria/gemellaggi/genoa\|Genoa]] - [[societa/1946-club-calcio-catania\|Catania]]** | **2-0** | Reti di Piaceri al 51' e all'80' (Arbitro: Gottfried Dienst). **Catania Vicecampione della Coppa delle Alpi 1964**. |
+| **FINALE** | **1º luglio 1964** — Berna (*Wankdorf*) | **[[tifoseria/gemellaggi/genoa|Genoa]] - [[societa/1946-club-calcio-catania|Catania]]** | **2-0** | Reti di Piaceri al 51' e all'80' (Arbitro: Gottfried Dienst). **Catania Vicecampione della Coppa delle Alpi 1964**. |
 
 ---
 

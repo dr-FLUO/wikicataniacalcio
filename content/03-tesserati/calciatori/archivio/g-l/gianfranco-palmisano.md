@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianfranco-palmisano
+- gianfranco-palmisano
+- tesserati/gianfranco-palmisano
+- calciatori/gianfranco-palmisano
 ---
+
 
 # Gianfranco Palmisano — Scheda Giocatore nel Calcio Catania
 
-**Gianfranco Palmisano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gianfranco Palmisano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

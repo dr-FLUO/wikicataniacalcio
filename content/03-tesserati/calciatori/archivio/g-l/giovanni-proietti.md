@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-proietti
+- giovanni-proietti
+- tesserati/giovanni-proietti
+- calciatori/giovanni-proietti
+birth_date: '1977-06-27'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Giovanni Proietti — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Proietti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Giovanni Proietti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

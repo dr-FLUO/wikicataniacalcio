@@ -14,12 +14,12 @@ tags:
 - adelchi-malaman
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Adelchi Malaman'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Adelchi Malaman
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Adelchi_Malaman'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Adelchi_Malaman
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Adelchi Malaman
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/528_adelchi-malaman.jpg
 image_credits:
-- image_path: 'assets/images/players/528_adelchi-malaman.jpg'
-  alt_text: "Ritratto del calciatore Adelchi Malaman in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/528_adelchi-malaman.jpg
+  alt_text: Ritratto del calciatore Adelchi Malaman in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/adelchi-malaman
+- adelchi-malaman
+- tesserati/adelchi-malaman
+- calciatori/adelchi-malaman
+birth_date: '1951-04-24'
+birth_place: Castel d'Azzano
+citizenship: Italia
 ---
+
 # Adelchi Malaman — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Adelchi Malaman in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/528_adelchi-malaman.jpg)
 *Ritratto del calciatore Adelchi Malaman in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Adelchi Malaman** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Adelchi Malaman** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

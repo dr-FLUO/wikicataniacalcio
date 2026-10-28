@@ -14,12 +14,12 @@ tags:
 - remo-morelli
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Remo Morelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Remo Morelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Remo_Morelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Remo_Morelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Remo Morelli
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/661_remo-morelli.jpg
 image_credits:
-- image_path: 'assets/images/players/661_remo-morelli.jpg'
-  alt_text: "Ritratto del calciatore Remo Morelli in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/661_remo-morelli.jpg
+  alt_text: Ritratto del calciatore Remo Morelli in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/remo-morelli
+- remo-morelli
+- tesserati/remo-morelli
+- calciatori/remo-morelli
+birth_date: '1936-09-10'
+birth_place: Nerviano
+citizenship: Italia
 ---
+
 # Remo Morelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Remo Morelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/661_remo-morelli.jpg)
 *Ritratto del calciatore Remo Morelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Remo Morelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Remo Morelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

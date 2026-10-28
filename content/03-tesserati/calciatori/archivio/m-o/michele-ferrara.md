@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/michele-ferrara
+- michele-ferrara
+- tesserati/michele-ferrara
+- calciatori/michele-ferrara
 ---
+
 
 # Michele Ferrara — Scheda Giocatore nel Calcio Catania
 
-**Michele Ferrara** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Michele Ferrara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

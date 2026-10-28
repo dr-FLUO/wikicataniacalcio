@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cristiano-patta
+- cristiano-patta
+- tesserati/cristiano-patta
+- calciatori/cristiano-patta
 ---
+
 
 # Cristiano Patta — Scheda Giocatore nel Calcio Catania
 
-**Cristiano Patta** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Cristiano Patta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

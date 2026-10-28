@@ -15,25 +15,25 @@ catania_periods:
 - 1946-1947
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/cesare-goffi.jpg"
+image: assets/images/allenatori/cesare-goffi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/cesare-goffi.jpg"
-    alt_text: "Ritratto fotografico di Cesare Goffi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/cesare-goffi.jpg
+  alt_text: Ritratto fotografico di Cesare Goffi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-quaranta
 - serie-c
 - fondazione-1946
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Cesare Goffi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Cesare Goffi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Cesare_Goffi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Cesare_Goffi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/cesare-goffi
+- cesare-goffi
+- tesserati/cesare-goffi
+- allenatori/cesare-goffi
+citizenship: Regno d'Italia
+total_appearances: 2
+seasons_count: 4
 ---
+
 # Cesare Goffi
 
 ![Ritratto ufficiale di Cesare Goffi sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/cesare-goffi.jpg)
@@ -76,7 +83,7 @@ Riuscì a condurre il neonato sodalizio a un ottimo sesto posto finale nel giron
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1946-1947\|1946-1947]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1946-1947|1946-1947]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

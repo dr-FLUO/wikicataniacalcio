@@ -14,12 +14,12 @@ tags:
 - andrea-salvadori
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Andrea Salvadori'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Salvadori
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Andrea_Salvadori_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Andrea_Salvadori_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Andrea Salvadori
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-salvadori
+- andrea-salvadori
+- tesserati/andrea-salvadori
+- calciatori/andrea-salvadori
+birth_date: '1961-04-08'
+birth_place: Empoli
+citizenship: Italia
 ---
+
 # Andrea Salvadori — Scheda Giocatore nel Calcio Catania
 
-**Andrea Salvadori** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Andrea Salvadori** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

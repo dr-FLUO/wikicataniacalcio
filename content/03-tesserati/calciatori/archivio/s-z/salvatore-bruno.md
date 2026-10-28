@@ -14,12 +14,12 @@ tags:
 - salvatore-bruno
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Salvatore Bruno'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Salvatore Bruno
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Salvatore_Bruno'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Salvatore_Bruno
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Salvatore Bruno
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/100_salvatore-bruno.jpg
 image_credits:
-- image_path: 'assets/images/players/100_salvatore-bruno.jpg'
-  alt_text: "Ritratto del calciatore Salvatore Bruno in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/100_salvatore-bruno.jpg
+  alt_text: Ritratto del calciatore Salvatore Bruno in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/salvatore-bruno
+- salvatore-bruno
+- tesserati/salvatore-bruno
+- calciatori/salvatore-bruno
+birth_date: '1979-11-09'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Salvatore Bruno — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Salvatore Bruno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/100_salvatore-bruno.jpg)
 *Ritratto del calciatore Salvatore Bruno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Salvatore Bruno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Salvatore Bruno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

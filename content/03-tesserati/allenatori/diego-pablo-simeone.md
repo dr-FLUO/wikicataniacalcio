@@ -1,6 +1,8 @@
 ---
 title: Diego Pablo Simeone — «El Cholo» e la Salvezza Record del 2011 (46 Punti)
-description: 'Biografia e statistiche di Diego Pablo Simeone sulla panchina del Calcio Catania nel 2011: la salvezza record a 46 punti in Serie A e il 4-0 nel derby col Palermo.'
+description: 'Biografia e statistiche di Diego Pablo Simeone sulla panchina del Calcio
+  Catania nel 2011: la salvezza record a 46 punti in Serie A e il 4-0 nel derby col
+  Palermo.'
 slug: 03-tesserati/allenatori/diego-pablo-simeone
 entity_type: allenatore
 status: verified
@@ -21,40 +23,48 @@ tags:
 - derby-di-sicilia
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Diego Pablo Simeone"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Diego Pablo Simeone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Diego_Pablo_Simeone"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Diego_Pablo_Simeone
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Serie A TIM 2010-2011 — Girone di Ritorno Calcio Catania
   publisher: Lega Serie A
   year: 2011
-  reference: 18 panchine in Serie A (7 vittorie, 4 pareggi, 7 sconfitte, 25 punti conquistati)
+  reference: 18 panchine in Serie A (7 vittorie, 4 pareggi, 7 sconfitte, 25 punti
+    conquistati)
 - author: Roberto Quartarone, Alessandro Russo
-  title: 'Quando il Cholo Simeone nacque a Catania: i 130 giorni che cambiarono il Catania e il calcio europeo'
+  title: 'Quando il Cholo Simeone nacque a Catania: i 130 giorni che cambiarono il
+    Catania e il calcio europeo'
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2016
   reference: Analisi tattica e cronistoria del semestre gennaio-maggio 2011
 cover_image: diego-simeone.jpg
-cover_caption: Diego Pablo Simeone («El Cholo»), artefice della salvezza record a 46 punti nella stagione di Serie A 2010-2011.
+cover_caption: Diego Pablo Simeone («El Cholo»), artefice della salvezza record a
+  46 punti nella stagione di Serie A 2010-2011.
 cover_credit: 'Foto: Carlos Delgado · Licenza: CC BY-SA 3.0'
 image_credits:
-- image_path: 'assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp'
-  alt_text: "Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp
+  alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: 'Creative Commons CC BY-SA 4.0 2011'
+  license_type: Creative Commons CC BY-SA 4.0 2011
 - image_path: ../../assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp
-  alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011
+  alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel
+    2011
   author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/allenatori/diego-pablo-simeone
+- diego-pablo-simeone
+- tesserati/diego-pablo-simeone
+- allenatori/diego-pablo-simeone
 ---
+
 ![Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](../../assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp)
 *Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
@@ -81,13 +91,13 @@ Chiuso il campionato al **13º posto con 46 punti** (nuovo record per il Catania
 
 | Data | Giornata | Incontro | Risultato | Marcatori Rossazzurri | Impatto in Classifica |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| **13 febbraio 2011** | 25ª Giornata | **Catania - Lecce** | **3-2** | Silvestre (45'), [[tesserati/calciatori/francesco-lodi\|Lodi]] (80', 85') | Prima vittoria dell'era Simeone al [[stadio/angelo-massimino\|Massimino]]. |
-| **27 febbraio 2011** | 27ª Giornata | **Catania - Genoa** | **2-1** | Maxi López (52'), [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (56') | Rimonta in inferiorità numerica; 1º gol di Bergessio. |
+| **13 febbraio 2011** | 25ª Giornata | **Catania - Lecce** | **3-2** | Silvestre (45'), [[tesserati/calciatori/francesco-lodi|Lodi]] (80', 85') | Prima vittoria dell'era Simeone al [[stadio/angelo-massimino|Massimino]]. |
+| **27 febbraio 2011** | 27ª Giornata | **Catania - Genoa** | **2-1** | Maxi López (52'), [[tesserati/calciatori/gonzalo-bergessio|Bergessio]] (56') | Rimonta in inferiorità numerica; 1º gol di Bergessio. |
 | **13 marzo 2011** | 29ª Giornata | **Catania - Sampdoria** | **1-0** | Llama (75') | Terzo successo casalingo consecutivo. |
-| **3 aprile 2011** | 31ª Giornata | **[[partite/precedenti/palermo\|Catania - Palermo]]** | **4-0** | Balzaretti aut. (48'), [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (61'), Ledesma (67'), Pesce (77') | **Record storico interno nel Derby di Sicilia.** |
-| **23 aprile 2011** | 34ª Giornata | **Juventus - Catania** | **2-2** | Gómez (81'), [[tesserati/calciatori/francesco-lodi\|Lodi]] (95') | Rimonta da 2-0 a 2-2 allo Stadio Olimpico di Torino. |
-| **8 maggio 2011** | 36ª Giornata | **Catania - Cagliari** | **2-0** | Silvestre (78'), [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (82') | **Salvezza matematica** con due turni d'anticipo. |
-| **15 maggio 2011** | 37ª Giornata | **Catania - Roma** | **2-1** | [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (78'), Gómez (95') | Nuovo **record di 46 punti** in Serie A a 20 squadre. |
+| **3 aprile 2011** | 31ª Giornata | **[[partite/precedenti/palermo|Catania - Palermo]]** | **4-0** | Balzaretti aut. (48'), [[tesserati/calciatori/gonzalo-bergessio|Bergessio]] (61'), Ledesma (67'), Pesce (77') | **Record storico interno nel Derby di Sicilia.** |
+| **23 aprile 2011** | 34ª Giornata | **Juventus - Catania** | **2-2** | Gómez (81'), [[tesserati/calciatori/francesco-lodi|Lodi]] (95') | Rimonta da 2-0 a 2-2 allo Stadio Olimpico di Torino. |
+| **8 maggio 2011** | 36ª Giornata | **Catania - Cagliari** | **2-0** | Silvestre (78'), [[tesserati/calciatori/gonzalo-bergessio|Bergessio]] (82') | **Salvezza matematica** con due turni d'anticipo. |
+| **15 maggio 2011** | 37ª Giornata | **Catania - Roma** | **2-1** | [[tesserati/calciatori/gonzalo-bergessio|Bergessio]] (78'), Gómez (95') | Nuovo **record di 46 punti** in Serie A a 20 squadre. |
 
 
 ---

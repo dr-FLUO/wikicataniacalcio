@@ -14,12 +14,12 @@ tags:
 - fabio-sciacca
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabio Sciacca'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabio Sciacca
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabio_Sciacca'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabio_Sciacca
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabio  Sciacca
   publisher: calciocatania.com
@@ -33,21 +33,26 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/25_fabio--sciacca.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/fabio-sciacca.jpg'
-  alt_text: "Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/fabio-sciacca.jpg
+  alt_text: 'Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/fabio-sciacca
+- fabio-sciacca
+- tesserati/fabio-sciacca
+- calciatori/fabio-sciacca
 ---
+
 # Fabio  Sciacca — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/fabio-sciacca.jpg)
 *Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Fabio  Sciacca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabio  Sciacca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

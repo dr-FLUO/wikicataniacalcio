@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rocco-frazzetto
+- rocco-frazzetto
+- tesserati/rocco-frazzetto
+- calciatori/rocco-frazzetto
 ---
+
 
 # Rocco Frazzetto — Scheda Giocatore nel Calcio Catania
 
-**Rocco Frazzetto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Rocco Frazzetto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -1,50 +1,56 @@
 ---
-title: "Carlo Ravizzoli — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Carlo Ravizzoli, attaccante del Calcio Catania con 55 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/p-r/carlo-ravizzoli"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1914-04-28"
-birth_place: "Modena, Italia"
-death_date: "1989-08-20"
-nationality: "Italia"
+title: Carlo Ravizzoli — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Carlo Ravizzoli, attaccante
+  del Calcio Catania con 55 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/p-r/carlo-ravizzoli
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1914-04-28'
+birth_place: Modena, Italia
+death_date: '1989-08-20'
+nationality: Italia
 total_appearances: 55
 seasons_count: 2
 tags:
-  - "calciatori"
-  - "carlo-ravizzoli"
-  - "attaccante"
+- calciatori
+- carlo-ravizzoli
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Carlo Ravizzoli"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Carlo_Ravizzoli"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/carlo-ravizzoli.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Ravizzoli
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Carlo_Ravizzoli
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/carlo-ravizzoli.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/carlo-ravizzoli.jpg"
-    alt_text: "Ritratto fotografico di Carlo Ravizzoli calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/carlo-ravizzoli.jpg
+  alt_text: Ritratto fotografico di Carlo Ravizzoli calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/carlo-ravizzoli"
-  - "carlo-ravizzoli"
+- tesserati/calciatori/carlo-ravizzoli
+- carlo-ravizzoli
+- tesserati/carlo-ravizzoli
+- calciatori/carlo-ravizzoli
+citizenship: Regno d'Italia
 ---
+
 # Carlo Ravizzoli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Carlo Ravizzoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/carlo-ravizzoli.jpg)
 *Ritratto del calciatore Carlo Ravizzoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Carlo Ravizzoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Carlo Ravizzoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 

@@ -14,12 +14,12 @@ tags:
 - ottorino-bossi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ottorino Bossi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ottorino Bossi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ottorino_Bossi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ottorino_Bossi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ottorino Bossi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ottorino-bossi
+- ottorino-bossi
+- tesserati/ottorino-bossi
+- calciatori/ottorino-bossi
+birth_date: '1926-05-13'
+birth_place: Sant'Angelo Lodigiano
+citizenship: Regno d'Italia
 ---
+
 # Ottorino Bossi — Scheda Giocatore nel Calcio Catania
 
-**Ottorino Bossi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ottorino Bossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

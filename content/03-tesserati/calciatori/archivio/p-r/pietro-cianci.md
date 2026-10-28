@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pietro-cianci
+- pietro-cianci
+- tesserati/pietro-cianci
+- calciatori/pietro-cianci
 ---
+
 
 # Pietro Cianci — Scheda Giocatore nel Calcio Catania
 
-**Pietro Cianci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Pietro Cianci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

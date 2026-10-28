@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carmelo-bonanno
+- carmelo-bonanno
+- tesserati/carmelo-bonanno
+- calciatori/carmelo-bonanno
 ---
+
 
 # Carmelo Bonanno — Scheda Giocatore nel Calcio Catania
 
-**Carmelo Bonanno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Carmelo Bonanno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

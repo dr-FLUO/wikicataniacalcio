@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luca-di-gregorio
+- luca-di-gregorio
+- tesserati/luca-di-gregorio
+- calciatori/luca-di-gregorio
 ---
+
 
 # Luca Di Gregorio — Scheda Giocatore nel Calcio Catania
 
-**Luca Di Gregorio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luca Di Gregorio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

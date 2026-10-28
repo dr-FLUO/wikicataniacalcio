@@ -1,40 +1,46 @@
 ---
-title: "Emiliano Tortolano — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Emiliano Tortolano, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/emiliano-tortolano"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1990-05-22"
-birth_place: "Roma"
-death_date: ""
-nationality: "Italia"
+title: Emiliano Tortolano — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Emiliano Tortolano, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/emiliano-tortolano
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1990-05-22'
+birth_place: Roma
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "emiliano-tortolano"
-  - "centrocampista"
+- calciatori
+- emiliano-tortolano
+- centrocampista
 sources:
-  - author: "Wikidata Contributors"
-    title: "Scheda Biografica Entità Q5371725 (Emiliano Tortolano)"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://www.wikidata.org/wiki/Q5371725"
-    reference: "Registro anagrafico e identificativo sportivo internazionale"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikidata Contributors
+  title: Scheda Biografica Entità Q5371725 (Emiliano Tortolano)
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://www.wikidata.org/wiki/Q5371725
+  reference: Registro anagrafico e identificativo sportivo internazionale
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/emiliano-tortolano"
-  - "emiliano-tortolano"
+- tesserati/calciatori/emiliano-tortolano
+- emiliano-tortolano
+- tesserati/emiliano-tortolano
+- calciatori/emiliano-tortolano
+citizenship: Italia
 ---
+
 # Emiliano Tortolano — Scheda Giocatore nel Calcio Catania
 
-**Emiliano Tortolano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Emiliano Tortolano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1990-05-22 — Roma |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

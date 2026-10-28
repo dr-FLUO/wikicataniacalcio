@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/dario-pellegrino
+- dario-pellegrino
+- tesserati/dario-pellegrino
+- calciatori/dario-pellegrino
 ---
+
 
 # Dario Pellegrino — Scheda Giocatore nel Calcio Catania
 
-**Dario Pellegrino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Dario Pellegrino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

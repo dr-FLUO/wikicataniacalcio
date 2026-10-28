@@ -14,12 +14,12 @@ tags:
 - davide-pellegrini
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Davide Pellegrini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Davide Pellegrini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Davide_Pellegrini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Davide_Pellegrini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Davide Pellegrini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/davide-pellegrini
+- davide-pellegrini
+- tesserati/davide-pellegrini
+- calciatori/davide-pellegrini
+birth_date: '1966-01-10'
+birth_place: Varese
+citizenship: Italia
 ---
+
 # Davide Pellegrini — Scheda Giocatore nel Calcio Catania
 
-**Davide Pellegrini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Davide Pellegrini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-coppa
+- marco-coppa
+- tesserati/marco-coppa
+- calciatori/marco-coppa
 ---
+
 
 # Marco Coppa — Scheda Giocatore nel Calcio Catania
 
-**Marco Coppa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Marco Coppa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

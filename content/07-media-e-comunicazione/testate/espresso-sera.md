@@ -48,7 +48,7 @@ Attivo a Catania tra il **1956** e il **1992**, ***Espresso Sera*** è stato uno
 Prima della diffusione capillare delle televisioni private e di Internet, *Espresso Sera* rappresentava l'unico mezzo per conoscere i risultati e le cronache complete delle partite pomeridiane del Calcio Catania poche ore dopo il fischio finale:
 
 * Le rotative dello stabilimento tipografico di Catania andavano in stampa tra le 17:30 e le 18:00 della domenica.
-* Gli strilloni distribuivano i fascicoli ancora freschi d'inchiostro nei chioschi di Piazza Duomo, Piazza Stesicoro, Corso Sicilia e direttamente all'uscita dello [[stadio/angelo-massimino\|Stadio Cibali]].
+* Gli strilloni distribuivano i fascicoli ancora freschi d'inchiostro nei chioschi di Piazza Duomo, Piazza Stesicoro, Corso Sicilia e direttamente all'uscita dello [[stadio/angelo-massimino|Stadio Cibali]].
 * Le celebri locandine gialle appese alle edicole cittadine divennero un tratto distintivo della liturgia calcistica domenicale etnea.
 
 ---
@@ -64,11 +64,11 @@ La pagina più memorabile nella storia della testata fu scritta nel **giugno del
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia\|La Sicilia: Il quotidiano fondatore dell'informazione etnea]]
-* [[stagioni/1982-1983\|La Stagione 1982-1983 e la promozione di Roma]]
-* [[tesserati/calciatori/aldo-cantarutti\|Aldo Cantarutti: Il centravanti del trionfo all'Olimpico]]
-* [[societa/presidenti/angelo-massimino\|Angelo Massimino e gli anni d'oro della Serie B]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/la-sicilia|La Sicilia: Il quotidiano fondatore dell'informazione etnea]]
+* [[stagioni/1982-1983|La Stagione 1982-1983 e la promozione di Roma]]
+* [[tesserati/calciatori/aldo-cantarutti|Aldo Cantarutti: Il centravanti del trionfo all'Olimpico]]
+* [[societa/presidenti/angelo-massimino|Angelo Massimino e gli anni d'oro della Serie B]]
 
 ---
 

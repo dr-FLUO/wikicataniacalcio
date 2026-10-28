@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-di-noia
+- giovanni-di-noia
+- tesserati/giovanni-di-noia
+- calciatori/giovanni-di-noia
 ---
+
 
 # Giovanni Di Noia — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Di Noia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Di Noia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

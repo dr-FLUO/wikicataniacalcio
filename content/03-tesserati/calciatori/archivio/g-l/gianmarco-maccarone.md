@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianmarco-maccarone
+- gianmarco-maccarone
+- tesserati/gianmarco-maccarone
+- calciatori/gianmarco-maccarone
 ---
+
 
 # Gianmarco Maccarone — Scheda Giocatore nel Calcio Catania
 
-**Gianmarco Maccarone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gianmarco Maccarone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

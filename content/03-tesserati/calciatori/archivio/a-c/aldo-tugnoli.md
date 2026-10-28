@@ -1,40 +1,46 @@
 ---
-title: "Aldo Tugnoli — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Aldo Tugnoli, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/a-c/aldo-tugnoli"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1919-11-24"
-birth_place: "San Giorgio di Piano"
-death_date: ""
-nationality: "Italia"
+title: Aldo Tugnoli — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Aldo Tugnoli, difensore
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/a-c/aldo-tugnoli
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1919-11-24'
+birth_place: San Giorgio di Piano
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "aldo-tugnoli"
-  - "difensore"
+- calciatori
+- aldo-tugnoli
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Aldo Tugnoli"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Aldo_Tugnoli"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Tugnoli
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Aldo_Tugnoli
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/aldo-tugnoli"
-  - "aldo-tugnoli"
+- tesserati/calciatori/aldo-tugnoli
+- aldo-tugnoli
+- tesserati/aldo-tugnoli
+- calciatori/aldo-tugnoli
+citizenship: Italia
 ---
+
 # Aldo Tugnoli — Scheda Giocatore nel Calcio Catania
 
-**Aldo Tugnoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Aldo Tugnoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1919-11-24 — San Giorgio di Piano |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -1,40 +1,46 @@
 ---
-title: "Marcello Gazzola — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Marcello Gazzola, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/m-o/marcello-gazzola"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1985-04-03"
-birth_place: "Borgo Val di Taro"
-death_date: ""
-nationality: "Italia"
+title: Marcello Gazzola — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Marcello Gazzola, difensore
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/m-o/marcello-gazzola
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1985-04-03'
+birth_place: Borgo Val di Taro
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "marcello-gazzola"
-  - "difensore"
+- calciatori
+- marcello-gazzola
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Marcello Gazzola"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Marcello_Gazzola"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Marcello Gazzola
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Marcello_Gazzola
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/marcello-gazzola"
-  - "marcello-gazzola"
+- tesserati/calciatori/marcello-gazzola
+- marcello-gazzola
+- tesserati/marcello-gazzola
+- calciatori/marcello-gazzola
+citizenship: Italia
 ---
+
 # Marcello Gazzola — Scheda Giocatore nel Calcio Catania
 
-**Marcello Gazzola** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Marcello Gazzola** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1985-04-03 — Borgo Val di Taro |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

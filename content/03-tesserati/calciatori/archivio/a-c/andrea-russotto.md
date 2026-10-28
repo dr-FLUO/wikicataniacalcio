@@ -14,12 +14,12 @@ tags:
 - andrea-russotto
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Andrea Russotto'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Russotto
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Andrea_Russotto'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Andrea_Russotto
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Andrea Russotto
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/868_andrea-russotto.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/andrea-russotto.jpg'
-  alt_text: "Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/andrea-russotto.jpg
+  alt_text: 'Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/andrea-russotto
+- andrea-russotto
+- tesserati/andrea-russotto
+- calciatori/andrea-russotto
+birth_date: '1988-05-25'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Andrea Russotto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/andrea-russotto.jpg)
 *Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Andrea Russotto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Andrea Russotto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

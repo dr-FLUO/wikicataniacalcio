@@ -14,12 +14,12 @@ tags:
 - amidu-salifu
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Amidu Salifu'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Amidu Salifu
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Amidu_Salifu'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Amidu_Salifu
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Amidu Salifu
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/834_amidu-salifu.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/amidu-salifu.jpg'
-  alt_text: "Ritratto ufficiale di Amidu Salifu — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/amidu-salifu.jpg
+  alt_text: 'Ritratto ufficiale di Amidu Salifu — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/amidu-salifu
+- amidu-salifu
+- tesserati/amidu-salifu
+- calciatori/amidu-salifu
+birth_date: '1992-09-20'
+birth_place: Accra
+citizenship: Ghana
 ---
+
 # Amidu Salifu — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Amidu Salifu — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/amidu-salifu.jpg)
 *Ritratto ufficiale di Amidu Salifu — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Amidu Salifu — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Amidu Salifu** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Amidu Salifu** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

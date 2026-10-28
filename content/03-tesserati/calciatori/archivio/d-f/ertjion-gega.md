@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ertjion-gega
+- ertjion-gega
+- tesserati/ertjion-gega
+- calciatori/ertjion-gega
 ---
+
 
 # Ertjion Gega — Scheda Giocatore nel Calcio Catania
 
-**Ertjion Gega** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ertjion Gega** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

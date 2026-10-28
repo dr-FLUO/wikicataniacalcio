@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/concetto-la-rosa
+- concetto-la-rosa
+- tesserati/concetto-la-rosa
+- calciatori/concetto-la-rosa
 ---
+
 
 # Concetto La Rosa — Scheda Giocatore nel Calcio Catania
 
-**Concetto La Rosa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Concetto La Rosa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

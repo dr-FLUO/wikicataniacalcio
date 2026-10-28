@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ferruccio-bonvini
+- ferruccio-bonvini
+- tesserati/ferruccio-bonvini
+- calciatori/ferruccio-bonvini
 ---
+
 
 # Ferruccio Bonvini — Scheda Giocatore nel Calcio Catania
 
-**Ferruccio Bonvini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ferruccio Bonvini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

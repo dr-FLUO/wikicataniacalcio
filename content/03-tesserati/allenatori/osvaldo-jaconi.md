@@ -14,25 +14,25 @@ catania_periods:
 - 1987-1988
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/osvaldo-jaconi.jpg"
+image: assets/images/allenatori/osvaldo-jaconi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/osvaldo-jaconi.jpg"
-    alt_text: "Ritratto fotografico di Osvaldo Jaconi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/osvaldo-jaconi.jpg
+  alt_text: Ritratto fotografico di Osvaldo Jaconi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-ottanta
 - serie-c1
 - re-delle-promozioni
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Osvaldo Jaconi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Osvaldo Jaconi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Osvaldo_Jaconi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Osvaldo_Jaconi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/osvaldo-jaconi
+- osvaldo-jaconi
+- tesserati/osvaldo-jaconi
+- allenatori/osvaldo-jaconi
 ---
+
 
 
 # Osvaldo Jaconi
@@ -77,7 +81,7 @@ Avviò la ricostruzione tecnica del gruppo etneo dopo la retrocessione dalla Ser
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1987-1988\|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1987-1988|1987-1988]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

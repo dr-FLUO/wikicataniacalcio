@@ -52,7 +52,7 @@ Considerata all'unanimità l'**opera omnia definitiva** sul calcio rossazzurro:
 ## 2. "Dal fondo... ai vertici" (1958) e "Dal fondo un traversone" (2003)
 
 La prima opera storiografica organica dedicata al pallone etneo:
-* **Autori**: Carmelo Gennaro e [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]].
+* **Autori**: Carmelo Gennaro e [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]].
 * **Edizione Storica (1958)**: pubblicata da Industrie Grafiche Siciliane in occasione del cinquantenario del calcio catanese (1908-1958). Documenta il periodo pionieristico della Pro Patria, dell'Unione Sportiva Catanese, la genesi della SS Catania nel 1929 e la storica prima promozione in Serie A del 1954.
 * **Edizione Aggiornata (2003 / 2005)**: riedita da Bonanno Editore e A&B Editrice con il titolo *"Dal fondo un traversone. Sessant'anni di Catania calcio"*, ripercorre l'epopea di Carmelo Di Bella, gli anni di Angelo Massimino e la scalata della famiglia Gaucci.
 
@@ -76,10 +76,10 @@ Il giornalista e ricercatore Roberto Quartarone ha firmato fondamentali contribu
 
 ## 5. Collegamenti Correlati
 
-* [[07-media-e-comunicazione/letteratura/index\|Panoramica Bibliografia e Letteratura Storica]]
-* [[07-media-e-comunicazione/letteratura/saggi-e-biografie\|Saggi, Biografie e Memorialistica Rossazzurra]]
-* [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza: Decano del Giornalismo Sportivo Etneo]]
-* [[07-media-e-comunicazione/testate/la-sicilia\|Il Quotidiano La Sicilia e l'Archivio Sportivo]]
+* [[07-media-e-comunicazione/letteratura/index|Panoramica Bibliografia e Letteratura Storica]]
+* [[07-media-e-comunicazione/letteratura/saggi-e-biografie|Saggi, Biografie e Memorialistica Rossazzurra]]
+* [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza: Decano del Giornalismo Sportivo Etneo]]
+* [[07-media-e-comunicazione/testate/la-sicilia|Il Quotidiano La Sicilia e l'Archivio Sportivo]]
 
 ---
 

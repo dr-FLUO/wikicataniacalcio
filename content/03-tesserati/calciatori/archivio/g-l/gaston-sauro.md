@@ -14,12 +14,12 @@ tags:
 - gaston-sauro
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gastón Sauro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gastón Sauro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gast%C3%B3n_Sauro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gast%C3%B3n_Sauro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gaston Sauro
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/842_gaston-sauro.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/gaston-sauro.jpg'
-  alt_text: "Ritratto ufficiale di Gastón Sauro — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/gaston-sauro.jpg
+  alt_text: 'Ritratto ufficiale di Gastón Sauro — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/gaston-sauro
+- gaston-sauro
+- tesserati/gaston-sauro
+- calciatori/gaston-sauro
+birth_date: '1990-02-23'
+birth_place: Rosario
+citizenship: Argentina
 ---
+
 # Gaston Sauro — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Gastón Sauro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gaston-sauro.jpg)
 *Ritratto ufficiale di Gastón Sauro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Gastón Sauro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Gaston Sauro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gaston Sauro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

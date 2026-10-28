@@ -59,8 +59,8 @@ aliases:
 | Stagione / Data | Snodo Storico e Sportivo | Dettaglio |
 | :--- | :--- | :--- |
 | **1969–1970** | Prima promozione in Serie A da Presidente. | Conquistata il 14 giugno 1970 battendo 3-1 la Reggina a Reggio Calabria sotto la guida di Egizio Rubino. |
-| **25 giugno 1983** | Ritorno in Serie A agli spareggi dell'Olimpico di Roma. | Vittoria sul Como (1-0) e pareggio con la Cremonese (0-0) davanti all'esodo di 40.000 tifosi guidati dalla [[tifoseria/curva-sud/falange-d-assalto\|Curva Sud]]. |
-| **Estate 1993** | Vittoria al TAR Catania / CGA e salvataggio della Matricola 11700. | Annullata la revoca dell'affiliazione FIGC; ripartenza dall'Eccellenza Sicilia 1993-1994 con 9.000 spettatori di media al [[stadio/angelo-massimino\|Cibali]]. |
+| **25 giugno 1983** | Ritorno in Serie A agli spareggi dell'Olimpico di Roma. | Vittoria sul Como (1-0) e pareggio con la Cremonese (0-0) davanti all'esodo di 40.000 tifosi guidati dalla [[tifoseria/curva-sud/falange-d-assalto|Curva Sud]]. |
+| **Estate 1993** | Vittoria al TAR Catania / CGA e salvataggio della Matricola 11700. | Annullata la revoca dell'affiliazione FIGC; ripartenza dall'Eccellenza Sicilia 1993-1994 con 9.000 spettatori di media al [[stadio/angelo-massimino|Cibali]]. |
 | **4 marzo 1996** | Tragica scomparsa sull'autostrada Palermo-Catania. | Lutto cittadino a Catania; il 16 giugno 2002 lo stadio comunale gli viene ufficialmente intitolato. |
 
 ---

@@ -14,12 +14,12 @@ tags:
 - gianni-migliorini
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianni Migliorini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianni Migliorini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianni_Migliorini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianni_Migliorini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianni Migliorini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianni-migliorini
+- gianni-migliorini
+- tesserati/gianni-migliorini
+- calciatori/gianni-migliorini
+birth_date: '1972-02-07'
+birth_place: Siena
+citizenship: Italia
 ---
+
 # Gianni Migliorini — Scheda Giocatore nel Calcio Catania
 
-**Gianni Migliorini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gianni Migliorini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonino-pannitteri
+- antonino-pannitteri
+- tesserati/antonino-pannitteri
+- calciatori/antonino-pannitteri
 ---
+
 
 # Antonino Pannitteri — Scheda Giocatore nel Calcio Catania
 
-**Antonino Pannitteri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Antonino Pannitteri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

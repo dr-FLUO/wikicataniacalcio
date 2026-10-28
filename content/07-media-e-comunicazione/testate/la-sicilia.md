@@ -60,28 +60,28 @@ Fondato il **15 marzo 1945** dall'imprenditore Domenico Sanfilippo, il quotidian
 
 ## 1. Dalle Origini agli Anni d'Oro della Serie A
 
-Fin dai primi campionati del dopoguerra del [[societa/1946-club-calcio-catania\|Club Calcio Catania]], la redazione sportiva de *La Sicilia* - guidata per decenni da maestri del giornalismo come [[media/giornalisti/luigi-prestinenza\|Luigi Prestinenza]] e arricchita dalle cronache giovanili di [[media/giornalisti/candido-cannavo\|Candido Cannavò]] - ha svolto un ruolo decisivo nel forgiare l'identità collettiva della tifoseria etnea:
+Fin dai primi campionati del dopoguerra del [[societa/1946-club-calcio-catania|Club Calcio Catania]], la redazione sportiva de *La Sicilia* - guidata per decenni da maestri del giornalismo come [[media/giornalisti/luigi-prestinenza|Luigi Prestinenza]] e arricchita dalle cronache giovanili di [[media/giornalisti/candido-cannavo|Candido Cannavò]] - ha svolto un ruolo decisivo nel forgiare l'identità collettiva della tifoseria etnea:
 
-* **La prima Serie A (1953-1954)**: Il quotidiano celebrò con edizioni speciali la storica cavalcata trionfale della squadra allenata da Piero Andreoli sotto la presidenza di [[societa/presidenti/santi-maimone\|Santi Maimone]].
-* **Il Clamoroso al Cibali (1960-1961)**: Il trionfo per 2-0 del 4 giugno 1961 contro la Grande Inter di Helenio Herrera fu immortalato con titoli a tutta pagina che fecero il giro del mondo, celebrando la formazione guidata da [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]].
+* **La prima Serie A (1953-1954)**: Il quotidiano celebrò con edizioni speciali la storica cavalcata trionfale della squadra allenata da Piero Andreoli sotto la presidenza di [[societa/presidenti/santi-maimone|Santi Maimone]].
+* **Il Clamoroso al Cibali (1960-1961)**: Il trionfo per 2-0 del 4 giugno 1961 contro la Grande Inter di Helenio Herrera fu immortalato con titoli a tutta pagina che fecero il giro del mondo, celebrando la formazione guidata da [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
 
 ---
 
 ## 2. Le Battaglie Civili del 1993 e il Trionfo del 2006
 
-Nei mesi drammatici dell'estate del 1993, a seguito dell'estromissione deliberata dalla FIGC ai danni della società di [[societa/presidenti/angelo-massimino\|Angelo Massimino]], *La Sicilia* offrì una copertura capillare delle manifestazioni di piazza, dei blocchi ferroviari e dei contenziosi legali dinnanzi al TAR e al CGA, costituendo un punto di riferimento informativo per l'intera cittadinanza.
+Nei mesi drammatici dell'estate del 1993, a seguito dell'estromissione deliberata dalla FIGC ai danni della società di [[societa/presidenti/angelo-massimino|Angelo Massimino]], *La Sicilia* offrì una copertura capillare delle manifestazioni di piazza, dei blocchi ferroviari e dei contenziosi legali dinnanzi al TAR e al CGA, costituendo un punto di riferimento informativo per l'intera cittadinanza.
 
-Il **28 maggio 2006**, all'indomani della vittoria per 2-1 contro l'AlbinoLeffe che sancì il ritorno in Serie A dopo ventitré anni di assenza con il tecnico [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]], il giornale pubblicò un'edizione storica con l'editoriale di prima pagina rimasto memorabile intitolato *"Bentornato in Paradiso"*, polverizzando tutti i record di vendite in edicola.
+Il **28 maggio 2006**, all'indomani della vittoria per 2-1 contro l'AlbinoLeffe che sancì il ritorno in Serie A dopo ventitré anni di assenza con il tecnico [[tesserati/allenatori/pasquale-marino|Pasquale Marino]], il giornale pubblicò un'edizione storica con l'editoriale di prima pagina rimasto memorabile intitolato *"Bentornato in Paradiso"*, polverizzando tutti i record di vendite in edicola.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/giornalisti/candido-cannavo\|Candido Cannavò: Da Catania alla direzione della Gazzetta]]
-* [[media/giornalisti/luigi-prestinenza\|Luigi Prestinenza: Decano del giornalismo etneo]]
-* [[partite/1960-1961/catania-inter-2-0\|La Partita Storica: Catania-Inter 2-0 del 1961]]
-* [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella e il Catania degli anni Sessanta]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/giornalisti/candido-cannavo|Candido Cannavò: Da Catania alla direzione della Gazzetta]]
+* [[media/giornalisti/luigi-prestinenza|Luigi Prestinenza: Decano del giornalismo etneo]]
+* [[partite/1960-1961/catania-inter-2-0|La Partita Storica: Catania-Inter 2-0 del 1961]]
+* [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella e il Catania degli anni Sessanta]]
 
 ---
 

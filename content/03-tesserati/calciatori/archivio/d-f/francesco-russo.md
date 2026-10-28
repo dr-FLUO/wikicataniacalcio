@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/217_francesco-russo.jpg
 image_credits:
-- image_path: 'assets/images/players/217_francesco-russo.jpg'
-  alt_text: "Ritratto del calciatore Francesco Russo in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/217_francesco-russo.jpg
+  alt_text: Ritratto del calciatore Francesco Russo in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/francesco-russo
+- francesco-russo
+- tesserati/francesco-russo
+- calciatori/francesco-russo
 ---
+
 # Francesco Russo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Francesco Russo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/217_francesco-russo.jpg)
 *Ritratto del calciatore Francesco Russo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Francesco Russo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco Russo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

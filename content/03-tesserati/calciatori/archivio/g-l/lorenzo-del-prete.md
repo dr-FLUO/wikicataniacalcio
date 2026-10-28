@@ -14,12 +14,12 @@ tags:
 - lorenzo-del-prete
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Lorenzo Del Prete'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lorenzo Del Prete
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Lorenzo_Del_Prete'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Lorenzo_Del_Prete
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Lorenzo Del Prete
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/lorenzo-del-prete
+- lorenzo-del-prete
+- tesserati/lorenzo-del-prete
+- calciatori/lorenzo-del-prete
+birth_date: '1986-01-12'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Lorenzo Del Prete — Scheda Giocatore nel Calcio Catania
 
-**Lorenzo Del Prete** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Lorenzo Del Prete** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

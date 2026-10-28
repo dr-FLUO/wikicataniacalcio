@@ -14,12 +14,12 @@ tags:
 - giovanni-picat-re
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Picat Re'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Picat Re
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Picat_Re'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Picat_Re
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Picat Re
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/565_giovanni-picat-re.jpg
 image_credits:
-- image_path: 'assets/images/players/565_giovanni-picat-re.jpg'
-  alt_text: "Ritratto del calciatore Giovanni Picat Re in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/565_giovanni-picat-re.jpg
+  alt_text: Ritratto del calciatore Giovanni Picat Re in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giovanni-picat-re
+- giovanni-picat-re
+- tesserati/giovanni-picat-re
+- calciatori/giovanni-picat-re
+birth_date: '1947-04-03'
+birth_place: Caselle Torinese
+citizenship: Italia
 ---
+
 # Giovanni Picat Re — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giovanni Picat Re in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/565_giovanni-picat-re.jpg)
 *Ritratto del calciatore Giovanni Picat Re in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giovanni Picat Re** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Picat Re** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

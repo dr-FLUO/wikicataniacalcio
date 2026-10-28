@@ -14,25 +14,25 @@ catania_periods:
 - 1991-1992
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/franco-vannini.jpg"
+image: assets/images/allenatori/franco-vannini.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/franco-vannini.jpg"
-    alt_text: "Ritratto fotografico di Franco Vannini allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/franco-vannini.jpg
+  alt_text: Ritratto fotografico di Franco Vannini allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - serie-c1
 - perugia-dei-miracoli
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Franco Vannini"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco Vannini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Franco_Vannini"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Franco_Vannini
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/franco-vannini
+- franco-vannini
+- tesserati/franco-vannini
+- allenatori/franco-vannini
 ---
+
 
 
 # Franco Vannini
@@ -77,7 +81,7 @@ Condusse i rossazzurri a un onorevole sesto posto finale con 34 punti, proponend
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1991-1992\|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1991-1992|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

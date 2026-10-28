@@ -14,12 +14,12 @@ tags:
 - carlo-facchin
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carlo Facchin'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Facchin
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carlo_Facchin'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carlo_Facchin
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Carlo Facchin
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/632_carlo-facchin.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/carlo-facchin.jpg'
-  alt_text: "Ritratto ufficiale di Carlo Facchin — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/carlo-facchin.jpg
+  alt_text: 'Ritratto ufficiale di Carlo Facchin — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/carlo-facchin
+- carlo-facchin
+- tesserati/carlo-facchin
+- calciatori/carlo-facchin
+birth_date: '1938-08-27'
+birth_place: Portogruaro
+citizenship: Italia
 ---
+
 # Carlo Facchin — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Carlo Facchin — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/carlo-facchin.jpg)
 *Ritratto ufficiale di Carlo Facchin — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Carlo Facchin — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Carlo Facchin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Carlo Facchin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

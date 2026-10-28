@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/scuderi
+- scuderi
+- tesserati/scuderi
+- calciatori/scuderi
 ---
+
 
 # Scuderi — Scheda Giocatore nel Calcio Catania
 
-**Scuderi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Scuderi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

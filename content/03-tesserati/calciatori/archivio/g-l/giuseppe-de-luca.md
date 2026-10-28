@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/960_giuseppe-de-luca.jpg
 image_credits:
-- image_path: 'assets/images/players/960_giuseppe-de-luca.jpg'
-  alt_text: "Ritratto del calciatore Giuseppe De Luca in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/960_giuseppe-de-luca.jpg
+  alt_text: Ritratto del calciatore Giuseppe De Luca in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giuseppe-de-luca
+- giuseppe-de-luca
+- tesserati/giuseppe-de-luca
+- calciatori/giuseppe-de-luca
 ---
+
 # Giuseppe De Luca — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giuseppe De Luca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/960_giuseppe-de-luca.jpg)
 *Ritratto del calciatore Giuseppe De Luca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giuseppe De Luca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giuseppe De Luca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

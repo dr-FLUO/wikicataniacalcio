@@ -14,12 +14,12 @@ tags:
 - bruno-ziz
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Bruno Ziz'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Bruno Ziz
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Bruno_Ziz'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Bruno_Ziz
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Bruno Ziz
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/bruno-ziz
+- bruno-ziz
+- tesserati/bruno-ziz
+- calciatori/bruno-ziz
+birth_date: '1920-08-21'
+birth_place: Pola
+citizenship: Italia
 ---
+
 # Bruno Ziz — Scheda Giocatore nel Calcio Catania
 
-**Bruno Ziz** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Bruno Ziz** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -16,25 +16,25 @@ catania_periods:
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/dino-ballacci.jpg"
+image: assets/images/allenatori/dino-ballacci.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/dino-ballacci.jpg"
-    alt_text: "Ritratto fotografico di Dino Ballacci allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/dino-ballacci.jpg
+  alt_text: Ritratto fotografico di Dino Ballacci allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-sessanta
 - serie-b
 - bologna
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Dino Ballacci"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Dino Ballacci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Dino_Ballacci"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Dino_Ballacci
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/dino-ballacci
+- dino-ballacci
+- tesserati/dino-ballacci
+- allenatori/dino-ballacci
 ---
+
 
 
 # Dino Ballacci
@@ -79,7 +83,7 @@ Impresse alla squadra un carattere indomito e una solidità difensiva proverbial
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1966-1967\|1966-1967]], [[stagioni/1967-1968\|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1966-1967|1966-1967]], [[stagioni/1967-1968|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

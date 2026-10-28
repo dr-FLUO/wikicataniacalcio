@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/tiziano-daposisidoro
+- tiziano-daposisidoro
+- tesserati/tiziano-daposisidoro
+- calciatori/tiziano-daposisidoro
 ---
+
 
 # Tiziano D&apos;Isidoro — Scheda Giocatore nel Calcio Catania
 
-**Tiziano D&apos;Isidoro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Tiziano D&apos;Isidoro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

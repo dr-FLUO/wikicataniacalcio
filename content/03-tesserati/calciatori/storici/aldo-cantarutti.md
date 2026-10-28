@@ -32,12 +32,12 @@ tags:
 - gianni-di-marzio
 - angelo-massimino
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Aldo Cantarutti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Cantarutti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Aldo_Cantarutti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Aldo_Cantarutti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -57,14 +57,20 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Cantarutti-467
 image: assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp'
-  alt_text: "Aldo Cantarutti, bomber degli spareggi promozione del 1983"
-  author_or_archive: "Collezione Figurine Edizioni Panini / Lampo"
+- image_path: assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp
+  alt_text: Aldo Cantarutti, bomber degli spareggi promozione del 1983
+  author_or_archive: Collezione Figurine Edizioni Panini / Lampo
   year: 1980
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/aldo-cantarutti
+- aldo-cantarutti
+- tesserati/aldo-cantarutti
+- calciatori/aldo-cantarutti
+citizenship: Italia
+seasons_count: 3
 ---
+
 ![Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp)
 *Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 

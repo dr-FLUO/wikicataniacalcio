@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pantaleo-pomo
+- pantaleo-pomo
+- tesserati/pantaleo-pomo
+- calciatori/pantaleo-pomo
 ---
+
 
 # Pantaleo Pomo — Scheda Giocatore nel Calcio Catania
 
-**Pantaleo Pomo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Pantaleo Pomo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -1,40 +1,46 @@
 ---
-title: "Mirko Gruden — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Mirko Gruden, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/m-o/mirko-gruden"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1911-06-22"
-birth_place: "Monfalcone"
-death_date: "1967-09-12"
-nationality: "Italia"
+title: Mirko Gruden — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Mirko Gruden, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/m-o/mirko-gruden
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1911-06-22'
+birth_place: Monfalcone
+death_date: '1967-09-12'
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "mirko-gruden"
-  - "centrocampista"
+- calciatori
+- mirko-gruden
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Mirko Gruden"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Mirko_Gruden"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mirko Gruden
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Mirko_Gruden
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/mirko-gruden"
-  - "mirko-gruden"
+- tesserati/calciatori/mirko-gruden
+- mirko-gruden
+- tesserati/mirko-gruden
+- calciatori/mirko-gruden
+citizenship: Italia
 ---
+
 # Mirko Gruden — Scheda Giocatore nel Calcio Catania
 
-**Mirko Gruden** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mirko Gruden** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1911-06-22 — Monfalcone |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

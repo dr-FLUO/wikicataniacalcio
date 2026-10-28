@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-finocchiaro
+- francesco-finocchiaro
+- tesserati/francesco-finocchiaro
+- calciatori/francesco-finocchiaro
 ---
+
 
 # Francesco Finocchiaro — Scheda Giocatore nel Calcio Catania
 
-**Francesco Finocchiaro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Francesco Finocchiaro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

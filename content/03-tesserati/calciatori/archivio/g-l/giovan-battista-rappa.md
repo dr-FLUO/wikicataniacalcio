@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovan-battista-rappa
+- giovan-battista-rappa
+- tesserati/giovan-battista-rappa
+- calciatori/giovan-battista-rappa
 ---
+
 
 # Giovan Battista Rappa — Scheda Giocatore nel Calcio Catania
 
-**Giovan Battista Rappa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovan Battista Rappa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

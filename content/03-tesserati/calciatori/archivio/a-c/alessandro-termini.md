@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/193_alessandro-termini.jpg
 image_credits:
-- image_path: 'assets/images/players/193_alessandro-termini.jpg'
-  alt_text: "Ritratto del calciatore Alessandro Termini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/193_alessandro-termini.jpg
+  alt_text: Ritratto del calciatore Alessandro Termini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/alessandro-termini
+- alessandro-termini
+- tesserati/alessandro-termini
+- calciatori/alessandro-termini
 ---
+
 # Alessandro Termini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alessandro Termini in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/players/193_alessandro-termini.jpg)
 *Ritratto del calciatore Alessandro Termini in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
-**Alessandro Termini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Termini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

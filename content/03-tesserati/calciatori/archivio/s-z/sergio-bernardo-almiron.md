@@ -14,12 +14,12 @@ tags:
 - sergio-bernardo-almiron
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sergio Bernardo Almirón'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sergio Bernardo Almirón
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sergio_Bernardo_Almir%C3%B3n'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sergio_Bernardo_Almir%C3%B3n
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sergio Bernardo Almiron
   publisher: calciocatania.com
@@ -33,21 +33,30 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/34_sergio-bernardo-almiron.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/sergio-bernardo-almiron.jpg'
-  alt_text: "Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors del Calcio Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/sergio-bernardo-almiron.jpg
+  alt_text: 'Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors del Calcio
+    Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/sergio-bernardo-almiron
+- sergio-bernardo-almiron
+- tesserati/sergio-bernardo-almiron
+- calciatori/sergio-bernardo-almiron
+birth_date: '1980-11-07'
+birth_place: Rosario
+citizenship: Argentina
 ---
+
 # Sergio Bernardo Almiron — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/sergio-bernardo-almiron.jpg)
 *Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Sergio Bernardo Almiron** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Sergio Bernardo Almiron** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -31,12 +31,12 @@ tags:
 - gianni-di-marzio
 - angelo-massimino
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Ranieri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Ranieri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Ranieri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Ranieri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -56,14 +56,21 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Ranieri-478
 image: assets/images/calciatori/figurine/claudio-ranieri-calcio-catania-figurina-panini-1982-1983.webp
 image_credits:
-- image_path: '/assets/images/calciatori/claudio-ranieri.jpg'
-  alt_text: "Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/claudio-ranieri.jpg
+  alt_text: 'Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/claudio-ranieri
+- claudio-ranieri
+- tesserati/claudio-ranieri
+- calciatori/claudio-ranieri
+citizenship: Italia
+seasons_count: 2
 ---
+
 ![Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/claudio-ranieri.jpg)
 *Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*

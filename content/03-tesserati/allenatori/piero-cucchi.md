@@ -14,13 +14,13 @@ catania_periods:
 - 1998-1999
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/piero-cucchi.jpg"
+image: assets/images/allenatori/piero-cucchi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/piero-cucchi.jpg"
-    alt_text: "Ritratto fotografico di Piero Cucchi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/piero-cucchi.jpg
+  alt_text: Ritratto fotografico di Piero Cucchi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
@@ -29,12 +29,12 @@ tags:
 - campioni
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Piero Cucchi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Piero Cucchi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Piero_Cucchi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Piero_Cucchi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/piero-cucchi
+- piero-cucchi
+- tesserati/piero-cucchi
+- allenatori/piero-cucchi
 ---
+
 
 
 # Piero Cucchi
@@ -79,7 +83,7 @@ Con un calcio cinico, potente ed entusiasmante guidato dai gol di Cicconi e Pass
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1998-1999\|1998-1999]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1998-1999|1998-1999]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

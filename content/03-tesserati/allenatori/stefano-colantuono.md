@@ -14,25 +14,25 @@ catania_periods:
 - 2003-2004
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: "assets/images/allenatori/stefano-colantuono.jpg"
+image: assets/images/allenatori/stefano-colantuono.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/stefano-colantuono.jpg"
-    alt_text: "Ritratto fotografico di Stefano Colantuono allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/stefano-colantuono.jpg
+  alt_text: Ritratto fotografico di Stefano Colantuono allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
 - serie-b
 - era-gaucci
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Stefano Colantuono"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Stefano Colantuono
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Stefano_Colantuono"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Stefano_Colantuono
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/stefano-colantuono
+- stefano-colantuono
+- tesserati/stefano-colantuono
+- allenatori/stefano-colantuono
 ---
+
 
 
 # Stefano Colantuono
@@ -77,7 +81,7 @@ Conquistò 67 punti in 46 partite chiudendo nella parte sinistra della classific
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2003-2004\|2003-2004]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2003-2004|2003-2004]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/tommaso-nasini
+- tommaso-nasini
+- tesserati/tommaso-nasini
+- calciatori/tommaso-nasini
 ---
+
 
 # Tommaso Nasini — Scheda Giocatore nel Calcio Catania
 
-**Tommaso Nasini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Tommaso Nasini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

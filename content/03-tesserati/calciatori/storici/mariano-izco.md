@@ -29,12 +29,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mariano Izco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mariano Izco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mariano_Izco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mariano_Izco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -58,13 +58,19 @@ cover_caption: Mariano Julio Izco, 280 presenze e capitano nel periodo d'oro del
 cover_credit: 'Foto: Emi1929 · Licenza: CC BY-SA 4.0'
 aliases:
 - tesserati/calciatori/mariano-izco
+- mariano-izco
+- tesserati/mariano-izco
+- calciatori/mariano-izco
 image_credits:
-- image_path: '/assets/images/calciatori/mariano-izco.jpg'
-  alt_text: "Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/mariano-izco.jpg
+  alt_text: 'Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Mariano Izco
 
 ![Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/mariano-izco.jpg)
@@ -90,15 +96,15 @@ Lasciata Catania nell'estate 2014 dopo la retrocessione al termine della [[stagi
 
 | Stagione | Società / Matricola | Categoria | Allenatore Principale | Presenze Camp. (PO) | Reti Camp. | Coppa Italia | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 18 | 0 | 0 | **18 (0)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 0 | 5 | **37 (0)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | W. Zenga | 28 | 0 | 2 | **30 (0)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | G. Atzori, S. Mihajlović | 29 | 1 | 3 | **32 (1)** |
-| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | M. Giampaolo, [[tesserati/allenatori/diego-pablo-simeone\|D. Simeone]] | 20 | 0 | 2 | **22 (0)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | V. Montella | 26 | 1 | 1 | **27 (1)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|Rolando Maran]] | 35 | 2 | 3 | **38 (2)** |
-| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|R. Maran]], L. De Canio, M. Pellegrino | 30 | 2 | 1 | **31 (2)** |
-| **2020-2021** | [[societa/2020-sigi-e-fallimento\|Calcio Catania S.p.A.]] (11700) | Serie C | G. Raffaele, F. Baldini | 16 (+1 PO) | 0 | 0 | **17 (0)** |
+| **2006-2007** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] | 18 | 0 | 0 | **18 (0)** |
+| **2007-2008** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 0 | 5 | **37 (0)** |
+| **2008-2009** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | W. Zenga | 28 | 0 | 2 | **30 (0)** |
+| **2009-2010** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | G. Atzori, S. Mihajlović | 29 | 1 | 3 | **32 (1)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | M. Giampaolo, [[tesserati/allenatori/diego-pablo-simeone|D. Simeone]] | 20 | 0 | 2 | **22 (0)** |
+| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | V. Montella | 26 | 1 | 1 | **27 (1)** |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|Rolando Maran]] | 35 | 2 | 3 | **38 (2)** |
+| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran|R. Maran]], L. De Canio, M. Pellegrino | 30 | 2 | 1 | **31 (2)** |
+| **2020-2021** | [[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A.]] (11700) | Serie C | G. Raffaele, F. Baldini | 16 (+1 PO) | 0 | 0 | **17 (0)** |
 | **Totale** | **9 Stagioni** | **Serie A / C** | — | **234 (+1 PO) / 262** | **6** | **17** | **280 (6)** |
 
 > [!info] Nota Statistica sulle Presenze Complessive

@@ -1,50 +1,56 @@
 ---
-title: "Ezequiel Schelotto — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Ezequiel Schelotto, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/ezequiel-schelotto"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1989-05-23"
-birth_place: "Buenos Aires"
-death_date: ""
-nationality: "Argentina"
+title: Ezequiel Schelotto — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Ezequiel Schelotto, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/ezequiel-schelotto
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1989-05-23'
+birth_place: Buenos Aires
+death_date: ''
+nationality: Argentina
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "ezequiel-schelotto"
-  - "centrocampista"
+- calciatori
+- ezequiel-schelotto
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Ezequiel Schelotto"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Ezequiel_Schelotto"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/ezequiel-schelotto.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ezequiel Schelotto
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Ezequiel_Schelotto
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/ezequiel-schelotto.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/ezequiel-schelotto.jpg"
-    alt_text: "Ritratto fotografico di Ezequiel Schelotto calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/ezequiel-schelotto.jpg
+  alt_text: Ritratto fotografico di Ezequiel Schelotto calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/ezequiel-schelotto"
-  - "ezequiel-schelotto"
+- tesserati/calciatori/ezequiel-schelotto
+- ezequiel-schelotto
+- tesserati/ezequiel-schelotto
+- calciatori/ezequiel-schelotto
+citizenship: Argentina
 ---
+
 # Ezequiel Schelotto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ezequiel Schelotto in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/ezequiel-schelotto.jpg)
 *Ritratto del calciatore Ezequiel Schelotto in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Ezequiel Schelotto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ezequiel Schelotto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1989-05-23 — Buenos Aires |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

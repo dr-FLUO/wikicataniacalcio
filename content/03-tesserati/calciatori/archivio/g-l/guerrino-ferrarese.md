@@ -1,40 +1,46 @@
 ---
-title: "Guerrino Ferrarese — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Guerrino Ferrarese, portiere del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/g-l/guerrino-ferrarese"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Portiere"
-birth_date: "1910-01-09"
-birth_place: "Verona"
-death_date: ""
-nationality: "Italia"
+title: Guerrino Ferrarese — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Guerrino Ferrarese, portiere
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/g-l/guerrino-ferrarese
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Portiere
+birth_date: '1910-01-09'
+birth_place: Verona
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "guerrino-ferrarese"
-  - "portiere"
+- calciatori
+- guerrino-ferrarese
+- portiere
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Guerrino Ferrarese"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Guerrino_Ferrarese"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guerrino Ferrarese
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Guerrino_Ferrarese
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/guerrino-ferrarese"
-  - "guerrino-ferrarese"
+- tesserati/calciatori/guerrino-ferrarese
+- guerrino-ferrarese
+- tesserati/guerrino-ferrarese
+- calciatori/guerrino-ferrarese
+citizenship: Italia
 ---
+
 # Guerrino Ferrarese — Scheda Giocatore nel Calcio Catania
 
-**Guerrino Ferrarese** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Guerrino Ferrarese** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Portiere |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1910-01-09 — Verona |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

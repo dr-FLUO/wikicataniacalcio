@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianni-orfei
+- gianni-orfei
+- tesserati/gianni-orfei
+- calciatori/gianni-orfei
 ---
+
 
 # Gianni Orfei — Scheda Giocatore nel Calcio Catania
 
-**Gianni Orfei** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gianni Orfei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

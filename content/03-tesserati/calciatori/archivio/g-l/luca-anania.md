@@ -14,12 +14,12 @@ tags:
 - luca-anania
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luca Anania'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luca Anania
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luca_Anania'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luca_Anania
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luca Anania
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/848_luca-anania.jpg
 image_credits:
-- image_path: 'assets/images/players/848_luca-anania.jpg'
-  alt_text: "Ritratto del calciatore Luca Anania in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/848_luca-anania.jpg
+  alt_text: Ritratto del calciatore Luca Anania in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/luca-anania
+- luca-anania
+- tesserati/luca-anania
+- calciatori/luca-anania
+birth_date: '1980-06-21'
+birth_place: Milano
+citizenship: Italia
 ---
+
 # Luca Anania — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luca Anania in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/848_luca-anania.jpg)
 *Ritratto del calciatore Luca Anania in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Luca Anania** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Luca Anania** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

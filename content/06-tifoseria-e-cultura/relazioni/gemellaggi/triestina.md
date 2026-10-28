@@ -61,11 +61,11 @@ Negli anni successivi il gemellaggio è proseguito ben oltre la presenza delle d
 
 | Anno / Periodo | Luogo ed Evento | Significato Simbolico nella Storia del Gemellaggio |
 | :--- | :--- | :--- |
-| **Autunno 2004** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]] (Catania-Triestina, Serie B) | Striscione della [[tifoseria/curva-nord/index\|Curva Nord]] per il 50º anniversario di Trieste italiana e giro di campo dei capi ultras. |
+| **Autunno 2004** | [[stadio/angelo-massimino|Stadio Angelo Massimino]] (Catania-Triestina, Serie B) | Striscione della [[tifoseria/curva-nord/index|Curva Nord]] per il 50º anniversario di Trieste italiana e giro di campo dei capi ultras. |
 | **Primavera 2005** | Stadio Nereo Rocco di Trieste (Triestina-Catania, Serie B) | Ricambio dell'ospitalità a Trieste con corteo comune e festa sugli spalti della *Curva Furlan*. |
-| **[[stagioni/2005-2006\|2005-2006]]** | Doppia sfida cadetta nell'anno della promozione etnea in Serie A | Consolidamento definitivo del patto di fratellanza tra [[tifoseria/curva-sud/index\|Curva Sud]], [[tifoseria/curva-nord/index\|Curva Nord]] e *Curva Furlan*. |
-| **Febbraio 2017** | Trieste e Catania — Scomparsa di [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]] | Omaggio ufficiale degli ultras alabardati alla memoria dello storico fondatore della [[tifoseria/curva-sud/falange-d-assalto\|Falange d'Assalto]]. |
-| **2022–2024** | Trasferte del Catania nel Nord-Est (tra cui la finale d'andata di [[partite/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C 2024]] a Padova) | Presenza e supporto logistico di delegazioni triestine al fianco dei gruppi catanesi nelle gare disputate in Triveneto. |
+| **[[stagioni/2005-2006|2005-2006]]** | Doppia sfida cadetta nell'anno della promozione etnea in Serie A | Consolidamento definitivo del patto di fratellanza tra [[tifoseria/curva-sud/index|Curva Sud]], [[tifoseria/curva-nord/index|Curva Nord]] e *Curva Furlan*. |
+| **Febbraio 2017** | Trieste e Catania — Scomparsa di [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]] | Omaggio ufficiale degli ultras alabardati alla memoria dello storico fondatore della [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto]]. |
+| **2022–2024** | Trasferte del Catania nel Nord-Est (tra cui la finale d'andata di [[partite/2023-2024/finale-coppa-catania-padova-4-2|Coppa Italia Serie C 2024]] a Padova) | Presenza e supporto logistico di delegazioni triestine al fianco dei gruppi catanesi nelle gare disputate in Triveneto. |
 
 Ancora oggi, in occasione delle trasferte del [[societa/2022-pelligra-catania-fc|Catania Football Club]] o nei raduni nazionali, i vessilli con l'alabarda di San Giusto e con l'elefante de [[maglie/loghi-storici-liotru|u Liotru]] continuano a sventolare fianco a fianco.
 

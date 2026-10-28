@@ -15,13 +15,13 @@ catania_periods:
 - 1958-1959
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/blagoje-marjanovic.jpg"
+image: assets/images/allenatori/blagoje-marjanovic.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/blagoje-marjanovic.jpg"
-    alt_text: "Ritratto fotografico di Blagoje Marjanović allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/blagoje-marjanovic.jpg
+  alt_text: Ritratto fotografico di Blagoje Marjanović allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-cinquanta
@@ -29,12 +29,12 @@ tags:
 - uruguay-1930
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Blagoje Marjanović"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Blagoje Marjanović
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Blagoje_Marjanovi%C4%87"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Blagoje_Marjanovi%C4%87
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/blagoje-marjanovic
+- blagoje-marjanovic
+- tesserati/blagoje-marjanovic
+- allenatori/blagoje-marjanovic
 ---
+
 
 
 # Blagoje Marjanović
@@ -79,7 +83,7 @@ Con la sua autorevolezza internazionale impostò schemi offensivi moderni e valo
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1958-1959|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

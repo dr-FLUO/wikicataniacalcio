@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alfonso-sessa
+- alfonso-sessa
+- tesserati/alfonso-sessa
+- calciatori/alfonso-sessa
 ---
+
 
 # Alfonso Sessa — Scheda Giocatore nel Calcio Catania
 
-**Alfonso Sessa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alfonso Sessa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

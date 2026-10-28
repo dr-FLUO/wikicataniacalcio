@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/michele-marino
+- michele-marino
+- tesserati/michele-marino
+- calciatori/michele-marino
 ---
+
 
 # Michele Marino — Scheda Giocatore nel Calcio Catania
 
-**Michele Marino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Michele Marino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

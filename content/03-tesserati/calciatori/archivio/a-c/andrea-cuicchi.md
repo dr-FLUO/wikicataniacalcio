@@ -14,12 +14,12 @@ tags:
 - andrea-cuicchi
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Andrea Cuicchi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Cuicchi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Andrea_Cuicchi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Andrea_Cuicchi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Andrea Cuicchi
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-cuicchi
+- andrea-cuicchi
+- tesserati/andrea-cuicchi
+- calciatori/andrea-cuicchi
 image_credits:
-- image_path: '/assets/images/calciatori/andrea-cuicchi.jpg'
-  alt_text: "Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/andrea-cuicchi.jpg
+  alt_text: 'Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1967-11-29'
+birth_place: Serra San Quirico
+citizenship: Italia
 ---
+
 # Andrea Cuicchi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/andrea-cuicchi.jpg)
 *Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Andrea Cuicchi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Andrea Cuicchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

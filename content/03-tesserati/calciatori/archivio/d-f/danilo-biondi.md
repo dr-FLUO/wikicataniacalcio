@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/danilo-biondi
+- danilo-biondi
+- tesserati/danilo-biondi
+- calciatori/danilo-biondi
 ---
+
 
 # Danilo Biondi — Scheda Giocatore nel Calcio Catania
 
-**Danilo Biondi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Danilo Biondi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

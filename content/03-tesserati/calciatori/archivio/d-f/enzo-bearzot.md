@@ -14,12 +14,12 @@ tags:
 - enzo-bearzot
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enzo Bearzot'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enzo Bearzot
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enzo_Bearzot'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enzo_Bearzot
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Enzo Bearzot
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/732_enzo-bearzot.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/enzo-bearzot.jpg'
-  alt_text: "Ritratto ufficiale di Enzo Bearzot — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/enzo-bearzot.jpg
+  alt_text: 'Ritratto ufficiale di Enzo Bearzot — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/enzo-bearzot
+- enzo-bearzot
+- tesserati/enzo-bearzot
+- calciatori/enzo-bearzot
+birth_date: '1927-09-26'
+birth_place: Aiello del Friuli
+citizenship: Regno d'Italia
 ---
+
 # Enzo Bearzot — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Enzo Bearzot — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/enzo-bearzot.jpg)
 *Ritratto ufficiale di Enzo Bearzot — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Enzo Bearzot — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Enzo Bearzot** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Enzo Bearzot** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

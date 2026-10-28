@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/stefano-lausdei
+- stefano-lausdei
+- tesserati/stefano-lausdei
+- calciatori/stefano-lausdei
 ---
+
 
 # Stefano Lausdei — Scheda Giocatore nel Calcio Catania
 
-**Stefano Lausdei** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Stefano Lausdei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-rigano
+- giuseppe-rigano
+- tesserati/giuseppe-rigano
+- calciatori/giuseppe-rigano
 ---
+
 
 # Giuseppe Rigano — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Rigano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Rigano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

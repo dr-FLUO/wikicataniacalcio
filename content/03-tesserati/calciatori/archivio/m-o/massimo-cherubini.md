@@ -14,12 +14,12 @@ tags:
 - massimo-cherubini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Massimo Cherubini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Massimo Cherubini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Massimo_Cherubini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Massimo_Cherubini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Massimo Cherubini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/580_massimo-cherubini.jpg
 image_credits:
-- image_path: 'assets/images/players/580_massimo-cherubini.jpg'
-  alt_text: "Ritratto del calciatore Massimo Cherubini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/580_massimo-cherubini.jpg
+  alt_text: Ritratto del calciatore Massimo Cherubini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/massimo-cherubini
+- massimo-cherubini
+- tesserati/massimo-cherubini
+- calciatori/massimo-cherubini
+birth_date: '1945-04-01'
+birth_place: Firenze
+citizenship: Italia
 ---
+
 # Massimo Cherubini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Massimo Cherubini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/580_massimo-cherubini.jpg)
 *Ritratto del calciatore Massimo Cherubini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Massimo Cherubini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Massimo Cherubini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

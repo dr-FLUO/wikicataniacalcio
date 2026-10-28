@@ -14,12 +14,12 @@ tags:
 - gianluca-falsini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianluca Falsini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianluca Falsini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianluca_Falsini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianluca_Falsini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianluca Falsini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/49_gianluca-falsini.jpg
 image_credits:
-- image_path: 'assets/images/players/49_gianluca-falsini.jpg'
-  alt_text: "Ritratto del calciatore Gianluca Falsini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/49_gianluca-falsini.jpg
+  alt_text: Ritratto del calciatore Gianluca Falsini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gianluca-falsini
+- gianluca-falsini
+- tesserati/gianluca-falsini
+- calciatori/gianluca-falsini
+birth_date: '1975-10-02'
+birth_place: Arezzo
+citizenship: Italia
 ---
+
 # Gianluca Falsini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gianluca Falsini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/49_gianluca-falsini.jpg)
 *Ritratto del calciatore Gianluca Falsini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gianluca Falsini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gianluca Falsini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/558_vito-daposamato.jpg
 image_credits:
-- image_path: 'assets/images/players/558_vito-daposamato.jpg'
-  alt_text: "Ritratto del calciatore Vito D&apos;Amato in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/558_vito-daposamato.jpg
+  alt_text: Ritratto del calciatore Vito D&apos;Amato in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/vito-daposamato
+- vito-daposamato
+- tesserati/vito-daposamato
+- calciatori/vito-daposamato
 ---
+
 # Vito D&apos;Amato — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Vito D&apos;Amato in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/558_vito-daposamato.jpg)
 *Ritratto del calciatore Vito D&apos;Amato in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Vito D&apos;Amato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Vito D&apos;Amato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

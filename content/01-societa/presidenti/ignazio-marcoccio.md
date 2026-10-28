@@ -53,11 +53,11 @@ aliases:
 
 | Anno / Stagione | Snodo Storico e Sportivo | Dettaglio |
 | :--- | :--- | :--- |
-| **Gennaio 1959** | Nomina a Commissario Straordinario del [[societa/1946-club-calcio-catania\|Club Calcio Catania]]. | Risanamento economico della società e conferma in panchina di [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
-| **1959–1960** | **Promozione in Serie A** (3º posto in Serie B). | Ritorno in massima serie con i gol di [[tesserati/calciatori/adelmo-prenna\|Adelmo "Memo" Prenna]] e Guido Macor. |
-| **[[stagioni/1960-1961\|1960–1961]]** | **8º posto in Serie A (36 punti)** e [[partite/1960-1961/catania-inter-2-0\|Catania-Inter 2-0]]. | Il **4 giugno 1961** nasce l'esclamazione *«Clamoroso al Cibali!»* di Sandro Ciotti. |
-| **[[stagioni/1963-1964\|1963–1964]] e [[stagioni/1964-1965\|1964–1965]]** | Doppio **8º posto consecutivo in Serie A** e [[partite/1963-1964/finale-coppa-delle-alpi-1964\|Finale di Coppa delle Alpi 1964]]. | Epoca di Vavassori, Bicchierai, Szymaniak, Cinesinho, Danova e Fanello. |
-| **17 settembre 1967** | Trasformazione societaria in **[[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]]** | Adeguamento alla riforma federale delle società per azioni e passaggio di consegne nel 1969 ad [[societa/presidenti/angelo-massimino\|Angelo Massimino]]. |
+| **Gennaio 1959** | Nomina a Commissario Straordinario del [[societa/1946-club-calcio-catania|Club Calcio Catania]]. | Risanamento economico della società e conferma in panchina di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. |
+| **1959–1960** | **Promozione in Serie A** (3º posto in Serie B). | Ritorno in massima serie con i gol di [[tesserati/calciatori/adelmo-prenna|Adelmo "Memo" Prenna]] e Guido Macor. |
+| **[[stagioni/1960-1961|1960–1961]]** | **8º posto in Serie A (36 punti)** e [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0]]. | Il **4 giugno 1961** nasce l'esclamazione *«Clamoroso al Cibali!»* di Sandro Ciotti. |
+| **[[stagioni/1963-1964|1963–1964]] e [[stagioni/1964-1965|1964–1965]]** | Doppio **8º posto consecutivo in Serie A** e [[partite/1963-1964/finale-coppa-delle-alpi-1964|Finale di Coppa delle Alpi 1964]]. | Epoca di Vavassori, Bicchierai, Szymaniak, Cinesinho, Danova e Fanello. |
+| **17 settembre 1967** | Trasformazione societaria in **[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]** | Adeguamento alla riforma federale delle società per azioni e passaggio di consegne nel 1969 ad [[societa/presidenti/angelo-massimino|Angelo Massimino]]. |
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - antonino-barraco
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Antonino Barraco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Antonino Barraco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Antonino_Barraco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Antonino_Barraco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Antonino Barraco
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/297_antonino-barraco.jpg
 image_credits:
-- image_path: 'assets/images/players/297_antonino-barraco.jpg'
-  alt_text: "Ritratto del calciatore Antonino Barraco in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/297_antonino-barraco.jpg
+  alt_text: Ritratto del calciatore Antonino Barraco in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/antonino-barraco
+- antonino-barraco
+- tesserati/antonino-barraco
+- calciatori/antonino-barraco
+birth_date: '1964-05-19'
+birth_place: Marsala
+citizenship: Italia
 ---
+
 # Antonino Barraco — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Antonino Barraco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/297_antonino-barraco.jpg)
 *Ritratto del calciatore Antonino Barraco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Antonino Barraco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Antonino Barraco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

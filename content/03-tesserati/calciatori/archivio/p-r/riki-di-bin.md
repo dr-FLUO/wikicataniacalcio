@@ -14,12 +14,12 @@ tags:
 - riki-di-bin
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riki Di Bin'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riki Di Bin
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riki_Di_Bin'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riki_Di_Bin
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Riki Di Bin
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/riki-di-bin
+- riki-di-bin
+- tesserati/riki-di-bin
+- calciatori/riki-di-bin
+birth_date: '1968-03-10'
+birth_place: Piobesi Torinese
+citizenship: Italia
 ---
+
 # Riki Di Bin — Scheda Giocatore nel Calcio Catania
 
-**Riki Di Bin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Riki Di Bin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

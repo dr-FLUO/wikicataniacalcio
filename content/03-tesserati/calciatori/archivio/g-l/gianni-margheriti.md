@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianni-margheriti
+- gianni-margheriti
+- tesserati/gianni-margheriti
+- calciatori/gianni-margheriti
 ---
+
 
 # Gianni Margheriti — Scheda Giocatore nel Calcio Catania
 
-**Gianni Margheriti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gianni Margheriti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

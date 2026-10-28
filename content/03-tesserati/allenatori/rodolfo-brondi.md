@@ -20,12 +20,12 @@ tags:
 - anni-cinquanta
 - serie-b
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Rodolfo Brondi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Rodolfo Brondi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Rodolfo_Brondi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Rodolfo_Brondi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -39,7 +39,12 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/rodolfo-brondi
+- rodolfo-brondi
+- tesserati/rodolfo-brondi
+- allenatori/rodolfo-brondi
+citizenship: Italia
 ---
+
 # Rodolfo Brondi
 
 **Rodolfo Brondi** (Livorno, Italia, 1912 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1951-1952**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
@@ -64,7 +69,7 @@ Impresse un'ottima organizzazione difensiva e compattezza di reparto, sfiorando 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1951-1952\|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1951-1952|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

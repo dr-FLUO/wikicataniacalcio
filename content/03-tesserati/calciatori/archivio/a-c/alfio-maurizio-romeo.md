@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alfio-maurizio-romeo
+- alfio-maurizio-romeo
+- tesserati/alfio-maurizio-romeo
+- calciatori/alfio-maurizio-romeo
 ---
+
 
 # Alfio Maurizio Romeo — Scheda Giocatore nel Calcio Catania
 
-**Alfio Maurizio Romeo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alfio Maurizio Romeo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/maurizio-lubbia
+- maurizio-lubbia
+- tesserati/maurizio-lubbia
+- calciatori/maurizio-lubbia
 ---
+
 
 # Maurizio Lubbia — Scheda Giocatore nel Calcio Catania
 
-**Maurizio Lubbia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Lubbia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

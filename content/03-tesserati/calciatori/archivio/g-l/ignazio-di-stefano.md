@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ignazio-di-stefano
+- ignazio-di-stefano
+- tesserati/ignazio-di-stefano
+- calciatori/ignazio-di-stefano
 ---
+
 
 # Ignazio Di Stefano — Scheda Giocatore nel Calcio Catania
 
-**Ignazio Di Stefano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ignazio Di Stefano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

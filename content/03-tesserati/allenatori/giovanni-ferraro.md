@@ -15,13 +15,13 @@ catania_periods:
 - 2022-2023
 club_entities:
 - '[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club (2022-Oggi)]]'
-image: "assets/images/allenatori/giovanni-ferraro.jpg"
+image: assets/images/allenatori/giovanni-ferraro.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giovanni-ferraro.jpg"
-    alt_text: "Ritratto fotografico di Giovanni Ferraro allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giovanni-ferraro.jpg
+  alt_text: Ritratto fotografico di Giovanni Ferraro allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemilaventi
@@ -31,12 +31,12 @@ tags:
 - record
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Giovanni Ferraro"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Ferraro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Giovanni_Ferraro"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Giovanni_Ferraro
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -50,7 +50,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giovanni-ferraro
+- giovanni-ferraro
+- tesserati/giovanni-ferraro
+- allenatori/giovanni-ferraro
 ---
+
 
 
 # Giovanni Ferraro
@@ -81,7 +85,7 @@ Ha conquistato la promozione matematica in Serie C con ben sei giornate d'antici
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2022-2023\|2022-2023]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2022-2023|2022-2023]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

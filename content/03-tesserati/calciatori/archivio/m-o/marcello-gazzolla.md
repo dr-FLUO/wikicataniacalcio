@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marcello-gazzolla
+- marcello-gazzolla
+- tesserati/marcello-gazzolla
+- calciatori/marcello-gazzolla
 ---
+
 
 # Marcello Gazzolla — Scheda Giocatore nel Calcio Catania
 
-**Marcello Gazzolla** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Marcello Gazzolla** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

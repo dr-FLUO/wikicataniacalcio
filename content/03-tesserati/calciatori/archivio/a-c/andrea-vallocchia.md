@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-vallocchia
+- andrea-vallocchia
+- tesserati/andrea-vallocchia
+- calciatori/andrea-vallocchia
 ---
+
 
 # Andrea Vallocchia — Scheda Giocatore nel Calcio Catania
 
-**Andrea Vallocchia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andrea Vallocchia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

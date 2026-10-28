@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/adolfo-gentile
+- adolfo-gentile
+- tesserati/adolfo-gentile
+- calciatori/adolfo-gentile
 ---
+
 
 # Adolfo Gentile — Scheda Giocatore nel Calcio Catania
 
-**Adolfo Gentile** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Adolfo Gentile** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

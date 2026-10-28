@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gennaro-torlo
+- gennaro-torlo
+- tesserati/gennaro-torlo
+- calciatori/gennaro-torlo
 ---
+
 
 # Gennaro Torlo — Scheda Giocatore nel Calcio Catania
 
-**Gennaro Torlo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gennaro Torlo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

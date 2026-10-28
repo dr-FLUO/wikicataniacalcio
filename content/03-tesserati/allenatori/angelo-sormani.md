@@ -14,13 +14,13 @@ catania_periods:
 - 1989-1991
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/angelo-sormani.jpg"
+image: assets/images/allenatori/angelo-sormani.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/angelo-sormani.jpg"
-    alt_text: "Ritratto fotografico di Angelo Sormani allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/angelo-sormani.jpg
+  alt_text: Ritratto fotografico di Angelo Sormani allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-ottanta
@@ -29,12 +29,12 @@ tags:
 - milan-coppa-campioni
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Angelo Sormani"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Angelo Sormani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Angelo_Sormani"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Angelo_Sormani
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/angelo-sormani
+- angelo-sormani
+- tesserati/angelo-sormani
+- allenatori/angelo-sormani
 ---
+
 
 
 # Angelo Sormani
@@ -79,7 +83,7 @@ Nel 1989-1990 condusse gli etnei al sesto posto; nel 1990-1991 guidò la squadra
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1989-1990\|1989-1990]], [[stagioni/1990-1991\|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1989-1990|1989-1990]], [[stagioni/1990-1991|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

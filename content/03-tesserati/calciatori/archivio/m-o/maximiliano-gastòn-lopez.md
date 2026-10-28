@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/27_maximiliano-gastn--lopez.jpg
 image_credits:
-- image_path: 'assets/images/players/27_maximiliano-gastn--lopez.jpg'
-  alt_text: "Ritratto del calciatore Maximiliano Gastòn  Lopez in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/27_maximiliano-gastn--lopez.jpg
+  alt_text: Ritratto del calciatore Maximiliano Gastòn  Lopez in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/maximiliano-gastòn-lopez
+- maximiliano-gastòn-lopez
+- tesserati/maximiliano-gastòn-lopez
+- calciatori/maximiliano-gastòn-lopez
 ---
+
 # Maximiliano Gastòn  Lopez — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Maximiliano Gastòn  Lopez in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/27_maximiliano-gastn--lopez.jpg)
 *Ritratto del calciatore Maximiliano Gastòn  Lopez in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Maximiliano Gastòn  Lopez** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Maximiliano Gastòn  Lopez** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

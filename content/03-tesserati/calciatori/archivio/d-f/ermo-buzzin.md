@@ -40,7 +40,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672
 aliases:
 - tesserati/calciatori/ermo-buzzin
+- ermo-buzzin
+- tesserati/ermo-buzzin
+- calciatori/ermo-buzzin
 ---
+
 
 
 # Ermo Buzzin
@@ -68,7 +72,7 @@ Nella successiva stagione [[stagioni/1957-1958|1957-1958]] Buzzin si confermò c
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1956-1958) | 56 | 16 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1956-1958) | 56 | 16 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **56** | **16** | — | — |
 
 ---

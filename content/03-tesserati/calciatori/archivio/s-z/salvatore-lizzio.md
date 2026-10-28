@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-lizzio
+- salvatore-lizzio
+- tesserati/salvatore-lizzio
+- calciatori/salvatore-lizzio
 ---
+
 
 # Salvatore Lizzio — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Lizzio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Salvatore Lizzio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

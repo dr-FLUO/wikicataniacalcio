@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/riccardo-caruso
+- riccardo-caruso
+- tesserati/riccardo-caruso
+- calciatori/riccardo-caruso
 ---
+
 
 # Riccardo Caruso — Scheda Giocatore nel Calcio Catania
 
-**Riccardo Caruso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Riccardo Caruso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

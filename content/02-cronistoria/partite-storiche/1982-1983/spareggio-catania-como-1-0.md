@@ -70,10 +70,10 @@ Dopo un primo tempo teso e bloccato tatticamente, nel secondo tempo il Catania a
 | :--- | :--- |
 | **Data e Ora** | Sabato 18 giugno 1983, ore 17:30 |
 | **Impianto** | Stadio Olimpico, Roma (campo neutro — ca. 35.000 spettatori) |
-| **Competizione** | [[stagioni/1982-1983\|Serie B 1982-1983]] — Spareggi Promozione (1ª gara) |
+| **Competizione** | [[stagioni/1982-1983|Serie B 1982-1983]] — Spareggi Promozione (1ª gara) |
 | **Arbitro** | Luigi Agnolin della sezione AIA di Bassano del Grappa |
 | **Marcatori** | **70' Crialesi** (Catania) |
-| **Formazione Catania** | Sorrentino; Ranieri, Mosti, Giovannelli (85' Labrocca), Chinellato, Mastropasqua; [[tesserati/calciatori/damiano-morra\|Morra]], Mastalli, Cantarutti, Crusco, Crialesi (75' Ciampoli). — *A disp.:* Onorati, Gamberini, Barozzi. — **All.:** [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]]. |
+| **Formazione Catania** | Sorrentino; Ranieri, Mosti, Giovannelli (85' Labrocca), Chinellato, Mastropasqua; [[tesserati/calciatori/damiano-morra|Morra]], Mastalli, Cantarutti, Crusco, Crialesi (75' Ciampoli). — *A disp.:* Onorati, Gamberini, Barozzi. — **All.:** [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]. |
 | **Formazione Como** | Giuliani; Mannini (57' Butti), Galia, Fusi, Fontolan, Soldà; Mancini, Pin, Nicoletti (74' Palanca), Matteoli, Palese. — *A disp.:* Sartorel, Cinello, Maccoppi. — **All.:** Tarcisio Burgnich. |
 
 ---

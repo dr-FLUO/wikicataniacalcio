@@ -15,13 +15,13 @@ catania_periods:
 - 1981-1982
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/giorgio-michelotti.jpg"
+image: assets/images/allenatori/giorgio-michelotti.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giorgio-michelotti.jpg"
-    alt_text: "Ritratto fotografico di Giorgio Michelotti allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giorgio-michelotti.jpg
+  alt_text: Ritratto fotografico di Giorgio Michelotti allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - calciatori
@@ -31,12 +31,12 @@ tags:
 - serie-b
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giorgio Michelotti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giorgio Michelotti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giorgio_Michelotti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giorgio_Michelotti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -50,7 +50,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giorgio-michelotti
+- giorgio-michelotti
+- tesserati/giorgio-michelotti
+- allenatori/giorgio-michelotti
+citizenship: Regno d'Italia
+total_appearances: 113
+seasons_count: 7
 ---
+
 # Giorgio Michelotti
 
 ![Ritratto ufficiale di Giorgio Michelotti sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/giorgio-michelotti.jpg)
@@ -79,7 +86,7 @@ Uomo d'altri tempi e professionista integerrimo, fu tra i rari protagonisti capa
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1981-1982\|1981-1982]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1981-1982|1981-1982]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

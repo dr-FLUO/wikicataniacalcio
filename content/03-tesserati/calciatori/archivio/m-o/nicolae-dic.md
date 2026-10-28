@@ -1,50 +1,56 @@
 ---
-title: "Nicolae Dică — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Nicolae Dică, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/m-o/nicolae-dic"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1980-05-09"
-birth_place: "Pitești"
-death_date: ""
-nationality: "Romania"
+title: Nicolae Dică — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Nicolae Dică, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/m-o/nicolae-dic
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1980-05-09'
+birth_place: Pitești
+death_date: ''
+nationality: Romania
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "nicolae-dic"
-  - "centrocampista"
+- calciatori
+- nicolae-dic
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Nicolae Dică"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Nicolae_Dic%C4%83"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/nicolae-dic.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nicolae Dică
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Nicolae_Dic%C4%83
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/nicolae-dic.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/nicolae-dic.jpg"
-    alt_text: "Ritratto fotografico di Nicolae Dică calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/nicolae-dic.jpg
+  alt_text: Ritratto fotografico di Nicolae Dică calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/nicolae-dic"
-  - "nicolae-dic"
+- tesserati/calciatori/nicolae-dic
+- nicolae-dic
+- tesserati/nicolae-dic
+- calciatori/nicolae-dic
+citizenship: Romania
 ---
+
 # Nicolae Dică — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nicolae Dică in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nicolae-dic.jpg)
 *Ritratto del calciatore Nicolae Dică in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nicolae Dică** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nicolae Dică** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Romania |
 | **Data e Luogo di Nascita** | 1980-05-09 — Pitești |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

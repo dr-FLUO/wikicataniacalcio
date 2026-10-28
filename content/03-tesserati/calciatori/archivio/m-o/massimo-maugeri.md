@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimo-maugeri
+- massimo-maugeri
+- tesserati/massimo-maugeri
+- calciatori/massimo-maugeri
 ---
+
 
 # Massimo Maugeri — Scheda Giocatore nel Calcio Catania
 
-**Massimo Maugeri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Massimo Maugeri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

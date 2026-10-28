@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ivan-kontek
+- ivan-kontek
+- tesserati/ivan-kontek
+- calciatori/ivan-kontek
 ---
+
 
 # Ivan Kontek — Scheda Giocatore nel Calcio Catania
 
-**Ivan Kontek** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ivan Kontek** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

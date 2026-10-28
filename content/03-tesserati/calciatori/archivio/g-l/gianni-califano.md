@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianni-califano
+- gianni-califano
+- tesserati/gianni-califano
+- calciatori/gianni-califano
 ---
+
 
 # Gianni Califano — Scheda Giocatore nel Calcio Catania
 
-**Gianni Califano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gianni Califano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

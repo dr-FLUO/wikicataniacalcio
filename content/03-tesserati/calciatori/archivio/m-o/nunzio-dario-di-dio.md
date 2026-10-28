@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/nunzio-dario-di-dio
+- nunzio-dario-di-dio
+- tesserati/nunzio-dario-di-dio
+- calciatori/nunzio-dario-di-dio
 ---
+
 
 # Nunzio Dario Di Dio — Scheda Giocatore nel Calcio Catania
 
-**Nunzio Dario Di Dio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Nunzio Dario Di Dio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

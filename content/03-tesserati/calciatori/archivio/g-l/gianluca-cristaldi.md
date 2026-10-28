@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianluca-cristaldi
+- gianluca-cristaldi
+- tesserati/gianluca-cristaldi
+- calciatori/gianluca-cristaldi
 ---
+
 
 # Gianluca Cristaldi — Scheda Giocatore nel Calcio Catania
 
-**Gianluca Cristaldi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gianluca Cristaldi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

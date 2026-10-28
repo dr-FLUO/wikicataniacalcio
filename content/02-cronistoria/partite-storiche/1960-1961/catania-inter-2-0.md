@@ -83,7 +83,7 @@ La sfida **Catania-Inter (2-0)** disputata il **4 giugno 1961** allo [[stadio/an
 | Dati Gara | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Ora** | Domenica 4 giugno 1961, ore 16:30 |
-| **Impianto** | [[stadio/angelo-massimino\|Stadio Cibali]], Catania (ca. 25.000 spettatori) |
+| **Impianto** | [[stadio/angelo-massimino|Stadio Cibali]], Catania (ca. 25.000 spettatori) |
 | **Arbitro** | Cesare Jonni della sezione AIA di Macerata |
 | **Marcatori** | **25' Castellazzi** (Catania), **70' Calvanese** (Catania) |
 | **Formazione Catania** | Gaspari; Michelotti, Giavara; Corti, Grani, Ferretti; Castellazzi, Biagini, Calvanese, Prenna, Morelli. — **All.:** Carmelo Di Bella. |

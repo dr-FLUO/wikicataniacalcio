@@ -15,13 +15,13 @@ catania_periods:
 - 1986-1989
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/bruno-pace.jpg"
+image: assets/images/allenatori/bruno-pace.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/bruno-pace.jpg"
-    alt_text: "Ritratto fotografico di Bruno Pace allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/bruno-pace.jpg
+  alt_text: Ritratto fotografico di Bruno Pace allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-ottanta
@@ -30,12 +30,12 @@ tags:
 - spareggi-salvezza
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Bruno Pace"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Bruno Pace
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Bruno_Pace"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Bruno_Pace
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -49,7 +49,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/bruno-pace
+- bruno-pace
+- tesserati/bruno-pace
+- allenatori/bruno-pace
 ---
+
 
 
 # Bruno Pace
@@ -80,7 +84,7 @@ Nel giugno 1988 a Cosenza guidò il Catania nel doppio spareggio salvezza contro
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1986-1987\|1986-1987]], [[stagioni/1987-1988\|1987-1988]], [[stagioni/1988-1989\|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1986-1987|1986-1987]], [[stagioni/1987-1988|1987-1988]], [[stagioni/1988-1989|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

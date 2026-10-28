@@ -1,50 +1,56 @@
 ---
-title: "Giuseppe Marchi — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Giuseppe Marchi, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/g-l/giuseppe-marchi"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1904-02-02"
-birth_place: "Reggio Emilia"
-death_date: "1967-07-17"
-nationality: "Regno d'Italia"
+title: Giuseppe Marchi — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Giuseppe Marchi, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/g-l/giuseppe-marchi
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1904-02-02'
+birth_place: Reggio Emilia
+death_date: '1967-07-17'
+nationality: Regno d'Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "giuseppe-marchi"
-  - "centrocampista"
+- calciatori
+- giuseppe-marchi
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Giuseppe Marchi"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Giuseppe_Marchi_(calciatore)"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/giuseppe-marchi.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Marchi
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Giuseppe_Marchi_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/giuseppe-marchi.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/giuseppe-marchi.jpg"
-    alt_text: "Ritratto fotografico di Giuseppe Marchi calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/giuseppe-marchi.jpg
+  alt_text: Ritratto fotografico di Giuseppe Marchi calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/giuseppe-marchi"
-  - "giuseppe-marchi"
+- tesserati/calciatori/giuseppe-marchi
+- giuseppe-marchi
+- tesserati/giuseppe-marchi
+- calciatori/giuseppe-marchi
+citizenship: Regno d'Italia
 ---
+
 # Giuseppe Marchi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giuseppe Marchi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/giuseppe-marchi.jpg)
 *Ritratto del calciatore Giuseppe Marchi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Giuseppe Marchi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Marchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Regno d'Italia |
 | **Data e Luogo di Nascita** | 1904-02-02 — Reggio Emilia |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

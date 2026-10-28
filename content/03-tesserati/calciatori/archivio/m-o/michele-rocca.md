@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/michele-rocca
+- michele-rocca
+- tesserati/michele-rocca
+- calciatori/michele-rocca
 ---
+
 
 # Michele Rocca — Scheda Giocatore nel Calcio Catania
 
-**Michele Rocca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Michele Rocca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

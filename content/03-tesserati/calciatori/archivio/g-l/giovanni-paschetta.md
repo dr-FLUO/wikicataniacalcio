@@ -14,12 +14,12 @@ tags:
 - giovanni-paschetta
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Paschetta'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Paschetta
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Paschetta'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Paschetta
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Paschetta
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/95_giovanni-paschetta.jpg
 image_credits:
-- image_path: 'assets/images/players/95_giovanni-paschetta.jpg'
-  alt_text: "Ritratto del calciatore Giovanni Paschetta in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/95_giovanni-paschetta.jpg
+  alt_text: Ritratto del calciatore Giovanni Paschetta in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giovanni-paschetta
+- giovanni-paschetta
+- tesserati/giovanni-paschetta
+- calciatori/giovanni-paschetta
+birth_date: '1975-03-15'
+birth_place: Belvedere Marittimo
+citizenship: Italia
 ---
+
 # Giovanni Paschetta — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giovanni Paschetta in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/95_giovanni-paschetta.jpg)
 *Ritratto del calciatore Giovanni Paschetta in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giovanni Paschetta** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giovanni Paschetta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

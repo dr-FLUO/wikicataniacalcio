@@ -1,40 +1,46 @@
 ---
-title: "Slaviša Dugić — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Slaviša Dugić, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/slavi-a-dugi"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1985-01-17"
-birth_place: "Gradačac"
-death_date: ""
-nationality: "Svizzera"
+title: Slaviša Dugić — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Slaviša Dugić, attaccante
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/slavi-a-dugi
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1985-01-17'
+birth_place: Gradačac
+death_date: ''
+nationality: Svizzera
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "slavi-a-dugi"
-  - "attaccante"
+- calciatori
+- slavi-a-dugi
+- attaccante
 sources:
-  - author: "Wikidata Contributors"
-    title: "Scheda Biografica Entità Q7539401 (Slaviša Dugić)"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://www.wikidata.org/wiki/Q7539401"
-    reference: "Registro anagrafico e identificativo sportivo internazionale"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikidata Contributors
+  title: Scheda Biografica Entità Q7539401 (Slaviša Dugić)
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://www.wikidata.org/wiki/Q7539401
+  reference: Registro anagrafico e identificativo sportivo internazionale
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/slavi-a-dugi"
-  - "slavi-a-dugi"
+- tesserati/calciatori/slavi-a-dugi
+- slavi-a-dugi
+- tesserati/slavi-a-dugi
+- calciatori/slavi-a-dugi
+citizenship: Svizzera
 ---
+
 # Slaviša Dugić — Scheda Giocatore nel Calcio Catania
 
-**Slaviša Dugić** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Slaviša Dugić** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Svizzera |
 | **Data e Luogo di Nascita** | 1985-01-17 — Gradačac |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

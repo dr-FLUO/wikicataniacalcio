@@ -14,12 +14,12 @@ tags:
 - piero-braglia
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Piero Braglia'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Piero Braglia
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Piero_Braglia'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Piero_Braglia
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Piero Braglia
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/444_piero-braglia.jpg
 image_credits:
-- image_path: 'assets/images/players/444_piero-braglia.jpg'
-  alt_text: "Ritratto del calciatore Piero Braglia in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/444_piero-braglia.jpg
+  alt_text: Ritratto del calciatore Piero Braglia in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/piero-braglia
+- piero-braglia
+- tesserati/piero-braglia
+- calciatori/piero-braglia
+birth_date: '1955-01-10'
+birth_place: Grosseto
+citizenship: Italia
 ---
+
 # Piero Braglia — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Piero Braglia in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/444_piero-braglia.jpg)
 *Ritratto del calciatore Piero Braglia in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Piero Braglia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Piero Braglia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

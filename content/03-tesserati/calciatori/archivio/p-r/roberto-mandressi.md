@@ -14,12 +14,12 @@ tags:
 - roberto-mandressi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto Mandressi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto Mandressi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_Mandressi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_Mandressi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto Mandressi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/437_roberto-mandressi.jpg
 image_credits:
-- image_path: 'assets/images/players/437_roberto-mandressi.jpg'
-  alt_text: "Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/437_roberto-mandressi.jpg
+  alt_text: Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/roberto-mandressi
+- roberto-mandressi
+- tesserati/roberto-mandressi
+- calciatori/roberto-mandressi
+birth_date: '1960-11-19'
+birth_place: Seregno
+citizenship: Italia
 ---
+
 # Roberto Mandressi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/437_roberto-mandressi.jpg)
 *Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Roberto Mandressi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Roberto Mandressi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

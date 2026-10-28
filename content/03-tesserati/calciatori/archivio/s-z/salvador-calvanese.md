@@ -31,12 +31,12 @@ tags:
 - serie-a
 - clamoroso-al-cibali
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Salvador Calvanese'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Salvador Calvanese
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Salvatore_Calvanese'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Salvatore_Calvanese
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -56,7 +56,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Calvanese-616
 aliases:
 - tesserati/calciatori/salvador-calvanese
+- salvador-calvanese
+- tesserati/salvador-calvanese
+- calciatori/salvador-calvanese
 ---
+
 # Salvador Calvanese
 
 **Salvador Calvanese**, affettuosamente ribattezzato dai tifosi **"Todo Calvanese"** (Buenos Aires, 17 agosto 1934 – Buenos Aires, 5 novembre 2019), è stato un calciatore e allenatore di calcio argentino, nel ruolo di centravanti. Acquistato dall'Atlanta di Buenos Aires nell'estate del **1960**, è stato una delle figure più iconiche e amate dell'intera storia calcistica etnea.
@@ -83,7 +87,7 @@ Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stag
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1960-1962, 1964-1967) | 113 | 23 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1960-1962, 1964-1967) | 113 | 23 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 4 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **117** | **24** | — | — |
 

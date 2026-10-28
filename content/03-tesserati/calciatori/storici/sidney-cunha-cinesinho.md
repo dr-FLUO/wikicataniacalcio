@@ -27,11 +27,11 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/639_sidney-cunha-cinesinho.jpg
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp'
-  alt_text: "Figurina Panini del fuoriclasse brasiliano Cinesinho in maglia rossazzurra"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp
+  alt_text: Figurina Panini del fuoriclasse brasiliano Cinesinho in maglia rossazzurra
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/players/639_sidney-cunha-cinesinho.jpg
   alt_text: Ritratto del calciatore Sidney Cunha Cinesinho in maglia rossazzurra del
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -39,7 +39,11 @@ image_credits:
   license_type: Pubblico Dominio / Fair Use
 aliases:
 - tesserati/calciatori/sidney-cunha-cinesinho
+- sidney-cunha-cinesinho
+- tesserati/sidney-cunha-cinesinho
+- calciatori/sidney-cunha-cinesinho
 ---
+
 # Sidney Cunha Cinesinho — Scheda Giocatore nel Calcio Catania
 
 ![Figurina Panini del fuoriclasse brasiliano Cinesinho in maglia rossazzurra del Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp)

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/angelo-labellarte
+- angelo-labellarte
+- tesserati/angelo-labellarte
+- calciatori/angelo-labellarte
 ---
+
 
 # Angelo Labellarte — Scheda Giocatore nel Calcio Catania
 
-**Angelo Labellarte** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Angelo Labellarte** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - araldo-pirola
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Araldo Pirola'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Araldo Pirola
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Araldo_Pirola'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Araldo_Pirola
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Araldo Pirola
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/729_araldo-pirola.jpg
 image_credits:
-- image_path: 'assets/images/players/729_araldo-pirola.jpg'
-  alt_text: "Ritratto del calciatore Araldo Pirola in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/729_araldo-pirola.jpg
+  alt_text: Ritratto del calciatore Araldo Pirola in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/araldo-pirola
+- araldo-pirola
+- tesserati/araldo-pirola
+- calciatori/araldo-pirola
+birth_date: '1928-01-14'
+birth_place: Sesto San Giovanni
+citizenship: Italia
 ---
+
 # Araldo Pirola — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Araldo Pirola in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/729_araldo-pirola.jpg)
 *Ritratto del calciatore Araldo Pirola in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Araldo Pirola** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Araldo Pirola** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

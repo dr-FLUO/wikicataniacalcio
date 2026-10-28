@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/maurizio-spigarelli
+- maurizio-spigarelli
+- tesserati/maurizio-spigarelli
+- calciatori/maurizio-spigarelli
 ---
+
 
 # Maurizio Spigarelli — Scheda Giocatore nel Calcio Catania
 
-**Maurizio Spigarelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Spigarelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

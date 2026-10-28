@@ -21,12 +21,12 @@ tags:
 - serie-b
 - bandiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enzo Bellini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enzo Bellini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enzo_Bellini_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enzo_Bellini_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -40,7 +40,12 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/enzo-bellini
+- enzo-bellini
+- tesserati/enzo-bellini
+- allenatori/enzo-bellini
+citizenship: Regno d'Italia
 ---
+
 # Enzo Bellini
 
 **Enzo Bellini** (Firenze, Italia, 1917 – 2001) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1955-1956**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
@@ -65,7 +70,7 @@ Guidò la squadra con polso fermo in un momento delicato successivo alla retroce
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1955-1956\|1955-1956]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1955-1956|1955-1956]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

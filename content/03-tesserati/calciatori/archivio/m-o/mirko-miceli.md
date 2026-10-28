@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mirko-miceli
+- mirko-miceli
+- tesserati/mirko-miceli
+- calciatori/mirko-miceli
 ---
+
 
 # Mirko Miceli — Scheda Giocatore nel Calcio Catania
 
-**Mirko Miceli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mirko Miceli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

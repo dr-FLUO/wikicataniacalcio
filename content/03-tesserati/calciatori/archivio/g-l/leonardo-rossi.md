@@ -14,12 +14,12 @@ tags:
 - leonardo-rossi
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Leonardo Rossi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Leonardo Rossi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Leonardo_Rossi_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Leonardo_Rossi_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Leonardo Rossi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/leonardo-rossi
+- leonardo-rossi
+- tesserati/leonardo-rossi
+- calciatori/leonardo-rossi
+birth_date: '1960-01-15'
+birth_place: Atina
+citizenship: Italia
 ---
+
 # Leonardo Rossi — Scheda Giocatore nel Calcio Catania
 
-**Leonardo Rossi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Leonardo Rossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

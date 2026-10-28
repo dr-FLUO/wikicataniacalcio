@@ -14,12 +14,12 @@ tags:
 - paolo-montanari
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Paolo Montanari'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Paolo Montanari
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Paolo_Montanari'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Paolo_Montanari
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Paolo Montanari
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/573_paolo-montanari.jpg
 image_credits:
-- image_path: 'assets/images/players/573_paolo-montanari.jpg'
-  alt_text: "Ritratto del calciatore Paolo Montanari in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/573_paolo-montanari.jpg
+  alt_text: Ritratto del calciatore Paolo Montanari in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/paolo-montanari
+- paolo-montanari
+- tesserati/paolo-montanari
+- calciatori/paolo-montanari
+birth_date: '1944-09-24'
+birth_place: Reggio Emilia
+citizenship: Italia
 ---
+
 # Paolo Montanari — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Paolo Montanari in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/573_paolo-montanari.jpg)
 *Ritratto del calciatore Paolo Montanari in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Paolo Montanari** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Paolo Montanari** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

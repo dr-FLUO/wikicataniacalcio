@@ -14,12 +14,12 @@ tags:
 - luciano-visintini
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luciano Visintini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luciano Visintini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luciano_Visintini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luciano_Visintini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luciano Visintini
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/584_luciano-visintini.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/luciano-visintini.jpg'
-  alt_text: "Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/luciano-visintini.jpg
+  alt_text: 'Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/luciano-visintini
+- luciano-visintini
+- tesserati/luciano-visintini
+- calciatori/luciano-visintini
+birth_date: '1947-03-16'
+birth_place: Buttrio
+citizenship: Italia
 ---
+
 # Luciano Visintini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/luciano-visintini.jpg)
 *Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Luciano Visintini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Luciano Visintini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

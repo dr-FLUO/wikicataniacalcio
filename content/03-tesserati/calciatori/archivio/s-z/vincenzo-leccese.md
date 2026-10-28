@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/vincenzo-leccese
+- vincenzo-leccese
+- tesserati/vincenzo-leccese
+- calciatori/vincenzo-leccese
 ---
+
 
 # Vincenzo Leccese — Scheda Giocatore nel Calcio Catania
 
-**Vincenzo Leccese** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Vincenzo Leccese** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

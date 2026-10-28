@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-piampiani
+- marco-piampiani
+- tesserati/marco-piampiani
+- calciatori/marco-piampiani
 ---
+
 
 # Marco Piampiani — Scheda Giocatore nel Calcio Catania
 
-**Marco Piampiani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Marco Piampiani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

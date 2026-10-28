@@ -14,12 +14,12 @@ tags:
 - enrico-nieri
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enrico Nieri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enrico Nieri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enrico_Nieri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enrico_Nieri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Enrico Nieri
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/enrico-nieri
+- enrico-nieri
+- tesserati/enrico-nieri
+- calciatori/enrico-nieri
 image_credits:
-- image_path: '/assets/images/calciatori/enrico-nieri.jpg'
-  alt_text: "Ritratto ufficiale di Enrico Nieri — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/enrico-nieri.jpg
+  alt_text: 'Ritratto ufficiale di Enrico Nieri — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1958-08-18'
+birth_place: Pisa
+citizenship: Italia
 ---
+
 # Enrico Nieri — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Enrico Nieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/enrico-nieri.jpg)
 *Ritratto ufficiale di Enrico Nieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Enrico Nieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Enrico Nieri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Enrico Nieri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

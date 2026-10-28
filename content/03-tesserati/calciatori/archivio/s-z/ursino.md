@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ursino
+- ursino
+- tesserati/ursino
+- calciatori/ursino
 ---
+
 
 # Ursino — Scheda Giocatore nel Calcio Catania
 
-**Ursino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ursino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - giuseppe-marino
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giuseppe Marino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Marino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giuseppe_Marino'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giuseppe_Marino
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giuseppe Marino
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-marino
+- giuseppe-marino
+- tesserati/giuseppe-marino
+- calciatori/giuseppe-marino
+birth_date: '1969-05-01'
+birth_place: Palermo
+citizenship: Italia
 ---
+
 # Giuseppe Marino — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Marino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Marino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

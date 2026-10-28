@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabrizio-grilli
+- fabrizio-grilli
+- tesserati/fabrizio-grilli
+- calciatori/fabrizio-grilli
 ---
+
 
 # Fabrizio Grilli — Scheda Giocatore nel Calcio Catania
 
-**Fabrizio Grilli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Fabrizio Grilli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

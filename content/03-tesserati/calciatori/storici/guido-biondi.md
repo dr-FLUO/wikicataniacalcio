@@ -14,12 +14,12 @@ tags:
 - guido-biondi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Guido Biondi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guido Biondi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Guido_Biondi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Guido_Biondi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Guido Biondi
   publisher: calciocatania.com
@@ -33,11 +33,11 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/545_guido-biondi.jpg
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/guido-biondi-calcio-catania-figurina-panini-1975-1976.webp'
-  alt_text: "Figurina Panini del centrocampista Guido Biondi con la maglia a strisce"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/figurine/guido-biondi-calcio-catania-figurina-panini-1975-1976.webp
+  alt_text: Figurina Panini del centrocampista Guido Biondi con la maglia a strisce
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/players/545_guido-biondi.jpg
   alt_text: Ritratto del calciatore Guido Biondi in maglia rossazzurra del Calcio
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -45,7 +45,14 @@ image_credits:
   license_type: Pubblico Dominio / Fair Use
 aliases:
 - tesserati/calciatori/guido-biondi
+- guido-biondi
+- tesserati/guido-biondi
+- calciatori/guido-biondi
+birth_date: '1952-07-18'
+birth_place: Lanciano
+citizenship: Italia
 ---
+
 # Guido Biondi — Scheda Giocatore nel Calcio Catania
 
 ![Figurina Panini del centrocampista Guido Biondi con la maglia a strisce rossazzurre del Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/guido-biondi-calcio-catania-figurina-panini-1975-1976.webp)

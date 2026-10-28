@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ivan-francesco-de-santis
+- ivan-francesco-de-santis
+- tesserati/ivan-francesco-de-santis
+- calciatori/ivan-francesco-de-santis
 ---
+
 
 # Ivan Francesco De Santis — Scheda Giocatore nel Calcio Catania
 
-**Ivan Francesco De Santis** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ivan Francesco De Santis** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

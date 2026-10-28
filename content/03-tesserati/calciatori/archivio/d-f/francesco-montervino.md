@@ -14,12 +14,12 @@ tags:
 - francesco-montervino
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Francesco Montervino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Montervino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Francesco_Montervino'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Francesco_Montervino
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Francesco Montervino
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/139_francesco-montervino.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/francesco-montervino.jpg'
-  alt_text: "Ritratto ufficiale di Francesco Montervino — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/francesco-montervino.jpg
+  alt_text: 'Ritratto ufficiale di Francesco Montervino — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/francesco-montervino
+- francesco-montervino
+- tesserati/francesco-montervino
+- calciatori/francesco-montervino
+birth_date: '1978-05-07'
+birth_place: Taranto
+citizenship: Italia
 ---
+
 # Francesco Montervino — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Francesco Montervino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/francesco-montervino.jpg)
 *Ritratto ufficiale di Francesco Montervino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Francesco Montervino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Francesco Montervino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco Montervino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

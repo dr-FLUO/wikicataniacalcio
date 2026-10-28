@@ -14,12 +14,12 @@ tags:
 - marcello-gamberini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Marcello Gamberini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Marcello Gamberini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Marcello_Gamberini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Marcello_Gamberini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Marcello Gamberini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marcello-gamberini
+- marcello-gamberini
+- tesserati/marcello-gamberini
+- calciatori/marcello-gamberini
+birth_date: '1961-10-10'
+birth_place: Cesena
+citizenship: Italia
 ---
+
 # Marcello Gamberini — Scheda Giocatore nel Calcio Catania
 
-**Marcello Gamberini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Marcello Gamberini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

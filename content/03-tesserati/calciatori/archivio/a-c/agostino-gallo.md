@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/agostino-gallo
+- agostino-gallo
+- tesserati/agostino-gallo
+- calciatori/agostino-gallo
 ---
+
 
 # Agostino Gallo — Scheda Giocatore nel Calcio Catania
 
-**Agostino Gallo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Agostino Gallo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

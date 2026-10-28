@@ -14,12 +14,12 @@ tags:
 - roberto-mirri
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto Mirri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto Mirri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_Mirri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_Mirri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto Mirri
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-mirri
+- roberto-mirri
+- tesserati/roberto-mirri
+- calciatori/roberto-mirri
+birth_date: '1978-08-21'
+birth_place: Imola
+citizenship: Italia
 ---
+
 # Roberto Mirri — Scheda Giocatore nel Calcio Catania
 
-**Roberto Mirri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Roberto Mirri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

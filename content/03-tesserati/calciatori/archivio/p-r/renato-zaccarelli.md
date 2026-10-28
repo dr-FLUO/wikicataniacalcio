@@ -14,12 +14,12 @@ tags:
 - renato-zaccarelli
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Renato Zaccarelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Renato Zaccarelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Renato_Zaccarelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Renato_Zaccarelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Renato Zaccarelli
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/renato-zaccarelli
+- renato-zaccarelli
+- tesserati/renato-zaccarelli
+- calciatori/renato-zaccarelli
 image_credits:
-- image_path: '/assets/images/calciatori/renato-zaccarelli.jpg'
-  alt_text: "Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/renato-zaccarelli.jpg
+  alt_text: 'Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1951-01-18'
+birth_place: Ancona
+citizenship: Italia
 ---
+
 # Renato Zaccarelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/renato-zaccarelli.jpg)
 *Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Renato Zaccarelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Renato Zaccarelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

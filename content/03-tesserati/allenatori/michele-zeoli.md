@@ -27,12 +27,12 @@ tags:
 - era-pelligra
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Michele Zeoli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Michele Zeoli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Michele_Zeoli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Michele_Zeoli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,14 @@ sources:
     2024)
 aliases:
 - tesserati/allenatori/michele-zeoli
+- michele-zeoli
+- tesserati/michele-zeoli
+- allenatori/michele-zeoli
+citizenship: Italia
+total_appearances: 104
+seasons_count: 4
 ---
+
 # Michele Zeoli
 
 **Michele Zeoli**, universalmente noto ai tifosi rossazzurri con il soprannome di **"Zorro"** per la celebre esultanza con la maschera (Civitavecchia, 22 aprile 1974), è un allenatore di calcio ed ex calciatore italiano, di ruolo difensore. Figura simbolo di appartenenza e cuore etneo attraverso due diversi quarti di secolo, è stato prima **colonna difensiva del [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] dal 2000 al 2004** (protagonista con **104 presenze ufficiali e 5 reti** della promozione in Serie B a Taranto nella [[stagioni/2001-2002|Stagione 2001-2002]]) e successivamente **allenatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]] nella [[stagioni/2023-2024|Stagione 2023-2024]]**, conducendo il club il **2 aprile 2024** alla conquista della **Coppa Italia Serie C** ([[partite/2023-2024/finale-coppa-catania-padova-4-2|Catania-Padova 4-2 d.t.s.]]), il **primo trofeo nazionale nella storia ultranovantennale del Catania**.
@@ -76,9 +83,9 @@ Il **2 aprile 2024**, nella finale di ritorno della **Coppa Italia Serie C** all
 
 | Periodo / Stagione | Ruolo | Società / Matricola | Categoria | Presenze / Panchine | Reti / Bilancio | Traguardo Storico |
 | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
-| **1999-2004** (5 stag.) | **Calciatore** (Difensore) | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie C1 / Serie B | **104** (100 camp. + 4 PO) | **5 reti** | **Promozione in Serie B ([[stagioni/2001-2002\|2001-2002]])** a Taranto. |
-| **[[stagioni/2022-2023\|2022-2023]]** | **Viceallenatore** | [[societa/2022-pelligra-catania-fc\|Catania SSD]] (955013) | Serie D (Gir. I) | 34 (+2 Poule) | 28V, 4N, 2P (88 pt) | **1º posto e Promozione in Serie C.** |
-| **[[stagioni/2023-2024\|2023-2024]]** | **Allenatore Prima Squadra** | [[societa/2022-pelligra-catania-fc\|Catania FC]] (955013) | Serie C + Coppa + PO | **15** (9 camp. + 1 CI + 1 F.CI + 4 PO) | 6V, 1N, 8P | **Vincitore Coppa Italia Serie C 2023-2024** ([[partite/2023-2024/finale-coppa-catania-padova-4-2\|4-2 al Padova]]). |
+| **1999-2004** (5 stag.) | **Calciatore** (Difensore) | [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] (11700) | Serie C1 / Serie B | **104** (100 camp. + 4 PO) | **5 reti** | **Promozione in Serie B ([[stagioni/2001-2002|2001-2002]])** a Taranto. |
+| **[[stagioni/2022-2023|2022-2023]]** | **Viceallenatore** | [[societa/2022-pelligra-catania-fc|Catania SSD]] (955013) | Serie D (Gir. I) | 34 (+2 Poule) | 28V, 4N, 2P (88 pt) | **1º posto e Promozione in Serie C.** |
+| **[[stagioni/2023-2024|2023-2024]]** | **Allenatore Prima Squadra** | [[societa/2022-pelligra-catania-fc|Catania FC]] (955013) | Serie C + Coppa + PO | **15** (9 camp. + 1 CI + 1 F.CI + 4 PO) | 6V, 1N, 8P | **Vincitore Coppa Italia Serie C 2023-2024** ([[partite/2023-2024/finale-coppa-catania-padova-4-2|4-2 al Padova]]). |
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michele Zeoli](https://it.wikipedia.org/wiki/Michele_Zeoli)*.

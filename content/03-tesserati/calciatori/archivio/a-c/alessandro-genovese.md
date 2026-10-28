@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-genovese
+- alessandro-genovese
+- tesserati/alessandro-genovese
+- calciatori/alessandro-genovese
 ---
+
 
 # Alessandro Genovese — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Genovese** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alessandro Genovese** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

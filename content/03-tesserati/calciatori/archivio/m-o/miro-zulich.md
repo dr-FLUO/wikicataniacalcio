@@ -28,19 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/597_miro-zulich.jpg
 image_credits:
-- image_path: 'assets/images/players/597_miro-zulich.jpg'
-  alt_text: "Ritratto del calciatore Miro Zulich in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/597_miro-zulich.jpg
+  alt_text: Ritratto del calciatore Miro Zulich in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/miro-zulich
+aliases:
+- miro-zulich
+- tesserati/miro-zulich
+- calciatori/miro-zulich
 ---
+
 # Miro Zulich — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Miro Zulich in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/597_miro-zulich.jpg)
 *Ritratto del calciatore Miro Zulich in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Miro Zulich** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Miro Zulich** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

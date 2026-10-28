@@ -14,12 +14,12 @@ tags:
 - osvaldo-biancardi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Osvaldo Biancardi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Osvaldo Biancardi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Osvaldo_Biancardi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Osvaldo_Biancardi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Osvaldo Biancardi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/osvaldo-biancardi
+- osvaldo-biancardi
+- tesserati/osvaldo-biancardi
+- calciatori/osvaldo-biancardi
+birth_date: '1929-02-04'
+birth_place: Milano
+citizenship: Regno d'Italia
 ---
+
 # Osvaldo Biancardi — Scheda Giocatore nel Calcio Catania
 
-**Osvaldo Biancardi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Osvaldo Biancardi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

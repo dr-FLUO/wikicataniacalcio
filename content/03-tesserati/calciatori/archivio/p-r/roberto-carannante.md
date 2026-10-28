@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-carannante
+- roberto-carannante
+- tesserati/roberto-carannante
+- calciatori/roberto-carannante
 ---
+
 
 # Roberto Carannante — Scheda Giocatore nel Calcio Catania
 
-**Roberto Carannante** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Roberto Carannante** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

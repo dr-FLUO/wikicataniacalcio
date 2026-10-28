@@ -18,13 +18,13 @@ catania_periods:
 club_entities:
 - '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/giovanni-degni.jpg"
+image: assets/images/allenatori/giovanni-degni.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giovanni-degni.jpg"
-    alt_text: "Ritratto fotografico di Giovanni Degni allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giovanni-degni.jpg
+  alt_text: Ritratto fotografico di Giovanni Degni allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-trenta
@@ -32,12 +32,12 @@ tags:
 - serie-b
 - serie-c
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Degni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Degni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Degni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Degni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -51,7 +51,12 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giovanni-degni
+- giovanni-degni
+- tesserati/giovanni-degni
+- allenatori/giovanni-degni
+citizenship: Regno d'Italia
 ---
+
 # Giovanni Degni
 
 ![Ritratto ufficiale di Giovanni Degni sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/giovanni-degni.jpg)
@@ -80,8 +85,8 @@ Nel 1938-1939 conquistò una trionfale promozione in Serie B vincendo il girone 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1937-1938\|1937-1938]], [[stagioni/1938-1939\|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1937-1938|1937-1938]], [[stagioni/1938-1939|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1948-1949|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

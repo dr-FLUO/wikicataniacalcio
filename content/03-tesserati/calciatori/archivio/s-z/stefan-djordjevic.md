@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/stefan-djordjevic
+- stefan-djordjevic
+- tesserati/stefan-djordjevic
+- calciatori/stefan-djordjevic
 ---
+
 
 # Stefan Djordjevic — Scheda Giocatore nel Calcio Catania
 
-**Stefan Djordjevic** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Stefan Djordjevic** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - ferdinando-scarpa
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ferdinando Scarpa'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ferdinando Scarpa
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fernando_Scarpa_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fernando_Scarpa_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ferdinando Scarpa
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ferdinando-scarpa
+- ferdinando-scarpa
+- tesserati/ferdinando-scarpa
+- calciatori/ferdinando-scarpa
 image_credits:
-- image_path: '/assets/images/calciatori/ferdinando-scarpa.jpg'
-  alt_text: "Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/ferdinando-scarpa.jpg
+  alt_text: 'Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1947-07-06'
+birth_place: Lecce
+citizenship: Italia
 ---
+
 # Ferdinando Scarpa — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/ferdinando-scarpa.jpg)
 *Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Ferdinando Scarpa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ferdinando Scarpa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

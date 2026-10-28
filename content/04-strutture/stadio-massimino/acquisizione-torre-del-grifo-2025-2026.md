@@ -74,11 +74,11 @@ Nell'autunno del **2025**, con il progressivo ribasso della base d'asta a **4 mi
 
 | Data | Fase della Procedura | Valore / Importo | Esito e Conseguenze Patrimoniali |
 | :--- | :--- | :---: | :--- |
-| **22 dicembre 2021** | [[vicende-legali/fallimento-2021-art52-noif\|Sentenza di Fallimento n. 158/2021]] | Passivo > 55 M€ | Scorporo dell'asset immobiliare di [[stadio/torre-del-grifo\|Torre del Grifo]] dal ramo sportivo della matricola 11700. |
+| **22 dicembre 2021** | [[vicende-legali/fallimento-2021-art52-noif|Sentenza di Fallimento n. 158/2021]] | Passivo > 55 M€ | Scorporo dell'asset immobiliare di [[stadio/torre-del-grifo|Torre del Grifo]] dal ramo sportivo della matricola 11700. |
 | **2022–2024** | Prime aste giudiziarie della Curatela | Base ~28–30 M€ | Aste deserte per l'eccessiva onerosità della base d'asta e dei costi di riattivazione. |
-| **23 ottobre 2025** | **Gara competitiva telematica decisiva** | Base **4,01 M€** ➔ Aggiudicata a **5,50 M€** | Il **Gruppo Pelligra / [[societa/2022-pelligra-catania-fc\|Catania FC]]** supera i rilanci di *Aurora S.r.l.* (fermatasi a 5,25 M€). |
+| **23 ottobre 2025** | **Gara competitiva telematica decisiva** | Base **4,01 M€** ➔ Aggiudicata a **5,50 M€** | Il **Gruppo Pelligra / [[societa/2022-pelligra-catania-fc|Catania FC]]** supera i rilanci di *Aurora S.r.l.* (fermatasi a 5,25 M€). |
 | **30 ottobre 2025** | Scadenza termini aumento del decimo (+10%) | **5.500.000 €** | Aggiudicazione definitiva in favore della proprietà rossazzurra. |
-| **19 febbraio 2026** | **Versamento saldo e rogito notarile** | Saldo integrale | Consegna delle chiavi a [[societa/presidenti/vincenzo-grella\|Vincenzo Grella]] e avvio del cantiere di riapertura dei campi per la prima squadra e il settore giovanile. |
+| **19 febbraio 2026** | **Versamento saldo e rogito notarile** | Saldo integrale | Consegna delle chiavi a [[societa/presidenti/vincenzo-grella|Vincenzo Grella]] e avvio del cantiere di riapertura dei campi per la prima squadra e il settore giovanile. |
 
 ---
 

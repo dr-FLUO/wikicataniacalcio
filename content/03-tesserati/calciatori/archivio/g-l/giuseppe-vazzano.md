@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-vazzano
+- giuseppe-vazzano
+- tesserati/giuseppe-vazzano
+- calciatori/giuseppe-vazzano
 ---
+
 
 # Giuseppe Vazzano — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Vazzano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Vazzano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

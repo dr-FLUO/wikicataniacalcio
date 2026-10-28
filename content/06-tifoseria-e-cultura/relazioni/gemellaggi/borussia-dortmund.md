@@ -73,8 +73,8 @@ Tra gli elementi fondativi di questa fratellanza spiccano:
 
 | Tifoseria / Club Estero | Nazione e Città | Gruppi di Riferimento | Caratteristiche e Momenti Simbolo del Legame |
 | :--- | :--- | :--- | :--- |
-| **Borussia Dortmund** | Germania (Dortmund, Nordreno-Vestfalia) | *Desperados 1999*, *The Unity* (*Südtribüne*) | Fratellanza internazionale nata negli anni 2010 con la [[tifoseria/curva-sud/index\|Curva Sud]] e gruppi della [[tifoseria/curva-nord/index\|Curva Nord]]; asse triangolare con il [[tifoseria/gemellaggi/napoli\|Napoli]]; tributo del *Westfalenstadion* a [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]] nel febbraio 2017. |
-| **Polonia Bytom** | Polonia (Bytom, Alta Slesia) | Ultras *Polonia Bytom* | Legame internazionale coltivato dalla [[tifoseria/curva-sud/index\|Curva Sud]]; condivisione dei medesimi colori sociali **rosso e azzurro** e visite reciproche tra la Sicilia e la Slesia. |
+| **Borussia Dortmund** | Germania (Dortmund, Nordreno-Vestfalia) | *Desperados 1999*, *The Unity* (*Südtribüne*) | Fratellanza internazionale nata negli anni 2010 con la [[tifoseria/curva-sud/index|Curva Sud]] e gruppi della [[tifoseria/curva-nord/index|Curva Nord]]; asse triangolare con il [[tifoseria/gemellaggi/napoli|Napoli]]; tributo del *Westfalenstadion* a [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]] nel febbraio 2017. |
+| **Polonia Bytom** | Polonia (Bytom, Alta Slesia) | Ultras *Polonia Bytom* | Legame internazionale coltivato dalla [[tifoseria/curva-sud/index|Curva Sud]]; condivisione dei medesimi colori sociali **rosso e azzurro** e visite reciproche tra la Sicilia e la Slesia. |
 
 ---
 

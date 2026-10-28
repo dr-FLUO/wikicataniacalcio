@@ -20,12 +20,12 @@ tags:
 - serie-c1
 - era-gaucci
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Aldo Ammazzalorso"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Ammazzalorso
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Aldo_Ammazzalorso"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Aldo_Ammazzalorso
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -39,7 +39,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/aldo-ammazzalorso
+- aldo-ammazzalorso
+- tesserati/aldo-ammazzalorso
+- allenatori/aldo-ammazzalorso
 ---
+
 
 
 # Aldo Ammazzalorso
@@ -66,7 +70,7 @@ Mantenne la squadra costantemente al vertice della classifica conquistando 29 pu
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

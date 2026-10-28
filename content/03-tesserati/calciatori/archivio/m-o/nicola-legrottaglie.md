@@ -14,12 +14,12 @@ tags:
 - nicola-legrottaglie
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nicola Legrottaglie'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nicola Legrottaglie
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nicola_Legrottaglie'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nicola_Legrottaglie
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Nicola Legrottaglie
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/36_nicola-legrottaglie.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/nicola-legrottaglie.jpg'
-  alt_text: "Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/nicola-legrottaglie.jpg
+  alt_text: 'Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/nicola-legrottaglie
+- nicola-legrottaglie
+- tesserati/nicola-legrottaglie
+- calciatori/nicola-legrottaglie
+birth_date: '1976-10-20'
+birth_place: Gioia del Colle
+citizenship: Italia
 ---
+
 # Nicola Legrottaglie — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nicola-legrottaglie.jpg)
 *Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nicola Legrottaglie** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Nicola Legrottaglie** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

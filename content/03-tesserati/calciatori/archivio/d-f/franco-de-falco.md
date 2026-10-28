@@ -1,50 +1,56 @@
 ---
-title: "Franco De Falco — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Franco De Falco, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/franco-de-falco"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1959-04-02"
-birth_place: "Pomigliano d'Arco"
-death_date: ""
-nationality: "Italia"
+title: Franco De Falco — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Franco De Falco, attaccante
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/franco-de-falco
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1959-04-02'
+birth_place: Pomigliano d'Arco
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "franco-de-falco"
-  - "attaccante"
+- calciatori
+- franco-de-falco
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Franco De Falco"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Franco_De_Falco"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/franco-de-falco.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco De Falco
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Franco_De_Falco
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/franco-de-falco.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/franco-de-falco.jpg"
-    alt_text: "Ritratto fotografico di Franco De Falco calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/franco-de-falco.jpg
+  alt_text: Ritratto fotografico di Franco De Falco calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/franco-de-falco"
-  - "franco-de-falco"
+- tesserati/calciatori/franco-de-falco
+- franco-de-falco
+- tesserati/franco-de-falco
+- calciatori/franco-de-falco
+citizenship: Italia
 ---
+
 # Franco De Falco — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Franco De Falco in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/franco-de-falco.jpg)
 *Ritratto del calciatore Franco De Falco in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Franco De Falco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Franco De Falco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1959-04-02 — Pomigliano d'Arco |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

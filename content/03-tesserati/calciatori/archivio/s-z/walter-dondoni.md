@@ -14,12 +14,12 @@ tags:
 - walter-dondoni
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Walter Dondoni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Walter Dondoni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Walter_Dondoni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Walter_Dondoni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Walter Dondoni
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/walter-dondoni
+- walter-dondoni
+- tesserati/walter-dondoni
+- calciatori/walter-dondoni
+birth_date: '1965-08-18'
+birth_place: Milano
+citizenship: Italia
 ---
+
 # Walter Dondoni — Scheda Giocatore nel Calcio Catania
 
-**Walter Dondoni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Walter Dondoni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - enzo-garavoglia
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enzo Garavoglia'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enzo Garavoglia
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enzo_Garavoglia'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enzo_Garavoglia
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Enzo Garavoglia
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/enzo-garavoglia
+- enzo-garavoglia
+- tesserati/enzo-garavoglia
+- calciatori/enzo-garavoglia
+birth_date: '1920-01-03'
+birth_place: Torino
+citizenship: Regno d'Italia
 ---
+
 # Enzo Garavoglia — Scheda Giocatore nel Calcio Catania
 
-**Enzo Garavoglia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Enzo Garavoglia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -31,12 +31,12 @@ tags:
 - clamoroso-al-cibali
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Adelmo Prenna'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Adelmo Prenna
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Adelmo_Prenna'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Adelmo_Prenna
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
@@ -55,11 +55,11 @@ sources:
   reference: 'ID 648: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Prenna-648
 image_credits:
-- image_path: 'https://commons.wikimedia.org'
-  alt_text: "Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: https://commons.wikimedia.org
+  alt_text: Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: ../../assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp
   alt_text: Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio
   author_or_archive: Collezione Figurine Edizioni Panini / Lampo
@@ -67,7 +67,11 @@ image_credits:
   license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
 aliases:
 - tesserati/calciatori/adelmo-prenna
+- adelmo-prenna
+- tesserati/adelmo-prenna
+- calciatori/adelmo-prenna
 ---
+
 # Adelmo «Memo» Prenna
 
 ![Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio Catania nel 1960-1961 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp)
@@ -91,12 +95,12 @@ Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-m
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Campionato | Reti Campionato | Coppe Naz./Int. (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **1958-1959** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | F. Blason, [[tesserati/calciatori/nicolo-nicolosi\|N. Nicolosi]], [[tesserati/allenatori/carmelo-di-bella\|C. Di Bella]] | 25 | 5 | 2 (1) | **27 (6)** |
-| **1959-1960** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 28 | 11 | 1 (0) | **29 (11)** |
-| **[[stagioni/1960-1961\|1960-1961]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 32 | 11 | 2 (0) | **34 (11)** |
-| **1961-1962** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 25 | 7 | 2 (1) | **27 (8)** |
-| **1962-1963** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 18 | 5 | 2 (1) | **20 (6)** |
-| **[[stagioni/1963-1964\|1963-1964]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 18 | 6 | 3 (0) | **21 (6)** |
+| **1958-1959** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | F. Blason, [[tesserati/calciatori/nicolo-nicolosi|N. Nicolosi]], [[tesserati/allenatori/carmelo-di-bella|C. Di Bella]] | 25 | 5 | 2 (1) | **27 (6)** |
+| **1959-1960** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 28 | 11 | 1 (0) | **29 (11)** |
+| **[[stagioni/1960-1961|1960-1961]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 32 | 11 | 2 (0) | **34 (11)** |
+| **1961-1962** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 25 | 7 | 2 (1) | **27 (8)** |
+| **1962-1963** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 18 | 5 | 2 (1) | **20 (6)** |
+| **[[stagioni/1963-1964|1963-1964]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] | 18 | 6 | 3 (0) | **21 (6)** |
 | **Totale Carriera** | **6 Stagioni (1958–1964)** | **Serie A / B** | — | **146 (93 A + 53 B)** | **45 (29 A + 16 B)** | **12 (3)** | **158 (48)** |
 
 

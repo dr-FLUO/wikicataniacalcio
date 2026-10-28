@@ -14,12 +14,12 @@ tags:
 - nicola-fusaro
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nicola Fusaro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nicola Fusaro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nicola_Fusaro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nicola_Fusaro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Nicola Fusaro
   publisher: calciocatania.com
@@ -33,11 +33,11 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/525_nicola-fusaro.jpg
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp'
-  alt_text: "Figurina Panini del centrocampista Nicola Fusaro in casacca rossazzurra"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/figurine/nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp
+  alt_text: Figurina Panini del centrocampista Nicola Fusaro in casacca rossazzurra
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/players/525_nicola-fusaro.jpg
   alt_text: Ritratto del calciatore Nicola Fusaro in maglia rossazzurra del Calcio
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -45,7 +45,14 @@ image_credits:
   license_type: Pubblico Dominio / Fair Use
 aliases:
 - tesserati/calciatori/nicola-fusaro
+- nicola-fusaro
+- tesserati/nicola-fusaro
+- calciatori/nicola-fusaro
+birth_date: '1950-02-08'
+birth_place: Acri
+citizenship: Italia
 ---
+
 # Nicola Fusaro — Scheda Giocatore nel Calcio Catania
 
 ![Figurina Panini del centrocampista Nicola Fusaro in casacca rossazzurra 1975-1976 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/nicola-fusaro-calcio-catania-figurina-panini-1975-1976.webp)

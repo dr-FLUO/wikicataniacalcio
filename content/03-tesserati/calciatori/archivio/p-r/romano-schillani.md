@@ -40,7 +40,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/romano-schillani
+- romano-schillani
+- tesserati/romano-schillani
+- calciatori/romano-schillani
 ---
+
 
 
 # Romano Schillani
@@ -68,7 +72,7 @@ In un contesto segnato dai bombardamenti e dalle restrizioni belliche, Schillani
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1940-1942) | 50 | 12 | Centrocampista / Mediano | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
+| Campionato (1940-1942) | 50 | 12 | Centrocampista / Mediano | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 4 | 0 | Centrocampista / Mediano | Gare ufficiali |
 | **Totale Complessivo** | **54** | **12** | — | — |
 

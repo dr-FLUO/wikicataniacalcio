@@ -14,12 +14,12 @@ tags:
 - ferruccio-santamaria
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ferruccio Santamaria'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ferruccio Santamaria
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ferruccio_Santamaria'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ferruccio_Santamaria
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ferruccio Santamaria
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/723_ferruccio-santamaria.jpg
 image_credits:
-- image_path: 'assets/images/players/723_ferruccio-santamaria.jpg'
-  alt_text: "Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/723_ferruccio-santamaria.jpg
+  alt_text: Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/ferruccio-santamaria
+- ferruccio-santamaria
+- tesserati/ferruccio-santamaria
+- calciatori/ferruccio-santamaria
+birth_date: '1926-05-04'
+birth_place: Maddaloni
+citizenship: Italia
 ---
+
 # Ferruccio Santamaria — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/723_ferruccio-santamaria.jpg)
 *Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Ferruccio Santamaria** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ferruccio Santamaria** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

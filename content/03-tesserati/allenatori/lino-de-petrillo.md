@@ -14,13 +14,13 @@ catania_periods:
 - 1979-1981
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/lino-de-petrillo.jpg"
+image: assets/images/allenatori/lino-de-petrillo.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/lino-de-petrillo.jpg"
-    alt_text: "Ritratto fotografico di Lino De Petrillo allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/lino-de-petrillo.jpg
+  alt_text: Ritratto fotografico di Lino De Petrillo allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-settanta
@@ -30,12 +30,12 @@ tags:
 - promozione-1980
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Lino De Petrillo"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lino De Petrillo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Lino_De_Petrillo"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Lino_De_Petrillo
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -49,7 +49,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/lino-de-petrillo
+- lino-de-petrillo
+- tesserati/lino-de-petrillo
+- allenatori/lino-de-petrillo
 ---
+
 
 
 # Lino De Petrillo
@@ -80,7 +84,7 @@ Il 25 maggio 1980 a Reggio Calabria guidò i rossazzurri nella vittoria per 1-0 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1979-1980\|1979-1980]], [[stagioni/1980-1981\|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1979-1980|1979-1980]], [[stagioni/1980-1981|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

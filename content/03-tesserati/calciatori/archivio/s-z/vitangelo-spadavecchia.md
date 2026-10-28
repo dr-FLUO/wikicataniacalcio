@@ -14,12 +14,12 @@ tags:
 - vitangelo-spadavecchia
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Vitangelo Spadavecchia'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vitangelo Spadavecchia
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Vitangelo_Spadavecchia'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Vitangelo_Spadavecchia
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Vitangelo Spadavecchia
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/63_vitangelo-spadavecchia.jpg
 image_credits:
-- image_path: 'assets/images/players/63_vitangelo-spadavecchia.jpg'
-  alt_text: "Ritratto del calciatore Vitangelo Spadavecchia in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/63_vitangelo-spadavecchia.jpg
+  alt_text: Ritratto del calciatore Vitangelo Spadavecchia in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/vitangelo-spadavecchia
+- vitangelo-spadavecchia
+- tesserati/vitangelo-spadavecchia
+- calciatori/vitangelo-spadavecchia
+birth_date: '1982-11-25'
+birth_place: Molfetta
+citizenship: Italia
 ---
+
 # Vitangelo Spadavecchia — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Vitangelo Spadavecchia in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/63_vitangelo-spadavecchia.jpg)
 *Ritratto del calciatore Vitangelo Spadavecchia in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Vitangelo Spadavecchia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Vitangelo Spadavecchia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

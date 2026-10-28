@@ -29,11 +29,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/teixeira-dos-montes-wellington
+- teixeira-dos-montes-wellington
+- tesserati/teixeira-dos-montes-wellington
+- calciatori/teixeira-dos-montes-wellington
 ---
+
 
 # Teixeira dos Montes Wellington — Scheda Giocatore nel Calcio Catania
 
-**Teixeira dos Montes Wellington** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Calciatore**.
+**Teixeira dos Montes Wellington** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Calciatore**.
 
 ---
 

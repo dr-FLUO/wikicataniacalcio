@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gianluca-mammana
+- gianluca-mammana
+- tesserati/gianluca-mammana
+- calciatori/gianluca-mammana
 ---
+
 
 # Gianluca Mammana — Scheda Giocatore nel Calcio Catania
 
-**Gianluca Mammana** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gianluca Mammana** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

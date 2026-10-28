@@ -15,24 +15,24 @@ catania_periods:
 - 1977-1978
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/carlo-matteucci.jpg"
+image: assets/images/allenatori/carlo-matteucci.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/carlo-matteucci.jpg"
-    alt_text: "Ritratto fotografico di Carlo Matteucci allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/carlo-matteucci.jpg
+  alt_text: Ritratto fotografico di Carlo Matteucci allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-settanta
 - serie-c
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Carlo Matteucci"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Matteucci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Carlo_Matteucci_%28calciatore%29"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Carlo_Matteucci_%28calciatore%29
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/carlo-matteucci
+- carlo-matteucci
+- tesserati/carlo-matteucci
+- allenatori/carlo-matteucci
 ---
+
 
 
 # Carlo Matteucci
@@ -77,7 +81,7 @@ Lasciò la panchina a Mazzetti a nove turni dal termine dopo una cavalcata che p
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1977-1978\|1977-1978]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1977-1978|1977-1978]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

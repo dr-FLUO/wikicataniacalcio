@@ -14,12 +14,12 @@ tags:
 - bruno-zucchelli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Bruno Zucchelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Bruno Zucchelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Bruno_Zucchelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Bruno_Zucchelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Bruno Zucchelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/bruno-zucchelli
+- bruno-zucchelli
+- tesserati/bruno-zucchelli
+- calciatori/bruno-zucchelli
+birth_date: '1922-05-14'
+birth_place: Cornegliano Laudense
+citizenship: Italia
 ---
+
 # Bruno Zucchelli — Scheda Giocatore nel Calcio Catania
 
-**Bruno Zucchelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Bruno Zucchelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

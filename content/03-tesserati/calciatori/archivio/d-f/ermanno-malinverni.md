@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ermanno-malinverni
+- ermanno-malinverni
+- tesserati/ermanno-malinverni
+- calciatori/ermanno-malinverni
 ---
+
 
 # Ermanno Malinverni — Scheda Giocatore nel Calcio Catania
 
-**Ermanno Malinverni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ermanno Malinverni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

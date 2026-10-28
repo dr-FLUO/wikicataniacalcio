@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/júnior-josé-correia-ze-turbo
+- júnior-josé-correia-ze-turbo
+- tesserati/júnior-josé-correia-ze-turbo
+- calciatori/júnior-josé-correia-ze-turbo
 ---
+
 
 # Júnior José Correia Ze Turbo — Scheda Giocatore nel Calcio Catania
 
-**Júnior José Correia Ze Turbo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Júnior José Correia Ze Turbo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

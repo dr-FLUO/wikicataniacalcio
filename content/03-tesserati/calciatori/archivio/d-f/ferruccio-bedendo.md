@@ -1,40 +1,46 @@
 ---
-title: "Ferruccio Bedendo — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Ferruccio Bedendo, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/ferruccio-bedendo"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1906-08-12"
-birth_place: "Rovigo"
-death_date: ""
-nationality: "Italia"
+title: Ferruccio Bedendo — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Ferruccio Bedendo, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/ferruccio-bedendo
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1906-08-12'
+birth_place: Rovigo
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "ferruccio-bedendo"
-  - "centrocampista"
+- calciatori
+- ferruccio-bedendo
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Ferruccio Bedendo"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Ferruccio_Bedendo"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ferruccio Bedendo
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Ferruccio_Bedendo
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/ferruccio-bedendo"
-  - "ferruccio-bedendo"
+- tesserati/calciatori/ferruccio-bedendo
+- ferruccio-bedendo
+- tesserati/ferruccio-bedendo
+- calciatori/ferruccio-bedendo
+citizenship: Italia
 ---
+
 # Ferruccio Bedendo — Scheda Giocatore nel Calcio Catania
 
-**Ferruccio Bedendo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ferruccio Bedendo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1906-08-12 — Rovigo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

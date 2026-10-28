@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-cagnale
+- alessandro-cagnale
+- tesserati/alessandro-cagnale
+- calciatori/alessandro-cagnale
 ---
+
 
 # Alessandro Cagnale — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Cagnale** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alessandro Cagnale** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

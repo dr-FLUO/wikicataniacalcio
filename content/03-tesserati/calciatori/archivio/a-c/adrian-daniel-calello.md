@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/adrian-daniel-calello
+- adrian-daniel-calello
+- tesserati/adrian-daniel-calello
+- calciatori/adrian-daniel-calello
 ---
+
 
 # Adrian Daniel Calello — Scheda Giocatore nel Calcio Catania
 
-**Adrian Daniel Calello** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Adrian Daniel Calello** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cesar-gustavo-ghezzi
+- cesar-gustavo-ghezzi
+- tesserati/cesar-gustavo-ghezzi
+- calciatori/cesar-gustavo-ghezzi
 ---
+
 
 # Cesar Gustavo Ghezzi — Scheda Giocatore nel Calcio Catania
 
-**Cesar Gustavo Ghezzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Cesar Gustavo Ghezzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

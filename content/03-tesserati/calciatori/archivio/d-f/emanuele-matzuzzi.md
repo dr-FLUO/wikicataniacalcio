@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/emanuele-matzuzzi
+- emanuele-matzuzzi
+- tesserati/emanuele-matzuzzi
+- calciatori/emanuele-matzuzzi
 ---
+
 
 # Emanuele Matzuzzi — Scheda Giocatore nel Calcio Catania
 
-**Emanuele Matzuzzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Emanuele Matzuzzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

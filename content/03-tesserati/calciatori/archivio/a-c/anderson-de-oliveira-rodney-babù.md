@@ -28,20 +28,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg
 image_credits:
-- image_path: 'assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg'
-  alt_text: "Ritratto del calciatore Anderson de Oliveira Rodney Babù in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg
+  alt_text: Ritratto del calciatore Anderson de Oliveira Rodney Babù in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/anderson-de-oliveira-rodney-babù
+- anderson-de-oliveira-rodney-babù
+- tesserati/anderson-de-oliveira-rodney-babù
+- calciatori/anderson-de-oliveira-rodney-babù
 ---
+
 # Anderson de Oliveira Rodney Babù — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Anderson de Oliveira Rodney Babù in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg)
 *Ritratto del calciatore Anderson de Oliveira Rodney Babù in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Anderson de Oliveira Rodney Babù** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Anderson de Oliveira Rodney Babù** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

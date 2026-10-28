@@ -14,12 +14,12 @@ tags:
 - claudio-bonomi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Bonomi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Bonomi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Bonomi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Bonomi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Claudio Bonomi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/174_claudio-bonomi.jpg
 image_credits:
-- image_path: 'assets/images/players/174_claudio-bonomi.jpg'
-  alt_text: "Ritratto del calciatore Claudio Bonomi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/174_claudio-bonomi.jpg
+  alt_text: Ritratto del calciatore Claudio Bonomi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/claudio-bonomi
+- claudio-bonomi
+- tesserati/claudio-bonomi
+- calciatori/claudio-bonomi
+birth_date: '1972-12-28'
+birth_place: Codogno
+citizenship: Italia
 ---
+
 # Claudio Bonomi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Claudio Bonomi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/174_claudio-bonomi.jpg)
 *Ritratto del calciatore Claudio Bonomi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Claudio Bonomi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Claudio Bonomi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

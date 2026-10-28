@@ -14,12 +14,12 @@ tags:
 - roberto-pidone
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto Pidone'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto Pidone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_Pidone'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_Pidone
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto Pidone
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/461_roberto-pidone.jpg
 image_credits:
-- image_path: 'assets/images/players/461_roberto-pidone.jpg'
-  alt_text: "Ritratto del calciatore Roberto Pidone in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/461_roberto-pidone.jpg
+  alt_text: Ritratto del calciatore Roberto Pidone in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/roberto-pidone
+- roberto-pidone
+- tesserati/roberto-pidone
+- calciatori/roberto-pidone
+birth_date: '1954-11-25'
+birth_place: Castelnuovo di Garfagnana
+citizenship: Italia
 ---
+
 # Roberto Pidone — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Roberto Pidone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/461_roberto-pidone.jpg)
 *Ritratto del calciatore Roberto Pidone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Roberto Pidone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Roberto Pidone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

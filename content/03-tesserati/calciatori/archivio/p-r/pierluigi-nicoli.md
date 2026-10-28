@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pierluigi-nicoli
+- pierluigi-nicoli
+- tesserati/pierluigi-nicoli
+- calciatori/pierluigi-nicoli
 ---
+
 
 # Pierluigi Nicoli — Scheda Giocatore nel Calcio Catania
 
-**Pierluigi Nicoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pierluigi Nicoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

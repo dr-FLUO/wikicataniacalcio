@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-pasqualini
+- mario-pasqualini
+- tesserati/mario-pasqualini
+- calciatori/mario-pasqualini
 ---
+
 
 # Mario Pasqualini — Scheda Giocatore nel Calcio Catania
 
-**Mario Pasqualini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Mario Pasqualini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -27,12 +27,12 @@ tags:
 - serie-b
 - lajos-politzer
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Guido Klein'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guido Klein
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Guido_Klein'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Guido_Klein
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Klein-720
 aliases:
 - tesserati/calciatori/guido-klein
+- guido-klein
+- tesserati/guido-klein
+- calciatori/guido-klein
+citizenship: Italia
+seasons_count: 6
 ---
+
 # Guido Klein
 
 **Guido Klein** (Roma, 8 gennaio 1923 – Roma, 12 aprile 2002) è stato un calciatore e allenatore di calcio italiano, nel ruolo di attaccante. Approdato al Catania nell'estate del **1950**, fu il bomber principe e l'idolo indiscusso della tifoseria del Cibali nel triennio cadetto 1950-1953, collezionando **91 presenze e 32 reti ufficiali**.
@@ -73,7 +79,7 @@ Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1950-1953) | 91 | 32 | Attaccante / Centravanti / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1950-1953) | 91 | 32 | Attaccante / Centravanti / Ala | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **91** | **32** | — | — |
 
 ---

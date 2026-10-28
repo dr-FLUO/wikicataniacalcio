@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/federico-daposemilio
+- federico-daposemilio
+- tesserati/federico-daposemilio
+- calciatori/federico-daposemilio
 ---
+
 
 # Federico D&apos;emilio — Scheda Giocatore nel Calcio Catania
 
-**Federico D&apos;emilio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Federico D&apos;emilio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

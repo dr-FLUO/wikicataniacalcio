@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gaspare-cacciola
+- gaspare-cacciola
+- tesserati/gaspare-cacciola
+- calciatori/gaspare-cacciola
 ---
+
 
 # Gaspare Cacciola — Scheda Giocatore nel Calcio Catania
 
-**Gaspare Cacciola** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gaspare Cacciola** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

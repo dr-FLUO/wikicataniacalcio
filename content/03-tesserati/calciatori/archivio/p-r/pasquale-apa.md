@@ -14,12 +14,12 @@ tags:
 - pasquale-apa
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pasquale Apa'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pasquale Apa
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pasquale_Apa'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pasquale_Apa
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pasquale Apa
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pasquale-apa
+- pasquale-apa
+- tesserati/pasquale-apa
+- calciatori/pasquale-apa
+birth_date: '1973-12-08'
+birth_place: Rocca di Neto
+citizenship: Italia
 ---
+
 # Pasquale Apa — Scheda Giocatore nel Calcio Catania
 
-**Pasquale Apa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pasquale Apa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-pedotti
+- marco-pedotti
+- tesserati/marco-pedotti
+- calciatori/marco-pedotti
 ---
+
 
 # Marco Pedotti — Scheda Giocatore nel Calcio Catania
 
-**Marco Pedotti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Marco Pedotti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

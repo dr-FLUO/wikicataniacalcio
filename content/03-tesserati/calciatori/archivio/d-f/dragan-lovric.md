@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1022_dragan-lovric.jpg
 image_credits:
-- image_path: 'assets/images/players/1022_dragan-lovric.jpg'
-  alt_text: "Ritratto del calciatore Dragan Lovric in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1022_dragan-lovric.jpg
+  alt_text: Ritratto del calciatore Dragan Lovric in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/dragan-lovric
+- dragan-lovric
+- tesserati/dragan-lovric
+- calciatori/dragan-lovric
 ---
+
 # Dragan Lovric — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Dragan Lovric in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1022_dragan-lovric.jpg)
 *Ritratto del calciatore Dragan Lovric in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Dragan Lovric** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Dragan Lovric** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

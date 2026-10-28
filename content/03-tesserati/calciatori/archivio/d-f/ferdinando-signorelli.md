@@ -14,12 +14,12 @@ tags:
 - ferdinando-signorelli
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ferdinando Signorelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ferdinando Signorelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ferdinando_Signorelli_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ferdinando_Signorelli_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ferdinando Signorelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ferdinando-signorelli
+- ferdinando-signorelli
+- tesserati/ferdinando-signorelli
+- calciatori/ferdinando-signorelli
+birth_date: '1967-01-05'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Ferdinando Signorelli — Scheda Giocatore nel Calcio Catania
 
-**Ferdinando Signorelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ferdinando Signorelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

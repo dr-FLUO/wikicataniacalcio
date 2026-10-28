@@ -52,7 +52,7 @@ Queste opere costituiscono le fonti primarie di riferimento per la ricostruzione
 | Opera | Autori | Casa Editrice / Luogo | Anno | Caratteristiche e Contenuto Documentale |
 | :--- | :--- | :--- | :--- | :--- |
 | **Tutto il Catania minuto per minuto** | Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino | GEO Edizioni (Empoli) | 2010 (agg. 2011) | **528 pagine, opera omnia definitiva**. Ricostruzione partita per partita di tutte le gare ufficiali dal 1929 al 2011: campionati, Coppa Italia, spareggi, marcatori, minutaggi e formazioni. |
-| **Dal fondo... ai vertici. 1908-1958: Cinquant'anni di calcio a Catania** | Carmelo Gennaro, [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]] | Industrie Grafiche Siciliane (Catania) | 1958 | **Prima opera monografica organica**. Documenta il periodo pionieristico, l'approdo dell'SS Catania in Serie B (1934) e la prima storica promozione in Serie A del 1954. |
+| **Dal fondo... ai vertici. 1908-1958: Cinquant'anni di calcio a Catania** | Carmelo Gennaro, [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]] | Industrie Grafiche Siciliane (Catania) | 1958 | **Prima opera monografica organica**. Documenta il periodo pionieristico, l'approdo dell'SS Catania in Serie B (1934) e la prima storica promozione in Serie A del 1954. |
 | **Il libro del Catania** | Roberto Quartarone | Edizioni InContro (Catania) | 2013 | Trattato storico e iconografico con approfondimenti sui record societari e sulle figure dei dirigenti e tecnici storici. |
 | **Due secoli di calcio a Catania** | Roberto Quartarone | Edizioni Koinè (Catania) | 2018 | Rassegna documentale dalle prime sfide tra marinai inglesi e studenti all'evoluzione moderna del tifo e del professionismo etneo. |
 
@@ -63,15 +63,15 @@ Queste opere costituiscono le fonti primarie di riferimento per la ricostruzione
 La dimensione umana, passionale e dirigenziale del Catania è stata raccontata da protagonisti del giornalismo e della letteratura sportiva:
 
 * **Alessandro Russo**, *Angelo Massimino. Una vita per il (suo) Catania*, Edizioni InContro, Catania, 2007.  
-  *La biografia autorizzata e documentale del [[01-societa/presidenti/angelo-massimino\|Cavaliere Angelo Massimino]], presidente per un quarto di secolo. Il volume raccoglie atti societari, aneddoti di mercato, l'epopea dello spareggio dell'Olimpico del 1983 e le vicende legali dell'estate 1993.*
-* **[[07-media-e-comunicazione/firme-e-voci/candido-cannavo\|Candido Cannavò]]**, *Una vita in rosa*, Rizzoli, Milano, 2002.  
-  *Autobiografia dello storico direttore de [[media/testate/la-sicilia\|La Gazzetta dello Sport]], che ripercorre i suoi esordi giovanili da cronista di campo al Cibali durante l'epoca d'oro di [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] negli anni Sessanta.*
-* **[[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]]**, *Il rosso e l'azzurro. Catania, quarant'anni di una passione innamorata*, Editoriale La Sicilia, Catania, 1984.  
+  *La biografia autorizzata e documentale del [[01-societa/presidenti/angelo-massimino|Cavaliere Angelo Massimino]], presidente per un quarto di secolo. Il volume raccoglie atti societari, aneddoti di mercato, l'epopea dello spareggio dell'Olimpico del 1983 e le vicende legali dell'estate 1993.*
+* **[[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]]**, *Una vita in rosa*, Rizzoli, Milano, 2002.  
+  *Autobiografia dello storico direttore de [[media/testate/la-sicilia|La Gazzetta dello Sport]], che ripercorre i suoi esordi giovanili da cronista di campo al Cibali durante l'epoca d'oro di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta.*
+* **[[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]]**, *Il rosso e l'azzurro. Catania, quarant'anni di una passione innamorata*, Editoriale La Sicilia, Catania, 1984.  
   *Saggio memorialistico che sintetizza il legame viscerale tra la comunità cittadina, il vulcano Etna e i colori rossazzurri dalla ricostruzione del 1946 fino al trionfo di Roma del 1983.*
 * **Gianfranco Pensavalli**, *Clamoroso al Cibali! Mezzo secolo di calcio a Catania minuto per minuto*, Nuova Ipotesi Editrice, Catania, 1999.  
-  *Ricostruzione romanzata e giornalistica incentrata sul celebre detto coniato da [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti\|Sandro Ciotti]] in occasione di [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0\|Catania-Inter 2-0 del 4 giugno 1961]].*
+  *Ricostruzione romanzata e giornalistica incentrata sul celebre detto coniato da [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti|Sandro Ciotti]] in occasione di [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]].*
 * **Flavio Gagliano**, *L'etere rossazzurro: quarant'anni di tv e radio al seguito del Catania*, Edizioni Etnee, Catania, 2021.  
-  *Storia del giornalismo radiotelevisivo etneo, da [[media/testate/telecolor\|Telecolor]] e [[media/testate/antenna-sicilia\|Antenna Sicilia]] alla figura iconica di [[07-media-e-comunicazione/firme-e-voci/stefania-sberna\|Stefania Sberna]].*
+  *Storia del giornalismo radiotelevisivo etneo, da [[media/testate/telecolor|Telecolor]] e [[media/testate/antenna-sicilia|Antenna Sicilia]] alla figura iconica di [[07-media-e-comunicazione/firme-e-voci/stefania-sberna|Stefania Sberna]].*
 
 ---
 

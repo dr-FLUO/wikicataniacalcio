@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luigi-tarallo
+- luigi-tarallo
+- tesserati/luigi-tarallo
+- calciatori/luigi-tarallo
 ---
+
 
 # Luigi Tarallo — Scheda Giocatore nel Calcio Catania
 
-**Luigi Tarallo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luigi Tarallo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -8,6 +8,9 @@ slug: 03-tesserati/calciatori/storici/orazio-russo
 aliases:
 - societa/personaggi/orazio-russo
 - tesserati/calciatori/orazio-russo
+- orazio-russo
+- tesserati/orazio-russo
+- calciatori/orazio-russo
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-27'
@@ -44,12 +47,12 @@ tags:
 - allenatori
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Orazio Russo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Orazio Russo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Orazio_Russo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Orazio_Russo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -76,12 +79,16 @@ cover_caption: 'Orazio Russo con la divisa sociale del Calcio Catania: bandiera,
 cover_credit: Archivio Storico Calcio Catania (Pubblico Dominio)
 image: assets/images/calciatori/archivio-calciocatania/orazio-russo-calcio-catania-attaccante-1991-2010.webp
 image_credits:
-- image_path: '/assets/images/calciatori/orazio-russo.jpg'
-  alt_text: "Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/orazio-russo.jpg
+  alt_text: 'Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Italia
+seasons_count: 6
 ---
+
 # Orazio Russo
 
 ![Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/orazio-russo.jpg)

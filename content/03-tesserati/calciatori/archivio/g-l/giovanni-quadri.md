@@ -14,12 +14,12 @@ tags:
 - giovanni-quadri
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Quadri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Quadri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Quadri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Quadri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Quadri
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-quadri
+- giovanni-quadri
+- tesserati/giovanni-quadri
+- calciatori/giovanni-quadri
+birth_date: '1951-03-06'
+birth_place: Cornate d'Adda
+citizenship: Italia
 ---
+
 # Giovanni Quadri — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Quadri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giovanni Quadri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - alessandro-colasante
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alessandro Colasante'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Colasante
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alessandro_Colasante'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alessandro_Colasante
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Alessandro Colasante
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-colasante
+- alessandro-colasante
+- tesserati/alessandro-colasante
+- calciatori/alessandro-colasante
+birth_date: '1973-08-02'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Alessandro Colasante — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Colasante** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Colasante** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

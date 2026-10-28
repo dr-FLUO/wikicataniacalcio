@@ -14,12 +14,12 @@ tags:
 - claudio-onofri
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Onofri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Onofri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Onofri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Onofri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Claudio Onofri
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/claudio-onofri
+- claudio-onofri
+- tesserati/claudio-onofri
+- calciatori/claudio-onofri
+birth_date: '1952-07-24'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Claudio Onofri — Scheda Giocatore nel Calcio Catania
 
-**Claudio Onofri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Claudio Onofri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

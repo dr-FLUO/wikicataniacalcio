@@ -29,12 +29,12 @@ tags:
 - serie-c
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Guido Mazzetti"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guido Mazzetti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Guido_Mazzetti"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Guido_Mazzetti
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,14 +48,18 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 image: assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp
 image_credits:
-- image_path: 'assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp'
-  alt_text: "Guido Mazzetti, leggenda della panchina etnea negli anni Settanta"
-  author_or_archive: "Archivio Storico Giornalistico Catanese"
+- image_path: assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp
+  alt_text: Guido Mazzetti, leggenda della panchina etnea negli anni Settanta
+  author_or_archive: Archivio Storico Giornalistico Catanese
   year: 1983
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/guido-mazzetti
+- guido-mazzetti
+- tesserati/guido-mazzetti
+- allenatori/guido-mazzetti
 ---
+
 ![Guido Mazzetti, leggenda della panchina etnea negli anni Settanta — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp)
 *Guido Mazzetti, leggenda della panchina etnea negli anni Settanta — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
@@ -84,11 +88,11 @@ Nel 1977-1978 subentrò a Matteucci portando la squadra allo spareggio promozion
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1973-1974\|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1975-1976\|1975-1976]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1977-1978\|1977-1978]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1980-1981\|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1973-1974|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1975-1976|1975-1976]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1977-1978|1977-1978]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1980-1981|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1985-1986|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

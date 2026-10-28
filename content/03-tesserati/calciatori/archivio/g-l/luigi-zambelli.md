@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luigi-zambelli
+- luigi-zambelli
+- tesserati/luigi-zambelli
+- calciatori/luigi-zambelli
 ---
+
 
 # Luigi Zambelli — Scheda Giocatore nel Calcio Catania
 
-**Luigi Zambelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luigi Zambelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

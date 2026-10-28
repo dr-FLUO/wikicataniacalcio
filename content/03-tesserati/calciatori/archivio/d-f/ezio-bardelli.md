@@ -14,12 +14,12 @@ tags:
 - ezio-bardelli
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ezio Bardelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ezio Bardelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ezio_Bardelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ezio_Bardelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ezio Bardelli
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/713_ezio-bardelli.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/ezio-bardelli.jpg'
-  alt_text: "Ritratto ufficiale di Ezio Bardelli — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/ezio-bardelli.jpg
+  alt_text: 'Ritratto ufficiale di Ezio Bardelli — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/ezio-bardelli
+- ezio-bardelli
+- tesserati/ezio-bardelli
+- calciatori/ezio-bardelli
+birth_date: '1930-05-09'
+birth_place: Milano
+citizenship: Regno d'Italia
 ---
+
 # Ezio Bardelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Ezio Bardelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/ezio-bardelli.jpg)
 *Ritratto ufficiale di Ezio Bardelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Ezio Bardelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Ezio Bardelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Ezio Bardelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

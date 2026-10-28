@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/aldo-campodallorto
+- aldo-campodallorto
+- tesserati/aldo-campodallorto
+- calciatori/aldo-campodallorto
 ---
+
 
 # Aldo Campodallorto — Scheda Giocatore nel Calcio Catania
 
-**Aldo Campodallorto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Aldo Campodallorto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

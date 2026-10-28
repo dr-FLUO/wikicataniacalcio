@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/filippo-daposandrea
+- filippo-daposandrea
+- tesserati/filippo-daposandrea
+- calciatori/filippo-daposandrea
 ---
+
 
 # Filippo D&apos;Andrea — Scheda Giocatore nel Calcio Catania
 
-**Filippo D&apos;Andrea** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Filippo D&apos;Andrea** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

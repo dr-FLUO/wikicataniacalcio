@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andres-tello
+- andres-tello
+- tesserati/andres-tello
+- calciatori/andres-tello
 ---
+
 
 # Andres Tello — Scheda Giocatore nel Calcio Catania
 
-**Andres Tello** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andres Tello** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

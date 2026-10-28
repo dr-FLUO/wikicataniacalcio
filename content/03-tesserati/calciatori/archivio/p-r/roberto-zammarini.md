@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-zammarini
+- roberto-zammarini
+- tesserati/roberto-zammarini
+- calciatori/roberto-zammarini
 ---
+
 
 # Roberto Zammarini — Scheda Giocatore nel Calcio Catania
 
-**Roberto Zammarini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Roberto Zammarini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

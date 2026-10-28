@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-provenzano
+- giuseppe-provenzano
+- tesserati/giuseppe-provenzano
+- calciatori/giuseppe-provenzano
 ---
+
 
 # Giuseppe Provenzano — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Provenzano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giuseppe Provenzano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giacomo-graziano
+- giacomo-graziano
+- tesserati/giacomo-graziano
+- calciatori/giacomo-graziano
 ---
+
 
 # Giacomo Graziano — Scheda Giocatore nel Calcio Catania
 
-**Giacomo Graziano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giacomo Graziano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

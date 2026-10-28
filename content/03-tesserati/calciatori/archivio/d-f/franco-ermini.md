@@ -14,12 +14,12 @@ tags:
 - franco-ermini
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Franco Ermini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Franco Ermini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Franco_Ermini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Franco_Ermini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Franco Ermini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/474_franco-ermini.jpg
 image_credits:
-- image_path: 'assets/images/players/474_franco-ermini.jpg'
-  alt_text: "Ritratto del calciatore Franco Ermini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/474_franco-ermini.jpg
+  alt_text: Ritratto del calciatore Franco Ermini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/franco-ermini
+- franco-ermini
+- tesserati/franco-ermini
+- calciatori/franco-ermini
+birth_date: '1961-08-13'
+birth_place: Figline Valdarno
+citizenship: Italia
 ---
+
 # Franco Ermini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Franco Ermini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/474_franco-ermini.jpg)
 *Ritratto del calciatore Franco Ermini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Franco Ermini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Franco Ermini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

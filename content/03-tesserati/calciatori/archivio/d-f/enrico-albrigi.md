@@ -14,12 +14,12 @@ tags:
 - enrico-albrigi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enrico Albrigi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enrico Albrigi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enrico_Albrigi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enrico_Albrigi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Enrico Albrigi
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/622_enrico-albrigi.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/enrico-albrigi.jpg'
-  alt_text: "Ritratto ufficiale di Enrico Albrigi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/enrico-albrigi.jpg
+  alt_text: 'Ritratto ufficiale di Enrico Albrigi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/enrico-albrigi
+- enrico-albrigi
+- tesserati/enrico-albrigi
+- calciatori/enrico-albrigi
+birth_date: '1943-01-05'
+birth_place: Castiglione Olona
+citizenship: Italia
 ---
+
 # Enrico Albrigi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Enrico Albrigi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/enrico-albrigi.jpg)
 *Ritratto ufficiale di Enrico Albrigi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Enrico Albrigi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Enrico Albrigi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Enrico Albrigi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

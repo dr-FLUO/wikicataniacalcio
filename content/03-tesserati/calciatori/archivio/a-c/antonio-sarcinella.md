@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonio-sarcinella
+- antonio-sarcinella
+- tesserati/antonio-sarcinella
+- calciatori/antonio-sarcinella
 ---
+
 
 # Antonio Sarcinella — Scheda Giocatore nel Calcio Catania
 
-**Antonio Sarcinella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Antonio Sarcinella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

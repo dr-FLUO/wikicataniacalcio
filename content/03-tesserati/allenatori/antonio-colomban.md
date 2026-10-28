@@ -15,24 +15,24 @@ catania_periods:
 - 1985-1986
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/antonio-colomban.jpg"
+image: assets/images/allenatori/antonio-colomban.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/antonio-colomban.jpg"
-    alt_text: "Ritratto fotografico di Antonio Colomban allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/antonio-colomban.jpg
+  alt_text: Ritratto fotografico di Antonio Colomban allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-ottanta
 - serie-b
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Antonio Colomban"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Antonio Colomban
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Antonio_Colomban"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Antonio_Colomban
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/antonio-colomban
+- antonio-colomban
+- tesserati/antonio-colomban
+- allenatori/antonio-colomban
 ---
+
 
 
 # Antonio Colomban
@@ -77,7 +81,7 @@ Lavorò al fianco del D.T. Guido Mazzetti cercando di infondere disciplina tatti
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1985-1986|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

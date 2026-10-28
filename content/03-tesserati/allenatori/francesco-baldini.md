@@ -14,13 +14,13 @@ catania_periods:
 - 2020-2022
 club_entities:
 - '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
-image: "assets/images/allenatori/francesco-baldini.jpg"
+image: assets/images/allenatori/francesco-baldini.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/francesco-baldini.jpg"
-    alt_text: "Ritratto fotografico di Francesco Baldini allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/francesco-baldini.jpg
+  alt_text: Ritratto fotografico di Francesco Baldini allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemilaventi
@@ -29,12 +29,12 @@ tags:
 - resistenza
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Francesco Baldini"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Baldini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Francesco_Baldini"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Francesco_Baldini
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/francesco-baldini
+- francesco-baldini
+- tesserati/francesco-baldini
+- allenatori/francesco-baldini
 ---
+
 
 
 # Francesco Baldini
@@ -79,7 +83,7 @@ Nonostante mesi senza stipendi e la revoca dell'esercizio provvisorio il 9 april
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2020-2021\|2020-2021]], [[stagioni/2021-2022\|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2020-2021|2020-2021]], [[stagioni/2021-2022|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

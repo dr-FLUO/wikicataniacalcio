@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/emanuele-docente
+- emanuele-docente
+- tesserati/emanuele-docente
+- calciatori/emanuele-docente
 ---
+
 
 # Emanuele Docente — Scheda Giocatore nel Calcio Catania
 
-**Emanuele Docente** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Emanuele Docente** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

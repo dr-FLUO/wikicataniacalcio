@@ -1,40 +1,46 @@
 ---
-title: "Damián Macaluso — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Damián Macaluso, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/damian-macaluso"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1980-03-09"
-birth_place: "Montevideo"
-death_date: ""
-nationality: "Italia"
+title: Damián Macaluso — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Damián Macaluso, difensore
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/damian-macaluso
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1980-03-09'
+birth_place: Montevideo
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "damian-macaluso"
-  - "difensore"
+- calciatori
+- damian-macaluso
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Damián Macaluso"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Dami%C3%A1n_Macaluso"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Damián Macaluso
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Dami%C3%A1n_Macaluso
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/damian-macaluso"
-  - "damian-macaluso"
+- tesserati/calciatori/damian-macaluso
+- damian-macaluso
+- tesserati/damian-macaluso
+- calciatori/damian-macaluso
+citizenship: Italia
 ---
+
 # Damián Macaluso — Scheda Giocatore nel Calcio Catania
 
-**Damián Macaluso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Damián Macaluso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1980-03-09 — Montevideo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

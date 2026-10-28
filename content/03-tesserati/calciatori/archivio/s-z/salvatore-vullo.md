@@ -14,12 +14,12 @@ tags:
 - salvatore-vullo
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Salvatore Vullo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Salvatore Vullo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Salvatore_Vullo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Salvatore_Vullo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Salvatore Vullo
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-vullo
+- salvatore-vullo
+- tesserati/salvatore-vullo
+- calciatori/salvatore-vullo
+birth_date: '1953-10-30'
+birth_place: Favara
+citizenship: Italia
 ---
+
 # Salvatore Vullo — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Vullo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Salvatore Vullo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

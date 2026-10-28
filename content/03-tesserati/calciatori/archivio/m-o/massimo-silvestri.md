@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimo-silvestri
+- massimo-silvestri
+- tesserati/massimo-silvestri
+- calciatori/massimo-silvestri
 ---
+
 
 # Massimo Silvestri — Scheda Giocatore nel Calcio Catania
 
-**Massimo Silvestri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Massimo Silvestri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

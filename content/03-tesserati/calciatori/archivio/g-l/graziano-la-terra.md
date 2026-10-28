@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/graziano-la-terra
+- graziano-la-terra
+- tesserati/graziano-la-terra
+- calciatori/graziano-la-terra
 ---
+
 
 # Graziano La Terra — Scheda Giocatore nel Calcio Catania
 
-**Graziano La Terra** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Graziano La Terra** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

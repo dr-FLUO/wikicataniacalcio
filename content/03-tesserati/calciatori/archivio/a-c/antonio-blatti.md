@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonio-blatti
+- antonio-blatti
+- tesserati/antonio-blatti
+- calciatori/antonio-blatti
 ---
+
 
 # Antonio Blatti — Scheda Giocatore nel Calcio Catania
 
-**Antonio Blatti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Antonio Blatti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-barbaresi
+- mario-barbaresi
+- tesserati/mario-barbaresi
+- calciatori/mario-barbaresi
 ---
+
 
 # Mario Barbaresi — Scheda Giocatore nel Calcio Catania
 
-**Mario Barbaresi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Mario Barbaresi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

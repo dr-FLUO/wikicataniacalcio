@@ -14,12 +14,12 @@ tags:
 - emilio-bonci
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Emilio Bonci'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Emilio Bonci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Emilio_Bonci'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Emilio_Bonci
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Emilio Bonci
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/671_emilio-bonci.jpg
 image_credits:
-- image_path: 'assets/images/players/671_emilio-bonci.jpg'
-  alt_text: "Ritratto del calciatore Emilio Bonci in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/671_emilio-bonci.jpg
+  alt_text: Ritratto del calciatore Emilio Bonci in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/emilio-bonci
+- emilio-bonci
+- tesserati/emilio-bonci
+- calciatori/emilio-bonci
+birth_date: '1928-08-04'
+birth_place: Cesena
+citizenship: Italia
 ---
+
 # Emilio Bonci — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Emilio Bonci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/671_emilio-bonci.jpg)
 *Ritratto del calciatore Emilio Bonci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Emilio Bonci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Emilio Bonci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

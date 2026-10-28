@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/799_bruno-petkovic.jpg
 image_credits:
-- image_path: 'assets/images/players/799_bruno-petkovic.jpg'
-  alt_text: "Ritratto del calciatore Bruno Petkovic in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/799_bruno-petkovic.jpg
+  alt_text: Ritratto del calciatore Bruno Petkovic in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/bruno-petkovic
+- bruno-petkovic
+- tesserati/bruno-petkovic
+- calciatori/bruno-petkovic
+birth_date: '1994-09-16'
+birth_place: Metković
+citizenship: Croazia
 ---
+
 # Bruno Petkovic — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Bruno Petkovic in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/799_bruno-petkovic.jpg)
 *Ritratto del calciatore Bruno Petkovic in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Bruno Petkovic** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Bruno Petkovic** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

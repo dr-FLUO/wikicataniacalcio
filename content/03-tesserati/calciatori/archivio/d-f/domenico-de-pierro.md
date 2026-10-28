@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/domenico-de-pierro
+- domenico-de-pierro
+- tesserati/domenico-de-pierro
+- calciatori/domenico-de-pierro
 ---
+
 
 # Domenico De Pierro — Scheda Giocatore nel Calcio Catania
 
-**Domenico De Pierro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Domenico De Pierro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

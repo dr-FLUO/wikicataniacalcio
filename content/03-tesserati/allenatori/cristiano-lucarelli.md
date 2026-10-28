@@ -27,12 +27,12 @@ tags:
 - coppa-italia-serie-c
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Cristiano Lucarelli"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Cristiano Lucarelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Cristiano_Lucarelli"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Cristiano_Lucarelli
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
@@ -45,14 +45,19 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 image: assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp
 image_credits:
-- image_path: 'assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp'
-  alt_text: "Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp
+  alt_text: Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia
+    Serie C
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/allenatori/cristiano-lucarelli
+- cristiano-lucarelli
+- tesserati/cristiano-lucarelli
+- allenatori/cristiano-lucarelli
 ---
+
 ![Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp)
 *Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
@@ -81,9 +86,9 @@ Nel 2017-2018 condusse il Catania a 70 punti al secondo posto sfiorando la Serie
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2017-2018\|2017-2018]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/2019-2020\|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/2023-2024\|2023-2024]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2017-2018|2017-2018]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2019-2020|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2023-2024|2023-2024]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

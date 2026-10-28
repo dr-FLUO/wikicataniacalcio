@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/germano-fragliasso
+- germano-fragliasso
+- tesserati/germano-fragliasso
+- calciatori/germano-fragliasso
+birth_date: '1969-10-23'
+birth_place: Casoria
+citizenship: Italia
 ---
+
 # Germano Fragliasso — Scheda Giocatore nel Calcio Catania
 
-**Germano Fragliasso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Germano Fragliasso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

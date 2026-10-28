@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-malafronte
+- giuseppe-malafronte
+- tesserati/giuseppe-malafronte
+- calciatori/giuseppe-malafronte
 ---
+
 
 # Giuseppe Malafronte — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Malafronte** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giuseppe Malafronte** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

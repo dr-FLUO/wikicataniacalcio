@@ -16,13 +16,13 @@ catania_periods:
 - 1953-1956
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
-image: "assets/images/allenatori/piero-andreoli.jpg"
+image: assets/images/allenatori/piero-andreoli.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/piero-andreoli.jpg"
-    alt_text: "Ritratto fotografico di Piero Andreoli allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/piero-andreoli.jpg
+  alt_text: Ritratto fotografico di Piero Andreoli allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-cinquanta
@@ -31,12 +31,12 @@ tags:
 - caso-scaramella
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Piero Andreoli"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Piero Andreoli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Piero_Andreoli"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Piero_Andreoli
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -51,7 +51,11 @@ sources:
   reference: Cronistoria della vittoria della Serie B 1953-54 e della Serie A 1954-55
 aliases:
 - tesserati/allenatori/piero-andreoli
+- piero-andreoli
+- tesserati/piero-andreoli
+- allenatori/piero-andreoli
 ---
+
 
 
 # Piero Andreoli
@@ -83,10 +87,10 @@ Il campionato si chiude sul campo con una **meritatissima salvezza al 12º posto
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G | V | N | P | Punti (Regime 2 pt) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **1952-1953** (mag.-lug.) | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | 3º posto — Perde spareggio a Firenze col Legnano (1-4) | 1 (+1 sp.) | 1 | 0 | 1 | — |
-| **[[stagioni/1953-1954\|1953-1954]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | **1º posto assoluto — Promosso in Serie A** | 34 | 16 | 11 | 7 | **43** |
-| **[[stagioni/1954-1955\|1954-1955]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **12º posto sul campo** *(Retrocesso d'ufficio per il [[vicende-legali/caso-scaramella-1955\|Caso Scaramella]])* | 34 | 10 | 10 | 14 | **30** |
-| **1955-1956** (fino apr.) | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | Sostituito alla 32ª giornata (5º posto finale) | 32 | 13 | 10 | 9 | **36** *(parz.)* |
+| **1952-1953** (mag.-lug.) | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | 3º posto — Perde spareggio a Firenze col Legnano (1-4) | 1 (+1 sp.) | 1 | 0 | 1 | — |
+| **[[stagioni/1953-1954|1953-1954]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | **1º posto assoluto — Promosso in Serie A** | 34 | 16 | 11 | 7 | **43** |
+| **[[stagioni/1954-1955|1954-1955]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **12º posto sul campo** *(Retrocesso d'ufficio per il [[vicende-legali/caso-scaramella-1955|Caso Scaramella]])* | 34 | 10 | 10 | 14 | **30** |
+| **1955-1956** (fino apr.) | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | Sostituito alla 32ª giornata (5º posto finale) | 32 | 13 | 10 | 9 | **36** *(parz.)* |
 | **Totale** | **4 Stagioni (1953–1956)** | **Serie A / B** | **1 Promozione in Serie A + 1 Salvezza sul campo** | **102** | **40** | **31** | **31** | — |
 
 ## Fonti e Bibliografia

@@ -22,20 +22,25 @@ club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp
 image_credits:
-- image_path: 'assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp'
-  alt_text: "Fototessera ufficiale del centrocampista del Catania Alessandro Quaini"
-  author_or_archive: 'Ufficio Stampa Catania FC'
+- image_path: assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp
+  alt_text: Fototessera ufficiale del centrocampista del Catania Alessandro Quaini
+  author_or_archive: Ufficio Stampa Catania FC
   year: 2024
-  license_type: "Marchio Storico ad uso descrittivo enciclopedico (Art. 21 CPI)"
+  license_type: Marchio Storico ad uso descrittivo enciclopedico (Art. 21 CPI)
 sources:
-- author: 'Redazione Sportiva La Sicilia'
+- author: Redazione Sportiva La Sicilia
   title: 'Catania FC: Analisi tecnica e ruolo tattico di Alessandro Quaini'
   publisher: Editoriale La Sicilia, Catania
   year: 2026
   reference: Analisi tattica 10 settembre 2026
 aliases:
 - tesserati/calciatori/alessandro-quaini
+- alessandro-quaini
+- tesserati/alessandro-quaini
+- calciatori/alessandro-quaini
+seasons_count: 4
 ---
+
 # Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 
 ![Fototessera ufficiale del centrocampista del Catania Alessandro Quaini — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp)
@@ -55,16 +60,16 @@ Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Seri
 
 Arrivato in Sicilia nell'estate del **2023**:
 * Ha fatto parte del gruppo che ha alzato al cielo la **Coppa Italia Serie C** nell'aprile 2024.
-* Nella [[stagioni/2026-2027\|stagione 2026-2027]], sotto la sapiente regia di [[tesserati/allenatori/domenico-toscano\|Domenico Toscano]], Quaini agisce da diga metodista davanti alla difesa al fianco di [[tesserati/calciatori/stefano-sturaro\|Stefano Sturaro]], garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco.
+* Nella [[stagioni/2026-2027|stagione 2026-2027]], sotto la sapiente regia di [[tesserati/allenatori/domenico-toscano|Domenico Toscano]], Quaini agisce da diga metodista davanti alla difesa al fianco di [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro]], garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027\|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/stefano-sturaro\|Stefano Sturaro: Compagno di reparto]]
-* [[tesserati/calciatori/alessio-castellini\|Alessio Castellini: Capitano]]
-* [[tesserati/allenatori/domenico-toscano\|Domenico Toscano: Allenatore]]
+* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro: Compagno di reparto]]
+* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Capitano]]
+* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
 
 ---
 

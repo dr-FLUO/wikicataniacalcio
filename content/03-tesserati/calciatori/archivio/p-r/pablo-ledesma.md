@@ -1,40 +1,46 @@
 ---
-title: "Pablo Ledesma — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Pablo Ledesma, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/p-r/pablo-ledesma"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1984-02-04"
-birth_place: "La Falda"
-death_date: ""
-nationality: "Argentina"
+title: Pablo Ledesma — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Pablo Ledesma, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/p-r/pablo-ledesma
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1984-02-04'
+birth_place: La Falda
+death_date: ''
+nationality: Argentina
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "pablo-ledesma"
-  - "centrocampista"
+- calciatori
+- pablo-ledesma
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Pablo Ledesma"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Pablo_Ledesma"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pablo Ledesma
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Pablo_Ledesma
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/pablo-ledesma"
-  - "pablo-ledesma"
+- tesserati/calciatori/pablo-ledesma
+- pablo-ledesma
+- tesserati/pablo-ledesma
+- calciatori/pablo-ledesma
+citizenship: Argentina
 ---
+
 # Pablo Ledesma — Scheda Giocatore nel Calcio Catania
 
-**Pablo Ledesma** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pablo Ledesma** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Argentina |
 | **Data e Luogo di Nascita** | 1984-02-04 — La Falda |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

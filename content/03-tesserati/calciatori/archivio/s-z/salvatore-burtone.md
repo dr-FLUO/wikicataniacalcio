@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-burtone
+- salvatore-burtone
+- tesserati/salvatore-burtone
+- calciatori/salvatore-burtone
 ---
+
 
 # Salvatore Burtone — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Burtone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Salvatore Burtone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

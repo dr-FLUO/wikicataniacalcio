@@ -14,12 +14,12 @@ tags:
 - maickel-ferrier
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maickel Ferrier'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maickel Ferrier
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maickel_Ferrier'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maickel_Ferrier
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Maickel Ferrier
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/maickel-ferrier
+- maickel-ferrier
+- tesserati/maickel-ferrier
+- calciatori/maickel-ferrier
+birth_date: '1976-01-27'
+birth_place: Enschede
+citizenship: Regno dei Paesi Bassi
 ---
+
 # Maickel Ferrier — Scheda Giocatore nel Calcio Catania
 
-**Maickel Ferrier** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maickel Ferrier** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

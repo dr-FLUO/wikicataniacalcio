@@ -30,12 +30,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alejandro Gómez'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alejandro Gómez
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alejandro_G%C3%B3mez'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alejandro_G%C3%B3mez
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Ufficiale Serie A TIM (2010-2013) — Scheda Alejandro
     Darío Gómez
@@ -60,13 +60,19 @@ cover_caption: Alejandro Darío «Papu» Gómez, protagonista assoluto del trien
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 4.0'
 aliases:
 - tesserati/calciatori/alejandro-gomez
+- alejandro-gomez
+- tesserati/alejandro-gomez
+- calciatori/alejandro-gomez
 image_credits:
-- image_path: '/assets/images/calciatori/alejandro-gomez.jpg'
-  alt_text: "Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/alejandro-gomez.jpg
+  alt_text: 'Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Alejandro Gómez
 
 ![Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alejandro-gomez.jpg)
@@ -119,9 +125,9 @@ Nell'agosto 2013, dopo **111 partite e 18 reti** complessive in maglia rossazzur
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 4 | 1 (0) | **37 (4)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 4 | 1 (1) | **35 (5)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 8 | 3 (1) | **39 (9)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 4 | 1 (0) | **37 (4)** |
+| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 4 | 1 (1) | **35 (5)** |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 36 | 8 | 3 (1) | **39 (9)** |
 | **Totale Carriera** | **3 Stagioni in Rossazzurro** | **Serie A** | **106** | **16** | **5 (2)** | **111 (18)** |
 
 ---

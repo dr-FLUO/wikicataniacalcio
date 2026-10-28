@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/990_bruno-leonardo-vicente.jpg
 image_credits:
-- image_path: 'assets/images/players/990_bruno-leonardo-vicente.jpg'
-  alt_text: "Ritratto del calciatore Bruno Leonardo Vicente in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/990_bruno-leonardo-vicente.jpg
+  alt_text: Ritratto del calciatore Bruno Leonardo Vicente in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/bruno-leonardo-vicente
+- bruno-leonardo-vicente
+- tesserati/bruno-leonardo-vicente
+- calciatori/bruno-leonardo-vicente
 ---
+
 # Bruno Leonardo Vicente — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Bruno Leonardo Vicente in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/990_bruno-leonardo-vicente.jpg)
 *Ritratto del calciatore Bruno Leonardo Vicente in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Bruno Leonardo Vicente** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Bruno Leonardo Vicente** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

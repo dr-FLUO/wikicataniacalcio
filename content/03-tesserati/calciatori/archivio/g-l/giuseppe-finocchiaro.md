@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-finocchiaro
+- giuseppe-finocchiaro
+- tesserati/giuseppe-finocchiaro
+- calciatori/giuseppe-finocchiaro
 ---
+
 
 # Giuseppe Finocchiaro — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Finocchiaro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giuseppe Finocchiaro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

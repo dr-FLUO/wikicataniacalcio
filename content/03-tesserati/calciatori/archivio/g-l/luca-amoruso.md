@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/195_luca-amoruso.jpg
 image_credits:
-- image_path: 'assets/images/players/195_luca-amoruso.jpg'
-  alt_text: "Ritratto del calciatore Luca Amoruso in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/195_luca-amoruso.jpg
+  alt_text: Ritratto del calciatore Luca Amoruso in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/luca-amoruso
+- luca-amoruso
+- tesserati/luca-amoruso
+- calciatori/luca-amoruso
+birth_date: '1975-11-15'
+birth_place: Canosa di Puglia
+citizenship: Italia
 ---
+
 # Luca Amoruso — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luca Amoruso in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/players/195_luca-amoruso.jpg)
 *Ritratto del calciatore Luca Amoruso in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
-**Luca Amoruso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luca Amoruso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

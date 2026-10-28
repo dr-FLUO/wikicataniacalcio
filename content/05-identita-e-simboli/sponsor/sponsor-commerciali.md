@@ -72,9 +72,9 @@ L'introduzione della pubblicità sulle maglie da gioco nel calcio professionisti
 
 ## 1. Il Pioniere Haribo e la Promozione di Roma (1982-1983)
 
-Il primo sponsor commerciale ufficiale a comparire sul petto dei calciatori etnei fu il celebre marchio tedesco di caramelle **Haribo**, nella stagione di Serie B [[stagioni/1982-1983\|1982-1983]]. 
+Il primo sponsor commerciale ufficiale a comparire sul petto dei calciatori etnei fu il celebre marchio tedesco di caramelle **Haribo**, nella stagione di Serie B [[stagioni/1982-1983|1982-1983]]. 
 
-La sponsorizzazione, fortemente voluta dal presidente [[societa/presidenti/angelo-massimino\|Angelo Massimino]] per finanziare la campagna acquisti del tecnico Gianni Di Marzio, divenne immediatamente un'icona di culto:
+La sponsorizzazione, fortemente voluta dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] per finanziare la campagna acquisti del tecnico Gianni Di Marzio, divenne immediatamente un'icona di culto:
 * Il logo con il simpatico orsetto giallo e la scritta a caratteri cubitali rossi spiccava in modo indelebile sia sulla maglia casalinga a bande larghe rossazzurre, sia sulla seconda maglia bianca da trasferta.
 * Con questa maglia il Catania disputò gli storici spareggi promozione allo Stadio Olimpico di Roma del giugno 1983 contro Como e Cremonese, sospinto dalla straordinaria *"carica dei quarantamila"* sostenitori siciliani.
 * Lo sponsor tecnico dell'annata fu l'azienda italiana **Degi**, prima di passare l'anno seguente alla prestigiosa **Ennerre (NR)** di Nicola Raccuglia nel massimo campionato di Serie A.
@@ -95,10 +95,10 @@ Negli anni Ottanta e Novanta, il Catania alternò partner locali e aziende di re
 
 ## 3. L'Età dell'Oro in Serie A: Da SP Energia Siciliana a Wind Jet (2006-2014)
 
-Con l'avvento della presidenza di [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]] e la direzione generale di [[societa/presidenti/pietro-lo-monaco\|Pietro Lo Monaco]], il Catania conobbe la sua striscia consecutiva record di otto campionati in Serie A (2006–2014).
+Con l'avvento della presidenza di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e la direzione generale di [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]], il Catania conobbe la sua striscia consecutiva record di otto campionati in Serie A (2006–2014).
 
 In questo periodo si consolidò una delle sponsorizzazioni più longeve e fortunate del calcio meridionale:
-* **SP Energia Siciliana** (2006–2012): operatore leader della distribuzione petrolifera e dei carburanti, guidato dalla famiglia Puglisi. Il marchio SP campeggiò sulle maglie in tutti i capolavori sportivi del club: dal 4-0 nel [[partite/2008-2009/palermo-catania-0-4\|derby di Palermo del 2009]] al celebre 3-1 contro l'[[partite/2009-2010/catania-inter-3-1\|Inter di Mourinho del marzo 2010]].
+* **SP Energia Siciliana** (2006–2012): operatore leader della distribuzione petrolifera e dei carburanti, guidato dalla famiglia Puglisi. Il marchio SP campeggiò sulle maglie in tutti i capolavori sportivi del club: dal 4-0 nel [[partite/2008-2009/palermo-catania-0-4|derby di Palermo del 2009]] al celebre 3-1 contro l'[[partite/2009-2010/catania-inter-3-1|Inter di Mourinho del marzo 2010]].
 * **Wind Jet** (2007–2009): la prima compagnia aerea low cost siciliana, fondata dallo stesso Pulvirenti, figurò come co-sponsor e partner di mobilità della squadra.
 * **TTT Lines** (2012–2014): compagnia di navigazione marittima che subentrò come main sponsor negli anni dell'ottavo posto record con Rolando Maran (56 punti conquistati).
 
@@ -126,11 +126,11 @@ In questo periodo si consolidò una delle sponsorizzazioni più longeve e fortun
 
 ## 5. Collegamenti e Voci Correlate
 
-* [[maglie/simbologia-colori-scudetti\|Araldica, Colori Sociali e Stemmi Ufficiali (1929-2026)]]
-* [[stagioni/1982-1983\|La Stagione degli Spareggi di Roma e l'era Haribo]]
-* [[societa/presidenti/angelo-massimino\|Angelo Massimino e i contratti storici con le ditte etnee]]
-* [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti e il sodalizio con SP Energia Siciliana]]
-* [[societa/presidenti/ross-pelligra\|Ross Pelligra e la partnership tecnica con Erreà]]
+* [[maglie/simbologia-colori-scudetti|Araldica, Colori Sociali e Stemmi Ufficiali (1929-2026)]]
+* [[stagioni/1982-1983|La Stagione degli Spareggi di Roma e l'era Haribo]]
+* [[societa/presidenti/angelo-massimino|Angelo Massimino e i contratti storici con le ditte etnee]]
+* [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti e il sodalizio con SP Energia Siciliana]]
+* [[societa/presidenti/ross-pelligra|Ross Pelligra e la partnership tecnica con Erreà]]
 
 ---
 

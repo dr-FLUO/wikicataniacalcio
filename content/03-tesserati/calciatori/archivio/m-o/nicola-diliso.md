@@ -14,12 +14,12 @@ tags:
 - nicola-diliso
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nicola Diliso'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nicola Diliso
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nicola_Diliso'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nicola_Diliso
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Nicola Diliso
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/129_nicola-diliso.jpg
 image_credits:
-- image_path: 'assets/images/players/129_nicola-diliso.jpg'
-  alt_text: "Ritratto del calciatore Nicola Diliso in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/129_nicola-diliso.jpg
+  alt_text: Ritratto del calciatore Nicola Diliso in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/nicola-diliso
+- nicola-diliso
+- tesserati/nicola-diliso
+- calciatori/nicola-diliso
+birth_date: '1974-10-10'
+birth_place: Bari
+citizenship: Italia
 ---
+
 # Nicola Diliso — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nicola Diliso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/129_nicola-diliso.jpg)
 *Ritratto del calciatore Nicola Diliso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Nicola Diliso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Nicola Diliso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

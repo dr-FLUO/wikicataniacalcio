@@ -14,12 +14,12 @@ tags:
 - massimo-gregori
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Massimo Gregori'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Massimo Gregori
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Massimo_Gregori'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Massimo_Gregori
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Massimo Gregori
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/465_massimo-gregori.jpg
 image_credits:
-- image_path: 'assets/images/players/465_massimo-gregori.jpg'
-  alt_text: "Ritratto del calciatore Massimo Gregori in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/465_massimo-gregori.jpg
+  alt_text: Ritratto del calciatore Massimo Gregori in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/massimo-gregori
+- massimo-gregori
+- tesserati/massimo-gregori
+- calciatori/massimo-gregori
+birth_date: '1964-05-15'
+birth_place: Monterotondo
+citizenship: Italia
 ---
+
 # Massimo Gregori — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Massimo Gregori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/465_massimo-gregori.jpg)
 *Ritratto del calciatore Massimo Gregori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Massimo Gregori** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Massimo Gregori** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

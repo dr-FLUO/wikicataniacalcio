@@ -14,12 +14,12 @@ tags:
 - gianfranco-trombini
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianfranco Trombini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianfranco Trombini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianfranco_Trombini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianfranco_Trombini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianfranco Trombini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/612_gianfranco-trombini.jpg
 image_credits:
-- image_path: 'assets/images/players/612_gianfranco-trombini.jpg'
-  alt_text: "Ritratto del calciatore Gianfranco Trombini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/612_gianfranco-trombini.jpg
+  alt_text: Ritratto del calciatore Gianfranco Trombini in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gianfranco-trombini
+- gianfranco-trombini
+- tesserati/gianfranco-trombini
+- calciatori/gianfranco-trombini
+birth_date: '1944-06-07'
+birth_place: Codigoro
+citizenship: Italia
 ---
+
 # Gianfranco Trombini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gianfranco Trombini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/612_gianfranco-trombini.jpg)
 *Ritratto del calciatore Gianfranco Trombini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gianfranco Trombini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gianfranco Trombini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

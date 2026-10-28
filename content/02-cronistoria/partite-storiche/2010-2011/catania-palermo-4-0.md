@@ -98,10 +98,10 @@ Alla 31ª giornata, il Catania di Simeone cercava punti vitali per staccarsi dal
 | Voce | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Competizione** | Domenica **3 aprile 2011**, ore 15:00 — Serie A 2010-2011 (31ª giornata) |
-| **Impianto e Spettatori** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania — **19.136 spettatori** (8.708 paganti, 10.428 abbonati) |
+| **Impianto e Spettatori** | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania — **19.136 spettatori** (8.708 paganti, 10.428 abbonati) |
 | **Arbitro** | Emidio Morganti della sezione AIA di Ascoli Piceno |
-| **Marcatori** | **3' st aut. Balzaretti** (P, pro Catania), **16' st [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]]** (C), **22' st P. Ledesma** (C), **31' st Pesce** (C) |
-| **Formazione Catania (4-2-3-1)** | Andújar; Pablo Álvarez, Silvestre, Spolli, Marchese; Carboni, [[tesserati/calciatori/francesco-lodi\|Lodi]] (25' st Pesce); Schelotto, Ricchiuti (24' st A. Gómez), [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (20' st P. Ledesma); Maxi López. — *A disp.:* Campagnolo, Terlizzi, Augustyn, Morimoto. — **All.:** [[tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]]. |
+| **Marcatori** | **3' st aut. Balzaretti** (P, pro Catania), **16' st [[tesserati/calciatori/gonzalo-bergessio|Bergessio]]** (C), **22' st P. Ledesma** (C), **31' st Pesce** (C) |
+| **Formazione Catania (4-2-3-1)** | Andújar; Pablo Álvarez, Silvestre, Spolli, Marchese; Carboni, [[tesserati/calciatori/francesco-lodi|Lodi]] (25' st Pesce); Schelotto, Ricchiuti (24' st A. Gómez), [[tesserati/calciatori/gonzalo-bergessio|Bergessio]] (20' st P. Ledesma); Maxi López. — *A disp.:* Campagnolo, Terlizzi, Augustyn, Morimoto. — **All.:** [[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]. |
 | **Formazione Palermo (3-5-2)** | Sirigu; Muñoz, Goian, Bovo; Cassani, Migliaccio, Bačinović (7' st Pastore), Nocerino, Balzaretti; Pinilla, Hernández. — *A disp.:* Benussi, Anđelković, Darmian, Acquah, Kurtić, Miccoli. — **All.:** Serse Cosmi. |
 | **Provvedimenti Disciplinari** | **Ammoniti:** Silvestre (C); Muñoz (P), Migliaccio (P), Hernández (P), Pastore (P). |
 | **Note Tattiche** | Al termine della gara il presidente del Palermo Maurizio Zamparini esonera il tecnico Serse Cosmi, richiamando Delio Rossi. |

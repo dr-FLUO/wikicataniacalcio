@@ -16,13 +16,13 @@ catania_periods:
 - 2014 (Gennaio - Aprile)
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/rolando-maran.jpg"
+image: assets/images/allenatori/rolando-maran.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/rolando-maran.jpg"
-    alt_text: "Ritratto fotografico di Rolando Maran allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/rolando-maran.jpg
+  alt_text: Ritratto fotografico di Rolando Maran allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - serie-a
@@ -31,12 +31,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Rolando Maran"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Rolando Maran
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Rolando_Maran"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Rolando_Maran
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Serie A TIM 2012-2013 e 2013-2014 — Scheda Rolando Maran
   publisher: Lega Serie A
@@ -55,7 +55,11 @@ cover_caption: Rolando Maran, tecnico del Catania dei record nella stagione 2012
 cover_credit: 'Foto: Pottercomuneo · Licenza: CC BY-SA 4.0'
 aliases:
 - tesserati/allenatori/rolando-maran
+- rolando-maran
+- tesserati/rolando-maran
+- allenatori/rolando-maran
 ---
+
 
 
 # Rolando Maran
@@ -88,8 +92,8 @@ Confermato per la [[stagioni/2013-2014|Stagione 2013-2014]], Maran paga lo smant
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Serie A | V | N | P | GF | GS | Punti | Coppa Italia |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
-| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
+| **[[stagioni/2013-2014|2013-2014]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
 | **Totale** | **2 Stagioni (2012–2014)** | **Serie A** | **59 panchine Serie A + 4 Coppa Italia = 63** | **59** | **17** | **17** | **25** | **67** | **85** | **68** | **4** |
 
 ## Fonti e Bibliografia

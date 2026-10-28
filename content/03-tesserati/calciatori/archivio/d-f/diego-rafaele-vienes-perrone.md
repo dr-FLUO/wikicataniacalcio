@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/diego-rafaele-vienes-perrone
+- diego-rafaele-vienes-perrone
+- tesserati/diego-rafaele-vienes-perrone
+- calciatori/diego-rafaele-vienes-perrone
 ---
+
 
 # Diego Rafaele Vienes Perrone — Scheda Giocatore nel Calcio Catania
 
-**Diego Rafaele Vienes Perrone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Diego Rafaele Vienes Perrone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

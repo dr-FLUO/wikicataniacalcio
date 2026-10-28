@@ -36,14 +36,18 @@ image_credits:
 aliases:
 - tesserati/calciatori/mario-ierardi
 - 03-tesserati/calciatori/archivio/m-o/mario-ierardi
+- mario-ierardi
+- tesserati/mario-ierardi
+- calciatori/mario-ierardi
 current_squad: true
 ---
+
 # Mario Ierardi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mario Ierardi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1076_mario-ierardi.png)
 *Ritratto del calciatore Mario Ierardi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mario Ierardi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Mario Ierardi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

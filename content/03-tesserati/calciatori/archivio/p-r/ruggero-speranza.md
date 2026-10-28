@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ruggero-speranza
+- ruggero-speranza
+- tesserati/ruggero-speranza
+- calciatori/ruggero-speranza
 ---
+
 
 # Ruggero Speranza — Scheda Giocatore nel Calcio Catania
 
-**Ruggero Speranza** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Ruggero Speranza** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

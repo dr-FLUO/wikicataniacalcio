@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/saul-santarelli
+- saul-santarelli
+- tesserati/saul-santarelli
+- calciatori/saul-santarelli
+birth_date: '1974-01-01'
+birth_place: Cagliari
+citizenship: Italia
 ---
+
 # Saul Santarelli — Scheda Giocatore nel Calcio Catania
 
-**Saul Santarelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Saul Santarelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

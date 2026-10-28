@@ -34,12 +34,12 @@ tags:
 - era-pelligra
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Francesco Lodi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Francesco Lodi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Francesco_Lodi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Francesco_Lodi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A / Lega Pro / LND
   title: Archivio Statistico Ufficiale Francesco Lodi (2011-2023)
   publisher: FIGC
@@ -65,13 +65,19 @@ cover_caption: Francesco «Ciccio» Lodi, specialista dei calci da fermo e regis
 cover_credit: 'Foto: Filippo Mancuso · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/calciatori/francesco-lodi
+- francesco-lodi
+- tesserati/francesco-lodi
+- calciatori/francesco-lodi
 image_credits:
-- image_path: '/assets/images/calciatori/francesco-lodi.jpg'
-  alt_text: "Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/francesco-lodi.jpg
+  alt_text: 'Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Italia
 ---
+
 # Francesco Lodi
 
 ![Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/francesco-lodi.jpg)
@@ -99,15 +105,15 @@ Dopo l'estinzione della matricola 11700 per il [[vicende-legali/fallimento-2021-
 
 | Stagione | Società / Matricola | Categoria | Presenze Camp. (+PO/Poule) | Reti Camp. (+PO) | Coppe Ufficiali (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 16 | 3 | 0 (0) | **16 (3)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 37 | 9 | 1 (0) | **38 (9)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 33 | 6 | 4 (1) | **37 (7)** |
-| **[[stagioni/2013-2014\|2013-2014]]** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 2 | 1 (0) | **20 (2)** |
-| **[[stagioni/2014-2015\|2014-2015]]** (ago.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | 0 | 0 | 1 (1) | **1 (1)** |
-| **2017-2018** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 33 (+4 PO) | 7 (+2 PO) | 3 (1) | **40 (10)** |
-| **2018-2019** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 34 (+5 PO) | 11 (+0 PO) | 3 (2) | **42 (13)** |
-| **2019-2020** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 16 | 4 | 2 (0) | **18 (4)** |
-| **[[stagioni/2022-2023\|2022-2023]]** | [[societa/2022-pelligra-catania-fc\|Catania SSD]] (955013) | Serie D | 29 (+1 Poule) | 4 | 0 (0) | **30 (4)** |
+| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 16 | 3 | 0 (0) | **16 (3)** |
+| **[[stagioni/2011-2012|2011-2012]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 37 | 9 | 1 (0) | **38 (9)** |
+| **[[stagioni/2012-2013|2012-2013]]** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 33 | 6 | 4 (1) | **37 (7)** |
+| **[[stagioni/2013-2014|2013-2014]]** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 2 | 1 (0) | **20 (2)** |
+| **[[stagioni/2014-2015|2014-2015]]** (ago.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie B | 0 | 0 | 1 (1) | **1 (1)** |
+| **2017-2018** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 33 (+4 PO) | 7 (+2 PO) | 3 (1) | **40 (10)** |
+| **2018-2019** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 34 (+5 PO) | 11 (+0 PO) | 3 (2) | **42 (13)** |
+| **2019-2020** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie C | 16 | 4 | 2 (0) | **18 (4)** |
+| **[[stagioni/2022-2023|2022-2023]]** | [[societa/2022-pelligra-catania-fc|Catania SSD]] (955013) | Serie D | 29 (+1 Poule) | 4 | 0 (0) | **30 (4)** |
 | **Totale Consolidato** | **4 Cicli (2011–2023)** | **A / B / C / D** | **209 reg. (+10 PO/Poule)** | **46 reg. (+2 PO)** | **15 / 19 (5)** | **238 (53)** |
 
 

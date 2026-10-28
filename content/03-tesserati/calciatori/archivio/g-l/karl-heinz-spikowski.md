@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/701_karl-heinz-spikowski.jpg
 image_credits:
-- image_path: 'assets/images/players/701_karl-heinz-spikowski.jpg'
-  alt_text: "Ritratto del calciatore Karl Heinz Spikowski in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/701_karl-heinz-spikowski.jpg
+  alt_text: Ritratto del calciatore Karl Heinz Spikowski in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/karl-heinz-spikowski
+- karl-heinz-spikowski
+- tesserati/karl-heinz-spikowski
+- calciatori/karl-heinz-spikowski
 ---
+
 # Karl Heinz Spikowski — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Karl Heinz Spikowski in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/701_karl-heinz-spikowski.jpg)
 *Ritratto del calciatore Karl Heinz Spikowski in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Karl Heinz Spikowski** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Karl Heinz Spikowski** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

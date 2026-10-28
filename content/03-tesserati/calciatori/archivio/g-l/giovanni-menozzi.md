@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-menozzi
+- giovanni-menozzi
+- tesserati/giovanni-menozzi
+- calciatori/giovanni-menozzi
 ---
+
 
 # Giovanni Menozzi — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Menozzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Giovanni Menozzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

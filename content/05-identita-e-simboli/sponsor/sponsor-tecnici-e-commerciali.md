@@ -93,24 +93,24 @@ Con la rifondazione nell'estate 2022 da parte del Gruppo Pelligra ([[societa/202
 
 | Periodo Storico | Fornitore Tecnico (Kit Supplier) | Sede Aziendale | Principali Traguardi e Divise Iconiche |
 | :--- | :--- | :--- | :--- |
-| **1979–1981** | **NR (Ennerre)** | Montesilvano (PE), Italia | Tessuto in pesante lanetta acrilica; promozione in Serie B nella [[stagioni/1979-1980\|Stagione 1979-1980]]. |
+| **1979–1981** | **NR (Ennerre)** | Montesilvano (PE), Italia | Tessuto in pesante lanetta acrilica; promozione in Serie B nella [[stagioni/1979-1980|Stagione 1979-1980]]. |
 | **1981–1982** | **Bobos** | Italia | Divisa tradizionale con colletto e polsini rossazzurri a costine. |
-| **1982–1983** | **Degi** | Italia | La maglia della promozione in Serie A allo Stadio Olimpico negli [[partite/1982-1983/spareggio-catania-cremonese-0-0\|spareggi di Roma]]. |
-| **1983–1987** | **Adidas** *(con forniture speciali Uhlsport)* | Herzogenaurach, Germania | Tre strisce bianche sulle spalle nella [[stagioni/1983-1984\|Serie A 1983-1984]]; guanti e capi portiere Uhlsport. |
+| **1982–1983** | **Degi** | Italia | La maglia della promozione in Serie A allo Stadio Olimpico negli [[partite/1982-1983/spareggio-catania-cremonese-0-0|spareggi di Roma]]. |
+| **1983–1987** | **Adidas** *(con forniture speciali Uhlsport)* | Herzogenaurach, Germania | Tre strisce bianche sulle spalle nella [[stagioni/1983-1984|Serie A 1983-1984]]; guanti e capi portiere Uhlsport. |
 | **1987–1989** | **Latas** | Italia | Strisce larghe, colletto a polo in maglieria e calzoncini azzurri tradizionali. |
 | **1989–1990** | **Icos** | Italia | Introduzione dei primi tessuti lucidi in poliestere in Serie C1. |
 | **1990–1991** | **Essegi** | Italia | Collo a V bicolore e motivi geometrici tipici dei primi anni Novanta. |
 | **1991–1992** | **Icos** | Italia | Ritorno a una palatura fitta e tradizionale. |
 | **1992–1993** | **ABM** | Treviso, Italia | Maglia con bande laterali rosse e inserti blu navy prima della crisi federale. |
-| **1993–1995** | **California** | Italia | Le storiche casacche della rinascita in [[stagioni/1993-1994\|Eccellenza Sicilia 1993-1994]] e nel CND. |
+| **1993–1995** | **California** | Italia | Le storiche casacche della rinascita in [[stagioni/1993-1994|Eccellenza Sicilia 1993-1994]] e nel CND. |
 | **1994–1996** | **Devis (Devis Sport)** | San Zenone degli Ezzelini (TV), Italia | Colletti ampi con laccetti e trame a rilievo; promozione in Serie C2 nel 1995. |
 | **1996–1997** | **Admiral** | Leicester, Regno Unito | Divisa del cinquantenario societario con il nuovo stemma moderno del 1996. |
 | **1997–2000** | **Puma** | Herzogenaurach, Germania | Taglio classico e sobrio; vittoria del campionato di Serie C2 nel 1998-1999. |
-| **2000–2005** | **Galex** | Perugia, Italia | L'era Gaucci: maglie elasticizzate, promozione in Serie B a Taranto nella [[stagioni/2001-2002\|2001-2002]]. |
-| **2005–2010** | **Legea** | Pompei (NA), Italia | Il quinquennio della promozione in Serie A nella [[stagioni/2005-2006\|2005-2006]] e delle storiche salvezze. |
-| **2010–2015** | **Givova** | Scafati (SA), Italia | L'apice in Serie A: **record storico di 56 punti** nella [[stagioni/2012-2013\|Stagione 2012-2013]] con [[tesserati/allenatori/rolando-maran\|Rolando Maran]]. |
+| **2000–2005** | **Galex** | Perugia, Italia | L'era Gaucci: maglie elasticizzate, promozione in Serie B a Taranto nella [[stagioni/2001-2002|2001-2002]]. |
+| **2005–2010** | **Legea** | Pompei (NA), Italia | Il quinquennio della promozione in Serie A nella [[stagioni/2005-2006|2005-2006]] e delle storiche salvezze. |
+| **2010–2015** | **Givova** | Scafati (SA), Italia | L'apice in Serie A: **record storico di 56 punti** nella [[stagioni/2012-2013|Stagione 2012-2013]] con [[tesserati/allenatori/rolando-maran|Rolando Maran]]. |
 | **2015–2017** | **Macron** | Crespellano (BO), Italia | Kit eleganti per la transizione in Lega Pro con dettagli sartoriali. |
-| **2017–2021** | **Givova** | Scafati (SA), Italia | Kit celebrativi del centenario di [[societa/presidenti/angelo-massimino\|Angelo Massimino]] e trame laviche. |
+| **2017–2021** | **Givova** | Scafati (SA), Italia | Kit celebrativi del centenario di [[societa/presidenti/angelo-massimino|Angelo Massimino]] e trame laviche. |
 | **2021–2022** | **Nike** *(tramite Linea Oro Sport)* | Beaverton, USA / Roma | Ultima fornitura tecnica per la matricola federale 11700 fino al fallimento. |
 | **2022–Oggi** | **Erreà** | San Polo di Torrile (PR), Italia | Kit identitari con texture di basalto vulcanico, motto *"Melior de cinere surgo"* e matricola 955013. |
 
@@ -158,14 +158,14 @@ La partnership è stata rinnovata e ampliata con la ripartenza post-fallimento n
 | Stagioni Agonistiche | Main Sponsor di Maglia (Fronte) | Settore Merceologico | Note e Abbinamenti Commerciali |
 | :--- | :--- | :--- | :--- |
 | **1981–1982** | *Nessuno sponsor* | — | Primo anno di liberalizzazione federale della pubblicità. |
-| **1982–1983** | **Haribo** | Dolciario / Caramelle | Promozione in Serie A conquistata agli [[partite/1982-1983/spareggio-catania-como-1-0\|spareggi di Roma]]. |
+| **1982–1983** | **Haribo** | Dolciario / Caramelle | Promozione in Serie A conquistata agli [[partite/1982-1983/spareggio-catania-como-1-0|spareggi di Roma]]. |
 | **1983–1984** | **S7 Supermercati** | Grande Distribuzione | Serie A; comparsa secondaria dei marchi *Aiello* e *Casmez*. |
 | **1984–1985** | **Pasta Poiatti** | Pastificio agroalimentare | Serie B; celebre campagna pubblicitaria sulle TV locali. |
 | **1985–1986** | **CasaMercato** | Intermediazione immobiliare | Campionato di Serie B. |
 | **1986–1987** | **Eurass** | Servizi assicurativi | Serie B; comparsa a stagione inoltrata. |
 | **1987–1988** | **CosmoTV Color** | Elettronica di consumo | Serie C1; maglie neutre nella prima parte di campionato. |
 | **1988–1992** | **Proter** | Manufatti edili e cemento | Sponsor fedele per quattro campionati consecutivi di Serie C1. |
-| **1992–1995** | **Jolly Componibili** | Arredamento e cucine | Sponsor della rinascita in [[stagioni/1993-1994\|Eccellenza]] e vittoria del CND 1995. |
+| **1992–1995** | **Jolly Componibili** | Arredamento e cucine | Sponsor della rinascita in [[stagioni/1993-1994|Eccellenza]] e vittoria del CND 1995. |
 | **1995–1996** | **Tamoil** | Carburanti ed energia | Prestigioso marchio petrolifero internazionale in Serie C2. |
 | **1996–1997** | **Angelo Massimino** / **Oranfresh** | Commemorativo / Macchine spremuta | Omaggio al patron scomparso e distributori di agrumi. |
 | **1997–1998** | *Nessuno sponsor* | — | Maglia classica senza scritte commerciali in Serie C2. |
@@ -179,7 +179,7 @@ La partnership è stata rinnovata e ampliata con la ripartenza post-fallimento n
 | **2016–2019** | **DomusBet** | Giochi e scommesse sportive | Serie C; co-sponsor *Bacco* e *Zito Caffè*. |
 | **2019–2020** | **Crai (Gruppo Radenza)** | Grande distribuzione alimentare | Serie C; co-sponsor *Condorelli* e *Porte di Catania*. |
 | **2020–2022** | **SuperConveniente (Gruppo Arena)** | Grande distribuzione organizzata | Serie C; co-sponsor *Grimaldi Lines*, *Ulisse* e *Comer Sud*. |
-| **2022–Oggi** | **SuperConveniente (Gruppo Arena)** | Grande distribuzione organizzata | Rinascita con [[societa/presidenti/ross-pelligra\|Ross Pelligra]]; partner *Replay*, *Funivia dell'Etna*. |
+| **2022–Oggi** | **SuperConveniente (Gruppo Arena)** | Grande distribuzione organizzata | Rinascita con [[societa/presidenti/ross-pelligra|Ross Pelligra]]; partner *Replay*, *Funivia dell'Etna*. |
 
 ---
 

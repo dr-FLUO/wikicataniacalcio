@@ -72,7 +72,7 @@ Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** al
 | :--- | :--- |
 | **Competizione** | Serie B 2005-2006 (42ª Giornata) |
 | **Data e Ora** | Domenica 28 maggio 2006, ore 15:00 |
-| **Stadio** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania |
+| **Stadio** | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania |
 | **Spettatori** | 23.000 (Tutto esaurito) |
 | **Arbitro** | Tiziano Pieri (Lucca) |
 | **Marcatori** | 15' Spinesi (C), 41' Cellini (A), 54' Del Core (C) |

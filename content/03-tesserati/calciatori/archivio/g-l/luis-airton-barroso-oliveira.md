@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/141_luis-airton-barroso-oliveira.jpg
 image_credits:
-- image_path: 'assets/images/players/141_luis-airton-barroso-oliveira.jpg'
-  alt_text: "Ritratto del calciatore Luis Airton Barroso Oliveira in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/141_luis-airton-barroso-oliveira.jpg
+  alt_text: Ritratto del calciatore Luis Airton Barroso Oliveira in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/luis-airton-barroso-oliveira
+- luis-airton-barroso-oliveira
+- tesserati/luis-airton-barroso-oliveira
+- calciatori/luis-airton-barroso-oliveira
 ---
+
 # Luis Airton Barroso Oliveira — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luis Airton Barroso Oliveira in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/141_luis-airton-barroso-oliveira.jpg)
 *Ritratto del calciatore Luis Airton Barroso Oliveira in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Luis Airton Barroso Oliveira** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luis Airton Barroso Oliveira** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

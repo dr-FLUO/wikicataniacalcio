@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/claudio-galletta
+- claudio-galletta
+- tesserati/claudio-galletta
+- calciatori/claudio-galletta
 ---
+
 
 # Claudio Galletta — Scheda Giocatore nel Calcio Catania
 
-**Claudio Galletta** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Claudio Galletta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

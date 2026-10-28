@@ -84,11 +84,11 @@ Autorizzato l'esercizio provvisorio del ramo sportivo, la squadra di **Francesco
 
 | Data | Evento Societario / Giudiziario | Impatto su Club e Squadra |
 | :--- | :--- | :--- |
-| **23 luglio 2020** | Aggiudicazione del 95,4% del Calcio Catania S.p.A. a **SIGI S.p.A.** | Fine dei 16 anni dell'[[societa/2004-era-pulvirenti\|Era Pulvirenti]]; iscrizione alla Serie C 2020-2021. |
+| **23 luglio 2020** | Aggiudicazione del 95,4% del Calcio Catania S.p.A. a **SIGI S.p.A.** | Fine dei 16 anni dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]]; iscrizione alla Serie C 2020-2021. |
 | **16 gennaio 2021** | Firma del contratto preliminare di cessione tra SIGI e **Joe Tacopina**. | Avvio della *due diligence* sulla ristrutturazione del debito con Erario e Credito Sportivo. |
 | **Maggio 2021** | Naufragio definitivo della trattativa con Joe Tacopina. | Crisi di liquidità della SIGI; 6º posto in Serie C 2020-2021 ed eliminazione al 1º turno playoff col Foggia (1-3). |
-| **22 dicembre 2021** | **[[vicende-legali/fallimento-2021-art52-noif\|Sentenza di Fallimento n. 158/2021]]** del Tribunale di Catania. | Nomina dei tre curatori fallimentari e avvio dell'esercizio provvisorio nella [[stagioni/2021-2022\|Stagione 2021-2022]]. |
-| **9 aprile 2022** | **Revoca dell'esercizio provvisorio** e decadenza dall'affiliazione FIGC ex art. 16 NOIF. | **Estinzione della matricola 11700** dopo 76 anni; svincolo d'ufficio di tutti i calciatori e avvio del bando ex art. 52 c. 10 NOIF vinto dal [[societa/2022-pelligra-catania-fc\|Gruppo Pelligra]]. |
+| **22 dicembre 2021** | **[[vicende-legali/fallimento-2021-art52-noif|Sentenza di Fallimento n. 158/2021]]** del Tribunale di Catania. | Nomina dei tre curatori fallimentari e avvio dell'esercizio provvisorio nella [[stagioni/2021-2022|Stagione 2021-2022]]. |
+| **9 aprile 2022** | **Revoca dell'esercizio provvisorio** e decadenza dall'affiliazione FIGC ex art. 16 NOIF. | **Estinzione della matricola 11700** dopo 76 anni; svincolo d'ufficio di tutti i calciatori e avvio del bando ex art. 52 c. 10 NOIF vinto dal [[societa/2022-pelligra-catania-fc|Gruppo Pelligra]]. |
 
 ---
 

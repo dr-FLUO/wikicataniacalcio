@@ -14,12 +14,12 @@ tags:
 - enzo-cozzolini
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enzo Cozzolini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enzo Cozzolini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enzo_Cozzolini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enzo_Cozzolini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Enzo Cozzolini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/enzo-cozzolini
+- enzo-cozzolini
+- tesserati/enzo-cozzolini
+- calciatori/enzo-cozzolini
+birth_date: '1924-01-03'
+birth_place: Roma
+citizenship: Regno d'Italia
 ---
+
 # Enzo Cozzolini — Scheda Giocatore nel Calcio Catania
 
-**Enzo Cozzolini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Enzo Cozzolini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

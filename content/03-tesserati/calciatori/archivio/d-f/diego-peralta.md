@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/diego-peralta
+- diego-peralta
+- tesserati/diego-peralta
+- calciatori/diego-peralta
 ---
+
 
 # Diego Peralta — Scheda Giocatore nel Calcio Catania
 
-**Diego Peralta** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Diego Peralta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

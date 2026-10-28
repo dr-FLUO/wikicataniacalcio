@@ -14,12 +14,12 @@ tags:
 - michele-paolucci
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Michele Paolucci'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Michele Paolucci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Michele_Paolucci'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Michele_Paolucci
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Michele Paolucci
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/83_michele-paolucci.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/michele-paolucci.jpg'
-  alt_text: "Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/michele-paolucci.jpg
+  alt_text: 'Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/michele-paolucci
+- michele-paolucci
+- tesserati/michele-paolucci
+- calciatori/michele-paolucci
+birth_date: '1986-02-06'
+birth_place: Torino
+citizenship: Italia
 ---
+
 # Michele Paolucci — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/michele-paolucci.jpg)
 *Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Michele Paolucci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Michele Paolucci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

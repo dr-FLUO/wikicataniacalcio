@@ -14,12 +14,12 @@ tags:
 - andrea-pazzagli
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Andrea Pazzagli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Pazzagli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Andrea_Pazzagli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Andrea_Pazzagli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Andrea Pazzagli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-pazzagli
+- andrea-pazzagli
+- tesserati/andrea-pazzagli
+- calciatori/andrea-pazzagli
+birth_date: '1960-01-18'
+birth_place: Firenze
+citizenship: Italia
 ---
+
 # Andrea Pazzagli — Scheda Giocatore nel Calcio Catania
 
-**Andrea Pazzagli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Andrea Pazzagli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

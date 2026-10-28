@@ -28,11 +28,18 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/theofilos-karasavvidis
+- theofilos-karasavvidis
+- tesserati/theofilos-karasavvidis
+- calciatori/theofilos-karasavvidis
+birth_date: '1971-04-27'
+birth_place: Giannitsa
+citizenship: Grecia
 ---
+
 
 # Theofilos Karasavvidis — Scheda Giocatore nel Calcio Catania
 
-**Theofilos Karasavvidis** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Theofilos Karasavvidis** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

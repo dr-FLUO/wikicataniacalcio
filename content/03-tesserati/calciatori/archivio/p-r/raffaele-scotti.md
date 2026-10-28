@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/raffaele-scotti
+- raffaele-scotti
+- tesserati/raffaele-scotti
+- calciatori/raffaele-scotti
 ---
+
 
 # Raffaele Scotti — Scheda Giocatore nel Calcio Catania
 
-**Raffaele Scotti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Raffaele Scotti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

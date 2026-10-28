@@ -14,12 +14,12 @@ tags:
 - giuseppe-gaggiotti
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giuseppe Gaggiotti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Gaggiotti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giuseppe_Gaggiotti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giuseppe_Gaggiotti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giuseppe Gaggiotti
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-gaggiotti
+- giuseppe-gaggiotti
+- tesserati/giuseppe-gaggiotti
+- calciatori/giuseppe-gaggiotti
+birth_date: '1925-03-16'
+birth_place: Brescia
+citizenship: Regno d'Italia
 ---
+
 # Giuseppe Gaggiotti — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Gaggiotti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Gaggiotti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

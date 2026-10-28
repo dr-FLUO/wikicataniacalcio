@@ -1,50 +1,57 @@
 ---
-title: "César Vinício Cervo de Luca — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di César Vinício Cervo de Luca, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/a-c/cesar-vinicio-cervo-de-luca"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1979-05-19"
-birth_place: "Rio de Janeiro"
-death_date: ""
-nationality: "Brasile"
+title: César Vinício Cervo de Luca — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di César Vinício Cervo de
+  Luca, difensore del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/a-c/cesar-vinicio-cervo-de-luca
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1979-05-19'
+birth_place: Rio de Janeiro
+death_date: ''
+nationality: Brasile
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "cesar-vinicio-cervo-de-luca"
-  - "difensore"
+- calciatori
+- cesar-vinicio-cervo-de-luca
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — César Vinício Cervo de Luca"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/C%C3%A9sar_Vin%C3%ADcio_Cervo_de_Luca"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — César Vinício Cervo de Luca
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/C%C3%A9sar_Vin%C3%ADcio_Cervo_de_Luca
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg"
-    alt_text: "Ritratto fotografico di César Vinício Cervo de Luca calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg
+  alt_text: Ritratto fotografico di César Vinício Cervo de Luca calciatore del Calcio
+    Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/cesar-vinicio-cervo-de-luca"
-  - "cesar-vinicio-cervo-de-luca"
+- tesserati/calciatori/cesar-vinicio-cervo-de-luca
+- cesar-vinicio-cervo-de-luca
+- tesserati/cesar-vinicio-cervo-de-luca
+- calciatori/cesar-vinicio-cervo-de-luca
+citizenship: Brasile
 ---
+
 # César Vinício Cervo de Luca — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore César Vinício Cervo de Luca in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg)
 *Ritratto del calciatore César Vinício Cervo de Luca in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**César Vinício Cervo de Luca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**César Vinício Cervo de Luca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +66,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Brasile |
 | **Data e Luogo di Nascita** | 1979-05-19 — Rio de Janeiro |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

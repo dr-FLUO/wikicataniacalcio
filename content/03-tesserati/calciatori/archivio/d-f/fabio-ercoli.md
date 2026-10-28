@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabio-ercoli
+- fabio-ercoli
+- tesserati/fabio-ercoli
+- calciatori/fabio-ercoli
 ---
+
 
 # Fabio Ercoli — Scheda Giocatore nel Calcio Catania
 
-**Fabio Ercoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabio Ercoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

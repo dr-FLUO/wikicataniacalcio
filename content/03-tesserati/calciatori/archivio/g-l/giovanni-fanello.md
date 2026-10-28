@@ -14,12 +14,12 @@ tags:
 - giovanni-fanello
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Fanello'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Fanello
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Fanello'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Fanello
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Fanello
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/650_giovanni-fanello.jpg
 image_credits:
-- image_path: 'assets/images/players/650_giovanni-fanello.jpg'
-  alt_text: "Ritratto del calciatore Giovanni Fanello in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/650_giovanni-fanello.jpg
+  alt_text: Ritratto del calciatore Giovanni Fanello in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giovanni-fanello
+- giovanni-fanello
+- tesserati/giovanni-fanello
+- calciatori/giovanni-fanello
+birth_date: '1939-02-21'
+birth_place: Pizzo
+citizenship: Italia
 ---
+
 # Giovanni Fanello — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giovanni Fanello in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/650_giovanni-fanello.jpg)
 *Ritratto del calciatore Giovanni Fanello in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giovanni Fanello** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giovanni Fanello** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

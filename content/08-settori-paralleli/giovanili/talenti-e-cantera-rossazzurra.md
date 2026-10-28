@@ -42,9 +42,9 @@ Il vivaio del **Calcio Catania** ha rappresentato storicamente il cuore pulsante
 
 ## 1. La Filosofia di Carmelo Di Bella e la Scuola Catanese
 
-L'architettura moderna del settore giovanile etneo nacque negli anni Cinquanta sotto la spinta visionaria di [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]:
+L'architettura moderna del settore giovanile etneo nacque negli anni Cinquanta sotto la spinta visionaria di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]:
 * Di Bella intuì che la sostenibilità di un sodalizio meridionale dipendeva dalla capacità di forgiare in casa atleti dotati di senso d'appartenenza viscerale e disciplina atletica ferrea.
-* Nacquero i centri di addestramento giovanile sparsi per la provincia etnea, che permisero di reclutare centinaia di ragazzi e di alimentarli costantemente verso le formazioni Juniores, De Martino e infine la prima squadra al [[04-strutture/stadio-massimino/angelo-massimino\|Cibali]].
+* Nacquero i centri di addestramento giovanile sparsi per la provincia etnea, che permisero di reclutare centinaia di ragazzi e di alimentarli costantemente verso le formazioni Juniores, De Martino e infine la prima squadra al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]].
 
 ---
 
@@ -64,19 +64,19 @@ Decine di atleti cresciuti nelle giovanili rossazzurre hanno raggiunto i massimi
 
 La formazione dei giovani rossazzurri è stata scandita dall'evoluzione degli impianti sportivi societari:
 
-1. **Il Campo Comunale di Nesima (1960-2010)**: per oltre quarant'anni la terra battuta (poi trasformata in sintetico) di [[04-strutture/centri-sportivi/campo-comunale-nesima\|Nesima]] è stata l'università calcistica dei talenti catanesi. Lì sono cresciute generazioni di calciatori sotto la guida di maestri di campo indimenticati.
+1. **Il Campo Comunale di Nesima (1960-2010)**: per oltre quarant'anni la terra battuta (poi trasformata in sintetico) di [[04-strutture/centri-sportivi/campo-comunale-nesima|Nesima]] è stata l'università calcistica dei talenti catanesi. Lì sono cresciute generazioni di calciatori sotto la guida di maestri di campo indimenticati.
 2. **Torre del Grifo Village (2011-2021)**: con la costruzione del mega-centro sportivo polifunzionale di Mascalucia voluto da Antonino Pulvirenti, il vivaio trovò una casa all'avanguardia con quattro campi regolamentari, foresterie, aule studio e centri medici specializzati.
-3. **Il Ritorno a Nesima e Cibalino con il Catania FC (2022-2026)**: con l'avvento della presidenza di [[01-societa/presidenti/ross-pelligra\|Ross Pelligra]], il club ha riqualificato il Campo di Nesima e il Cibalino, riallacciando il legame diretto con il tessuto urbano e le scuole calcio affiliate in tutta la Sicilia orientale.
+3. **Il Ritorno a Nesima e Cibalino con il Catania FC (2022-2026)**: con l'avvento della presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il club ha riqualificato il Campo di Nesima e il Cibalino, riallacciando il legame diretto con il tessuto urbano e le scuole calcio affiliate in tutta la Sicilia orientale.
 
 ---
 
 ## 4. Collegamenti Correlati
 
-* [[08-settori-paralleli/giovanili/index\|Panoramica Settore Giovanile Rossazzurro]]
-* [[08-settori-paralleli/giovanili/albo-doro-e-torneo-di-viareggio\|Il Catania al Torneo di Viareggio e l'Albo d'Oro Giovanile]]
-* [[03-tesserati/calciatori/storici/orazio-russo\|Orazio Russo: Bandiera sul campo e Responsabile del Vivaio]]
-* [[04-strutture/centri-sportivi/campo-comunale-nesima\|Il Campo Comunale di Nesima Superiore]]
-* [[04-strutture/centri-sportivi/torre-del-grifo\|Torre del Grifo Village]]
+* [[08-settori-paralleli/giovanili/index|Panoramica Settore Giovanile Rossazzurro]]
+* [[08-settori-paralleli/giovanili/albo-doro-e-torneo-di-viareggio|Il Catania al Torneo di Viareggio e l'Albo d'Oro Giovanile]]
+* [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo: Bandiera sul campo e Responsabile del Vivaio]]
+* [[04-strutture/centri-sportivi/campo-comunale-nesima|Il Campo Comunale di Nesima Superiore]]
+* [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]]
 
 ---
 

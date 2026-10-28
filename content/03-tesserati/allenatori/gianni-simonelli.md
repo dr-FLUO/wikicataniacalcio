@@ -22,12 +22,12 @@ tags:
 - serie-c1
 - playoff
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Gianni Simonelli"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianni Simonelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Gianni_Simonelli"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Gianni_Simonelli
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -42,7 +42,11 @@ sources:
 aliases:
 - tesserati/allenatori/gianni-simonelli
 - tesserati/allenatori/giovanni-simonelli
+- gianni-simonelli
+- tesserati/gianni-simonelli
+- allenatori/gianni-simonelli
 ---
+
 
 
 # Gianni Simonelli
@@ -69,7 +73,7 @@ La sua squadra esprimeva un calcio tatticamente ineccepibile e spettacolare, con
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1999-2000\|1999-2000]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1999-2000|1999-2000]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

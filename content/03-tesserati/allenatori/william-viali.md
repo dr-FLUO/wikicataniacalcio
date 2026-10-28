@@ -14,13 +14,13 @@ catania_periods:
 - 2025-2026
 club_entities:
 - '[[societa/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
-image: "assets/images/allenatori/william-viali.jpg"
+image: assets/images/allenatori/william-viali.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/william-viali.jpg"
-    alt_text: "Ritratto fotografico di William Viali allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/william-viali.jpg
+  alt_text: Ritratto fotografico di William Viali allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemilaventi
@@ -29,12 +29,12 @@ tags:
 - cosenza
 - ascoli
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — William Viali"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — William Viali
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/William_Viali"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/William_Viali
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/william-viali
+- william-viali
+- tesserati/william-viali
+- allenatori/william-viali
 ---
+
 
 
 # William Viali
@@ -79,7 +83,7 @@ Chiamato dal DS Ivano Pastore durante un delicato passaggio a vuoto della stagio
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2025-2026\|2025-2026]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2025-2026|2025-2026]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

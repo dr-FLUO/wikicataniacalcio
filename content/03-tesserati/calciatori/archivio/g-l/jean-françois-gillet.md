@@ -14,12 +14,12 @@ tags:
 - jean-françois-gillet
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Jean François Gillet'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Jean François Gillet
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Gillet'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Gillet
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Jean François Gillet
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/865_jean-franois-gillet.jpg
 image_credits:
-- image_path: 'assets/images/players/865_jean-franois-gillet.jpg'
-  alt_text: "Ritratto del calciatore Jean François Gillet in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/865_jean-franois-gillet.jpg
+  alt_text: Ritratto del calciatore Jean François Gillet in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/jean-françois-gillet
+- jean-françois-gillet
+- tesserati/jean-françois-gillet
+- calciatori/jean-françois-gillet
+birth_date: '1979-05-31'
+birth_place: Liegi
+citizenship: Belgio
 ---
+
 # Jean François Gillet — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Jean François Gillet in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/865_jean-franois-gillet.jpg)
 *Ritratto del calciatore Jean François Gillet in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Jean François Gillet** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Jean François Gillet** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

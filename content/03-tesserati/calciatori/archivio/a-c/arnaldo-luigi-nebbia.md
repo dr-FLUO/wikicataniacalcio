@@ -1,40 +1,46 @@
 ---
-title: "Arnaldo Luigi Nebbia — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Arnaldo Luigi Nebbia, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/a-c/arnaldo-luigi-nebbia"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1906-07-24"
-birth_place: "Casale Monferrato"
-death_date: "1965-06-15"
-nationality: "Regno d'Italia"
+title: Arnaldo Luigi Nebbia — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Arnaldo Luigi Nebbia,
+  attaccante del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/a-c/arnaldo-luigi-nebbia
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1906-07-24'
+birth_place: Casale Monferrato
+death_date: '1965-06-15'
+nationality: Regno d'Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "arnaldo-luigi-nebbia"
-  - "attaccante"
+- calciatori
+- arnaldo-luigi-nebbia
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Arnaldo Luigi Nebbia"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Arnaldo_Nebbia"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Arnaldo Luigi Nebbia
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Arnaldo_Nebbia
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/arnaldo-luigi-nebbia"
-  - "arnaldo-luigi-nebbia"
+- tesserati/calciatori/arnaldo-luigi-nebbia
+- arnaldo-luigi-nebbia
+- tesserati/arnaldo-luigi-nebbia
+- calciatori/arnaldo-luigi-nebbia
+citizenship: Regno d'Italia
 ---
+
 # Arnaldo Luigi Nebbia — Scheda Giocatore nel Calcio Catania
 
-**Arnaldo Luigi Nebbia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Arnaldo Luigi Nebbia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Regno d'Italia |
 | **Data e Luogo di Nascita** | 1906-07-24 — Casale Monferrato |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

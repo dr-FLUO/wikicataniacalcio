@@ -27,12 +27,12 @@ tags:
 - serie-b
 - serie-c1
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Orazio Sorbello'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Orazio Sorbello
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Orazio_Sorbello'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Orazio_Sorbello
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Sorbello-449
 aliases:
 - tesserati/calciatori/orazio-sorbello
+- orazio-sorbello
+- tesserati/orazio-sorbello
+- calciatori/orazio-sorbello
+citizenship: Italia
+seasons_count: 1
 ---
+
 # Orazio Sorbello
 
 **Orazio Sorbello** (Acireale, 10 agosto 1959) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Cresciuto calcisticamente in Sicilia e maturato nei campionati professionistici, vestì la maglia del Catania per la prima volta nella [[stagioni/1986-1987|Stagione 1986-1987]] in Serie B, risultando il capocannoniere della squadra con 6 reti in 30 partite.
@@ -73,7 +79,7 @@ Nella difficile stagione cadetta 1986-1987 Sorbello lottò con grinta contro le 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1987, 1991-1993) | 69 | 16 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1986-1987, 1991-1993) | 69 | 16 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 6 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **75** | **18** | — | — |
 

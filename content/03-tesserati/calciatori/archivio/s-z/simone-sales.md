@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/998_simone-sales.jpg
 image_credits:
-- image_path: 'assets/images/players/998_simone-sales.jpg'
-  alt_text: "Ritratto del calciatore Simone Sales in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/998_simone-sales.jpg
+  alt_text: Ritratto del calciatore Simone Sales in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/simone-sales
+- simone-sales
+- tesserati/simone-sales
+- calciatori/simone-sales
 ---
+
 # Simone Sales — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Simone Sales in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/998_simone-sales.jpg)
 *Ritratto del calciatore Simone Sales in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Simone Sales** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Simone Sales** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

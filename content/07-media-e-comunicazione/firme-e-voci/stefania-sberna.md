@@ -41,10 +41,10 @@ Nata a Catania nel **1966** e scomparsa prematuramente il **23 marzo 2021** all'
 
 ## 1. Tre Decenni al Microfono dello Stadio Cibali
 
-Entrata a far parte della vita dello [[stadio/angelo-massimino\|Stadio Cibali (poi Angelo Massimino)]] nei primi anni Novanta sotto la presidenza di [[societa/presidenti/angelo-massimino\|Angelo Massimino]], Stefania Sberna ha scandito con il suo timbro caldo, elegante e vibrante di passione l'intera epopea contemporanea del club etneo:
+Entrata a far parte della vita dello [[stadio/angelo-massimino|Stadio Cibali (poi Angelo Massimino)]] nei primi anni Novanta sotto la presidenza di [[societa/presidenti/angelo-massimino|Angelo Massimino]], Stefania Sberna ha scandito con il suo timbro caldo, elegante e vibrante di passione l'intera epopea contemporanea del club etneo:
 
 * Ha annunciato le formazioni, le sostituzioni e i gol rossazzurri attraverso tutte le categorie del calcio italiano: dalla polvere dell'Eccellenza siciliana e del C.N.D. nel 1993-1994, alla lunga risalita in Serie C1 e Serie B con i Gaucci, fino alla trionfale cavalcata della Serie A (2006-2014).
-* Il suo celebre annuncio dei gol, scandito con pause teatrali che lasciavano al coro della [[tifoseria/curva-nord/coreografie-storiche-massimino\|Curva Nord]] e della [[tifoseria/curva-sud/origini-curva-sud\|Curva Sud]] il compito di urlare il cognome del marcatore, è diventato parte integrante della memoria sonora ed emotiva della città.
+* Il suo celebre annuncio dei gol, scandito con pause teatrali che lasciavano al coro della [[tifoseria/curva-nord/coreografie-storiche-massimino|Curva Nord]] e della [[tifoseria/curva-sud/origini-curva-sud|Curva Sud]] il compito di urlare il cognome del marcatore, è diventato parte integrante della memoria sonora ed emotiva della città.
 * Tra i momenti più memorabili figurano gli annunci dei gol salvezza di Jorge Martínez contro la Roma nel 2008, la prodezza da centrocampo di Giuseppe Mascara nel derby di Palermo del 2009 e le reti storiche di Maxi López e Gonzalo Bergessio.
 
 ---
@@ -52,7 +52,7 @@ Entrata a far parte della vita dello [[stadio/angelo-massimino\|Stadio Cibali (p
 ## 2. Attività Giornalistica e Televisiva
 
 Oltre al ruolo iconico di speaker allo stadio, Stefania Sberna è stata una stimata giornalista pubblicista e conduttrice per numerose emittenti private siciliane:
-* Ha collaborato per anni con [[media/testate/telecolor\|Telecolor]], conducendo telegiornali, rubriche sportive ed eventi speciali.
+* Ha collaborato per anni con [[media/testate/telecolor|Telecolor]], conducendo telegiornali, rubriche sportive ed eventi speciali.
 * È stata inviata per trasmissioni radiofoniche e corrispondente da bordo campo, distinguendosi sempre per profondo garbo istituzionale, competenza tecnica e un sorriso che ha conquistato colleghi, calciatori e tifosi avversari.
 
 ---
@@ -67,10 +67,10 @@ Con delibera formale del **marzo 2021**, la **Tribuna Stampa dello Stadio Angelo
 
 ## 4. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/telecolor\|Telecolor e le collaborazioni radiotelevisive]]
-* [[stadio/angelo-massimino\|Lo Stadio Angelo Massimino e la Tribuna Stampa Stefania Sberna]]
-* [[tifoseria/curva-nord/coreografie-storiche-massimino\|La Curva Nord e i cori per Stefania]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/telecolor|Telecolor e le collaborazioni radiotelevisive]]
+* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino e la Tribuna Stampa Stefania Sberna]]
+* [[tifoseria/curva-nord/coreografie-storiche-massimino|La Curva Nord e i cori per Stefania]]
 
 ---
 

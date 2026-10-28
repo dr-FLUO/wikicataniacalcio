@@ -14,12 +14,12 @@ tags:
 - giuseppe-romano
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giuseppe Romano'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Romano
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giuseppe_Romano_(1962)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giuseppe_Romano_(1962)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giuseppe Romano
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-romano
+- giuseppe-romano
+- tesserati/giuseppe-romano
+- calciatori/giuseppe-romano
+birth_date: '1962-07-18'
+birth_place: Palermo
+citizenship: Italia
 ---
+
 # Giuseppe Romano — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Romano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giuseppe Romano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - mauro-benvenuti
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mauro Benvenuti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mauro Benvenuti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mauro_Benvenuti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mauro_Benvenuti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mauro Benvenuti
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/683_mauro-benvenuti.jpg
 image_credits:
-- image_path: 'assets/images/players/683_mauro-benvenuti.jpg'
-  alt_text: "Ritratto del calciatore Mauro Benvenuti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/683_mauro-benvenuti.jpg
+  alt_text: Ritratto del calciatore Mauro Benvenuti in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mauro-benvenuti
+- mauro-benvenuti
+- tesserati/mauro-benvenuti
+- calciatori/mauro-benvenuti
+birth_date: '1934-01-16'
+birth_place: Firenze
+citizenship: Italia
 ---
+
 # Mauro Benvenuti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mauro Benvenuti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/683_mauro-benvenuti.jpg)
 *Ritratto del calciatore Mauro Benvenuti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mauro Benvenuti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Mauro Benvenuti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

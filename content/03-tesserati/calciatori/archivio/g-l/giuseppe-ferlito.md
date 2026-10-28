@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-ferlito
+- giuseppe-ferlito
+- tesserati/giuseppe-ferlito
+- calciatori/giuseppe-ferlito
 ---
+
 
 # Giuseppe Ferlito — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Ferlito** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giuseppe Ferlito** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

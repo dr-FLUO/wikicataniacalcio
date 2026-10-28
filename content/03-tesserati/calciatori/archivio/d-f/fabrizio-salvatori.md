@@ -14,12 +14,12 @@ tags:
 - fabrizio-salvatori
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabrizio Salvatori'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabrizio Salvatori
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabrizio_Salvatori'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabrizio_Salvatori
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabrizio Salvatori
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/515_fabrizio-salvatori.jpg
 image_credits:
-- image_path: 'assets/images/players/515_fabrizio-salvatori.jpg'
-  alt_text: "Ritratto del calciatore Fabrizio Salvatori in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/515_fabrizio-salvatori.jpg
+  alt_text: Ritratto del calciatore Fabrizio Salvatori in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/fabrizio-salvatori
+- fabrizio-salvatori
+- tesserati/fabrizio-salvatori
+- calciatori/fabrizio-salvatori
+birth_date: '1955-07-30'
+birth_place: Pesaro
+citizenship: Italia
 ---
+
 # Fabrizio Salvatori — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Fabrizio Salvatori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/515_fabrizio-salvatori.jpg)
 *Ritratto del calciatore Fabrizio Salvatori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Fabrizio Salvatori** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Fabrizio Salvatori** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -27,12 +27,12 @@ tags:
 - nazionale-italiana
 - serie-b
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riccardo Carapellese'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riccardo Carapellese
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riccardo_Carapellese'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riccardo_Carapellese
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,13 +47,20 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Carapellese-686
 aliases:
 - tesserati/calciatori/riccardo-carapellese
+- riccardo-carapellese
+- tesserati/riccardo-carapellese
+- calciatori/riccardo-carapellese
 image_credits:
-- image_path: '/assets/images/calciatori/riccardo-carapellese.jpg'
-  alt_text: "Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/riccardo-carapellese.jpg
+  alt_text: 'Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Regno d'Italia
+seasons_count: 2
 ---
+
 # Riccardo Carapellese
 
 ![Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-carapellese.jpg)
@@ -83,7 +90,7 @@ Indossando la fascia di capitano con dignità regale, guidò i giovani compagni 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1957-1959) | 30 | 9 | Attaccante / Ala sinistra / Capitano | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1957-1959) | 30 | 9 | Attaccante / Ala sinistra / Capitano | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **30** | **9** | — | — |
 
 ---

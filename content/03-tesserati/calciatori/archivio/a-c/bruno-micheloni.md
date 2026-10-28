@@ -27,12 +27,12 @@ tags:
 - serie-b
 - fioravante-baldi
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Bruno Micheloni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Bruno Micheloni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Bruno_Micheloni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Bruno_Micheloni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Micheloni-735
 aliases:
 - tesserati/calciatori/bruno-micheloni
+- bruno-micheloni
+- tesserati/bruno-micheloni
+- calciatori/bruno-micheloni
+citizenship: Italia
+seasons_count: 1
 ---
+
 # Bruno Micheloni
 
 **Bruno Micheloni** (Lucca, 21 giugno 1925 – Lucca, 17 settembre 2000) è stato un calciatore italiano, nel ruolo di centravanti. Giunto a Catania nel **1951**, fu per un triennio la punta centrale di riferimento del Club Calcio Catania nel periodo d'oro della rincorsa alla massima serie.
@@ -73,7 +79,7 @@ Dopo aver segnato 8 reti nel 1951-1952, nella [[stagioni/1952-1953|Stagione 1952
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1951-1954) | 64 | 21 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1951-1954) | 64 | 21 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **64** | **21** | — | — |
 
 ---

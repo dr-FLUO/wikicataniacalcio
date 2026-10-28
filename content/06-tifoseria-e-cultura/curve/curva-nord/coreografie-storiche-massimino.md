@@ -108,10 +108,10 @@ Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curv
 
 | Data / Gara | Competizione | Tipologia Coreografica | Soggetto e Significato Identitario |
 | :--- | :--- | :--- | :--- |
-| **28 maggio 2006**<br>[[partite/2005-2006/catania-albinoleffe-2-1\|Catania-AlbinoLeffe 2-1]] | Serie B | Marea di bandiere, cartoncini e striscione gigante. | Celebrazione del ritorno in Serie A: *«Torino svegliati... il sogno si avvera»*. |
+| **28 maggio 2006**<br>[[partite/2005-2006/catania-albinoleffe-2-1|Catania-AlbinoLeffe 2-1]] | Serie B | Marea di bandiere, cartoncini e striscione gigante. | Celebrazione del ritorno in Serie A: *«Torino svegliati... il sogno si avvera»*. |
 | **2 marzo 2008**<br>Catania-Palermo 3-1 | Serie A | Telo monumentale coprisettore e cartoncini. | Raffigurazione del Liotru emergente dalle colate laviche dell'Etna con motto civico. |
-| **12 marzo 2010**<br>[[partite/2009-2010/catania-inter-3-1\|Catania-Inter 3-1]] | Serie A | Mosaico di cartoncini bicolori a tutto settore. | Scritta gigante **CATANIA** e cornice di plastiche metallizzate riflettenti. |
-| **28 settembre 2022**<br>Catania-San Luca 2-1 | Serie D | Mosaico e stendardi rionali unitari. | Apertura della nuova era societaria sotto la sigla [[tifoseria/curva-nord/index\|Catania Curva Nord (CCN)]]. |
+| **12 marzo 2010**<br>[[partite/2009-2010/catania-inter-3-1|Catania-Inter 3-1]] | Serie A | Mosaico di cartoncini bicolori a tutto settore. | Scritta gigante **CATANIA** e cornice di plastiche metallizzate riflettenti. |
+| **28 settembre 2022**<br>Catania-San Luca 2-1 | Serie D | Mosaico e stendardi rionali unitari. | Apertura della nuova era societaria sotto la sigla [[tifoseria/curva-nord/index|Catania Curva Nord (CCN)]]. |
 | **2 aprile 2024**<br>Catania-Padova 4-2 d.t.s. | Finale Coppa Italia Serie C | Spettacolo notturno di torce, fumogeni e bandieroni. | Notte magica al Cibali culminata nella conquista della Coppa Italia di categoria. |
 
 ---

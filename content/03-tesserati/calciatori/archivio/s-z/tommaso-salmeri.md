@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/tommaso-salmeri
+- tommaso-salmeri
+- tesserati/tommaso-salmeri
+- calciatori/tommaso-salmeri
 ---
+
 
 # Tommaso Salmeri — Scheda Giocatore nel Calcio Catania
 
-**Tommaso Salmeri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Tommaso Salmeri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

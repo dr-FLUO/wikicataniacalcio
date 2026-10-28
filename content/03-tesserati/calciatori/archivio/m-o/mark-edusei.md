@@ -14,12 +14,12 @@ tags:
 - mark-edusei
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mark Edusei'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mark Edusei
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mark_Edusei'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mark_Edusei
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mark Edusei
   publisher: calciocatania.com
@@ -34,19 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/48_mark-edusei.jpg
 image_credits:
-- image_path: 'assets/images/players/48_mark-edusei.jpg'
-  alt_text: "Ritratto del calciatore Mark Edusei in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/48_mark-edusei.jpg
+  alt_text: Ritratto del calciatore Mark Edusei in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/mark-edusei
+aliases:
+- mark-edusei
+- tesserati/mark-edusei
+- calciatori/mark-edusei
+birth_date: '1976-09-29'
+birth_place: Kumasi
+citizenship: Ghana
 ---
+
 # Mark Edusei — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mark Edusei in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/48_mark-edusei.jpg)
 *Ritratto del calciatore Mark Edusei in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mark Edusei** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mark Edusei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

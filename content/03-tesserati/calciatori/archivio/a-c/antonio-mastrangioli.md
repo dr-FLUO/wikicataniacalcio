@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonio-mastrangioli
+- antonio-mastrangioli
+- tesserati/antonio-mastrangioli
+- calciatori/antonio-mastrangioli
 ---
+
 
 # Antonio Mastrangioli — Scheda Giocatore nel Calcio Catania
 
-**Antonio Mastrangioli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Antonio Mastrangioli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

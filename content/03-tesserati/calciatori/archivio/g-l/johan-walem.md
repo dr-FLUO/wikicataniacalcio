@@ -14,12 +14,12 @@ tags:
 - johan-walem
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Johan Walem'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Johan Walem
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Johan_Walem'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Johan_Walem
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Johan Walem
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/120_johan-walem.jpg
 image_credits:
-- image_path: 'assets/images/players/120_johan-walem.jpg'
-  alt_text: "Ritratto del calciatore Johan Walem in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/120_johan-walem.jpg
+  alt_text: Ritratto del calciatore Johan Walem in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/johan-walem
+- johan-walem
+- tesserati/johan-walem
+- calciatori/johan-walem
+birth_date: '1972-02-01'
+birth_place: Soignies
+citizenship: Belgio
 ---
+
 # Johan Walem — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Johan Walem in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/120_johan-walem.jpg)
 *Ritratto del calciatore Johan Walem in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Johan Walem** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Johan Walem** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

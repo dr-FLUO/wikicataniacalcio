@@ -54,10 +54,10 @@ Assunta la presidenza nell'estate 1936 raccogliendo l'eredità finanziaria del D
 
 | Stagione | Campionato | Allenatore | Piazzamento e Risultato |
 | :--- | :--- | :--- | :--- |
-| **1936–1937** | Serie B | [[tesserati/allenatori/pietro-colombati\|Pietro Colombati]] | 13º posto in Serie B |
-| **1937–1938** | Serie C (Gir. E) | [[tesserati/allenatori/pietro-colombati\|Pietro Colombati]], poi [[tesserati/allenatori/giovanni-degni\|Giovanni Degni]] | 4º posto; inaugurazione del Cibali |
+| **1936–1937** | Serie B | [[tesserati/allenatori/pietro-colombati|Pietro Colombati]] | 13º posto in Serie B |
+| **1937–1938** | Serie C (Gir. E) | [[tesserati/allenatori/pietro-colombati|Pietro Colombati]], poi [[tesserati/allenatori/giovanni-degni|Giovanni Degni]] | 4º posto; inaugurazione del Cibali |
 | **1938–1939** | Serie C (Gir. B) | Mario Sernagiotto | **1º posto (Promozione in Serie B)** |
-| **1939–1940** | Serie B | Mario Sernagiotto, poi [[tesserati/allenatori/gyorgy-orth\|György Orth]] | 18º posto in Serie B |
+| **1939–1940** | Serie B | Mario Sernagiotto, poi [[tesserati/allenatori/gyorgy-orth|György Orth]] | 18º posto in Serie B |
 
 ---
 

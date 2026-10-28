@@ -14,25 +14,25 @@ catania_periods:
 - 1993-1994
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/lorenzo-barlassina.jpg"
+image: assets/images/allenatori/lorenzo-barlassina.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/lorenzo-barlassina.jpg"
-    alt_text: "Ritratto fotografico di Lorenzo Barlassina allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/lorenzo-barlassina.jpg
+  alt_text: Ritratto fotografico di Lorenzo Barlassina allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - eccellenza
 - angelo-massimino
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Lorenzo Barlassina'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lorenzo Barlassina
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Lorenzo_Barlassina'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Lorenzo_Barlassina
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/lorenzo-barlassina
+- lorenzo-barlassina
+- tesserati/lorenzo-barlassina
+- allenatori/lorenzo-barlassina
+citizenship: Italia
+total_appearances: 159
+seasons_count: 5
 ---
+
 # Lorenzo Barlassina
 
 ![Ritratto ufficiale di Lorenzo Barlassina sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/lorenzo-barlassina.jpg)
@@ -75,7 +82,7 @@ Guidò la squadra nelle ultime 12 giornate centrando il 3º posto a quota 46 pun
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1993-1994\|1993-1994]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1993-1994|1993-1994]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - silvio-picci
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Silvio Picci'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Silvio Picci
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Silvio_Picci'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Silvio_Picci
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Silvio Picci
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/458_silvio-picci.jpg
 image_credits:
-- image_path: 'assets/images/players/458_silvio-picci.jpg'
-  alt_text: "Ritratto del calciatore Silvio Picci in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/458_silvio-picci.jpg
+  alt_text: Ritratto del calciatore Silvio Picci in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/silvio-picci
+- silvio-picci
+- tesserati/silvio-picci
+- calciatori/silvio-picci
+birth_date: '1965-09-20'
+birth_place: Pisa
+citizenship: Italia
 ---
+
 # Silvio Picci — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Silvio Picci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/458_silvio-picci.jpg)
 *Ritratto del calciatore Silvio Picci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Silvio Picci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Silvio Picci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -40,7 +40,7 @@ Fondata a Catania nel **1976** su iniziativa dell'imprenditore Mario Quintarelli
 ## 1. La Rivoluzione di "Diretta Stadio" e le Telecronache al Cibali
 
 A partire dai primi anni Ottanta, Telecolor fu la prima emittente siciliana a strutturare un format continuativo di collegamento audiovisivo dallo stadio:
-* **"Diretta Stadio"**: programma domenicale condotto in studio con ospiti illustri e giornalisti inviati nei box della tribuna stampa del [[stadio/angelo-massimino\|Cibali]], che informavano i tifosi in tempo reale su ogni azione, rigore e marcatura.
+* **"Diretta Stadio"**: programma domenicale condotto in studio con ospiti illustri e giornalisti inviati nei box della tribuna stampa del [[stadio/angelo-massimino|Cibali]], che informavano i tifosi in tempo reale su ogni azione, rigore e marcatura.
 * Le telecronache differite integrali trasmesse la domenica sera o il lunedì pomeriggio, commentate da storiche voci come Angelo Gagliano e Nuccio Schillirò, diventarono un rito imperdibile per intere generazioni di sportivi.
 
 ---
@@ -55,10 +55,10 @@ Ideato nella seconda metà degli anni Ottanta, il talk show d'approfondimento ca
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/antenna-sicilia\|Antenna Sicilia e la trasmissione Salastampa]]
-* [[media/giornalisti/stefania-sberna\|Stefania Sberna e la voce della tribuna stampa]]
-* [[stadio/angelo-massimino\|Lo Stadio Angelo Massimino e i box televisivi]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/antenna-sicilia|Antenna Sicilia e la trasmissione Salastampa]]
+* [[media/giornalisti/stefania-sberna|Stefania Sberna e la voce della tribuna stampa]]
+* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino e i box televisivi]]
 
 ---
 

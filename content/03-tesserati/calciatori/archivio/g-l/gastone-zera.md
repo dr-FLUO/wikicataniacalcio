@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/gastone-zera
+- gastone-zera
+- tesserati/gastone-zera
+- calciatori/gastone-zera
 ---
+
 
 # Gastone Zera — Scheda Giocatore nel Calcio Catania
 
-**Gastone Zera** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gastone Zera** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

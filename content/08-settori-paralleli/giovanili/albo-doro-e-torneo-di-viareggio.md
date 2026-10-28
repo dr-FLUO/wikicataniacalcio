@@ -41,7 +41,7 @@ La partecipazione del **Calcio Catania** alla **Viareggio Cup (Coppa Carnevale)*
 
 ## 1. La Tradizione al Viareggio: Dagli Anni Sessanta agli Anni Duemila
 
-Il debutto del vivaio etneo nella competizione risale agli albori degli anni Sessanta, durante l'epoca d'oro del Catania di [[01-societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] e del tecnico [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]:
+Il debutto del vivaio etneo nella competizione risale agli albori degli anni Sessanta, durante l'epoca d'oro del Catania di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e del tecnico [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]:
 * **Epoca Pionieristica**: le selezioni "Ragazzi" e "De Martino" del Catania seppero farsi valere affrontando potenze calcistiche internazionali come il Dukla Praga, il Feyenoord e la selezione giovanile della Juventus.
 * **Le Grandi Sfide Internazionali**: tra i match più prestigiosi disputati al torneo spiccano le sfide contro formazioni sudamericane ed europee:
   * **Catania - Santos (Brasile)**: memorabile confronto che vide i giovani etnei resistere al celebre vivaio paulista.
@@ -74,10 +74,10 @@ L'albo d'oro delle categorie giovanili rossazzurre vanta importanti affermazioni
 
 ## 4. Collegamenti Correlati
 
-* [[08-settori-paralleli/giovanili/index\|Panoramica Settore Giovanile Rossazzurro (1946-2026)]]
-* [[08-settori-paralleli/giovanili/talenti-e-cantera-rossazzurra\|La Cantera Rossazzurra: Talenti, Bandiere e Campioni del Vivaio]]
-* [[04-strutture/centri-sportivi/campo-comunale-nesima\|Il Campo Comunale di Nesima Superiore]]
-* [[04-strutture/centri-sportivi/torre-del-grifo\|Il Complesso Polisportivo di Torre del Grifo Village]]
+* [[08-settori-paralleli/giovanili/index|Panoramica Settore Giovanile Rossazzurro (1946-2026)]]
+* [[08-settori-paralleli/giovanili/talenti-e-cantera-rossazzurra|La Cantera Rossazzurra: Talenti, Bandiere e Campioni del Vivaio]]
+* [[04-strutture/centri-sportivi/campo-comunale-nesima|Il Campo Comunale di Nesima Superiore]]
+* [[04-strutture/centri-sportivi/torre-del-grifo|Il Complesso Polisportivo di Torre del Grifo Village]]
 
 ---
 

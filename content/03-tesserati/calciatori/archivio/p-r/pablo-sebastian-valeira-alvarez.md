@@ -28,20 +28,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/3_pablo-sebastian-valeira--alvarez.jpg
 image_credits:
-- image_path: 'assets/images/players/3_pablo-sebastian-valeira--alvarez.jpg'
-  alt_text: "Ritratto del calciatore Pablo Sebastian Valeira  Alvarez in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/3_pablo-sebastian-valeira--alvarez.jpg
+  alt_text: Ritratto del calciatore Pablo Sebastian Valeira  Alvarez in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/pablo-sebastian-valeira-alvarez
+- pablo-sebastian-valeira-alvarez
+- tesserati/pablo-sebastian-valeira-alvarez
+- calciatori/pablo-sebastian-valeira-alvarez
 ---
+
 # Pablo Sebastian Valeira  Alvarez — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Pablo Sebastian Valeira  Alvarez in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/3_pablo-sebastian-valeira--alvarez.jpg)
 *Ritratto del calciatore Pablo Sebastian Valeira  Alvarez in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Pablo Sebastian Valeira  Alvarez** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Pablo Sebastian Valeira  Alvarez** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

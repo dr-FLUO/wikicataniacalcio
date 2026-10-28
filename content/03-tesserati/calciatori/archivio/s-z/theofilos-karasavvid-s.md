@@ -1,40 +1,46 @@
 ---
-title: "Theofilos Karasavvidīs — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Theofilos Karasavvidīs, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/theofilos-karasavvid-s"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1971-04-27"
-birth_place: "Giannitsa"
-death_date: ""
-nationality: "Grecia"
+title: Theofilos Karasavvidīs — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Theofilos Karasavvidīs,
+  attaccante del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/theofilos-karasavvid-s
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1971-04-27'
+birth_place: Giannitsa
+death_date: ''
+nationality: Grecia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "theofilos-karasavvid-s"
-  - "attaccante"
+- calciatori
+- theofilos-karasavvid-s
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Theofilos Karasavvidīs"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Theofilos_Karasavvid%C4%ABs"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Theofilos Karasavvidīs
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Theofilos_Karasavvid%C4%ABs
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/theofilos-karasavvid-s"
-  - "theofilos-karasavvid-s"
+- tesserati/calciatori/theofilos-karasavvid-s
+- theofilos-karasavvid-s
+- tesserati/theofilos-karasavvid-s
+- calciatori/theofilos-karasavvid-s
+citizenship: Grecia
 ---
+
 # Theofilos Karasavvidīs — Scheda Giocatore nel Calcio Catania
 
-**Theofilos Karasavvidīs** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Theofilos Karasavvidīs** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Grecia |
 | **Data e Luogo di Nascita** | 1971-04-27 — Giannitsa |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

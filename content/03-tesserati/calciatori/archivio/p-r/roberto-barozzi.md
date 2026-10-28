@@ -14,12 +14,12 @@ tags:
 - roberto-barozzi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto Barozzi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto Barozzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_Barozzi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_Barozzi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto Barozzi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-barozzi
+- roberto-barozzi
+- tesserati/roberto-barozzi
+- calciatori/roberto-barozzi
+birth_date: '1960-04-07'
+birth_place: Genova
+citizenship: Italia
 ---
+
 # Roberto Barozzi — Scheda Giocatore nel Calcio Catania
 
-**Roberto Barozzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Roberto Barozzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

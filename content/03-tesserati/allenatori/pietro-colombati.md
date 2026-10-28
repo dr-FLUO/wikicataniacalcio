@@ -20,12 +20,12 @@ tags:
 - serie-b
 - serie-c
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Pietro Colombati"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pietro Colombati
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Pietro_Colombati"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Pietro_Colombati
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -39,7 +39,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/pietro-colombati
+- pietro-colombati
+- tesserati/pietro-colombati
+- allenatori/pietro-colombati
 ---
+
 
 
 # Pietro Colombati
@@ -66,7 +70,7 @@ Nel 1936-1937 affrontò il campionato di Serie B con gli etnei, confermandosi al
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1936-1937\|1936-1937]], [[stagioni/1937-1938\|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1936-1937|1936-1937]], [[stagioni/1937-1938|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

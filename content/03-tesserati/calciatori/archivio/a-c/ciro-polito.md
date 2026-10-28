@@ -14,12 +14,12 @@ tags:
 - ciro-polito
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ciro Polito'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ciro Polito
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ciro_Polito'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ciro_Polito
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ciro Polito
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/57_ciro-polito.jpg
 image_credits:
-- image_path: 'assets/images/players/57_ciro-polito.jpg'
-  alt_text: "Ritratto del calciatore Ciro Polito in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/57_ciro-polito.jpg
+  alt_text: Ritratto del calciatore Ciro Polito in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/ciro-polito
+- ciro-polito
+- tesserati/ciro-polito
+- calciatori/ciro-polito
+birth_date: '1979-04-12'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Ciro Polito — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ciro Polito in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/57_ciro-polito.jpg)
 *Ritratto del calciatore Ciro Polito in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Ciro Polito** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Ciro Polito** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

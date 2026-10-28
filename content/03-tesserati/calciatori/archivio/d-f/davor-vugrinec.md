@@ -14,12 +14,12 @@ tags:
 - davor-vugrinec
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Davor Vugrinec'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Davor Vugrinec
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Davor_Vugrinec'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Davor_Vugrinec
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Davor Vugrinec
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/davor-vugrinec
+- davor-vugrinec
+- tesserati/davor-vugrinec
+- calciatori/davor-vugrinec
+birth_date: '1975-03-24'
+birth_place: Varaždin
+citizenship: Croazia
 ---
+
 # Davor Vugrinec — Scheda Giocatore nel Calcio Catania
 
-**Davor Vugrinec** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Davor Vugrinec** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

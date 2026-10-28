@@ -25,12 +25,12 @@ tags:
 - hall-of-fame
 - argentini
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Salvador Calvanese'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Salvador Calvanese
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Salvatore_Calvanese'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Salvatore_Calvanese
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -44,7 +44,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/salvador-calvanese
+- salvador-calvanese
+- tesserati/salvador-calvanese
+- allenatori/salvador-calvanese
+citizenship: Argentina
+total_appearances: 124
+seasons_count: 6
 ---
+
 # Salvador Calvanese
 
 **Salvador Calvanese** (Buenos Aires, Argentina, 1934 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1971-1972**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
@@ -69,7 +76,7 @@ Simbolo indelebile dell'epopea del «Clamoroso al Cibali», rimase legato a vita
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1971-1972\|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1971-1972|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -92,12 +92,12 @@ Dopo un primo tempo bloccato tatticamente da **[[tesserati/calciatori/marco-biag
 | Voce | Dettaglio Ufficiale |
 | :--- | :--- |
 | **Data e Competizione** | Venerdì **12 marzo 2010**, ore 20:45 — Serie A 2009-2010 (28ª giornata) |
-| **Impianto e Spettatori** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania — **20.941 spettatori** |
+| **Impianto e Spettatori** | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania — **20.941 spettatori** |
 | **Arbitro** | Paolo Valeri della sezione di Roma 2 |
-| **Marcatori** | **9' st Milito** (I), **29' st Maxi López** (C), **36' st rig. [[tesserati/calciatori/giuseppe-mascara\|Mascara]]** (C), **45' st J. Martínez** (C) |
-| **Formazione Catania (4-3-3)** | Andújar; P. Álvarez, Terlizzi, Silvestre, Capuano (42' st Potenza); [[tesserati/calciatori/mariano-izco\|Izco]], [[tesserati/calciatori/marco-biagianti\|Biagianti]], Ricchiuti (31' st Delvecchio); J. Martínez, Maxi López (38' st Carboni), [[tesserati/calciatori/giuseppe-mascara\|Mascara]]. — *A disp.:* Campagnolo, Augustyn, Ledesma, Morimoto. — **All.:** Siniša Mihajlović. |
+| **Marcatori** | **9' st Milito** (I), **29' st Maxi López** (C), **36' st rig. [[tesserati/calciatori/giuseppe-mascara|Mascara]]** (C), **45' st J. Martínez** (C) |
+| **Formazione Catania (4-3-3)** | Andújar; P. Álvarez, Terlizzi, Silvestre, Capuano (42' st Potenza); [[tesserati/calciatori/mariano-izco|Izco]], [[tesserati/calciatori/marco-biagianti|Biagianti]], Ricchiuti (31' st Delvecchio); J. Martínez, Maxi López (38' st Carboni), [[tesserati/calciatori/giuseppe-mascara|Mascara]]. — *A disp.:* Campagnolo, Augustyn, Ledesma, Morimoto. — **All.:** Siniša Mihajlović. |
 | **Formazione Inter (4-3-1-2)** | Júlio César; Maicon, Lúcio, Materazzi, J. Zanetti; Stanković (32' st Pandev), Cambiasso (34' st Muntari), Mariga (1' st Quaresma); Sneijder; Milito, Eto'o. — *A disp.:* Toldo, Orlandoni, Córdoba, Krhin. — **All.:** José Mourinho (squalificato, in panchina Giuseppe Baresi). |
-| **Provvedimenti Disciplinari** | **Espulso:** 36' st Muntari (I) per doppia ammonizione. **Ammoniti:** [[tesserati/calciatori/marco-biagianti\|Biagianti]] (C), J. Zanetti (I), Stanković (I), J. Martínez (C). |
+| **Provvedimenti Disciplinari** | **Espulso:** 36' st Muntari (I) per doppia ammonizione. **Ammoniti:** [[tesserati/calciatori/marco-biagianti|Biagianti]] (C), J. Zanetti (I), Stanković (I), J. Martínez (C). |
 
 ---
 

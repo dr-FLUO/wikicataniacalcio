@@ -1,40 +1,46 @@
 ---
-title: "Secondo Finotto — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Secondo Finotto, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/secondo-finotto"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1905-02-18"
-birth_place: "Balocco"
-death_date: "1976-10-01"
-nationality: "Regno d'Italia"
+title: Secondo Finotto — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Secondo Finotto, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/secondo-finotto
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1905-02-18'
+birth_place: Balocco
+death_date: '1976-10-01'
+nationality: Regno d'Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "secondo-finotto"
-  - "centrocampista"
+- calciatori
+- secondo-finotto
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Secondo Finotto"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Secondo_Finotto"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Secondo Finotto
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Secondo_Finotto
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/secondo-finotto"
-  - "secondo-finotto"
+- tesserati/calciatori/secondo-finotto
+- secondo-finotto
+- tesserati/secondo-finotto
+- calciatori/secondo-finotto
+citizenship: Regno d'Italia
 ---
+
 # Secondo Finotto — Scheda Giocatore nel Calcio Catania
 
-**Secondo Finotto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Secondo Finotto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Regno d'Italia |
 | **Data e Luogo di Nascita** | 1905-02-18 — Balocco |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -14,12 +14,12 @@ tags:
 - fabio-gatti
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabio Gatti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabio Gatti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabio_Gatti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabio_Gatti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabio Gatti
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/163_fabio-gatti.jpg
 image_credits:
-- image_path: 'assets/images/players/163_fabio-gatti.jpg'
-  alt_text: "Ritratto del calciatore Fabio Gatti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/163_fabio-gatti.jpg
+  alt_text: Ritratto del calciatore Fabio Gatti in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/fabio-gatti
+- fabio-gatti
+- tesserati/fabio-gatti
+- calciatori/fabio-gatti
+birth_date: '1982-01-04'
+birth_place: Perugia
+citizenship: Italia
 ---
+
 # Fabio Gatti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Fabio Gatti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/163_fabio-gatti.jpg)
 *Ritratto del calciatore Fabio Gatti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Fabio Gatti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabio Gatti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

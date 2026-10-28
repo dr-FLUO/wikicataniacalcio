@@ -1,34 +1,37 @@
 ---
-title: "Archivio Storico Tesserati — Registro Generale Ufficiale (1929-2027)"
-description: "Indice generale e anagrafe unificata di tutti i 1.432 tesserati del Calcio Catania dal 1929 a oggi: ordinamento alfabetico per cognome, filtri rapidi per ruolo, presenze e ricerca istantanea."
-slug: "03-tesserati/calciatori/archivio/index"
-entity_type: "section_index"
-status: "verified"
-last_verified_date: "2026-10-28"
+title: Archivio Storico Tesserati — Registro Generale Ufficiale (1929-2027)
+description: 'Indice generale e anagrafe unificata di tutti i 1.432 tesserati del
+  Calcio Catania dal 1929 a oggi: ordinamento alfabetico per cognome, filtri rapidi
+  per ruolo, presenze e ricerca istantanea.'
+slug: 03-tesserati/calciatori/archivio/index
+entity_type: section_index
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "calciatori"
-  - "allenatori"
-  - "tesserati"
-  - "archivio"
-  - "registro-generale"
-  - "statistiche"
+- calciatori
+- allenatori
+- tesserati
+- archivio
+- registro-generale
+- statistiche
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Anagrafe generale dei calciatori e tecnici rossazzurri"
-  - author: "Salvatore Giovanni Emanuele, Max Licari"
-    title: "Archivio Giocatori CalcioCatania.com"
-    publisher: "calciocatania.com"
-    year: 2024
-    url: "https://www.calciocatania.com/giocatori/"
-    reference: "Database storico atleti rossazzurri"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Anagrafe generale dei calciatori e tecnici rossazzurri
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Archivio Giocatori CalcioCatania.com
+  publisher: calciocatania.com
+  year: 2024
+  url: https://www.calciocatania.com/giocatori/
+  reference: Database storico atleti rossazzurri
 aliases:
-  - "calciatori/archivio/index"
-  - "tesserati/calciatori/archivio"
-  - "03-tesserati/archivio"
-  - "tesserati/archivio"
+- calciatori/archivio/index
+- tesserati/calciatori/archivio
+- 03-tesserati/archivio
+- tesserati/archivio
 ---
 
 # Archivio Storico Tesserati — Registro Generale Ufficiale (1929-2027)

@@ -14,12 +14,12 @@ tags:
 - massimiliano-de-silvestro
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Massimiliano De Silvestro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Massimiliano De Silvestro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Massimiliano_De_Silvestro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Massimiliano_De_Silvestro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Massimiliano De Silvestro
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimiliano-de-silvestro
+- massimiliano-de-silvestro
+- tesserati/massimiliano-de-silvestro
+- calciatori/massimiliano-de-silvestro
+birth_date: '1971-10-06'
+birth_place: Montagnana
+citizenship: Italia
 ---
+
 # Massimiliano De Silvestro — Scheda Giocatore nel Calcio Catania
 
-**Massimiliano De Silvestro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Massimiliano De Silvestro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

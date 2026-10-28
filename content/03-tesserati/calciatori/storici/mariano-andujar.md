@@ -31,12 +31,12 @@ tags:
 - record-punti
 - rolando-maran
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mariano Andújar'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mariano Andújar
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mariano_And%C3%BAjar'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mariano_And%C3%BAjar
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Almanacco Ufficiale Serie A TIM — Scheda Mariano Andújar
   publisher: Lega Serie A
@@ -56,13 +56,19 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Andujar-2
 aliases:
 - tesserati/calciatori/mariano-andujar
+- mariano-andujar
+- tesserati/mariano-andujar
+- calciatori/mariano-andujar
 image_credits:
-- image_path: '/assets/images/calciatori/mariano-andujar.jpg'
-  alt_text: "Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/mariano-andujar.jpg
+  alt_text: 'Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Argentina
 ---
+
 # Mariano Andújar
 
 ![Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/mariano-andujar.jpg)

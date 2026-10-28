@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-cariola
+- francesco-cariola
+- tesserati/francesco-cariola
+- calciatori/francesco-cariola
 ---
+
 
 # Francesco Cariola — Scheda Giocatore nel Calcio Catania
 
-**Francesco Cariola** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Francesco Cariola** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - adriano-zancopè
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Adriano Zancopè'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Adriano Zancopè
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Adriano_Zancop%C3%A8'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Adriano_Zancop%C3%A8
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Adriano Zancopè
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/adriano-zancopè
+- adriano-zancopè
+- tesserati/adriano-zancopè
+- calciatori/adriano-zancopè
+birth_date: '1971-11-19'
+birth_place: Padova
+citizenship: Italia
 ---
+
 # Adriano Zancopè — Scheda Giocatore nel Calcio Catania
 
-**Adriano Zancopè** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Adriano Zancopè** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

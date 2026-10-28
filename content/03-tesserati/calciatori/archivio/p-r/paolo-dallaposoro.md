@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/paolo-dallaposoro
+- paolo-dallaposoro
+- tesserati/paolo-dallaposoro
+- calciatori/paolo-dallaposoro
 ---
+
 
 # Paolo Dall&apos;oro — Scheda Giocatore nel Calcio Catania
 
-**Paolo Dall&apos;oro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Paolo Dall&apos;oro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

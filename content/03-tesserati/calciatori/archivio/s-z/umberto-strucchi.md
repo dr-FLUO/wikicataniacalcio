@@ -14,12 +14,12 @@ tags:
 - umberto-strucchi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Umberto Strucchi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Umberto Strucchi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Umberto_Strucchi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Umberto_Strucchi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Umberto Strucchi
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/583_umberto-strucchi.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/umberto-strucchi.jpg'
-  alt_text: "Ritratto ufficiale di Umberto Strucchi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/umberto-strucchi.jpg
+  alt_text: 'Ritratto ufficiale di Umberto Strucchi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/umberto-strucchi
+- umberto-strucchi
+- tesserati/umberto-strucchi
+- calciatori/umberto-strucchi
+birth_date: '1943-01-11'
+birth_place: Scandiano
+citizenship: Italia
 ---
+
 # Umberto Strucchi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Umberto Strucchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/umberto-strucchi.jpg)
 *Ritratto ufficiale di Umberto Strucchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Umberto Strucchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Umberto Strucchi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Umberto Strucchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

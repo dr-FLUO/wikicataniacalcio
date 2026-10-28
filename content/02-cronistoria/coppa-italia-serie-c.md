@@ -52,10 +52,10 @@ Il club etneo ha partecipato a numerose edizioni del torneo durante le sue milit
 
 | Dettaglio | Andata (19 Marzo 2024) | Ritorno (2 Aprile 2024) |
 | :--- | :--- | :--- |
-| **Sede e Stadio** | Stadio Euganeo, Padova | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania |
+| **Sede e Stadio** | Stadio Euganeo, Padova | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania |
 | **Risultato** | **Calcio Padova 2 - 1 Catania FC** | **Catania FC 4 - 2 (d.t.s.) Calcio Padova** |
 | **Marcatori** | 12' Palombi (P), 25' Crisetig (P), 77' Monaco (C) | 3' Bortolussi (P), 26' rig. Di Carmine (C), 45' Cicerelli (C), 73' Perrotta (P), 89' Marsura (C), 120' Costantino (C) |
-| **Allenatore Catania** | [[tesserati/allenatori/michele-zeoli\|Michele Zeoli]] | [[tesserati/allenatori/michele-zeoli\|Michele Zeoli]] |
+| **Allenatore Catania** | [[tesserati/allenatori/michele-zeoli|Michele Zeoli]] | [[tesserati/allenatori/michele-zeoli|Michele Zeoli]] |
 | **Spettatori** | Circa 5.000 | Circa 1.500 ragazzi scuole calcio (Porte chiuse ex C.U. 195/DIV) |
 
 ---

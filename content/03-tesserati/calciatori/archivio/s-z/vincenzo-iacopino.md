@@ -14,12 +14,12 @@ tags:
 - vincenzo-iacopino
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Vincenzo Iacopino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vincenzo Iacopino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Vincenzo_Iacopino_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Vincenzo_Iacopino_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Vincenzo Iacopino
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/vincenzo-iacopino
+- vincenzo-iacopino
+- tesserati/vincenzo-iacopino
+- calciatori/vincenzo-iacopino
+birth_date: '1976-08-09'
+birth_place: Ventimiglia
+citizenship: Italia
 ---
+
 # Vincenzo Iacopino — Scheda Giocatore nel Calcio Catania
 
-**Vincenzo Iacopino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Vincenzo Iacopino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

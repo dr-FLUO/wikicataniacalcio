@@ -14,12 +14,12 @@ tags:
 - paolo-carosi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Paolo Carosi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Paolo Carosi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Paolo_Carosi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Paolo_Carosi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Paolo Carosi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/paolo-carosi
+- paolo-carosi
+- tesserati/paolo-carosi
+- calciatori/paolo-carosi
+birth_date: '1938-04-08'
+birth_place: Tivoli
+citizenship: Regno d'Italia
 ---
+
 # Paolo Carosi — Scheda Giocatore nel Calcio Catania
 
-**Paolo Carosi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Paolo Carosi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

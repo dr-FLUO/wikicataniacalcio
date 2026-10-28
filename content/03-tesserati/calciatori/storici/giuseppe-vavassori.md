@@ -14,12 +14,12 @@ tags:
 - giuseppe-vavassori
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giuseppe Vavassori'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Vavassori
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giuseppe_Vavassori_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giuseppe_Vavassori_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giuseppe Vavassori
   publisher: calciocatania.com
@@ -33,11 +33,12 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/621_giuseppe-vavassori.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/giuseppe-vavassori.jpg'
-  alt_text: "Ritratto ufficiale di Giuseppe Vavassori — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/giuseppe-vavassori.jpg
+  alt_text: 'Ritratto ufficiale di Giuseppe Vavassori — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 - image_path: assets/images/players/621_giuseppe-vavassori.jpg
   alt_text: Ritratto del calciatore Giuseppe Vavassori in maglia rossazzurra del Calcio
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -45,7 +46,14 @@ image_credits:
   license_type: Pubblico Dominio / Fair Use
 aliases:
 - tesserati/calciatori/giuseppe-vavassori
+- giuseppe-vavassori
+- tesserati/giuseppe-vavassori
+- calciatori/giuseppe-vavassori
+birth_date: '1934-06-29'
+birth_place: Rivoli
+citizenship: Regno d'Italia
 ---
+
 # Giuseppe Vavassori — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Giuseppe Vavassori — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/giuseppe-vavassori.jpg)

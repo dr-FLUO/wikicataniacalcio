@@ -20,16 +20,17 @@ total_goals: 1
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
 image_credits:
-- image_path: 'https://commons.wikimedia.org'
-  alt_text: "Figurina Panini di Loris Boni in maglia rossazzurra 1979-1980"
-  author_or_archive: 'Edizioni Panini'
+- image_path: https://commons.wikimedia.org
+  alt_text: Figurina Panini di Loris Boni in maglia rossazzurra 1979-1980
+  author_or_archive: Edizioni Panini
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
-- image_path: '../../assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp'
-  alt_text: "Figurina Panini ufficiale del centrocampista Loris Boni con la casacca del Calcio Catania 1979-1980 Solarino"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+  license_type: Creative Commons CC BY-SA 4.0
+- image_path: ../../assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp
+  alt_text: Figurina Panini ufficiale del centrocampista Loris Boni con la casacca
+    del Calcio Catania 1979-1980 Solarino
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - calciatori
 - centrocampisti
@@ -53,7 +54,11 @@ sources:
   reference: Documentazione anagrafica e statistiche certificate
 aliases:
 - tesserati/calciatori/loris-boni
+- loris-boni
+- tesserati/loris-boni
+- calciatori/loris-boni
 ---
+
 # Loris Boni (1979–1980)
 
 ![Figurina Panini ufficiale del centrocampista Loris Boni con la casacca del Calcio Catania 1979-1980 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp)

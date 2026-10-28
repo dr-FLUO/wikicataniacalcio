@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-farroni
+- alessandro-farroni
+- tesserati/alessandro-farroni
+- calciatori/alessandro-farroni
 ---
+
 
 # Alessandro Farroni — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Farroni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Alessandro Farroni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

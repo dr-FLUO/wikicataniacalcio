@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/995_eros-pellegrini.jpg
 image_credits:
-- image_path: 'assets/images/players/995_eros-pellegrini.jpg'
-  alt_text: "Ritratto del calciatore Eros Pellegrini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/995_eros-pellegrini.jpg
+  alt_text: Ritratto del calciatore Eros Pellegrini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/eros-pellegrini
+- eros-pellegrini
+- tesserati/eros-pellegrini
+- calciatori/eros-pellegrini
 ---
+
 # Eros Pellegrini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Eros Pellegrini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/995_eros-pellegrini.jpg)
 *Ritratto del calciatore Eros Pellegrini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Eros Pellegrini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Eros Pellegrini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

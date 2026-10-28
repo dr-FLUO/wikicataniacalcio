@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/matteo-pessina
+- matteo-pessina
+- tesserati/matteo-pessina
+- calciatori/matteo-pessina
 ---
+
 
 # Matteo Pessina — Scheda Giocatore nel Calcio Catania
 
-**Matteo Pessina** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Matteo Pessina** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -1,50 +1,56 @@
 ---
-title: "Renato Miglioli — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Renato Miglioli, centrocampista del Calcio Catania con 35 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/m-o/renato-miglioli"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1921-10-03"
-birth_place: "Caronno Varesino, Italia"
-death_date: "2011-04-18"
-nationality: "Italia"
+title: Renato Miglioli — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Renato Miglioli, centrocampista
+  del Calcio Catania con 35 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/m-o/renato-miglioli
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1921-10-03'
+birth_place: Caronno Varesino, Italia
+death_date: '2011-04-18'
+nationality: Italia
 total_appearances: 35
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "renato-miglioli"
-  - "centrocampista"
+- calciatori
+- renato-miglioli
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Renato Miglioli"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Renato_Miglioli"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/renato-miglioli.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Renato Miglioli
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Renato_Miglioli
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/renato-miglioli.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/renato-miglioli.jpg"
-    alt_text: "Ritratto fotografico di Renato Miglioli calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/renato-miglioli.jpg
+  alt_text: Ritratto fotografico di Renato Miglioli calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/renato-miglioli"
-  - "renato-miglioli"
+- tesserati/calciatori/renato-miglioli
+- renato-miglioli
+- tesserati/renato-miglioli
+- calciatori/renato-miglioli
+citizenship: Regno d'Italia
 ---
+
 # Renato Miglioli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Renato Miglioli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/renato-miglioli.jpg)
 *Ritratto del calciatore Renato Miglioli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Renato Miglioli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Renato Miglioli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 

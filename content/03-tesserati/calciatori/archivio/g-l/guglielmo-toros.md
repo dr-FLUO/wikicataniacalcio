@@ -14,12 +14,12 @@ tags:
 - guglielmo-toros
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Guglielmo Toros'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guglielmo Toros
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Guglielmo_Toros'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Guglielmo_Toros
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Guglielmo Toros
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/687_guglielmo-toros.jpg
 image_credits:
-- image_path: 'assets/images/players/687_guglielmo-toros.jpg'
-  alt_text: "Ritratto del calciatore Guglielmo Toros in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/687_guglielmo-toros.jpg
+  alt_text: Ritratto del calciatore Guglielmo Toros in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/guglielmo-toros
+- guglielmo-toros
+- tesserati/guglielmo-toros
+- calciatori/guglielmo-toros
+birth_date: '1927-09-25'
+birth_place: Grado
+citizenship: Regno d'Italia
 ---
+
 # Guglielmo Toros — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Guglielmo Toros in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/687_guglielmo-toros.jpg)
 *Ritratto del calciatore Guglielmo Toros in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Guglielmo Toros** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Guglielmo Toros** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

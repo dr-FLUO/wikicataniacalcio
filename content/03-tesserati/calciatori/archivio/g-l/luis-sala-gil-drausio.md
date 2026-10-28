@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luis-sala-gil-drausio
+- luis-sala-gil-drausio
+- tesserati/luis-sala-gil-drausio
+- calciatori/luis-sala-gil-drausio
 ---
+
 
 # Luis Sala Gil Drausio — Scheda Giocatore nel Calcio Catania
 
-**Luis Sala Gil Drausio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luis Sala Gil Drausio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

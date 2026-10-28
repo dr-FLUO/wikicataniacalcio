@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/victor-daposagostino
+- victor-daposagostino
+- tesserati/victor-daposagostino
+- calciatori/victor-daposagostino
 ---
+
 
 # Victor D&apos;Agostino — Scheda Giocatore nel Calcio Catania
 
-**Victor D&apos;Agostino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Victor D&apos;Agostino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

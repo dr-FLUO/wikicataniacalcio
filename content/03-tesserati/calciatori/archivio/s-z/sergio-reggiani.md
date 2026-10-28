@@ -14,12 +14,12 @@ tags:
 - sergio-reggiani
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sergio Reggiani'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sergio Reggiani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sergio_Reggiani'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sergio_Reggiani
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sergio Reggiani
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/590_sergio-reggiani.jpg
 image_credits:
-- image_path: 'assets/images/players/590_sergio-reggiani.jpg'
-  alt_text: "Ritratto del calciatore Sergio Reggiani in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/590_sergio-reggiani.jpg
+  alt_text: Ritratto del calciatore Sergio Reggiani in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/sergio-reggiani
+- sergio-reggiani
+- tesserati/sergio-reggiani
+- calciatori/sergio-reggiani
+birth_date: '1948-09-22'
+birth_place: Correggio
+citizenship: Italia
 ---
+
 # Sergio Reggiani — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Sergio Reggiani in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/590_sergio-reggiani.jpg)
 *Ritratto del calciatore Sergio Reggiani in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Sergio Reggiani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Sergio Reggiani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

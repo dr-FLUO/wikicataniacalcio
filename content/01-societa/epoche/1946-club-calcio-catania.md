@@ -89,9 +89,9 @@ Con la riforma federale che impose la trasformazione dei club professionistici i
 | Periodo | Presidente / Commissario | Allenatori di Riferimento | Serie / Categoria | Traguardi Storici e Snodi Giuridici |
 | :--- | :--- | :--- | :--- | :--- |
 | **1946–1951** | Santi Manganaro Passanisi, Lorenzo Fazio | Achille Piccini, Giovanni Degni | Serie C ➔ Serie B | Fondazione del **24/09/1946** (matricola 11700) e promozione in Serie B nel 1948-49. |
-| **1951–1956** | Arturo Michisanti, Giuseppe Rizzo | Fioravante Baldi, [[tesserati/allenatori/piero-andreoli\|Piero Andreoli]] | Serie B ➔ Serie A | **1ª Promozione in Serie A** ([[stagioni/1953-1954\|1953-1954]]); 12º posto in [[stagioni/1954-1955\|Serie A 1954-1955]] e retrocessione d'ufficio per il [[vicende-legali/caso-scaramella-1955\|Caso Scaramella]]. |
+| **1951–1956** | Arturo Michisanti, Giuseppe Rizzo | Fioravante Baldi, [[tesserati/allenatori/piero-andreoli|Piero Andreoli]] | Serie B ➔ Serie A | **1ª Promozione in Serie A** ([[stagioni/1953-1954|1953-1954]]); 12º posto in [[stagioni/1954-1955|Serie A 1954-1955]] e retrocessione d'ufficio per il [[vicende-legali/caso-scaramella-1955|Caso Scaramella]]. |
 | **1956–1959** | Agatino Pesce, Michele Giuffrida | Gipo Poggi, Blagoje Marjanović | Serie B | Anni di crisi post-1955 fino al commissariamento del gennaio 1959. |
-| **1959–1967** | [[societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]], Luigi Valsecchi | Serie B ➔ **Serie A (6 stagioni)** | Promozione in A (1959-60); tre **8º posti** ([[stagioni/1960-1961\|1960-61]], [[stagioni/1963-1964\|1963-64]], [[stagioni/1964-1965\|1964-65]]); [[partite/1960-1961/catania-inter-2-0\|Catania-Inter 2-0 («Clamoroso al Cibali!»)]]; trasformazione in S.p.A. (17/09/1967). |
+| **1959–1967** | [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] | [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Luigi Valsecchi | Serie B ➔ **Serie A (6 stagioni)** | Promozione in A (1959-60); tre **8º posti** ([[stagioni/1960-1961|1960-61]], [[stagioni/1963-1964|1963-64]], [[stagioni/1964-1965|1964-65]]); [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 («Clamoroso al Cibali!»)]]; trasformazione in S.p.A. (17/09/1967). |
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luigi-marangolo
+- luigi-marangolo
+- tesserati/luigi-marangolo
+- calciatori/luigi-marangolo
 ---
+
 
 # Luigi Marangolo — Scheda Giocatore nel Calcio Catania
 
-**Luigi Marangolo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luigi Marangolo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

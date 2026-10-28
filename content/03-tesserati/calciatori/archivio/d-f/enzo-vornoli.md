@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/enzo-vornoli
+- enzo-vornoli
+- tesserati/enzo-vornoli
+- calciatori/enzo-vornoli
 ---
+
 
 # Enzo Vornoli — Scheda Giocatore nel Calcio Catania
 
-**Enzo Vornoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Enzo Vornoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

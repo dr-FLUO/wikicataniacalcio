@@ -31,12 +31,12 @@ tags:
 - angelo-massimino
 - egizio-rubino
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Aquilino Bonfanti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aquilino Bonfanti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Aquilino_Bonfanti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Aquilino_Bonfanti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -51,14 +51,20 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Bonfanti-578
 image: assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp'
-  alt_text: "Aquilino Bonfanti, capocannoniere della Serie B 1969-1970"
-  author_or_archive: "Collezione Figurine Edizioni Panini / Lampo"
+- image_path: assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp
+  alt_text: Aquilino Bonfanti, capocannoniere della Serie B 1969-1970
+  author_or_archive: Collezione Figurine Edizioni Panini / Lampo
   year: 1980
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/aquilino-bonfanti
+- aquilino-bonfanti
+- tesserati/aquilino-bonfanti
+- calciatori/aquilino-bonfanti
+citizenship: Regno d'Italia
+seasons_count: 3
 ---
+
 ![Aquilino Bonfanti, capocannoniere della Serie B 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp)
 *Aquilino Bonfanti, capocannoniere della Serie B 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
@@ -87,7 +93,7 @@ Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 ret
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1968-1972) | 101 | 29 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1968-1972) | 101 | 29 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 8 | 1 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **109** | **30** | — | — |
 

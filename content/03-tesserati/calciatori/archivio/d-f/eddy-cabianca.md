@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/eddy-cabianca
+- eddy-cabianca
+- tesserati/eddy-cabianca
+- calciatori/eddy-cabianca
 ---
+
 
 # Eddy Cabianca — Scheda Giocatore nel Calcio Catania
 
-**Eddy Cabianca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Eddy Cabianca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

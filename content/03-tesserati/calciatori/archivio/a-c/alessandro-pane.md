@@ -14,12 +14,12 @@ tags:
 - alessandro-pane
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alessandro Pane'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Pane
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alessandro_Pane'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alessandro_Pane
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Alessandro Pane
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/191_alessandro-pane.jpg
 image_credits:
-- image_path: 'assets/images/players/191_alessandro-pane.jpg'
-  alt_text: "Ritratto del calciatore Alessandro Pane in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/191_alessandro-pane.jpg
+  alt_text: Ritratto del calciatore Alessandro Pane in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/alessandro-pane
+- alessandro-pane
+- tesserati/alessandro-pane
+- calciatori/alessandro-pane
+birth_date: '1967-11-20'
+birth_place: Tripoli
+citizenship: Italia
 ---
+
 # Alessandro Pane — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alessandro Pane in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/players/191_alessandro-pane.jpg)
 *Ritratto del calciatore Alessandro Pane in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
-**Alessandro Pane** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Pane** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

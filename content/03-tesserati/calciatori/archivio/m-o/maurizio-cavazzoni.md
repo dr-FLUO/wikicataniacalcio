@@ -14,12 +14,12 @@ tags:
 - maurizio-cavazzoni
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maurizio Cavazzoni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maurizio Cavazzoni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maurizio_Cavazzoni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maurizio_Cavazzoni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Maurizio Cavazzoni
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/586_maurizio-cavazzoni.jpg
 image_credits:
-- image_path: 'assets/images/players/586_maurizio-cavazzoni.jpg'
-  alt_text: "Ritratto del calciatore Maurizio Cavazzoni in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/586_maurizio-cavazzoni.jpg
+  alt_text: Ritratto del calciatore Maurizio Cavazzoni in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/maurizio-cavazzoni
+- maurizio-cavazzoni
+- tesserati/maurizio-cavazzoni
+- calciatori/maurizio-cavazzoni
+birth_date: '1940-08-25'
+birth_place: Guastalla
+citizenship: Italia
 ---
+
 # Maurizio Cavazzoni — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Maurizio Cavazzoni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/586_maurizio-cavazzoni.jpg)
 *Ritratto del calciatore Maurizio Cavazzoni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Maurizio Cavazzoni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Maurizio Cavazzoni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

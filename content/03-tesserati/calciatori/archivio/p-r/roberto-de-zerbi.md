@@ -14,12 +14,12 @@ tags:
 - roberto-de-zerbi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto De Zerbi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto De Zerbi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_De_Zerbi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_De_Zerbi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto De Zerbi
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/93_roberto-de-zerbi.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/roberto-de-zerbi.jpg'
-  alt_text: "Ritratto ufficiale di Roberto De Zerbi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/roberto-de-zerbi.jpg
+  alt_text: 'Ritratto ufficiale di Roberto De Zerbi — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/roberto-de-zerbi
+- roberto-de-zerbi
+- tesserati/roberto-de-zerbi
+- calciatori/roberto-de-zerbi
+birth_date: '1979-06-06'
+birth_place: Brescia
+citizenship: Italia
 ---
+
 # Roberto De Zerbi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Roberto De Zerbi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/roberto-de-zerbi.jpg)
 *Ritratto ufficiale di Roberto De Zerbi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Roberto De Zerbi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Roberto De Zerbi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Roberto De Zerbi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - pietro-fiorindi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pietro Fiorindi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pietro Fiorindi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pietro_Fiorindi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pietro_Fiorindi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pietro Fiorindi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pietro-fiorindi
+- pietro-fiorindi
+- tesserati/pietro-fiorindi
+- calciatori/pietro-fiorindi
+birth_date: '1934-03-07'
+birth_place: Firenze
+citizenship: Italia
 ---
+
 # Pietro Fiorindi — Scheda Giocatore nel Calcio Catania
 
-**Pietro Fiorindi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pietro Fiorindi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

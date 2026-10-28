@@ -14,13 +14,13 @@ catania_periods:
 - 2004-2005
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/nedo-sonetti.jpg"
+image: assets/images/allenatori/nedo-sonetti.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/nedo-sonetti.jpg"
-    alt_text: "Ritratto fotografico di Nedo Sonetti allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/nedo-sonetti.jpg
+  alt_text: Ritratto fotografico di Nedo Sonetti allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
@@ -28,12 +28,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Nedo Sonetti"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nedo Sonetti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Nedo_Sonetti"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Nedo_Sonetti
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/nedo-sonetti
+- nedo-sonetti
+- tesserati/nedo-sonetti
+- allenatori/nedo-sonetti
 ---
+
 
 
 # Nedo Sonetti
@@ -78,7 +82,7 @@ Riorganizzò la difesa e valorizzò elementi cardine come Pantanelli, Cesar e Si
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2004-2005|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

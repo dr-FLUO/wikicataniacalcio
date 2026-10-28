@@ -17,13 +17,13 @@ catania_periods:
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Eredi Massimino)]]'
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: "assets/images/allenatori/vincenzo-guerini.jpg"
+image: assets/images/allenatori/vincenzo-guerini.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/vincenzo-guerini.jpg"
-    alt_text: "Ritratto fotografico di Vincenzo Guerini allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/vincenzo-guerini.jpg
+  alt_text: Ritratto fotografico di Vincenzo Guerini allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - serie-b
@@ -32,12 +32,12 @@ tags:
 - caso-catania-2003
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Vincenzo Guerini"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vincenzo Guerini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Vincenzo_Guerini"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Vincenzo_Guerini
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -53,7 +53,11 @@ sources:
   reference: Scheda statistica delle panchine in Serie C1 e Serie B
 aliases:
 - tesserati/allenatori/vincenzo-guerini
+- vincenzo-guerini
+- tesserati/vincenzo-guerini
+- allenatori/vincenzo-guerini
 ---
+
 
 
 # Vincenzo Guerini
@@ -85,10 +89,10 @@ Quattro giorni più tardi, il **12 aprile 2003** (30ª giornata), Guerini siede 
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. (+PO) | V | N | P | Note Storiche |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1986-1987** (nov.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | 19º posto | 29 | 6 | 12 | 11 | Prima esperienza in panchina a Catania. |
-| **1999-2000** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **7º posto** (49 punti) | 34 | 12 | 13 | 9 | Ultima stagione pre-Gaucci; sfiora i playoff. |
-| **2000-2001** (gen.) | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **3º posto (58 pt) — Finalista Playoff** | 16 (+4 PO) | 10 | 4 | 6 | Rimonta in campionato e finale playoff col Messina. |
-| **[[stagioni/2002-2003\|2002-2003]]** (apr.) | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie B | **Salvezza / Riammissione ex [[vicende-legali/caso-catania-2003\|Caso Catania]]** | 9 | 4 | 1 | 4 | Include [[partite/2002-2003/catania-siena-1-1\|Catania-Siena 1-1]] (2-0 CAF/TAR). |
+| **1986-1987** (nov.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | 19º posto | 29 | 6 | 12 | 11 | Prima esperienza in panchina a Catania. |
+| **1999-2000** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **7º posto** (49 punti) | 34 | 12 | 13 | 9 | Ultima stagione pre-Gaucci; sfiora i playoff. |
+| **2000-2001** (gen.) | [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **3º posto (58 pt) — Finalista Playoff** | 16 (+4 PO) | 10 | 4 | 6 | Rimonta in campionato e finale playoff col Messina. |
+| **[[stagioni/2002-2003|2002-2003]]** (apr.) | [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] (11700) | Serie B | **Salvezza / Riammissione ex [[vicende-legali/caso-catania-2003|Caso Catania]]** | 9 | 4 | 1 | 4 | Include [[partite/2002-2003/catania-siena-1-1|Catania-Siena 1-1]] (2-0 CAF/TAR). |
 
 ## Fonti e Bibliografia
 

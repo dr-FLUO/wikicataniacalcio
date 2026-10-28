@@ -14,12 +14,12 @@ tags:
 - luca-cecconi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luca Cecconi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luca Cecconi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luca_Cecconi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luca_Cecconi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luca Cecconi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/375_luca-cecconi.jpg
 image_credits:
-- image_path: 'assets/images/players/375_luca-cecconi.jpg'
-  alt_text: "Ritratto del calciatore Luca Cecconi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/375_luca-cecconi.jpg
+  alt_text: Ritratto del calciatore Luca Cecconi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/luca-cecconi
+- luca-cecconi
+- tesserati/luca-cecconi
+- calciatori/luca-cecconi
+birth_date: '1964-01-24'
+birth_place: Fucecchio
+citizenship: Italia
 ---
+
 # Luca Cecconi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luca Cecconi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/375_luca-cecconi.jpg)
 *Ritratto del calciatore Luca Cecconi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Luca Cecconi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luca Cecconi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

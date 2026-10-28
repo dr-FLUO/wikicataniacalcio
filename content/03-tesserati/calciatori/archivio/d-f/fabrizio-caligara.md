@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabrizio-caligara
+- fabrizio-caligara
+- tesserati/fabrizio-caligara
+- calciatori/fabrizio-caligara
 ---
+
 
 # Fabrizio Caligara — Scheda Giocatore nel Calcio Catania
 
-**Fabrizio Caligara** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabrizio Caligara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/492_antonio-dal-poggetto.jpg
 image_credits:
-- image_path: 'assets/images/players/492_antonio-dal-poggetto.jpg'
-  alt_text: "Ritratto del calciatore Antonio Dal Poggetto in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/492_antonio-dal-poggetto.jpg
+  alt_text: Ritratto del calciatore Antonio Dal Poggetto in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/antonio-dal-poggetto
+- antonio-dal-poggetto
+- tesserati/antonio-dal-poggetto
+- calciatori/antonio-dal-poggetto
 ---
+
 # Antonio Dal Poggetto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Antonio Dal Poggetto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/492_antonio-dal-poggetto.jpg)
 *Ritratto del calciatore Antonio Dal Poggetto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Antonio Dal Poggetto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Antonio Dal Poggetto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

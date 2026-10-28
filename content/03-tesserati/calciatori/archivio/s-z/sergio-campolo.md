@@ -14,12 +14,12 @@ tags:
 - sergio-campolo
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sergio Campolo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sergio Campolo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sergio_Campolo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sergio_Campolo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sergio Campolo
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/sergio-campolo
+- sergio-campolo
+- tesserati/sergio-campolo
+- calciatori/sergio-campolo
+birth_date: '1972-03-04'
+birth_place: Reggio Calabria
+citizenship: Italia
 ---
+
 # Sergio Campolo — Scheda Giocatore nel Calcio Catania
 
-**Sergio Campolo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Sergio Campolo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

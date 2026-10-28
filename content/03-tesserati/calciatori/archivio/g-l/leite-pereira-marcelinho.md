@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/leite-pereira-marcelinho
+- leite-pereira-marcelinho
+- tesserati/leite-pereira-marcelinho
+- calciatori/leite-pereira-marcelinho
 ---
+
 
 # Leite Pereira Marcelinho — Scheda Giocatore nel Calcio Catania
 
-**Leite Pereira Marcelinho** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Leite Pereira Marcelinho** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

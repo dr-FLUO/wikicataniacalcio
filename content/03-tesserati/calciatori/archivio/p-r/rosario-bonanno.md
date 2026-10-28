@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/281_rosario-bonanno.jpg
 image_credits:
-- image_path: 'assets/images/players/281_rosario-bonanno.jpg'
-  alt_text: "Ritratto del calciatore Rosario Bonanno in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/281_rosario-bonanno.jpg
+  alt_text: Ritratto del calciatore Rosario Bonanno in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/rosario-bonanno
+- rosario-bonanno
+- tesserati/rosario-bonanno
+- calciatori/rosario-bonanno
 ---
+
 # Rosario Bonanno — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Rosario Bonanno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/281_rosario-bonanno.jpg)
 *Ritratto del calciatore Rosario Bonanno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Rosario Bonanno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Rosario Bonanno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

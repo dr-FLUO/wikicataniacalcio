@@ -14,12 +14,12 @@ tags:
 - tommaso-napoli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Tommaso Napoli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Tommaso Napoli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Tommaso_Napoli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Tommaso_Napoli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Tommaso Napoli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/tommaso-napoli
+- tommaso-napoli
+- tesserati/tommaso-napoli
+- calciatori/tommaso-napoli
+birth_date: '1967-11-13'
+birth_place: Palermo
+citizenship: Italia
 ---
+
 # Tommaso Napoli — Scheda Giocatore nel Calcio Catania
 
-**Tommaso Napoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Tommaso Napoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

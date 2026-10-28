@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-turone
+- alessandro-turone
+- tesserati/alessandro-turone
+- calciatori/alessandro-turone
 ---
+
 
 # Alessandro Turone — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Turone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Turone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

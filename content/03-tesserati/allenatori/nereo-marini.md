@@ -19,12 +19,12 @@ tags:
 - anni-cinquanta
 - serie-b
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Nereo Marini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nereo Marini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Nereo_Marini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Nereo_Marini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -38,7 +38,12 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/nereo-marini
+- nereo-marini
+- tesserati/nereo-marini
+- allenatori/nereo-marini
+citizenship: Regno d'Italia
 ---
+
 # Nereo Marini
 
 **Nereo Marini** (Mantova, Italia, 1909) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1950-1952**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
@@ -63,7 +68,7 @@ Nel campionato 1951-1952 guidò la squadra fino alla 18ª giornata prima del pas
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1950-1951\|1950-1951]], [[stagioni/1951-1952\|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1950-1951|1950-1951]], [[stagioni/1951-1952|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

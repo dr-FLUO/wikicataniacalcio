@@ -14,12 +14,12 @@ tags:
 - antonio-ceccarini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Antonio Ceccarini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Antonio Ceccarini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Antonio_Ceccarini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Antonio_Ceccarini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Antonio Ceccarini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/546_antonio-ceccarini.jpg
 image_credits:
-- image_path: 'assets/images/players/546_antonio-ceccarini.jpg'
-  alt_text: "Ritratto del calciatore Antonio Ceccarini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/546_antonio-ceccarini.jpg
+  alt_text: Ritratto del calciatore Antonio Ceccarini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/antonio-ceccarini
+- antonio-ceccarini
+- tesserati/antonio-ceccarini
+- calciatori/antonio-ceccarini
+birth_date: '1949-10-18'
+birth_place: Sant'Angelo in Vado
+citizenship: Italia
 ---
+
 # Antonio Ceccarini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Antonio Ceccarini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/546_antonio-ceccarini.jpg)
 *Ritratto del calciatore Antonio Ceccarini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Antonio Ceccarini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Antonio Ceccarini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

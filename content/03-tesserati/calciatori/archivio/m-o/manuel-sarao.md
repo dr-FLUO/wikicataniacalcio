@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/946_manuel-sarao.jpg
 image_credits:
-- image_path: 'assets/images/players/946_manuel-sarao.jpg'
-  alt_text: "Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/946_manuel-sarao.jpg
+  alt_text: Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/manuel-sarao
+- manuel-sarao
+- tesserati/manuel-sarao
+- calciatori/manuel-sarao
 ---
+
 # Manuel Sarao — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/946_manuel-sarao.jpg)
 *Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Manuel Sarao** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Manuel Sarao** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

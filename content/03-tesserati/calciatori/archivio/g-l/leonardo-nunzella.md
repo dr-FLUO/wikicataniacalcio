@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/875_leonardo-nunzella.jpg
 image_credits:
-- image_path: 'assets/images/players/875_leonardo-nunzella.jpg'
-  alt_text: "Ritratto del calciatore Leonardo Nunzella in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/875_leonardo-nunzella.jpg
+  alt_text: Ritratto del calciatore Leonardo Nunzella in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/leonardo-nunzella
+- leonardo-nunzella
+- tesserati/leonardo-nunzella
+- calciatori/leonardo-nunzella
 ---
+
 # Leonardo Nunzella — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Leonardo Nunzella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/875_leonardo-nunzella.jpg)
 *Ritratto del calciatore Leonardo Nunzella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Leonardo Nunzella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Leonardo Nunzella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

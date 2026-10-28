@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/valeriano-recchi
+- valeriano-recchi
+- tesserati/valeriano-recchi
+- calciatori/valeriano-recchi
 ---
+
 
 # Valeriano Recchi — Scheda Giocatore nel Calcio Catania
 
-**Valeriano Recchi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Valeriano Recchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

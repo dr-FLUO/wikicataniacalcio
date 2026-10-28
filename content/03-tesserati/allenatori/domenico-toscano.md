@@ -22,12 +22,12 @@ tags:
 - cannibale
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Domenico Toscano"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Domenico Toscano
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Domenico_Toscano"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Domenico_Toscano
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -41,14 +41,18 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 image: assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp
 image_credits:
-- image_path: 'assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp'
-  alt_text: "Domenico Toscano, allenatore del Catania FC"
-  author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
+- image_path: assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp
+  alt_text: Domenico Toscano, allenatore del Catania FC
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/domenico-toscano
+- domenico-toscano
+- tesserati/domenico-toscano
+- allenatori/domenico-toscano
 ---
+
 ![Domenico Toscano, allenatore del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp)
 *Domenico Toscano, allenatore del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
@@ -77,7 +81,7 @@ Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; conf
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2024-2025\|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2024-2025|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

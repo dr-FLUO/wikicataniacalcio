@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alfredo-smirni
+- alfredo-smirni
+- tesserati/alfredo-smirni
+- calciatori/alfredo-smirni
 ---
+
 
 # Alfredo Smirni — Scheda Giocatore nel Calcio Catania
 
-**Alfredo Smirni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Alfredo Smirni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

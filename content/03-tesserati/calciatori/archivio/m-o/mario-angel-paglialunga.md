@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/37_mario-angel-paglialunga.jpg
 image_credits:
-- image_path: 'assets/images/players/37_mario-angel-paglialunga.jpg'
-  alt_text: "Ritratto del calciatore Mario Angel Paglialunga in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/37_mario-angel-paglialunga.jpg
+  alt_text: Ritratto del calciatore Mario Angel Paglialunga in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mario-angel-paglialunga
+- mario-angel-paglialunga
+- tesserati/mario-angel-paglialunga
+- calciatori/mario-angel-paglialunga
 ---
+
 # Mario Angel Paglialunga — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mario Angel Paglialunga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/37_mario-angel-paglialunga.jpg)
 *Ritratto del calciatore Mario Angel Paglialunga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mario Angel Paglialunga** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mario Angel Paglialunga** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

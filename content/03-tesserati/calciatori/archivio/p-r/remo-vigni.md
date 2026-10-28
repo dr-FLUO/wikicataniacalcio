@@ -14,12 +14,12 @@ tags:
 - remo-vigni
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Remo Vigni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Remo Vigni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Remo_Vigni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Remo_Vigni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Remo Vigni
   publisher: calciocatania.com
@@ -34,19 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/665_remo-vigni.jpg
 image_credits:
-- image_path: 'assets/images/players/665_remo-vigni.jpg'
-  alt_text: "Ritratto del calciatore Remo Vigni in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/665_remo-vigni.jpg
+  alt_text: Ritratto del calciatore Remo Vigni in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/remo-vigni
+aliases:
+- remo-vigni
+- tesserati/remo-vigni
+- calciatori/remo-vigni
+birth_date: '1938-11-11'
+birth_place: Brescia
+citizenship: Italia
 ---
+
 # Remo Vigni — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Remo Vigni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/665_remo-vigni.jpg)
 *Ritratto del calciatore Remo Vigni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Remo Vigni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Remo Vigni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,12 +28,12 @@ tags:
 - serie-c
 - afc-catania
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ettore Brossi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ettore Brossi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ettore_Brossi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ettore_Brossi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/ettore-brossi
+- ettore-brossi
+- tesserati/ettore-brossi
+- calciatori/ettore-brossi
+citizenship: Italia
 ---
+
 # Ettore Brossi
 
 **Ettore Brossi** (Trieste, 25 giugno 1910 – Trieste, 4 dicembre 1982) è stato un calciatore e allenatore di calcio italiano, di ruolo centravanti. Acquistato dall'AFC Catania nell'estate del **1936**, si impose immediatamente per prestanza fisica, incornata potente e letale opportunismo sotto porta.
@@ -73,7 +78,7 @@ Con la partenza di Nicolosi al Napoli, nella [[stagioni/1937-1938|Stagione 1937-
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1936-1938) | 55 | 25 | Attaccante / Centravanti | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
+| Campionato (1936-1938) | 55 | 25 | Attaccante / Centravanti | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 3 | 0 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **58** | **25** | — | — |
 

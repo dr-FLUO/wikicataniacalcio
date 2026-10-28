@@ -28,11 +28,18 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giancarlo-cadè
+- giancarlo-cadè
+- tesserati/giancarlo-cadè
+- calciatori/giancarlo-cadè
+birth_date: '1930-02-27'
+birth_place: Zanica
+citizenship: Italia
 ---
+
 
 # Giancarlo Cadè — Scheda Giocatore nel Calcio Catania
 
-**Giancarlo Cadè** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giancarlo Cadè** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

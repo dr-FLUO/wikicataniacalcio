@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1019_luigi-rossitto.jpg
 image_credits:
-- image_path: 'assets/images/players/1019_luigi-rossitto.jpg'
-  alt_text: "Ritratto del calciatore Luigi Rossitto in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1019_luigi-rossitto.jpg
+  alt_text: Ritratto del calciatore Luigi Rossitto in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/luigi-rossitto
+- luigi-rossitto
+- tesserati/luigi-rossitto
+- calciatori/luigi-rossitto
 ---
+
 # Luigi Rossitto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luigi Rossitto in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1019_luigi-rossitto.jpg)
 *Ritratto del calciatore Luigi Rossitto in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
-**Luigi Rossitto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luigi Rossitto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

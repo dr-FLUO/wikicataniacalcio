@@ -18,13 +18,13 @@ catania_periods:
 - 1985-1987
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/gennaro-rambone.jpg"
+image: assets/images/allenatori/gennaro-rambone.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/gennaro-rambone.jpg"
-    alt_text: "Ritratto fotografico di Gennaro Rambone allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/gennaro-rambone.jpg
+  alt_text: Ritratto fotografico di Gennaro Rambone allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-settanta
@@ -34,12 +34,12 @@ tags:
 - angelo-massimino
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Gennaro Rambone"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gennaro Rambone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Gennaro_Rambone"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Gennaro_Rambone
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -53,7 +53,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/gennaro-rambone
+- gennaro-rambone
+- tesserati/gennaro-rambone
+- allenatori/gennaro-rambone
 ---
+
 
 
 # Gennaro Rambone
@@ -84,9 +88,9 @@ Nel 1979-1980 avviò la cavalcata vincente in Serie C1 conquistando 11 punti nel
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1974-1975\|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1979-1980\|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1985-1986\|1985-1986]], [[stagioni/1986-1987\|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1974-1975|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1979-1980|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1985-1986|1985-1986]], [[stagioni/1986-1987|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - manuel-marcuz
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Manuel Marcuz'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Manuel Marcuz
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Manuel_Marcuz'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Manuel_Marcuz
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Manuel Marcuz
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/manuel-marcuz
+- manuel-marcuz
+- tesserati/manuel-marcuz
+- calciatori/manuel-marcuz
+birth_date: '1972-05-06'
+birth_place: Pordenone
+citizenship: Italia
 ---
+
 # Manuel Marcuz — Scheda Giocatore nel Calcio Catania
 
-**Manuel Marcuz** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Manuel Marcuz** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

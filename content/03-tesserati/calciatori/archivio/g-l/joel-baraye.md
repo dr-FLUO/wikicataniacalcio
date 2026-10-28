@@ -28,20 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/924_joel-baraye.jpg
 image_credits:
-- image_path: 'assets/images/players/924_joel-baraye.jpg'
-  alt_text: "Ritratto del calciatore Joel Baraye in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/924_joel-baraye.jpg
+  alt_text: Ritratto del calciatore Joel Baraye in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/joel-baraye
+- joel-baraye
+- tesserati/joel-baraye
+- calciatori/joel-baraye
 ---
+
 # Joel Baraye — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Joel Baraye in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/924_joel-baraye.jpg)
 *Ritratto del calciatore Joel Baraye in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Joel Baraye** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Joel Baraye** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

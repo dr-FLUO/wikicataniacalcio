@@ -14,12 +14,12 @@ tags:
 - federico-freire
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Federico Freire'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Federico Freire
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Federico_Freire'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Federico_Freire
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Federico Freire
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/806_federico-freire.jpg
 image_credits:
-- image_path: 'assets/images/players/806_federico-freire.jpg'
-  alt_text: "Ritratto del calciatore Federico Freire in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/806_federico-freire.jpg
+  alt_text: Ritratto del calciatore Federico Freire in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/federico-freire
+- federico-freire
+- tesserati/federico-freire
+- calciatori/federico-freire
+birth_date: '1990-11-06'
+birth_place: Buenos Aires
+citizenship: Argentina
 ---
+
 # Federico Freire — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Federico Freire in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/806_federico-freire.jpg)
 *Ritratto del calciatore Federico Freire in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Federico Freire** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Federico Freire** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luciano-torri
+- luciano-torri
+- tesserati/luciano-torri
+- calciatori/luciano-torri
 ---
+
 
 # Luciano Torri — Scheda Giocatore nel Calcio Catania
 
-**Luciano Torri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luciano Torri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

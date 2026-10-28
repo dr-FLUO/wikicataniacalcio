@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/valentino-sbaccanti
+- valentino-sbaccanti
+- tesserati/valentino-sbaccanti
+- calciatori/valentino-sbaccanti
 ---
+
 
 # Valentino Sbaccanti — Scheda Giocatore nel Calcio Catania
 
-**Valentino Sbaccanti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Valentino Sbaccanti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

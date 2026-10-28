@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/guido-gatti
+- guido-gatti
+- tesserati/guido-gatti
+- calciatori/guido-gatti
 ---
+
 
 # Guido Gatti — Scheda Giocatore nel Calcio Catania
 
-**Guido Gatti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Guido Gatti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

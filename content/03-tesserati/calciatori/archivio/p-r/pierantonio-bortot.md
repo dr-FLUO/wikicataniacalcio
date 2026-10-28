@@ -14,12 +14,12 @@ tags:
 - pierantonio-bortot
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pierantonio Bortot'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pierantonio Bortot
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pierantonio_Bortot'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pierantonio_Bortot
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pierantonio Bortot
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/522_pierantonio-bortot.jpg
 image_credits:
-- image_path: 'assets/images/players/522_pierantonio-bortot.jpg'
-  alt_text: "Ritratto del calciatore Pierantonio Bortot in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/522_pierantonio-bortot.jpg
+  alt_text: Ritratto del calciatore Pierantonio Bortot in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/pierantonio-bortot
+- pierantonio-bortot
+- tesserati/pierantonio-bortot
+- calciatori/pierantonio-bortot
+birth_date: '1955-08-03'
+birth_place: Conegliano
+citizenship: Italia
 ---
+
 # Pierantonio Bortot — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Pierantonio Bortot in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/522_pierantonio-bortot.jpg)
 *Ritratto del calciatore Pierantonio Bortot in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Pierantonio Bortot** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Pierantonio Bortot** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

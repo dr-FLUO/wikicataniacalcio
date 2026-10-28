@@ -14,12 +14,12 @@ tags:
 - ubaldo-spanio
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ubaldo Spanio'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ubaldo Spanio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ubaldo_Spanio'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ubaldo_Spanio
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ubaldo Spanio
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/567_ubaldo-spanio.jpg
 image_credits:
-- image_path: 'assets/images/players/567_ubaldo-spanio.jpg'
-  alt_text: "Ritratto del calciatore Ubaldo Spanio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/567_ubaldo-spanio.jpg
+  alt_text: Ritratto del calciatore Ubaldo Spanio in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/ubaldo-spanio
+- ubaldo-spanio
+- tesserati/ubaldo-spanio
+- calciatori/ubaldo-spanio
+birth_date: '1943-10-18'
+birth_place: Chioggia
+citizenship: Italia
 ---
+
 # Ubaldo Spanio — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ubaldo Spanio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/567_ubaldo-spanio.jpg)
 *Ritratto del calciatore Ubaldo Spanio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Ubaldo Spanio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Ubaldo Spanio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

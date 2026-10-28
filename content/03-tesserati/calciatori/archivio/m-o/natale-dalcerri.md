@@ -14,12 +14,12 @@ tags:
 - natale-dalcerri
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Natale Dalcerri'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Natale Dalcerri
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Natale_Dalcerri'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Natale_Dalcerri
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Natale Dalcerri
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/natale-dalcerri
+- natale-dalcerri
+- tesserati/natale-dalcerri
+- calciatori/natale-dalcerri
+birth_date: '1923-03-15'
+birth_place: San Colombano al Lambro
+citizenship: Italia
 ---
+
 # Natale Dalcerri — Scheda Giocatore nel Calcio Catania
 
-**Natale Dalcerri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Natale Dalcerri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

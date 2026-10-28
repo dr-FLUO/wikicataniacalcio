@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/mario-giannini
+- mario-giannini
+- tesserati/mario-giannini
+- calciatori/mario-giannini
 ---
+
 
 # Mario Giannini — Scheda Giocatore nel Calcio Catania
 
-**Mario Giannini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Mario Giannini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

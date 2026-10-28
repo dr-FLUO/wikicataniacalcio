@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/113_adriano-sartorio-mezavilla.jpg
 image_credits:
-- image_path: 'assets/images/players/113_adriano-sartorio-mezavilla.jpg'
-  alt_text: "Ritratto del calciatore Adriano Sartorio Mezavilla in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/113_adriano-sartorio-mezavilla.jpg
+  alt_text: Ritratto del calciatore Adriano Sartorio Mezavilla in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/adriano-sartorio-mezavilla
+- adriano-sartorio-mezavilla
+- tesserati/adriano-sartorio-mezavilla
+- calciatori/adriano-sartorio-mezavilla
 ---
+
 # Adriano Sartorio Mezavilla — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Adriano Sartorio Mezavilla in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/113_adriano-sartorio-mezavilla.jpg)
 *Ritratto del calciatore Adriano Sartorio Mezavilla in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Adriano Sartorio Mezavilla** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Adriano Sartorio Mezavilla** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

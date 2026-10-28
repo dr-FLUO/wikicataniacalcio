@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carmelo-castorina
+- carmelo-castorina
+- tesserati/carmelo-castorina
+- calciatori/carmelo-castorina
 ---
+
 
 # Carmelo Castorina — Scheda Giocatore nel Calcio Catania
 
-**Carmelo Castorina** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Carmelo Castorina** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

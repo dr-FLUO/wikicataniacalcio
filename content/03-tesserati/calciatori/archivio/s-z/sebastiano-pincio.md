@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/sebastiano-pincio
+- sebastiano-pincio
+- tesserati/sebastiano-pincio
+- calciatori/sebastiano-pincio
 ---
+
 
 # Sebastiano Pincio — Scheda Giocatore nel Calcio Catania
 
-**Sebastiano Pincio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Sebastiano Pincio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - guido-macor
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Guido Macor'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guido Macor
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Guido_Macor'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Guido_Macor
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Guido Macor
   publisher: calciocatania.com
@@ -34,21 +34,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/675_guido-macor.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/guido-macor.jpg'
-  alt_text: "Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/guido-macor.jpg
+  alt_text: 'Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/guido-macor
+- guido-macor
+- tesserati/guido-macor
+- calciatori/guido-macor
+birth_date: '1932-10-04'
+birth_place: Udine
+citizenship: Italia
 ---
+
 # Guido Macor — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/guido-macor.jpg)
 *Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Guido Macor** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Guido Macor** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - carlo-taldo
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carlo Taldo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Taldo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carlo_Taldo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carlo_Taldo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Carlo Taldo
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/149_carlo-taldo.jpg
 image_credits:
-- image_path: 'assets/images/players/149_carlo-taldo.jpg'
-  alt_text: "Ritratto del calciatore Carlo Taldo in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/149_carlo-taldo.jpg
+  alt_text: Ritratto del calciatore Carlo Taldo in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/carlo-taldo
+- carlo-taldo
+- tesserati/carlo-taldo
+- calciatori/carlo-taldo
+birth_date: '1972-01-12'
+birth_place: Merate
+citizenship: Italia
 ---
+
 # Carlo Taldo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Carlo Taldo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/149_carlo-taldo.jpg)
 *Ritratto del calciatore Carlo Taldo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Carlo Taldo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Carlo Taldo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

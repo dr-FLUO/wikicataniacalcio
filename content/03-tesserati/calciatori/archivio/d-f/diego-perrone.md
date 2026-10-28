@@ -1,50 +1,56 @@
 ---
-title: "Diego Perrone — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Diego Perrone, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/diego-perrone"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1979-11-17"
-birth_place: "Montevideo"
-death_date: ""
-nationality: "Uruguay"
+title: Diego Perrone — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Diego Perrone, attaccante
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/diego-perrone
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1979-11-17'
+birth_place: Montevideo
+death_date: ''
+nationality: Uruguay
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "diego-perrone"
-  - "attaccante"
+- calciatori
+- diego-perrone
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Diego Perrone"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Diego_Perrone_(calciatore)"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/diego-perrone.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Diego Perrone
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Diego_Perrone_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/diego-perrone.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/diego-perrone.jpg"
-    alt_text: "Ritratto fotografico di Diego Perrone calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/diego-perrone.jpg
+  alt_text: Ritratto fotografico di Diego Perrone calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/diego-perrone"
-  - "diego-perrone"
+- tesserati/calciatori/diego-perrone
+- diego-perrone
+- tesserati/diego-perrone
+- calciatori/diego-perrone
+citizenship: Uruguay
 ---
+
 # Diego Perrone — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Diego Perrone in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/diego-perrone.jpg)
 *Ritratto del calciatore Diego Perrone in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Diego Perrone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Diego Perrone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Uruguay |
 | **Data e Luogo di Nascita** | 1979-11-17 — Montevideo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

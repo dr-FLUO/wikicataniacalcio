@@ -14,12 +14,12 @@ tags:
 - carlo-baccarini
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carlo Baccarini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Baccarini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carlo_Baccarini_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carlo_Baccarini_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Carlo Baccarini
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/731_carlo-baccarini.jpg
 image_credits:
-- image_path: 'assets/images/players/731_carlo-baccarini.jpg'
-  alt_text: "Ritratto del calciatore Carlo Baccarini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/731_carlo-baccarini.jpg
+  alt_text: Ritratto del calciatore Carlo Baccarini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/carlo-baccarini
+- carlo-baccarini
+- tesserati/carlo-baccarini
+- calciatori/carlo-baccarini
+birth_date: '1924-11-11'
+birth_place: Hayange
+citizenship: Italia
 ---
+
 # Carlo Baccarini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Carlo Baccarini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/731_carlo-baccarini.jpg)
 *Ritratto del calciatore Carlo Baccarini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Carlo Baccarini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Carlo Baccarini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

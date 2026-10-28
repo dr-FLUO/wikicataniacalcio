@@ -52,10 +52,10 @@ Durante la sua gestione al vertice del CDA:
 
 | Stagione | Categoria | Allenatori | Risultato Sportivo |
 | :--- | :--- | :--- | :--- |
-| **2016–2017** | Lega Pro (Gir. C) | [[tesserati/allenatori/giuseppe-rigoli\|Giuseppe Rigoli]], Mario Petrone, Giovanni Pulvirenti | 11º posto (Primo turno playoff) |
-| **2017–2018** | Serie C (Gir. C) | [[tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | 2º posto (Semifinale playoff nazionale) |
-| **2018–2019** | Serie C (Gir. C) | Andrea Sottil, [[tesserati/allenatori/walter-novellino\|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
-| **2019–2020** | Serie C (Gir. C) | Andrea Camplone, [[tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
+| **2016–2017** | Lega Pro (Gir. C) | [[tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]], Mario Petrone, Giovanni Pulvirenti | 11º posto (Primo turno playoff) |
+| **2017–2018** | Serie C (Gir. C) | [[tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] | 2º posto (Semifinale playoff nazionale) |
+| **2018–2019** | Serie C (Gir. C) | Andrea Sottil, [[tesserati/allenatori/walter-novellino|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
+| **2019–2020** | Serie C (Gir. C) | Andrea Camplone, [[tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
 
 ---
 

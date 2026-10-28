@@ -29,11 +29,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-mauro-daposagostino
+- salvatore-mauro-daposagostino
+- tesserati/salvatore-mauro-daposagostino
+- calciatori/salvatore-mauro-daposagostino
 ---
+
 
 # Salvatore Mauro D&apos;Agostino — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Mauro D&apos;Agostino** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Salvatore Mauro D&apos;Agostino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

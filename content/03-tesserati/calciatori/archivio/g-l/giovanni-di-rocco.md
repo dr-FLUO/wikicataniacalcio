@@ -14,12 +14,12 @@ tags:
 - giovanni-di-rocco
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Di Rocco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Di Rocco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Di_Rocco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Di_Rocco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Di Rocco
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-di-rocco
+- giovanni-di-rocco
+- tesserati/giovanni-di-rocco
+- calciatori/giovanni-di-rocco
+birth_date: '1970-12-27'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Giovanni Di Rocco — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Di Rocco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giovanni Di Rocco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/felipe-ignacio-seymour
+- felipe-ignacio-seymour
+- tesserati/felipe-ignacio-seymour
+- calciatori/felipe-ignacio-seymour
 ---
+
 
 # Felipe Ignacio Seymour — Scheda Giocatore nel Calcio Catania
 
-**Felipe Ignacio Seymour** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Felipe Ignacio Seymour** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

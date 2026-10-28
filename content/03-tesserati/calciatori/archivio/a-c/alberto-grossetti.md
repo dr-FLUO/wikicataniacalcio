@@ -14,12 +14,12 @@ tags:
 - alberto-grossetti
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alberto Grossetti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alberto Grossetti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alberto_Grossetti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alberto_Grossetti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Alberto Grossetti
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/815_alberto-grossetti.jpg
 image_credits:
-- image_path: 'assets/images/players/815_alberto-grossetti.jpg'
-  alt_text: "Ritratto del calciatore Alberto Grossetti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/815_alberto-grossetti.jpg
+  alt_text: Ritratto del calciatore Alberto Grossetti in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/alberto-grossetti
+- alberto-grossetti
+- tesserati/alberto-grossetti
+- calciatori/alberto-grossetti
+birth_date: '1946-12-22'
+birth_place: Castel San Giovanni
+citizenship: Italia
 ---
+
 # Alberto Grossetti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alberto Grossetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/815_alberto-grossetti.jpg)
 *Ritratto del calciatore Alberto Grossetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Alberto Grossetti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alberto Grossetti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

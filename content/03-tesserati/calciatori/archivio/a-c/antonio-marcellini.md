@@ -14,12 +14,12 @@ tags:
 - antonio-marcellini
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Antonio Marcellini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Antonio Marcellini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Antonio_Marcellini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Antonio_Marcellini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Antonio Marcellini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonio-marcellini
+- antonio-marcellini
+- tesserati/antonio-marcellini
+- calciatori/antonio-marcellini
+birth_date: '1937-01-17'
+birth_place: Roma
+citizenship: Regno d'Italia
 ---
+
 # Antonio Marcellini — Scheda Giocatore nel Calcio Catania
 
-**Antonio Marcellini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Antonio Marcellini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cesare-panebianco
+- cesare-panebianco
+- tesserati/cesare-panebianco
+- calciatori/cesare-panebianco
 ---
+
 
 # Cesare Panebianco — Scheda Giocatore nel Calcio Catania
 
-**Cesare Panebianco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Cesare Panebianco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

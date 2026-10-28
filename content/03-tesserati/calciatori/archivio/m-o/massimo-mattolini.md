@@ -14,12 +14,12 @@ tags:
 - massimo-mattolini
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Massimo Mattolini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Massimo Mattolini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Massimo_Mattolini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Massimo_Mattolini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Massimo Mattolini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimo-mattolini
+- massimo-mattolini
+- tesserati/massimo-mattolini
+- calciatori/massimo-mattolini
+birth_date: '1953-05-29'
+birth_place: San Giuliano Terme
+citizenship: Italia
 ---
+
 # Massimo Mattolini — Scheda Giocatore nel Calcio Catania
 
-**Massimo Mattolini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Massimo Mattolini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

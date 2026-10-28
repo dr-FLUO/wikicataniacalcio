@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marcello-pizzimenti
+- marcello-pizzimenti
+- tesserati/marcello-pizzimenti
+- calciatori/marcello-pizzimenti
 ---
+
 
 # Marcello Pizzimenti — Scheda Giocatore nel Calcio Catania
 
-**Marcello Pizzimenti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Marcello Pizzimenti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

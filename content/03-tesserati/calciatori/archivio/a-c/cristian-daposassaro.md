@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cristian-daposassaro
+- cristian-daposassaro
+- tesserati/cristian-daposassaro
+- calciatori/cristian-daposassaro
 ---
+
 
 # Cristian D&apos;Assaro — Scheda Giocatore nel Calcio Catania
 
-**Cristian D&apos;Assaro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Cristian D&apos;Assaro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

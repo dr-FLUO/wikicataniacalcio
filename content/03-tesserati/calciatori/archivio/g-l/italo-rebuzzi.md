@@ -14,12 +14,12 @@ tags:
 - italo-rebuzzi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Italo Rebuzzi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Italo Rebuzzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Italo_Rebuzzi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Italo_Rebuzzi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Italo Rebuzzi
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/italo-rebuzzi
+- italo-rebuzzi
+- tesserati/italo-rebuzzi
+- calciatori/italo-rebuzzi
+birth_date: '1922-06-13'
+birth_place: Brescia
+citizenship: Italia
 ---
+
 # Italo Rebuzzi — Scheda Giocatore nel Calcio Catania
 
-**Italo Rebuzzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Italo Rebuzzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -32,12 +32,12 @@ tags:
 - era-pulvirenti
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maxi López'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maxi López
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maxi_L%C3%B3pez'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maxi_L%C3%B3pez
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Ufficiale Serie A TIM (2010-2014) — Scheda Maximiliano
     Gastón López
@@ -70,13 +70,19 @@ cover_caption: 'Maxi López («La Galina») al centro sportivo di Torre del Grif
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0 (Wikimedia Commons)'
 aliases:
 - tesserati/calciatori/maxi-lopez
+- maxi-lopez
+- tesserati/maxi-lopez
+- calciatori/maxi-lopez
 image_credits:
-- image_path: '/assets/images/calciatori/maxi-lopez.jpg'
-  alt_text: "Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/maxi-lopez.jpg
+  alt_text: 'Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Italia
 ---
+
 # Maxi López
 
 ![Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/maxi-lopez.jpg)
@@ -126,11 +132,11 @@ Chiude la sua avventura complessiva ai piedi dell'Etna con **87 presenze ufficia
 
 | Stagione | Società / Matricola | Categoria | Presenze Serie A | Reti Serie A | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2009-2010** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 17 | 11 | 0 (0) | **17 (11)** |
-| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 8 | 2 (2) | **37 (10)** |
-| **[[stagioni/2011-2012\|2011-2012]]** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 14 | 3 | 2 (2) | **16 (5)** |
+| **2009-2010** (gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 17 | 11 | 0 (0) | **17 (11)** |
+| **2010-2011** | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 8 | 2 (2) | **37 (10)** |
+| **[[stagioni/2011-2012|2011-2012]]** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 14 | 3 | 2 (2) | **16 (5)** |
 | *Subtotale 1º Ciclo* | *Era Mihajlović / Simeone / Montella* | *Serie A* | *66* | *22* | *4 (4)* | ***70 (26)*** |
-| **[[stagioni/2013-2014\|2013-2014]]** (fino gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 12 | 1 | 1 (0) | **13 (1)** |
+| **[[stagioni/2013-2014|2013-2014]]** (fino gen.) | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (11700) | Serie A | 12 | 1 | 1 (0) | **13 (1)** |
 | **Totale Complessivo** | **Due Cicli in Rossazzurro** | **Serie A** | **78** | **23** | **5 / 9 (4)** | **87 (27)** |
 
 ---

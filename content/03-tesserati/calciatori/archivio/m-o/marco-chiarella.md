@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1033_marco-chiarella.png
 image_credits:
-- image_path: 'assets/images/players/1033_marco-chiarella.png'
-  alt_text: "Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1033_marco-chiarella.png
+  alt_text: Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/marco-chiarella
+- marco-chiarella
+- tesserati/marco-chiarella
+- calciatori/marco-chiarella
 ---
+
 # Marco Chiarella — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1033_marco-chiarella.png)
 *Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Marco Chiarella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Marco Chiarella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

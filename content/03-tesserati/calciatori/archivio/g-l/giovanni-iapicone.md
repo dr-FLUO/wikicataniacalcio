@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-iapicone
+- giovanni-iapicone
+- tesserati/giovanni-iapicone
+- calciatori/giovanni-iapicone
 ---
+
 
 # Giovanni Iapicone — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Iapicone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Iapicone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

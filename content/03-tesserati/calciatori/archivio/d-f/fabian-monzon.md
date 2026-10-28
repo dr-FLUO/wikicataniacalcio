@@ -14,12 +14,12 @@ tags:
 - fabian-monzon
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabián Monzón'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabián Monzón
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabi%C3%A1n_Monz%C3%B3n'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabi%C3%A1n_Monz%C3%B3n
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabian Monzon
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/804_fabian-monzon.jpg
 image_credits:
-- image_path: 'assets/images/players/804_fabian-monzon.jpg'
-  alt_text: "Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/804_fabian-monzon.jpg
+  alt_text: Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/fabian-monzon
+- fabian-monzon
+- tesserati/fabian-monzon
+- calciatori/fabian-monzon
+birth_date: '1987-04-13'
+birth_place: Granadero Baigorria
+citizenship: Argentina
 ---
+
 # Fabian Monzon — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/804_fabian-monzon.jpg)
 *Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Fabian Monzon** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Fabian Monzon** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

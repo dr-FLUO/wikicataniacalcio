@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimiliano-caliari
+- massimiliano-caliari
+- tesserati/massimiliano-caliari
+- calciatori/massimiliano-caliari
 ---
+
 
 # Massimiliano Caliari — Scheda Giocatore nel Calcio Catania
 
-**Massimiliano Caliari** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Massimiliano Caliari** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - pier-giuseppe-mosti
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pier Giuseppe Mosti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pier Giuseppe Mosti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pier_Giuseppe_Mosti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pier_Giuseppe_Mosti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pier Giuseppe Mosti
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/462_pier-giuseppe-mosti.jpg
 image_credits:
-- image_path: 'assets/images/players/462_pier-giuseppe-mosti.jpg'
-  alt_text: "Ritratto del calciatore Pier Giuseppe Mosti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/462_pier-giuseppe-mosti.jpg
+  alt_text: Ritratto del calciatore Pier Giuseppe Mosti in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/pier-giuseppe-mosti
+- pier-giuseppe-mosti
+- tesserati/pier-giuseppe-mosti
+- calciatori/pier-giuseppe-mosti
+birth_date: '1955-04-24'
+birth_place: Massa
+citizenship: Italia
 ---
+
 # Pier Giuseppe Mosti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Pier Giuseppe Mosti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/462_pier-giuseppe-mosti.jpg)
 *Ritratto del calciatore Pier Giuseppe Mosti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Pier Giuseppe Mosti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pier Giuseppe Mosti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/desiderio-garufo
+- desiderio-garufo
+- tesserati/desiderio-garufo
+- calciatori/desiderio-garufo
+birth_date: '1987-04-22'
+birth_place: Grotte
+citizenship: Italia
 ---
+
 # Desiderio Garufo — Scheda Giocatore nel Calcio Catania
 
-**Desiderio Garufo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Desiderio Garufo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

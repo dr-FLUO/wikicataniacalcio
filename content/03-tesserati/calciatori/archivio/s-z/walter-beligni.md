@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/walter-beligni
+- walter-beligni
+- tesserati/walter-beligni
+- calciatori/walter-beligni
 ---
+
 
 # Walter Beligni — Scheda Giocatore nel Calcio Catania
 
-**Walter Beligni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Walter Beligni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

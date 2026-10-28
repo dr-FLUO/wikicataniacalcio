@@ -14,12 +14,12 @@ tags:
 - giovanni-marin
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giovanni Marin'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Marin
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giovanni_Marin_(calciatore_1934)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giovanni_Marin_(calciatore_1934)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giovanni Marin
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/734_giovanni-marin.jpg
 image_credits:
-- image_path: 'assets/images/players/734_giovanni-marin.jpg'
-  alt_text: "Ritratto del calciatore Giovanni Marin in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/734_giovanni-marin.jpg
+  alt_text: Ritratto del calciatore Giovanni Marin in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giovanni-marin
+- giovanni-marin
+- tesserati/giovanni-marin
+- calciatori/giovanni-marin
+birth_date: '1934-03-18'
+birth_place: Grado
+citizenship: Italia
 ---
+
 # Giovanni Marin — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giovanni Marin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/734_giovanni-marin.jpg)
 *Ritratto del calciatore Giovanni Marin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giovanni Marin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Marin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carmelo-forti
+- carmelo-forti
+- tesserati/carmelo-forti
+- calciatori/carmelo-forti
 ---
+
 
 # Carmelo Forti — Scheda Giocatore nel Calcio Catania
 
-**Carmelo Forti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Carmelo Forti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

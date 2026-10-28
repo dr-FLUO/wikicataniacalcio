@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pietro-garaffa
+- pietro-garaffa
+- tesserati/pietro-garaffa
+- calciatori/pietro-garaffa
 ---
+
 
 # Pietro Garaffa — Scheda Giocatore nel Calcio Catania
 
-**Pietro Garaffa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Pietro Garaffa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/aldo-gualeni
+- aldo-gualeni
+- tesserati/aldo-gualeni
+- calciatori/aldo-gualeni
 ---
+
 
 # Aldo Gualeni — Scheda Giocatore nel Calcio Catania
 
-**Aldo Gualeni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Aldo Gualeni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

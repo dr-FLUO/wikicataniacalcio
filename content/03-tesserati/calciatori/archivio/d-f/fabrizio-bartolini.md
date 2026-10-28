@@ -14,12 +14,12 @@ tags:
 - fabrizio-bartolini
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Fabrizio Bartolini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Fabrizio Bartolini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Fabrizio_Bartolini_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Fabrizio_Bartolini_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Fabrizio Bartolini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabrizio-bartolini
+- fabrizio-bartolini
+- tesserati/fabrizio-bartolini
+- calciatori/fabrizio-bartolini
+birth_date: '1924-05-18'
+birth_place: Orbetello
+citizenship: Italia
 ---
+
 # Fabrizio Bartolini — Scheda Giocatore nel Calcio Catania
 
-**Fabrizio Bartolini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Fabrizio Bartolini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

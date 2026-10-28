@@ -14,12 +14,12 @@ tags:
 - silvano-toncelli
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Silvano Toncelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Silvano Toncelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Silvano_Toncelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Silvano_Toncelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Silvano Toncelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/silvano-toncelli
+- silvano-toncelli
+- tesserati/silvano-toncelli
+- calciatori/silvano-toncelli
+birth_date: '1926-10-23'
+birth_place: Genova
+citizenship: Italia
 ---
+
 # Silvano Toncelli — Scheda Giocatore nel Calcio Catania
 
-**Silvano Toncelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Silvano Toncelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/adriano-contestabile
+- adriano-contestabile
+- tesserati/adriano-contestabile
+- calciatori/adriano-contestabile
 ---
+
 
 # Adriano Contestabile — Scheda Giocatore nel Calcio Catania
 
-**Adriano Contestabile** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Adriano Contestabile** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

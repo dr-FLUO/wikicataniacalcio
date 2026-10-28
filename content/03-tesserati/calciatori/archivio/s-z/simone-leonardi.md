@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/simone-leonardi
+- simone-leonardi
+- tesserati/simone-leonardi
+- calciatori/simone-leonardi
 ---
+
 
 # Simone Leonardi — Scheda Giocatore nel Calcio Catania
 
-**Simone Leonardi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Simone Leonardi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

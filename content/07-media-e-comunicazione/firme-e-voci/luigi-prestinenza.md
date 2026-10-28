@@ -38,9 +38,9 @@ Nato ad Acireale nel **1912** e vissuto a Catania fino alla scomparsa avvenuta n
 
 ## 1. La Costruzione della Redazione Sportiva de "La Sicilia"
 
-Chiamato da Domenico Sanfilippo fin dai primi anni del dopoguerra all'interno della redazione del quotidiano [[media/testate/la-sicilia\|La Sicilia]], Prestinenza ricoprì per decenni l'incarico di caposervizio e capocronista:
+Chiamato da Domenico Sanfilippo fin dai primi anni del dopoguerra all'interno della redazione del quotidiano [[media/testate/la-sicilia|La Sicilia]], Prestinenza ricoprì per decenni l'incarico di caposervizio e capocronista:
 * Diede vita a una scuola giornalistica caratterizzata da rigore documentale, rispetto assoluto dell'etica professionale e rifiuto di ogni faziosità campanilistica.
-* Allevò e formò professionalmente decine di giovani talenti che avrebbero poi fatto la storia del giornalismo nazionale, tra cui [[media/giornalisti/candido-cannavo\|Candido Cannavò]], Concetto Lo Presti e Nino Milazzo.
+* Allevò e formò professionalmente decine di giovani talenti che avrebbero poi fatto la storia del giornalismo nazionale, tra cui [[media/giornalisti/candido-cannavo|Candido Cannavò]], Concetto Lo Presti e Nino Milazzo.
 * Con la sua macchina per scrivere portatile, fu testimone oculare di centinaia di trasferte su tutti i campi d'Italia, dalle prime sfide pionieristiche in Serie C negli anni Quaranta fino ai campionati di Serie A degli anni Sessanta e Settanta.
 
 ---
@@ -55,10 +55,10 @@ Nel **1984**, al culmine della sua lunga carriera intellettuale, Prestinenza pub
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia\|La Sicilia: Il giornale della sua vita professionale]]
-* [[media/giornalisti/candido-cannavo\|Candido Cannavò e gli allievi di Prestinenza]]
-* [[societa/1946-club-calcio-catania\|La Rinascita del 1946 documentata da Prestinenza]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/la-sicilia|La Sicilia: Il giornale della sua vita professionale]]
+* [[media/giornalisti/candido-cannavo|Candido Cannavò e gli allievi di Prestinenza]]
+* [[societa/1946-club-calcio-catania|La Rinascita del 1946 documentata da Prestinenza]]
 
 ---
 

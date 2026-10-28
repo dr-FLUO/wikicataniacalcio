@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-susi
+- alessandro-susi
+- tesserati/alessandro-susi
+- calciatori/alessandro-susi
 ---
+
 
 # Alessandro Susi — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Susi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Susi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

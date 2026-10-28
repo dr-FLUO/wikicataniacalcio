@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/massimo-daposaviri
+- massimo-daposaviri
+- tesserati/massimo-daposaviri
+- calciatori/massimo-daposaviri
 ---
+
 
 # Massimo D&apos;Aviri — Scheda Giocatore nel Calcio Catania
 
-**Massimo D&apos;Aviri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Massimo D&apos;Aviri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

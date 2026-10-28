@@ -14,12 +14,12 @@ tags:
 - cesare-goffi
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Cesare Goffi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Cesare Goffi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Cesare_Goffi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Cesare_Goffi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Cesare Goffi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/767_cesare-goffi.jpg
 image_credits:
-- image_path: 'assets/images/players/767_cesare-goffi.jpg'
-  alt_text: "Ritratto del calciatore Cesare Goffi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/767_cesare-goffi.jpg
+  alt_text: Ritratto del calciatore Cesare Goffi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/cesare-goffi
+- cesare-goffi
+- tesserati/cesare-goffi
+- calciatori/cesare-goffi
+birth_date: '1920-05-05'
+birth_place: Torino
+citizenship: Regno d'Italia
 ---
+
 # Cesare Goffi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Cesare Goffi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/767_cesare-goffi.jpg)
 *Ritratto del calciatore Cesare Goffi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Cesare Goffi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Cesare Goffi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - norbert-gyömbér
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Norbert Gyömbér'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Norbert Gyömbér
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Norbert  Gyömbér
   publisher: calciocatania.com
@@ -33,20 +33,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/810_norbert--gymbr.jpg
 image_credits:
-- image_path: 'assets/images/players/810_norbert--gymbr.jpg'
-  alt_text: "Ritratto del calciatore Norbert  Gyömbér in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/810_norbert--gymbr.jpg
+  alt_text: Ritratto del calciatore Norbert  Gyömbér in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/norbert-gyömbér
+- norbert-gyömbér
+- tesserati/norbert-gyömbér
+- calciatori/norbert-gyömbér
 ---
+
 # Norbert  Gyömbér — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Norbert  Gyömbér in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/810_norbert--gymbr.jpg)
 *Ritratto del calciatore Norbert  Gyömbér in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Norbert  Gyömbér** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Norbert  Gyömbér** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

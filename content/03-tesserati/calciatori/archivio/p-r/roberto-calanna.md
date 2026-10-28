@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-calanna
+- roberto-calanna
+- tesserati/roberto-calanna
+- calciatori/roberto-calanna
 ---
+
 
 # Roberto Calanna — Scheda Giocatore nel Calcio Catania
 
-**Roberto Calanna** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Roberto Calanna** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

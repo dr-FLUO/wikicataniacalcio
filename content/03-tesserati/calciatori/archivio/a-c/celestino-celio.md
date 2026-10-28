@@ -14,12 +14,12 @@ tags:
 - celestino-celio
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Celestino Celio'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Celestino Celio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Celestino_Celio'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Celestino_Celio
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Celestino Celio
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/celestino-celio
+- celestino-celio
+- tesserati/celestino-celio
+- calciatori/celestino-celio
+birth_date: '1925-05-20'
+birth_place: San Martino di Venezze
+citizenship: Regno d'Italia
 ---
+
 # Celestino Celio — Scheda Giocatore nel Calcio Catania
 
-**Celestino Celio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Celestino Celio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

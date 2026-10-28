@@ -15,13 +15,13 @@ catania_periods:
 - 1973-1974
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/adelmo-prenna.jpg"
+image: assets/images/allenatori/adelmo-prenna.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/adelmo-prenna.jpg"
-    alt_text: "Ritratto fotografico di Adelmo Prenna allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/adelmo-prenna.jpg
+  alt_text: Ritratto fotografico di Adelmo Prenna allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - calciatori
@@ -31,12 +31,12 @@ tags:
 - serie-b
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Adelmo Prenna'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Adelmo Prenna
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Adelmo_Prenna'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Adelmo_Prenna
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -50,7 +50,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/adelmo-prenna
+- adelmo-prenna
+- tesserati/adelmo-prenna
+- allenatori/adelmo-prenna
+citizenship: Italia
+total_appearances: 145
+seasons_count: 6
 ---
+
 # Adelmo Prenna
 
 ![Ritratto ufficiale di Adelmo Prenna sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/adelmo-prenna.jpg)
@@ -79,7 +86,7 @@ Prese in mano la compagine etnea in un momento di estrema criticità societaria,
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1973-1974\|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1973-1974|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

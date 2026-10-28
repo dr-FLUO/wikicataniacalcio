@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/franco-bucolo
+- franco-bucolo
+- tesserati/franco-bucolo
+- calciatori/franco-bucolo
 ---
+
 
 # Franco Bucolo — Scheda Giocatore nel Calcio Catania
 
-**Franco Bucolo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Franco Bucolo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

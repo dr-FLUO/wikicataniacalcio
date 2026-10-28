@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ciro-danucci
+- ciro-danucci
+- tesserati/ciro-danucci
+- calciatori/ciro-danucci
+birth_date: '1983-06-28'
+birth_place: Manduria
+citizenship: Italia
 ---
+
 # Ciro Danucci — Scheda Giocatore nel Calcio Catania
 
-**Ciro Danucci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ciro Danucci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

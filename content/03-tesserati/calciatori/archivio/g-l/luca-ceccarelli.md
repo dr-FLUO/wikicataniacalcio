@@ -14,12 +14,12 @@ tags:
 - luca-ceccarelli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luca Ceccarelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luca Ceccarelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luca_Ceccarelli_(20_marzo_1983)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luca_Ceccarelli_(20_marzo_1983)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luca Ceccarelli
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/859_luca-ceccarelli.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/luca-ceccarelli.jpg'
-  alt_text: "Ritratto ufficiale di Luca Ceccarelli — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/luca-ceccarelli.jpg
+  alt_text: 'Ritratto ufficiale di Luca Ceccarelli — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/luca-ceccarelli
+- luca-ceccarelli
+- tesserati/luca-ceccarelli
+- calciatori/luca-ceccarelli
+birth_date: '1983-03-20'
+birth_place: Massa
+citizenship: Italia
 ---
+
 # Luca Ceccarelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Luca Ceccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/luca-ceccarelli.jpg)
 *Ritratto ufficiale di Luca Ceccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Luca Ceccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Luca Ceccarelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luca Ceccarelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

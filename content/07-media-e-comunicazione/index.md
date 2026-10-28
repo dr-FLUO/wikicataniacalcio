@@ -41,31 +41,31 @@ Il racconto delle vicende sportive del **Calcio Catania** ha rappresentato, sin 
 ## 1. Le Grandi Testate della Carta Stampata
 
 La storia della carta stampata a Catania è dominata da due quotidiani storici:
-* [[media/testate/la-sicilia\|La Sicilia]]: Fondato nel 1945, quotidiano leader dell'isola, palestra di firme leggendarie e memoria storica delle promozioni in Serie A.
-* [[media/testate/espresso-sera\|Espresso Sera]]: Il quotidiano pomeridiano d'informazione e dibattito (1956-1992), celebre per le edizioni straordinarie domenicali e il celebre reportage sulla "Carica dei 40.000" a Roma nel 1983.
+* [[media/testate/la-sicilia|La Sicilia]]: Fondato nel 1945, quotidiano leader dell'isola, palestra di firme leggendarie e memoria storica delle promozioni in Serie A.
+* [[media/testate/espresso-sera|Espresso Sera]]: Il quotidiano pomeridiano d'informazione e dibattito (1956-1992), celebre per le edizioni straordinarie domenicali e il celebre reportage sulla "Carica dei 40.000" a Roma nel 1983.
 
 ---
 
 ## 2. La Rivoluzione dell'Etere: Televisioni e Radio Private
 
 Dalla fine degli anni Settanta, Catania è stata uno dei poli televisivi più dinamici d'Italia:
-* [[media/testate/antenna-sicilia\|Antenna Sicilia]]: Fondata nel 1979, emittente ammiraglia del gruppo Ciancio, storica casa della trasmissione domenicale *"Salastampa"*.
-* [[media/testate/telecolor\|Telecolor]]: Nata nel 1976, pioniera delle dirette sportive con il format *"Diretta Stadio"* e il rotocalco del lunedì *"Corner"*.
+* [[media/testate/antenna-sicilia|Antenna Sicilia]]: Fondata nel 1979, emittente ammiraglia del gruppo Ciancio, storica casa della trasmissione domenicale *"Salastampa"*.
+* [[media/testate/telecolor|Telecolor]]: Nata nel 1976, pioniera delle dirette sportive con il format *"Diretta Stadio"* e il rotocalco del lunedì *"Corner"*.
 
 ---
 
 ## 3. L'Informazione Digitale e i Portali Web Indipendenti
 
 Con l'avvento di Internet negli anni Duemila, il tifo etneo ha sviluppato una delle comunità digitali più attive:
-* [[media/testate/calciocatania-com\|CalcioCatania.com]]: Il decano dei portali online indipendenti ([calciocatania.com](https://www.calciocatania.com/)), fondato nel 2000, celebre per il rigore archivistico, le dirette testuali e i database statistici.
+* [[media/testate/calciocatania-com|CalcioCatania.com]]: Il decano dei portali online indipendenti ([calciocatania.com](https://www.calciocatania.com/)), fondato nel 2000, celebre per il rigore archivistico, le dirette testuali e i database statistici.
 
 ---
 
 ## 4. Le Grandi Firme e le Voci Indimenticabili
 
-* [[media/giornalisti/candido-cannavo\|Candido Cannavò]]: Da cronista del Catania negli anni di Carmelo Di Bella a storico direttore de *La Gazzetta dello Sport*.
-* [[media/giornalisti/stefania-sberna\|Stefania Sberna]]: *"La Voce del Massimino"*, speaker ufficiale per quasi trent'anni, icona di passione e professionalità.
-* [[media/giornalisti/luigi-prestinenza\|Luigi Prestinenza]]: Decano dei giornalisti etnei e memoria storica del calcio siciliano.
+* [[media/giornalisti/candido-cannavo|Candido Cannavò]]: Da cronista del Catania negli anni di Carmelo Di Bella a storico direttore de *La Gazzetta dello Sport*.
+* [[media/giornalisti/stefania-sberna|Stefania Sberna]]: *"La Voce del Massimino"*, speaker ufficiale per quasi trent'anni, icona di passione e professionalità.
+* [[media/giornalisti/luigi-prestinenza|Luigi Prestinenza]]: Decano dei giornalisti etnei e memoria storica del calcio siciliano.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luca-mosti
+- luca-mosti
+- tesserati/luca-mosti
+- calciatori/luca-mosti
 ---
+
 
 # Luca Mosti — Scheda Giocatore nel Calcio Catania
 
-**Luca Mosti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luca Mosti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

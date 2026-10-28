@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/riccardo-onorato
+- riccardo-onorato
+- tesserati/riccardo-onorato
+- calciatori/riccardo-onorato
 ---
+
 
 # Riccardo Onorato — Scheda Giocatore nel Calcio Catania
 
-**Riccardo Onorato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Riccardo Onorato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - carlo-riccetelli
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carlo Riccetelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Riccetelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carlo_Riccetelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carlo_Riccetelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Carlo Riccetelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carlo-riccetelli
+- carlo-riccetelli
+- tesserati/carlo-riccetelli
+- calciatori/carlo-riccetelli
+birth_date: '1962-01-02'
+birth_place: Vicovaro
+citizenship: Italia
 ---
+
 # Carlo Riccetelli — Scheda Giocatore nel Calcio Catania
 
-**Carlo Riccetelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Carlo Riccetelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

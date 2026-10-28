@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/874_fabio-scarsella.jpg
 image_credits:
-- image_path: 'assets/images/players/874_fabio-scarsella.jpg'
-  alt_text: "Ritratto del calciatore Fabio Scarsella in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/874_fabio-scarsella.jpg
+  alt_text: Ritratto del calciatore Fabio Scarsella in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/fabio-scarsella
+- fabio-scarsella
+- tesserati/fabio-scarsella
+- calciatori/fabio-scarsella
+birth_date: '1989-07-19'
+birth_place: Alatri
+citizenship: Italia
 ---
+
 # Fabio Scarsella — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Fabio Scarsella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/874_fabio-scarsella.jpg)
 *Ritratto del calciatore Fabio Scarsella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Fabio Scarsella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabio Scarsella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/973_gabriel-bianco.jpg
 image_credits:
-- image_path: 'assets/images/players/973_gabriel-bianco.jpg'
-  alt_text: "Ritratto del calciatore Gabriel Bianco in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/973_gabriel-bianco.jpg
+  alt_text: Ritratto del calciatore Gabriel Bianco in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gabriel-bianco
+- gabriel-bianco
+- tesserati/gabriel-bianco
+- calciatori/gabriel-bianco
 ---
+
 # Gabriel Bianco — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gabriel Bianco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/973_gabriel-bianco.jpg)
 *Ritratto del calciatore Gabriel Bianco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gabriel Bianco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gabriel Bianco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

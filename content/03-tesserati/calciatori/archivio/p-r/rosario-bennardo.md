@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rosario-bennardo
+- rosario-bennardo
+- tesserati/rosario-bennardo
+- calciatori/rosario-bennardo
 ---
+
 
 # Rosario Bennardo — Scheda Giocatore nel Calcio Catania
 
-**Rosario Bennardo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Rosario Bennardo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

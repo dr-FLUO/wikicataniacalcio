@@ -36,14 +36,18 @@ image_credits:
 aliases:
 - tesserati/calciatori/alessandro-raimo
 - 03-tesserati/calciatori/archivio/a-c/alessandro-raimo
+- alessandro-raimo
+- tesserati/alessandro-raimo
+- calciatori/alessandro-raimo
 current_squad: true
 ---
+
 # Alessandro Raimo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alessandro Raimo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1074_alessandro-raimo.png)
 *Ritratto del calciatore Alessandro Raimo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Alessandro Raimo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alessandro Raimo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

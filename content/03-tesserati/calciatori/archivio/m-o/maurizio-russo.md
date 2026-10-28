@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/maurizio-russo
+- maurizio-russo
+- tesserati/maurizio-russo
+- calciatori/maurizio-russo
 ---
+
 
 # Maurizio Russo — Scheda Giocatore nel Calcio Catania
 
-**Maurizio Russo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Russo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

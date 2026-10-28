@@ -14,12 +14,12 @@ tags:
 - luigi-milan
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luigi Milan'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luigi Milan
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luigi_Milan'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luigi_Milan
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luigi Milan
   publisher: calciocatania.com
@@ -34,20 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/660_luigi-milan.jpg
 image_credits:
-- image_path: 'assets/images/players/660_luigi-milan.jpg'
-  alt_text: "Ritratto del calciatore Luigi Milan in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/660_luigi-milan.jpg
+  alt_text: Ritratto del calciatore Luigi Milan in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/luigi-milan
+- luigi-milan
+- tesserati/luigi-milan
+- calciatori/luigi-milan
+birth_date: '1937-12-10'
+birth_place: Mirano
+citizenship: Italia
 ---
+
 # Luigi Milan — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Luigi Milan in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/660_luigi-milan.jpg)
 *Ritratto del calciatore Luigi Milan in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Luigi Milan** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Luigi Milan** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

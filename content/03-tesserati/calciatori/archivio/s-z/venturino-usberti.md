@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/venturino-usberti
+- venturino-usberti
+- tesserati/venturino-usberti
+- calciatori/venturino-usberti
 ---
+
 
 # Venturino Usberti — Scheda Giocatore nel Calcio Catania
 
-**Venturino Usberti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Venturino Usberti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

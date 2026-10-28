@@ -14,24 +14,24 @@ catania_periods:
 - 1995-1996
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/aldo-cerantola.jpg"
+image: assets/images/allenatori/aldo-cerantola.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/aldo-cerantola.jpg"
-    alt_text: "Ritratto fotografico di Aldo Cerantola allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/aldo-cerantola.jpg
+  alt_text: Ritratto fotografico di Aldo Cerantola allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - serie-c2
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Aldo Cerantola"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Cerantola
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Aldo_Cerantola"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Aldo_Cerantola
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -45,7 +45,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/aldo-cerantola
+- aldo-cerantola
+- tesserati/aldo-cerantola
+- allenatori/aldo-cerantola
 ---
+
 
 
 # Aldo Cerantola
@@ -76,7 +80,7 @@ Ex libero di Serie A e stimato allenatore di categoria, lasciò la panchina a Ma
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1995-1996\|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1995-1996|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

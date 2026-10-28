@@ -30,12 +30,12 @@ tags:
 - prima-divisione
 - serie-b
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ercole Bodini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ercole Bodini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ercole_Bodini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ercole_Bodini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -54,7 +54,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/ercole-bodini
+- ercole-bodini
+- tesserati/ercole-bodini
+- calciatori/ercole-bodini
+citizenship: Regno d'Italia
 ---
+
 # Ercole Bodini
 
 **Ercole Bodini** (Cremona, 28 novembre 1904 – Cremona, 24 settembre 1962) è stato un calciatore e allenatore di calcio italiano, di ruolo mezzala offensiva. Arrivato a Catania nel **1930** proveniente dalla Cremonese, è stato uno dei più grandi protagonisti del primo lustro di vita del sodalizio etneo, collezionando **110 presenze e 37 reti ufficiali**.
@@ -80,7 +85,7 @@ Nelle stagioni [[stagioni/1930-1931|1930-1931]] (10 reti) e [[stagioni/1931-1932
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1930-1935) | 104 | 37 | Centrocampista / Mezzala offensiva | [[societa/1929-ss-catania\|Società Sportiva Catania]] |
+| Campionato (1930-1935) | 104 | 37 | Centrocampista / Mezzala offensiva | [[societa/1929-ss-catania|Società Sportiva Catania]] |
 | Coppe Nazionali / Spareggi | 6 | 0 | Centrocampista / Mezzala offensiva | Gare ufficiali |
 | **Totale Complessivo** | **110** | **37** | — | — |
 

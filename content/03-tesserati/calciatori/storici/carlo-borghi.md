@@ -28,12 +28,12 @@ tags:
 - serie-c1
 - angelo-massimino
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carlo Borghi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carlo Borghi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carlo_Borghi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carlo_Borghi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Borghi-410
 aliases:
 - tesserati/calciatori/carlo-borghi
+- carlo-borghi
+- tesserati/carlo-borghi
+- calciatori/carlo-borghi
+citizenship: Italia
+seasons_count: 6
 ---
+
 # Carlo Borghi
 
 **Carlo Borghi** (Castiglione della Pescaia, 1 gennaio 1958) è un ex calciatore italiano, nel ruolo di ala destra e seconda punta. Acquistato dal presidente Angelo Massimino nel **1979**, divenne rapidamente uno degli idoli incontrastati dello Stadio Cibali per la straordinaria velocità, il dribbling ubriacante e la capacità di finalizzazione.
@@ -74,7 +80,7 @@ Nel primo triennio (1979-1982) formò un tandem irresistibile con Damiano Morra 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1979-1982, 1985-1988) | 130 | 28 | Attaccante / Ala destra | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1979-1982, 1985-1988) | 130 | 28 | Attaccante / Ala destra | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 15 | 4 | Attaccante / Ala destra | Gare ufficiali |
 | **Totale Complessivo** | **145** | **32** | — | — |
 

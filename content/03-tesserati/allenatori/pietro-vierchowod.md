@@ -15,13 +15,13 @@ catania_periods:
 - 2001-2002
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: "assets/images/allenatori/pietro-vierchowod.jpg"
+image: assets/images/allenatori/pietro-vierchowod.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/pietro-vierchowod.jpg"
-    alt_text: "Ritratto fotografico di Pietro Vierchowod allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/pietro-vierchowod.jpg
+  alt_text: Ritratto fotografico di Pietro Vierchowod allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemila
@@ -29,12 +29,12 @@ tags:
 - campione-del-mondo-1982
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Pietro Vierchowod"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pietro Vierchowod
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Pietro_Vierchowod"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Pietro_Vierchowod
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/pietro-vierchowod
+- pietro-vierchowod
+- tesserati/pietro-vierchowod
+- allenatori/pietro-vierchowod
 ---
+
 
 
 # Pietro Vierchowod
@@ -79,7 +83,7 @@ Con la sua immensa caratura e disciplina mantenne i rossazzurri in piena corsa p
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

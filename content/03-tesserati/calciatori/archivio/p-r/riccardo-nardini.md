@@ -14,12 +14,12 @@ tags:
 - riccardo-nardini
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riccardo Nardini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riccardo Nardini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riccardo_Nardini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riccardo_Nardini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Riccardo Nardini
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/71_riccardo-nardini.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/riccardo-nardini.jpg'
-  alt_text: "Ritratto ufficiale di Riccardo Nardini — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/riccardo-nardini.jpg
+  alt_text: 'Ritratto ufficiale di Riccardo Nardini — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/riccardo-nardini
+- riccardo-nardini
+- tesserati/riccardo-nardini
+- calciatori/riccardo-nardini
+birth_date: '1983-06-27'
+birth_place: Pavullo nel Frignano
+citizenship: Italia
 ---
+
 # Riccardo Nardini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Riccardo Nardini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-nardini.jpg)
 *Ritratto ufficiale di Riccardo Nardini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Riccardo Nardini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Riccardo Nardini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Riccardo Nardini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/michelangelo-giuffrida
+- michelangelo-giuffrida
+- tesserati/michelangelo-giuffrida
+- calciatori/michelangelo-giuffrida
 ---
+
 
 # Michelangelo Giuffrida — Scheda Giocatore nel Calcio Catania
 
-**Michelangelo Giuffrida** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Michelangelo Giuffrida** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

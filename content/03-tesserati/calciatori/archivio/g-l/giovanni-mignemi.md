@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giovanni-mignemi
+- giovanni-mignemi
+- tesserati/giovanni-mignemi
+- calciatori/giovanni-mignemi
 ---
+
 
 # Giovanni Mignemi — Scheda Giocatore nel Calcio Catania
 
-**Giovanni Mignemi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giovanni Mignemi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

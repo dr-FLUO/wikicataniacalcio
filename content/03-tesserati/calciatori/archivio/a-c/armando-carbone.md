@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/armando-carbone
+- armando-carbone
+- tesserati/armando-carbone
+- calciatori/armando-carbone
 ---
+
 
 # Armando Carbone — Scheda Giocatore nel Calcio Catania
 
-**Armando Carbone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Armando Carbone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

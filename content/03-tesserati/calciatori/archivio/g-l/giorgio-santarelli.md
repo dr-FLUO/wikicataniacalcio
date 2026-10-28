@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giorgio-santarelli
+- giorgio-santarelli
+- tesserati/giorgio-santarelli
+- calciatori/giorgio-santarelli
+birth_date: '1981-06-05'
+birth_place: Frosinone
+citizenship: Italia
 ---
+
 # Giorgio Santarelli — Scheda Giocatore nel Calcio Catania
 
-**Giorgio Santarelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giorgio Santarelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

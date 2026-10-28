@@ -85,15 +85,15 @@ La Curva Nord rappresenta lo specchio fedele delle complesse dinamiche urbane di
 
 | Sigla o Clan Rionale | Quartiere o Comune d'Origine | Epoca d'Affermazione | Tratti Identitari e Simbologia | Settore di Schieramento |
 | :--- | :--- | :---: | :--- | :--- |
-| **Quartiere Monte Po'** | Monte Po' (Periferia Ovest) | Anni '90 | Baluardo storico; stile intransigente, fedeltà cieca alla maglia. | [[tifoseria/curva-nord/index\|Curva Nord]] (Balaustra superiore) |
-| **Librino Catania** | Librino (Periferia Sud) | Anni 2000 | Blocco numerico imponente; senso di riscatto sociale rionale. | [[tifoseria/curva-nord/index\|Curva Nord]] (Settore centrale) |
-| **San Giorgio** | San Giorgio (Catania Sud) | Anni '90 | Presenza costante in trasferta; attaccamento viscerale al rione. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Piazza Palestro** | Quartiere Fortino / Piazza Palestro | Anni '80 | Tradizione verace del centro storico; fierezza civica. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Stazione Clan** | Stazione Centrale di Catania | Anni '90 | Avanguardia dei viaggi in treno; memoria delle trasferte epiche. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Cibali Ultras** | Quartiere Cibali | Anni '80 | Custodi del territorio dell'[[stadio/angelo-massimino\|Angelo Massimino]]. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Via San Jacopo** | San Cristoforo | Anni 2000 | Nucleo ad alta intensità; drappo celebre per le diffide (DASPO). | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Essere Ultras / Dannatamente Innamorati** | Interquartiere cittadino | Anni 2010 | Componente ideologica; fedeltà assoluta allo stile ultras classico. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Zafferana Rossoazzurra** | Zafferana Etnea (Area Pedemontana) | Anni 2000 | Presidio territoriale dei comuni alle falde dell'Etna. | [[tifoseria/curva-nord/index\|Curva Nord]] |
+| **Quartiere Monte Po'** | Monte Po' (Periferia Ovest) | Anni '90 | Baluardo storico; stile intransigente, fedeltà cieca alla maglia. | [[tifoseria/curva-nord/index|Curva Nord]] (Balaustra superiore) |
+| **Librino Catania** | Librino (Periferia Sud) | Anni 2000 | Blocco numerico imponente; senso di riscatto sociale rionale. | [[tifoseria/curva-nord/index|Curva Nord]] (Settore centrale) |
+| **San Giorgio** | San Giorgio (Catania Sud) | Anni '90 | Presenza costante in trasferta; attaccamento viscerale al rione. | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Piazza Palestro** | Quartiere Fortino / Piazza Palestro | Anni '80 | Tradizione verace del centro storico; fierezza civica. | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Stazione Clan** | Stazione Centrale di Catania | Anni '90 | Avanguardia dei viaggi in treno; memoria delle trasferte epiche. | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Cibali Ultras** | Quartiere Cibali | Anni '80 | Custodi del territorio dell'[[stadio/angelo-massimino|Angelo Massimino]]. | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Via San Jacopo** | San Cristoforo | Anni 2000 | Nucleo ad alta intensità; drappo celebre per le diffide (DASPO). | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Essere Ultras / Dannatamente Innamorati** | Interquartiere cittadino | Anni 2010 | Componente ideologica; fedeltà assoluta allo stile ultras classico. | [[tifoseria/curva-nord/index|Curva Nord]] |
+| **Zafferana Rossoazzurra** | Zafferana Etnea (Area Pedemontana) | Anni 2000 | Presidio territoriale dei comuni alle falde dell'Etna. | [[tifoseria/curva-nord/index|Curva Nord]] |
 
 ---
 

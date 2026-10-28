@@ -22,12 +22,12 @@ tags:
 - nazionale-italiana
 - capitano-azzurro
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Riccardo Carapellese'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Riccardo Carapellese
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Riccardo_Carapellese'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Riccardo_Carapellese
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -41,13 +41,21 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/riccardo-carapellese
+- riccardo-carapellese
+- tesserati/riccardo-carapellese
+- allenatori/riccardo-carapellese
 image_credits:
-- image_path: '/assets/images/calciatori/riccardo-carapellese.jpg'
-  alt_text: "Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/riccardo-carapellese.jpg
+  alt_text: 'Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Regno d'Italia
+total_appearances: 32
+seasons_count: 2
 ---
+
 # Riccardo Carapellese
 
 ![Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-carapellese.jpg)
@@ -76,7 +84,7 @@ Icona indiscussa del calcio italiano del dopoguerra, a Catania mise a disposizio
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1957-1958|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

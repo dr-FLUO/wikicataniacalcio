@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giorgio-bertolone
+- giorgio-bertolone
+- tesserati/giorgio-bertolone
+- calciatori/giorgio-bertolone
 ---
+
 
 # Giorgio Bertolone — Scheda Giocatore nel Calcio Catania
 
-**Giorgio Bertolone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giorgio Bertolone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

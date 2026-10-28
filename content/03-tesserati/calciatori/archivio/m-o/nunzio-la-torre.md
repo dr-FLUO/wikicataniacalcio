@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/361_nunzio-la-torre.jpg
 image_credits:
-- image_path: 'assets/images/players/361_nunzio-la-torre.jpg'
-  alt_text: "Ritratto del calciatore Nunzio La Torre in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/361_nunzio-la-torre.jpg
+  alt_text: Ritratto del calciatore Nunzio La Torre in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/nunzio-la-torre
+- nunzio-la-torre
+- tesserati/nunzio-la-torre
+- calciatori/nunzio-la-torre
 ---
+
 # Nunzio La Torre — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nunzio La Torre in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/361_nunzio-la-torre.jpg)
 *Ritratto del calciatore Nunzio La Torre in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Nunzio La Torre** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nunzio La Torre** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

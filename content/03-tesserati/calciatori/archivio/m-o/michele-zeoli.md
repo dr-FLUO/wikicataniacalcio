@@ -14,12 +14,12 @@ tags:
 - michele-zeoli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Michele Zeoli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Michele Zeoli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Michele_Zeoli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Michele_Zeoli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Michele Zeoli
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/150_michele-zeoli.jpg
 image_credits:
-- image_path: 'assets/images/players/150_michele-zeoli.jpg'
-  alt_text: "Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/150_michele-zeoli.jpg
+  alt_text: Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/michele-zeoli
+- michele-zeoli
+- tesserati/michele-zeoli
+- calciatori/michele-zeoli
+birth_date: '1974-03-24'
+birth_place: Civitavecchia
+citizenship: Italia
 ---
+
 # Michele Zeoli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/150_michele-zeoli.jpg)
 *Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Michele Zeoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Michele Zeoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

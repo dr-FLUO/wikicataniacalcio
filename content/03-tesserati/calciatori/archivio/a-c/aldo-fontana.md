@@ -14,12 +14,12 @@ tags:
 - aldo-fontana
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Aldo Fontana'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Aldo Fontana
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Aldo_Fontana'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Aldo_Fontana
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Aldo Fontana
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/aldo-fontana
+- aldo-fontana
+- tesserati/aldo-fontana
+- calciatori/aldo-fontana
+birth_date: '1935-06-28'
+birth_place: San Canzian d'Isonzo
+citizenship: Italia
 ---
+
 # Aldo Fontana — Scheda Giocatore nel Calcio Catania
 
-**Aldo Fontana** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Aldo Fontana** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

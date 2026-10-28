@@ -16,13 +16,13 @@ catania_periods:
 - 1982-1983
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/gianni-di-marzio.jpg"
+image: assets/images/allenatori/gianni-di-marzio.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/gianni-di-marzio.jpg"
-    alt_text: "Ritratto fotografico di Gianni Di Marzio allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/gianni-di-marzio.jpg
+  alt_text: Ritratto fotografico di Gianni Di Marzio allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - serie-a
@@ -31,12 +31,12 @@ tags:
 - angelo-massimino
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Gianni Di Marzio"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianni Di Marzio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Gianni_Di_Marzio"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Gianni_Di_Marzio
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -56,7 +56,11 @@ cover_caption: Gianni Di Marzio, il tecnico della memorabile promozione in Serie
 cover_credit: 'Archivio Storico · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/allenatori/gianni-di-marzio
+- gianni-di-marzio
+- tesserati/gianni-di-marzio
+- allenatori/gianni-di-marzio
 ---
+
 
 
 # Gianni Di Marzio
@@ -90,8 +94,8 @@ Confermato per la [[stagioni/1983-1984|Serie A 1983-1984]] (nonostante le diverg
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. (+Spar.) | V | N | P | Coppa Italia |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/1982-1983\|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (45 pt) — Promosso in Serie A agli spareggi di Roma** | 38 (+2 sp.) | 15 | 18 | 7 | 5 (2V, 2N, 1P) |
-| **[[stagioni/1983-1984\|1983-1984]]** (fino dic.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | Sostituito dopo la 12ª giornata da G.B. Fabbri | 12 | 1 | 5 | 6 | 2 (1V, 1N, 0P) |
+| **[[stagioni/1982-1983|1982-1983]]** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (45 pt) — Promosso in Serie A agli spareggi di Roma** | 38 (+2 sp.) | 15 | 18 | 7 | 5 (2V, 2N, 1P) |
+| **[[stagioni/1983-1984|1983-1984]]** (fino dic.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie A | Sostituito dopo la 12ª giornata da G.B. Fabbri | 12 | 1 | 5 | 6 | 2 (1V, 1N, 0P) |
 | **Totale** | **2 Stagioni (1982–1983)** | **Serie B / A** | **1 Promozione in Serie A (Spareggi Olimpico)** | **50 (+2 sp.)** | **16** | **23** | **13** | **7 (Tot. 59 gare)** |
 
 ## Fonti e Bibliografia

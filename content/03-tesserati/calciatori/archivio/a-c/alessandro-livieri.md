@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-livieri
+- alessandro-livieri
+- tesserati/alessandro-livieri
+- calciatori/alessandro-livieri
 ---
+
 
 # Alessandro Livieri — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Livieri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Alessandro Livieri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

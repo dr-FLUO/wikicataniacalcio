@@ -62,12 +62,12 @@ aliases:
 
 | Data / Stagione | Snodo Storico, Sportivo e Giudiziario | Impatto sul Calcio Catania S.p.A. |
 | :--- | :--- | :--- |
-| **Estate 2004** | Acquisizione del Calcio Catania S.p.A. dalla [[societa/2000-era-gaucci\|famiglia Gaucci]] per circa 15 milioni di euro. | Nomina di [[societa/presidenti/pietro-lo-monaco\|Pietro Lo Monaco]] quale amministratore delegato. |
-| **28 maggio 2006** | **Promozione in Serie A** nella [[stagioni/2005-2006\|Stagione 2005-2006]] con [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]]. | Ritorno in massima serie dopo 22 anni grazie al 2º posto (78 punti) e ai 23 gol di [[tesserati/calciatori/gionatha-spinesi\|Gionatha Spinesi]]. |
-| **18 maggio 2011** | Inaugurazione del centro sportivo **[[stadio/torre-del-grifo\|Torre del Grifo Village]]** a Mascalucia. | Dotazione di un asset immobiliare d'avanguardia di 150.000 mq nell'apogeo del [[societa/catania-degli-argentini\|Catania degli Argentini]]. |
-| **[[stagioni/2012-2013\|2012–2013]]** | **8º posto e record storico di 56 punti in Serie A** con [[tesserati/allenatori/rolando-maran\|Rolando Maran]] e [[societa/presidenti/sergio-gasparin\|Sergio Gasparin]]. | Miglior risultato di sempre della storia rossazzurra in un torneo di Serie A a 20 squadre. |
-| **23 giugno – 20 agosto 2015** | Inchiesta **[[vicende-legali/treni-del-gol-2015\|I Treni del Gol]]** e confessione su 5 partite della [[stagioni/2014-2015\|Serie B 2014-2015]]. | **5 anni di inibizione e 300.000 € di ammenda** a Pulvirenti; Catania retrocesso d'ufficio in Lega Pro con penalizzazione. |
-| **23 luglio 2020** | Cessione all'asta giudiziaria del 95,4% delle azioni da *Finaria* a [[societa/2020-sigi-e-fallimento\|SIGI S.p.A.]]. | Conclusione definitiva dei 16 anni di proprietà Pulvirenti. |
+| **Estate 2004** | Acquisizione del Calcio Catania S.p.A. dalla [[societa/2000-era-gaucci|famiglia Gaucci]] per circa 15 milioni di euro. | Nomina di [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] quale amministratore delegato. |
+| **28 maggio 2006** | **Promozione in Serie A** nella [[stagioni/2005-2006|Stagione 2005-2006]] con [[tesserati/allenatori/pasquale-marino|Pasquale Marino]]. | Ritorno in massima serie dopo 22 anni grazie al 2º posto (78 punti) e ai 23 gol di [[tesserati/calciatori/gionatha-spinesi|Gionatha Spinesi]]. |
+| **18 maggio 2011** | Inaugurazione del centro sportivo **[[stadio/torre-del-grifo|Torre del Grifo Village]]** a Mascalucia. | Dotazione di un asset immobiliare d'avanguardia di 150.000 mq nell'apogeo del [[societa/catania-degli-argentini|Catania degli Argentini]]. |
+| **[[stagioni/2012-2013|2012–2013]]** | **8º posto e record storico di 56 punti in Serie A** con [[tesserati/allenatori/rolando-maran|Rolando Maran]] e [[societa/presidenti/sergio-gasparin|Sergio Gasparin]]. | Miglior risultato di sempre della storia rossazzurra in un torneo di Serie A a 20 squadre. |
+| **23 giugno – 20 agosto 2015** | Inchiesta **[[vicende-legali/treni-del-gol-2015|I Treni del Gol]]** e confessione su 5 partite della [[stagioni/2014-2015|Serie B 2014-2015]]. | **5 anni di inibizione e 300.000 € di ammenda** a Pulvirenti; Catania retrocesso d'ufficio in Lega Pro con penalizzazione. |
+| **23 luglio 2020** | Cessione all'asta giudiziaria del 95,4% delle azioni da *Finaria* a [[societa/2020-sigi-e-fallimento|SIGI S.p.A.]]. | Conclusione definitiva dei 16 anni di proprietà Pulvirenti. |
 
 ---
 

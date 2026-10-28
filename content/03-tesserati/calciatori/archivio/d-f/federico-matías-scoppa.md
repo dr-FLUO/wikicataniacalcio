@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/federico-matías-scoppa
+- federico-matías-scoppa
+- tesserati/federico-matías-scoppa
+- calciatori/federico-matías-scoppa
 ---
+
 
 # Federico Matías Scoppa — Scheda Giocatore nel Calcio Catania
 
-**Federico Matías Scoppa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Federico Matías Scoppa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

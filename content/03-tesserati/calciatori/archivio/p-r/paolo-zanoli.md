@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/paolo-zanoli
+- paolo-zanoli
+- tesserati/paolo-zanoli
+- calciatori/paolo-zanoli
 ---
+
 
 # Paolo Zanoli — Scheda Giocatore nel Calcio Catania
 
-**Paolo Zanoli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Paolo Zanoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

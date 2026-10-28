@@ -14,25 +14,25 @@ catania_periods:
 - 1994-1995
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/pier-giuseppe-mosti.jpg"
+image: assets/images/allenatori/pier-giuseppe-mosti.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/pier-giuseppe-mosti.jpg"
-    alt_text: "Ritratto fotografico di Pier Giuseppe Mosti allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/pier-giuseppe-mosti.jpg
+  alt_text: Ritratto fotografico di Pier Giuseppe Mosti allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - cnd
 - dilettanti
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pier Giuseppe Mosti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pier Giuseppe Mosti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pier_Giuseppe_Mosti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pier_Giuseppe_Mosti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,14 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/pier-giuseppe-mosti
+- pier-giuseppe-mosti
+- tesserati/pier-giuseppe-mosti
+- allenatori/pier-giuseppe-mosti
+citizenship: Italia
+total_appearances: 145
+seasons_count: 5
 ---
+
 # Pier Giuseppe Mosti
 
 ![Ritratto ufficiale di Pier Giuseppe Mosti sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/pier-giuseppe-mosti.jpg)
@@ -75,7 +82,7 @@ Lavorò con abnegazione per riassemblare una rosa competitiva adatta al campiona
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1994-1995\|1994-1995]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1994-1995|1994-1995]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

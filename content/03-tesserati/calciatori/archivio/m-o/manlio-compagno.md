@@ -14,12 +14,12 @@ tags:
 - manlio-compagno
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Manlio Compagno'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Manlio Compagno
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Manlio_Compagno'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Manlio_Compagno
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Manlio Compagno
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/679_manlio-compagno.jpg
 image_credits:
-- image_path: 'assets/images/players/679_manlio-compagno.jpg'
-  alt_text: "Ritratto del calciatore Manlio Compagno in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/679_manlio-compagno.jpg
+  alt_text: Ritratto del calciatore Manlio Compagno in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/manlio-compagno
+- manlio-compagno
+- tesserati/manlio-compagno
+- calciatori/manlio-compagno
+birth_date: '1939-01-04'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Manlio Compagno — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Manlio Compagno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/679_manlio-compagno.jpg)
 *Ritratto del calciatore Manlio Compagno in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Manlio Compagno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Manlio Compagno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

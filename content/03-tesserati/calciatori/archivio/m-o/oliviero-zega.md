@@ -14,12 +14,12 @@ tags:
 - oliviero-zega
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Oliviero Zega'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Oliviero Zega
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Oliviero_Zega'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Oliviero_Zega
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Oliviero Zega
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/oliviero-zega
+- oliviero-zega
+- tesserati/oliviero-zega
+- calciatori/oliviero-zega
+birth_date: '1924-01-04'
+birth_place: Roma
+citizenship: Regno d'Italia
 ---
+
 # Oliviero Zega — Scheda Giocatore nel Calcio Catania
 
-**Oliviero Zega** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Oliviero Zega** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

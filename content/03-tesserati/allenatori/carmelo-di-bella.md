@@ -31,12 +31,12 @@ tags:
 - anni-sessanta
 - hall-of-fame
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Carmelo Di Bella'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Carmelo Di Bella
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Carmelo_Di_Bella'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Carmelo_Di_Bella
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -57,14 +57,20 @@ cover_caption: Carmelo Di Bella, leggendario allenatore del Catania (detentore d
   record di panchine, 297 gare ufficiali e artefice del «Clamoroso al Cibali!»).
 cover_credit: Archivio Storico Calcio Catania · Pubblico Dominio (Art. 87 L. 633/1941)
 image_credits:
-- image_path: '/assets/images/calciatori/carmelo-di-bella.jpg'
-  alt_text: "Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/carmelo-di-bella.jpg
+  alt_text: 'Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/allenatori/carmelo-di-bella
+- carmelo-di-bella
+- tesserati/carmelo-di-bella
+- allenatori/carmelo-di-bella
+citizenship: Regno d'Italia
 ---
+
 ![Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/carmelo-di-bella.jpg)
 *Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
@@ -95,17 +101,17 @@ Dopo l'amara retrocessione del 1965-1966 (a un solo punto dalla salvezza), Di Be
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. | V | N | P | Punti |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **1958-1959** (dic.) | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | 16º posto (Salvezza conquistata in rimonta) | 27 | 8 | 12 | 7 | 28 *(su 33)* |
-| **1959-1960** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie B | **3º posto — Promosso in Serie A** | 38 | 14 | 19 | 5 | **47** |
-| **[[stagioni/1960-1961\|1960-1961]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **8º posto** (Include [[partite/1960-1961/catania-inter-2-0\|Catania-Inter 2-0]]) | 34 | 15 | 6 | 13 | **36** |
-| **1961-1962** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **10º posto** | 34 | 9 | 12 | 13 | **30** |
-| **1962-1963** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **11º posto** | 34 | 10 | 10 | 14 | **30** |
-| **[[stagioni/1963-1964\|1963-1964]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **8º posto** + Finalista Coppa delle Alpi | 34 | 9 | 12 | 13 | **30** |
-| **[[stagioni/1964-1965\|1964-1965]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | **8º posto** | 34 | 12 | 8 | 14 | **32** |
-| **1965-1966** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | 17º posto (Retrocesso in Serie B per 1 punto) | 34 | 5 | 12 | 17 | **22** |
-| **1971-1972** (ott.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **8º posto** | 33 | 12 | 13 | 8 | 37 *(su 41)* |
-| **1972-1973** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **5º posto** (A 2 punti dalla promozione in A) | 38 | 14 | 15 | 9 | **43** |
-| **1976-1977** (fino apr.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 29ª giornata da L. Valsecchi | 29 | 5 | 14 | 10 | 24 *(su 31)* |
+| **1958-1959** (dic.) | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | 16º posto (Salvezza conquistata in rimonta) | 27 | 8 | 12 | 7 | 28 *(su 33)* |
+| **1959-1960** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie B | **3º posto — Promosso in Serie A** | 38 | 14 | 19 | 5 | **47** |
+| **[[stagioni/1960-1961|1960-1961]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **8º posto** (Include [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0]]) | 34 | 15 | 6 | 13 | **36** |
+| **1961-1962** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **10º posto** | 34 | 9 | 12 | 13 | **30** |
+| **1962-1963** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **11º posto** | 34 | 10 | 10 | 14 | **30** |
+| **[[stagioni/1963-1964|1963-1964]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **8º posto** + Finalista Coppa delle Alpi | 34 | 9 | 12 | 13 | **30** |
+| **[[stagioni/1964-1965|1964-1965]]** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | **8º posto** | 34 | 12 | 8 | 14 | **32** |
+| **1965-1966** | [[societa/1946-club-calcio-catania|Club Calcio Catania]] (11700) | Serie A | 17º posto (Retrocesso in Serie B per 1 punto) | 34 | 5 | 12 | 17 | **22** |
+| **1971-1972** (ott.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | **8º posto** | 33 | 12 | 13 | 8 | 37 *(su 41)* |
+| **1972-1973** | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | **5º posto** (A 2 punti dalla promozione in A) | 38 | 14 | 15 | 9 | **43** |
+| **1976-1977** (fino apr.) | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 29ª giornata da L. Valsecchi | 29 | 5 | 14 | 10 | 24 *(su 31)* |
 | **Totale Campionato** | **11 Stagioni in 3 Cicli** | **Serie A / B** | **204 Panchine in Serie A + 165 in Serie B** | **369** | **113** | **133** | **123** | — |
 
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/matteo-rossi
+- matteo-rossi
+- tesserati/matteo-rossi
+- calciatori/matteo-rossi
 ---
+
 
 # Matteo Rossi — Scheda Giocatore nel Calcio Catania
 
-**Matteo Rossi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Matteo Rossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - tiberio-guarente
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Tiberio Guarente'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Tiberio Guarente
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Tiberio_Guarente'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Tiberio_Guarente
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Tiberio Guarente
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/800_tiberio-guarente.jpg
 image_credits:
-- image_path: 'assets/images/players/800_tiberio-guarente.jpg'
-  alt_text: "Ritratto del calciatore Tiberio Guarente in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/800_tiberio-guarente.jpg
+  alt_text: Ritratto del calciatore Tiberio Guarente in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/tiberio-guarente
+- tiberio-guarente
+- tesserati/tiberio-guarente
+- calciatori/tiberio-guarente
+birth_date: '1985-11-01'
+birth_place: Pisa
+citizenship: Italia
 ---
+
 # Tiberio Guarente — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Tiberio Guarente in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/800_tiberio-guarente.jpg)
 *Ritratto del calciatore Tiberio Guarente in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Tiberio Guarente** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Tiberio Guarente** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

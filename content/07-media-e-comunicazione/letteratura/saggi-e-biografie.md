@@ -42,42 +42,42 @@ Accanto ai volumi statistici ed enciclopedici, la letteratura sul **Calcio Catan
 
 ## 1. La Biografia di Angelo Massimino (Alessandro Russo)
 
-La figura titanica del presidente [[01-societa/presidenti/angelo-massimino\|Angelo Massimino]], al timone del club per oltre venticinque anni, ha trovato la sua consacrazione editoriale nel volume:
+La figura titanica del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], al timone del club per oltre venticinque anni, ha trovato la sua consacrazione editoriale nel volume:
 * **"Angelo Massimino. Una vita per (il) Catania"** (GEO Edizioni, 2007), scritto dal medico e storico etneo Alessandro Russo.
-* Il libro intreccia documenti societari inediti, bilanci, trascrizioni di intercettazioni e verbali dell'estate drammatica del 1993 ([[01-societa/vicende-legali/caso-catania-1993-eccellenza\|Caso Catania 1993]]), offrendo un ritratto a tuttotondo del costruttore catanese: dalla povertà giovanile ai trionfi dell'Olimpico di Roma del 1983 fino alla tragica scomparsa sulla Palermo-Catania nel 1996.
+* Il libro intreccia documenti societari inediti, bilanci, trascrizioni di intercettazioni e verbali dell'estate drammatica del 1993 ([[01-societa/vicende-legali/caso-catania-1993-eccellenza|Caso Catania 1993]]), offrendo un ritratto a tuttotondo del costruttore catanese: dalla povertà giovanile ai trionfi dell'Olimpico di Roma del 1983 fino alla tragica scomparsa sulla Palermo-Catania nel 1996.
 
 ---
 
 ## 2. Le Memorie di Candido Cannavò: "Una vita in rosa"
 
-[[07-media-e-comunicazione/firme-e-voci/candido-cannavo\|Candido Cannavò]], storico direttore de *La Gazzetta dello Sport* per quasi un ventennio e gloria del giornalismo italiano, ha ripercorso il suo legame indissolubile con Catania nel saggio autobiografico **"Una vita in rosa"** (Rizzoli, 2002):
+[[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]], storico direttore de *La Gazzetta dello Sport* per quasi un ventennio e gloria del giornalismo italiano, ha ripercorso il suo legame indissolubile con Catania nel saggio autobiografico **"Una vita in rosa"** (Rizzoli, 2002):
 * I racconti degli esordi giovanili negli anni Cinquanta a bordo campo al Cibali con la macchina per scrivere sulle ginocchia.
-* L'amicizia profonda con il tecnico [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] e le cronache entusiaste dell'8º posto conquistato dal Catania neopromosso in Serie A nel 1960-1961.
+* L'amicizia profonda con il tecnico [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e le cronache entusiaste dell'8º posto conquistato dal Catania neopromosso in Serie A nel 1960-1961.
 
 ---
 
 ## 3. "Clamoroso al Cibali!" e la Mitologia Giornalistica
 
-La celebre esclamazione pronunciata da [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti\|Sandro Ciotti]] durante la trasmissione radiofonica *Tutto il calcio minuto per minuto* in occasione del leggendario [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0\|Catania-Inter 2-0 del 4 giugno 1961]] è diventata il titolo di fondamentali saggi:
+La celebre esclamazione pronunciata da [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti|Sandro Ciotti]] durante la trasmissione radiofonica *Tutto il calcio minuto per minuto* in occasione del leggendario [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]] è diventata il titolo di fondamentali saggi:
 * **"Clamoroso al Cibali! Mezzo secolo di calcio a Catania minuto per minuto"** di Gianfranco Pensavalli (Nuova Ipotesi, 1999): rassegna di retroscena, sfide arbitrali e grandi battaglie sportive.
-* **"Il cielo è rosa sopra il Cibali"** di Sergio Nunzio Capizzi e Roberto Quartarone (2020): la prima trattazione monografica completa dedicata al miracolo calcistico della [[08-settori-paralleli/women/lo-scudetto-1978-della-jolly-componibili\|Jolly Componibili Catania Campione d'Italia 1978]].
+* **"Il cielo è rosa sopra il Cibali"** di Sergio Nunzio Capizzi e Roberto Quartarone (2020): la prima trattazione monografica completa dedicata al miracolo calcistico della [[08-settori-paralleli/women/lo-scudetto-1978-della-jolly-componibili|Jolly Componibili Catania Campione d'Italia 1978]].
 
 ---
 
 ## 4. Letteratura Ultras e Identità di Curva
 
 Il fenomeno sociologico del tifo organizzato etneo è stato analizzato in specifici saggi d'inchiesta:
-* **Luigi Pulvirenti e Michele Spampinato**, *Quando saremo tutti nella nord* (Euno Edizioni, 2015): storia sociale delle curve catanesi, dalle prime aggregazioni giovanili della [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto\|Falange d'Assalto]] alla memoria del capo ultras [[06-tifoseria-e-cultura/biografie/ciccio-famoso\|Ciccio Famoso]].
+* **Luigi Pulvirenti e Michele Spampinato**, *Quando saremo tutti nella nord* (Euno Edizioni, 2015): storia sociale delle curve catanesi, dalle prime aggregazioni giovanili della [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]] alla memoria del capo ultras [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]].
 * **Santo Di Grazia**, *U' Catania a' me' vita* (Greco Editore, 2007): diario in vernacolo e prosa dell'attaccamento viscerale del popolo etneo ai colori rossazzurri.
 
 ---
 
 ## 5. Collegamenti Correlati
 
-* [[07-media-e-comunicazione/letteratura/index\|Panoramica Bibliografia e Letteratura Storica]]
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi\|Grandi Opere Enciclopediche e Almanacchi]]
-* [[01-societa/presidenti/angelo-massimino\|Il Cavaliere Angelo Massimino: Venticinque Anni di Presidenza]]
-* [[07-media-e-comunicazione/firme-e-voci/candido-cannavo\|Candido Cannavò: La Voce Storica del Cibali]]
+* [[07-media-e-comunicazione/letteratura/index|Panoramica Bibliografia e Letteratura Storica]]
+* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi]]
+* [[01-societa/presidenti/angelo-massimino|Il Cavaliere Angelo Massimino: Venticinque Anni di Presidenza]]
+* [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò: La Voce Storica del Cibali]]
 
 ---
 

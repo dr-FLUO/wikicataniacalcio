@@ -56,10 +56,10 @@ A differenza di testate legate a proprietà societarie o conglomerati editoriali
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia\|La Sicilia e la stampa tradizionale]]
-* [[media/testate/telecolor\|Telecolor e le produzioni televisive]]
-* [[societa/matricola-11700\|La Storia della Matricola Federale 11700]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/la-sicilia|La Sicilia e la stampa tradizionale]]
+* [[media/testate/telecolor|Telecolor e le produzioni televisive]]
+* [[societa/matricola-11700|La Storia della Matricola Federale 11700]]
 
 ---
 

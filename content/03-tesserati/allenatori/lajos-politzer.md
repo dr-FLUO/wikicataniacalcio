@@ -14,25 +14,25 @@ catania_periods:
 - 1950-1951
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/lajos-politzer.jpg"
+image: assets/images/allenatori/lajos-politzer.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/lajos-politzer.jpg"
-    alt_text: "Ritratto fotografico di Lajos Politzer allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/lajos-politzer.jpg
+  alt_text: Ritratto fotografico di Lajos Politzer allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-cinquanta
 - serie-b
 - scuola-danubiana
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Lajos Politzer"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lajos Politzer
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Lajos_Politzer"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Lajos_Politzer
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/lajos-politzer
+- lajos-politzer
+- tesserati/lajos-politzer
+- allenatori/lajos-politzer
 ---
+
 
 
 # Lajos Politzer
@@ -77,7 +81,7 @@ Sotto la sua gestione il Catania si impose come una delle compagini più temibil
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1950-1951\|1950-1951]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1950-1951|1950-1951]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

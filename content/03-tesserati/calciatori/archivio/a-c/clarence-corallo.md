@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/clarence-corallo
+- clarence-corallo
+- tesserati/clarence-corallo
+- calciatori/clarence-corallo
 ---
+
 
 # Clarence Corallo — Scheda Giocatore nel Calcio Catania
 
-**Clarence Corallo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Clarence Corallo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

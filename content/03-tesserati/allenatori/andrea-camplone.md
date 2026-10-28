@@ -14,13 +14,13 @@ catania_periods:
 - 2019-2020
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/andrea-camplone.jpg"
+image: assets/images/allenatori/andrea-camplone.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/andrea-camplone.jpg"
-    alt_text: "Ritratto fotografico di Andrea Camplone allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/andrea-camplone.jpg
+  alt_text: Ritratto fotografico di Andrea Camplone allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemiladieci
@@ -28,12 +28,12 @@ tags:
 - perugia
 - bari
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Andrea Camplone"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Camplone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Andrea_Camplone"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Andrea_Camplone
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/andrea-camplone
+- andrea-camplone
+- tesserati/andrea-camplone
+- allenatori/andrea-camplone
 ---
+
 
 
 # Andrea Camplone
@@ -78,7 +82,7 @@ Inaugurò il campionato con squillanti vittorie offensive prima dell'avvicendame
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2019-2020\|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2019-2020|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

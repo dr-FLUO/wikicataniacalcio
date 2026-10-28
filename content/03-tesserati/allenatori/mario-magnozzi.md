@@ -15,13 +15,13 @@ catania_periods:
 - 1949-1950
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/mario-magnozzi.jpg"
+image: assets/images/allenatori/mario-magnozzi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/mario-magnozzi.jpg"
-    alt_text: "Ritratto fotografico di Mario Magnozzi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/mario-magnozzi.jpg
+  alt_text: Ritratto fotografico di Mario Magnozzi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-quaranta
@@ -29,12 +29,12 @@ tags:
 - serie-b
 - nazionale-italiana
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Mario Magnozzi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Magnozzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Mario_Magnozzi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Mario_Magnozzi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/mario-magnozzi
+- mario-magnozzi
+- tesserati/mario-magnozzi
+- allenatori/mario-magnozzi
 ---
+
 
 
 # Mario Magnozzi
@@ -79,7 +83,7 @@ Confermò le sue immense doti umane e tecniche impostando un impianto di gioco s
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1949-1950\|1949-1950]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1949-1950|1949-1950]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

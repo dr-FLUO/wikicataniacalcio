@@ -14,12 +14,12 @@ tags:
 - giancarlo-magi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giancarlo Magi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giancarlo Magi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giancarlo_Magi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giancarlo_Magi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giancarlo Magi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/635_giancarlo-magi.jpg
 image_credits:
-- image_path: 'assets/images/players/635_giancarlo-magi.jpg'
-  alt_text: "Ritratto del calciatore Giancarlo Magi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/635_giancarlo-magi.jpg
+  alt_text: Ritratto del calciatore Giancarlo Magi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giancarlo-magi
+- giancarlo-magi
+- tesserati/giancarlo-magi
+- calciatori/giancarlo-magi
+birth_date: '1940-05-26'
+birth_place: Dessiè
+citizenship: Italia
 ---
+
 # Giancarlo Magi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giancarlo Magi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/635_giancarlo-magi.jpg)
 *Ritratto del calciatore Giancarlo Magi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giancarlo Magi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giancarlo Magi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - gianfranco-bertoletti
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gianfranco Bertoletti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gianfranco Bertoletti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gianfranco_Bertoletti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gianfranco_Bertoletti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gianfranco Bertoletti
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/633_gianfranco-bertoletti.jpg
 image_credits:
-- image_path: 'assets/images/players/633_gianfranco-bertoletti.jpg'
-  alt_text: "Ritratto del calciatore Gianfranco Bertoletti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/633_gianfranco-bertoletti.jpg
+  alt_text: Ritratto del calciatore Gianfranco Bertoletti in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gianfranco-bertoletti
+- gianfranco-bertoletti
+- tesserati/gianfranco-bertoletti
+- calciatori/gianfranco-bertoletti
+birth_date: '1943-04-25'
+birth_place: Traversetolo
+citizenship: Italia
 ---
+
 # Gianfranco Bertoletti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gianfranco Bertoletti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/633_gianfranco-bertoletti.jpg)
 *Ritratto del calciatore Gianfranco Bertoletti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gianfranco Bertoletti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gianfranco Bertoletti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

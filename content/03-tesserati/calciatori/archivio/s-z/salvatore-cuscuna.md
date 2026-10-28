@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-cuscuna
+- salvatore-cuscuna
+- tesserati/salvatore-cuscuna
+- calciatori/salvatore-cuscuna
 ---
+
 
 # Salvatore Cuscuna — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Cuscuna** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Salvatore Cuscuna** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

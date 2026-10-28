@@ -14,12 +14,12 @@ tags:
 - alfredo-napoleoni
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alfredo Napoleoni'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alfredo Napoleoni
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alfredo_Napoleoni'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alfredo_Napoleoni
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Alfredo Napoleoni
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alfredo-napoleoni
+- alfredo-napoleoni
+- tesserati/alfredo-napoleoni
+- calciatori/alfredo-napoleoni
+birth_date: '1937-11-29'
+birth_place: Roma
+citizenship: Italia
 ---
+
 # Alfredo Napoleoni — Scheda Giocatore nel Calcio Catania
 
-**Alfredo Napoleoni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alfredo Napoleoni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

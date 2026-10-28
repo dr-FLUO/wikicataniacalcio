@@ -17,13 +17,13 @@ catania_periods:
 - 1941-1942
 club_entities:
 - '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania]]'
-image: "assets/images/allenatori/geza-kertesz.jpg"
+image: assets/images/allenatori/geza-kertesz.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/geza-kertesz.jpg"
-    alt_text: "Ritratto fotografico di Géza Kertész allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/geza-kertesz.jpg
+  alt_text: Ritratto fotografico di Géza Kertész allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-trenta
@@ -32,12 +32,12 @@ tags:
 - memoria
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Géza Kertész"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Géza Kertész
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/G%C3%A9za_Kert%C3%A9sz"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/G%C3%A9za_Kert%C3%A9sz
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -56,7 +56,11 @@ aliases:
 - tesserati/allenatori/géza-kertész
 - tesserati/allenatori/gza-kertsz
 - 03-tesserati/allenatori/géza-kertész
+- geza-kertesz
+- tesserati/geza-kertesz
+- allenatori/geza-kertesz
 ---
+
 
 
 # Géza Kertész
@@ -92,10 +96,10 @@ Tradito da un delatore, viene arrestato dalla Gestapo il **6 dicembre 1944**, br
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | Gare Camp. (+Fin.) | V | N | P | Note Storiche |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **[[stagioni/1933-1934\|1933-1934]]** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Prima Divisione (III) | **1º posto Gir. H e Gir. Finale A — Promosso in Serie B** | 26 (+6 fin.) | 22 | 5 | 5 | Prima storica promozione in Serie B ([[tesserati/calciatori/nicolo-nicolosi\|Nicolosi]] 18 gol). |
-| **1934-1935** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B (Gir. A) | **4º posto** (37 punti) | 29 | 16 | 5 | 8 | Miglior piazzamento cadetto pre-bellico. |
-| **1935-1936** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B | **8º posto** (33 punti) + Ottavi Coppa Italia | 34 (+3 CI) | 16 | 5 | 13 | Serie B a girone unico a 18 squadre. |
-| **1941-1942** | [[societa/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie C (Gir. H) | **6º posto** (29 punti) | 24 | 12 | 5 | 7 | Ritorno al [[stadio/angelo-massimino\|Cibali]] in tempo di guerra. |
+| **[[stagioni/1933-1934|1933-1934]]** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Prima Divisione (III) | **1º posto Gir. H e Gir. Finale A — Promosso in Serie B** | 26 (+6 fin.) | 22 | 5 | 5 | Prima storica promozione in Serie B ([[tesserati/calciatori/nicolo-nicolosi|Nicolosi]] 18 gol). |
+| **1934-1935** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Serie B (Gir. A) | **4º posto** (37 punti) | 29 | 16 | 5 | 8 | Miglior piazzamento cadetto pre-bellico. |
+| **1935-1936** | [[societa/1929-ss-catania|SS Catania]] (Pre-1946) | Serie B | **8º posto** (33 punti) + Ottavi Coppa Italia | 34 (+3 CI) | 16 | 5 | 13 | Serie B a girone unico a 18 squadre. |
+| **1941-1942** | [[societa/1929-ss-catania|AFC Catania]] (Pre-1946) | Serie C (Gir. H) | **6º posto** (29 punti) | 24 | 12 | 5 | 7 | Ritorno al [[stadio/angelo-massimino|Cibali]] in tempo di guerra. |
 
 ## Fonti e Bibliografia
 

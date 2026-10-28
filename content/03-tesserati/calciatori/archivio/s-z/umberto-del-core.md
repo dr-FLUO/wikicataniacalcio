@@ -14,12 +14,12 @@ tags:
 - umberto-del-core
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Umberto Del Core'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Umberto Del Core
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Umberto_Del_Core'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Umberto_Del_Core
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Umberto Del Core
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/47_umberto-del-core.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/umberto-del-core.jpg'
-  alt_text: "Ritratto ufficiale di Umberto Del Core — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/umberto-del-core.jpg
+  alt_text: 'Ritratto ufficiale di Umberto Del Core — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/umberto-del-core
+- umberto-del-core
+- tesserati/umberto-del-core
+- calciatori/umberto-del-core
+birth_date: '1979-11-20'
+birth_place: Bari
+citizenship: Italia
 ---
+
 # Umberto Del Core — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Umberto Del Core — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/umberto-del-core.jpg)
 *Ritratto ufficiale di Umberto Del Core — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Umberto Del Core — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Umberto Del Core** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Umberto Del Core** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

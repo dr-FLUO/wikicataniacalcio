@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-festa
+- roberto-festa
+- tesserati/roberto-festa
+- calciatori/roberto-festa
 ---
+
 
 # Roberto Festa — Scheda Giocatore nel Calcio Catania
 
-**Roberto Festa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Roberto Festa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

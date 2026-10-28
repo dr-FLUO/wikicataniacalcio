@@ -27,12 +27,12 @@ tags:
 - serie-b
 - luigi-valsecchi
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alessandro Vitali'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Vitali
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alessandro_Vitali_(calciatore_1945)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alessandro_Vitali_(calciatore_1945)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Vitali-614
 aliases:
 - tesserati/calciatori/alessandro-vitali
+- alessandro-vitali
+- tesserati/alessandro-vitali
+- calciatori/alessandro-vitali
+citizenship: Regno d'Italia
+seasons_count: 1
 ---
+
 # Alessandro Vitali
 
 **Alessandro Vitali** (Roma, 24 marzo 1945 – Roma, 26 agosto 1977) è stato un calciatore italiano, nel ruolo di attaccante e mezzala offensiva. Arrivato al Catania nell'estate del **1967**, disputò una straordinaria stagione cadetta risultando il capocannoniere indiscusso della squadra con **9 reti in 36 incontri**.
@@ -73,7 +79,7 @@ Tra i suoi gol memorabili in maglia etnea si ricordano le marcature pesanti cont
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1967-1968) | 36 | 9 | Attaccante / Mezzala offensiva | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1967-1968) | 36 | 9 | Attaccante / Mezzala offensiva | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | **Totale Complessivo** | **36** | **9** | — | — |
 
 ---

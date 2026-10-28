@@ -14,12 +14,12 @@ tags:
 - gael-genevier
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gaël Genevier'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gaël Genevier
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ga%C3%ABl_Genevier'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ga%C3%ABl_Genevier
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gael Genevier
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/132_gael-genevier.jpg
 image_credits:
-- image_path: 'assets/images/players/132_gael-genevier.jpg'
-  alt_text: "Ritratto del calciatore Gael Genevier in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/132_gael-genevier.jpg
+  alt_text: Ritratto del calciatore Gael Genevier in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gael-genevier
+- gael-genevier
+- tesserati/gael-genevier
+- calciatori/gael-genevier
+birth_date: '1982-06-26'
+birth_place: Saint-Martin-d'Hères
+citizenship: Francia
 ---
+
 # Gael Genevier — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gael Genevier in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/132_gael-genevier.jpg)
 *Ritratto del calciatore Gael Genevier in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gael Genevier** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gael Genevier** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

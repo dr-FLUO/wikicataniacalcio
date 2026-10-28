@@ -1,40 +1,46 @@
 ---
-title: "Luigi Gioacchino Nebbia — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Luigi Gioacchino Nebbia, difensore del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/g-l/luigi-gioacchino-nebbia"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Difensore"
-birth_date: "1907-12-01"
-birth_place: "Mirabello Monferrato"
-death_date: "1997-01-24"
-nationality: "Regno d'Italia"
+title: Luigi Gioacchino Nebbia — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Luigi Gioacchino Nebbia,
+  difensore del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/g-l/luigi-gioacchino-nebbia
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Difensore
+birth_date: '1907-12-01'
+birth_place: Mirabello Monferrato
+death_date: '1997-01-24'
+nationality: Regno d'Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "luigi-gioacchino-nebbia"
-  - "difensore"
+- calciatori
+- luigi-gioacchino-nebbia
+- difensore
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Luigi Gioacchino Nebbia"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Luigi_Gioacchino_Nebbia"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luigi Gioacchino Nebbia
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Luigi_Gioacchino_Nebbia
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/luigi-gioacchino-nebbia"
-  - "luigi-gioacchino-nebbia"
+- tesserati/calciatori/luigi-gioacchino-nebbia
+- luigi-gioacchino-nebbia
+- tesserati/luigi-gioacchino-nebbia
+- calciatori/luigi-gioacchino-nebbia
+citizenship: Regno d'Italia
 ---
+
 # Luigi Gioacchino Nebbia — Scheda Giocatore nel Calcio Catania
 
-**Luigi Gioacchino Nebbia** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luigi Gioacchino Nebbia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Difensore |
 | **Nazionalità Sportiva** | Regno d'Italia |
 | **Data e Luogo di Nascita** | 1907-12-01 — Mirabello Monferrato |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

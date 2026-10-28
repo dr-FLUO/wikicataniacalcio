@@ -14,13 +14,13 @@ catania_periods:
 - 2016-2017
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/giovanni-pulvirenti.jpg"
+image: assets/images/allenatori/giovanni-pulvirenti.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/giovanni-pulvirenti.jpg"
-    alt_text: "Ritratto fotografico di Giovanni Pulvirenti allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/giovanni-pulvirenti.jpg
+  alt_text: Ritratto fotografico di Giovanni Pulvirenti allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-duemiladieci
@@ -28,12 +28,12 @@ tags:
 - settore-giovanile
 - catanesi
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Giovanni Pulvirenti"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giovanni Pulvirenti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Giovanni_Pulvirenti"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Giovanni_Pulvirenti
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/giovanni-pulvirenti
+- giovanni-pulvirenti
+- tesserati/giovanni-pulvirenti
+- allenatori/giovanni-pulvirenti
 ---
+
 
 
 # Giovanni Pulvirenti
@@ -78,7 +82,7 @@ Catanese verace e profondo conoscitore dei giovani talenti, traghettò la squadr
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2016-2017|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

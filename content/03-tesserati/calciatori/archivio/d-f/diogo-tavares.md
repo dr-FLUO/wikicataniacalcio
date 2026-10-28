@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/diogo-tavares
+- diogo-tavares
+- tesserati/diogo-tavares
+- calciatori/diogo-tavares
 ---
+
 
 # Diogo Tavares — Scheda Giocatore nel Calcio Catania
 
-**Diogo Tavares** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Diogo Tavares** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

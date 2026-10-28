@@ -14,12 +14,12 @@ tags:
 - domenico-di-cecco
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Domenico Di Cecco'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Domenico Di Cecco
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Domenico_Di_Cecco'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Domenico_Di_Cecco
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Domenico Di Cecco
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/domenico-di-cecco
+- domenico-di-cecco
+- tesserati/domenico-di-cecco
+- calciatori/domenico-di-cecco
+birth_date: '1983-05-20'
+birth_place: Lanciano
+citizenship: Italia
 ---
+
 # Domenico Di Cecco — Scheda Giocatore nel Calcio Catania
 
-**Domenico Di Cecco** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Domenico Di Cecco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

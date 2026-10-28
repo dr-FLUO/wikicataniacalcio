@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabrizio-cipriani
+- fabrizio-cipriani
+- tesserati/fabrizio-cipriani
+- calciatori/fabrizio-cipriani
 ---
+
 
 # Fabrizio Cipriani — Scheda Giocatore nel Calcio Catania
 
-**Fabrizio Cipriani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Fabrizio Cipriani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

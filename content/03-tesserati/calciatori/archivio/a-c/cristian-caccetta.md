@@ -27,20 +27,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/911_cristian-caccetta.jpg
 image_credits:
-- image_path: 'assets/images/players/911_cristian-caccetta.jpg'
-  alt_text: "Ritratto del calciatore Cristian Caccetta in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/911_cristian-caccetta.jpg
+  alt_text: Ritratto del calciatore Cristian Caccetta in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/cristian-caccetta
+- cristian-caccetta
+- tesserati/cristian-caccetta
+- calciatori/cristian-caccetta
+birth_date: '1986-08-07'
+birth_place: Partinico
+citizenship: Italia
 ---
+
 # Cristian Caccetta — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Cristian Caccetta in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/911_cristian-caccetta.jpg)
 *Ritratto del calciatore Cristian Caccetta in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Cristian Caccetta** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Cristian Caccetta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

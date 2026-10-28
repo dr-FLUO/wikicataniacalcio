@@ -14,12 +14,12 @@ tags:
 - raffaele-pierini
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Raffaele Pierini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Raffaele Pierini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Raffaele_Pierini'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Raffaele_Pierini
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Raffaele Pierini
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/raffaele-pierini
+- raffaele-pierini
+- tesserati/raffaele-pierini
+- calciatori/raffaele-pierini
+birth_date: '1923-12-02'
+birth_place: Brindisi
+citizenship: Italia
 ---
+
 # Raffaele Pierini — Scheda Giocatore nel Calcio Catania
 
-**Raffaele Pierini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Raffaele Pierini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

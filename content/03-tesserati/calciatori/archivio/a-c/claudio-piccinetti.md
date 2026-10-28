@@ -14,12 +14,12 @@ tags:
 - claudio-piccinetti
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Piccinetti'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Piccinetti
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Piccinetti'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Piccinetti
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Claudio Piccinetti
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/566_claudio-piccinetti.jpg
 image_credits:
-- image_path: 'assets/images/players/566_claudio-piccinetti.jpg'
-  alt_text: "Ritratto del calciatore Claudio Piccinetti in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/566_claudio-piccinetti.jpg
+  alt_text: Ritratto del calciatore Claudio Piccinetti in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/claudio-piccinetti
+- claudio-piccinetti
+- tesserati/claudio-piccinetti
+- calciatori/claudio-piccinetti
+birth_date: '1952-03-31'
+birth_place: Ponsacco
+citizenship: Italia
 ---
+
 # Claudio Piccinetti — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Claudio Piccinetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/566_claudio-piccinetti.jpg)
 *Ritratto del calciatore Claudio Piccinetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Claudio Piccinetti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Claudio Piccinetti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

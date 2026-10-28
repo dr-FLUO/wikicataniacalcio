@@ -29,12 +29,12 @@ tags:
 - promozione-2002
 - bandiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maurizio Pellegrino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maurizio Pellegrino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maurizio_Pellegrino'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maurizio_Pellegrino
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -50,7 +50,14 @@ aliases:
 - tesserati/allenatori/maurizio-pellegrino
 - societa/dirigenti/maurizio-pellegrino
 - 01-societa/dirigenti/maurizio-pellegrino
+- maurizio-pellegrino
+- tesserati/maurizio-pellegrino
+- allenatori/maurizio-pellegrino
+citizenship: Italia
+total_appearances: 31
+seasons_count: 3
 ---
+
 # Maurizio Pellegrino
 
 **Maurizio Pellegrino** (Siracusa, Italia, 1966) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2003, 2013-2015**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci), Calcio Catania S.p.A. (Era Pulvirenti).
@@ -75,8 +82,8 @@ Nel 2014 sfiorò un clamoroso miracolo salvezza in Serie A con tre vittorie cons
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]], [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/2013-2014\|2013-2014]], [[stagioni/2014-2015\|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2001-2002|2001-2002]], [[stagioni/2002-2003|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/2013-2014|2013-2014]], [[stagioni/2014-2015|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

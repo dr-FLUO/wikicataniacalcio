@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-ricca
+- roberto-ricca
+- tesserati/roberto-ricca
+- calciatori/roberto-ricca
 ---
+
 
 # Roberto Ricca — Scheda Giocatore nel Calcio Catania
 
-**Roberto Ricca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Roberto Ricca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

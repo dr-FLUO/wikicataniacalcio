@@ -39,7 +39,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Naccari-290
 aliases:
 - tesserati/calciatori/maurizio-naccari
+- maurizio-naccari
+- tesserati/maurizio-naccari
+- calciatori/maurizio-naccari
 ---
+
 
 
 # Maurizio Naccari
@@ -67,7 +71,7 @@ Affiancato a Tiziano D'Isidoro e Pasquale Sanseverino, Naccari fu protagonista d
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1995-1996) | 30 | 10 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1995-1996) | 30 | 10 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 2 | 0 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **32** | **10** | — | — |
 

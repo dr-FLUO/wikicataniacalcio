@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ivano-baldanzeddu
+- ivano-baldanzeddu
+- tesserati/ivano-baldanzeddu
+- calciatori/ivano-baldanzeddu
 ---
+
 
 # Ivano Baldanzeddu — Scheda Giocatore nel Calcio Catania
 
-**Ivano Baldanzeddu** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Calciatore**.
+**Ivano Baldanzeddu** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Calciatore**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/kevin-haveri
+- kevin-haveri
+- tesserati/kevin-haveri
+- calciatori/kevin-haveri
 ---
+
 
 # Kevin Haveri — Scheda Giocatore nel Calcio Catania
 
-**Kevin Haveri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Kevin Haveri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

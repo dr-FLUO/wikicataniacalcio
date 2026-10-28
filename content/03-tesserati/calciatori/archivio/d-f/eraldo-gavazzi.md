@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/eraldo-gavazzi
+- eraldo-gavazzi
+- tesserati/eraldo-gavazzi
+- calciatori/eraldo-gavazzi
 ---
+
 
 # Eraldo Gavazzi — Scheda Giocatore nel Calcio Catania
 
-**Eraldo Gavazzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Eraldo Gavazzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -81,7 +81,7 @@ Il **17 aprile 2003** l'ufficio legale del Catania presentò reclamo ufficiale c
 | **24 aprile 2003** | Commissione Disciplinare LNP (1º grado) | **1 - 1** | Rigetto del reclamo etneo e omologazione del pareggio. |
 | **28 aprile 2003** | Commissione d'Appello Federale — CAF (2º grado) | **2 - 0 a tavolino** | Accoglimento dell'appello ex art. 31 Statuto FIGC (+2 punti in classifica al Catania con sentenza formalmente inappellabile). |
 | **22 maggio 2003** | Corte Federale FIGC (ex art. 32 c. 5 Statuto) | **1 - 1** | Annullamento del verdetto CAF su ricorso del Siena e di 8 club cadetti; sottrazione dei 2 punti e retrocessione sul campo a fine torneo. |
-| **5 giugno 2003** | TAR Sicilia — Sez. Catania (Ord. n. 1054/2003) | **2 - 0 a tavolino** | Il Pres. Vincenzo Zingales sospende la decisione della Corte Federale e ripristina il 2-0 della CAF, aprendo la crisi che porterà alla [[stagioni/2003-2004\|Serie B a 24 squadre]]. |
+| **5 giugno 2003** | TAR Sicilia — Sez. Catania (Ord. n. 1054/2003) | **2 - 0 a tavolino** | Il Pres. Vincenzo Zingales sospende la decisione della Corte Federale e ripristina il 2-0 della CAF, aprendo la crisi che porterà alla [[stagioni/2003-2004|Serie B a 24 squadre]]. |
 
 ---
 
@@ -90,12 +90,12 @@ Il **17 aprile 2003** l'ufficio legale del Catania presentò reclamo ufficiale c
 | Dati Gara | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Ora** | Sabato 12 aprile 2003, ore 20:30 |
-| **Impianto** | [[stadio/angelo-massimino\|Stadio Angelo Massimino (Cibali)]], Catania |
-| **Competizione** | [[stagioni/2002-2003\|Serie B 2002-2003]] — 30ª Giornata |
+| **Impianto** | [[stadio/angelo-massimino|Stadio Angelo Massimino (Cibali)]], Catania |
+| **Competizione** | [[stagioni/2002-2003|Serie B 2002-2003]] — 30ª Giornata |
 | **Arbitro** | Nicola Rizzoli della sezione AIA di Bologna |
 | **Marcatori** | **18' Tiribocchi** (Siena), **34' Grieco** (Catania) |
 | **Note Tecniche** | Nella ripresa Vito Grieco (Catania) ha fallito un calcio di rigore; Luigi Martinelli (Siena) impiegato per tutti i 90 minuti. |
-| **Allenatori** | [[tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] (Catania) — Giuseppe Papadopulo (Siena) |
+| **Allenatori** | [[tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]] (Catania) — Giuseppe Papadopulo (Siena) |
 
 ---
 

@@ -31,12 +31,12 @@ tags:
 - danimarca
 - piero-andreoli
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Karl Aage Hansen'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Karl Aage Hansen
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Karl_Aage_Hansen'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Karl_Aage_Hansen
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -51,13 +51,19 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Hansen-709
 aliases:
 - tesserati/calciatori/karl-aage-hansen
+- karl-aage-hansen
+- tesserati/karl-aage-hansen
+- calciatori/karl-aage-hansen
 image_credits:
-- image_path: '/assets/images/calciatori/karl-aage-hansen.jpg'
-  alt_text: "Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/karl-aage-hansen.jpg
+  alt_text: 'Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Regno di Danimarca
 ---
+
 # Karl Aage Hansen
 
 ![Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/karl-aage-hansen.jpg)
@@ -87,7 +93,7 @@ Dopo la controversa retrocessione a tavolino del 1955 per il Caso Scaramella, Ha
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1954-1957) | 79 | 7 | Centrocampista / Regista | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
+| Campionato (1954-1957) | 79 | 7 | Centrocampista / Regista | [[societa/1946-club-calcio-catania|Club Calcio Catania]] |
 | **Totale Complessivo** | **79** | **7** | — | — |
 
 ---

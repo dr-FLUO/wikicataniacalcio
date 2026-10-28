@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/roberto-manca
+- roberto-manca
+- tesserati/roberto-manca
+- calciatori/roberto-manca
 ---
+
 
 # Roberto Manca — Scheda Giocatore nel Calcio Catania
 
-**Roberto Manca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Roberto Manca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

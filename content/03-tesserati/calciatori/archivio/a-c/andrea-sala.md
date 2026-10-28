@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-sala
+- andrea-sala
+- tesserati/andrea-sala
+- calciatori/andrea-sala
 ---
+
 
 # Andrea Sala — Scheda Giocatore nel Calcio Catania
 
-**Andrea Sala** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Andrea Sala** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

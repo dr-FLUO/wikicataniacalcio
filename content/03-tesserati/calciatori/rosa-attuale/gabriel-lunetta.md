@@ -21,11 +21,12 @@ club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp
 image_credits:
-- image_path: 'assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp'
-  alt_text: "Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp
+  alt_text: Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - calciatori
 - centrocampisti
@@ -46,7 +47,12 @@ sources:
   reference: Speciale tattico del 5 ottobre 2026
 aliases:
 - tesserati/calciatori/gabriel-lunetta
+- gabriel-lunetta
+- tesserati/gabriel-lunetta
+- calciatori/gabriel-lunetta
+seasons_count: 3
 ---
+
 # Gabriel Lunetta — Centrocampista e Cursore di Fascia del Catania FC
 
 ![Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp)
@@ -59,7 +65,7 @@ Nato a Milano il **10 agosto 1996**, **Gabriel Lunetta** è un centrocampista es
 ## 1. Il Percorso nei Settori Giovanili e in Serie B
 
 Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida esperienza tra Serie C e Serie B con le maglie di Gubbio, Reggiana, Alessandria, Crotone e Südtirol:
-* Giunto a Catania nell'estate del **2024**, si è rapidamente imposto come uno degli interpreti ideali per il modulo 3-4-2-1 prediletto dall'allenatore [[tesserati/allenatori/domenico-toscano\|Domenico Toscano]].
+* Giunto a Catania nell'estate del **2024**, si è rapidamente imposto come uno degli interpreti ideali per il modulo 3-4-2-1 prediletto dall'allenatore [[tesserati/allenatori/domenico-toscano|Domenico Toscano]].
 
 ---
 
@@ -67,16 +73,16 @@ Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida es
 
 Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenza aerobica:
 * Garantisce copertura sull'out mancino e pericolosità sui calci piazzati offensivi.
-* Nella [[stagioni/2026-2027\|stagione 2026-2027]] si è distinto per continuità di rendimento e gol pesanti nelle sfide contro le dirette concorrenti alla promozione.
+* Nella [[stagioni/2026-2027|stagione 2026-2027]] si è distinto per continuità di rendimento e gol pesanti nelle sfide contro le dirette concorrenti alla promozione.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027\|Stagione 2026-2027 del Catania FC]]
-* [[tesserati/calciatori/alessio-castellini\|Alessio Castellini: Compagno di catena]]
-* [[tesserati/calciatori/stefano-sturaro\|Stefano Sturaro: Centrocampista]]
-* [[tesserati/allenatori/domenico-toscano\|Domenico Toscano: Allenatore]]
+* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[tesserati/calciatori/alessio-castellini|Alessio Castellini: Compagno di catena]]
+* [[tesserati/calciatori/stefano-sturaro|Stefano Sturaro: Centrocampista]]
+* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
 
 ---
 

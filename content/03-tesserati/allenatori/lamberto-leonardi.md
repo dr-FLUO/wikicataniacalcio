@@ -15,24 +15,24 @@ catania_periods:
 - 1995-1996
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: "assets/images/allenatori/lamberto-leonardi.jpg"
+image: assets/images/allenatori/lamberto-leonardi.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/lamberto-leonardi.jpg"
-    alt_text: "Ritratto fotografico di Lamberto Leonardi allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/lamberto-leonardi.jpg
+  alt_text: Ritratto fotografico di Lamberto Leonardi allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-novanta
 - serie-c2
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Lamberto Leonardi"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lamberto Leonardi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Lamberto_Leonardi"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Lamberto_Leonardi
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/lamberto-leonardi
+- lamberto-leonardi
+- tesserati/lamberto-leonardi
+- allenatori/lamberto-leonardi
 ---
+
 
 
 # Lamberto Leonardi
@@ -77,7 +81,7 @@ Tecnico di grande esperienza nei campionati del Centro-Sud, visse una brevissima
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1995-1996\|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1995-1996|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

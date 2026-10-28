@@ -14,12 +14,12 @@ tags:
 - zelico-petrovic
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Zelico Petrovic'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Zelico Petrovic
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Zelico_Petrovic'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Zelico_Petrovic
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Zelico Petrovic
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/541_zelico-petrovic.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/zelico-petrovic.jpg'
-  alt_text: "Ritratto ufficiale di Zelico Petrovic — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/zelico-petrovic.jpg
+  alt_text: 'Ritratto ufficiale di Zelico Petrovic — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/zelico-petrovic
+- zelico-petrovic
+- tesserati/zelico-petrovic
+- calciatori/zelico-petrovic
+birth_date: '1948-04-14'
+birth_place: Pola
+citizenship: Italia
 ---
+
 # Zelico Petrovic — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Zelico Petrovic — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/zelico-petrovic.jpg)
 *Ritratto ufficiale di Zelico Petrovic — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Zelico Petrovic — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Zelico Petrovic** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Zelico Petrovic** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

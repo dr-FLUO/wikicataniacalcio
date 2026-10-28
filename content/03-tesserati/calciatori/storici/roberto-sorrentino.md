@@ -14,12 +14,12 @@ tags:
 - roberto-sorrentino
 - portiere
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Roberto Sorrentino'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Roberto Sorrentino
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Roberto_Sorrentino'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Roberto_Sorrentino
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Roberto Sorrentino
   publisher: calciocatania.com
@@ -33,11 +33,11 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/480_roberto-sorrentino.jpg
 image_credits:
-- image_path: 'assets/images/calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp'
-  alt_text: "Figurina Panini del portiere e capitano Roberto Sorrentino con il Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp
+  alt_text: Figurina Panini del portiere e capitano Roberto Sorrentino con il Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/players/480_roberto-sorrentino.jpg
   alt_text: Ritratto del calciatore Roberto Sorrentino in maglia rossazzurra del Calcio
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -47,7 +47,13 @@ aliases:
 - tesserati/calciatori/roberto-sorrentino
 - tesserati/calciatori/storici/roberto-sorrentino
 - roberto-sorrentino
+- tesserati/roberto-sorrentino
+- calciatori/roberto-sorrentino
+birth_date: '1955-08-14'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Roberto Sorrentino — Scheda Giocatore nel Calcio Catania
 
 ![Figurina Panini del portiere e capitano Roberto Sorrentino con il Catania 1982-1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp)

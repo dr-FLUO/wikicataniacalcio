@@ -26,12 +26,12 @@ tags:
 - nereo-rocco
 - era-pulvirenti
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Jeda'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Jeda
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Jeda'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Jeda
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,13 +46,19 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Jeda-106
 aliases:
 - tesserati/calciatori/jeda
+- jeda
+- tesserati/jeda
+- calciatori/jeda
 image_credits:
-- image_path: '/assets/images/calciatori/jeda.jpg'
-  alt_text: "Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/jeda.jpg
+  alt_text: 'Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini
+    dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+citizenship: Brasile
 ---
+
 # Jeda
 
 ![Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/jeda.jpg)
@@ -82,7 +88,7 @@ Con la maglia numero 11, Jeda conquistò i tifosi del Massimino per la sua rapid
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2005) | 19 | 6 | Attaccante / Seconda punta | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] |
+| Campionato (2005) | 19 | 6 | Attaccante / Seconda punta | [[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]] |
 | **Totale Complessivo** | **19** | **6** | — | — |
 
 ---

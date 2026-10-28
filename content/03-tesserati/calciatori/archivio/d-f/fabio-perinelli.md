@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/fabio-perinelli
+- fabio-perinelli
+- tesserati/fabio-perinelli
+- calciatori/fabio-perinelli
 ---
+
 
 # Fabio Perinelli — Scheda Giocatore nel Calcio Catania
 
-**Fabio Perinelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabio Perinelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

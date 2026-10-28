@@ -14,12 +14,12 @@ tags:
 - luigi-falcone
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luigi Falcone'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luigi Falcone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luigi_Falcone'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luigi_Falcone
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luigi Falcone
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luigi-falcone
+- luigi-falcone
+- tesserati/luigi-falcone
+- calciatori/luigi-falcone
+birth_date: '1992-05-26'
+birth_place: Mesagne
+citizenship: Italia
 ---
+
 # Luigi Falcone — Scheda Giocatore nel Calcio Catania
 
-**Luigi Falcone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luigi Falcone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

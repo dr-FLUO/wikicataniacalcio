@@ -27,12 +27,12 @@ tags:
 - angelo-massimino
 - anni-novanta
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Loriano Cipriani'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Loriano Cipriani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Loriano_Cipriani'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Loriano_Cipriani
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-353
 aliases:
 - tesserati/calciatori/loriano-cipriani
+- loriano-cipriani
+- tesserati/loriano-cipriani
+- calciatori/loriano-cipriani
+citizenship: Italia
+seasons_count: 4
 ---
+
 # Loriano Cipriani
 
 **Loriano Cipriani** (San Giovanni Valdarno, 18 ottobre 1964) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1989**, è stato il simbolo assoluto dell'attacco del Calcio Catania per un intero quadriennio, collezionando **125 presenze e 40 reti ufficiali**.
@@ -73,7 +79,7 @@ Nel campionato [[stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1989-1993) | 114 | 38 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1989-1993) | 114 | 38 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 11 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **125** | **40** | — | — |
 

@@ -87,9 +87,9 @@ Schierato da **Walter Zenga** con un compatto ed ermetico 4-1-3-2 imperniato sul
 | **Data e Competizione** | Domenica **1º marzo 2009**, ore 15:00 — Serie A 2008-2009 (26ª giornata) |
 | **Impianto e Spettatori** | Stadio Renzo Barbera, Palermo — ca. 22.000 spettatori (trasferta vietata ai residenti a Catania dall'ONMS) |
 | **Arbitro** | Roberto Rosetti della sezione di Torino |
-| **Marcatori** | **14' pt Ledesma** (C), **37' pt Morimoto** (C), **44' pt [[tesserati/calciatori/giuseppe-mascara\|Mascara]]** (C), **21' st Paolucci** (C) |
+| **Marcatori** | **14' pt Ledesma** (C), **37' pt Morimoto** (C), **44' pt [[tesserati/calciatori/giuseppe-mascara|Mascara]]** (C), **21' st Paolucci** (C) |
 | **Formazione Palermo (4-3-1-2)** | Amelia; Cassani (1' st Succi), Kjær (25' st Carrozzieri), Bovo, Balzaretti; Migliaccio (20' st G. Tedesco), Liverani, Bresciano; Simplicio; Miccoli, Cavani. — *A disp.:* Ujkani, Guana, Savini, Nocerino. — **All.:** Davide Ballardini. |
-| **Formazione Catania (4-1-3-2)** | Bizzarri; Potenza, Silvestre, Stovini, Capuano (33' st Silvestri); Carboni; P. Ledesma (25' st [[tesserati/calciatori/mariano-izco\|Izco]]), [[tesserati/calciatori/marco-biagianti\|Biagianti]], Baiocco; [[tesserati/calciatori/giuseppe-mascara\|Mascara]], Morimoto (1' st Paolucci). — *A disp.:* Košický, G. Tedesco, [[tesserati/calciatori/gionatha-spinesi\|Spinesi]], Martínez. — **All.:** Walter Zenga. |
+| **Formazione Catania (4-1-3-2)** | Bizzarri; Potenza, Silvestre, Stovini, Capuano (33' st Silvestri); Carboni; P. Ledesma (25' st [[tesserati/calciatori/mariano-izco|Izco]]), [[tesserati/calciatori/marco-biagianti|Biagianti]], Baiocco; [[tesserati/calciatori/giuseppe-mascara|Mascara]], Morimoto (1' st Paolucci). — *A disp.:* Košický, G. Tedesco, [[tesserati/calciatori/gionatha-spinesi|Spinesi]], Martínez. — **All.:** Walter Zenga. |
 | **Provvedimenti Disciplinari** | **Espulso:** 16' pt Bresciano (P) per condotta violenta. **Ammoniti:** Migliaccio (P), Simplicio (P), Capuano (C). |
 
 ---

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/paulino-da-silva-gladestony
+- paulino-da-silva-gladestony
+- tesserati/paulino-da-silva-gladestony
+- calciatori/paulino-da-silva-gladestony
 ---
+
 
 # Paulino da Silva Gladestony — Scheda Giocatore nel Calcio Catania
 
-**Paulino da Silva Gladestony** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Paulino da Silva Gladestony** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

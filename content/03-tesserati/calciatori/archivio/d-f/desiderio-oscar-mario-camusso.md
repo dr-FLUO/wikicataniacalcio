@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/desiderio-oscar-mario-camusso
+- desiderio-oscar-mario-camusso
+- tesserati/desiderio-oscar-mario-camusso
+- calciatori/desiderio-oscar-mario-camusso
 ---
+
 
 # Desiderio Oscar Mario Camusso — Scheda Giocatore nel Calcio Catania
 
-**Desiderio Oscar Mario Camusso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Desiderio Oscar Mario Camusso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

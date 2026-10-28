@@ -71,10 +71,10 @@ Colpito da una grave malattia, Francesco "Ciccio" Famoso si spense a Catania il 
 
 | Data / Luogo | Tifoseria / Curva Autrice del Tributo | Testo / Contenuto dell'Omaggio Espletato |
 | :--- | :--- | :--- |
-| **Febbraio 2017 — Catania** | [[tifoseria/curva-sud/index\|Curva Sud]] e [[tifoseria/curva-nord/index\|Curva Nord]] ([[stadio/angelo-massimino\|Stadio Angelo Massimino]]) | Camera ardente, corteo funebre cittadino e coreografia commemorativa in onore di *"Ciccio Falange"*. |
-| **Febbraio 2017 — Dortmund** | *Desperados 1999* / *Südtribüne* ([[tifoseria/gemellaggi/borussia-dortmund\|Borussia Dortmund]], *Westfalenstadion*) | Esposizione dello striscione in lingua italiana nella curva giallonera: *"Ciao Ciccio, storico capo ultras"*. |
+| **Febbraio 2017 — Catania** | [[tifoseria/curva-sud/index|Curva Sud]] e [[tifoseria/curva-nord/index|Curva Nord]] ([[stadio/angelo-massimino|Stadio Angelo Massimino]]) | Camera ardente, corteo funebre cittadino e coreografia commemorativa in onore di *"Ciccio Falange"*. |
+| **Febbraio 2017 — Dortmund** | *Desperados 1999* / *Südtribüne* ([[tifoseria/gemellaggi/borussia-dortmund|Borussia Dortmund]], *Westfalenstadion*) | Esposizione dello striscione in lingua italiana nella curva giallonera: *"Ciao Ciccio, storico capo ultras"*. |
 | **Febbraio 2017 — Monaco di Baviera** | *Schickeria München* (**Bayern Monaco**, *Allianz Arena*) | Striscione di cordoglio e rispetto ultras esposto durante la gara di Bundesliga in memoria del leader catanese. |
-| **Febbraio 2017 — Italia** | Curve di [[tifoseria/gemellaggi/napoli\|Napoli]], [[tifoseria/gemellaggi/crotone\|Crotone]], [[tifoseria/gemellaggi/triestina\|Triestina]], **Benevento**, **Polonia Bytom** e tifoserie rivali | Striscioni, cori e messaggi di saluto in riconoscimento di quasi quarant'anni di militanza ininterrotta sui gradoni. |
+| **Febbraio 2017 — Italia** | Curve di [[tifoseria/gemellaggi/napoli|Napoli]], [[tifoseria/gemellaggi/crotone|Crotone]], [[tifoseria/gemellaggi/triestina|Triestina]], **Benevento**, **Polonia Bytom** e tifoserie rivali | Striscioni, cori e messaggi di saluto in riconoscimento di quasi quarant'anni di militanza ininterrotta sui gradoni. |
 
 In sua memoria, la figura e l'effigie di *Ciccio Falange* sono divenute parte integrante dell'iconografia muraria del quartiere Castello Ursino e dei drappi esposti dalla [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto]] nella balaustra dell'Anello Inferiore della Curva Sud.
 

@@ -14,12 +14,12 @@ tags:
 - desiderio-marchesi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Desiderio Marchesi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Desiderio Marchesi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Desiderio_Marchesi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Desiderio_Marchesi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Desiderio Marchesi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/538_desiderio-marchesi.jpg
 image_credits:
-- image_path: 'assets/images/players/538_desiderio-marchesi.jpg'
-  alt_text: "Ritratto del calciatore Desiderio Marchesi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/538_desiderio-marchesi.jpg
+  alt_text: Ritratto del calciatore Desiderio Marchesi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/desiderio-marchesi
+- desiderio-marchesi
+- tesserati/desiderio-marchesi
+- calciatori/desiderio-marchesi
+birth_date: '1950-07-24'
+birth_place: Sant'Angelo Lodigiano
+citizenship: Italia
 ---
+
 # Desiderio Marchesi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Desiderio Marchesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/538_desiderio-marchesi.jpg)
 *Ritratto del calciatore Desiderio Marchesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Desiderio Marchesi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Desiderio Marchesi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

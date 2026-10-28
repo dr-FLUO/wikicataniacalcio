@@ -14,12 +14,12 @@ tags:
 - andrea-mazzaferro
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Andrea Mazzaferro'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Andrea Mazzaferro
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Andrea_Mazzaferro'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Andrea_Mazzaferro
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Andrea Mazzaferro
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-mazzaferro
+- andrea-mazzaferro
+- tesserati/andrea-mazzaferro
+- calciatori/andrea-mazzaferro
+birth_date: '1966-01-06'
+birth_place: Rapagnano
+citizenship: Italia
 ---
+
 # Andrea Mazzaferro — Scheda Giocatore nel Calcio Catania
 
-**Andrea Mazzaferro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andrea Mazzaferro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

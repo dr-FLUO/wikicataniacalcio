@@ -14,12 +14,12 @@ tags:
 - sebastiano-buzzin
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Sebastiano Buzzin'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sebastiano Buzzin
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Sebastiano_Buzzin'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Sebastiano_Buzzin
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Sebastiano Buzzin
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/672_sebastiano-buzzin.jpg
 image_credits:
-- image_path: 'assets/images/players/672_sebastiano-buzzin.jpg'
-  alt_text: "Ritratto del calciatore Sebastiano Buzzin in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/672_sebastiano-buzzin.jpg
+  alt_text: Ritratto del calciatore Sebastiano Buzzin in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/sebastiano-buzzin
+- sebastiano-buzzin
+- tesserati/sebastiano-buzzin
+- calciatori/sebastiano-buzzin
+birth_date: '1929-12-24'
+birth_place: Cormons
+citizenship: Regno d'Italia
 ---
+
 # Sebastiano Buzzin — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Sebastiano Buzzin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/672_sebastiano-buzzin.jpg)
 *Ritratto del calciatore Sebastiano Buzzin in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Sebastiano Buzzin** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Sebastiano Buzzin** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

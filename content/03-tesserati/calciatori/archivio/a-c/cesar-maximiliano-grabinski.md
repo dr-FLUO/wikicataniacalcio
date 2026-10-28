@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cesar-maximiliano-grabinski
+- cesar-maximiliano-grabinski
+- tesserati/cesar-maximiliano-grabinski
+- calciatori/cesar-maximiliano-grabinski
 ---
+
 
 # Cesar Maximiliano Grabinski — Scheda Giocatore nel Calcio Catania
 
-**Cesar Maximiliano Grabinski** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Cesar Maximiliano Grabinski** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

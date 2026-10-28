@@ -14,12 +14,12 @@ tags:
 - mattia-biso
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mattia Biso'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mattia Biso
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mattia_Biso'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mattia_Biso
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mattia Biso
   publisher: calciocatania.com
@@ -34,19 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/42_mattia-biso.jpg
 image_credits:
-- image_path: 'assets/images/players/42_mattia-biso.jpg'
-  alt_text: "Ritratto del calciatore Mattia Biso in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/42_mattia-biso.jpg
+  alt_text: Ritratto del calciatore Mattia Biso in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/mattia-biso
+aliases:
+- mattia-biso
+- tesserati/mattia-biso
+- calciatori/mattia-biso
+birth_date: '1977-05-06'
+birth_place: Milano
+citizenship: Italia
 ---
+
 # Mattia Biso — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mattia Biso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/42_mattia-biso.jpg)
 *Ritratto del calciatore Mattia Biso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mattia Biso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mattia Biso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

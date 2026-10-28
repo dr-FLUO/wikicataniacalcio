@@ -15,13 +15,13 @@ catania_periods:
 - 1958-1959
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: "assets/images/allenatori/felice-borel.jpg"
+image: assets/images/allenatori/felice-borel.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/felice-borel.jpg"
-    alt_text: "Ritratto fotografico di Felice Borel allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/felice-borel.jpg
+  alt_text: Ritratto fotografico di Felice Borel allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-cinquanta
@@ -29,12 +29,12 @@ tags:
 - campione-del-mondo-1934
 - juventus
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Felice Borel"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Felice Borel
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Felice_Borel"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Felice_Borel
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/felice-borel
+- felice-borel
+- tesserati/felice-borel
+- allenatori/felice-borel
 ---
+
 
 
 # Felice Borel
@@ -79,7 +83,7 @@ Lavorò al fianco del giovane Carmelo Di Bella dalla 18ª alla 38ª giornata, co
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1958-1959|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

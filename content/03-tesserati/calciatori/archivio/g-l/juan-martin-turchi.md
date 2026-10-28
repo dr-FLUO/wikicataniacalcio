@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/juan-martin-turchi
+- juan-martin-turchi
+- tesserati/juan-martin-turchi
+- calciatori/juan-martin-turchi
 ---
+
 
 # Juan Martin Turchi — Scheda Giocatore nel Calcio Catania
 
-**Juan Martin Turchi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Juan Martin Turchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

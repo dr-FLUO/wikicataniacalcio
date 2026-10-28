@@ -40,13 +40,13 @@ aliases:
 
 # Antonino Speziale: Cronistoria Giudiziaria e Caso Processuale (2007-2020)
 
-La vicenda giudiziaria e umana di **Antonino Speziale** costituisce uno dei casi processuali e mediatici più dibattuti e complessi della storia giudiziaria italiana legata all'ordine pubblico negli stadi. Imputato minorenne all'epoca degli accadimenti per gli scontri del **2 febbraio 2007** all'esterno dello [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Speziale è stato condannato in via definitiva con sentenza passata in giudicato per il reato di **omicidio preterintenzionale** ([[tifoseria/eventi/scontri-2-febbraio-2007-raciti\|art. 584 c.p.]]) dell'Ispettore Capo della Polizia di Stato Filippo Raciti.
+La vicenda giudiziaria e umana di **Antonino Speziale** costituisce uno dei casi processuali e mediatici più dibattuti e complessi della storia giudiziaria italiana legata all'ordine pubblico negli stadi. Imputato minorenne all'epoca degli accadimenti per gli scontri del **2 febbraio 2007** all'esterno dello [[stadio/angelo-massimino|Stadio Angelo Massimino]], Speziale è stato condannato in via definitiva con sentenza passata in giudicato per il reato di **omicidio preterintenzionale** ([[tifoseria/eventi/scontri-2-febbraio-2007-raciti|art. 584 c.p.]]) dell'Ispettore Capo della Polizia di Stato Filippo Raciti.
 
 ---
 
 ## 1. Il Quadro Fattuale e l'Imputazione Penale
 
-Il **2 febbraio 2007**, durante i violentissimi scontri scoppiati all'esterno del settore Curva Nord prima, durante e dopo il derby di Serie A tra Catania e Palermo (presidenza [[societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]), l'Ispettore Filippo Raciti, in servizio di ordine pubblico al comando del X Reparto Mobile di Catania, riportò lesioni traumatiche interne gravissime che ne determinarono il decesso poche ore dopo presso il presidio ospedaliero Garibaldi di Catania.
+Il **2 febbraio 2007**, durante i violentissimi scontri scoppiati all'esterno del settore Curva Nord prima, durante e dopo il derby di Serie A tra Catania e Palermo (presidenza [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]), l'Ispettore Filippo Raciti, in servizio di ordine pubblico al comando del X Reparto Mobile di Catania, riportò lesioni traumatiche interne gravissime che ne determinarono il decesso poche ore dopo presso il presidio ospedaliero Garibaldi di Catania.
 
 All'indomani degli eventi, le indagini condotte dalla DIGOS e coordinate dalla Procura della Repubblica presso il Tribunale per i Minorenni di Catania portarono al fermo del diciassettenne Antonino Speziale (nato a Catania nel 1989):
 * **Capo d'imputazione**: omicidio preterintenzionale aggravato (artt. 584, 585 c.p.) e resistenza aggravata a pubblico ufficiale (art. 337 c.p.).
@@ -90,17 +90,17 @@ Antonino Speziale ha espiato interamente la condanna inflitta:
 
 I tragici eventi del 2 febbraio 2007 che videro il decesso dell'Ispettore Raciti e il successivo processo Speziale costituirono il detonatore della più radicale stretta legislativa in materia di sicurezza negli stadi mai varata in Italia:
 * Il Governo promulgò d'urgenza il **Decreto Legge 8 febbraio 2007, n. 8**, convertito con modificazioni nella **Legge 4 aprile 2007, n. 41** (nota come *Legge Amato*).
-* Introduzione del divieto di striscioni non autorizzati, inasprimento del [[tifoseria/eventi/daspo-ordine-pubblico-legislazione\|DASPO preventivo]], divieto di trasferta per le tifoserie a rischio, introduzione dei tornelli e dei biglietti nominativi e l'istituto dell'arresto in flagranza differita (art. 8 comma 1-ter Legge 401/1989).
+* Introduzione del divieto di striscioni non autorizzati, inasprimento del [[tifoseria/eventi/daspo-ordine-pubblico-legislazione|DASPO preventivo]], divieto di trasferta per le tifoserie a rischio, introduzione dei tornelli e dei biglietti nominativi e l'istituto dell'arresto in flagranza differita (art. 8 comma 1-ter Legge 401/1989).
 
 ---
 
 ## 6. Collegamenti e Voci Correlate
 
-* [[tifoseria/eventi/scontri-2-febbraio-2007-raciti\|Gli scontri del 2 febbraio 2007 e la morte dell'Ispettore Raciti]]
-* [[tifoseria/eventi/daspo-ordine-pubblico-legislazione\|L'evoluzione normativa del DASPO e la Legge 41/2007]]
-* [[tifoseria/curva-nord/origini-curva-nord\|La Curva Nord del Catania e le dinamiche ultras]]
-* [[stadio/angelo-massimino\|Lo Stadio Angelo Massimino (già Cibali)]]
-* [[societa/presidenti/antonino-pulvirenti\|La presidenza Pulvirenti durante la Serie A 2006-2007]]
+* [[tifoseria/eventi/scontri-2-febbraio-2007-raciti|Gli scontri del 2 febbraio 2007 e la morte dell'Ispettore Raciti]]
+* [[tifoseria/eventi/daspo-ordine-pubblico-legislazione|L'evoluzione normativa del DASPO e la Legge 41/2007]]
+* [[tifoseria/curva-nord/origini-curva-nord|La Curva Nord del Catania e le dinamiche ultras]]
+* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino (già Cibali)]]
+* [[societa/presidenti/antonino-pulvirenti|La presidenza Pulvirenti durante la Serie A 2006-2007]]
 
 ---
 

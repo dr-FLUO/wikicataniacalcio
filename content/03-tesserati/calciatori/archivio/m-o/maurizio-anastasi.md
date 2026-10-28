@@ -14,12 +14,12 @@ tags:
 - maurizio-anastasi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maurizio Anastasi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maurizio Anastasi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maurizio_Anastasi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maurizio_Anastasi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Maurizio Anastasi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/89_maurizio-anastasi.jpg
 image_credits:
-- image_path: 'assets/images/players/89_maurizio-anastasi.jpg'
-  alt_text: "Ritratto del calciatore Maurizio Anastasi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/89_maurizio-anastasi.jpg
+  alt_text: Ritratto del calciatore Maurizio Anastasi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/maurizio-anastasi
+- maurizio-anastasi
+- tesserati/maurizio-anastasi
+- calciatori/maurizio-anastasi
+birth_date: '1977-01-15'
+birth_place: Riposto
+citizenship: Italia
 ---
+
 # Maurizio Anastasi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Maurizio Anastasi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/89_maurizio-anastasi.jpg)
 *Ritratto del calciatore Maurizio Anastasi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Maurizio Anastasi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Anastasi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

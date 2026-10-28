@@ -14,12 +14,12 @@ tags:
 - arnaldo-cadei
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Arnaldo Cadei'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Arnaldo Cadei
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Arnaldo_Cadei'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Arnaldo_Cadei
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Arnaldo Cadei
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/arnaldo-cadei
+- arnaldo-cadei
+- tesserati/arnaldo-cadei
+- calciatori/arnaldo-cadei
 image_credits:
-- image_path: '/assets/images/calciatori/arnaldo-cadei.jpg'
-  alt_text: "Ritratto ufficiale di Arnaldo Cadei — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/arnaldo-cadei.jpg
+  alt_text: 'Ritratto ufficiale di Arnaldo Cadei — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1918-12-27'
+birth_place: Cologna Veneta
+citizenship: Italia
 ---
+
 # Arnaldo Cadei — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Arnaldo Cadei — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/arnaldo-cadei.jpg)
 *Ritratto ufficiale di Arnaldo Cadei — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Arnaldo Cadei — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Arnaldo Cadei** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Arnaldo Cadei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

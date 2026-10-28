@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/carlo-molon
+- carlo-molon
+- tesserati/carlo-molon
+- calciatori/carlo-molon
 ---
+
 
 # Carlo Molon — Scheda Giocatore nel Calcio Catania
 
-**Carlo Molon** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Carlo Molon** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

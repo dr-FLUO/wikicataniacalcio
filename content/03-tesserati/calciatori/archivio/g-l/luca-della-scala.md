@@ -14,12 +14,12 @@ tags:
 - luca-della-scala
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Luca Della Scala'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Luca Della Scala
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Luca_Della_Scala'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Luca_Della_Scala
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Luca Della Scala
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luca-della-scala
+- luca-della-scala
+- tesserati/luca-della-scala
+- calciatori/luca-della-scala
+birth_date: '1963-03-11'
+birth_place: Arezzo
+citizenship: Italia
 ---
+
 # Luca Della Scala — Scheda Giocatore nel Calcio Catania
 
-**Luca Della Scala** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Luca Della Scala** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - pietro-puzone
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pietro Puzone'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pietro Puzone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pietro_Puzone'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pietro_Puzone
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pietro Puzone
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/441_pietro-puzone.jpg
 image_credits:
-- image_path: 'assets/images/players/441_pietro-puzone.jpg'
-  alt_text: "Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/441_pietro-puzone.jpg
+  alt_text: Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/pietro-puzone
+- pietro-puzone
+- tesserati/pietro-puzone
+- calciatori/pietro-puzone
+birth_date: '1963-02-01'
+birth_place: Acerra
+citizenship: Italia
 ---
+
 # Pietro Puzone — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/441_pietro-puzone.jpg)
 *Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Pietro Puzone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Pietro Puzone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

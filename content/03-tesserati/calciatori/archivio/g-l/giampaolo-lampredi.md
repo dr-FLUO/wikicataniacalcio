@@ -14,12 +14,12 @@ tags:
 - giampaolo-lampredi
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giampaolo Lampredi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giampaolo Lampredi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giampaolo_Lampredi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giampaolo_Lampredi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giampaolo Lampredi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/628_giampaolo-lampredi.jpg
 image_credits:
-- image_path: 'assets/images/players/628_giampaolo-lampredi.jpg'
-  alt_text: "Ritratto del calciatore Giampaolo Lampredi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/628_giampaolo-lampredi.jpg
+  alt_text: Ritratto del calciatore Giampaolo Lampredi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giampaolo-lampredi
+- giampaolo-lampredi
+- tesserati/giampaolo-lampredi
+- calciatori/giampaolo-lampredi
+birth_date: '1940-05-13'
+birth_place: Piazzola sul Brenta
+citizenship: Italia
 ---
+
 # Giampaolo Lampredi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giampaolo Lampredi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/628_giampaolo-lampredi.jpg)
 *Ritratto del calciatore Giampaolo Lampredi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giampaolo Lampredi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giampaolo Lampredi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

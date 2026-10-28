@@ -20,27 +20,28 @@ total_goals: 1
 club_entities:
 - '[[societa/1929-ss-catania|Societ Sportiva Catania]]'
 image_credits:
-- image_path: 'https://commons.wikimedia.org'
-  alt_text: "Mario Miltone difensore della SS Catania negli anni Trenta"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: https://commons.wikimedia.org
+  alt_text: Mario Miltone difensore della SS Catania negli anni Trenta
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
-- image_path: '../../assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp'
-  alt_text: "Fotografia storica del difensore Mario Miltone con la casacca dell'Associazione Fascista Calcio Catania Solarino"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+  license_type: Creative Commons CC BY-SA 4.0
+- image_path: ../../assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp
+  alt_text: Fotografia storica del difensore Mario Miltone con la casacca dell'Associazione
+    Fascista Calcio Catania Solarino
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - calciatori
 - storia
 - difensori
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mario Miltone'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Miltone
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mario_Miltone'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mario_Miltone
+  reference: Dati anagrafici, carriera e presenze verificate
 - title: Tutto il Catania minuto per minuto
   author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
   publisher: GEO Edizioni, Empoli
@@ -59,7 +60,12 @@ sources:
   reference: Documentazione anagrafica e statistiche certificate
 aliases:
 - tesserati/calciatori/mario-miltone
+- mario-miltone
+- tesserati/mario-miltone
+- calciatori/mario-miltone
+citizenship: Italia
 ---
+
 # Mario Miltone (1934–1937)
 
 ![Fotografia storica del difensore Mario Miltone con la casacca dell'Associazione Fascista Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp)

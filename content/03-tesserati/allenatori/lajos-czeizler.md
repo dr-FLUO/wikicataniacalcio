@@ -15,13 +15,13 @@ catania_periods:
 - 1932-1933
 club_entities:
 - '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
-image: "assets/images/allenatori/lajos-czeizler.jpg"
+image: assets/images/allenatori/lajos-czeizler.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/lajos-czeizler.jpg"
-    alt_text: "Ritratto fotografico di Lajos Czeizler allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/lajos-czeizler.jpg
+  alt_text: Ritratto fotografico di Lajos Czeizler allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - anni-trenta
@@ -29,12 +29,12 @@ tags:
 - scuola-danubiana
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Lajos Czeizler"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Lajos Czeizler
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Lajos_Czeizler"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Lajos_Czeizler
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -48,7 +48,11 @@ sources:
   reference: Cronistoria ufficiale delle panchine e degli organici
 aliases:
 - tesserati/allenatori/lajos-czeizler
+- lajos-czeizler
+- tesserati/lajos-czeizler
+- allenatori/lajos-czeizler
 ---
+
 
 
 # Lajos Czeizler
@@ -79,7 +83,7 @@ A Catania Czeizler portò un rigore tattico senza precedenti e una concezione av
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1932-1933\|1932-1933]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[stagioni/1932-1933|1932-1933]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

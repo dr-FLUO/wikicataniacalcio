@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/antonino-belnome
+- antonino-belnome
+- tesserati/antonino-belnome
+- calciatori/antonino-belnome
 ---
+
 
 # Antonino Belnome — Scheda Giocatore nel Calcio Catania
 
-**Antonino Belnome** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Antonino Belnome** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

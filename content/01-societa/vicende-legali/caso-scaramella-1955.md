@@ -81,8 +81,8 @@ Al termine del torneo, tuttavia, il quotidiano *Stadio* e gli ispettori della **
 
 | Data | Organo Giudicante / Evento | Provvedimento e Motivazione Giuridica | Effetto Sportivo |
 | :--- | :--- | :--- | :--- |
-| **19 giugno 1955** | 34ª Giornata [[stagioni/1954-1955\|Serie A 1954-1955]] | Conclusione del campionato sul campo: il [[societa/1946-club-calcio-catania\|Club Calcio Catania]] di [[tesserati/allenatori/piero-andreoli\|Piero Andreoli]] chiude 12º con 30 punti. | Catania aritmeticamente salvo sul campo (+6 sulla zona retrocessione). |
-| **Luglio 1955** | Commissione di Controllo Lega Nazionale | Apertura dell'istruttoria formale in seguito al memoriale confessorio dell'arbitro Giuseppe Scaramella e alle indagini sull'intermediario avv. Giulio Galli. | Deferimento del [[societa/1946-club-calcio-catania\|Club Calcio Catania]] per illecito sportivo. |
+| **19 giugno 1955** | 34ª Giornata [[stagioni/1954-1955|Serie A 1954-1955]] | Conclusione del campionato sul campo: il [[societa/1946-club-calcio-catania|Club Calcio Catania]] di [[tesserati/allenatori/piero-andreoli|Piero Andreoli]] chiude 12º con 30 punti. | Catania aritmeticamente salvo sul campo (+6 sulla zona retrocessione). |
+| **Luglio 1955** | Commissione di Controllo Lega Nazionale | Apertura dell'istruttoria formale in seguito al memoriale confessorio dell'arbitro Giuseppe Scaramella e alle indagini sull'intermediario avv. Giulio Galli. | Deferimento del [[societa/1946-club-calcio-catania|Club Calcio Catania]] per illecito sportivo. |
 | **6 agosto 1955** | Commissione di Controllo Lega Nazionale (1º Grado) | Accertamento della responsabilità per illecito sportivo: condanna del Catania (e, in separato giudizio, dell'Udinese 2ª classificata) alla **retrocessione d'ufficio in Serie B**. | Declassamento del Catania all'ultimo posto della Serie A 1954-1955; radiazione a vita di Scaramella e dell'avv. Galli. |
 | **1º settembre 1955** | Commissione d'Appello Federale (CAF — 2º Grado) | Rigetto dell'appello presentato dalla difesa rossazzurra e conferma definitiva del dispositivo di primo grado con riformulazione degli organici federali. | **Retrocessione definitiva del Catania in Serie B 1955-1956**; ripescaggio in Serie A di Pro Patria e SPAL. |
 
@@ -92,7 +92,7 @@ Al termine del torneo, tuttavia, il quotidiano *Stadio* e gli ispettori della **
 
 | Soggetto Coinvolto | Qualifica all'Epoca dei Fatti | Sanzione Comminata dalla FIGC |
 | :--- | :--- | :--- |
-| **[[societa/1946-club-calcio-catania\|Club Calcio Catania]]** | Società affiliata (Matricola 11700) | **Retrocessione d'ufficio in Serie B** per la stagione 1955-1956 (annullamento del 12º posto ottenuto sul campo). |
+| **[[societa/1946-club-calcio-catania|Club Calcio Catania]]** | Società affiliata (Matricola 11700) | **Retrocessione d'ufficio in Serie B** per la stagione 1955-1956 (annullamento del 12º posto ottenuto sul campo). |
 | **Associazione Calcio Udinese** | Società affiliata (2ª classificata in Serie A 1954-55) | **Retrocessione d'ufficio in Serie B** per illecito sportivo relativo alla gara Udinese-Pro Patria del 17 maggio 1953. |
 | **Giuseppe "Ugo" Scaramella** | Arbitro effettivo AIA (Sezione di Roma) | **Preclusione a vita (radiazione)** da qualsiasi rango o categoria della FIGC. |
 | **Avv. Giulio Galli** | Intermediario | **Preclusione a vita (radiazione)** e divieto perpetuo di accesso agli impianti sportivi federali. |

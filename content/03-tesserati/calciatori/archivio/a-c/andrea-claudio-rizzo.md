@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/367_andrea-claudio-rizzo.jpg
 image_credits:
-- image_path: 'assets/images/players/367_andrea-claudio-rizzo.jpg'
-  alt_text: "Ritratto del calciatore Andrea Claudio Rizzo in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/367_andrea-claudio-rizzo.jpg
+  alt_text: Ritratto del calciatore Andrea Claudio Rizzo in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/andrea-claudio-rizzo
+- andrea-claudio-rizzo
+- tesserati/andrea-claudio-rizzo
+- calciatori/andrea-claudio-rizzo
 ---
+
 # Andrea Claudio Rizzo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Andrea Claudio Rizzo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/367_andrea-claudio-rizzo.jpg)
 *Ritratto del calciatore Andrea Claudio Rizzo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Andrea Claudio Rizzo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Andrea Claudio Rizzo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

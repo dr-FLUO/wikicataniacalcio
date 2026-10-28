@@ -14,12 +14,12 @@ tags:
 - giuseppe-scienza
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giuseppe Scienza'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giuseppe Scienza
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giuseppe_Scienza'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giuseppe_Scienza
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giuseppe Scienza
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/409_giuseppe-scienza.jpg
 image_credits:
-- image_path: 'assets/images/players/409_giuseppe-scienza.jpg'
-  alt_text: "Ritratto del calciatore Giuseppe Scienza in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/409_giuseppe-scienza.jpg
+  alt_text: Ritratto del calciatore Giuseppe Scienza in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/giuseppe-scienza
+- giuseppe-scienza
+- tesserati/giuseppe-scienza
+- calciatori/giuseppe-scienza
+birth_date: '1966-10-14'
+birth_place: Domodossola
+citizenship: Italia
 ---
+
 # Giuseppe Scienza — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Giuseppe Scienza in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/409_giuseppe-scienza.jpg)
 *Ritratto del calciatore Giuseppe Scienza in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Giuseppe Scienza** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Scienza** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/2_mariano-gonzalo--andujar.jpg
 image_credits:
-- image_path: 'assets/images/players/2_mariano-gonzalo--andujar.jpg'
-  alt_text: "Ritratto del calciatore Mariano Gonzalo  Andujar in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/2_mariano-gonzalo--andujar.jpg
+  alt_text: Ritratto del calciatore Mariano Gonzalo  Andujar in maglia rossazzurra
+    del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mariano-gonzalo-andujar
+- mariano-gonzalo-andujar
+- tesserati/mariano-gonzalo-andujar
+- calciatori/mariano-gonzalo-andujar
 ---
+
 # Mariano Gonzalo  Andujar — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mariano Gonzalo  Andujar in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/2_mariano-gonzalo--andujar.jpg)
 *Ritratto del calciatore Mariano Gonzalo  Andujar in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mariano Gonzalo  Andujar** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Mariano Gonzalo  Andujar** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

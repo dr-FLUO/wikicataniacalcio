@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giampaolo-imperi
+- giampaolo-imperi
+- tesserati/giampaolo-imperi
+- calciatori/giampaolo-imperi
 ---
+
 
 # Giampaolo Imperi — Scheda Giocatore nel Calcio Catania
 
-**Giampaolo Imperi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Giampaolo Imperi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

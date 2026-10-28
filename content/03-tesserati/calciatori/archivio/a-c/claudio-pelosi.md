@@ -14,12 +14,12 @@ tags:
 - claudio-pelosi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Claudio Pelosi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Claudio Pelosi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Claudio_Pelosi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Claudio_Pelosi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Claudio Pelosi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/365_claudio-pelosi.jpg
 image_credits:
-- image_path: 'assets/images/players/365_claudio-pelosi.jpg'
-  alt_text: "Ritratto del calciatore Claudio Pelosi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/365_claudio-pelosi.jpg
+  alt_text: Ritratto del calciatore Claudio Pelosi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/claudio-pelosi
+- claudio-pelosi
+- tesserati/claudio-pelosi
+- calciatori/claudio-pelosi
+birth_date: '1966-05-29'
+birth_place: Cantù
+citizenship: Italia
 ---
+
 # Claudio Pelosi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Claudio Pelosi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/365_claudio-pelosi.jpg)
 *Ritratto del calciatore Claudio Pelosi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Claudio Pelosi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Claudio Pelosi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

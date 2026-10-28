@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-giuffrida
+- giuseppe-giuffrida
+- tesserati/giuseppe-giuffrida
+- calciatori/giuseppe-giuffrida
 ---
+
 
 # Giuseppe Giuffrida — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Giuffrida** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Giuffrida** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - gino-peruzzi
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Gino Peruzzi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Gino Peruzzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Gino_Peruzzi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Gino_Peruzzi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Gino Peruzzi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/801_gino-peruzzi.jpg
 image_credits:
-- image_path: 'assets/images/players/801_gino-peruzzi.jpg'
-  alt_text: "Ritratto del calciatore Gino Peruzzi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/801_gino-peruzzi.jpg
+  alt_text: Ritratto del calciatore Gino Peruzzi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/gino-peruzzi
+- gino-peruzzi
+- tesserati/gino-peruzzi
+- calciatori/gino-peruzzi
+birth_date: '1992-06-09'
+birth_place: Córdoba
+citizenship: Italia
 ---
+
 # Gino Peruzzi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Gino Peruzzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/801_gino-peruzzi.jpg)
 *Ritratto del calciatore Gino Peruzzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Gino Peruzzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Gino Peruzzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

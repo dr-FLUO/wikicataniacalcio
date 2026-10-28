@@ -27,12 +27,12 @@ tags:
 - serie-c
 - austria
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Engelbert König'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Engelbert König
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Engelbert_Koenig'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Engelbert_Koenig
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -46,7 +46,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/engelbert-koenig
+- engelbert-koenig
+- tesserati/engelbert-koenig
+- calciatori/engelbert-koenig
 ---
+
 # Engelbert Koenig
 
 **Engelbert Koenig** (Vienna, 18 ottobre 1919 – Vienna, 23 novembre 1997) è stato un calciatore austriaco, nel ruolo di centravanti. Approdato in Italia durante la guerra, fu ingaggiato dall'AFC Catania per la stagione di Serie C **1941-1942**.
@@ -72,7 +76,7 @@ Schierato titolare inamovibile al centro dell'attacco dall'allenatore ungherese 
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1941-1942) | 23 | 18 | Attaccante / Centravanti | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
+| Campionato (1941-1942) | 23 | 18 | Attaccante / Centravanti | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
 | **Totale Complessivo** | **23** | **18** | — | — |
 
 ---

@@ -23,14 +23,16 @@ total_goals: 6
 club_entities:
 - '[[societa/1929-ss-catania|Societ Sportiva Catania]]'
 image_credits:
-- image_path: '/assets/images/calciatori/amedeo-biavati.jpg'
-  alt_text: "Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Solarino"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/amedeo-biavati.jpg
+  alt_text: 'Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza
+    termini dautore) — Crediti: Wikimedia Commons Contributors Solarino'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 sources:
-- author: 'Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino'
-  title: 'Tutto il Catania minuto per minuto (1929-2010)'
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori, cronache e tabellini ufficiali
@@ -47,7 +49,12 @@ sources:
   reference: Documentazione anagrafica e statistiche certificate
 aliases:
 - tesserati/calciatori/amedeo-biavati
+- amedeo-biavati
+- tesserati/amedeo-biavati
+- calciatori/amedeo-biavati
+citizenship: Regno d'Italia
 ---
+
 # Amedeo Biavati (1935–1937)
 
 ![Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/amedeo-biavati.jpg)

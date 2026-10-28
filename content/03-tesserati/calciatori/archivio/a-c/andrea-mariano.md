@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-mariano
+- andrea-mariano
+- tesserati/andrea-mariano
+- calciatori/andrea-mariano
 ---
+
 
 # Andrea Mariano — Scheda Giocatore nel Calcio Catania
 
-**Andrea Mariano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Andrea Mariano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giacomo-calcara
+- giacomo-calcara
+- tesserati/giacomo-calcara
+- calciatori/giacomo-calcara
 ---
+
 
 # Giacomo Calcara — Scheda Giocatore nel Calcio Catania
 
-**Giacomo Calcara** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Giacomo Calcara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

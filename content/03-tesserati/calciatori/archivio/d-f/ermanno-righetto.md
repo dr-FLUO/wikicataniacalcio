@@ -14,12 +14,12 @@ tags:
 - ermanno-righetto
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ermanno Righetto'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ermanno Righetto
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ermanno_Righetto'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ermanno_Righetto
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ermanno Righetto
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/ermanno-righetto
+- ermanno-righetto
+- tesserati/ermanno-righetto
+- calciatori/ermanno-righetto
+birth_date: '1932-03-09'
+birth_place: Genova
+citizenship: Italia
 ---
+
 # Ermanno Righetto — Scheda Giocatore nel Calcio Catania
 
-**Ermanno Righetto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Ermanno Righetto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

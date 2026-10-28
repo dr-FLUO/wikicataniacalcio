@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pietro-varriale
+- pietro-varriale
+- tesserati/pietro-varriale
+- calciatori/pietro-varriale
 ---
+
 
 # Pietro Varriale — Scheda Giocatore nel Calcio Catania
 
-**Pietro Varriale** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Pietro Varriale** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

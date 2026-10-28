@@ -64,11 +64,11 @@ Nel corso degli anni Duemiladieci il legame tra Catania e Napoli ha superato i c
 
 | Anno / Evento | Contesto Storico | Episodio Simbolo dell'Alleanza Catania-Napoli |
 | :--- | :--- | :--- |
-| **2009** | Campionati di Serie A ([[societa/2004-era-pulvirenti\|Era Pulvirenti]]) | Primi scambi ufficiali di visite e striscioni di rispetto tra le curve dello [[stadio/angelo-massimino\|Stadio Massimino]] e la **Curva A** del San Paolo. |
-| **2013–2014** | Sfide di Champions League e Serie A | Consolidamento del ponte internazionale **Catania–Napoli–[[tifoseria/gemellaggi/borussia-dortmund\|Borussia Dortmund]]** con ospitalità congiunte tra Sicilia, Campania e Germania. |
+| **2009** | Campionati di Serie A ([[societa/2004-era-pulvirenti|Era Pulvirenti]]) | Primi scambi ufficiali di visite e striscioni di rispetto tra le curve dello [[stadio/angelo-massimino|Stadio Massimino]] e la **Curva A** del San Paolo. |
+| **2013–2014** | Sfide di Champions League e Serie A | Consolidamento del ponte internazionale **Catania–Napoli–[[tifoseria/gemellaggi/borussia-dortmund|Borussia Dortmund]]** con ospitalità congiunte tra Sicilia, Campania e Germania. |
 | **Maggio 2014** | Finale di Coppa Italia a Roma e scomparsa di Ciro Esposito | Cordoglio e striscioni di vicinanza esposti dalle curve catanesi per il giovane tifoso partenopeo. |
-| **Febbraio 2017** | Scomparsa dello storico leader etneo [[tifoseria/biografie/ciccio-famoso\|Francesco "Ciccio" Famoso]] | Delegazioni degli ultras napoletani presenti ai funerali a Catania e striscioni di omaggio esposti nelle curve del San Paolo. |
-| **2022–2024** | Rinascita del [[societa/2022-pelligra-catania-fc\|Catania SSD / Catania FC]] e trasferte in Campania | Presenza costante di rappresentanze della Curva A napoletana a fianco dei gruppi etnei nelle gare disputate dal Catania nel Sud Italia. |
+| **Febbraio 2017** | Scomparsa dello storico leader etneo [[tifoseria/biografie/ciccio-famoso|Francesco "Ciccio" Famoso]] | Delegazioni degli ultras napoletani presenti ai funerali a Catania e striscioni di omaggio esposti nelle curve del San Paolo. |
+| **2022–2024** | Rinascita del [[societa/2022-pelligra-catania-fc|Catania SSD / Catania FC]] e trasferte in Campania | Presenza costante di rappresentanze della Curva A napoletana a fianco dei gruppi etnei nelle gare disputate dal Catania nel Sud Italia. |
 
 Anche durante il decennio trascorso dal Catania lontano dalla massima serie (dalla retrocessione d'ufficio del 2015 per [[vicende-legali/treni-del-gol-2015|I Treni del Gol]] fino alla ripartenza dalla [[stagioni/2022-2023|Serie D 2022-2023]]), il legame con gli ultras partenopei si è mantenuto saldo e attivo in ogni occasione d'incontro.
 

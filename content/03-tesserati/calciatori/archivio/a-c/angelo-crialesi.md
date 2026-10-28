@@ -14,12 +14,12 @@ tags:
 - angelo-crialesi
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Angelo Crialesi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Angelo Crialesi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Angelo_Crialesi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Angelo_Crialesi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Angelo Crialesi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/471_angelo-crialesi.jpg
 image_credits:
-- image_path: 'assets/images/players/471_angelo-crialesi.jpg'
-  alt_text: "Ritratto del calciatore Angelo Crialesi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/471_angelo-crialesi.jpg
+  alt_text: Ritratto del calciatore Angelo Crialesi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/angelo-crialesi
+- angelo-crialesi
+- tesserati/angelo-crialesi
+- calciatori/angelo-crialesi
+birth_date: '1958-01-11'
+birth_place: Roviano
+citizenship: Italia
 ---
+
 # Angelo Crialesi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Angelo Crialesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/471_angelo-crialesi.jpg)
 *Ritratto del calciatore Angelo Crialesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Angelo Crialesi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Angelo Crialesi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

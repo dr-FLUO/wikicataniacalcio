@@ -14,12 +14,12 @@ tags:
 - maks-barišič
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Maks Barišič'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Maks Barišič
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Maks_Bari%C5%A1i%C4%8D'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Maks_Bari%C5%A1i%C4%8D
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Maks Barišič
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/841_maks-barii.jpg
 image_credits:
-- image_path: 'assets/images/players/841_maks-barii.jpg'
-  alt_text: "Ritratto del calciatore Maks Barišič in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/841_maks-barii.jpg
+  alt_text: Ritratto del calciatore Maks Barišič in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/maks-barišič
+- maks-barišič
+- tesserati/maks-barišič
+- calciatori/maks-barišič
+birth_date: '1995-03-06'
+birth_place: Capodistria
+citizenship: Slovenia
 ---
+
 # Maks Barišič — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Maks Barišič in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/841_maks-barii.jpg)
 *Ritratto del calciatore Maks Barišič in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Maks Barišič** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Maks Barišič** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

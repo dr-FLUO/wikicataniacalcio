@@ -28,19 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/303_rocco-macr.jpg
 image_credits:
-- image_path: 'assets/images/players/303_rocco-macr.jpg'
-  alt_text: "Ritratto del calciatore Rocco Macrì in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/303_rocco-macr.jpg
+  alt_text: Ritratto del calciatore Rocco Macrì in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/rocco-macrì
+aliases:
+- rocco-macrì
+- tesserati/rocco-macrì
+- calciatori/rocco-macrì
 ---
+
 # Rocco Macrì — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Rocco Macrì in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/303_rocco-macr.jpg)
 *Ritratto del calciatore Rocco Macrì in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Rocco Macrì** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Rocco Macrì** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

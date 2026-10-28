@@ -37,8 +37,8 @@ Fondata il **16 giugno 1979** dall'editore Mario Ciancio Sanfilippo, ***Antenna 
 
 ## 1. La Nascita del Brand e la Sinergia Multimediale
 
-Inserita nel gruppo editoriale del quotidiano [[media/testate/la-sicilia\|La Sicilia]], Antenna Sicilia ha garantito sin dalle sue origini una copertura capillare del Calcio Catania:
-* Gli inviati della redazione sportiva del quotidiano garantivano collegamenti immediati e analisi esclusive fin dai primi minuti successivi alla conclusione dei match al [[stadio/angelo-massimino\|Massimino]].
+Inserita nel gruppo editoriale del quotidiano [[media/testate/la-sicilia|La Sicilia]], Antenna Sicilia ha garantito sin dalle sue origini una copertura capillare del Calcio Catania:
+* Gli inviati della redazione sportiva del quotidiano garantivano collegamenti immediati e analisi esclusive fin dai primi minuti successivi alla conclusione dei match al [[stadio/angelo-massimino|Massimino]].
 * I servizi filmati delle gare di campionato e di Coppa Italia venivano montati in tempi record presso gli studi di Viale Odorico da Pordenone a Catania, alimentando le edizioni del TG Sicilia delle 19:30 e delle 20:30.
 
 ---
@@ -53,10 +53,10 @@ La trasmissione domenicale ***Salastampa***, nata agli albori degli anni Ottanta
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index\|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia\|La Sicilia: Il quotidiano storico di riferimento]]
-* [[media/testate/telecolor\|Telecolor e la concorrenza costruttiva dell'emittenza privata]]
-* [[stadio/angelo-massimino\|Lo Stadio Angelo Massimino]]
+* [[media/index|Portale Media ed Informazione Rossazzurra]]
+* [[media/testate/la-sicilia|La Sicilia: Il quotidiano storico di riferimento]]
+* [[media/testate/telecolor|Telecolor e la concorrenza costruttiva dell'emittenza privata]]
+* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino]]
 
 ---
 

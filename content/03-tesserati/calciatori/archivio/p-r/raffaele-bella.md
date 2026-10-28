@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/raffaele-bella
+- raffaele-bella
+- tesserati/raffaele-bella
+- calciatori/raffaele-bella
 ---
+
 
 # Raffaele Bella — Scheda Giocatore nel Calcio Catania
 
-**Raffaele Bella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Raffaele Bella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

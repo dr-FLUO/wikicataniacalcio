@@ -27,12 +27,12 @@ tags:
 - promozione-serie-b
 - era-gaucci
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Eddy Baggio'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Eddy Baggio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Eddy_Baggio'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Eddy_Baggio
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Baggio-99
 aliases:
 - tesserati/calciatori/eddy-baggio
+- eddy-baggio
+- tesserati/eddy-baggio
+- calciatori/eddy-baggio
+citizenship: Italia
+seasons_count: 3
 ---
+
 # Eddy Baggio
 
 **Eddy Baggio** (Caldogno, 23 agosto 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **2001** dall'Ancona, fu il cecchino micidiale e il trascinatore assoluto della [[stagioni/2001-2002|Stagione 2001-2002]], conclusasi il 9 giugno 2002 a Taranto con il tanto agognato ritorno in **Serie B** dopo 15 anni di attesa.
@@ -73,7 +79,7 @@ Tra i suoi capolavori etnei si ricordano il gol capolavoro nella semifinale di r
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (2001-2002) | 31 | 18 | Attaccante / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
+| Campionato (2001-2002) | 31 | 18 | Attaccante / Centravanti | [[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]] |
 | Coppe Nazionali / Spareggi | 5 | 2 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **36** | **20** | — | — |
 

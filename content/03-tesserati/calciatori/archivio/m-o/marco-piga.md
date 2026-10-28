@@ -14,12 +14,12 @@ tags:
 - marco-piga
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Marco Piga'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Marco Piga
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Marco_Piga'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Marco_Piga
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Marco Piga
   publisher: calciocatania.com
@@ -34,19 +34,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/513_marco-piga.jpg
 image_credits:
-- image_path: 'assets/images/players/513_marco-piga.jpg'
-  alt_text: "Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Fotografico CalcioCatania.com'
+- image_path: assets/images/players/513_marco-piga.jpg
+  alt_text: Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - tesserati/calciatori/marco-piga
+aliases:
+- marco-piga
+- tesserati/marco-piga
+- calciatori/marco-piga
+birth_date: '1956-05-29'
+birth_place: Palau
+citizenship: Italia
 ---
+
 # Marco Piga — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/513_marco-piga.jpg)
 *Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Marco Piga** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Marco Piga** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

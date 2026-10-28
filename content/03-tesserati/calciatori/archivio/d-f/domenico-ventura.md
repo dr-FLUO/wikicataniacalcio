@@ -14,12 +14,12 @@ tags:
 - domenico-ventura
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Domenico Ventura'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Domenico Ventura
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Domenico_Ventura_(allenatore_di_calcio)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Domenico_Ventura_(allenatore_di_calcio)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Domenico Ventura
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/535_domenico-ventura.jpg
 image_credits:
-- image_path: 'assets/images/players/535_domenico-ventura.jpg'
-  alt_text: "Ritratto del calciatore Domenico Ventura in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/535_domenico-ventura.jpg
+  alt_text: Ritratto del calciatore Domenico Ventura in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/domenico-ventura
+- domenico-ventura
+- tesserati/domenico-ventura
+- calciatori/domenico-ventura
+birth_date: '1949-06-07'
+birth_place: Catania
+citizenship: Italia
 ---
+
 # Domenico Ventura — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Domenico Ventura in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/535_domenico-ventura.jpg)
 *Ritratto del calciatore Domenico Ventura in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Domenico Ventura** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Domenico Ventura** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/stefano-codraro
+- stefano-codraro
+- tesserati/stefano-codraro
+- calciatori/stefano-codraro
 ---
+
 
 # Stefano Codraro — Scheda Giocatore nel Calcio Catania
 
-**Stefano Codraro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Stefano Codraro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

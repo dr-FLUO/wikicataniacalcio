@@ -36,14 +36,18 @@ image_credits:
 aliases:
 - tesserati/calciatori/matteo-di-gennaro
 - 03-tesserati/calciatori/archivio/m-o/matteo-di-gennaro
+- matteo-di-gennaro
+- tesserati/matteo-di-gennaro
+- calciatori/matteo-di-gennaro
 current_squad: true
 ---
+
 # Matteo Di Gennaro — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Matteo Di Gennaro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1081_matteo-di-gennaro.png)
 *Ritratto del calciatore Matteo Di Gennaro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Matteo Di Gennaro** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Matteo Di Gennaro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

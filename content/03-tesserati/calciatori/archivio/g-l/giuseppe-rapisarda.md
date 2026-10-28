@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giuseppe-rapisarda
+- giuseppe-rapisarda
+- tesserati/giuseppe-rapisarda
+- calciatori/giuseppe-rapisarda
 ---
+
 
 # Giuseppe Rapisarda — Scheda Giocatore nel Calcio Catania
 
-**Giuseppe Rapisarda** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giuseppe Rapisarda** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

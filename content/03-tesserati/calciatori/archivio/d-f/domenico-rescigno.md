@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/domenico-rescigno
+- domenico-rescigno
+- tesserati/domenico-rescigno
+- calciatori/domenico-rescigno
 ---
+
 
 # Domenico Rescigno — Scheda Giocatore nel Calcio Catania
 
-**Domenico Rescigno** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Domenico Rescigno** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

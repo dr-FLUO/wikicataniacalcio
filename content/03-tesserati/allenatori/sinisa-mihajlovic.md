@@ -18,13 +18,13 @@ league_matches: 23
 serie_a_matches: 23
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: "assets/images/allenatori/sinisa-mihajlovic.jpg"
+image: assets/images/allenatori/sinisa-mihajlovic.jpg
 image_credits:
-  - image_path: "assets/images/allenatori/sinisa-mihajlovic.jpg"
-    alt_text: "Ritratto fotografico di Siniša Mihajlović allenatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/sinisa-mihajlovic.jpg
+  alt_text: Ritratto fotografico di Siniša Mihajlović allenatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 tags:
 - allenatori
 - serie-a
@@ -32,12 +32,12 @@ tags:
 - catania-inter-3-1
 - hall-of-fame
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Siniša Mihajlović"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Siniša Mihajlović
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87"
-  reference: "Dati anagrafici, carriera e statistiche tecniche"
+  url: https://it.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87
+  reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Lega Nazionale Professionisti Serie A
   title: Archivio Statistico Ufficiale Serie A TIM 2009-2010 — Rendimento Allenatori
     Calcio Catania
@@ -64,7 +64,11 @@ cover_caption: Siniša Mihajlović, tecnico del Catania nella prodigiosa cavalca
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/allenatori/sinisa-mihajlovic
+- sinisa-mihajlovic
+- tesserati/sinisa-mihajlovic
+- allenatori/sinisa-mihajlovic
 ---
+
 
 
 # Siniša Mihajlović
@@ -119,13 +123,13 @@ Il **24 maggio 2010**, dopo aver centrato la salvezza e fatto innamorare la piaz
 
 | Data | Giornata | Incontro | Risultato | Marcatori Rossazzurri | Valore Storico e d'Impatto |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| **20 dicembre 2009** | 17ª Giornata | **Juventus - Catania** | **1-2** | [[tesserati/calciatori/jorge-martinez\|Martínez]] (23' rig.), [[tesserati/calciatori/mariano-izco\|Izco]] (87') | **Prima vittoria a Torino sulla Juventus dopo quasi 47 anni** (dal 1963). |
-| **6 gennaio 2010** | 18ª Giornata | **Catania - Bologna** | **1-0** | Spolli (32') | Primo successo casalingo dell'era Mihajlović al [[stadio/angelo-massimino\|Massimino]]. |
-| **7 febbraio 2010** | 23ª Giornata | **Lazio - Catania** | **0-1** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (63') | 1º gol del centravanti argentino e vittoria all'Olimpico di Roma. |
-| **27 febbraio 2010** | 26ª Giornata | **Catania - Bari** | **4-0** | Ricchiuti (4'), Llama (40'), Morimoto (81'), [[tesserati/calciatori/jorge-martinez\|Martínez]] (91') | Più larga vittoria stagionale interna in Serie A. |
-| **12 marzo 2010** | 28ª Giornata | **[[partite/precedenti/inter\|Catania - Inter]]** | **3-1** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (74'), [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (81' rig.), [[tesserati/calciatori/jorge-martinez\|Martínez]] (90') | **Trionfo storico contro l'Inter del Triplete di José Mourinho.** |
-| **3 aprile 2010** | 32ª Giornata | **[[partite/precedenti/palermo\|Catania - Palermo]]** | **2-0** | [[tesserati/calciatori/maxi-lopez\|Maxi López]] (14', 32') | **Vittoria netta nel Derby di Sicilia al Massimino.** |
-| **2 maggio 2010** | 36ª Giornata | **Catania - Juventus** | **1-1** | [[tesserati/calciatori/jorge-martinez\|Martínez]] (24') | 4º punto stagionale conquistato contro i bianconeri. |
+| **20 dicembre 2009** | 17ª Giornata | **Juventus - Catania** | **1-2** | [[tesserati/calciatori/jorge-martinez|Martínez]] (23' rig.), [[tesserati/calciatori/mariano-izco|Izco]] (87') | **Prima vittoria a Torino sulla Juventus dopo quasi 47 anni** (dal 1963). |
+| **6 gennaio 2010** | 18ª Giornata | **Catania - Bologna** | **1-0** | Spolli (32') | Primo successo casalingo dell'era Mihajlović al [[stadio/angelo-massimino|Massimino]]. |
+| **7 febbraio 2010** | 23ª Giornata | **Lazio - Catania** | **0-1** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (63') | 1º gol del centravanti argentino e vittoria all'Olimpico di Roma. |
+| **27 febbraio 2010** | 26ª Giornata | **Catania - Bari** | **4-0** | Ricchiuti (4'), Llama (40'), Morimoto (81'), [[tesserati/calciatori/jorge-martinez|Martínez]] (91') | Più larga vittoria stagionale interna in Serie A. |
+| **12 marzo 2010** | 28ª Giornata | **[[partite/precedenti/inter|Catania - Inter]]** | **3-1** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (74'), [[tesserati/calciatori/giuseppe-mascara|Mascara]] (81' rig.), [[tesserati/calciatori/jorge-martinez|Martínez]] (90') | **Trionfo storico contro l'Inter del Triplete di José Mourinho.** |
+| **3 aprile 2010** | 32ª Giornata | **[[partite/precedenti/palermo|Catania - Palermo]]** | **2-0** | [[tesserati/calciatori/maxi-lopez|Maxi López]] (14', 32') | **Vittoria netta nel Derby di Sicilia al Massimino.** |
+| **2 maggio 2010** | 36ª Giornata | **Catania - Juventus** | **1-1** | [[tesserati/calciatori/jorge-martinez|Martínez]] (24') | 4º punto stagionale conquistato contro i bianconeri. |
 
 ---
 

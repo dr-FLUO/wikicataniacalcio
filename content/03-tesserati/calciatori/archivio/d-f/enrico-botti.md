@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/enrico-botti
+- enrico-botti
+- tesserati/enrico-botti
+- calciatori/enrico-botti
 ---
+
 
 # Enrico Botti — Scheda Giocatore nel Calcio Catania
 
-**Enrico Botti** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Enrico Botti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rosario-fichera
+- rosario-fichera
+- tesserati/rosario-fichera
+- calciatori/rosario-fichera
 ---
+
 
 # Rosario Fichera — Scheda Giocatore nel Calcio Catania
 
-**Rosario Fichera** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Rosario Fichera** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - silvio-zanon
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Silvio Zanon'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Silvio Zanon
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Silvio_Zanon'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Silvio_Zanon
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Silvio Zanon
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/silvio-zanon
+- silvio-zanon
+- tesserati/silvio-zanon
+- calciatori/silvio-zanon
+birth_date: '1944-04-25'
+birth_place: Villafranca di Verona
+citizenship: Italia
 ---
+
 # Silvio Zanon — Scheda Giocatore nel Calcio Catania
 
-**Silvio Zanon** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Silvio Zanon** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

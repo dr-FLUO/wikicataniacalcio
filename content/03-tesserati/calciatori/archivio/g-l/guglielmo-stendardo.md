@@ -14,12 +14,12 @@ tags:
 - guglielmo-stendardo
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Guglielmo Stendardo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Guglielmo Stendardo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Guglielmo_Stendardo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Guglielmo_Stendardo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Guglielmo Stendardo
   publisher: calciocatania.com
@@ -33,21 +33,29 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/147_guglielmo-stendardo.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/guglielmo-stendardo.jpg'
-  alt_text: "Ritratto ufficiale di Guglielmo Stendardo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/guglielmo-stendardo.jpg
+  alt_text: 'Ritratto ufficiale di Guglielmo Stendardo — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/guglielmo-stendardo
+- guglielmo-stendardo
+- tesserati/guglielmo-stendardo
+- calciatori/guglielmo-stendardo
+birth_date: '1981-05-06'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Guglielmo Stendardo — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Guglielmo Stendardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/guglielmo-stendardo.jpg)
 *Ritratto ufficiale di Guglielmo Stendardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Guglielmo Stendardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Guglielmo Stendardo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Guglielmo Stendardo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

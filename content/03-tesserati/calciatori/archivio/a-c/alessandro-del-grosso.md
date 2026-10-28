@@ -14,12 +14,12 @@ tags:
 - alessandro-del-grosso
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Alessandro Del Grosso'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Del Grosso
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Alessandro_Del_Grosso'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Alessandro_Del_Grosso
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Alessandro Del Grosso
   publisher: calciocatania.com
@@ -34,20 +34,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/alessandro-del-grosso
+- alessandro-del-grosso
+- tesserati/alessandro-del-grosso
+- calciatori/alessandro-del-grosso
 image_credits:
-- image_path: '/assets/images/calciatori/alessandro-del-grosso.jpg'
-  alt_text: "Ritratto ufficiale di Alessandro Del Grosso — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: "Wikimedia Commons Contributors"
+- image_path: /assets/images/calciatori/alessandro-del-grosso.jpg
+  alt_text: 'Ritratto ufficiale di Alessandro Del Grosso — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
+birth_date: '1972-08-27'
+birth_place: Ardea
+citizenship: Italia
 ---
+
 # Alessandro Del Grosso — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Alessandro Del Grosso — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alessandro-del-grosso.jpg)
 *Ritratto ufficiale di Alessandro Del Grosso — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 *Ritratto ufficiale di Alessandro Del Grosso — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Alessandro Del Grosso** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alessandro Del Grosso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

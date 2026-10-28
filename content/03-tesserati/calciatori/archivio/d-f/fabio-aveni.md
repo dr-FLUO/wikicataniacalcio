@@ -28,20 +28,27 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/845_fabio-aveni.jpg
 image_credits:
-- image_path: 'assets/images/players/845_fabio-aveni.jpg'
-  alt_text: "Ritratto del calciatore Fabio Aveni in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/845_fabio-aveni.jpg
+  alt_text: Ritratto del calciatore Fabio Aveni in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/fabio-aveni
+- fabio-aveni
+- tesserati/fabio-aveni
+- calciatori/fabio-aveni
+birth_date: '1994-05-24'
+birth_place: Barcellona Pozzo di Gotto
+citizenship: Italia
 ---
+
 # Fabio Aveni — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Fabio Aveni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/845_fabio-aveni.jpg)
 *Ritratto del calciatore Fabio Aveni in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Fabio Aveni** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Fabio Aveni** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

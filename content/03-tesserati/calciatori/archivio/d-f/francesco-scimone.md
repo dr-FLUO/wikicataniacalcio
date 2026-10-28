@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-scimone
+- francesco-scimone
+- tesserati/francesco-scimone
+- calciatori/francesco-scimone
 ---
+
 
 # Francesco Scimone — Scheda Giocatore nel Calcio Catania
 
-**Francesco Scimone** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Francesco Scimone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

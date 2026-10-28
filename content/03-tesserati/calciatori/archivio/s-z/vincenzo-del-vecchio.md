@@ -14,12 +14,12 @@ tags:
 - vincenzo-del-vecchio
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Vincenzo Del Vecchio'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Vincenzo Del Vecchio
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Vincenzo_Del_Vecchio'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Vincenzo_Del_Vecchio
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Vincenzo Del Vecchio
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/300_vincenzo-del-vecchio.jpg
 image_credits:
-- image_path: 'assets/images/players/300_vincenzo-del-vecchio.jpg'
-  alt_text: "Ritratto del calciatore Vincenzo Del Vecchio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/300_vincenzo-del-vecchio.jpg
+  alt_text: Ritratto del calciatore Vincenzo Del Vecchio in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/vincenzo-del-vecchio
+- vincenzo-del-vecchio
+- tesserati/vincenzo-del-vecchio
+- calciatori/vincenzo-del-vecchio
+birth_date: '1966-01-06'
+birth_place: Napoli
+citizenship: Italia
 ---
+
 # Vincenzo Del Vecchio — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Vincenzo Del Vecchio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/300_vincenzo-del-vecchio.jpg)
 *Ritratto del calciatore Vincenzo Del Vecchio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Vincenzo Del Vecchio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Vincenzo Del Vecchio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

@@ -1,50 +1,56 @@
 ---
-title: "Tomáš Košický — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Tomáš Košický, portiere del Calcio Catania con 43 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/g-l/tomas-kosicky"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Portiere"
-birth_date: "1986-03-11"
-birth_place: "Bratislava, Slovacchia"
-death_date: ""
-nationality: "Slovacchia"
+title: Tomáš Košický — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Tomáš Košický, portiere
+  del Calcio Catania con 43 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/g-l/tomas-kosicky
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Portiere
+birth_date: '1986-03-11'
+birth_place: Bratislava, Slovacchia
+death_date: ''
+nationality: Slovacchia
 total_appearances: 43
 seasons_count: 4
 tags:
-  - "calciatori"
-  - "tomas-kosicky"
-  - "portiere"
+- calciatori
+- tomas-kosicky
+- portiere
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Tomáš Košický"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Tomáš Košický
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp
 image_credits:
-  - image_path: "assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp"
-    alt_text: "Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp
+  alt_text: Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/tomas-kosicky"
-  - "tomas-kosicky"
+- tesserati/calciatori/tomas-kosicky
+- tomas-kosicky
+- tesserati/tomas-kosicky
+- calciatori/tomas-kosicky
+citizenship: Slovacchia
 ---
+
 # Tomáš Košický — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp)
 *Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Tomáš Košický** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Tomáš Košický** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ## Biografia e Profilo Tecnico
 

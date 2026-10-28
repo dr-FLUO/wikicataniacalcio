@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-ripa
+- francesco-ripa
+- tesserati/francesco-ripa
+- calciatori/francesco-ripa
 ---
+
 
 # Francesco Ripa — Scheda Giocatore nel Calcio Catania
 
-**Francesco Ripa** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Francesco Ripa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

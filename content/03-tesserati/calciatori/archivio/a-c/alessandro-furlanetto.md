@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/260_alessandro-furlanetto.jpg
 image_credits:
-- image_path: 'assets/images/players/260_alessandro-furlanetto.jpg'
-  alt_text: "Ritratto del calciatore Alessandro Furlanetto in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/260_alessandro-furlanetto.jpg
+  alt_text: Ritratto del calciatore Alessandro Furlanetto in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/alessandro-furlanetto
+- alessandro-furlanetto
+- tesserati/alessandro-furlanetto
+- calciatori/alessandro-furlanetto
 ---
+
 # Alessandro Furlanetto — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Alessandro Furlanetto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/260_alessandro-furlanetto.jpg)
 *Ritratto del calciatore Alessandro Furlanetto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Alessandro Furlanetto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Alessandro Furlanetto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

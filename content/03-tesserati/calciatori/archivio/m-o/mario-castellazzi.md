@@ -14,12 +14,12 @@ tags:
 - mario-castellazzi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mario Castellazzi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mario Castellazzi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mario_Castellazzi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mario_Castellazzi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mario Castellazzi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/667_mario-castellazzi.jpg
 image_credits:
-- image_path: 'assets/images/players/667_mario-castellazzi.jpg'
-  alt_text: "Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/667_mario-castellazzi.jpg
+  alt_text: Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mario-castellazzi
+- mario-castellazzi
+- tesserati/mario-castellazzi
+- calciatori/mario-castellazzi
+birth_date: '1935-11-09'
+birth_place: Finale Emilia
+citizenship: Regno d'Italia
 ---
+
 # Mario Castellazzi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/667_mario-castellazzi.jpg)
 *Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mario Castellazzi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mario Castellazzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

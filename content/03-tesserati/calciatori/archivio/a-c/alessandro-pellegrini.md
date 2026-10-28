@@ -1,40 +1,46 @@
 ---
-title: "Alessandro Pellegrini — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Alessandro Pellegrini, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/a-c/alessandro-pellegrini"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1964-08-02"
-birth_place: "Vercelli"
-death_date: "2026-08-01"
-nationality: "Italia"
+title: Alessandro Pellegrini — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Alessandro Pellegrini,
+  centrocampista del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/a-c/alessandro-pellegrini
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1964-08-02'
+birth_place: Vercelli
+death_date: '2026-08-01'
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "alessandro-pellegrini"
-  - "centrocampista"
+- calciatori
+- alessandro-pellegrini
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Alessandro Pellegrini"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Alessandro_Pellegrini"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Alessandro Pellegrini
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Alessandro_Pellegrini
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/alessandro-pellegrini"
-  - "alessandro-pellegrini"
+- tesserati/calciatori/alessandro-pellegrini
+- alessandro-pellegrini
+- tesserati/alessandro-pellegrini
+- calciatori/alessandro-pellegrini
+citizenship: Italia
 ---
+
 # Alessandro Pellegrini — Scheda Giocatore nel Calcio Catania
 
-**Alessandro Pellegrini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Alessandro Pellegrini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1964-08-02 — Vercelli |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

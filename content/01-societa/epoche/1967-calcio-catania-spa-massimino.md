@@ -81,11 +81,11 @@ La successiva [[stagioni/1983-1984|Stagione 1983-1984]] in Serie A — nonostant
 
 | Periodo | Presidente / Proprietà | Allenatori Simbolo | Categoria | Eventi Chiave |
 | :--- | :--- | :--- | :--- | :--- |
-| **1967–1969** | [[societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] | Luigi Valsecchi, Egizio Rubino | Serie B | Costituzione del **Calcio Catania S.p.A.** il **17/09/1967** (matricola 11700). |
-| **1969–1974** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] (1º ciclo) | [[tesserati/allenatori/egizio-rubino\|Egizio Rubino]], Carmelo Di Bella | Serie B ➔ Serie A ➔ Serie B | **Promozione in Serie A** nella [[stagioni/1969-1970\|Stagione 1969-1970]] (Reggina-Catania 1-3). |
-| **1974–1987** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] | [[tesserati/allenatori/egizio-rubino\|Egizio Rubino]], Lino De Petrillo, [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]] | Serie C ➔ Serie B ➔ Serie A | Promozioni in B (1974-75 e [[stagioni/1979-1980\|1979-80]]); **Promozione in Serie A agli spareggi di Roma** ([[stagioni/1982-1983\|1982-1983]]); ultimo posto a 12 pt in [[stagioni/1983-1984\|Serie A 1983-1984]]. |
+| **1967–1969** | [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] | Luigi Valsecchi, Egizio Rubino | Serie B | Costituzione del **Calcio Catania S.p.A.** il **17/09/1967** (matricola 11700). |
+| **1969–1974** | [[societa/presidenti/angelo-massimino|Angelo Massimino]] (1º ciclo) | [[tesserati/allenatori/egizio-rubino|Egizio Rubino]], Carmelo Di Bella | Serie B ➔ Serie A ➔ Serie B | **Promozione in Serie A** nella [[stagioni/1969-1970|Stagione 1969-1970]] (Reggina-Catania 1-3). |
+| **1974–1987** | [[societa/presidenti/angelo-massimino|Angelo Massimino]] | [[tesserati/allenatori/egizio-rubino|Egizio Rubino]], Lino De Petrillo, [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] | Serie C ➔ Serie B ➔ Serie A | Promozioni in B (1974-75 e [[stagioni/1979-1980|1979-80]]); **Promozione in Serie A agli spareggi di Roma** ([[stagioni/1982-1983|1982-1983]]); ultimo posto a 12 pt in [[stagioni/1983-1984|Serie A 1983-1984]]. |
 | **1987–1992** | Bruno Ficili (1987-88), Franco Proto (1988-92) | Bruno Pace, Carmelo Russo, Angelo Sormani, Giuseppe Caramanno | Serie C1 | Cinque stagioni in Serie C1; semifinale Coppa Italia Serie C 1989-90. |
-| **1992–1993** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] (2º ciclo) | Salvatore Bianchetti | Serie C1 | Ritorno di Massimino; [[vicende-legali/caso-catania-1993-eccellenza\|contenzioso estivo 1993 al TAR/CGA]], salvataggio della matricola 11700 e ripartenza dall'[[stagioni/1993-1994\|Eccellenza 1993-1994]]. |
+| **1992–1993** | [[societa/presidenti/angelo-massimino|Angelo Massimino]] (2º ciclo) | Salvatore Bianchetti | Serie C1 | Ritorno di Massimino; [[vicende-legali/caso-catania-1993-eccellenza|contenzioso estivo 1993 al TAR/CGA]], salvataggio della matricola 11700 e ripartenza dall'[[stagioni/1993-1994|Eccellenza 1993-1994]]. |
 
 ---
 

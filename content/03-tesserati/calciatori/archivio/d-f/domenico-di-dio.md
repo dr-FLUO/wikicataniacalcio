@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/domenico-di-dio
+- domenico-di-dio
+- tesserati/domenico-di-dio
+- calciatori/domenico-di-dio
 ---
+
 
 # Domenico Di Dio — Scheda Giocatore nel Calcio Catania
 
-**Domenico Di Dio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Domenico Di Dio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/michele-sergi
+- michele-sergi
+- tesserati/michele-sergi
+- calciatori/michele-sergi
 ---
+
 
 # Michele Sergi — Scheda Giocatore nel Calcio Catania
 
-**Michele Sergi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Michele Sergi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

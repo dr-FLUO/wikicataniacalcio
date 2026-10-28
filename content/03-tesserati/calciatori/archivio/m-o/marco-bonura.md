@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/marco-bonura
+- marco-bonura
+- tesserati/marco-bonura
+- calciatori/marco-bonura
+birth_date: '1979-08-02'
+birth_place: Milano
+citizenship: Italia
 ---
+
 # Marco Bonura — Scheda Giocatore nel Calcio Catania
 
-**Marco Bonura** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Marco Bonura** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

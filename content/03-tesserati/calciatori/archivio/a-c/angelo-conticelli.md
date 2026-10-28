@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/angelo-conticelli
+- angelo-conticelli
+- tesserati/angelo-conticelli
+- calciatori/angelo-conticelli
 ---
+
 
 # Angelo Conticelli — Scheda Giocatore nel Calcio Catania
 
-**Angelo Conticelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Angelo Conticelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

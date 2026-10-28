@@ -14,12 +14,12 @@ tags:
 - serafino-romani
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Serafino Romani'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Serafino Romani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Serafino_Romani'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Serafino_Romani
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Serafino Romani
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/serafino-romani
+- serafino-romani
+- tesserati/serafino-romani
+- calciatori/serafino-romani
+birth_date: '1921-09-11'
+birth_place: Cattolica
+citizenship: Regno d'Italia
 ---
+
 # Serafino Romani — Scheda Giocatore nel Calcio Catania
 
-**Serafino Romani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Serafino Romani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

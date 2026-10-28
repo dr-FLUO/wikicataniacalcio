@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/giacomo-cappuccini
+- giacomo-cappuccini
+- tesserati/giacomo-cappuccini
+- calciatori/giacomo-cappuccini
 ---
+
 
 # Giacomo Cappuccini — Scheda Giocatore nel Calcio Catania
 
-**Giacomo Cappuccini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Giacomo Cappuccini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 

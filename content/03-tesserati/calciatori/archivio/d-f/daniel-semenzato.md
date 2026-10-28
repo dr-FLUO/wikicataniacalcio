@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/daniel-semenzato
+- daniel-semenzato
+- tesserati/daniel-semenzato
+- calciatori/daniel-semenzato
 ---
+
 
 # Daniel Semenzato — Scheda Giocatore nel Calcio Catania
 
-**Daniel Semenzato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Daniel Semenzato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

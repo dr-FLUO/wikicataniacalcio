@@ -1,50 +1,56 @@
 ---
-title: "Nello Tedeschini — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Nello Tedeschini, centrocampista del Calcio Catania con 44 presenze registrate in maglia rossazzurra."
-slug: "03-tesserati/calciatori/archivio/s-z/nello-tedeschini"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1912-11-06"
-birth_place: "Modena, Italia"
-death_date: "1983-04-10"
-nationality: "Italia"
+title: Nello Tedeschini — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Nello Tedeschini, centrocampista
+  del Calcio Catania con 44 presenze registrate in maglia rossazzurra.
+slug: 03-tesserati/calciatori/archivio/s-z/nello-tedeschini
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1912-11-06'
+birth_place: Modena, Italia
+death_date: '1983-04-10'
+nationality: Italia
 total_appearances: 44
 seasons_count: 2
 tags:
-  - "calciatori"
-  - "nello-tedeschini"
-  - "centrocampista"
+- calciatori
+- nello-tedeschini
+- centrocampista
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Nello Tedeschini"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Nello_Tedeschini"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Nello Tedeschini
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Nello_Tedeschini
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp
 image_credits:
-  - image_path: "assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp"
-    alt_text: "Ritratto fotografico di Nello Tedeschini calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp
+  alt_text: Ritratto fotografico di Nello Tedeschini calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/nello-tedeschini"
-  - "nello-tedeschini"
+- tesserati/calciatori/nello-tedeschini
+- nello-tedeschini
+- tesserati/nello-tedeschini
+- calciatori/nello-tedeschini
+citizenship: Italia
 ---
+
 # Nello Tedeschini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Nello Tedeschini in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp)
 *Ritratto del calciatore Nello Tedeschini in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nello Tedeschini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nello Tedeschini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 

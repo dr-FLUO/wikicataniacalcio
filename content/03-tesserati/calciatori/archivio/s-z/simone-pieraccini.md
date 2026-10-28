@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/1073_simone-pieraccini.jpg
 image_credits:
-- image_path: 'assets/images/players/1073_simone-pieraccini.jpg'
-  alt_text: "Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/1073_simone-pieraccini.jpg
+  alt_text: Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/simone-pieraccini
+- simone-pieraccini
+- tesserati/simone-pieraccini
+- calciatori/simone-pieraccini
 ---
+
 # Simone Pieraccini — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1073_simone-pieraccini.jpg)
 *Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Simone Pieraccini** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Simone Pieraccini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

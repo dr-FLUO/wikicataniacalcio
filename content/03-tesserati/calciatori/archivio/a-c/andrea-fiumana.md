@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/andrea-fiumana
+- andrea-fiumana
+- tesserati/andrea-fiumana
+- calciatori/andrea-fiumana
 ---
+
 
 # Andrea Fiumana — Scheda Giocatore nel Calcio Catania
 
-**Andrea Fiumana** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Andrea Fiumana** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

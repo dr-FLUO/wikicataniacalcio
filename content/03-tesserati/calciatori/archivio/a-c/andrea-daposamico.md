@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/80_andrea-daposamico.jpg
 image_credits:
-- image_path: 'assets/images/players/80_andrea-daposamico.jpg'
-  alt_text: "Ritratto del calciatore Andrea D&apos;amico in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/80_andrea-daposamico.jpg
+  alt_text: Ritratto del calciatore Andrea D&apos;amico in maglia rossazzurra del
+    Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/andrea-daposamico
+- andrea-daposamico
+- tesserati/andrea-daposamico
+- calciatori/andrea-daposamico
 ---
+
 # Andrea D&apos;amico — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Andrea D&apos;amico in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/80_andrea-daposamico.jpg)
 *Ritratto del calciatore Andrea D&apos;amico in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Andrea D&apos;amico** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andrea D&apos;amico** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

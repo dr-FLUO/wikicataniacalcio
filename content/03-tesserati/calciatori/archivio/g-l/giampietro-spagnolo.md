@@ -27,12 +27,12 @@ tags:
 - egizio-rubino
 - gemelli-del-gol
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giampietro Spagnolo'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giampietro Spagnolo
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giampietro_Spagnolo'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giampietro_Spagnolo
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Spagnolo-534
 aliases:
 - tesserati/calciatori/giampietro-spagnolo
+- giampietro-spagnolo
+- tesserati/giampietro-spagnolo
+- calciatori/giampietro-spagnolo
+citizenship: Italia
+seasons_count: 5
 ---
+
 # Giampietro Spagnolo
 
 **Giampietro Spagnolo** (Lonigo, 20 ottobre 1947) è un ex calciatore italiano, nel ruolo di centravanti. Soprannominato **"Il Gigante"** per la statura imponente e la straordinaria forza fisica nel gioco aereo, è il **quinto marcatore all-time della storia del Catania con 50 reti ufficiali** messe a segno in **139 presenze** tra il 1973 e il 1977.
@@ -74,7 +80,7 @@ Nella stagione cadetta [[stagioni/1973-1974|1973-1974]] Spagnolo fu il capocanno
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1973-1977) | 129 | 47 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1973-1977) | 129 | 47 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 10 | 3 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **139** | **50** | — | — |
 

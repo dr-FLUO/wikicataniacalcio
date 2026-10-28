@@ -27,12 +27,12 @@ tags:
 - rigori
 - spareggio-cosenza
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Adriano Polenta'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Adriano Polenta
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Adriano_Polenta'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Adriano_Polenta
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,13 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Polenta-424
 aliases:
 - tesserati/calciatori/adriano-polenta
+- adriano-polenta
+- tesserati/adriano-polenta
+- calciatori/adriano-polenta
+citizenship: Italia
+seasons_count: 5
 ---
+
 # Adriano Polenta
 
 **Adriano Polenta** (Osimo, 23 novembre 1958) è un ex calciatore italiano, nel ruolo di libero e difensore centrale. Giunto a Catania nel **1986** in Serie B, fu il carismatico regista difensivo della squadra etnea per due campionati consecutivi.
@@ -73,7 +79,7 @@ Dotato di un senso della posizione impeccabile e di grande personalità nell'imp
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1988) | 56 | 7 | Difensore / Libero | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
+| Campionato (1986-1988) | 56 | 7 | Difensore / Libero | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]] |
 | Coppe Nazionali / Spareggi | 8 | 1 | Difensore / Libero | Gare ufficiali |
 | **Totale Complessivo** | **64** | **8** | — | — |
 

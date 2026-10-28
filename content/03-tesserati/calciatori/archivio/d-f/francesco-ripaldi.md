@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/francesco-ripaldi
+- francesco-ripaldi
+- tesserati/francesco-ripaldi
+- calciatori/francesco-ripaldi
 ---
+
 
 # Francesco Ripaldi — Scheda Giocatore nel Calcio Catania
 
-**Francesco Ripaldi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco Ripaldi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -40,7 +40,11 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/tiziano-disidoro
+- tiziano-disidoro
+- tesserati/tiziano-disidoro
+- calciatori/tiziano-disidoro
 ---
+
 
 
 # Tiziano D'Isidoro
@@ -68,7 +72,7 @@ Dopo aver segnato 8 reti nel 1995-1996 e 3 in Coppa Italia, nel 1996-1997 D'Isid
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1995-1997) | 55 | 21 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
+| Campionato (1995-1997) | 55 | 21 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
 | Coppe Nazionali / Spareggi | 5 | 3 | Attaccante / Centravanti | Gare ufficiali |
 | **Totale Complessivo** | **60** | **24** | — | — |
 

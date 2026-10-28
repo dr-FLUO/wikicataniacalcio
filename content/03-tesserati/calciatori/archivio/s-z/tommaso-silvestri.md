@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/921_tommaso-silvestri.jpg
 image_credits:
-- image_path: 'assets/images/players/921_tommaso-silvestri.jpg'
-  alt_text: "Ritratto del calciatore Tommaso Silvestri in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/921_tommaso-silvestri.jpg
+  alt_text: Ritratto del calciatore Tommaso Silvestri in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/tommaso-silvestri
+- tommaso-silvestri
+- tesserati/tommaso-silvestri
+- calciatori/tommaso-silvestri
 ---
+
 # Tommaso Silvestri — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Tommaso Silvestri in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/921_tommaso-silvestri.jpg)
 *Ritratto del calciatore Tommaso Silvestri in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Tommaso Silvestri** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Tommaso Silvestri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

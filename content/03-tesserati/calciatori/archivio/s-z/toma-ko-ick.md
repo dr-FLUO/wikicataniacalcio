@@ -1,50 +1,56 @@
 ---
-title: "Tomáš Košický — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Tomáš Košický, portiere del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/toma-ko-ick"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Portiere"
-birth_date: "1986-03-11"
-birth_place: "Bratislava"
-death_date: ""
-nationality: "Slovacchia"
+title: Tomáš Košický — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Tomáš Košický, portiere
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/toma-ko-ick
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Portiere
+birth_date: '1986-03-11'
+birth_place: Bratislava
+death_date: ''
+nationality: Slovacchia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "toma-ko-ick"
-  - "portiere"
+- calciatori
+- toma-ko-ick
+- portiere
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Tomáš Košický"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
-image: "assets/images/calciatori/toma-ko-ick.jpg"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Tomáš Košický
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
+image: assets/images/calciatori/toma-ko-ick.jpg
 image_credits:
-  - image_path: "assets/images/calciatori/toma-ko-ick.jpg"
-    alt_text: "Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/calciatori/toma-ko-ick.jpg
+  alt_text: Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania
+  author_or_archive: Wikimedia Commons Contributors
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "tesserati/calciatori/toma-ko-ick"
-  - "toma-ko-ick"
+- tesserati/calciatori/toma-ko-ick
+- toma-ko-ick
+- tesserati/toma-ko-ick
+- calciatori/toma-ko-ick
+citizenship: Slovacchia
 ---
+
 # Tomáš Košický — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/toma-ko-ick.jpg)
 *Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Tomáš Košický** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Portiere**.
+**Tomáš Košický** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -59,7 +65,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Portiere |
 | **Nazionalità Sportiva** | Slovacchia |
 | **Data e Luogo di Nascita** | 1986-03-11 — Bratislava |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/muolaij-micham-miftah
+- muolaij-micham-miftah
+- tesserati/muolaij-micham-miftah
+- calciatori/muolaij-micham-miftah
 ---
+
 
 # Muolaij Micham Miftah — Scheda Giocatore nel Calcio Catania
 
-**Muolaij Micham Miftah** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Muolaij Micham Miftah** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

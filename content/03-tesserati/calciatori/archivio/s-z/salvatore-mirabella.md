@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/salvatore-mirabella
+- salvatore-mirabella
+- tesserati/salvatore-mirabella
+- calciatori/salvatore-mirabella
 ---
+
 
 # Salvatore Mirabella — Scheda Giocatore nel Calcio Catania
 
-**Salvatore Mirabella** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Salvatore Mirabella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

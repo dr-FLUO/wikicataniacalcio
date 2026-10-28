@@ -92,11 +92,11 @@ A causa delle sanzioni disciplinari seguite agli incidenti avvenuti all'interval
 | Dati Gara | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Ora** | Martedì 2 aprile 2024, ore 20:30 |
-| **Impianto** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania |
-| **Competizione** | Coppa Italia Serie C [[stagioni/2023-2024\|2023-2024]] — Finale di Ritorno (Andata: Padova-Catania 2-1) |
+| **Impianto** | [[stadio/angelo-massimino|Stadio Angelo Massimino]], Catania |
+| **Competizione** | Coppa Italia Serie C [[stagioni/2023-2024|2023-2024]] — Finale di Ritorno (Andata: Padova-Catania 2-1) |
 | **Arbitro** | Stefano Nicolini della sezione AIA di Brescia (VAR attivo per la finale) |
 | **Marcatori** | **3' Bortolussi** (P), **26' rig. Di Carmine** (C), **44' Cicerelli** (C), **73' Perrotta** (P), **89' Marsura** (C), **120' Costantino** (C) |
-| **Formazione Catania (3-5-2)** | Albertoni; Monaco (106' Kontek), Castellini (108' Chiarella), Celli; Bouah (79' Rapisarda), Peralta (65' Chiricò), Quaini, Zammarini, Cicerelli (81' Marsura); Cianci (79' Costantino), Di Carmine. — *A disp.:* Furlan, Donato, Curado, Ndoj, Haveri. — **All.:** [[tesserati/allenatori/michele-zeoli\|Michele Zeoli]]. |
+| **Formazione Catania (3-5-2)** | Albertoni; Monaco (106' Kontek), Castellini (108' Chiarella), Celli; Bouah (79' Rapisarda), Peralta (65' Chiricò), Quaini, Zammarini, Cicerelli (81' Marsura); Cianci (79' Costantino), Di Carmine. — *A disp.:* Furlan, Donato, Curado, Ndoj, Haveri. — **All.:** [[tesserati/allenatori/michele-zeoli|Michele Zeoli]]. |
 | **Formazione Padova (4-2-3-1)** | Zanellati; Belli (64' Faedo), Delli Carri, Perrotta, Villa; Radrezza (77' Fusi), Crisetig; Liguori (77' Crescenzi), Varas, Valente (64' Palombi); Bortolussi (86' Capelli, 110' Zamparo). — *A disp.:* Donnarumma, Mangiaracina, Favale, Cretella, Bianchi, Dezi, Tordini. — **All.:** Vincenzo Torrente. |
 | **Espulsi** | Al **77' Delli Carri** (Padova) per interruzione di chiara occasione da rete (DOGSO post revisione VAR). |
 

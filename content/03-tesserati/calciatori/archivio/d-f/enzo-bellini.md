@@ -28,12 +28,12 @@ tags:
 - serie-b
 - gyorgy-orth
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Enzo Bellini'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Enzo Bellini
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Enzo_Bellini_(calciatore)'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Enzo_Bellini_(calciatore)
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -47,7 +47,12 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 aliases:
 - tesserati/calciatori/enzo-bellini
+- enzo-bellini
+- tesserati/enzo-bellini
+- calciatori/enzo-bellini
+citizenship: Regno d'Italia
 ---
+
 # Enzo Bellini
 
 **Enzo Bellini** (Bondeno, 14 febbraio 1917 – Ferrara, 11 agosto 2001) è stato un calciatore e allenatore di calcio italiano, di ruolo ala destra. Giunto a Catania nel **1938** dalla SPAL, fu il grande trascinatore offensivo della [[stagioni/1938-1939|Stagione 1938-1939]], culminata con il primo posto nel Girone H di Serie C e la vittoria del girone finale promozione per il ritorno in Serie B.
@@ -73,7 +78,7 @@ Nel campionato di Serie C 1938-1939 Bellini fu devastante per le retroguardie av
 
 | Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
 | :--- | :---: | :---: | :--- | :--- |
-| Campionato (1938-1940) | 41 | 15 | Attaccante / Ala destra | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
+| Campionato (1938-1940) | 41 | 15 | Attaccante / Ala destra | [[societa/1929-ss-catania|Associazione Fascista Calcio Catania]] |
 | Coppe Nazionali / Spareggi | 4 | 1 | Attaccante / Ala destra | Gare ufficiali |
 | **Totale Complessivo** | **45** | **16** | — | — |
 

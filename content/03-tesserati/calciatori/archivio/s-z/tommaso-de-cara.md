@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/tommaso-de-cara
+- tommaso-de-cara
+- tesserati/tommaso-de-cara
+- calciatori/tommaso-de-cara
 ---
+
 
 # Tommaso De Cara — Scheda Giocatore nel Calcio Catania
 
-**Tommaso De Cara** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Tommaso De Cara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

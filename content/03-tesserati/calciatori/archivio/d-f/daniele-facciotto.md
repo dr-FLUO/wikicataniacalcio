@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/daniele-facciotto
+- daniele-facciotto
+- tesserati/daniele-facciotto
+- calciatori/daniele-facciotto
 ---
+
 
 # Daniele Facciotto — Scheda Giocatore nel Calcio Catania
 
-**Daniele Facciotto** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Daniele Facciotto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

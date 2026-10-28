@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/niccolò-zanellato
+- niccolò-zanellato
+- tesserati/niccolò-zanellato
+- calciatori/niccolò-zanellato
 ---
+
 
 # Niccolò Zanellato — Scheda Giocatore nel Calcio Catania
 
-**Niccolò Zanellato** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Niccolò Zanellato** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

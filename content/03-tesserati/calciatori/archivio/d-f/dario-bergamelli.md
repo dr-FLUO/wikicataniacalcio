@@ -14,12 +14,12 @@ tags:
 - dario-bergamelli
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Dario Bergamelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Dario Bergamelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Dario_Bergamelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Dario_Bergamelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Dario Bergamelli
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/dario-bergamelli
+- dario-bergamelli
+- tesserati/dario-bergamelli
+- calciatori/dario-bergamelli
+birth_date: '1987-04-26'
+birth_place: Alzano Lombardo
+citizenship: Italia
 ---
+
 # Dario Bergamelli — Scheda Giocatore nel Calcio Catania
 
-**Dario Bergamelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Dario Bergamelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

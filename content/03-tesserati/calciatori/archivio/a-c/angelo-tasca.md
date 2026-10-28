@@ -28,10 +28,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/angelo-tasca
+- angelo-tasca
+- tesserati/angelo-tasca
+- calciatori/angelo-tasca
+birth_date: '1976-01-18'
+birth_place: Modica
+citizenship: Italia
 ---
+
 # Angelo Tasca — Scheda Giocatore nel Calcio Catania
 
-**Angelo Tasca** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Difensore**.
+**Angelo Tasca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 

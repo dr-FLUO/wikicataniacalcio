@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/luca-arrigo
+- luca-arrigo
+- tesserati/luca-arrigo
+- calciatori/luca-arrigo
 ---
+
 
 # Luca Arrigo — Scheda Giocatore nel Calcio Catania
 
-**Luca Arrigo** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Luca Arrigo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -14,12 +14,12 @@ tags:
 - pierpaolo-bresciani
 - attaccante
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Pierpaolo Bresciani'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Pierpaolo Bresciani
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Pierpaolo_Bresciani'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Pierpaolo_Bresciani
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Pierpaolo Bresciani
   publisher: calciocatania.com
@@ -34,10 +34,17 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/pierpaolo-bresciani
+- pierpaolo-bresciani
+- tesserati/pierpaolo-bresciani
+- calciatori/pierpaolo-bresciani
+birth_date: '1970-07-21'
+birth_place: Arco
+citizenship: Italia
 ---
+
 # Pierpaolo Bresciani — Scheda Giocatore nel Calcio Catania
 
-**Pierpaolo Bresciani** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Pierpaolo Bresciani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

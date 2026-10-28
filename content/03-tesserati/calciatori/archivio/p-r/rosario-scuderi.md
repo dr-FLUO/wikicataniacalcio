@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/rosario-scuderi
+- rosario-scuderi
+- tesserati/rosario-scuderi
+- calciatori/rosario-scuderi
 ---
+
 
 # Rosario Scuderi — Scheda Giocatore nel Calcio Catania
 
-**Rosario Scuderi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Rosario Scuderi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

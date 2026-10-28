@@ -27,20 +27,25 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/257_dino-di-julio.jpg
 image_credits:
-- image_path: 'assets/images/players/257_dino-di-julio.jpg'
-  alt_text: "Ritratto del calciatore Dino Di Julio in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/257_dino-di-julio.jpg
+  alt_text: Ritratto del calciatore Dino Di Julio in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/dino-di-julio
+- dino-di-julio
+- tesserati/dino-di-julio
+- calciatori/dino-di-julio
 ---
+
 # Dino Di Julio — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Dino Di Julio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/257_dino-di-julio.jpg)
 *Ritratto del calciatore Dino Di Julio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Dino Di Julio** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Dino Di Julio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/cosimo-chiricò
+- cosimo-chiricò
+- tesserati/cosimo-chiricò
+- calciatori/cosimo-chiricò
 ---
+
 
 # Cosimo Chiricò — Scheda Giocatore nel Calcio Catania
 
-**Cosimo Chiricò** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Cosimo Chiricò** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 

@@ -28,20 +28,24 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/508_eliso-croci.jpg
 image_credits:
-- image_path: 'assets/images/players/508_eliso-croci.jpg'
-  alt_text: "Ritratto del calciatore Eliso Croci in maglia rossazzurra del Calcio Catania"
-  author_or_archive: "Archivio Fotografico CalcioCatania.com"
+- image_path: assets/images/players/508_eliso-croci.jpg
+  alt_text: Ritratto del calciatore Eliso Croci in maglia rossazzurra del Calcio Catania
+  author_or_archive: Archivio Fotografico CalcioCatania.com
   year: 2010
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/eliso-croci
+- eliso-croci
+- tesserati/eliso-croci
+- calciatori/eliso-croci
 ---
+
 # Eliso Croci — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Eliso Croci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/508_eliso-croci.jpg)
 *Ritratto del calciatore Eliso Croci in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Eliso Croci** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Eliso Croci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

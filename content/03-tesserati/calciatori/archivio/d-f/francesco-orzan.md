@@ -1,40 +1,46 @@
 ---
-title: "Francesco Orzan — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Francesco Orzan, centrocampista del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/d-f/francesco-orzan"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Centrocampista"
-birth_date: "1911-05-01"
-birth_place: "San Lorenzo Isontino"
-death_date: "1988-09-03"
-nationality: "Italia"
+title: Francesco Orzan — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Francesco Orzan, centrocampista
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/d-f/francesco-orzan
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Centrocampista
+birth_date: '1911-05-01'
+birth_place: San Lorenzo Isontino
+death_date: '1988-09-03'
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "francesco-orzan"
-  - "centrocampista"
+- calciatori
+- francesco-orzan
+- centrocampista
 sources:
-  - author: "Wikidata Contributors"
-    title: "Scheda Biografica Entità Q3750377 (Francesco Orzan)"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://www.wikidata.org/wiki/Q3750377"
-    reference: "Registro anagrafico e identificativo sportivo internazionale"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikidata Contributors
+  title: Scheda Biografica Entità Q3750377 (Francesco Orzan)
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://www.wikidata.org/wiki/Q3750377
+  reference: Registro anagrafico e identificativo sportivo internazionale
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/francesco-orzan"
-  - "francesco-orzan"
+- tesserati/calciatori/francesco-orzan
+- francesco-orzan
+- tesserati/francesco-orzan
+- calciatori/francesco-orzan
+citizenship: Italia
 ---
+
 # Francesco Orzan — Scheda Giocatore nel Calcio Catania
 
-**Francesco Orzan** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Francesco Orzan** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Centrocampista |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1911-05-01 — San Lorenzo Isontino |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -28,11 +28,15 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
 - tesserati/calciatori/davide-di-stefano
+- davide-di-stefano
+- tesserati/davide-di-stefano
+- calciatori/davide-di-stefano
 ---
+
 
 # Davide Di Stefano — Scheda Giocatore nel Calcio Catania
 
-**Davide Di Stefano** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Davide Di Stefano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

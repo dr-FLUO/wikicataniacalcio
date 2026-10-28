@@ -14,12 +14,12 @@ tags:
 - giorgio-mastropasqua
 - difensore
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Giorgio Mastropasqua'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Giorgio Mastropasqua
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Giorgio_Mastropasqua'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Giorgio_Mastropasqua
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Giorgio Mastropasqua
   publisher: calciocatania.com
@@ -33,11 +33,12 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/476_giorgio-mastropasqua.jpg
 image_credits:
-- image_path: '/assets/images/calciatori/giorgio-mastropasqua.jpg'
-  alt_text: "Ritratto ufficiale di Giorgio Mastropasqua — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors"
-  author_or_archive: 'Wikimedia Commons Contributors'
+- image_path: /assets/images/calciatori/giorgio-mastropasqua.jpg
+  alt_text: 'Ritratto ufficiale di Giorgio Mastropasqua — Licenza: Pubblico Dominio
+    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  author_or_archive: Wikimedia Commons Contributors
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 - image_path: assets/images/players/476_giorgio-mastropasqua.jpg
   alt_text: Ritratto del calciatore Giorgio Mastropasqua in maglia rossazzurra del
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
@@ -45,7 +46,14 @@ image_credits:
   license_type: Pubblico Dominio / Fair Use
 aliases:
 - tesserati/calciatori/giorgio-mastropasqua
+- giorgio-mastropasqua
+- tesserati/giorgio-mastropasqua
+- calciatori/giorgio-mastropasqua
+birth_date: '1951-07-13'
+birth_place: Rivoli
+citizenship: Italia
 ---
+
 # Giorgio Mastropasqua — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto ufficiale di Giorgio Mastropasqua — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/giorgio-mastropasqua.jpg)

@@ -14,12 +14,12 @@ tags:
 - ciro-bilardi
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Ciro Bilardi'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Ciro Bilardi
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Ciro_Bilardi'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Ciro_Bilardi
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Ciro Bilardi
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/466_ciro-bilardi.jpg
 image_credits:
-- image_path: 'assets/images/players/466_ciro-bilardi.jpg'
-  alt_text: "Ritratto del calciatore Ciro Bilardi in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/466_ciro-bilardi.jpg
+  alt_text: Ritratto del calciatore Ciro Bilardi in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/ciro-bilardi
+- ciro-bilardi
+- tesserati/ciro-bilardi
+- calciatori/ciro-bilardi
+birth_date: '1953-11-25'
+birth_place: Ischia
+citizenship: Italia
 ---
+
 # Ciro Bilardi — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Ciro Bilardi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/466_ciro-bilardi.jpg)
 *Ritratto del calciatore Ciro Bilardi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Ciro Bilardi** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Ciro Bilardi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 

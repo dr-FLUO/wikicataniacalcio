@@ -1,40 +1,46 @@
 ---
-title: "Stefano Dall'Acqua — Scheda Giocatore e Statistiche nel Calcio Catania"
-description: "Biografia, presenze e statistiche ufficiali di Stefano Dall'Acqua, attaccante del Calcio Catania."
-slug: "03-tesserati/calciatori/archivio/s-z/stefano-dall-acqua"
-entity_type: "calciatore"
-status: "verified"
-last_verified_date: "2026-10-28"
-role: "Attaccante"
-birth_date: "1981-07-13"
-birth_place: "Oderzo"
-death_date: ""
-nationality: "Italia"
+title: Stefano Dall'Acqua — Scheda Giocatore e Statistiche nel Calcio Catania
+description: Biografia, presenze e statistiche ufficiali di Stefano Dall'Acqua, attaccante
+  del Calcio Catania.
+slug: 03-tesserati/calciatori/archivio/s-z/stefano-dall-acqua
+entity_type: calciatore
+status: verified
+last_verified_date: '2026-10-28'
+role: Attaccante
+birth_date: '1981-07-13'
+birth_place: Oderzo
+death_date: ''
+nationality: Italia
 total_appearances: 10
 seasons_count: 1
 tags:
-  - "calciatori"
-  - "stefano-dall-acqua"
-  - "attaccante"
+- calciatori
+- stefano-dall-acqua
+- attaccante
 sources:
-  - author: "Wikipedia Italia"
-    title: "Voce Enciclopedica Ufficiale — Stefano Dall'Acqua"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Stefano_Dall%27Acqua"
-    reference: "Dati anagrafici, carriera e presenze verificate"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Registro generale calciatori e presenze ufficiali"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Stefano Dall'Acqua
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Stefano_Dall%27Acqua
+  reference: Dati anagrafici, carriera e presenze verificate
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Registro generale calciatori e presenze ufficiali
 aliases:
-  - "tesserati/calciatori/stefano-dall-acqua"
-  - "stefano-dall-acqua"
+- tesserati/calciatori/stefano-dall-acqua
+- stefano-dall-acqua
+- tesserati/stefano-dall-acqua
+- calciatori/stefano-dall-acqua
+citizenship: Italia
 ---
+
 # Stefano Dall'Acqua — Scheda Giocatore nel Calcio Catania
 
-**Stefano Dall'Acqua** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Attaccante**.
+**Stefano Dall'Acqua** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -49,7 +55,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **Ruolo Tattico** | Attaccante |
 | **Nazionalità Sportiva** | Italia |
 | **Data e Luogo di Nascita** | 1981-07-13 — Oderzo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Club di Appartenenza** | [[societa/matricola-11700|Calcio Catania]] |
 
 ## Collegamenti Interni Correlati
 

@@ -14,12 +14,12 @@ tags:
 - mirco-paganelli
 - centrocampista
 sources:
-- author: 'Wikipedia Italia'
-  title: 'Voce Enciclopedica Ufficiale — Mirco Paganelli'
-  publisher: 'Wikimedia Foundation'
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Mirco Paganelli
+  publisher: Wikimedia Foundation
   year: 2026
-  url: 'https://it.wikipedia.org/wiki/Mirco_Paganelli'
-  reference: 'Dati anagrafici, carriera e presenze verificate'
+  url: https://it.wikipedia.org/wiki/Mirco_Paganelli
+  reference: Dati anagrafici, carriera e presenze verificate
 - author: Salvatore Giovanni Emanuele, Max Licari
   title: Scheda anagrafica e statistiche di Mirco Paganelli
   publisher: calciocatania.com
@@ -33,20 +33,28 @@ sources:
   reference: Registro generale calciatori e presenze ufficiali
 image: assets/images/players/486_mirco-paganelli.jpg
 image_credits:
-- image_path: 'assets/images/players/486_mirco-paganelli.jpg'
-  alt_text: "Ritratto del calciatore Mirco Paganelli in maglia rossazzurra del Calcio Catania"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/players/486_mirco-paganelli.jpg
+  alt_text: Ritratto del calciatore Mirco Paganelli in maglia rossazzurra del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - tesserati/calciatori/mirco-paganelli
+- mirco-paganelli
+- tesserati/mirco-paganelli
+- calciatori/mirco-paganelli
+birth_date: '1960-06-05'
+birth_place: San Mauro Pascoli
+citizenship: Italia
 ---
+
 # Mirco Paganelli — Scheda Giocatore nel Calcio Catania
 
 ![Ritratto del calciatore Mirco Paganelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/486_mirco-paganelli.jpg)
 *Ritratto del calciatore Mirco Paganelli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
-**Mirco Paganelli** è stato un calciatore del [[societa/matricola-11700\|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Mirco Paganelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
