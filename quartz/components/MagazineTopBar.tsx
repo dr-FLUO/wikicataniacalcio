@@ -78,7 +78,7 @@ const MagazineTopBar: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps
           })}
         </nav>
 
-        {/* Cella 3: Issue Tag & Ultimo Aggiornamento Certificato */}
+        {/* Cella 3: Issue Tag, Ultimo Aggiornamento Certificato & Beta Versione */}
         <div class="nfc-masthead__actions">
           <div class="nfc-issue-pill" aria-label="Edizione Archivio Certificato">
             <span class="nfc-issue-pill__left">ISSUE</span>
@@ -95,6 +95,9 @@ const MagazineTopBar: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps
                 minute: "2-digit",
               }).format(new Date())}
             </span>
+          </div>
+          <div class="nfc-beta-version" title="Versione di sviluppo attivo del vault">
+            <span class="nfc-beta-version__text">BETA VERSIONE 0.85</span>
           </div>
         </div>
       </div>

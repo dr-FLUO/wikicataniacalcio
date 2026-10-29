@@ -36,8 +36,17 @@ cover_caption: Luciano Gaucci (1938–2020), presidente del Calcio Catania dal 1
 cover_credit: Archivio Storico · Pubblico Dominio
 aliases:
 - societa/presidenti/luciano-gaucci
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/luciano-gaucci.jpg
+  alt_text: Luciano Gaucci, proprietario e presidente del Calcio Catania dal 2000
+    al 2004
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 2000
+  license_type: Creative Commons CC BY-SA 4.0
 ---
 
+![Luciano Gaucci, proprietario e presidente del Calcio Catania dal 2000 al 2004](/assets/images/presidenti-dirigenti/luciano-gaucci.jpg)
+*Luciano Gaucci (1938–2020), artefice della risalita in Serie B e del ciclo 2000-2004*
 
 # Luciano Gaucci (1938–2020)
 

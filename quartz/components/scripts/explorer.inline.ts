@@ -330,6 +330,20 @@ window.addEventListener("resize", function () {
   }
 })
 
+// Chiudi mobile explorer drawer premendo tasto Escape
+document.addEventListener("keydown", (e: KeyboardEvent) => {
+  if (e.key === "Escape") {
+    const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
+    for (const explorer of allExplorers) {
+      if (!explorer.classList.contains("collapsed")) {
+        explorer.classList.add("collapsed")
+        explorer.setAttribute("aria-expanded", "false")
+        document.documentElement.classList.remove("mobile-no-scroll")
+      }
+    }
+  }
+})
+
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
   return collapsed ? folderElement.classList.remove("open") : folderElement.classList.add("open")
 }

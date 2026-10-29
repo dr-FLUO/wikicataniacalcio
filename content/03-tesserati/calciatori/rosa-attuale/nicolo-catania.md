@@ -7,6 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
+current_squad: true
 total_appearances: 2
 seasons_count: 1
 tags:

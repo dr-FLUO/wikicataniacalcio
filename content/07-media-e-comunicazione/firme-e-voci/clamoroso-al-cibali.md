@@ -1,34 +1,48 @@
 ---
-title: "«Clamoroso al Cibali!» — Genesi del Conio di Sandro Ciotti e Mito Popolare"
-description: "Storia e impatto culturale della celeberrima frase «Clamoroso al Cibali!», pronunciata da Sandro Ciotti il 4 giugno 1961 per Catania-Inter 2-0 e divenuta modo di dire nazionale."
-slug: "07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali"
-entity_type: "biografia_giornalista"
-status: "verified"
+title: «Clamoroso al Cibali!» — Genesi del Conio di Sandro Ciotti e Mito Popolare
+description: Storia e impatto culturale della celeberrima frase «Clamoroso al Cibali!»,
+  pronunciata da Sandro Ciotti il 4 giugno 1961 per Catania-Inter 2-0 e divenuta modo
+  di dire nazionale.
+slug: 07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali
+entity_type: biografia_giornalista
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - clamoroso-al-cibali
-  - sandro-ciotti
-  - catania-inter-1961
-  - radio-rai
-  - cultura-popolare
+- clamoroso-al-cibali
+- sandro-ciotti
+- catania-inter-1961
+- radio-rai
+- cultura-popolare
 sources:
-- author: "RAI — Radiotelevisione Italiana"
-  title: "Teche RAI — Tutto il calcio minuto per minuto, 4 giugno 1961"
-  publisher: "RAI"
-  url: "https://www.teche.rai.it/"
+- author: RAI — Radiotelevisione Italiana
+  title: Teche RAI — Tutto il calcio minuto per minuto, 4 giugno 1961
+  publisher: RAI
+  url: https://www.teche.rai.it/
   year: 1961
-  reference: "Archivio Sonoro Radiocronache Nazionali"
-- author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-  title: "Tutto il Catania minuto per minuto (1929-2010)"
-  publisher: "GEO Edizioni, Empoli"
+  reference: Archivio Sonoro Radiocronache Nazionali
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: "Capitolo 'Stagione 1960-1961: Il trionfo sull'Inter', pp. 184-188"
+  reference: 'Capitolo ''Stagione 1960-1961: Il trionfo sull''Inter'', pp. 184-188'
 aliases:
-  - "clamoroso-al-cibali"
-  - "02-cronistoria/partite-storiche/1960-1961/clamoroso-al-cibali"
-  - "partite-storiche/1960-1961/clamoroso-al-cibali"
-  - "partite/1960-1961/clamoroso-al-cibali"
+- clamoroso-al-cibali
+- 02-cronistoria/partite-storiche/1960-1961/clamoroso-al-cibali
+- partite-storiche/1960-1961/clamoroso-al-cibali
+- partite/1960-1961/clamoroso-al-cibali
+image_credits:
+- image_path: assets/images/partite-storiche/clamoroso-al-cibali-inter-1961.jpg
+  alt_text: Azione di gioco della storica vittoria per 2-0 del Catania contro l'Inter
+    il 4 giugno 1961
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1961
+  license_type: Pubblico Dominio
 ---
+
+![Azione di gioco della storica vittoria per 2-0 del Catania contro l'Inter il 4 giugno 1961](/assets/images/partite-storiche/clamoroso-al-cibali-inter-1961.jpg)
+*Una fase di gioco della storica vittoria per 2-0 sull'Inter del 4 giugno 1961 che ispirò l'esclamazione di Sandro Ciotti*
+
 # «Clamoroso al Cibali!»: Genesi e Mito di una Frase Storica
 
 L'espressione **«Clamoroso al Cibali!»**, pronunciata dal radiocronista [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti|Sandro Ciotti]] il **4 giugno 1961** nel corso della trasmissione radiofonica *Tutto il calcio minuto per minuto*, rappresenta una delle formule verbali più celebri dell'intera storia delle comunicazioni di massa in Italia.

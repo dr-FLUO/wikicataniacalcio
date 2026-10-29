@@ -12,7 +12,7 @@ origin_district: Catania, Quartiere Cibali e Piazza Spedini
 stadium_sector: Piazza Spedini ed esterno Curva Nord
 stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: 2026-10-29
 tags:
 - tifoseria
 - eventi
@@ -80,7 +80,7 @@ Durante i gravissimi disordini scoppiati all'esterno dell'impianto, in Piazza Sp
 
 Il derby di Sicilia era stato anticipato a venerdì sera per consentire l'avvio delle celebrazioni religiose della festa di Sant'Agata. Alle ore 18:00 l'atmosfera attorno allo stadio era già satura di tensione per via della massiccia presenza di tifosi palermitani scortati dalle forze di polizia lungo la direttrice di Corso Indipendenza e via Cibele:
 1. **L'Ingresso Ritardato dei Rosanero:** A causa di rallentamenti nel trasporto e nei filtraggi all'ingresso, i circa 1.200 supporter rosanero entrarono nel settore ospiti al 10' del secondo tempo (con il Catania in svantaggio per 0-1). Il loro ingresso provocò un'immediata fiammata di reciproco lancio di fumogeni e potenti petardi verso la Tribuna B e il campo, inducendo l'arbitro Stefano Farina a sospendere temporaneamente il match per oltre trenta minuti a causa della densa coltre di fumo e gas lacrimogeni.
-2. **La Guerriglia in Piazza Spedini:** All'esterno dell'impianto, circa duecento facinorosi travisati assaltarono i cordoni dei Reparti Mobili della Polizia e dei battaglioni dei Carabinieri con bombe carta, tubi metallici, blocchi di cemento divelti dai marciapiedi e cassonetti rovesciati.
+2. **La Guerriglia in Piazza Spedini:** All'esterno dell'impianto, circa duecento facinorosi travisati ingaggiarono una feroce guerriglia contro un dispositivo di **1.200 agenti delle forze dell'ordine**, causando il ferimento di **71 poliziotti** e carabinieri e decine di contusi tra i civili.
 3. **Il Ferimento Mortale dell'Ispettore Raciti:** Nel corso degli scontri corpo a corpo all'altezza della Curva Nord e del cancello carraio di Piazza Spedini, l'Ispettore Capo Filippo Raciti venne violentemente investito dall'urto di una pesante paratia o corpo contundente piatto in ferro/lamiera. Il trauma chiuso cagionò gravissime lesioni epatiche interne e un'emorragia massiva. Trasportato d'urgenza all'Ospedale Garibaldi di piazza Santa Maria di Gesù, il poliziotto spirò intorno alle 22:15 per arresto cardiocircolatorio irreversibile.
 
 ---
@@ -101,11 +101,18 @@ La morte dell'Ispettore Raciti scosse l'intero Paese e determinò la transizione
 
 L'attività investigativa coordinata dalla Procura della Repubblica di Catania e dalla Procura per i Minorenni portò al fermo e al rinvio a giudizio di diversi soggetti:
 - **[[tifoseria/biografie/antonino-speziale|Antonino Speziale]]:** Minorenne all'epoca dell'evento, venne accusato di aver concorso al colpo fatale sferrato con una barriera metallica (un sottolavello o carrello di ferro) contro il corpo dell'ispettore. Dopo un lungo percorso dibattimentale nei tre gradi di giudizio del Tribunale per i Minorenni, la Corte di Cassazione confermò in via definitiva il **14 novembre 2012** la condanna a **8 anni di reclusione per omicidio preterintenzionale**. Speziale ha scontato interamente la pena ed è tornato in libertà nel dicembre 2020.
-- **Daniele Micale:** Maggiorenne all'epoca dei fatti, giudicato dal Tribunale ordinario e dalla Corte d'Assise d'Appello di Catania, venne riconosciuto colpevole in concorso per omicidio preterintenzionale e condannato in via definitiva dalla Suprema Corte a **11 anni di reclusione** (condanna confermata il 14 novembre 2012).
+- **[[06-tifoseria-e-cultura/biografie/daniele-natale-micale|Daniele Natale Micale]]:** Maggiorenne all'epoca dei fatti, giudicato dal Tribunale ordinario e dalla Corte d'Assise d'Appello di Catania, venne riconosciuto colpevole in concorso per omicidio preterintenzionale e condannato in via definitiva dalla Suprema Corte a **11 anni di reclusione** (condanna confermata il 14 novembre 2012).
 
 I processi hanno costituito un caposaldo del diritto penale italiano in tema di cooperazione nel delitto preterintenzionale in contesti di violenza di piazza e sommovimento collettivo.
 
 ---
+
+---
+
+## 4. I Funerali di Sant'Agata e la Riapertura del 2011
+
+- **I Funerali del 5 Febbraio 2007:** Le esequie solenni dell'Ispettore Raciti furono celebrate in Cattedrale durante una Festa di Sant'Agata listata a lutto e privata dei tradizionali fuochi pirotecnici, mentre in città comparve il celebre striscione *«Catania svegliati, Catania sdegnati»*.
+- **La Riapertura agli Ospiti (3 Aprile 2011):** Soltanto quattro anni dopo, in occasione del derby Catania-Palermo 4-0 del 3 aprile 2011, lo stadio Massimino poté riaprire i cancelli alla tifoseria ospite palermitana senza incidenti, alla presenza simbolica in tribuna della vedova Marisa Grasso.
 
 ## Fonti e Rassegna Documentale
 

@@ -101,12 +101,12 @@ La Curva Nord rappresenta lo specchio fedele delle complesse dinamiche urbane di
 
 Un fenomeno sociologico quasi unico nel panorama del tifo italiano è la presenza strutturata di formazioni d'impronta ultras anche al di fuori delle curve canoniche, in particolare nella **Tribuna B (Gradinata Scoperta)** e in **Tribuna A**. 
 
-Tra queste formazioni spicca la nascita, nel **2015**, del **Mecha Klan Catania (MCK)** in Tribuna B:
+Tra queste formazioni spicca la nascita, nel **2015**, del **[[06-tifoseria-e-cultura/curve/tribuna-b/mecha-klan|Ultras Mecha Klan Catania (MCK)]]** in Tribuna B:
 - **Origine e Scissione:** Sorto per iniziativa di militanti provenienti da esperienze pregresse tra Curva Sud e Nord desiderosi di vivere la gradinata con un approccio autonomo, il Mecha Klan si è posizionato al centro della Tribuna B, affiancato da sigle come *Banda Principe*, *Tana Rossazzurra* e *Simpson Boys*.
 - **Etica del No-Profit:** Il gruppo ha fatto del rifiuto del lucro e dell'autofinanziamento un dogma invalicabile, sintetizzato nello slogan esposto sulle proprie pezze: *"I nostri sacrifici sono d'amore & mentalità / Ultras Catania: scopo di lucro zero"*.
 - **La Difesa della Matricola 11700 nel 2020:** Nel luglio 2020, durante la drammatica crisi finanziaria del club e il concordato preventivo, il Mecha Klan fu protagonista di una clamorosa e pacifica manifestazione di fronte al Palazzo di Giustizia di Catania con lo striscione: *"A voi il dovere di giudicare, a noi la possibilità di amare"*, ribadendo l'indissolubilità del legame popolare prima del [[vicende-legali/fallimento-2021-art52-noif|fallimento societario del dicembre 2021]].
 
-Questa vivacità delle tribune affonda le radici nella storia della Curva Nord: la stessa **A.N.R. (Associazione Non Riconosciuta)** nacque originariamente nel **2000** proprio in Tribuna B, prima di trasferirsi stabilmente nella Nord per diventarne una delle colonne portanti assieme ad [[tifoseria/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede]].
+Questa vivacità delle tribune affonda le radici nella storia della Curva Nord: la stessa **[[06-tifoseria-e-cultura/curve/tribuna-b/anr|A.N.R. (Associazione Non Riconosciuta)]]** nacque originariamente nel **2000** proprio in [[06-tifoseria-e-cultura/curve/tribuna-b/index|Tribuna B]], prima di trasferirsi stabilmente nella Nord per diventarne una delle colonne portanti assieme ad [[tifoseria/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede]].
 
 ---
 

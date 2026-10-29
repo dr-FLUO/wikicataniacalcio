@@ -132,6 +132,15 @@ const editorialExplorer = Component.Explorer({
   sortFn: (a, b) => {
     if (a.isFolder && !b.isFolder) return -1
     if (!a.isFolder && b.isFolder) return 1
+    // Ordine inverso per le stagioni: dalla più recente alla più vecchia
+    const isSeasonA = /^\d{4}-\d{4}$/.test(a.displayName)
+    const isSeasonB = /^\d{4}-\d{4}$/.test(b.displayName)
+    if (isSeasonA && isSeasonB) {
+      return b.displayName.localeCompare(a.displayName, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      })
+    }
     return a.displayName.localeCompare(b.displayName, undefined, {
       numeric: true,
       sensitivity: "base",

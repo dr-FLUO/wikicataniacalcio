@@ -40,7 +40,7 @@ aliases:
 - luca-verna
 - tesserati/luca-verna
 - calciatori/luca-verna
-current_squad: true
+current_squad: false
 ---
 
 # Luca Verna — Scheda Giocatore nel Calcio Catania

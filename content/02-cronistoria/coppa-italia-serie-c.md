@@ -1,34 +1,48 @@
 ---
-title: "Coppa Italia Serie C — Storia, Partecipazioni e il Trionfo del 2024"
-description: "Storia delle partecipazioni del Calcio Catania alla Coppa Italia Serie C, dalla finale del 1999 al trionfo storico del 2 aprile 2024 contro il Padova al Massimino."
-slug: "02-cronistoria/coppa-italia-serie-c"
-entity_type: "era_societaria"
-status: "verified"
+title: Coppa Italia Serie C — Storia, Partecipazioni e il Trionfo del 2024
+description: Storia delle partecipazioni del Calcio Catania alla Coppa Italia Serie
+  C, dalla finale del 1999 al trionfo storico del 2 aprile 2024 contro il Padova al
+  Massimino.
+slug: 02-cronistoria/coppa-italia-serie-c
+entity_type: era_societaria
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - coppa-italia-serie-c
-  - trofei
-  - 2-aprile-2024
-  - michele-zeoli
-  - padova
-  - serie-c
+- coppa-italia-serie-c
+- trofei
+- 2-aprile-2024
+- michele-zeoli
+- padova
+- serie-c
 sources:
-- author: "Lega Italiana Calcio Professionistico"
-  title: "Albo d'oro e tabellini della Coppa Italia Serie C"
-  publisher: "Lega Pro"
+- author: Lega Italiana Calcio Professionistico
+  title: Albo d'oro e tabellini della Coppa Italia Serie C
+  publisher: Lega Pro
   year: 2024
-  reference: "Edizione 2023-2024, Finale Padova-Catania e Catania-Padova"
-- author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-  title: "Tutto il Catania minuto per minuto (1929-2010)"
-  publisher: "GEO Edizioni, Empoli"
+  reference: Edizione 2023-2024, Finale Padova-Catania e Catania-Padova
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: "Sezione Coppe Nazionali e Semiprofessionisti, pp. 380-410"
+  reference: Sezione Coppe Nazionali e Semiprofessionisti, pp. 380-410
 aliases:
-  - "cronistoria/coppa-italia-serie-c"
-  - "coppa-italia-serie-c"
-  - "coppa-italia/2023-2024"
-  - "02-cronistoria/coppa-italia-serie-c"
+- cronistoria/coppa-italia-serie-c
+- coppa-italia-serie-c
+- coppa-italia/2023-2024
+- 02-cronistoria/coppa-italia-serie-c
+image_credits:
+- image_path: assets/images/maglie-e-simboli/coccarda-coppa-italia-serie-c.png
+  alt_text: Coccarda tricolore ufficiale della Coppa Italia Serie C vinta dal Catania
+    nel 2023-2024
+  author_or_archive: Lega Italiana Calcio Professionistico
+  year: 2024
+  license_type: Creative Commons CC BY-SA 4.0
 ---
+
+![Coccarda tricolore ufficiale della Coppa Italia Serie C vinta dal Catania nel 2023-2024](/assets/images/maglie-e-simboli/coccarda-coppa-italia-serie-c.png)
+*La coccarda tricolore della Coppa Italia Serie C conquistata dal Catania Football Club nella finale del 2 aprile 2024*
+
 # Coppa Italia Serie C: Storia, Partecipazioni e il Trionfo del 2024
 
 La **Coppa Italia Serie C** (nota in passato come *Coppa Italia Semiprofessionisti* e *Coppa Italia Lega Pro*) rappresenta il principale trofeo nazionale professionistico di categoria vinto dal Calcio Catania nella sua storia quasi centenaria, conquistato al termine di una cavalcata memorabile nella **[[stagioni/2023-2024|stagione 2023-2024]]**.

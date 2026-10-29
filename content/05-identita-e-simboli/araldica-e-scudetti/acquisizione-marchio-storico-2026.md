@@ -37,8 +37,17 @@ sources:
   reference: Edizioni del 22 e 23 ottobre 2026
 aliases:
 - maglie/acquisizione-marchio-storico-2026
+image_credits:
+- image_path: assets/images/maglie-e-simboli/stemma-catania-spa-2002-2022.png
+  alt_text: Stemma storico e marchio commerciale del Calcio Catania S.p.A. dal 2002
+    al 2022
+  author_or_archive: Calcio Catania S.p.A. / Curatela Fallimentare
+  year: 2002
+  license_type: Marchio registrato / Fair Use Art. 70 L. 633/1941
 ---
 
+![Stemma storico e marchio commerciale del Calcio Catania S.p.A. dal 2002 al 2022](/assets/images/maglie-e-simboli/stemma-catania-spa-2002-2022.png)
+*Lo stemma del Calcio Catania S.p.A. (2002–2022) con scudo a tre punte, pallone in cuoio ed elefante araldico*
 
 # L'Acquisizione dello Storico Marchio del Calcio Catania (22 Ottobre 2026)
 

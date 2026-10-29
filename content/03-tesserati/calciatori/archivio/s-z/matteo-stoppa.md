@@ -40,7 +40,7 @@ aliases:
 - matteo-stoppa
 - tesserati/matteo-stoppa
 - calciatori/matteo-stoppa
-current_squad: true
+current_squad: false
 ---
 
 # Matteo Stoppa — Scheda Giocatore nel Calcio Catania

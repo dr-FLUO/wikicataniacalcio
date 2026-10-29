@@ -39,7 +39,7 @@ aliases:
 - salvatore-monaco
 - tesserati/salvatore-monaco
 - calciatori/salvatore-monaco
-current_squad: true
+current_squad: false
 birth_date: '1972-12-28'
 birth_place: Torre Annunziata
 citizenship: Italia

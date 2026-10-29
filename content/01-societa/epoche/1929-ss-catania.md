@@ -50,8 +50,17 @@ aliases:
 - societa/1929-ss-catania
 - societa/1936-afc-catania
 - 01-societa/1936-afc-catania
+image_credits:
+- image_path: assets/images/societa/unione-sportiva-catanese-1910.jpg
+  alt_text: Unione Sportiva Catanese 1910, testimonianza visiva delle origini del
+    calcio a Catania
+  author_or_archive: Archivio Storico Digitale Catanese
+  year: 1910
+  license_type: Pubblico Dominio
 ---
 
+![Unione Sportiva Catanese 1910, testimonianza visiva delle origini del calcio a Catania](/assets/images/societa/unione-sportiva-catanese-1910.jpg)
+*La formazione dell'Unione Sportiva Catanese nel 1910, tra i club pionieri alle origini del movimento calcistico etneo*
 
 # Società Sportiva Catania e AFC Catania (1929–1943)
 

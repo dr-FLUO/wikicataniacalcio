@@ -40,7 +40,7 @@ aliases:
 - francesco-di-tacchio
 - tesserati/francesco-di-tacchio
 - calciatori/francesco-di-tacchio
-current_squad: true
+current_squad: false
 ---
 
 # Francesco Di Tacchio — Scheda Giocatore nel Calcio Catania

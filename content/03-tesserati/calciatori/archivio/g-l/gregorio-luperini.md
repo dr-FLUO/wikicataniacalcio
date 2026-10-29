@@ -33,7 +33,7 @@ aliases:
 - gregorio-luperini
 - tesserati/gregorio-luperini
 - calciatori/gregorio-luperini
-current_squad: true
+current_squad: false
 ---
 
 

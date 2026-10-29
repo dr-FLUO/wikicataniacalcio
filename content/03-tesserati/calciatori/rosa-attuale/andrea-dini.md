@@ -7,6 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
+current_squad: true
 total_appearances: 63
 seasons_count: 3
 tags:

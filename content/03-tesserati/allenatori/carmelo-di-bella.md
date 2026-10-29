@@ -63,6 +63,12 @@ image_credits:
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
+- image_path: assets/images/allenatori/carmelo-di-bella-panchina.jpg
+  alt_text: Carmelo Di Bella a bordo campo durante una partita ufficiale del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1962
+  license_type: Pubblico Dominio
 aliases:
 - tesserati/allenatori/carmelo-di-bella
 - carmelo-di-bella
@@ -70,6 +76,9 @@ aliases:
 - allenatori/carmelo-di-bella
 citizenship: Regno d'Italia
 ---
+
+![Carmelo Di Bella a bordo campo durante una partita ufficiale del Calcio Catania](/assets/images/allenatori/carmelo-di-bella-panchina.jpg)
+*Carmelo Di Bella (1921–1997) in piedi a bordo campo durante gli anni della militanza in Serie A*
 
 ![Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/carmelo-di-bella.jpg)
 *Ritratto ufficiale di Carmelo Di Bella — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*

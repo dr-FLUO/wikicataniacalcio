@@ -9,16 +9,23 @@ status: verified
 last_verified_date: 2026-10-28
 image: assets/images/maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp
 image_credits:
-- image_path: 'assets/images/maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp'
-  alt_text: "Prima divisa ufficiale da gioco del Catania a strisce verticali rossazzurre tradizionali"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp
+  alt_text: Prima divisa ufficiale da gioco del Catania a strisce verticali rossazzurre
+    tradizionali
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp
-  alt_text: "Seconda divisa da trasferta del Catania bianca con banda diagonale rossazzurra Solarino storici (R.F. n. 165/2021)"
+  alt_text: Seconda divisa da trasferta del Catania bianca con banda diagonale rossazzurra
+    Solarino storici (R.F. n. 165/2021)
   author_or_archive: Archivio Storico Calcio Catania
   year: 1983
   license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
+- image_path: assets/images/maglie-e-simboli/stemma-storico-calcio-catania.png
+  alt_text: Stemma araldico classico della tradizione del Calcio Catania
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1960
+  license_type: Pubblico Dominio
 tags:
 - araldica
 - colori-sociali
@@ -46,6 +53,10 @@ sources:
 aliases:
 - maglie/simbologia-colori-scudetti
 ---
+
+![Stemma araldico classico della tradizione del Calcio Catania](/assets/images/maglie-e-simboli/stemma-storico-calcio-catania.png)
+*L'antico stemma tradizionale del Calcio Catania con scudo e Liotru araldico*
+
 # Simbologia, Colori Sociali e Stemmi Ufficiali del Calcio Catania (1929-2026)
 
 ![Prima divisa ufficiale da gioco del Catania a strisce verticali rossazzurre tradizionali](/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-prima-divisa-strisce-rossazzurre-2026-2027.webp)

@@ -49,8 +49,16 @@ sources:
   reference: Sezione Storia 1967-1993
 aliases:
 - societa/1967-calcio-catania-spa-massimino
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/angelo-massimino-1980.jpg
+  alt_text: Angelo Massimino, storico presidente del Calcio Catania nel 1980
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1980
+  license_type: Creative Commons CC BY-SA 4.0
 ---
 
+![Angelo Massimino, storico presidente del Calcio Catania nel 1980](/assets/images/presidenti-dirigenti/angelo-massimino-1980.jpg)
+*Angelo Massimino (1927–1996), il «Presidentissimo» alla guida del Calcio Catania S.p.A. nel 1980*
 
 # Calcio Catania S.p.A. — Era Massimino (1967–1993)
 

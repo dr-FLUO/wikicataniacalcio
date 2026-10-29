@@ -38,8 +38,16 @@ cover_caption: Il complesso sportivo di Torre del Grifo Village, oggetto delle a
 cover_credit: 'Foto: Salvosmav · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
 aliases:
 - stadio/acquisizione-torre-del-grifo-2025-2026
+image_credits:
+- image_path: assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg
+  alt_text: Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 2023
+  license_type: Creative Commons CC BY-SA 4.0
 ---
 
+![Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia](/assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg)
+*Panoramica aerea del complesso sportivo Torre del Grifo Village a Mascalucia*
 
 # Il Riacquisto di Torre del Grifo Village all'Asta Fallimentare (2025–2026)
 

@@ -40,7 +40,7 @@ aliases:
 - gianluca-carpani
 - tesserati/gianluca-carpani
 - calciatori/gianluca-carpani
-current_squad: true
+current_squad: false
 ---
 
 # Gianluca Carpani — Scheda Giocatore nel Calcio Catania

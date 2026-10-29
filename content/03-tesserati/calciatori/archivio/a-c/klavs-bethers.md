@@ -40,7 +40,7 @@ aliases:
 - klavs-bethers
 - tesserati/klavs-bethers
 - calciatori/klavs-bethers
-current_squad: true
+current_squad: false
 ---
 
 # Klavs Bethers — Scheda Giocatore nel Calcio Catania

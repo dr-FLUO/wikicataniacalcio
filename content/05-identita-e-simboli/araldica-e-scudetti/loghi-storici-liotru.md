@@ -30,8 +30,17 @@ sources:
     2024)
 aliases:
 - maglie/loghi-storici-liotru
+image_credits:
+- image_path: assets/images/maglie-e-simboli/logo-catania-fc-ufficiale.png
+  alt_text: Nuovo logo ufficiale del Catania Football Club introdotto con la rifondazione
+    nel 2022
+  author_or_archive: Catania Football Club / Giuseppe Bob Liuzzo
+  year: 2022
+  license_type: Marchio registrato / Fair Use Art. 70 L. 633/1941
 ---
 
+![Nuovo logo ufficiale del Catania Football Club introdotto con la rifondazione nel 2022](/assets/images/maglie-e-simboli/logo-catania-fc-ufficiale.png)
+*Il logo ufficiale del Catania FC disegnato da Bob Liuzzo e scelto dai sostenitori tramite sondaggio nel luglio 2022*
 
 # Evoluzione dello Stemma Storico (*"u Liotru"*) e delle Divise Rossazzurre
 

@@ -33,7 +33,7 @@ aliases:
 - francesco-de-rose
 - tesserati/francesco-de-rose
 - calciatori/francesco-de-rose
-current_squad: true
+current_squad: false
 ---
 
 

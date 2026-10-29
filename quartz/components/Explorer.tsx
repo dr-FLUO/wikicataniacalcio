@@ -81,21 +81,26 @@ export default ((userOpts?: Partial<Options>) => {
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
           aria-controls={id}
+          aria-label="Apri archivio dossier"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            stroke-width="2"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            class="lucide-menu"
-          >
-            <line x1="4" x2="20" y1="12" y2="12" />
-            <line x1="4" x2="20" y1="6" y2="6" />
-            <line x1="4" x2="20" y1="18" y2="18" />
-          </svg>
+          <span class="mobile-explorer-left">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              stroke-width="2.2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              class="lucide-menu"
+            >
+              <line x1="4" x2="20" y1="12" y2="12" />
+              <line x1="4" x2="20" y1="6" y2="6" />
+              <line x1="4" x2="20" y1="18" y2="18" />
+            </svg>
+            <span class="mobile-explorer-label">{opts.title ?? "Archivio Dossier"}</span>
+          </span>
+          <span class="mobile-explorer-pill">1929–2026</span>
         </button>
         <button
           type="button"
@@ -120,6 +125,33 @@ export default ((userOpts?: Partial<Options>) => {
           </svg>
         </button>
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
+          <div class="mobile-explorer-header">
+            <div class="mobile-explorer-header-text">
+              <span class="mobile-explorer-header-kicker">ARCHIVIO STORICO · DAL 1929</span>
+              <span class="mobile-explorer-header-title">{opts.title ?? "Archivio Dossier"}</span>
+            </div>
+            <button
+              type="button"
+              class="explorer-toggle mobile-explorer-close-btn"
+              aria-label="Chiudi archivio dossier"
+            >
+              <span>CHIUDI</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <line x1="18" y1="6" x2="6" y2="18" />
+                <line x1="6" y1="6" x2="18" y2="18" />
+              </svg>
+            </button>
+          </div>
           <OverflowList class="explorer-ul" />
         </div>
         <template id="template-file">

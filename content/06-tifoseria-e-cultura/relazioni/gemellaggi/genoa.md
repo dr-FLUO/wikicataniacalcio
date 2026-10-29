@@ -10,7 +10,7 @@ origin_district: Catania, Genova e piazze amiche in Sicilia e in Italia
 stadium_sector: Curva Sud - Anello Inferiore
 stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: 2026-10-29
 tags:
 - tifoseria
 - gemellaggi
@@ -39,16 +39,16 @@ aliases:
 
 # Rispetto e Amicizia Catania-Genoa e Quadro delle Amicizie Regionali e Nazionali
 
-Oltre ai gemellaggi strutturati con [[tifoseria/gemellaggi/crotone|Crotone]], [[tifoseria/gemellaggi/triestina|Triestina]] e [[tifoseria/gemellaggi/napoli|Napoli]] e ai legami internazionali con [[tifoseria/gemellaggi/borussia-dortmund|Borussia Dortmund e Polonia Bytom]], la diplomazia ultras della [[tifoseria/curva-sud/index|Curva Sud]] e della [[tifoseria/curva-nord/index|Curva Nord]] dello [[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]] annovera un consolidato rapporto di **rispetto e amicizia con il Genoa** e una rete di storiche alleanze regionali e nazionali che include **Trapani**, **Sicula Leonzio**, **Benevento**, **Parma**, **Monopoli**, **Potenza**, **Battipagliese**, **Ebolitana** e **Vigor Lamezia**.
+Oltre ai gemellaggi strutturati con [[tifoseria/gemellaggi/crotone|Crotone]], [[tifoseria/gemellaggi/triestina|Triestina]] e [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]] e ai legami internazionali con [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund e Polonia Bytom]], la diplomazia ultras della [[tifoseria/curva-sud/index|Curva Sud]] e della [[tifoseria/curva-nord/index|Curva Nord]] dello [[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]] annovera un consolidato rapporto di **rispetto e amicizia con il Genoa** e una rete di storiche alleanze regionali e nazionali che include [[06-tifoseria-e-cultura/relazioni/gemellaggi/trapani|Trapani]], **Sicula Leonzio**, [[06-tifoseria-e-cultura/relazioni/gemellaggi/benevento|Benevento]], [[06-tifoseria-e-cultura/relazioni/amicizie/parma|Parma]], **Monopoli**, **Potenza**, **Battipagliese**, **Ebolitana** e **Vigor Lamezia**.
 
 > [!abstract] La Rete delle Amicizie Storiche Rossazzurre
-> Costruita lungo oltre quarant'anni di militanza tra Serie A, Serie B e Serie C, la rete delle amicizie etnee poggia su tre direttrici: il rispetto storico con grandi curve nazionali (**Genoa** e **Parma**), l'alleanza strategica con due piazze siciliane (**Trapani** e **Sicula Leonzio**) e i rapporti di stima nel Mezzogiorno (**Benevento**, **Monopoli**, **Potenza**).
+> Costruita lungo oltre quarant'anni di militanza tra Serie A, Serie B e Serie C, la rete delle amicizie etnee poggia su tre direttrici: il rispetto storico con grandi curve nazionali (**Genoa** e [[06-tifoseria-e-cultura/relazioni/amicizie/parma|Parma]]), l'alleanza strategica con due piazze siciliane ([[06-tifoseria-e-cultura/relazioni/gemellaggi/trapani|Trapani]] e **Sicula Leonzio**) e i rapporti di stima nel Mezzogiorno ([[06-tifoseria-e-cultura/relazioni/gemellaggi/benevento|Benevento]], **Monopoli**, **Potenza**).
 
 ---
 
 ## Il Rapporto di Rispetto e Amicizia con il Genoa
 
-Tra la tifoseria del Catania e la *Gradinata Nord* del **Genoa** intercorre da decenni un rapporto di profonda stima e rispetto reciproco, favorito tanto dall'affinità cromatica tra il rossazzurro e il rossoblù quanto dal comunegemellaggio/amicizia con la curva del **[[tifoseria/gemellaggi/napoli|Napoli]]** (storicamente legata al Genoa dal 1982).
+Tra la tifoseria del Catania e la *Gradinata Nord* del **Genoa** intercorre da decenni un rapporto di profonda stima e rispetto reciproco, favorito tanto dall'affinità cromatica tra il rossazzurro e il rossoblù quanto dal comunegemellaggio/amicizia con la curva del **[[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]]** (storicamente legata al Genoa dal 1982).
 
 Sebbene nella primavera del 2003 la società ligure figurasse tra gli otto club cadetti intervenuti *ad adiuvandum* davanti alla Corte Federale nel [[vicende-legali/caso-catania-2003|Caso Catania (Caso Martinelli)]], l'esito finale di quella battaglia legale condotta dal Catania davanti al TAR Sicilia — sfociata il 19 agosto 2003 nel Decreto-Legge n. 220/2003 e nel ripescaggio congiunto di Catania, Genoa e Salernitana nella Serie B a 24 squadre ([[stagioni/2003-2004|Stagione 2003-2004]]) — finì per accomunare i destini delle due piazze. Negli otto campionati consecutivi di Serie A disputati dagli etnei tra il 2006 e il 2014 ([[societa/2004-era-pulvirenti|Era Pulvirenti]]), gli incroci tra lo [[stadio/angelo-massimino|Stadio Massimino]] e lo Stadio Luigi Ferraris di Marassi si sono sempre svolti in un clima di distensione e stima tra i gruppi ultras.
 
@@ -69,10 +69,10 @@ Sul piano nazionale, il quadro delle relazioni amichevoli comprende piazze con c
 | Tifoseria / Club Amico | Area Geografica | Epoca d'Origine | Genesi e Caratteristiche del Rapporto |
 | :--- | :--- | :--- | :--- |
 | **Genoa** | Liguria (Genova) | Anni 2000 | Storico rispetto reciproco negli anni della Serie B ([[stagioni/2003-2004\|2003-2004]]) e della Serie A (2007–2014), rafforzato dalla comune amicizia con il [[tifoseria/gemellaggi/napoli\|Napoli]]. |
-| **Trapani** | Sicilia (Trapani) | Anni '80–'90 | Storica amicizia e alleanza regionale siciliana, saldata anche dalla comune rivalità verso il [[tifoseria/rivalita/palermo\|Palermo]]. |
+| [[06-tifoseria-e-cultura/relazioni/gemellaggi/trapani|Trapani]] | Sicilia (Trapani) | Anni '80–'90 | Storica amicizia e alleanza regionale siciliana, saldata anche dalla comune rivalità verso il [[tifoseria/rivalita/palermo\|Palermo]]. |
 | **Sicula Leonzio** | Sicilia (Lentini, SR) | Anni '80–'90 | Fratellanza territoriale e condivisione del bacino sportivo ai confini della Piana di Catania. |
-| **Benevento** | Campania (Benevento) | Anni '90–2010 | Profonda amicizia e rispetto reciproco tra i gruppi della [[tifoseria/curva-sud/index\|Curva Sud]] e la *Curva Sud* sannita; omaggio ufficiale esposto a Benevento per [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]] nel febbraio 2017. |
-| **Parma** | Emilia-Romagna (Parma) | Anni '80 | Gemellaggio storico nato negli anni Ottanta (con i *Boys Parma 1977*) ai tempi dei confronti cadetti dell'[[societa/1967-calcio-catania-spa-massimino\|Era Massimino]], evolutosi nei decenni in un rapporto di cordiale rispetto. |
+| [[06-tifoseria-e-cultura/relazioni/gemellaggi/benevento|Benevento]] | Campania (Benevento) | Anni '90–2010 | Profonda amicizia e rispetto reciproco tra i gruppi della [[tifoseria/curva-sud/index\|Curva Sud]] e la *Curva Sud* sannita; omaggio ufficiale esposto a Benevento per [[tifoseria/biografie/ciccio-famoso\|Ciccio Famoso]] nel febbraio 2017. |
+| [[06-tifoseria-e-cultura/relazioni/amicizie/parma|Parma]] | Emilia-Romagna (Parma) | Anni '80 | Gemellaggio storico nato negli anni Ottanta (con i *Boys Parma 1977*) ai tempi dei confronti cadetti dell'[[societa/1967-calcio-catania-spa-massimino\|Era Massimino]], evolutosi nei decenni in un rapporto di cordiale rispetto. |
 | **Monopoli** e **Potenza** | Puglia e Basilicata | Anni '90–2010 | Rapporti di stima e rispetto ultras maturati nei campionati di Serie C1/Lega Pro del Girone C. |
 | **Battipagliese**, **Ebolitana**, **Vigor Lamezia** | Campania e Calabria | Anni '90 | Amicizie nate negli anni della risalita dal Campionato Nazionale Dilettanti e dalla Serie C2 dopo l'[[stagioni/1993-1994\|Eccellenza 1993-1994]]. |
 

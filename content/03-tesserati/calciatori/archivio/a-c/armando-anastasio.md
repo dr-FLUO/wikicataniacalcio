@@ -40,7 +40,7 @@ aliases:
 - armando-anastasio
 - tesserati/armando-anastasio
 - calciatori/armando-anastasio
-current_squad: true
+current_squad: false
 ---
 
 # Armando Anastasio — Scheda Giocatore nel Calcio Catania

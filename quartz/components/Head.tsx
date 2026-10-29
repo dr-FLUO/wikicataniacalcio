@@ -49,18 +49,16 @@ export default (() => {
                   return;
                 }
                 var clean = isGh ? path.slice("/wikicataniacalcio".length) : path;
-                var sections = [
+                var rootSections = [
                   "01-societa", "02-cronistoria", "03-tesserati", "04-strutture",
                   "05-identita-e-simboli", "06-tifoseria-e-cultura", "07-media-e-comunicazione",
                   "08-settori-paralleli", "tags", "note-legali-privacy-accessibilita",
-                  "segnala-correzione", "societa", "cronistoria", "tesserati",
-                  "strutture", "stadio", "simboli", "tifoseria", "media", "paralleli",
-                  "stagioni", "partite-storiche", "vicende-legali"
+                  "segnala-correzione"
                 ];
                 var segs = clean.split("/").filter(Boolean);
                 var lastIdx = -1;
                 for (var i = 0; i < segs.length; i++) {
-                  if (sections.indexOf(segs[i]) !== -1) lastIdx = i;
+                  if (rootSections.indexOf(segs[i]) !== -1) lastIdx = i;
                 }
                 if (lastIdx > 0) {
                   var unnested = (isGh ? "/wikicataniacalcio" : "") + "/" + segs.slice(lastIdx).join("/") + (window.location.pathname.endsWith("/") ? "/" : "");

@@ -29,16 +29,22 @@ cover_caption: Veduta panoramica dello Stadio Angelo Massimino (storico Cibali, 
   il 28 novembre 1937).
 cover_credit: 'Foto: Giovanni Ct wiki · Licenza: CC BY-SA 4.0'
 image_credits:
-- image_path: 'https://commons.wikimedia.org'
-  alt_text: "Panoramica aerea dello Stadio Angelo Massimino Cibali durante una partita"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: https://commons.wikimedia.org
+  alt_text: Panoramica aerea dello Stadio Angelo Massimino Cibali durante una partita
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: ../assets/images/strutture-e-stadi/stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp
   alt_text: Panoramica aerea dello Stadio Angelo Massimino Cibali durante una partita
   author_or_archive: Archivio Storico Giornalistico Catanese
   year: 1983
   license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
+- image_path: assets/images/strutture-e-stadi/stadio-angelo-massimino-restyling-2023.jpg
+  alt_text: Panoramica dello Stadio Angelo Massimino dopo i lavori di restyling e
+    posa dei nuovi seggiolini 2023
+  author_or_archive: Comune di Catania / Catania FC
+  year: 2023
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - stadio/angelo-massimino
 ---
@@ -68,6 +74,11 @@ Lo **Stadio Angelo Massimino**, storicamente e popolarmente noto come **Stadio C
 | **2022–2024** | Riqualificazione moderna (fondi comunitari). | Installazione dei nuovi seggiolini rossazzurri con scritta *CATANIA 1946*, nuovo manto erboso, tabellone LED e restyling delle tribune. |
 
 ---
+
+
+
+![Panoramica dello Stadio Angelo Massimino dopo i lavori di restyling e posa dei nuovi seggiolini 2023](/assets/images/strutture-e-stadi/stadio-angelo-massimino-restyling-2023.jpg)
+*Lo Stadio Angelo Massimino dopo i profondi lavori di riqualificazione e ammodernamento del 2023*
 
 ## Fonti e Bibliografia
 

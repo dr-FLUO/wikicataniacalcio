@@ -11,7 +11,7 @@ origin_district: Messina, Stadio Giovanni Celeste
 stadium_sector: Curva Nord Ospiti e Gradinata Locali
 stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: 2026-10-29
 tags:
 - tifoseria
 - eventi

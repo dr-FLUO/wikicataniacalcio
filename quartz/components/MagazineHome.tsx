@@ -75,9 +75,9 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Catania–Padova 4-2 d.t.s.: il primo trofeo nazionale nella bacheca etnea",
     excerpt:
       "Dal gol di Marsura al 120' alla bolgia del Massimino: cronaca e tabellino della prima Coppa Italia Serie C conquistata dal club.",
-    href: "./02-cronistoria/stagioni/2023-2024",
-    image: "./static/images/photos/catania-fc-match-cibali.jpg",
-    credit: "Foto: SonoGrazy (CC BY-SA 4.0)",
+    href: "./02-cronistoria/coppa-italia-serie-c",
+    image: "./static/images/photos/coccarda-coppa-italia-c.png",
+    credit: "Lega Pro · Foto Ufficiale",
   },
 
   // Batch 2 (Treni del Gol, Simeone, Massimino TAR, Derby Barbera 0-4, Inter 3-1, Rinascita Serie D)
@@ -156,7 +156,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "I fatti del 2 febbraio 2007: la Legge 41/2007 e la svolta negli stadi",
     excerpt:
       "I tragici scontri del derby, la scomparsa dell'ispettore Raciti e la legislazione governativa che rivoluzionò i canoni dell'ordine pubblico negli impianti sportivi.",
-    href: "./vicende-legali/decreto-2-febbraio-2007",
+    href: "./01-societa/vicende-legali/decreto-2-febbraio-2007",
     image: "./static/images/photos/pala-spedini-raciti-2007.jpg",
     credit: "Foto: Wikimedia Commons (CC BY-SA 2.5)",
   },
@@ -167,7 +167,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "La sentenza di fallimento n. 158/2021 e la fine della Matricola 11700",
     excerpt:
       "La drammatica estinzione della matricola storica del 1946 decretata dal Tribunale di Catania e la revoca dell'esercizio provvisorio.",
-    href: "./vicende-legali/fallimento-2021-art52-noif",
+    href: "./01-societa/vicende-legali/fallimento-2021-art52-noif",
     image: "./static/images/photos/palazzo-giustizia-catania.jpg",
     credit: "Foto: DMarx22 (CC BY-SA 4.0)",
   },
@@ -178,7 +178,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Piazza Esposizione: il primo rettangolo di gioco del calcio a Catania",
     excerpt:
       "La culla pionieristica della Pro Patria e della SS Catania nella piazza dei Malavoglia, prima dell'inaugurazione del Cibali nel 1937.",
-    href: "./stadio/piazza-esposizione",
+    href: "./04-strutture/campi-storici/piazza-esposizione",
     image: "./static/images/photos/piazza-verga-malavoglia.jpg",
     credit: "Foto: Drunkpiper (Pubblico Dominio)",
   },
@@ -189,7 +189,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "L'era Marcoccio e Horst Szymaniak: il primo fuoriclasse mondiale al Cibali",
     excerpt:
       "La gestione illuminata del Commissario Straordinario Ignazio Marcoccio e l'acquisto del leggendario centrocampista della Nazionale tedesca.",
-    href: "./societa/presidenti/ignazio-marcoccio",
+    href: "./01-societa/presidenti/ignazio-marcoccio",
     image: "./static/images/photos/szymaniak-marcoccio.jpg",
     credit: "Archivio Storico · Pubblico Dominio",
   },
@@ -200,7 +200,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Marco Biagianti: 284 battaglie e il record assoluto di presenze in Serie A",
     excerpt:
       "Dalla chiamata in Nazionale maggiore di Marcello Lippi al ritorno in Serie C: fedeltà incrollabile di una bandiera rossazzurra.",
-    href: "./tesserati/calciatori/marco-biagianti",
+    href: "./03-tesserati/calciatori/storici/marco-biagianti",
     image: "./static/images/photos/marco-biagianti.jpg",
     credit: "Foto: Manku 7 (Pubblico Dominio)",
   },
@@ -214,6 +214,142 @@ const COVER_STORIES_POOL: CoverStory[] = [
     href: "./03-tesserati/calciatori/storici/alejandro-gomez",
     image: "./static/images/photos/papu-gomez.jpg",
     credit: "Foto: Wikimedia Commons (CC BY-SA 4.0)",
+  },
+
+  // Batch 4 (Cinema, Nazionali, Prima Serie A 1954, Promozione B 1934, Mascotte & Inni, Araldica)
+  {
+    id: "catania-cinema-tv",
+    issue: "CINEMA · 1973–2010",
+    category: "CULTURA POPOLARE",
+    title: "Il Catania nel cinema italiano: da Oronzo Canà ad Al bar dello sport e Malizia",
+    excerpt:
+      "Da Lino Banfi all'Hotel Executive per Luvanor e Pedrinho alle scene di culto con Turi Ferro e Giancarlo Giannini nella commedia all'italiana.",
+    href: "./07-media-e-comunicazione/cinema-e-tv/cultura-di-massa",
+    image: "./static/images/photos/clamoroso-inter-1961.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+  {
+    id: "contributo-nazionali",
+    issue: "MONDIALI · 1962–2024",
+    category: "AZZURRI & ESTERO",
+    title: "I rossazzurri nel mondo: dai Mondiali del 1962 al titolo iridato di Janković",
+    excerpt:
+      "Dalla storica spedizione di Horst Szymaniak a Cile '62 e la notte di Mascara a Pisa, fino ad Andújar vicecampione del mondo e Janković campione U-20.",
+    href: "./03-tesserati/calciatori/contributo-nazionali",
+    image: "./static/images/photos/szymaniak-marcoccio.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+  {
+    id: "prima-serie-a-1954-1955",
+    issue: "SERIE A · 1954-1955",
+    category: "PRIMATI STORICI",
+    title: "La prima volta in Paradiso: la favola del Catania di Piero Andreoli",
+    excerpt:
+      "Dall'apoteosi della promozione del 1954 alla clamorosa vittoria al Comunale di Bologna: cronaca della storica prima stagione in massima serie.",
+    href: "./02-cronistoria/stagioni/1954-1955",
+    image: "./static/images/photos/catania-1954-55.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "ss-catania-1933-1934",
+    issue: "PIONIERI · 1933-1934",
+    category: "PRIMA DIVISIONE",
+    title: "La cavalcata della SS Catania: Géza Kertész e la prima storica Serie B",
+    excerpt:
+      "Il trionfo nelle finali promozione del 1934 che spalancò le porte del professionismo nazionale alla società dell'Elefante.",
+    href: "./02-cronistoria/stagioni/1933-1934",
+    image: "./static/images/photos/catania-1933-34.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "mascotte-e-inni",
+    issue: "IDENTITÀ · SIMBOLI",
+    category: "ARALDICA & FOLKLORE",
+    title: "Agatino il Liotru e gli inni del Cibali: storie di devozione e canti popolari",
+    excerpt:
+      "Dal sondaggio del 2014 in onore di Sant'Agata alle hit di Giuseppe Castiglia e la carica orchestrale di Pirati dei Caraibi sul prato del Massimino.",
+    href: "./05-identita-e-simboli/mascotte-e-inni",
+    image: "./static/images/photos/liotru-storico-1865.jpg",
+    credit: "Archivio Civico Catanese",
+  },
+  {
+    id: "araldica-marchio-2026",
+    issue: "ARALDICA · 1946–2026",
+    category: "IDENTITÀ CIVICA",
+    title: "Dallo scudetto del 1946 a Bob Liuzzo: l'evoluzione araldica del Liotru",
+    excerpt:
+      "Lo scudo palato con il pallone in cuoio, la rinascita grafica post-fallimento e la storica procedura di riacquisto del marchio tradizionale.",
+    href: "./05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026",
+    image: "./static/images/photos/stemma-catania-spa-2002-2022.png",
+    credit: "Archivio Storico Calcio Catania",
+  },
+
+  // Batch 5 (US Catanese 1910, Massimino Restyling, Maglie & Sponsor, Curva Nord Ciccio Famoso, Argentini, Torre del Grifo)
+  {
+    id: "us-catanese-1910",
+    issue: "ORIGINI · 1910",
+    category: "ARCHEOLOGIA CALCISTICA",
+    title: "1910: l'Unione Sportiva Catanese e le prime sfide a Piazza Esposizione",
+    excerpt:
+      "Dai pionieri contro i marinai inglesi all'eredità della Pro Patria: la scintilla che accese la passione calcistica nella città etnea.",
+    href: "./01-societa/epoche/1929-ss-catania",
+    image: "./static/images/photos/unione-sportiva-catanese-1910.jpg",
+    credit: "Archivio Storico Digitale Catanese",
+  },
+  {
+    id: "stadio-massimino-restyling",
+    issue: "ARCHITETTURA · 1937–2024",
+    category: "IMPIANTI SPORTIVI",
+    title: "Stadio Angelo Massimino: dal Cibali di Raffaele Leone al restyling 2023",
+    excerpt:
+      "Oltre ottant'anni di battaglie sportive, dalle universiadi del 1997 alla posa dei nuovi seggiolini rossazzurri e del manto moderno.",
+    href: "./04-strutture/stadio-massimino/angelo-massimino",
+    image: "./static/images/photos/stadio-massimino-restyling-2023.jpg",
+    credit: "Comune di Catania / Catania FC",
+  },
+  {
+    id: "maglie-e-sponsor",
+    issue: "MATERIALI · 1979–OGGI",
+    category: "CULTURA TESSILE",
+    title: "Quarant'anni di divise e sponsor: dall'acrilico Ennerre alla lava di Erreà",
+    excerpt:
+      "La trasformazione della maglia palata tra cotone, lanetta, colletti vintage e sponsor leggendari come Haribo, Poiatti ed SP.",
+    href: "./05-identita-e-simboli/sponsor/sponsor-tecnici-e-commerciali",
+    image: "./static/images/photos/stemma-catania-ssd-2022-2023.png",
+    credit: "Archivio Storico Maglie Catania",
+  },
+  {
+    id: "ciccio-famoso-ultras",
+    issue: "CURVA NORD · 1979",
+    category: "MOVIMENTO ULTRAS",
+    title: "Ciccio Famoso e la Falange d'Assalto: la nascita della passione ultras",
+    excerpt:
+      "Nel 1979 nasce la prima falange organizzata del Cibali: quarant'anni di cortei, trasferte epiche e coreografie monumentali della Curva Nord.",
+    href: "./06-tifoseria-e-cultura/biografie/ciccio-famoso",
+    image: "./static/images/photos/coreografia-ciccio-famoso.jpg",
+    credit: "Curva Nord Catania",
+  },
+  {
+    id: "catania-degli-argentini",
+    issue: "SERIE A · 2008–2013",
+    category: "LABORATORIO TATTICO",
+    title: "Il Catania degli Argentini: l'epopea sudamericana che incantò l'Italia",
+    excerpt:
+      "Da Papu Gómez a Maxi López, Bergessio, Izco, Barrientos e Andújar: quando il Massimino divenne una filiale della Bombonera.",
+    href: "./01-societa/epoche/catania-degli-argentini",
+    image: "./static/images/photos/gonzalo-bergessio.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "torre-del-grifo-village",
+    issue: "CENTRO SPORTIVO · 2011–2026",
+    category: "PATRIMONIO IMMOBILIARE",
+    title: "Torre del Grifo Village: il sogno d'eccellenza, il baratro e la rinascita",
+    excerpt:
+      "Centocinquantamila metri quadri di campi e strutture d'avanguardia a Mascalucia: la culla dei successi in A e il piano di riscatto.",
+    href: "./04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026",
+    image: "./static/images/photos/torre-del-grifo-village.jpg",
+    credit: "Foto: Salvosmav (CC BY-SA 4.0)",
   },
 ]
 
@@ -233,7 +369,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Giuseppe Mascara",
     role: "ATTACCANTE · 2003–2011",
     stat: "236 PRES · 61 GOL",
-    href: "./tesserati/calciatori/giuseppe-mascara",
+    href: "./03-tesserati/calciatori/storici/giuseppe-mascara",
     image: "./static/images/photos/mascara-tifosi.jpg",
   },
   {
@@ -241,7 +377,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Marco Biagianti",
     role: "CAPITANO · 2007–2020",
     stat: "284 PRES · RECORD A",
-    href: "./tesserati/calciatori/marco-biagianti",
+    href: "./03-tesserati/calciatori/storici/marco-biagianti",
     image: "./static/images/photos/marco-biagianti.jpg",
   },
   {
@@ -260,6 +396,8 @@ const PORTRAITS_POOL: PortraitItem[] = [
     href: "./01-societa/presidenti/angelo-massimino",
     image: "./static/images/photos/angelo-massimino.jpg",
   },
+
+  // Batch 2 (Tecnici e Bomber dell'Era A)
   {
     id: "diego-pablo-simeone",
     name: "Diego Pablo Simeone",
@@ -276,8 +414,6 @@ const PORTRAITS_POOL: PortraitItem[] = [
     href: "./03-tesserati/calciatori/storici/gonzalo-bergessio",
     image: "./static/images/photos/gonzalo-bergessio.jpg",
   },
-
-  // Batch 2 (Campioni, Condottieri e Rinascite)
   {
     id: "alejandro-gomez",
     name: "Alejandro «Papu» Gómez",
@@ -294,6 +430,8 @@ const PORTRAITS_POOL: PortraitItem[] = [
     href: "./03-tesserati/allenatori/sinisa-mihajlovic",
     image: "./static/images/photos/sinisa-mihajlovic.jpg",
   },
+
+  // Batch 3 (Rinascita, Risalita e Registi)
   {
     id: "ross-pelligra",
     name: "Ross Pelligra",
@@ -323,17 +461,17 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Gionatha Spinesi",
     role: "BOMBER · 2005–2009",
     stat: "127 PRES · 49 RETI",
-    href: "./tesserati/calciatori/gionatha-spinesi",
+    href: "./03-tesserati/calciatori/storici/gionatha-spinesi",
     image: "./static/images/photos/mascara-spinesi.jpg",
   },
 
-  // Batch 3 (Registi, Protagonisti del ciclo A e Presidenti storici)
+  // Batch 4 (Protagonisti del ciclo A)
   {
     id: "maxi-lopez",
     name: "Maxi López",
     role: "ATTACCANTE · 2010–2014",
     stat: "70 PRES · 27 GOL",
-    href: "./tesserati/calciatori/maxi-lopez",
+    href: "./03-tesserati/calciatori/archivio/m-o/maxi-lopez",
     image: "./static/images/photos/maxi-lopez.jpg",
   },
   {
@@ -341,7 +479,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Mariano Julio Izco",
     role: "CENTROCAMPISTA · 2006–2014",
     stat: "280 PRES · 8 ANNI A",
-    href: "./tesserati/calciatori/mariano-izco",
+    href: "./03-tesserati/calciatori/storici/mariano-izco",
     image: "./static/images/photos/mariano-izco.jpg",
   },
   {
@@ -349,7 +487,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Pablo Barrientos",
     role: "TREQUARTISTA · 2011–2014",
     stat: "86 PRES · 14 GOL",
-    href: "./tesserati/calciatori/pablo-barrientos",
+    href: "./03-tesserati/calciatori/archivio/p-r/pablo-barrientos",
     image: "./static/images/photos/pablo-barrientos.jpg",
   },
   {
@@ -357,15 +495,17 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Rolando Maran",
     role: "ALLENATORE · 2012–2014",
     stat: "56 PT · 8° IN SERIE A",
-    href: "./tesserati/allenatori/rolando-maran",
+    href: "./03-tesserati/allenatori/rolando-maran",
     image: "./static/images/photos/rolando-maran.jpg",
   },
+
+  // Batch 5 (Condottieri storici e Tecnici d'Autore)
   {
     id: "gianni-di-marzio",
     name: "Gianni Di Marzio",
     role: "ALLENATORE · 1982–1984",
     stat: "SPAREGGI ROMA 1983",
-    href: "./tesserati/allenatori/gianni-di-marzio",
+    href: "./03-tesserati/allenatori/gianni-di-marzio",
     image: "./static/images/photos/gianni-di-marzio.jpg",
   },
   {
@@ -373,7 +513,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Ignazio Marcoccio",
     role: "PRESIDENTE · 1959–1969",
     stat: "SERIE A D'ORO",
-    href: "./societa/presidenti/ignazio-marcoccio",
+    href: "./01-societa/presidenti/ignazio-marcoccio",
     image: "./static/images/photos/szymaniak-marcoccio.jpg",
   },
   {
@@ -381,7 +521,7 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Walter Zenga",
     role: "ALLENATORE · 2008–2009",
     stat: "SALVEZZA A · DERBY 0-4",
-    href: "./tesserati/allenatori/walter-zenga",
+    href: "./03-tesserati/allenatori/walter-zenga",
     image: "./static/images/photos/walter-zenga.jpg",
   },
   {
@@ -389,8 +529,144 @@ const PORTRAITS_POOL: PortraitItem[] = [
     name: "Vincenzo Montella",
     role: "ALLENATORE · 2011–2012",
     stat: "48 PT · BEL GIOCO A",
-    href: "./tesserati/allenatori/vincenzo-montella",
+    href: "./03-tesserati/allenatori/vincenzo-montella",
     image: "./static/images/photos/vincenzo-montella.jpg",
+  },
+
+  // Batch 6 (Recordmen e Bandiere Eterne)
+  {
+    id: "nicolo-nicolosi",
+    name: "Nicolò Nicolosi",
+    role: "CENTRAVANTI · 1932–1949",
+    stat: "78 GOL · RECORD ASSOLUTO",
+    href: "./03-tesserati/calciatori/storici/nicolo-nicolosi",
+    image: "./static/images/photos/nicolo-nicolosi.jpg",
+  },
+  {
+    id: "damiano-morra",
+    name: "Damiano Morra",
+    role: "CAPITANO · 1975–1984",
+    stat: "320 PRES · RECORD ASSOLUTO",
+    href: "./03-tesserati/calciatori/storici/damiano-morra",
+    image: "./static/images/photos/damiano-morra.webp",
+  },
+  {
+    id: "adelmo-prenna",
+    name: "Adelmo Prenna",
+    role: "MEZZALA · 1958–1964",
+    stat: "247 PRES · 48 GOL IN A",
+    href: "./03-tesserati/calciatori/storici/adelmo-prenna",
+    image: "./static/images/photos/adelmo-prenna.jpg",
+  },
+  {
+    id: "aldo-cantarutti",
+    name: "Aldo Cantarutti",
+    role: "CENTRAVANTI · 1981–1984",
+    stat: "SPAREGGI ROMA 1983",
+    href: "./03-tesserati/calciatori/storici/aldo-cantarutti",
+    image: "./static/images/photos/mastalli-cantarutti.jpg",
+  },
+
+  // Batch 7 (Eroi Internazionali e Maestri Tattici)
+  {
+    id: "horst-szymaniak",
+    name: "Horst Szymaniak",
+    role: "MEDIANO · 1961–1963",
+    stat: "MONDIALI CILE 1962",
+    href: "./03-tesserati/calciatori/storici/horst-szymaniak",
+    image: "./static/images/photos/horst-szymaniak.jpg",
+  },
+  {
+    id: "piero-andreoli",
+    name: "Piero Andreoli",
+    role: "ALLENATORE · 1953–1956",
+    stat: "1ª SERIE A (1954)",
+    href: "./03-tesserati/allenatori/piero-andreoli",
+    image: "./static/images/photos/piero-andreoli.jpg",
+  },
+  {
+    id: "geza-kertesz",
+    name: "Géza Kertész",
+    role: "ALLENATORE · 1933–1936",
+    stat: "1ª SERIE B · EROE CIVICO",
+    href: "./03-tesserati/allenatori/geza-kertesz",
+    image: "./static/images/photos/geza-kertesz.jpg",
+  },
+  {
+    id: "egizio-rubino",
+    name: "Egizio Rubino",
+    role: "ALLENATORE · 1968–1974",
+    stat: "SERIE A 1970 · SERIE B '75",
+    href: "./03-tesserati/allenatori/egizio-rubino",
+    image: "./static/images/photos/egizio-rubino.webp",
+  },
+
+  // Batch 8 (Presidenti e Dirigenti di Peso)
+  {
+    id: "luciano-gaucci",
+    name: "Luciano Gaucci",
+    role: "PRESIDENTE · 2000–2004",
+    stat: "RISALITA IN SERIE B",
+    href: "./01-societa/presidenti/luciano-gaucci",
+    image: "./static/images/photos/luciano-gaucci.jpg",
+  },
+  {
+    id: "angelo-attaguile",
+    name: "Angelo Attaguile",
+    role: "PRESIDENTE · 1987–1991",
+    stat: "CORDATA ANNI '80",
+    href: "./01-societa/presidenti/angelo-attaguile",
+    image: "./static/images/photos/angelo-attaguile.jpg",
+  },
+  {
+    id: "pietro-lo-monaco",
+    name: "Pietro Lo Monaco",
+    role: "AMM. DELEGATO · 2004–2012",
+    stat: "ARCHITETTO SERIE A",
+    href: "./01-societa/dirigenti/pietro-lo-monaco",
+    image: "./static/images/photos/pietro-lo-monaco.webp",
+  },
+  {
+    id: "mariano-andujar",
+    name: "Mariano Andújar",
+    role: "PORTIERE · 2009–2014",
+    stat: "164 PRES · VICE-CAMPIONE MONDO",
+    href: "./03-tesserati/calciatori/storici/mariano-andujar",
+    image: "./static/images/photos/mariano-andujar.jpg",
+  },
+
+  // Batch 9 (Idoli dei Tifosi e Icone di Cuore)
+  {
+    id: "juan-manuel-vargas",
+    name: "Juan Manuel Vargas",
+    role: "TERZINO · 2006–2008",
+    stat: "69 PRES · «EL LOCO»",
+    href: "./03-tesserati/calciatori/archivio/g-l/juan-manuel-vargas",
+    image: "./static/images/photos/juan-manuel-vargas.jpg",
+  },
+  {
+    id: "takayuki-morimoto",
+    name: "Takayuki Morimoto",
+    role: "ATTACCANTE · 2006–2013",
+    stat: "117 PRES · 24 GOL",
+    href: "./03-tesserati/calciatori/archivio/s-z/takayuki-morimoto",
+    image: "./static/images/photos/takayuki-morimoto.jpg",
+  },
+  {
+    id: "ciccio-famoso",
+    name: "Ciccio Famoso",
+    role: "CAPO ULTRAS · 1979–2017",
+    stat: "FALANGE D'ASSALTO",
+    href: "./06-tifoseria-e-cultura/biografie/ciccio-famoso",
+    image: "./static/images/photos/ciccio-famoso.jpg",
+  },
+  {
+    id: "aquilino-bonfanti",
+    name: "Aquilino Bonfanti",
+    role: "ATTACCANTE · 1969–1972",
+    stat: "DOPPIETTA SERIE A 1970",
+    href: "./03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti",
+    image: "./static/images/photos/aquilino-bonfanti.webp",
   },
 ]
 

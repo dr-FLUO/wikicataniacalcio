@@ -7,6 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
+current_squad: true
 total_appearances: 8
 seasons_count: 1
 tags:

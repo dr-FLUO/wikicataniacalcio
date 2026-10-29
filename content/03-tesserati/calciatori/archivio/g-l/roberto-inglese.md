@@ -57,7 +57,7 @@ aliases:
 - roberto-inglese
 - tesserati/roberto-inglese
 - calciatori/roberto-inglese
-current_squad: true
+current_squad: false
 seasons_count: 1
 ---
 

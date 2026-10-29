@@ -6,7 +6,7 @@ description: 'Dossier forense sul caso giudiziario di Antonino Speziale: dalle i
 slug: 06-tifoseria-e-cultura/biografie/antonino-speziale
 entity_type: biografia_giudiziaria
 status: verified
-last_verified_date: 2026-10-28
+last_verified_date: 2026-10-29
 tags:
 - antonino-speziale
 - filippo-raciti

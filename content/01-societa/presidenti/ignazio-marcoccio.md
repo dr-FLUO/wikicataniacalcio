@@ -37,8 +37,16 @@ cover_caption: Il Commissario Straordinario Ignazio Marcoccio con Horst Szymania
 cover_credit: Archivio Storico · Pubblico Dominio
 aliases:
 - societa/presidenti/ignazio-marcoccio
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/ignazio-marcoccio.jpg
+  alt_text: Ignazio Marcoccio, presidente del Calcio Catania negli anni Sessanta
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1960
+  license_type: Pubblico Dominio
 ---
 
+![Ignazio Marcoccio, presidente del Calcio Catania negli anni Sessanta](/assets/images/presidenti-dirigenti/ignazio-marcoccio.jpg)
+*Ignazio Marcoccio (1913–1999), commissario e presidente del Catania d'oro in Serie A*
 
 # Ignazio Marcoccio (1916–2012)
 

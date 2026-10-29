@@ -1,69 +1,70 @@
 ---
-title: 'Luigi Prestinenza: Decano del Giornalismo Sportivo Etneo e Storico del Calcio
-  Catania (1912-1988)'
-description: 'Monografia su Luigi Prestinenza, decano dei cronisti sportivi etnei:
-  caporedattore de La Sicilia, maestro di generazioni di giornalisti e autorevole
-  storiografo del pallone catanese.'
+title: 'Luigi Prestinenza: Il Decano del Giornalismo Sportivo Catanese'
+description: 'Profilo biografico di Luigi Prestinenza, decano della stampa sportiva etnea, capocronista de La Sicilia e coautore nel 1958 di Dal fondo... ai vertici.'
 slug: 07-media-e-comunicazione/firme-e-voci/luigi-prestinenza
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-28
+last_verified_date: 2026-10-29
 tags:
 - luigi-prestinenza
 - decano
-- giornalismo
 - la-sicilia
-- storiografia
+- storia
+- libri
+- dal-fondo-ai-vertici
 sources:
+- author: Carmelo Gennaro, Luigi Prestinenza
+  title: 'Dal fondo... ai vertici. 1908-1958: Cinquant''anni di calcio a Catania'
+  publisher: Industrie Grafiche Siciliane, Catania
+  year: 1958
+  reference: Prima opera storiografica organica sul calcio cittadino
+- author: Carmelo Gennaro, Luigi Prestinenza
+  title: 'Dal fondo un traversone. Sessant''anni di Catania calcio'
+  publisher: A&B Editrice, Catania
+  year: 2004
+  reference: Riedizione aggiornata e ampliata della prima monografia storica
 - author: Luigi Prestinenza
   title: 'Catania e il pallone: mezzo secolo di passione all''ombra dell''Etna'
   publisher: Editoriale La Sicilia, Catania
   year: 1984
-  reference: Opera monumentale di storiografia calcistica catanese (1929-1984)
-- author: Domenico Tempio
-  title: 'La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)'
-  publisher: Domenico Sanfilippo Editore, Catania
-  year: 2015
-  reference: Profilo biografico del caposervizio Luigi Prestinenza
+  reference: Memorie storiche sul tifo e la stampa sportiva etnea
 aliases:
 - media/giornalisti/luigi-prestinenza
 ---
 
+# Luigi Prestinenza: Il Decano del Giornalismo Sportivo Catanese
 
-# Luigi Prestinenza: Decano del Giornalismo Sportivo Etneo e Storico del Calcio Catania (1912-1988)
+Storico capocronista de [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]], saggista ed enciclopedista, **Luigi Prestinenza** è considerato il padre fondatore della storiografia sportiva catanese moderna.
 
-Nato ad Acireale nel **1912** e vissuto a Catania fino alla scomparsa avvenuta nel **1988**, **Luigi Prestinenza** è considerato il padre fondatore e il maestro indiscusso del giornalismo sportivo moderno nella Sicilia orientale.
-
----
-
-## 1. La Costruzione della Redazione Sportiva de "La Sicilia"
-
-Chiamato da Domenico Sanfilippo fin dai primi anni del dopoguerra all'interno della redazione del quotidiano [[media/testate/la-sicilia|La Sicilia]], Prestinenza ricoprì per decenni l'incarico di caposervizio e capocronista:
-* Diede vita a una scuola giornalistica caratterizzata da rigore documentale, rispetto assoluto dell'etica professionale e rifiuto di ogni faziosità campanilistica.
-* Allevò e formò professionalmente decine di giovani talenti che avrebbero poi fatto la storia del giornalismo nazionale, tra cui [[media/giornalisti/candido-cannavo|Candido Cannavò]], Concetto Lo Presti e Nino Milazzo.
-* Con la sua macchina per scrivere portatile, fu testimone oculare di centinaia di trasferte su tutti i campi d'Italia, dalle prime sfide pionieristiche in Serie C negli anni Quaranta fino ai campionati di Serie A degli anni Sessanta e Settanta.
+Insieme a Carmelo Gennaro ha dato alle stampe nel **1958** la prima grande opera monografica organica sul pallone etneo: ***"Dal fondo... ai vertici. 1908-1958: Cinquant'anni di calcio a Catania"*** (Industrie Grafiche Siciliane), riedita e ampliata nel **2004** per *A&B Editrice* con il titolo ***"Dal fondo un traversone"***.
 
 ---
 
-## 2. L'Opera Storiografica: "Catania e il Pallone"
+## 1. La Testimonianza delle Origini e della Prima Serie A
 
-Nel **1984**, al culmine della sua lunga carriera intellettuale, Prestinenza pubblicò per la casa editrice de *La Sicilia* il volume fondamentale:
-* ***"Catania e il pallone: mezzo secolo di passione all'ombra dell'Etna"***: l'opera, frutto di anni di pazienti ricerche d'archivio su tabellini, verbali societari e testimonianze dirette, rappresenta la pietra angolare della bibliografia calcistica rossazzurra.
-* Nel testo vengono analizzati con finezza sociologica i complessi intrecci tra le vicende politiche del dopoguerra, l'ascesa della borghesia imprenditoriale etnea e la nascita del tifo organizzato moderno.
+Attivo fin dagli anni Trenta, Prestinenza ha vissuto e documentato tutte le fasi cruciali del calcio a Catania:
+* Ha assistito alla nascita della *SS Catania* nel 1929, alle gare del vecchio Campo di Piazza Verga e all'inaugurazione del Cibali nel 1937.
+* Nel dopoguerra ha partecipato alla ricostruzione del *Club Calcio Catania* nel 1946 e ha immortalato sulle colonne de *La Sicilia* la prima storica promozione in massima serie del 1954 sotto la presidenza di Santi Maimone e la guida tecnica di Piero Andreoli.
+
+---
+
+## 2. Maestro di Generazioni di Giornalisti
+
+Alla redazione de *La Sicilia*, Prestinenza è stato il punto di riferimento e il maestro di intere generazioni di cronisti, a partire dal giovane [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]] e da [[07-media-e-comunicazione/firme-e-voci/luigi-tripisciano|Luigi Tripisciano]]:
+* Ha insegnato il valore dell'esattezza documentale, del rispetto filologico delle date e delle formazioni, lasciando un patrimonio di memorie che ancora oggi costituisce la base di ogni trattazione archivistica.
 
 ---
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[media/index|Portale Media ed Informazione Rossazzurra]]
-* [[media/testate/la-sicilia|La Sicilia: Il giornale della sua vita professionale]]
-* [[media/giornalisti/candido-cannavo|Candido Cannavò e gli allievi di Prestinenza]]
-* [[societa/1946-club-calcio-catania|La Rinascita del 1946 documentata da Prestinenza]]
+* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano dell'Isola]]
+* [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò e l'Apprendistato a La Sicilia]]
 
 ---
 
 ## Fonti e Bibliografia
 
-1. **Luigi Prestinenza**, *Catania e il pallone: mezzo secolo di passione all'ombra dell'Etna*, Editoriale La Sicilia, Catania, 1984.
-2. **Domenico Tempio**, *La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)*, Domenico Sanfilippo Editore, Catania, 2015.
-3. **Ordine dei Giornalisti di Sicilia**, *Albo d'Onore e Maestri della Cronaca*, Palermo, 1990.
+1. **Carmelo Gennaro, Luigi Prestinenza**, *Dal fondo... ai vertici. 1908-1958: Cinquant'anni di calcio a Catania*, Industrie Grafiche Siciliane, Catania, 1958.
+2. **Carmelo Gennaro, Luigi Prestinenza**, *Dal fondo un traversone. Sessant'anni di Catania calcio*, A&B Editrice, Catania, 2004.
+3. **Luigi Prestinenza**, *Catania e il pallone: mezzo secolo di passione all'ombra dell'Etna*, Editoriale La Sicilia, Catania, 1984.

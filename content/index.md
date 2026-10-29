@@ -62,8 +62,3 @@ Benvenuti nella **Wiki Calcio Catania**, l'enciclopedia digitale ad accesso aper
 
 - **Segnalazione Errori con Verifica AI + Operatore:** Hai individuato un refuso statistico o possiedi una fonte storica documentata (almanacco, articolo d'epoca, atto ufficiale)? Visita la pagina **[[segnala-correzione|Segnala una correzione o aggiornamento]]**.
 - **Trasparenza Normativa UE:** Consulta l'informativa completa su **[[note-legali-privacy-accessibilita|Privacy (GDPR Cookie-Less), Accessibilità WCAG 2.1 AA e Diritto d'Autore]]**.
-
-## Fonti e Bibliografia
-
-1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto: la storia, la geografia, la letteratura e financo la religione rossazzurra! (1929–2010)*, GEO Edizioni, Empoli, 2010.
-2. **Archivio Storico Digitale**, *Tutto il Catania minuto per minuto* ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)) e *Archivio Mimmo Rapisarda* ([mimmorapisarda.it](https://www.mimmorapisarda.it/)).

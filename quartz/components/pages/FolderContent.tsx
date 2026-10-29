@@ -116,10 +116,13 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       displayDocs = collectAllLeaves(folder)
     }
 
-    // Sort documents alphabetically by title or by season
+    // Sort documents: for stagioni in reverse chronological order (newest to oldest), otherwise ascending
     displayDocs.sort((a, b) => {
       const aTitle = a.frontmatter?.title ?? a.slug ?? ""
       const bTitle = b.frontmatter?.title ?? b.slug ?? ""
+      if (currentSlug.includes("stagioni")) {
+        return bTitle.localeCompare(aTitle, "it", { numeric: true })
+      }
       return aTitle.localeCompare(bTitle, "it", { numeric: true })
     })
 

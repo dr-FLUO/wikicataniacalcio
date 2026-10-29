@@ -1,36 +1,49 @@
 ---
-title: "Angelo Attaguile (Presidente Calcio Catania S.p.A. 1987-1991)"
-description: "Biografia e presidenza dell'avvocato Angelo Attaguile alla guida del Calcio Catania S.p.A. dal 1987 al 1991 in Serie C1 tra l'era Massimino e gli anni Novanta."
-slug: "01-societa/presidenti/angelo-attaguile"
-entity_type: "dirigente"
+title: Angelo Attaguile (Presidente Calcio Catania S.p.A. 1987-1991)
+description: Biografia e presidenza dell'avvocato Angelo Attaguile alla guida del
+  Calcio Catania S.p.A. dal 1987 al 1991 in Serie C1 tra l'era Massimino e gli anni
+  Novanta.
+slug: 01-societa/presidenti/angelo-attaguile
+entity_type: dirigente
 date_start: 1987-11-01
 date_end: 1991-06-30
-club_entity: "[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]"
-figc_matricola: "11700"
+club_entity: '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
+figc_matricola: '11700'
 tags:
-  - angelo-attaguile
-  - presidenti
-  - serie-c1
-  - bruno-pace
-  - carmelo-russo
-  - angelo-sormani
+- angelo-attaguile
+- presidenti
+- serie-c1
+- bruno-pace
+- carmelo-russo
+- angelo-sormani
 status: verified
 last_verified_date: 2026-10-28
 sources:
-- author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-  title: "Tutto il Catania minuto per minuto (1929-2010)"
-  publisher: "GEO Edizioni, Empoli"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: "pp. 340-360 (Stagioni dal 1987-1988 al 1990-1991)"
-- author: "Archivio Storico Mimmo Rapisarda"
-  title: "La presidenza Attaguile a Catania (1987-1991)"
-  publisher: "mimmorapisarda.it"
-  url: "https://www.mimmorapisarda.it/"
+  reference: pp. 340-360 (Stagioni dal 1987-1988 al 1990-1991)
+- author: Archivio Storico Mimmo Rapisarda
+  title: La presidenza Attaguile a Catania (1987-1991)
+  publisher: mimmorapisarda.it
+  url: https://www.mimmorapisarda.it/
   year: 2010
-  reference: "Dossier Anni Ottanta e Novanta"
+  reference: Dossier Anni Ottanta e Novanta
 aliases:
-  - "societa/presidenti/angelo-attaguile"
+- societa/presidenti/angelo-attaguile
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/angelo-attaguile.jpg
+  alt_text: Angelo Attaguile, presidente del Calcio Catania dal 1987 al 1991
+  author_or_archive: Archivio Storico Digitale Camera dei Deputati
+  year: 1987
+  license_type: Pubblico Dominio
 ---
+
+![Angelo Attaguile, presidente del Calcio Catania dal 1987 al 1991](/assets/images/presidenti-dirigenti/angelo-attaguile.jpg)
+*Angelo Attaguile, presidente del Calcio Catania S.p.A. dal 1987 al 1991*
+
 # Angelo Attaguile (Presidente Calcio Catania S.p.A.)
 
 **Angelo Attaguile** (Grammichele, 12 agosto 1947) è un avvocato, politico e dirigente sportivo italiano, **presidente del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] dal novembre 1987 al giugno 1991**.

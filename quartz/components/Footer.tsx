@@ -19,7 +19,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""} rossazzurri-footer`} role="contentinfo">
         <div class="footer-compliance-box">
           <div class="footer-brand-row">
-            <span class="footer-kicker">COLOPHON EDITORIALE · EDIZIONE {year}</span>
+            <span class="footer-kicker">COLOPHON EDITORIALE · EDIZIONE {year} (BETA PUBBLICA)</span>
             <p class="footer-brand">
               <strong>WIKI CATANIA CALCIO (1929–OGGI)</strong> — Magazine culturale, statistico e
               giuridico dedicato alla storia dell&apos;Elefante.
@@ -37,6 +37,9 @@ export default ((opts?: Options) => {
             <em>Plus Jakarta Sans</em> ospitati in locale senza trasmissione di IP a terze parti).
             Interfaccia conforme agli standard <strong>WCAG 2.1 Livello AA / AAA</strong> ed{" "}
             <strong>European Accessibility Act (Direttiva UE 2019/882)</strong>.
+          </p>
+          <p class="footer-beta-notice">
+            <strong>Stato di Sviluppo (Versione Beta):</strong> Il portale è attualmente in versione Beta: nuove monografie, statistiche e dati d&apos;archivio vengono integrati e certificati quotidianamente.
           </p>
         </div>
         <div class="footer-action-row">
