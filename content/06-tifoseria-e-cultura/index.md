@@ -1,38 +1,41 @@
 ---
-title: "Tifoseria e Cultura Rossazzurra"
-description: "Hub enciclopedico del movimento ultras, della cultura di gradinata, dei grandi eventi e della mitologia popolare del Calcio Catania dal 1929 a oggi."
-slug: "06-tifoseria-e-cultura/index"
-entity_type: "thematic_hub"
-status: "verified"
+title: Tifoseria e Cultura Rossazzurra
+description: Hub enciclopedico del movimento ultras, della cultura di gradinata, dei
+  grandi eventi e della mitologia popolare del Calcio Catania dal 1929 a oggi.
+slug: 06-tifoseria-e-cultura/index
+entity_type: thematic_hub
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "tifoseria"
-  - "cultura"
-  - "ultras"
-  - "catania"
-  - "massimino"
-  - "curva-nord"
-  - "curva-sud"
-  - "tribuna-b"
+- tifoseria
+- cultura
+- ultras
+- catania
+- massimino
+- curva-nord
+- curva-sud
+- tribuna-b
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2011
-    reference: "Opera monumentale di riferimento storiografico"
-  - author: "Luigi Pulvirenti, Michele Spampinato"
-    title: "Quando saremo tutti nella Nord"
-    publisher: "Euno Edizioni / Eclettica"
-    year: 2014
-    reference: "Monografia autobiografica sulla Curva Nord"
-  - author: "Sebastiano Molino"
-    title: "Catania siamo noi"
-    publisher: "Edizioni Boemi, Catania"
-    year: 2004
-    reference: "Antropologia del tifo catanese"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2011
+  reference: Opera monumentale di riferimento storiografico
+- author: Luigi Pulvirenti, Michele Spampinato
+  title: Quando saremo tutti nella Nord
+  publisher: Euno Edizioni / Eclettica
+  year: 2014
+  reference: Monografia autobiografica sulla Curva Nord
+- author: Sebastiano Molino
+  title: Catania siamo noi
+  publisher: Edizioni Boemi, Catania
+  year: 2004
+  reference: Antropologia del tifo catanese
 aliases:
-  - "tifoseria"
-  - "06-tifoseria-e-cultura"
+- tifoseria
+- 06-tifoseria-e-cultura
+- tifoseria/index
 ---
 
 # Tifoseria e Cultura Rossazzurra

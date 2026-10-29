@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     enablePopovers: false,
     analytics: null, // 100% Cookie-less & Zero-Tracking (Conforme GDPR Reg. UE 2016/679)
     locale: "it-IT",
-    baseUrl: "dr-FLUO.github.io/wikicataniacalcio",
+    baseUrl: "wikicataniacalcio.com",
     ignorePatterns: ["private", "templates", ".obsidian", "SCHEMA.md"],
     defaultDateType: "modified",
     theme: {
@@ -88,6 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      Plugin.CNAME(),
     ],
   },
 }

@@ -67,6 +67,7 @@ aliases:
 - giuseppe-mascara
 - tesserati/giuseppe-mascara
 - calciatori/giuseppe-mascara
+- 03-tesserati/calciatori/giuseppe-mascara
 image_credits:
 - image_path: /assets/images/calciatori/giuseppe-mascara.jpg
   alt_text: 'Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza

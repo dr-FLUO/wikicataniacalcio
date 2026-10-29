@@ -18,6 +18,7 @@ status: verified
 aliases:
 - stadio/torre-del-grifo
 - 04-strutture/centri-sportivi/torre-del-grifo
+- 04-strutture/stadio-massimino/torre-del-grifo
 last_verified_date: 2026-10-27
 sources:
 - author: Calcio Catania S.p.A. / Istituto per il Credito Sportivo
@@ -37,11 +38,11 @@ cover_caption: Veduta aerea del centro sportivo Torre del Grifo Village a Mascal
   polo d'eccellenza per la preparazione atletica e societaria.
 cover_credit: 'Foto: Salvosmav · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
 image_credits:
-- image_path: 'assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp'
-  alt_text: "Panoramica del Centro Sportivo Torre del Grifo Village"
-  author_or_archive: 'Archivio Fotografico Wiki Catania Calcio'
+- image_path: assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp
+  alt_text: Panoramica del Centro Sportivo Torre del Grifo Village
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - stadio/torre-del-grifo
 ---
 ![Panoramica del Centro Sportivo Torre del Grifo Village — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp)

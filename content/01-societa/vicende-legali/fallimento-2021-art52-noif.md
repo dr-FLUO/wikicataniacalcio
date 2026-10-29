@@ -66,6 +66,7 @@ cover_caption: Il Palazzo di Giustizia di Catania in Piazza Giovanni Verga, sede
 cover_credit: 'Foto: DMarx22 · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
 aliases:
 - vicende-legali/fallimento-2021-art52-noif
+- 01-societa/vicende-legali/fallimento-2022-catania-spa
 ---
 
 

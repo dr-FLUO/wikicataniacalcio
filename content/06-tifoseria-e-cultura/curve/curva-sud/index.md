@@ -1,31 +1,34 @@
 ---
-title: "La Curva Sud del Massimino: Tradizione Popolare e Appartenenza"
-description: "Dossier sulla Curva Sud dello Stadio Cibali / Angelo Massimino: dai Catania Raiders agli Irriducibili, l'arrivo della Falange e lo striscione Estrema Appartenenza."
-slug: "06-tifoseria-e-cultura/curve/curva-sud/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: 'La Curva Sud del Massimino: Tradizione Popolare e Appartenenza'
+description: 'Dossier sulla Curva Sud dello Stadio Cibali / Angelo Massimino: dai
+  Catania Raiders agli Irriducibili, l''arrivo della Falange e lo striscione Estrema
+  Appartenenza.'
+slug: 06-tifoseria-e-cultura/curve/curva-sud/index
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "curva-sud"
-  - "massimino"
-  - "irriducibili"
-  - "falange-dassalto"
-  - "estrema-appartenenza"
-  - "catania-raiders"
-  - "ultras"
+- curva-sud
+- massimino
+- irriducibili
+- falange-dassalto
+- estrema-appartenenza
+- catania-raiders
+- ultras
 sources:
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "Evoluzione della Curva Sud del Cibali"
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "I gruppi e la svolta del 2015 in Curva Sud"
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: Evoluzione della Curva Sud del Cibali
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: I gruppi e la svolta del 2015 in Curva Sud
 aliases:
-  - "tifoseria/curva-sud"
+- tifoseria/curva-sud
+- tifoseria/curva-sud/index
 ---
 
 # La Curva Sud del Massimino: Tradizione Popolare e Appartenenza

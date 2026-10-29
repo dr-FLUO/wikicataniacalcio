@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="24" y="64" width="464" height="384" rx="28" fill="#ffffff" stroke="#111111" stroke-width="36" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Arial Black', Impact, sans-serif" font-weight="900" font-size="210" letter-spacing="-4">
+    <text x="68" y="330" fill="#111111">W</text>
+    <text x="255" y="330" fill="#d11317">C</text>
+    <text x="368" y="330" fill="#0cb2d9">C</text>
+  </g>
+</svg>

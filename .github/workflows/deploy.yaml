@@ -32,6 +32,8 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
+      - name: Ensure CNAME
+        run: echo "wikicataniacalcio.com" > public/CNAME
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

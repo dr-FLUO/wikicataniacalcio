@@ -37,9 +37,9 @@ def scan_vault():
     alias_map = {} # alias -> slug
     for slug, full_path in all_md_files:
         try:
-            with open(full_path, "r", encoding="utf-8") as fp:
+            with open(full_path, "r", encoding="utf-8-sig") as fp:
                 content = fp.read()
-            match = re.search(r"^---\n(.*?)\n---\n", content, re.DOTALL)
+            match = re.search(r"^---\r?\n(.*?)\r?\n---\r?\n", content, re.DOTALL)
             if match:
                 fm = yaml.safe_load(match.group(1))
                 if isinstance(fm, dict):

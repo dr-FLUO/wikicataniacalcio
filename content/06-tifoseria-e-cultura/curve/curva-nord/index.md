@@ -1,32 +1,36 @@
 ---
-title: "La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali"
-description: "Dossier completo sulla Curva Nord dello Stadio Cibali / Angelo Massimino: dalle origini con la Falange d'Assalto alla rinascita con A Sostegno di una Fede e i clan rionali."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: 'La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali'
+description: 'Dossier completo sulla Curva Nord dello Stadio Cibali / Angelo Massimino:
+  dalle origini con la Falange d''Assalto alla rinascita con A Sostegno di una Fede
+  e i clan rionali.'
+slug: 06-tifoseria-e-cultura/curve/curva-nord/index
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "curva-nord"
-  - "massimino"
-  - "a-sostegno-di-una-fede"
-  - "i-pazzi"
-  - "nord-kaos"
-  - "skizzati-passarello"
-  - "clan-rionali"
-  - "ultras"
+- curva-nord
+- massimino
+- a-sostegno-di-una-fede
+- i-pazzi
+- nord-kaos
+- skizzati-passarello
+- clan-rionali
+- ultras
 sources:
-  - author: "Luigi Pulvirenti, Michele Spampinato"
-    title: "Quando saremo tutti nella Nord"
-    publisher: "Euno Edizioni / Eclettica"
-    year: 2014
-    reference: "Monografia sulla storia e i principi della Curva Nord"
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "La Curva Nord dal 1979 al 2010"
+- author: Luigi Pulvirenti, Michele Spampinato
+  title: Quando saremo tutti nella Nord
+  publisher: Euno Edizioni / Eclettica
+  year: 2014
+  reference: Monografia sulla storia e i principi della Curva Nord
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: La Curva Nord dal 1979 al 2010
 aliases:
-  - "tifoseria/curva-nord"
+- tifoseria/curva-nord
+- tifoseria/curva-nord/index
+- tifoseria/curva-nord/origini-curva-nord
 ---
 
 # La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali

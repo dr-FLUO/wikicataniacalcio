@@ -29,6 +29,7 @@ import MagazineArticleHero from "./MagazineArticleHero"
 import MagazineHome from "./MagazineHome"
 import UpdateBadge from "./UpdateBadge"
 import TesseratiArchive from "./TesseratiArchive"
+import CorrectionForm from "./CorrectionForm"
 
 export {
   ArticleTitle,
@@ -62,4 +63,5 @@ export {
   MagazineHome,
   UpdateBadge,
   TesseratiArchive,
+  CorrectionForm,
 }

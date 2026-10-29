@@ -156,6 +156,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TesseratiArchive(),
   ],
   afterBody: [
+    Component.CorrectionForm(),
     Component.ConditionalRender({
       component: Component.TagList(),
       condition: (page) => page.fileData.slug !== "index",

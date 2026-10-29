@@ -1,0 +1,1768 @@
+{
+  "persone_storiche": [
+    {
+      "name": "Filippo Solarino",
+      "total_mentions": 1625,
+      "distinct_pages": 1617,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/stefano-codraro",
+        "03-tesserati/calciatori/archivio/d-f/daniele-facciotto",
+        "03-tesserati/calciatori/storici/alejandro-gomez",
+        "03-tesserati/calciatori/archivio/p-r/riki-di-bin",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Carlo Fontanelli",
+      "total_mentions": 1623,
+      "distinct_pages": 1615,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/stefano-codraro",
+        "03-tesserati/calciatori/archivio/d-f/daniele-facciotto",
+        "03-tesserati/calciatori/storici/alejandro-gomez",
+        "03-tesserati/calciatori/archivio/p-r/riki-di-bin",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Salvatore Giovanni Emanuele",
+      "total_mentions": 1075,
+      "distinct_pages": 1074,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/stefano-codraro",
+        "03-tesserati/calciatori/archivio/d-f/daniele-facciotto",
+        "03-tesserati/calciatori/archivio/d-f/ezequiel-alejo-carboni",
+        "03-tesserati/calciatori/archivio/m-o/manuel-sarao",
+        "03-tesserati/calciatori/archivio/d-f/francesco-montervino"
+      ]
+    },
+    {
+      "name": "Stagioni disputate",
+      "total_mentions": 1072,
+      "distinct_pages": 1072,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/stefano-codraro",
+        "03-tesserati/calciatori/archivio/d-f/daniele-facciotto",
+        "03-tesserati/calciatori/archivio/d-f/ezequiel-alejo-carboni",
+        "03-tesserati/calciatori/archivio/m-o/manuel-sarao",
+        "03-tesserati/calciatori/archivio/d-f/francesco-montervino"
+      ]
+    },
+    {
+      "name": "Note Istituzionali",
+      "total_mentions": 126,
+      "distinct_pages": 126,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi",
+        "02-cronistoria/stagioni/2019-2020",
+        "03-tesserati/calciatori/archivio/g-l/giuseppe-mosca"
+      ]
+    },
+    {
+      "name": "Note Storiche",
+      "total_mentions": 117,
+      "distinct_pages": 115,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1933-1934",
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi"
+      ]
+    },
+    {
+      "name": "Sintesi Statistica",
+      "total_mentions": 113,
+      "distinct_pages": 113,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1933-1934",
+        "03-tesserati/calciatori/storici/damiano-morra",
+        "02-cronistoria/stagioni/2019-2020"
+      ]
+    },
+    {
+      "name": "Verifica Metodologica",
+      "total_mentions": 109,
+      "distinct_pages": 109,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1933-1934",
+        "03-tesserati/calciatori/storici/damiano-morra",
+        "02-cronistoria/stagioni/2019-2020"
+      ]
+    },
+    {
+      "name": "Ruolo Storico",
+      "total_mentions": 99,
+      "distinct_pages": 99,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Ragione Sociale",
+      "total_mentions": 192,
+      "distinct_pages": 98,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1933-1934",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943"
+      ]
+    },
+    {
+      "name": "Marcatori Rossazzurri",
+      "total_mentions": 98,
+      "distinct_pages": 98,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Coppe Ufficiali",
+      "total_mentions": 115,
+      "distinct_pages": 97,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Classifica Finale",
+      "total_mentions": 97,
+      "distinct_pages": 96,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1933-1934",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943"
+      ]
+    },
+    {
+      "name": "Staff Tecnico",
+      "total_mentions": 97,
+      "distinct_pages": 96,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2026-2027",
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1933-1934",
+        "02-cronistoria/stagioni/2019-2020"
+      ]
+    },
+    {
+      "name": "Conduzione Tecnica",
+      "total_mentions": 113,
+      "distinct_pages": 95,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Denominazione Sociale",
+      "total_mentions": 95,
+      "distinct_pages": 95,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "La Conduzione Tecnica",
+      "total_mentions": 95,
+      "distinct_pages": 95,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Gestione Tecnica",
+      "total_mentions": 95,
+      "distinct_pages": 95,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Competizioni Ufficiali",
+      "total_mentions": 95,
+      "distinct_pages": 95,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/nereo-marini",
+        "03-tesserati/allenatori/rodolfo-brondi",
+        "03-tesserati/allenatori/osvaldo-jaconi",
+        "03-tesserati/allenatori/piero-cucchi",
+        "03-tesserati/allenatori/luigi-valsecchi"
+      ]
+    },
+    {
+      "name": "Verdetto Ufficiale",
+      "total_mentions": 89,
+      "distinct_pages": 89,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Annuario Ufficiale",
+      "total_mentions": 89,
+      "distinct_pages": 89,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Note Tecniche",
+      "total_mentions": 88,
+      "distinct_pages": 87,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Impianto Ufficiale",
+      "total_mentions": 258,
+      "distinct_pages": 86,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Rosa Calciatori",
+      "total_mentions": 86,
+      "distinct_pages": 86,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Marcatori Stagionali",
+      "total_mentions": 86,
+      "distinct_pages": 86,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Risultati Partita",
+      "total_mentions": 86,
+      "distinct_pages": 86,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Marcatori Avversari",
+      "total_mentions": 86,
+      "distinct_pages": 86,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Fonti Certificate",
+      "total_mentions": 60,
+      "distinct_pages": 60,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/relazioni/rivalita/siracusa",
+        "06-tifoseria-e-cultura/relazioni/rivalita/messina",
+        "06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza",
+        "06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-piazza-montessori-2026",
+        "06-tifoseria-e-cultura/biografie/pippo-tarraresu"
+      ]
+    },
+    {
+      "name": "Il Catania",
+      "total_mentions": 56,
+      "distinct_pages": 52,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/m-o/maxi-lopez",
+        "02-cronistoria/stagioni/1994-1995",
+        "02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2",
+        "06-tifoseria-e-cultura/curve/curva-nord/i-pazzi",
+        "04-strutture/campi-storici/campo-due-obelischi"
+      ]
+    },
+    {
+      "name": "Riepilogo Statistico",
+      "total_mentions": 44,
+      "distinct_pages": 44,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi",
+        "03-tesserati/calciatori/storici/damiano-morra"
+      ]
+    },
+    {
+      "name": "Totale Complessivo",
+      "total_mentions": 82,
+      "distinct_pages": 41,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/m-o/maxi-lopez",
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi"
+      ]
+    },
+    {
+      "name": "Ruolo Principale",
+      "total_mentions": 41,
+      "distinct_pages": 41,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi",
+        "03-tesserati/calciatori/archivio/g-l/giuseppe-mosca"
+      ]
+    },
+    {
+      "name": "Reti Segnate",
+      "total_mentions": 41,
+      "distinct_pages": 41,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2026-2027",
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi"
+      ]
+    },
+    {
+      "name": "Maglia Etnea",
+      "total_mentions": 41,
+      "distinct_pages": 41,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi",
+        "03-tesserati/calciatori/archivio/g-l/giuseppe-mosca"
+      ]
+    },
+    {
+      "name": "Era Massimino",
+      "total_mentions": 68,
+      "distinct_pages": 36,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/franco-vannini",
+        "03-tesserati/allenatori/giovanni-mei",
+        "03-tesserati/allenatori/angelo-busetta",
+        "03-tesserati/calciatori/storici/index",
+        "03-tesserati/allenatori/lino-de-petrillo"
+      ]
+    },
+    {
+      "name": "Antonio Buemi et al.",
+      "total_mentions": 33,
+      "distinct_pages": 33,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/relazioni/rivalita/siracusa",
+        "06-tifoseria-e-cultura/relazioni/rivalita/messina",
+        "06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza",
+        "06-tifoseria-e-cultura/biografie/pippo-tarraresu",
+        "06-tifoseria-e-cultura/relazioni/gemellaggi/trapani"
+      ]
+    },
+    {
+      "name": "Catania Football Club",
+      "total_mentions": 59,
+      "distinct_pages": 31,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2026-2027",
+        "06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza",
+        "03-tesserati/allenatori/domenico-toscano",
+        "02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2",
+        "03-tesserati/calciatori/archivio/s-z/stefano-sturaro"
+      ]
+    },
+    {
+      "name": "Coppe Nazionali",
+      "total_mentions": 27,
+      "distinct_pages": 27,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/g-l/luca-lugnan",
+        "03-tesserati/calciatori/archivio/g-l/loris-pradella",
+        "03-tesserati/calciatori/archivio/d-f/fulvio-francesconi",
+        "03-tesserati/calciatori/archivio/g-l/giuseppe-mosca",
+        "03-tesserati/calciatori/archivio/a-c/caetano-calil"
+      ]
+    },
+    {
+      "name": "Era Pulvirenti",
+      "total_mentions": 45,
+      "distinct_pages": 24,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/giuseppe-rigoli",
+        "03-tesserati/allenatori/giuseppe-sannino",
+        "01-societa/epoche/2004-era-pulvirenti",
+        "03-tesserati/calciatori/storici/index",
+        "03-tesserati/allenatori/francesco-moriero"
+      ]
+    },
+    {
+      "name": "Luogo e Data di Nascita",
+      "total_mentions": 20,
+      "distinct_pages": 20,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/nello-tedeschini",
+        "03-tesserati/calciatori/archivio/p-r/gilberto-pogliano",
+        "03-tesserati/calciatori/archivio/p-r/carlo-ravizzoli",
+        "03-tesserati/calciatori/archivio/p-r/generoso-rossi",
+        "03-tesserati/calciatori/archivio/d-f/paolo-dall-oro"
+      ]
+    },
+    {
+      "name": "Maxi López",
+      "total_mentions": 80,
+      "distinct_pages": 19,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/m-o/maxi-lopez",
+        "01-societa/epoche/2004-era-pulvirenti",
+        "01-societa/epoche/catania-degli-argentini",
+        "02-cronistoria/partite-storiche/precedenti/inter",
+        "01-societa/dirigenti/pietro-lo-monaco"
+      ]
+    },
+    {
+      "name": "Di Bella",
+      "total_mentions": 21,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/partite-storiche/precedenti/inter",
+        "02-cronistoria/stagioni/1939-1940",
+        "03-tesserati/allenatori/luigi-valsecchi",
+        "02-cronistoria/stagioni/1938-1939",
+        "07-media-e-comunicazione/letteratura/index"
+      ]
+    },
+    {
+      "name": "Flavio Gagliano",
+      "total_mentions": 30,
+      "distinct_pages": 15,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "07-media-e-comunicazione/firme-e-voci/stefania-sberna",
+        "07-media-e-comunicazione/firme-e-voci/max-licari",
+        "07-media-e-comunicazione/testate/index",
+        "07-media-e-comunicazione/testate/radio-sis-tam-tam-sport",
+        "07-media-e-comunicazione/testate/tuttocalciocatania-com"
+      ]
+    },
+    {
+      "name": "Edizioni Etnee",
+      "total_mentions": 15,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "07-media-e-comunicazione/firme-e-voci/stefania-sberna",
+        "07-media-e-comunicazione/firme-e-voci/max-licari",
+        "07-media-e-comunicazione/testate/index",
+        "07-media-e-comunicazione/testate/radio-sis-tam-tam-sport",
+        "07-media-e-comunicazione/testate/tuttocalciocatania-com"
+      ]
+    },
+    {
+      "name": "Buenos Aires",
+      "total_mentions": 21,
+      "distinct_pages": 14,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/m-o/maxi-lopez",
+        "03-tesserati/calciatori/storici/mariano-izco",
+        "03-tesserati/calciatori/archivio/m-o/mario-desiderio",
+        "03-tesserati/allenatori/salvador-calvanese",
+        "03-tesserati/calciatori/archivio/d-f/ezequiel-carboni"
+      ]
+    },
+    {
+      "name": "Redazione Cronaca",
+      "total_mentions": 15,
+      "distinct_pages": 14,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/relazioni/amicizie/napoli",
+        "06-tifoseria-e-cultura/relazioni/amicizie/index",
+        "06-tifoseria-e-cultura/curve/curva-nord/mecha-katane",
+        "06-tifoseria-e-cultura/relazioni/amicizie/inter",
+        "06-tifoseria-e-cultura/curve/curva-nord/skizzati-passarello"
+      ]
+    },
+    {
+      "name": "Lillo Del Duca",
+      "total_mentions": 14,
+      "distinct_pages": 14,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2025-2026",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/2000-2001",
+        "02-cronistoria/stagioni/1983-1984",
+        "02-cronistoria/stagioni/1984-1985"
+      ]
+    },
+    {
+      "name": "Andrea De Marco",
+      "total_mentions": 28,
+      "distinct_pages": 13,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2000-2001",
+        "02-cronistoria/stagioni/2001-2002",
+        "02-cronistoria/stagioni/2004-2005",
+        "02-cronistoria/stagioni/2007-2008",
+        "02-cronistoria/stagioni/2008-2009"
+      ]
+    },
+    {
+      "name": "Nicolás Spolli",
+      "total_mentions": 25,
+      "distinct_pages": 13,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2014-2015",
+        "03-tesserati/allenatori/rolando-maran",
+        "02-cronistoria/stagioni/2009-2010",
+        "02-cronistoria/stagioni/2010-2011",
+        "02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0"
+      ]
+    },
+    {
+      "name": "Reggio Calabria",
+      "total_mentions": 24,
+      "distinct_pages": 13,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/franco-gagliardi",
+        "02-cronistoria/stagioni/1969-1970",
+        "02-cronistoria/stagioni/1979-1980",
+        "02-cronistoria/stagioni/1933-1934",
+        "03-tesserati/allenatori/egizio-rubino"
+      ]
+    }
+  ],
+  "eventi_giudiziari": [
+    {
+      "name": "Caso Catania",
+      "total_mentions": 13,
+      "distinct_pages": 8,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "01-societa/vicende-legali/caso-catania-2003",
+        "03-tesserati/allenatori/edoardo-reja",
+        "06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017",
+        "03-tesserati/allenatori/john-toshack",
+        "01-societa/epoche/2000-era-gaucci"
+      ]
+    },
+    {
+      "name": "Caso Scaramella",
+      "total_mentions": 10,
+      "distinct_pages": 7,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "01-societa/epoche/1946-club-calcio-catania",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen",
+        "02-cronistoria/stagioni/1954-1955",
+        "01-societa/presidenti/arturo-michisanti",
+        "01-societa/presidenti/agatino-pesce"
+      ]
+    },
+    {
+      "name": "Caso Martinelli",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2002-2003",
+        "03-tesserati/allenatori/edoardo-reja",
+        "01-societa/vicende-legali/caso-catania-2003"
+      ]
+    },
+    {
+      "name": "Il Derby",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/eventi-e-giustizia/analisi-storico-giudiziaria-ordine-pubblico",
+        "06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro",
+        "06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti"
+      ]
+    },
+    {
+      "name": "Caso Tacopina",
+      "total_mentions": 3,
+      "distinct_pages": 2,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "01-societa/vicende-legali/trattativa-sigi-tacopina-2021",
+        "01-societa/epoche/2020-sigi-e-fallimento"
+      ]
+    },
+    {
+      "name": "Spareggi Promozione",
+      "total_mentions": 3,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0",
+        "02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0"
+      ]
+    },
+    {
+      "name": "Il Caso Catania",
+      "total_mentions": 2,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/vicende-legali/index",
+        "01-societa/vicende-legali/caso-catania-2003"
+      ]
+    },
+    {
+      "name": "Il Caso Scaramella",
+      "total_mentions": 2,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1954-1955",
+        "01-societa/vicende-legali/caso-scaramella-1955"
+      ]
+    },
+    {
+      "name": "Gli Spareggi",
+      "total_mentions": 2,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/storici/aldo-cantarutti",
+        "02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983"
+      ]
+    },
+    {
+      "name": "Rivolta Urbana",
+      "total_mentions": 2,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/eventi-e-giustizia/analisi-storico-giudiziaria-ordine-pubblico",
+        "06-tifoseria-e-cultura/eventi-e-giustizia/radiazione-1993-rivolta-urbana"
+      ]
+    },
+    {
+      "name": "Clamoroso Catania",
+      "total_mentions": 2,
+      "distinct_pages": 2,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "07-media-e-comunicazione/letteratura/saggi-e-biografie",
+        "07-media-e-comunicazione/letteratura/index"
+      ]
+    }
+  ],
+  "luoghi_stadi": [
+    {
+      "name": "Stadio Comunale",
+      "total_mentions": 165,
+      "distinct_pages": 51,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1969-1970",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/1994-1995"
+      ]
+    },
+    {
+      "name": "Stadio Olimpico",
+      "total_mentions": 80,
+      "distinct_pages": 43,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/m-o/maxi-lopez",
+        "02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0",
+        "02-cronistoria/partite-storiche/index",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/2008-2009"
+      ]
+    },
+    {
+      "name": "Stadio Luigi Ferraris",
+      "total_mentions": 44,
+      "distinct_pages": 32,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/2008-2009",
+        "02-cronistoria/stagioni/2007-2008",
+        "02-cronistoria/stagioni/1975-1976"
+      ]
+    },
+    {
+      "name": "Stadio Marcantonio Bentegodi",
+      "total_mentions": 27,
+      "distinct_pages": 24,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/2008-2009",
+        "02-cronistoria/stagioni/1975-1976",
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/2005-2006"
+      ]
+    },
+    {
+      "name": "Stadio Romeo Menti",
+      "total_mentions": 25,
+      "distinct_pages": 24,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1975-1976",
+        "02-cronistoria/stagioni/2005-2006",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1952-1953",
+        "02-cronistoria/stagioni/2004-2005"
+      ]
+    },
+    {
+      "name": "Stadio La Favorita",
+      "total_mentions": 33,
+      "distinct_pages": 23,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/1975-1976",
+        "02-cronistoria/stagioni/1966-1967",
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Stadio Giovanni Celeste",
+      "total_mentions": 30,
+      "distinct_pages": 22,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1998-1999",
+        "06-tifoseria-e-cultura/relazioni/rivalita/messina",
+        "02-cronistoria/stagioni/1994-1995",
+        "02-cronistoria/stagioni/1966-1967",
+        "02-cronistoria/stagioni/1958-1959"
+      ]
+    },
+    {
+      "name": "Stadio Pino Zaccheria",
+      "total_mentions": 22,
+      "distinct_pages": 22,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/1975-1976",
+        "02-cronistoria/stagioni/2015-2016",
+        "02-cronistoria/stagioni/1968-1969"
+      ]
+    },
+    {
+      "name": "Stadio Vittorio Emanuele",
+      "total_mentions": 23,
+      "distinct_pages": 18,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1937-1938",
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1952-1953",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1989-1990"
+      ]
+    },
+    {
+      "name": "Stadio Mario Rigamonti",
+      "total_mentions": 22,
+      "distinct_pages": 18,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1967-1968",
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1959-1960",
+        "02-cronistoria/stagioni/1987-1988"
+      ]
+    },
+    {
+      "name": "Stadio Renato Dall",
+      "total_mentions": 21,
+      "distinct_pages": 18,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/pasquale-marino",
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1970-1971",
+        "02-cronistoria/stagioni/1984-1985"
+      ]
+    },
+    {
+      "name": "Stadio Partenio",
+      "total_mentions": 19,
+      "distinct_pages": 17,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/2000-2001",
+        "02-cronistoria/stagioni/1983-1984",
+        "02-cronistoria/stagioni/2001-2002",
+        "02-cronistoria/stagioni/2024-2025"
+      ]
+    },
+    {
+      "name": "Stadio Via",
+      "total_mentions": 18,
+      "distinct_pages": 17,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2017-2018",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/2008-2009",
+        "02-cronistoria/stagioni/1982-1983"
+      ]
+    },
+    {
+      "name": "Stadio Sant",
+      "total_mentions": 17,
+      "distinct_pages": 17,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1970-1971",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1987-1988"
+      ]
+    },
+    {
+      "name": "Stadio Ezio Scida",
+      "total_mentions": 19,
+      "distinct_pages": 16,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1948-1949",
+        "02-cronistoria/stagioni/1998-1999",
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/2025-2026"
+      ]
+    },
+    {
+      "name": "Stadio Erasmo Iacovone",
+      "total_mentions": 18,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/2000-2001",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1989-1990",
+        "02-cronistoria/stagioni/1994-1995"
+      ]
+    },
+    {
+      "name": "Stadio Ennio Tardini",
+      "total_mentions": 18,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1959-1960",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1956-1957",
+        "02-cronistoria/stagioni/2009-2010",
+        "02-cronistoria/stagioni/1957-1958"
+      ]
+    },
+    {
+      "name": "Stadio Nicola Ceravolo",
+      "total_mentions": 18,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1998-1999",
+        "02-cronistoria/stagioni/2017-2018",
+        "02-cronistoria/stagioni/2015-2016",
+        "02-cronistoria/stagioni/2020-2021",
+        "02-cronistoria/stagioni/1994-1995"
+      ]
+    },
+    {
+      "name": "Stadio San Paolo",
+      "total_mentions": 17,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2002-2003",
+        "02-cronistoria/stagioni/1970-1971",
+        "02-cronistoria/stagioni/1983-1984",
+        "02-cronistoria/stagioni/2008-2009",
+        "02-cronistoria/stagioni/2009-2010"
+      ]
+    },
+    {
+      "name": "Stadio Militare",
+      "total_mentions": 16,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1948-1949",
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/1967-1968",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1959-1960"
+      ]
+    },
+    {
+      "name": "Stadio Alberto Pinto",
+      "total_mentions": 16,
+      "distinct_pages": 16,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2025-2026",
+        "02-cronistoria/stagioni/1970-1971",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1989-1990",
+        "02-cronistoria/stagioni/2020-2021"
+      ]
+    },
+    {
+      "name": "Stadio Renzo Barbera",
+      "total_mentions": 17,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2008-2009",
+        "02-cronistoria/stagioni/2009-2010",
+        "02-cronistoria/partite-storiche/precedenti/palermo",
+        "02-cronistoria/stagioni/2007-2008",
+        "02-cronistoria/stagioni/2010-2011"
+      ]
+    },
+    {
+      "name": "Stadio Città",
+      "total_mentions": 17,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1948-1949",
+        "02-cronistoria/stagioni/1937-1938",
+        "02-cronistoria/stagioni/1938-1939",
+        "02-cronistoria/stagioni/2004-2005",
+        "02-cronistoria/stagioni/1999-2000"
+      ]
+    },
+    {
+      "name": "Stadio Libero Liberati",
+      "total_mentions": 17,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/2002-2003",
+        "02-cronistoria/stagioni/1989-1990",
+        "02-cronistoria/stagioni/2020-2021",
+        "02-cronistoria/stagioni/2004-2005"
+      ]
+    },
+    {
+      "name": "Stadio Adriatico",
+      "total_mentions": 16,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1984-1985",
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/2001-2002"
+      ]
+    },
+    {
+      "name": "Stadio Mirabello",
+      "total_mentions": 15,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1967-1968",
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/1959-1960",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/1981-1982"
+      ]
+    },
+    {
+      "name": "Stadio Vito Simone",
+      "total_mentions": 15,
+      "distinct_pages": 15,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2025-2026",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/1989-1990",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2020-2021"
+      ]
+    },
+    {
+      "name": "Stadio Alberto Braglia",
+      "total_mentions": 15,
+      "distinct_pages": 14,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/2014-2015",
+        "02-cronistoria/stagioni/1959-1960",
+        "02-cronistoria/stagioni/1952-1953",
+        "02-cronistoria/stagioni/1957-1958"
+      ]
+    },
+    {
+      "name": "Stadio Cino",
+      "total_mentions": 14,
+      "distinct_pages": 14,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2025-2026",
+        "02-cronistoria/stagioni/1985-1986",
+        "02-cronistoria/stagioni/2000-2001",
+        "02-cronistoria/stagioni/1983-1984",
+        "02-cronistoria/stagioni/1984-1985"
+      ]
+    },
+    {
+      "name": "Stadio Giuseppe Sinigaglia",
+      "total_mentions": 13,
+      "distinct_pages": 13,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1958-1959",
+        "02-cronistoria/stagioni/1959-1960",
+        "02-cronistoria/stagioni/1956-1957",
+        "02-cronistoria/stagioni/1957-1958",
+        "02-cronistoria/stagioni/1982-1983"
+      ]
+    }
+  ],
+  "club_avversari": [
+    {
+      "name": "Calcio Italiano",
+      "total_mentions": 89,
+      "distinct_pages": 89,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1946-1947",
+        "02-cronistoria/stagioni/1987-1988",
+        "02-cronistoria/stagioni/2019-2020",
+        "02-cronistoria/stagioni/1942-1943",
+        "02-cronistoria/stagioni/1985-1986"
+      ]
+    },
+    {
+      "name": "Club Calcio Catania",
+      "total_mentions": 78,
+      "distinct_pages": 45,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "01-societa/epoche/1946-club-calcio-catania",
+        "02-cronistoria/stagioni/1946-1947",
+        "01-societa/presidenti/santi-manganaro-passanisi",
+        "03-tesserati/allenatori/riccardo-carapellese",
+        "03-tesserati/calciatori/archivio/g-l/karl-aage-hansen"
+      ]
+    },
+    {
+      "name": "Società Sportiva Catania",
+      "total_mentions": 51,
+      "distinct_pages": 24,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/p-r/gilberto-pogliano",
+        "03-tesserati/allenatori/nicola-papa",
+        "03-tesserati/allenatori/giovanni-degni",
+        "06-tifoseria-e-cultura/index",
+        "04-strutture/stadio-massimino/cinquanta-volti-cibali"
+      ]
+    },
+    {
+      "name": "Calcio Panini",
+      "total_mentions": 21,
+      "distinct_pages": 21,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/s-z/nello-tedeschini",
+        "03-tesserati/calciatori/archivio/p-r/gilberto-pogliano",
+        "03-tesserati/calciatori/archivio/p-r/carlo-ravizzoli",
+        "03-tesserati/calciatori/archivio/p-r/generoso-rossi",
+        "03-tesserati/calciatori/archivio/d-f/paolo-dall-oro"
+      ]
+    },
+    {
+      "name": "Lega Italiana Calcio",
+      "total_mentions": 19,
+      "distinct_pages": 19,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2026-2027",
+        "03-tesserati/calciatori/archivio/m-o/adriano-montalto",
+        "02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2",
+        "03-tesserati/calciatori/archivio/s-z/stefano-sturaro",
+        "03-tesserati/calciatori/archivio/a-c/caetano-calil"
+      ]
+    },
+    {
+      "name": "Lega Italiana Calcio Professionistico",
+      "total_mentions": 14,
+      "distinct_pages": 14,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/calciatori/archivio/a-c/marius-adamonis",
+        "02-cronistoria/stagioni/2026-2027",
+        "03-tesserati/calciatori/archivio/a-c/alessio-castellini",
+        "02-cronistoria/coppa-italia-serie-c",
+        "03-tesserati/allenatori/emilio-longo"
+      ]
+    },
+    {
+      "name": "Calcio Catania S.p.A.",
+      "total_mentions": 12,
+      "distinct_pages": 10,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "01-societa/epoche/1967-calcio-catania-spa-massimino",
+        "01-societa/dirigenti/pietro-lo-monaco",
+        "01-societa/vicende-legali/trattativa-sigi-tacopina-2021",
+        "01-societa/presidenti/davide-franco",
+        "01-societa/presidenti/nicola-le-mura"
+      ]
+    },
+    {
+      "name": "Impianto Interno",
+      "total_mentions": 16,
+      "distinct_pages": 8,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1960-1961",
+        "02-cronistoria/stagioni/1969-1970",
+        "02-cronistoria/stagioni/1979-1980",
+        "02-cronistoria/stagioni/1933-1934",
+        "02-cronistoria/stagioni/1954-1955"
+      ]
+    },
+    {
+      "name": "Domenico Messina",
+      "total_mentions": 11,
+      "distinct_pages": 5,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1992-1993",
+        "02-cronistoria/stagioni/2006-2007",
+        "02-cronistoria/stagioni/2002-2003",
+        "02-cronistoria/stagioni/1991-1992",
+        "02-cronistoria/stagioni/2003-2004"
+      ]
+    },
+    {
+      "name": "Paolo Milan",
+      "total_mentions": 10,
+      "distinct_pages": 5,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1981-1982",
+        "02-cronistoria/stagioni/1973-1974",
+        "02-cronistoria/stagioni/1976-1977",
+        "02-cronistoria/stagioni/1974-1975",
+        "02-cronistoria/stagioni/1980-1981"
+      ]
+    },
+    {
+      "name": "Associazione Fascista Calcio",
+      "total_mentions": 6,
+      "distinct_pages": 5,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/epoche/1929-ss-catania",
+        "03-tesserati/calciatori/archivio/m-o/gyula-mikossy",
+        "03-tesserati/calciatori/storici/mario-miltone",
+        "04-strutture/campi-storici/piazza-esposizione",
+        "03-tesserati/calciatori/archivio/p-r/marco-romano"
+      ]
+    },
+    {
+      "name": "Unione Sportiva Catanese",
+      "total_mentions": 5,
+      "distinct_pages": 4,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/epoche/1929-ss-catania",
+        "01-societa/epoche/1946-club-calcio-catania",
+        "01-societa/presidenti/santi-quasimodo",
+        "04-strutture/campi-storici/piazza-esposizione"
+      ]
+    },
+    {
+      "name": "Giustizia Sportiva",
+      "total_mentions": 5,
+      "distinct_pages": 4,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi",
+        "01-societa/vicende-legali/decreto-2-febbraio-2007",
+        "02-cronistoria/partite-storiche/2002-2003/catania-siena-1-1",
+        "01-societa/presidenti/agatino-pesce"
+      ]
+    },
+    {
+      "name": "Calcio Femminile",
+      "total_mentions": 5,
+      "distinct_pages": 4,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "07-media-e-comunicazione/letteratura/saggi-e-biografie",
+        "07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it",
+        "08-settori-paralleli/index",
+        "07-media-e-comunicazione/firme-e-voci/roberto-quartarone"
+      ]
+    },
+    {
+      "name": "Catania - Roma",
+      "total_mentions": 4,
+      "distinct_pages": 4,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/diego-pablo-simeone",
+        "02-cronistoria/partite-storiche/1963-1964/finale-coppa-delle-alpi-1964",
+        "01-societa/vicende-legali/decreto-2-febbraio-2007",
+        "02-cronistoria/stagioni/1964-1965"
+      ]
+    },
+    {
+      "name": "Catania - Juventus",
+      "total_mentions": 4,
+      "distinct_pages": 4,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1954-1955",
+        "02-cronistoria/stagioni/1964-1965",
+        "03-tesserati/allenatori/sinisa-mihajlovic",
+        "02-cronistoria/stagioni/1963-1964"
+      ]
+    },
+    {
+      "name": "Catania - Lazio",
+      "total_mentions": 4,
+      "distinct_pages": 4,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1954-1955",
+        "02-cronistoria/stagioni/1960-1961",
+        "02-cronistoria/stagioni/1964-1965",
+        "02-cronistoria/stagioni/1963-1964"
+      ]
+    },
+    {
+      "name": "Catania - Inter",
+      "total_mentions": 6,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/partite-storiche/precedenti/inter",
+        "02-cronistoria/stagioni/1954-1955",
+        "01-societa/vicende-legali/decreto-2-febbraio-2007"
+      ]
+    },
+    {
+      "name": "Formazione Inter",
+      "total_mentions": 4,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/partite-storiche/precedenti/inter",
+        "02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0",
+        "02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1"
+      ]
+    },
+    {
+      "name": "Formazione Palermo",
+      "total_mentions": 4,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/partite-storiche/precedenti/palermo",
+        "02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0",
+        "02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4"
+      ]
+    },
+    {
+      "name": "Presidente Club Calcio",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/presidenti/arturo-michisanti",
+        "01-societa/presidenti/lorenzo-fazio",
+        "01-societa/presidenti/agatino-pesce"
+      ]
+    },
+    {
+      "name": "Presidente Calcio Catania",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/presidenti/salvatore-coco",
+        "01-societa/presidenti/grazia-codiglione",
+        "01-societa/presidenti/angelo-attaguile"
+      ]
+    },
+    {
+      "name": "Catania - Reggina",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1969-1970",
+        "01-societa/vicende-legali/decreto-2-febbraio-2007",
+        "02-cronistoria/stagioni/1979-1980"
+      ]
+    },
+    {
+      "name": "Fallimento Calcio Catania",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "01-societa/vicende-legali/trattativa-sigi-tacopina-2021",
+        "04-strutture/centri-sportivi/torre-del-grifo",
+        "01-societa/vicende-legali/fallimento-2021-art52-noif"
+      ]
+    },
+    {
+      "name": "Catania - Messina",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1953-1954",
+        "02-cronistoria/stagioni/1964-1965",
+        "02-cronistoria/stagioni/1963-1964"
+      ]
+    },
+    {
+      "name": "Juventus - Catania",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Entità in rilievo / Eventi"
+      ],
+      "sample_pages": [
+        "03-tesserati/allenatori/diego-pablo-simeone",
+        "02-cronistoria/stagioni/1960-1961",
+        "03-tesserati/allenatori/sinisa-mihajlovic"
+      ]
+    },
+    {
+      "name": "Rendimento Interno",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/1960-1961",
+        "02-cronistoria/stagioni/1964-1965",
+        "02-cronistoria/stagioni/1963-1964"
+      ]
+    },
+    {
+      "name": "Juventus Stadium",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "02-cronistoria/stagioni/2012-2013",
+        "02-cronistoria/stagioni/2011-2012",
+        "02-cronistoria/stagioni/2013-2014"
+      ]
+    },
+    {
+      "name": "Relazione Tecnica",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "08-settori-paralleli/giovanili/talenti-e-cantera-rossazzurra",
+        "08-settori-paralleli/giovanili/index",
+        "04-strutture/centri-sportivi/campo-comunale-nesima"
+      ]
+    },
+    {
+      "name": "Catania Calcio",
+      "total_mentions": 3,
+      "distinct_pages": 3,
+      "categories": [
+        "Personaggio / Entità"
+      ],
+      "sample_pages": [
+        "06-tifoseria-e-cultura/curve/curva-nord/coreografie-storiche-massimino",
+        "06-tifoseria-e-cultura/curve/curva-nord/festa-curva-nord-famiglie-bambini-2026",
+        "07-media-e-comunicazione/firme-e-voci/nuccio-schilliro"
+      ]
+    }
+  ]
+}

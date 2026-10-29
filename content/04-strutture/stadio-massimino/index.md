@@ -1,30 +1,33 @@
 ---
-title: "Stadio Angelo Massimino (Stadio Cibali) e Centro Tecnico"
-description: "Dossier monografico sullo Stadio Cibali inaugurato nel 1937, intitolato ad Angelo Massimino nel 2002, e sul centro sportivo di Torre del Grifo."
-slug: "04-strutture/stadio-massimino/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Stadio Angelo Massimino (Stadio Cibali) e Centro Tecnico
+description: Dossier monografico sullo Stadio Cibali inaugurato nel 1937, intitolato
+  ad Angelo Massimino nel 2002, e sul centro sportivo di Torre del Grifo.
+slug: 04-strutture/stadio-massimino/index
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "stadio"
-  - "massimino"
-  - "cibali"
-  - "torre-del-grifo"
-  - "strutture"
+- stadio
+- massimino
+- cibali
+- torre-del-grifo
+- strutture
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Monografia architettonica dello Stadio Cibali (1937-2010)"
-  - author: "Comune di Catania"
-    title: "Atti storici di inaugurazione e intitolazione dello Stadio Cibali"
-    publisher: "Archivio Comunale Catania"
-    year: 2002
-    reference: "Delibera comunale per l'intitolazione ad Angelo Massimino"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Monografia architettonica dello Stadio Cibali (1937-2010)
+- author: Comune di Catania
+  title: Atti storici di inaugurazione e intitolazione dello Stadio Cibali
+  publisher: Archivio Comunale Catania
+  year: 2002
+  reference: Delibera comunale per l'intitolazione ad Angelo Massimino
 aliases:
-  - "strutture/stadio-massimino"
-  - "stadio/massimino"
+- strutture/stadio-massimino
+- stadio/massimino
+- 01-societa/strutture/stadio-angelo-massimino
 ---
 
 # Stadio Angelo Massimino (Stadio Cibali) e Centro Tecnico
