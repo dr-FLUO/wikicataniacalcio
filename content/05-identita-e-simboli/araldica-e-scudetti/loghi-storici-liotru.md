@@ -2,7 +2,7 @@
 title: Evoluzione dello Stemma Storico (u Liotru) e delle Divise Rossazzurre (1929–Oggi)
 description: Dossier araldico e cronologico sui 4 stemmi storici con u Liotru (1929,
   1946, 1996, 2022), il riacquisto all'asta di Ross Pelligra, le maglie rossazzurre
-  e gli sponsor.
+  e i codici identitari delle divise.
 slug: 05-identita-e-simboli/araldica-e-scudetti/loghi-storici-liotru
 entity_type: kit_storico
 tags:
@@ -86,19 +86,12 @@ La divisa del Catania possiede codici estetici rigorosi che la distinguono netta
 
 ---
 
-## 4. Cronologia Storica di Fornitori Tecnici e Main Sponsor (1979–Oggi)
+## 4. Dossier Specialistici e Approfondimenti sulla Cultura Materiale
 
-| Periodo / Stagioni | Fornitore Tecnico (Kit Supplier) | Sponsor Principale di Maglia (Main Sponsor) | Stagioni e Ricordi Iconici |
-| :--- | :--- | :--- | :--- |
-| **1979–1982** | *Pouchain* / *NR (Ennerre)* | *Sud Pesca* (1981-82) | Promozione in Serie B nella [[stagioni/1979-1980\|Stagione 1979-1980]] e prime sponsorizzazioni commerciali. |
-| **1982–1985** | *NR (Ennerre)* / *Adidas* | *S7 Supermercati* / *Aiello* / *Casmez* | Le iconiche maglie in lanetta degli [[partite/1982-1983/spareggio-catania-cremonese-0-0\|spareggi di Roma 1983]] e della [[stagioni/1983-1984\|Serie A 1983-1984]]. |
-| **1985–1993** | *Lotto* / *Latas* / *California* / *Tepa Sport* | *Jolly Componibili* / *Cosentino* / *Parmacotto* | Gli anni tra Serie B e Serie C1 prima del contenzioso del 1993. |
-| **1993–2000** | *Tepa Sport* / *Puma* | *Jolly Componibili* / *SP Energia Siciliana* | La rinascita dall'[[stagioni/1993-1994\|Eccellenza 1993-1994]] fino alla Serie C1 con il logo *SP Energia Siciliana*. |
-| **2000–2005** | *Galex* (2000–2004) / *Legea* | *SP Energia Siciliana* / *Toyota* / *La Sicilia* | L'[[societa/2000-era-gaucci\|Era Gaucci]], la promozione a Taranto nella [[stagioni/2001-2002\|2001-2002]] e la [[stagioni/2003-2004\|Serie B 2003-2004]]. |
-| **2005–2010** | *Legea* | *SP Energia Siciliana* | La promozione in Serie A nella [[stagioni/2005-2006\|2005-2006]], il [[partite/precedenti/palermo\|0-4 di Palermo (2009)]] e il [[partite/precedenti/inter\|3-1 all'Inter (2010)]]. |
-| **2010–2017** | *Givova* | *SP Energia Siciliana* / *Wind Jet* / *TTTLines* / *Fiorucci* / *Bacco* | Il record dei **56 punti** nella [[stagioni/2012-2013\|Stagione 2012-2013]] con [[tesserati/allenatori/rolando-maran\|Rolando Maran]]. |
-| **2017–2022** | *Givova* | *DOMIA* / *Superconveniente* | Gli anni della Serie C fino all'estinzione della matricola 11700 nella [[stagioni/2021-2022\|Stagione 2021-2022]]. |
-| **2022–Oggi** | *Erreà* | *Replay* / *Pelligra* / *Superconveniente* | Il trionfo in [[stagioni/2022-2023\|Serie D 2022-2023]] e la conquista della [[partite/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C 2023-2024]]. |
+L'evoluzione dei materiali tessili, dei partner tecnici e delle sponsorizzazioni commerciali sulle maglie da gioco è documentata analiticamente nei dossier dedicati:
+
+* **[[05-identita-e-simboli/sponsor/sponsor-tecnici|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]**: cronistoria dei produttori ufficiali delle divise (da Ennerre e Adidas a Legea, Givova ed Erreà), l'evoluzione della lanetta acrilica e dei tessuti a trama lavica, e la tradizione dei calzettoni neri con risvolto.
+* **[[05-identita-e-simboli/sponsor/sponsor-commerciali|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]**: archivio completo delle sponsorizzazioni di maglia, dall'esordio pionieristico di Haribo nel 1982 e Pasta Poiatti fino al quindicennio di SP Energia Siciliana e all'era contemporanea con SuperConveniente (Gruppo Arena).
 
 ---
 

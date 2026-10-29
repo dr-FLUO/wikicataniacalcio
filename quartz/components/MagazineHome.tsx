@@ -729,6 +729,129 @@ const ERAS = [
   },
 ]
 
+interface NumberStat {
+  id: string
+  kicker: string
+  digits: string
+  desc: string
+  href: string
+}
+
+const NUMBERS_POOL: NumberStat[] = [
+  {
+    id: "fondazione-1929",
+    kicker: "FONDAZIONE",
+    digits: "1929",
+    desc: "Dalla Società Sportiva Catania di Piazza Esposizione all'attuale Catania Football Club.",
+    href: "./01-societa/epoche/1929-ss-catania",
+  },
+  {
+    id: "serie-a-17",
+    kicker: "MASSIMA SERIE",
+    digits: "17",
+    desc: "Campionati di Serie A disputati tra il debutto del 1954-55 e gli otto tornei consecutivi 2006–2014.",
+    href: "./02-cronistoria/stagioni/",
+  },
+  {
+    id: "record-a-56pt",
+    kicker: "RECORD SERIE A",
+    digits: "56 PT",
+    desc: "L'ottavo posto storico della stagione 2012-2013 con 15 vittorie sotto la guida di Rolando Maran.",
+    href: "./02-cronistoria/stagioni/2012-2013",
+  },
+  {
+    id: "esodo-olimpico-40000",
+    kicker: "OLIMPICO 1983",
+    digits: "40.000",
+    desc: "Catanesi in trasferta a Roma il 25 giugno 1983: il più grande esodo sportivo nella storia del Sud.",
+    href: "./02-cronistoria/stagioni/1982-1983",
+  },
+  {
+    id: "matricola-11700",
+    kicker: "MATRICOLA FIGC",
+    digits: "11700",
+    desc: "La storica matricola federale del Club Calcio Catania custodita con fierezza per 75 anni (1946–2022).",
+    href: "./01-societa/epoche/1946-club-calcio-catania",
+  },
+  {
+    id: "presenze-morra-281",
+    kicker: "RECORD PRESENZE",
+    digits: "281",
+    desc: "Le gare ufficiali disputate da Damiano Morra, capitano e primatista assoluto tra il 1975 e il 1984.",
+    href: "./03-tesserati/calciatori/storici/damiano-morra",
+  },
+  {
+    id: "gol-nicolosi-74",
+    kicker: "BOMBER ASSOLUTO",
+    digits: "74 GOL",
+    desc: "Le reti storiche siglate dal centravanti Nicolò Nicolosi, miglior marcatore di tutti i tempi.",
+    href: "./03-tesserati/calciatori/storici/nicolo-nicolosi",
+  },
+  {
+    id: "coppa-italia-4-2",
+    kicker: "COPPA ITALIA",
+    digits: "4–2",
+    desc: "La rimonta al Massimino contro il Padova nella finale di ritorno di Coppa Italia Serie C 2024.",
+    href: "./02-cronistoria/coppa-italia-serie-c",
+  },
+  {
+    id: "inaugurazione-cibali-1937",
+    kicker: "STADIO CIBALI",
+    digits: "1937",
+    desc: "L'inaugurazione del Polisportivo Cibali, tempio del calcio catanese intitolato ad Angelo Massimino.",
+    href: "./04-strutture/stadio-massimino/angelo-massimino",
+  },
+  {
+    id: "presidenza-massimino-24",
+    kicker: "IL CAVALIERE",
+    digits: "24 ANNI",
+    desc: "Il quarto di secolo alla presidenza del club del Presidentissimo Angelo Massimino.",
+    href: "./01-societa/presidenti/angelo-massimino",
+  },
+  {
+    id: "derby-barbera-0-4",
+    kicker: "IL CAPOLAVORO",
+    digits: "0–4",
+    desc: "Il derby del 1 marzo 2009 al Barbera, nobilitato dal gol da centrocampo di Giuseppe Mascara.",
+    href: "./02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4",
+  },
+  {
+    id: "falange-ultras-1979",
+    kicker: "MOVIMENTO ULTRAS",
+    digits: "1979",
+    desc: "La nascita della Falange d'Assalto Rossazzurra, gruppo capostipite del tifo organizzato al Cibali.",
+    href: "./06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto",
+  },
+  {
+    id: "rinascita-pelligra-88",
+    kicker: "RINASCITA D",
+    digits: "88 PT",
+    desc: "Il record assoluto nel girone I della Serie D 2022-23 con promozione con sei turni d'anticipo.",
+    href: "./01-societa/epoche/2022-pelligra-catania-fc",
+  },
+  {
+    id: "inter-triplete-3-1",
+    kicker: "NOTTE COLOSSALE",
+    digits: "3–1",
+    desc: "La memorabile rimonta del 12 marzo 2010 sull'Inter del Triplete guidata da José Mourinho.",
+    href: "./02-cronistoria/stagioni/2009-2010",
+  },
+  {
+    id: "abbonati-record-20000",
+    kicker: "FEDE DEL PUBBLICO",
+    digits: "20.000",
+    desc: "I fedelissimi abbonati al Massimino nella stagione 2023-2024, record nazionale per la Serie C.",
+    href: "./02-cronistoria/stagioni/2023-2024",
+  },
+  {
+    id: "dossier-vault-1740",
+    kicker: "MONUMENTO DIGITALE",
+    digits: "1.740+",
+    desc: "Il patrimonio complessivo di nodi, schede biografiche e sentenze consultabili in questo archivio.",
+    href: "#storie-in-copertina",
+  },
+]
+
 const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   if (fileData.slug !== "index") {
     return null
@@ -741,6 +864,13 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
   const portraitBatchIdx = currentHour % Math.ceil(PORTRAITS_POOL.length / 4)
   const initialPortraits = PORTRAITS_POOL.slice(portraitBatchIdx * 4, portraitBatchIdx * 4 + 4)
+
+  const numberBatchIdx = currentHour % Math.ceil(NUMBERS_POOL.length / 5)
+  const initialNumbersSlice = NUMBERS_POOL.slice(numberBatchIdx * 5, numberBatchIdx * 5 + 5)
+  const initialNumbers =
+    initialNumbersSlice.length === 5
+      ? initialNumbersSlice
+      : [...initialNumbersSlice, ...NUMBERS_POOL.slice(0, 5 - initialNumbersSlice.length)]
 
 
   return (
@@ -770,16 +900,16 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           </h1>
 
           <p class="nfc-hero-cover__deck">
-            Il magazine enciclopedico indipendente dedicato alla memoria agonistica, giurisprudenziale,
-            araldica e sociale del calcio catanese. Ottantasette dossier certificati, classifiche
-            verificate algebricamente e fonti primarie controllate.
+            L'archivio enciclopedico e memoriale d'inchiesta sul calcio a Catania: oltre 1.740 nodi
+            certificati, 95 stagioni complete con quadratura algebrica, tabellini storici, sentenze di
+            diritto sportivo e memoria antropologica del tifo rossazzurro.
           </p>
 
           <div class="nfc-hero-cover__ctas">
             <a href="#storie-in-copertina" class="nfc-double-btn nfc-double-btn--primary">
               <span class="nfc-double-btn__inner">
                 <span class="nfc-double-btn__square" aria-hidden="true" />
-                <span>SFOGLIA IL MAGAZINE</span>
+                <span>ESPLORA L'ENCICLOPEDIA</span>
               </span>
             </a>
             <a href="./02-cronistoria/stagioni/" class="nfc-double-btn nfc-double-btn--light">
@@ -794,34 +924,16 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       {/* 2. SINCRO-STYLE ARCHITECTURAL MANIFESTO & GIANT NUMBERS */}
       <section class="nfc-sincro-manifesto" aria-label="Numeri chiave e manifesto editoriale">
         <div class="nfc-numbers-strip">
-          <div class="nfc-number-cell">
-            <span class="nfc-number-cell__kicker">FONDAZIONE</span>
-            <span class="nfc-number-cell__digits">1929</span>
-            <span class="nfc-number-cell__desc">
-              Dalla Società Sportiva Catania di Piazza Esposizione all'attuale Catania Football Club.
-            </span>
-          </div>
-          <div class="nfc-number-cell">
-            <span class="nfc-number-cell__kicker">MASSIMA SERIE</span>
-            <span class="nfc-number-cell__digits">17</span>
-            <span class="nfc-number-cell__desc">
-              Campionati di Serie A disputati tra il debutto del 1954-55 e gli otto tornei consecutivi 2006–2014.
-            </span>
-          </div>
-          <div class="nfc-number-cell">
-            <span class="nfc-number-cell__kicker">RECORD STORICO A</span>
-            <span class="nfc-number-cell__digits">56 PT</span>
-            <span class="nfc-number-cell__desc">
-              L'ottavo posto della stagione 2012-2013 con 15 vittorie in Serie A sotto la guida di Rolando Maran.
-            </span>
-          </div>
-          <div class="nfc-number-cell">
-            <span class="nfc-number-cell__kicker">OLIMPICO 1983</span>
-            <span class="nfc-number-cell__digits">40.000</span>
-            <span class="nfc-number-cell__desc">
-              Catanesi in trasferta a Roma il 25 giugno 1983: il più grande esodo sportivo nella storia d'Italia.
-            </span>
-          </div>
+          {initialNumbers.map((stat) => (
+            <a href={stat.href} class="nfc-number-cell" data-stat-id={stat.id}>
+              <div class="nfc-number-cell__header">
+                <span class="nfc-number-cell__kicker">{stat.kicker}</span>
+                <span class="nfc-number-cell__arrow" aria-hidden="true">↗</span>
+              </div>
+              <span class="nfc-number-cell__digits">{stat.digits}</span>
+              <span class="nfc-number-cell__desc">{stat.desc}</span>
+            </a>
+          ))}
         </div>
 
         <div class="nfc-manifesto-split">
@@ -918,6 +1030,11 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(COVER_STORIES_POOL) }}
         />
         <script
+          type="application/json"
+          id="nfc-numbers-pool"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(NUMBERS_POOL) }}
+        />
+        <script
           dangerouslySetInnerHTML={{
             __html: `
 (function() {
@@ -930,6 +1047,39 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       copy[j] = t;
     }
     return copy;
+  }
+
+  function renderNumbers(numbers) {
+    var strip = document.querySelector(".nfc-numbers-strip");
+    if (!strip) return;
+    strip.style.transition = "opacity 0.15s ease";
+    strip.style.opacity = "0.2";
+    setTimeout(function() {
+      strip.innerHTML = numbers.map(function(stat) {
+        return '<a href="' + stat.href + '" class="nfc-number-cell" data-stat-id="' + stat.id + '">' +
+          '<div class="nfc-number-cell__header">' +
+            '<span class="nfc-number-cell__kicker">' + stat.kicker + '</span>' +
+            '<span class="nfc-number-cell__arrow" aria-hidden="true">↗</span>' +
+          '</div>' +
+          '<span class="nfc-number-cell__digits">' + stat.digits + '</span>' +
+          '<span class="nfc-number-cell__desc">' + stat.desc + '</span>' +
+        '</a>';
+      }).join("");
+      strip.style.opacity = "1";
+    }, 120);
+  }
+
+  function shuffleNumbers() {
+    var numbersPoolEl = document.getElementById("nfc-numbers-pool");
+    if (numbersPoolEl) {
+      try {
+        var pool = JSON.parse(numbersPoolEl.textContent || "[]");
+        if (pool.length) {
+          var selected = shuffle(pool).slice(0, 5);
+          renderNumbers(selected);
+        }
+      } catch (e) {}
+    }
   }
 
   function renderStories(stories) {
@@ -1014,6 +1164,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   function initRandomizer() {
     shuffleStories();
     shufflePortraits();
+    shuffleNumbers();
 
     var storyBtn = document.getElementById("nfc-shuffle-stories-btn");
     if (storyBtn) {

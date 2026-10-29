@@ -1,51 +1,82 @@
 ---
-title: Museo delle Maglie Storiche e Araldica de u Liotru
-description: Catalogo storico delle divise rossazzurre, degli sponsor tecnici e commerciali
-  e dell'evoluzione araldica dello stemma con l'elefante (u Liotru) dal 1929 a oggi.
-slug: 05-identita-e-simboli/index
-entity_type: section_index
-status: verified
-last_verified_date: 2026-10-27
+title: "Identità, Simboli, Maglie e Tradizioni del Calcio Catania"
+description: "Archivio enciclopedico sull'identità rossazzurra: araldica e stemmi del Liotru, genesi cromatica, fornitori tecnici, sponsor commerciali, mascotte e inni ufficiali dal 1929 a oggi."
+slug: "05-identita-e-simboli/index"
+entity_type: "section_index"
+status: "verified"
+last_verified_date: 2026-10-29
 tags:
-- maglie
-- liotru
-- araldica
+  - "identita"
+  - "simboli"
+  - "araldica"
+  - "liotru"
+  - "maglie"
+  - "sponsor"
+  - "inni"
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
-  title: Tutto il Catania minuto per minuto (1929-2010)
-  publisher: GEO Edizioni, Empoli
-  year: 2010
-  reference: Appendice Iconografica Maglie, Stemmi e Sponsor (1929-2010)
+  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
+    title: "Tutto il Catania minuto per minuto (1929-2010)"
+    publisher: "GEO Edizioni, Empoli"
+    year: 2010
+    reference: "Appendice Iconografica Maglie, Stemmi, Sponsor e Folklore (1929-2010)"
+  - author: "Santi Correnti"
+    title: "La città sempreviva: leggende, tradizioni e simboli di Catania"
+    publisher: "Greco Editore, Catania"
+    year: 1999
+    reference: "Il mito di Eliodoro e l'elefante di pietra lavica (u Liotru)"
 aliases:
-- maglie/index
+  - "maglie/index"
+  - "simboli/index"
+  - "identita/index"
 ---
 
+# Identità, Simboli, Maglie e Tradizioni del Calcio Catania
 
-# Museo delle Maglie Storiche e Araldica de *"u Liotru"*
+L'universo simbolico e identitario del **Calcio Catania** unisce le radici millenarie della civiltà etnea con la passione sportiva viscerale della sua comunità. Fin dal **giugno 1929**, all'atto di fondazione della [[societa/1929-ss-catania|Società Sportiva Catania]], la compagine calcistica cittadina ha fatto propri i colori del territorio — il **rosso magma dell'Etna (#d11317)** e l'**azzurro mare dello Jonio (#0cb2d9)** — e l'antichissimo emblema civico dell'elefante lavico, venerato dal popolo con il nome di ***"u Liotru"***.
 
-Catalogazione sistematica della cultura materiale rossazzurra: le variazioni delle strisce verticali rosse (#d11317) e azzurre (#0cb2d9), il tratto identitario dei **calzettoni neri (#191919) con risvolto rossazzurro**, i fornitori tecnici, gli sponsor commerciali e l'evoluzione dei quattro stemmi storici del club.
-
----
-
-## Dossier Enciclopedici Disponibili nella Sezione
-
-- **[[maglie/loghi-storici-liotru|Evoluzione dello Stemma Storico (u Liotru) e delle Divise Rossazzurre (1929–Oggi)]]** — Dossier completo sull'araldica dei 4 loghi ufficiali (1929, 1946, 1996, 2022), sul riacquisto all'asta fallimentare da parte di [[societa/presidenti/ross-pelligra|Ross Pelligra]] nel maggio 2024, sulle caratteristiche cromatiche delle divise e sulla cronologia di fornitori tecnici e sponsor di maglia.
-- **[[maglie/sponsor-tecnici-e-commerciali|Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)]]** — Cronologia sistematica e analisi storico-economica dei partner tecnici (Ennerre, Adidas, Uhlsport, Devis Sport, Legea, Givova, Erreà) e dei main sponsor di maglia (da Haribo, Pasta Poiatti e Tamoil a SP Energia Siciliana e SuperConveniente) dal 1979 a oggi.
-- **[[maglie/acquisizione-marchio-storico-2026|Acquisizione del Marchio Storico e Continuità Giuridica (2024–2026)]]** — La procedura competitiva fallimentare, l'aggiudicazione dei beni immateriali della matricola 11700 da parte del Catania FC di Ross Pelligra e la riunificazione araldica del patrimonio storico.
+La presente sezione raccoglie la catalogazione sistematica di questo patrimonio araldico, materiale e sonoro, suddiviso in tre macro-aree di indagine:
 
 ---
 
-## Sintesi dell'Evoluzione degli Stemmi Ufficiali
+## 1. Araldica, Colori Sociali e Scudetti Storici
 
-1. **1929–1943 ([[societa/1929-ss-catania|SS Catania / AFC Catania]]):** Scudo palato rossazzurro con elefante stilizzato.
-2. **1946–1996 ([[societa/1946-club-calcio-catania|Club Calcio Catania]] / [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]):** Scudo svizzero con fascia oro *CLUB CALCIO CATANIA*, elefante nero (*u Liotru*) e monogramma *C.C.*.
-3. **1996–2022 e riacquisto all'asta 2024:** Scudo obliquo rossazzurro bordato d'oro (#d29933) con pallone classico ed elefante di profilo su banda *CALCIO CATANIA*.
-4. **Dal 2022 ([[societa/2022-pelligra-catania-fc|Catania SSD / Catania FC]]):** Scudo moderno con lettera *"C"* stilizzata, *Liotru* e data *1946*.
+Dossier dedicati alla genealogia grafica dei loghi societari, all'origine dei colori statutari e alle vicende giuridiche di riscatto dei marchi immateriali:
+
+* **[[05-identita-e-simboli/araldica-e-scudetti/index|Hub Araldica, Simbologia e Scudetti Storici]]**: panoramica generale e guida alla genealogia visiva del club.
+* **[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Simbologia, Colori Sociali e Stemmi Ufficiali (1929–2026)]]**: le origini del rosso e dell'azzurro codificate da Santi Quasimodo, il mito bizantino di Eliodoro e la cronistoria dei quattro stemmi societari.
+* **[[05-identita-e-simboli/araldica-e-scudetti/loghi-storici-liotru|Evoluzione dello Stemma Storico (u Liotru) e delle Divise Rossazzurre]]**: approfondimento sui 4 loghi ufficiali (1929, 1946, 1996, 2022) e l'anatomia delle casacche (home, away, third).
+* **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|L'Acquisizione del Marchio Storico all'Asta del 2026]]**: il dossier giuridico sull'aggiudicazione telematica competitiva dei marchi della matricola 11700 da parte del Catania FC di [[societa/presidenti/ross-pelligra|Ross Pelligra]] e [[societa/presidenti/vincenzo-grella|Vincenzo Grella]].
 
 ---
 
-## Fonti e Bibliografia
+## 2. Cultura Materiale, Divise da Gioco e Sponsorizzazioni
+
+Dossier analitici sull'evoluzione tessile e commerciale delle casacche rossazzurre, riorganizzati per netta competenza tematica:
+
+* **[[05-identita-e-simboli/sponsor/index|Hub Sponsor Tecnici e Commerciali]]**: il quadro normativo FIGC sulle delibere 1979 (marchio tecnico) e 1981 (sponsor pubblicitari).
+* **[[05-identita-e-simboli/sponsor/sponsor-tecnici|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]**: la storia dei produttori di abbigliamento sportivo (da Ennerre, Adidas e Puma a Galex, Legea, Givova ed Erreà), l'evoluzione dalla pesante "lanetta" al poliestere lavico, e il canone immutabile dei **calzettoni neri (#191919) con risvolto rossazzurro**.
+* **[[05-identita-e-simboli/sponsor/sponsor-commerciali|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]**: la cronologia di tutti i marchi commerciali apparsi sulle casacche etnee, dal pioniere **Haribo** (1982-83) e Pasta Poiatti fino al lungo sodalizio di Serie A con **SP Energia Siciliana** e all'era contemporanea con **SuperConveniente (Gruppo Arena)** e **Replay**.
+
+---
+
+## 3. Simboli Popolari, Folklore e Musica
+
+* **[[05-identita-e-simboli/mascotte-e-inni|Mascotte Agatino e Inni Ufficiali del Calcio Catania]]**: la genesi della mascotte ufficiale (l'elefantino *Agatino* battezzato dai tifosi nel settembre 2014) e la raccolta degli inni musicali, da *Catania Unico Amore* alle musiche storiche dello Stadio Angelo Massimino.
+
+---
+
+## Sintesi Araldica dei Quattro Stemmi Ufficiali
+
+1. **1929–1943 ([[societa/1929-ss-catania|SS Catania / AFC Catania]]):** Scudo palato verticale rossazzurro caricato della silhouette dell'elefante rampante.
+2. **1946–1996 ([[societa/1946-club-calcio-catania|Club Calcio Catania]] / [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]):** Scudo svizzero con capo d'oro *CLUB CALCIO CATANIA*, elefante nero (*u Liotru*) su cerchio bianco e monogramma *C.C.*.
+3. **1996–2022 e riacquisto all'asta 2026:** Scudo moderno sagomato bordato d'oro (#d29933), trinciato in diagonale rossazzurro con pallone classico in cuoio ed elefante antracite su banda orizzontale rossa.
+4. **Dal 2022 ([[societa/2022-pelligra-catania-fc|Catania SSD / Catania FC]]):** Scudo contemporaneo bicolore dominato da una lettera *"C"* sveva stilizzata che abbraccia il *Liotru* e l'anno fondativo *1946*.
+
+---
+
+## Fonti Certificate e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
-2. **Archivio Storico Mimmo Rapisarda** ([mimmorapisarda.it](https://www.mimmorapisarda.it/)), *Museo virtuale delle maglie e dei marchi del Calcio Catania*.
+2. **Roberto Quartarone**, *Gli sponsor tecnici e commerciali del Catania dal 1979 ad oggi*, in [tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/), 2024.
+3. **Archivio Storico Mimmo Rapisarda** ([mimmorapisarda.it](https://www.mimmorapisarda.it/)), *Museo virtuale delle divise storiche e dei marchi del Calcio Catania*.
+4. **Tribunale Ordinario di Catania**, *Atti di aggiudicazione beni immateriali matricola 11700*, ottobre 2026.

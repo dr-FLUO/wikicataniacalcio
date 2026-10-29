@@ -114,7 +114,8 @@ Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprend
 
 ## 5. Collegamenti e Voci Correlate
 
-* [[maglie/sponsor-commerciali|Storia degli Sponsor Commerciali e Tecnici (1982-2026)]]
+* [[05-identita-e-simboli/sponsor/sponsor-tecnici|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]
+* [[05-identita-e-simboli/sponsor/sponsor-commerciali|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]
 * [[societa/1929-ss-catania|Nascita della Società Sportiva Catania nel 1929]]
 * [[societa/1946-club-calcio-catania|La Rinascita post-bellica del 1946]]
 * [[societa/presidenti/angelo-massimino|Angelo Massimino e i trent'anni della Matricola 11700]]

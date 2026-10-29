@@ -969,10 +969,10 @@ body[data-slug="index"] {
   inset: 0;
   background: radial-gradient(
       circle at center,
-      rgba(15, 15, 15, 0.45) 0%,
-      rgba(15, 15, 15, 0.84) 100%
+      rgba(15, 15, 15, 0.30) 0%,
+      rgba(15, 15, 15, 0.70) 100%
     ),
-    linear-gradient(180deg, rgba(209, 19, 23, 0.18) 0%, rgba(15, 15, 15, 0.88) 100%);
+    linear-gradient(180deg, rgba(209, 19, 23, 0.15) 0%, rgba(15, 15, 15, 0.74) 100%);
 }
 
 .nfc-hero-cover__inner {
@@ -1034,41 +1034,75 @@ body[data-slug="index"] {
 
 .nfc-numbers-strip {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(5, minmax(0, 1fr));
   border-bottom: 1.5px solid var(--wiki-border-strong);
 }
 
 .nfc-number-cell {
-  padding: 1.75rem 1.5rem;
+  padding: 1.5rem 1.15rem;
   border-right: 1px solid var(--wiki-border-hairline);
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  text-decoration: none !important;
+  color: inherit !important;
+  background-color: transparent;
+  position: relative;
+  transition: background-color 0.2s ease, transform 0.2s ease;
 
   &:last-child {
     border-right: none;
+  }
+
+  &:hover {
+    background-color: var(--wiki-surface-sunken, rgba(0, 0, 0, 0.03));
+    transform: translateY(-2px);
+
+    .nfc-number-cell__digits {
+      color: var(--rossazzurro-red);
+    }
+
+    .nfc-number-cell__arrow {
+      opacity: 1;
+      transform: translate(2px, -2px);
+    }
+  }
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.4rem;
   }
 
   &__kicker {
     font-family: var(--font-editorial);
     font-size: 0.72rem;
     font-weight: 700;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--rossazzurro-red);
   }
 
+  &__arrow {
+    font-size: 0.82rem;
+    color: var(--rossazzurro-red);
+    opacity: 0.35;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
   &__digits {
     font-family: var(--font-display);
-    font-size: clamp(3rem, 5vw, 4.75rem);
+    font-size: clamp(2.35rem, 3.8vw, 3.9rem);
     font-weight: 900;
     line-height: 0.9;
     letter-spacing: -0.02em;
     color: var(--dark);
+    transition: color 0.2s ease;
   }
 
   &__desc {
-    font-size: 0.88rem;
+    font-size: 0.82rem;
     line-height: 1.45;
     color: var(--gray);
     margin-top: 0.25rem;
@@ -1742,7 +1776,10 @@ body[data-slug="index"] {
 
 @media (max-width: 1100px) {
   .nfc-numbers-strip {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .nfc-number-cell {
+    border-bottom: 1px solid var(--wiki-border-hairline);
   }
   .nfc-manifesto-split {
     grid-template-columns: 1fr;
