@@ -1,20 +1,20 @@
 ---
 title: Roberto Inglese — Il Centravanti di Serie A per la Scalata Rossazzurra (2024-2026)
-description: Biografia e statistiche di Roberto Inglese, centravanti di classe superiore
-  con lunga militanza in Serie A, leader dell'attacco etneo dal 2024 al 2026.
+description: Biografia, presenze e statistiche ufficiali di Roberto Inglese, attaccante / centravanti del Calcio Catania con
+  31 presenze e 14 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/roberto-inglese
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1991-11-12
 birth_place: Lucera (FG), Italia
 nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 2024-2026
-total_appearances: 58
+total_appearances: 31
 league_appearances: 52
-total_goals: 20
+total_goals: 14
 league_goals: 19
 club_entities:
 - '[[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
@@ -45,8 +45,7 @@ sources:
 image: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
 image_credits:
 - image_path: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
-  alt_text: Roberto Inglese, centravanti e punto di riferimento offensivo del Catania
-    FC
+  alt_text: Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -59,12 +58,62 @@ aliases:
 - calciatori/roberto-inglese
 current_squad: false
 seasons_count: 1
+total_assists: 1
+minutes_played: 2198
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 ![Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp)
 *Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
 # Roberto Inglese
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp" alt="Roberto Inglese" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Roberto Inglese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1991</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–2026</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>31</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>14</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Roberto Inglese** (Lucera, 12 novembre 1991) è un calciatore italiano, nel ruolo di centravanti. Giunto a Catania nell'agosto **2024** dopo una prestigiosa carriera in Serie A con ChievoVerona, Parma e Napoli (con quasi 40 reti nella massima serie italiana), è stato il grande colpo di mercato dell'era Pelligra voluto dal tecnico Domenico Toscano e dal ds Daniele Faggiano.
 
@@ -85,15 +134,16 @@ Nel campionato 2024-2025 decise big match contro Benevento, Trapani e Avellino, 
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2024-2026) | 52 | 19 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc\|Catania Football Club (Era Pelligra)]] |
-| Coppe Nazionali / Spareggi | 6 | 1 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **58** | **20** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Punta centrale | 31 | 14 | 1 | 1 | 0 | 2198' |
+| **TOTALE** | — | **31** | **14** | **1** | **1** | **0** | **2198'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Roberto Inglese** ha collezionato complessivamente **31 presenze ufficiali**, disputando **2198 minuti** di gioco effettivo, siglando **14 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 

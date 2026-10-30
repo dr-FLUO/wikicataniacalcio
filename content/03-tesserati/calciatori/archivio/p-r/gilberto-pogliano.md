@@ -47,8 +47,51 @@ citizenship: Italia
 
 # Gilberto Pogliano — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Gilberto Pogliano in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/gilberto-pogliano.webp)
-*Ritratto del calciatore Gilberto Pogliano in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/gilberto-pogliano.webp" alt="Gilberto Pogliano" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gilberto Pogliano</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1908</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1933–1935</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>42</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Gilberto Pogliano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,24 +101,3 @@ Attaccante piemontese rapido e ficcante. Veste la casacca rossazzurra della Soci
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1933-1935, totalizzando **42 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
-
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Presenze Totali Ufficiali** | 42 gare |
-| **Stagioni in Maglia Rossazzurra** | 2 stagioni (1933-1935) |
-| **Nazionalità Sportiva** | Italia |
-| **Luogo e Data di Nascita** | Torino, Italia (1908-02-02) |
-
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Gilberto Pogliano](https://it.wikipedia.org/wiki/Gilberto_Pogliano) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.

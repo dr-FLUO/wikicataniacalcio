@@ -1,13 +1,13 @@
 ---
 title: Domenico Labrocca — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Domenico Labrocca, difensore
-  del Calcio Catania con 198 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Domenico Labrocca, difensore del Calcio Catania con 206 presenze
+  e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/domenico-labrocca
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 198
+total_appearances: 206
 seasons_count: 7
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/484_domenico-labrocca.jpg
 image_credits:
 - image_path: assets/images/players/484_domenico-labrocca.jpg
-  alt_text: Ritratto del calciatore Domenico Labrocca in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Domenico Labrocca in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,89 @@ aliases:
 birth_date: '1952-08-18'
 birth_place: Asmara
 citizenship: Italia
+total_goals: 6
+total_assists: 0
+minutes_played: 18113
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Domenico Labrocca — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Domenico Labrocca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/484_domenico-labrocca.jpg)
-*Ritratto del calciatore Domenico Labrocca in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/484_domenico-labrocca.jpg" alt="Domenico Labrocca" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Domenico Labrocca</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1952</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>206</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Domenico Labrocca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 198
-* **Stagioni disputate**: 7
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1974-1975** | Terzino destro | 40 | 1 | 0 | 1 | 0 | 3600' |
+| **1975-1976** | Terzino destro | 41 | 1 | 0 | 0 | 0 | 3690' |
+| **1976-1977** | Terzino destro | 35 | 1 | 0 | 0 | 0 | 3134' |
+| **1977-1978** | Terzino destro | 30 | 1 | 0 | 0 | 0 | 2700' |
+| **1978-1979** | Terzino destro | 29 | 1 | 0 | 0 | 0 | 2565' |
+| **1979-1980** | Terzino destro | 24 | 1 | 0 | 0 | 0 | 2089' |
+| **1981-1982** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 335' |
+| **TOTALE** | — | **206** | **6** | **0** | **1** | **0** | **18113'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Domenico Labrocca** ha collezionato complessivamente **206 presenze ufficiali**, disputando **18113 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

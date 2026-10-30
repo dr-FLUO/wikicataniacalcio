@@ -57,6 +57,12 @@ aliases:
 - egizio-rubino
 - tesserati/egizio-rubino
 - allenatori/egizio-rubino
+
+total_matches: 183
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Egizio Rubino, storico tecnico della promozione in Serie A del 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp)
@@ -112,3 +118,13 @@ Dopo aver iniziato anche il torneo cadetto 1975-1976 (lanciando titolare un giov
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 235–250, 266–275, 294–298.
 2. **Archivio Storico Mimmo Rapisarda**, *Addio a Egizio Rubino, l'allenatore gentiluomo di due promozioni rossazzurre*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/), 2008.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1974 — 14/03/1976 | 622 giorni | 66 | 1,59 |
+| 01/07/1968 — 30/06/1971 | 1094 giorni | 117 | 1,21 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

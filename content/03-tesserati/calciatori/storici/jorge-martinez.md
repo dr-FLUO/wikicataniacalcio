@@ -1,11 +1,11 @@
 ---
 title: Jorge Martínez — «El Malaka», L'Ala Imprendibile e la Storica Cessione
-description: 'Biografia e statistiche di Jorge ''El Malaka'' Martínez al Calcio Catania:
-  93 gare e 23 reti (2007-2010), colpo record del mercato e autore di gol leggendari.'
+description: Biografia, presenze e statistiche ufficiali di Jorge Martínez, attaccante (ala / seconda punta / esterno offensivo)
+  del Calcio Catania con 94 presenze e 23 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/jorge-martinez
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1983-04-05
 birth_place: Montevideo, Uruguay
 nationality: Uruguay
@@ -13,7 +13,7 @@ role: Attaccante (Ala / Seconda punta / Esterno offensivo)
 shirt_number: 25
 catania_periods:
 - 2007-2010
-total_appearances: 93
+total_appearances: 94
 league_appearances: 86
 serie_a_appearances: 86
 total_goals: 23
@@ -31,25 +31,21 @@ tags:
 - hall-of-fame
 sources:
 - author: Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Ufficiale Serie A TIM (2007-2010) — Scheda Jorge Andrés
-    Martínez Barrios
+  title: Archivio Statistico Ufficiale Serie A TIM (2007-2010) — Scheda Jorge Andrés Martínez Barrios
   publisher: Lega Serie A
   year: 2010
   reference: 86 presenze e 22 reti in Serie A, 7 presenze e 1 rete in Coppa Italia
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: pp. 448-467 (Dal gol salvezza con la Roma nel 2008 alla cessione record
-    da 12 milioni alla Juventus)
+  reference: pp. 448-467 (Dal gol salvezza con la Roma nel 2008 alla cessione record da 12 milioni alla Juventus)
 - author: Roberto Quartarone, Alessandro Russo
   title: 'El Malaka Martínez: la favola dell''uruguaiano imprendibile del Catania'
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2014
-  reference: Analisi tecnica del triennio etneo e il capolavoro contro l'Inter del
-    Triplete
+  reference: Analisi tecnica del triennio etneo e il capolavoro contro l'Inter del Triplete
 - author: Archivio Storico CalcioCatania.com
   title: Scheda anagrafica e statistiche ufficiali di Jorge Andres Barrios Martinez
   publisher: calciocatania.com
@@ -61,10 +57,63 @@ aliases:
 - jorge-martinez
 - tesserati/jorge-martinez
 - calciatori/jorge-martinez
+total_assists: 5
+minutes_played: 6287
+seasons_count: 3
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
-
 # Jorge Martínez
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Jorge Martínez</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1983</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Uruguay</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2007–2010</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>94</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>23</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Jorge Andrés Martínez Barrios**, universalmente conosciuto come **"El Malaka"** (Montevideo, 5 aprile 1983), è un ex calciatore uruguaiano, di ruolo attaccante, ala destra o seconda punta. Giocatore dall'accelerazione devastante sui primi passi, progressione potente e dribbling imprevedibile in campo aperto, ha militato nel [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] tra il **2007** e il **2010**, collezionando **93 presenze ufficiali e 23 reti** (86 gare e 22 gol in Serie A, oltre a 7 gare e 1 rete in Coppa Italia). Protagonista di reti scolpite nella memoria collettiva della tifoseria etnea — dal gol salvezza alla Roma allo 0-4 di Palermo, dal rigore di Torino fino al celebre pallonetto a Júlio César contro l'Inter del *Triplete* —, nell'estate 2010 è stato protagonista della **cessione più remunerativa della storia del club**, acquistato dalla Juventus per **12 milioni di euro**.
 
@@ -126,6 +175,19 @@ Il **1º luglio 2010**, la Juventus acquista Jorge Martínez a titolo definitivo
 - **Gol Iconici:** Rete della salvezza all'85' contro la Roma (maggio 2008), 4º gol nello storico 0-4 di Palermo (marzo 2009), rigore dell'1-2 alla Juventus a Torino (dicembre 2009) e pallonetto del 3-1 all'[[partite/precedenti/inter|Inter]] di Mourinho (marzo 2010).
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2006-2007** | Ala destra | 36 | 9 | 2 | 9 | 0 | 2309' |
+| **2007-2008** | Ala destra | 32 | 5 | 0 | 5 | 0 | 2142' |
+| **2008-2009** | Ala destra | 26 | 9 | 3 | 4 | 0 | 1836' |
+| **TOTALE** | — | **94** | **23** | **5** | **18** | **0** | **6287'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Jorge Martínez** ha collezionato complessivamente **94 presenze ufficiali**, disputando **6287 minuti** di gioco effettivo, siglando **23 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 

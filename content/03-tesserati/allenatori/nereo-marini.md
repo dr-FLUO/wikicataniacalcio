@@ -42,6 +42,12 @@ aliases:
 - tesserati/nereo-marini
 - allenatori/nereo-marini
 citizenship: Regno d'Italia
+
+total_matches: 16
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 # Nereo Marini
@@ -78,3 +84,12 @@ Nel campionato 1951-1952 guidò la squadra fino alla 18ª giornata prima del pas
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1951 — 20/01/1952 | 203 giorni | 16 | 1,50 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

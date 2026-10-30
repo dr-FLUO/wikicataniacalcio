@@ -38,7 +38,7 @@ aliases:
 
 # Amicizia Internazionale Catania-Borussia Dortmund e Polonia Bytom
 
-La proiezione europea del movimento ultras catanese si esprime attraverso due consolidati rapporti di **amicizia e fratellanza internazionale** sviluppatisi a partire dagli anni Duemiladieci: il celebre asse con la *Südtribüne* del **Borussia Dortmund** (in particolare con il gruppo guida **Desperados 1999** e con **The Unity**) e il legame della [[06-tifoseria-e-cultura/curve/curva-sud/index|Curva Sud]] con la tifoseria polacca del **Polonia Bytom**.
+La proiezione europea del movimento ultras catanese si esprime attraverso due consolidati rapporti di **amicizia e fratellanza internazionale** sviluppatisi a partire dagli anni Duemiladieci: il celebre asse con la *Südtribüne* del **Borussia Dortmund** (in particolare con il gruppo guida **Desperados 1999** e con **The Unity**) e il legame della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] con la tifoseria polacca del **Polonia Bytom**.
 
 ---
 

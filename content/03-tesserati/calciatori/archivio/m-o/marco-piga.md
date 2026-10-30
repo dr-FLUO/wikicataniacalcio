@@ -1,13 +1,13 @@
 ---
 title: Marco Piga — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Marco Piga, attaccante
-  del Calcio Catania con 64 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Marco Piga, attaccante del Calcio Catania con 70 presenze e 18
+  gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/marco-piga
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 64
+total_appearances: 70
 seasons_count: 2
 tags:
 - calciatori
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Piga-513
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 513
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -47,33 +46,84 @@ aliases:
 birth_date: '1956-05-29'
 birth_place: Palau
 citizenship: Italia
+total_goals: 18
+total_assists: 0
+minutes_played: 6040
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Marco Piga — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/513_marco-piga.jpg)
-*Ritratto del calciatore Marco Piga in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/513_marco-piga.jpg" alt="Marco Piga" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Marco Piga</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1956</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>70</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Marco Piga** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 64
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1978-1979** | Punta centrale | 31 | 11 | 0 | 0 | 0 | 2790' |
+| **1979-1980** | Punta centrale | 39 | 7 | 0 | 0 | 0 | 3250' |
+| **TOTALE** | — | **70** | **18** | **0** | **0** | **0** | **6040'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Marco Piga** ha collezionato complessivamente **70 presenze ufficiali**, disputando **6040 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

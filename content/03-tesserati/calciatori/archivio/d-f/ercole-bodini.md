@@ -62,6 +62,55 @@ citizenship: Regno d'Italia
 
 # Ercole Bodini
 
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Ercole Bodini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1904</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1930–1935</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>110</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>37</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Ercole Bodini** (Cremona, 28 novembre 1904 – Cremona, 24 settembre 1962) è stato un calciatore e allenatore di calcio italiano, di ruolo mezzala offensiva. Arrivato a Catania nel **1930** proveniente dalla Cremonese, è stato uno dei più grandi protagonisti del primo lustro di vita del sodalizio etneo, collezionando **110 presenze e 37 reti ufficiali**.
 
 Dotato di visione di gioco sopraffina e di un eccellente tiro dalla distanza, Bodini fu il punto di riferimento tecnico e realizzativo della squadra per ben cinque campionati consecutivi, formando una coppia offensiva leggendaria con il giovane centravanti [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]].
@@ -78,16 +127,6 @@ Dotato di visione di gioco sopraffina e di un eccellente tiro dalla distanza, Bo
 ### Dagli Esordi in Prima Divisione al Trionfo del 1934
 
 Nelle stagioni [[stagioni/1930-1931|1930-1931]] (10 reti) e [[stagioni/1931-1932|1931-1932]] (10 reti), Bodini fu il faro del centrocampo etneo sul campo di Piazza Esposizione. Il suo capolavoro coincise con la [[stagioni/1933-1934|Stagione 1933-1934]]: guidato dal maestro ungherese Géza Kertész, Bodini mise a referto ben **21 reti** (capocannoniere assoluto del torneo), trascinando il Catania alla conquista della prima storica promozione in **Serie B**. Nella stagione di debutto in cadetteria ([[stagioni/1934-1935|1934-1935]]) confermò la propria classe collezionando 20 presenze e 4 reti prima del rientro al Nord.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1930-1935) | 104 | 37 | Centrocampista / Mezzala offensiva | [[societa/1929-ss-catania\|Società Sportiva Catania]] |
-| Coppe Nazionali / Spareggi | 6 | 0 | Centrocampista / Mezzala offensiva | Gare ufficiali |
-| **Totale Complessivo** | **110** | **37** | — | — |
 
 ---
 

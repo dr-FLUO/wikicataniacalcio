@@ -53,6 +53,8 @@ aliases:
 - spareggi-olimpico-1983
 - spareggi-di-roma
 - spareggi-di-roma-1983
+- partite/1982-1983/spareggi-roma-1983
+- 1982-1983/spareggi-roma-1983
 ---
 # Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno in Serie A
 

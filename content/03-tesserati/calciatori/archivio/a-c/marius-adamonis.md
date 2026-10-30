@@ -43,8 +43,51 @@ seasons_count: 1
 
 # Marius Adamonis — Portiere della Nazionale Lituana e del Catania FC
 
-![Fototessera ufficiale del portiere lituano del Catania Marius Adamonis — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp)
-*Fototessera ufficiale del portiere lituano del Catania Marius Adamonis — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp" alt="Marius Adamonis" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Marius Adamonis</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1997</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Lituania</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–2026</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>38</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Nato a Panevėžys il **13 maggio 1997**, **Marius Adamonis** è stato l'estremo difensore del Catania Football Club dal 2024 al 2026 e portiere nel giro della Nazionale maggiore della Lituania.
 
@@ -66,7 +109,7 @@ Ingaggiato nell'estate del **2024** per blindare la porta rossazzurra:
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
 * [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]

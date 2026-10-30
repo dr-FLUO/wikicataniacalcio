@@ -1,13 +1,13 @@
 ---
 title: Cristian Silvestri — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Cristian Silvestri, difensore
-  del Calcio Catania con 123 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Cristian Silvestri, difensore del Calcio Catania con 132 presenze
+  e 5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/cristian-silvestri
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 123
+total_appearances: 132
 seasons_count: 5
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/61_cristian-silvestri.jpg
 image_credits:
 - image_path: /assets/images/calciatori/cristian-silvestri.jpg
-  alt_text: 'Ritratto ufficiale di Cristian Silvestri — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Cristian Silvestri — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,89 @@ aliases:
 birth_date: '1975-01-21'
 birth_place: Roma
 citizenship: Italia
+total_goals: 5
+total_assists: 2
+minutes_played: 10426
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Cristian Silvestri — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Cristian Silvestri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/cristian-silvestri.jpg)
-*Ritratto ufficiale di Cristian Silvestri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/61_cristian-silvestri.jpg" alt="Cristian Silvestri" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Cristian Silvestri</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1975</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>132</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Cristian Silvestri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Cristian Silvestri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 123
-* **Stagioni disputate**: 5
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Difensore centrale | 18 | 2 | 0 | 9 | 0 | 1597' |
+| **2004-2005** | Difensore centrale | 37 | 1 | 0 | 10 | 1 | 3268' |
+| **2005-2006** | Difensore centrale | 26 | 0 | 2 | 3 | 2 | 1926' |
+| **2006-2007** | Difensore centrale | 26 | 2 | 0 | 7 | 0 | 2004' |
+| **2007-2008** | Difensore centrale | 25 | 0 | 0 | 3 | 0 | 1631' |
+| **TOTALE** | — | **132** | **5** | **2** | **32** | **3** | **10426'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Cristian Silvestri** ha collezionato complessivamente **132 presenze ufficiali**, disputando **10426 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

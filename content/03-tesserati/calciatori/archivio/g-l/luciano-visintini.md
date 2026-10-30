@@ -1,11 +1,11 @@
 ---
 title: Luciano Visintini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Luciano Visintini, portiere
-  del Calcio Catania con 6 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Luciano Visintini, portiere del Calcio Catania con 6 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/luciano-visintini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
 total_appearances: 6
 seasons_count: 3
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/584_luciano-visintini.jpg
 image_credits:
 - image_path: /assets/images/calciatori/luciano-visintini.jpg
-  alt_text: 'Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,87 @@ aliases:
 birth_date: '1947-03-16'
 birth_place: Buttrio
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 431
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Luciano Visintini — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/luciano-visintini.jpg)
-*Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/584_luciano-visintini.jpg" alt="Luciano Visintini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Luciano Visintini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1947</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Luciano Visintini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Luciano Visintini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 6
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1968-1969** | Portiere | 2 | 0 | 0 | 0 | 0 | 99' |
+| **1969-1970** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1970-1971** | Portiere | 2 | 0 | 0 | 0 | 0 | 152' |
+| **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **431'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Luciano Visintini** ha collezionato complessivamente **6 presenze ufficiali**, disputando **431 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

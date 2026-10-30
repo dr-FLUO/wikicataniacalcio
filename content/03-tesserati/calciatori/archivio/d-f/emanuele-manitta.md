@@ -47,8 +47,51 @@ citizenship: Italia
 
 # Emanuele Manitta — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Emanuele Manitta in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/emanuele-manitta.jpg)
-*Ritratto del calciatore Emanuele Manitta in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/emanuele-manitta.jpg" alt="Emanuele Manitta" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Emanuele Manitta</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1977</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Emanuele Manitta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
@@ -58,23 +101,3 @@ Nato a Caltagirone (1977-01-12), Emanuele Manitta ha militato tra le file della 
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
-
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Portiere |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1977-01-12 — Caltagirone |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Emanuele Manitta](https://it.wikipedia.org/wiki/Emanuele_Manitta) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).

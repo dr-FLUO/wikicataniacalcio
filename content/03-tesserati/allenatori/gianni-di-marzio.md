@@ -59,6 +59,12 @@ aliases:
 - gianni-di-marzio
 - tesserati/gianni-di-marzio
 - allenatori/gianni-di-marzio
+
+total_matches: 62
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -104,3 +110,12 @@ Confermato per la [[stagioni/1983-1984|Serie A 1983-1984]] (nonostante le diverg
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 308–322.
 2. **Roberto Quartarone**, *Addio a Gianni Di Marzio, il condottiero dei 40.000 di Roma*, Tutto il Catania minuto per minuto, gennaio 2022.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1982 — 15/12/1983 | 532 giorni | 62 | 1,34 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

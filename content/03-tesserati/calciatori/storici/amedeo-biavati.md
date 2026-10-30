@@ -57,8 +57,52 @@ citizenship: Regno d'Italia
 
 # Amedeo Biavati (1935–1937)
 
-![Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/amedeo-biavati.jpg)
-*Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/amedeo-biavati.jpg" alt="Amedeo Biavati (1935–1937)" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Amedeo Biavati (1935–1937)</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1915</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1935–1937</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>35</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Amedeo Biavati — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Amedeo Biavati** (Bologna, 4 aprile 1915 – Bologna, 22 aprile 1979) è stato uno dei più grandi attaccanti della storia del calcio italiano, Campione del Mondo con l'Italia nel 1938 e celebre pioniere del *passo doppio*.

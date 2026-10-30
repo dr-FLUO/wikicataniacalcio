@@ -1,11 +1,11 @@
 ---
 title: Gabriele Pagliai — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Gabriele Pagliai, difensore
-  del Calcio Catania con 6 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Gabriele Pagliai, difensore del Calcio Catania con 6 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/gabriele-pagliai
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 current_squad: true
 total_appearances: 6
@@ -29,8 +29,7 @@ sources:
 image: assets/images/players/1124_gabriele-pagliai.jpg
 image_credits:
 - image_path: assets/images/players/1124_gabriele-pagliai.jpg
-  alt_text: Ritratto del calciatore Gabriele Pagliai in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Gabriele Pagliai in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -40,33 +39,90 @@ aliases:
 - gabriele-pagliai
 - tesserati/gabriele-pagliai
 - calciatori/gabriele-pagliai
+birth_date: '2002-04-25'
+birth_place: Cecina (LI), Italia
+nationality: Italia
+height: 180 cm
+foot: Destro
+catania_periods:
+- 2024-
+total_goals: 0
+total_assists: 0
+minutes_played: 387
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Gabriele Pagliai — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Gabriele Pagliai in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1124_gabriele-pagliai.jpg)
-*Ritratto del calciatore Gabriele Pagliai in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1124_gabriele-pagliai.jpg" alt="Gabriele Pagliai" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gabriele Pagliai</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>2002</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>180 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**Gabriele Pagliai** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Gabriele Pagliai** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 6
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2025-2026** | Terzino destro | 6 | 0 | 0 | 0 | 0 | 387' |
+| **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **387'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Gabriele Pagliai** ha collezionato complessivamente **6 presenze ufficiali**, disputando **387 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

@@ -1,13 +1,11 @@
 ---
-title: Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania
-  FC
-description: Biografia, carriera e statistiche di Stefano Sturaro, centrocampista
-  con plurimi scudetti alla Juventus e presenze in Nazionale, leader e capitano morale
-  del Catania FC.
+title: Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania FC
+description: Biografia, presenze e statistiche ufficiali di Stefano Sturaro, centrocampista centrale / mediano del Calcio
+  Catania con 27 presenze e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/stefano-sturaro
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-28
+last_verified_date: '2026-10-30'
 birth_date: 1993-03-09
 birth_place: Sanremo (IM), Italia
 nationality: Italia
@@ -15,17 +13,17 @@ role: Centrocampista centrale / Mediano
 current_squad: false
 catania_periods:
 - 2024-2026
-total_appearances: 45
+total_appearances: 27
 league_appearances: 40
-total_goals: 3
+total_goals: 0
 league_goals: 3
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp
 image_credits:
 - image_path: /assets/images/calciatori/stefano-sturaro.jpg
-  alt_text: 'Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -43,12 +41,60 @@ aliases:
 - calciatori/stefano-sturaro
 citizenship: Italia
 seasons_count: 2
+total_assists: 3
+minutes_played: 1370
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania FC
 
-![Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/stefano-sturaro.jpg)
-*Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp" alt="Stefano Sturaro" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Stefano Sturaro</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1993</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–2026</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>27</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 Nato a Sanremo il **9 marzo 1993**, **Stefano Sturaro** è un centrocampista di caratura internazionale approdato al Catania Football Club nel gennaio del **2024** per apportare esperienza, carisma e solidità agonistica al progetto di rinascita intrapreso dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]].
@@ -72,7 +118,19 @@ Ingaggiato per fungere da guida dentro e fuori dal campo:
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2022-2023** | Centrocampista | 10 | 0 | 1 | 1 | 0 | 507' |
+| **2023-2024** | Centrocampista | 17 | 0 | 2 | 4 | 0 | 863' |
+| **TOTALE** | — | **27** | **0** | **3** | **5** | **0** | **1370'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Stefano Sturaro** ha collezionato complessivamente **27 presenze ufficiali**, disputando **1370 minuti** di gioco effettivo, siglando **0 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+
+
+## Collegamenti e Voci Correlate
 
 * [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
 * [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]

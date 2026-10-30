@@ -1,13 +1,13 @@
 ---
 title: Guido Angelozzi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Guido Angelozzi, centrocampista
-  del Calcio Catania con 45 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Guido Angelozzi, centrocampista del Calcio Catania con 44 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/guido-angelozzi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 45
+total_appearances: 44
 seasons_count: 5
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/521_guido-angelozzi.jpg
 image_credits:
 - image_path: assets/images/players/521_guido-angelozzi.jpg
-  alt_text: Ritratto del calciatore Guido Angelozzi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Guido Angelozzi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,87 @@ aliases:
 birth_date: '1955-02-05'
 birth_place: Catania
 citizenship: Italia
+total_goals: 3
+total_assists: 0
+minutes_played: 3142
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Guido Angelozzi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Guido Angelozzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/521_guido-angelozzi.jpg)
-*Ritratto del calciatore Guido Angelozzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/521_guido-angelozzi.jpg" alt="Guido Angelozzi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Guido Angelozzi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1955</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>44</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Guido Angelozzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 45
-* **Stagioni disputate**: 5
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1972-1973** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 270' |
+| **1973-1974** | Centrocampo | 7 | 2 | 0 | 0 | 0 | 472' |
+| **1975-1976** | Centrocampo | 20 | 1 | 0 | 0 | 0 | 1485' |
+| **1976-1977** | Centrocampo | 11 | 0 | 0 | 0 | 0 | 684' |
+| **1977-1978** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 231' |
+| **TOTALE** | — | **44** | **3** | **0** | **0** | **0** | **3142'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Guido Angelozzi** ha collezionato complessivamente **44 presenze ufficiali**, disputando **3142 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

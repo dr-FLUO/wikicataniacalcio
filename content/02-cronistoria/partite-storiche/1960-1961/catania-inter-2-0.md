@@ -47,13 +47,13 @@ sources:
   reference: Trasmissione radiofonica del 4 giugno 1961
 image: assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp
 image_credits:
-- image_path: 'assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp'
-  alt_text: "Fase di gioco della storica vittoria per 2-0 contro l'Inter di Helenio"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp
+  alt_text: Fase di gioco della storica vittoria per 2-0 contro l'Inter di Helenio
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 - image_path: assets/images/stagioni/classifiche-tabellini/tabellino-catania-inter-2-0-clamoroso-al-cibali-1961-calcio-catania.webp
-  alt_text: "Tabellino ufficiale e rassegna stampa storica della celebre partita Catania-Inter"
+  alt_text: Tabellino ufficiale e rassegna stampa storica della celebre partita Catania-Inter
   author_or_archive: Archivio Storico Calcio Catania / Edizioni Panini
   year: 1983
   license_type: Pubblico Dominio / Fair Use
@@ -62,6 +62,9 @@ aliases:
 - 02-cronistoria/partite-storiche/1960-1961/clamoroso-al-cibali
 - partite-storiche/1960-1961/clamoroso-al-cibali
 - partite/1960-1961/clamoroso-al-cibali
+- partite-storiche/1960-1961/catania-inter-2-0
+- 1960-1961/catania-inter-2-0
+- catania-inter-2-0
 ---
 ![Fase di gioco della storica vittoria per 2-0 contro l'Inter di Helenio Herrera ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!)](/assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp)
 

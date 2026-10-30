@@ -1,14 +1,14 @@
 ---
 title: Fabio  Sciacca — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fabio  Sciacca, centrocampista
-  del Calcio Catania con 23 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Fabio Sciacca, centrocampista del Calcio Catania con 28 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fabio-sciacca
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 23
-seasons_count: 6
+total_appearances: 28
+seasons_count: 7
 tags:
 - calciatori
 - fabio-sciacca
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/25_fabio--sciacca.jpg
 image_credits:
 - image_path: /assets/images/calciatori/fabio-sciacca.jpg
-  alt_text: 'Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -44,34 +44,91 @@ aliases:
 - fabio-sciacca
 - tesserati/fabio-sciacca
 - calciatori/fabio-sciacca
+total_goals: 0
+total_assists: 1
+minutes_played: 1202
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Fabio  Sciacca — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/fabio-sciacca.jpg)
-*Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/25_fabio--sciacca.jpg" alt="Fabio  Sciacca" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Fabio  Sciacca</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>28</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Fabio Sciacca — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Fabio  Sciacca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 23
-* **Stagioni disputate**: 6
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2006-2007** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2007-2008** | Centrocampista | 6 | 0 | 1 | 0 | 0 | 300' |
+| **2008-2009** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 123' |
+| **2009-2010** | Centrocampista | 6 | 0 | 0 | 1 | 0 | 436' |
+| **2010-2011** | Centrocampista | 9 | 0 | 0 | 0 | 0 | 296' |
+| **2011-2012** | Centrocampista | 3 | 0 | 0 | 0 | 0 | 47' |
+| **2012-2013** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **28** | **0** | **1** | **1** | **0** | **1202'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Fabio Sciacca** ha collezionato complessivamente **28 presenze ufficiali**, disputando **1202 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **7 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

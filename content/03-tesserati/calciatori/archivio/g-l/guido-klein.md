@@ -1,11 +1,11 @@
 ---
 title: Guido Klein — Il Re dei Marcatori Cadetti del Catania (32 Reti tra 1950 e 1953)
-description: Biografia e statistiche di Guido Klein, due volte capocannoniere del
-  Catania in Serie B (1950-1951 e 1951-1952) con 32 reti in 91 gare.
+description: Biografia, presenze e statistiche ufficiali di Guido Klein, attaccante / centravanti / ala del Calcio Catania
+  con 135 presenze e 45 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/guido-klein
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1923-01-08
 death_date: 2002-04-12
 birth_place: Roma, Italia
@@ -14,9 +14,9 @@ nationality: Italia
 role: Attaccante / Centravanti / Ala
 catania_periods:
 - 1950-1953
-total_appearances: 91
+total_appearances: 135
 league_appearances: 91
-total_goals: 32
+total_goals: 45
 league_goals: 32
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
@@ -33,8 +33,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Guido_Klein
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -52,9 +51,62 @@ aliases:
 - calciatori/guido-klein
 citizenship: Italia
 seasons_count: 6
+total_assists: 0
+minutes_played: 12150
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Guido Klein
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Guido Klein</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1923</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1950–1953</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>135</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>45</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Guido Klein** (Roma, 8 gennaio 1923 – Roma, 12 aprile 2002) è stato un calciatore e allenatore di calcio italiano, nel ruolo di attaccante. Approdato al Catania nell'estate del **1950**, fu il bomber principe e l'idolo indiscusso della tifoseria del Cibali nel triennio cadetto 1950-1953, collezionando **91 presenze e 32 reti ufficiali**.
 
@@ -75,14 +127,21 @@ Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1950-1953) | 91 | 32 | Attaccante / Centravanti / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **91** | **32** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1949-1950** | Attacco | 31 | 15 | 0 | 0 | 0 | 2790' |
+| **1950-1951** | Attacco | 36 | 13 | 0 | 0 | 0 | 3240' |
+| **1951-1952** | Attacco | 32 | 7 | 0 | 0 | 0 | 2880' |
+| **1952-1953** | Attacco | 19 | 6 | 0 | 0 | 0 | 1710' |
+| **1953-1954** | Attacco | 5 | 1 | 0 | 0 | 0 | 450' |
+| **1954-1955** | Attacco | 12 | 3 | 0 | 0 | 0 | 1080' |
+| **TOTALE** | — | **135** | **45** | **0** | **0** | **0** | **12150'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Guido Klein** ha collezionato complessivamente **135 presenze ufficiali**, disputando **12150 minuti** di gioco effettivo, siglando **45 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Guido Klein](https://it.wikipedia.org/wiki/Guido_Klein)*.

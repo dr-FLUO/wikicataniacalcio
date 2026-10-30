@@ -1,18 +1,18 @@
 ---
 title: Adriano Mezavilla — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Adriano Mezavilla, centrocampista
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Adriano Mezavilla, centrocampista del Calcio Catania con 6 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/adriano-mezavilla
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 birth_date: '1983-01-14'
 birth_place: Maringá
 death_date: ''
 nationality: Brasile
-total_appearances: 10
-seasons_count: 1
+total_appearances: 6
+seasons_count: 2
 tags:
 - calciatori
 - adriano-mezavilla
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Adriano_Mezavilla
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/adriano-mezavilla
 - calciatori/adriano-mezavilla
 citizenship: Brasile
+total_goals: 0
+total_assists: 0
+minutes_played: 213
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Adriano Mezavilla — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Adriano Mezavilla in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/adriano-mezavilla.jpg)
-*Ritratto del calciatore Adriano Mezavilla in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/adriano-mezavilla.jpg" alt="Adriano Mezavilla" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Adriano Mezavilla</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1983</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Adriano Mezavilla** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,23 +105,13 @@ Nato a Maringá (1983-01-14), Adriano Mezavilla ha militato tra le file della fo
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Nazionalità Sportiva** | Brasile |
-| **Data e Luogo di Nascita** | 1983-01-14 — Maringá |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Mediano | 6 | 0 | 0 | 0 | 0 | 213' |
+| **2004-2005** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **213'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Adriano Mezavilla](https://it.wikipedia.org/wiki/Adriano_Mezavilla) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Adriano Mezavilla** ha collezionato complessivamente **6 presenze ufficiali**, disputando **213 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

@@ -54,6 +54,12 @@ aliases:
 - walter-zenga
 - tesserati/walter-zenga
 - allenatori/walter-zenga
+
+total_matches: 50
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp)
@@ -94,3 +100,12 @@ Il momento più alto della sua gestione si consumò il **1º marzo 2009**: nel d
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
 2. **Lega Nazionale Professionisti Serie A**, *Archivio Ufficiale Stagioni 2007-2008 e 2008-2009*, Milano.
 3. **La Sicilia**, *Catania nella storia: l'era Zenga, dalla Roma al trionfo di Palermo*, Cronaca Sportiva, 2009.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/04/2008 — 30/06/2009 | 455 giorni | 50 | 1,16 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

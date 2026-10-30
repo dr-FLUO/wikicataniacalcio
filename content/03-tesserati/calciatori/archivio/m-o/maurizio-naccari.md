@@ -44,9 +44,56 @@ aliases:
 - calciatori/maurizio-naccari
 ---
 
-
-
 # Maurizio Naccari
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Maurizio Naccari</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1970</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1995–1996</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>32</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Maurizio Naccari** (San Pietro Vernotico, 21 gennaio 1970) è un ex calciatore italiano, nel ruolo di attaccante. Acquistato nell'estate del **1995** per il ritorno del Calcio Catania in Serie C2, fu il capocannoniere della squadra nella [[stagioni/1995-1996|Stagione 1995-1996]].
 
@@ -64,16 +111,6 @@ Guidato in panchina prima da Aldo Cerantola e poi da Angelo Busetta, Naccari mis
 ### La Stagione 1995-1996
 
 Affiancato a Tiziano D'Isidoro e Pasquale Sanseverino, Naccari fu protagonista di importanti vittorie al Cibali, siglando doppiette decisive e dimostrando grande freddezza in area di rigore prima del prosieguo della sua carriera in Serie C.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1995-1996) | 30 | 10 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
-| Coppe Nazionali / Spareggi | 2 | 0 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **32** | **10** | — | — |
 
 ---
 

@@ -45,9 +45,56 @@ aliases:
 - calciatori/roberto-passiatore
 ---
 
-
-
 # Roberto Passiatore
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Roberto Passiatore</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1971</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1998–2000</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>64</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Roberto Passiatore** (Taranto, 12 giugno 1971) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **1998**, fu il terminale offensivo di riferimento per due campionati indimenticabili, conquistando due titoli consecutivi di capocannoniere interno.
 
@@ -65,16 +112,6 @@ Nel 1998-1999 firmò 8 reti decisive per la vittoria del campionato di Serie C2 
 ### Dalla Serie C2 alla Serie C1 (1998-2000)
 
 Soprannominato dai tifosi il *Cobra* per la freddezza nei sedici metri, Passiatore mise a referto doppiette memorabili e reti pesantissime contro Palermo, Avellino e Nocerina, chiudendo il suo biennio etneo con 18 reti complessive prima del passaggio al Taranto.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1998-2000) | 58 | 18 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
-| Coppe Nazionali / Spareggi | 6 | 0 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **64** | **18** | — | — |
 
 ---
 

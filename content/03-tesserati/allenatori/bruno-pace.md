@@ -52,6 +52,12 @@ aliases:
 - bruno-pace
 - tesserati/bruno-pace
 - allenatori/bruno-pace
+
+total_matches: 43
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -95,3 +101,13 @@ Nel giugno 1988 a Cosenza guidò il Catania nel doppio spareggio salvezza contro
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1987 — 30/06/1989 | 730 giorni | 34 | 1,24 |
+| 13/04/1987 — 30/06/1987 | 78 giorni | 9 | 1,11 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

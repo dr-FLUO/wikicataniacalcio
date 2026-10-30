@@ -49,7 +49,7 @@ Scomparso all'inizio di febbraio 2017 all'età di sessant'anni dopo una lunga ma
 
 ## 1. La Fondazione della Falange d'Assalto (1979)
 
-Cresciuto nei vicoli popolari del rione **Castello Ursino**, nel **1979** Famoso diede vita alla [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]], primo storico gruppo ultras di Catania, stabilendone la sede al centro della **Curva Nord**:
+Cresciuto nei vicoli popolari del rione **Castello Ursino**, nel **1979** Famoso diede vita alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], primo storico gruppo ultras di Catania, stabilendone la sede al centro della **Curva Nord**:
 - Basso di statura, barba fluente, sguardo magnetico e voce roca e inconfondibile al megafono, Famoso rappresentava un calcio popolare e genuino, vissuto come una scelta totale di vita.
 - Al vecchio Cibali le sue esortazioni in dialetto strettissimo (*«Au carusi, cama fari! Auuuu fozza: tifate!»*) e l'intonazione dell'inno identitario (*«Perché il vulcano è la terra che amiamo...»*) erano capaci di trascinare all'entusiasmo anche le tribune più tiepide.
 - A lui si deve il motto divenuto celebre manifesto generazionale: **«Primi a nascere, ultimi a morire»**.

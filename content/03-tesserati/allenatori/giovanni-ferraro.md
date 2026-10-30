@@ -53,6 +53,12 @@ aliases:
 - giovanni-ferraro
 - tesserati/giovanni-ferraro
 - allenatori/giovanni-ferraro
+
+total_matches: 37
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -96,3 +102,12 @@ Ha conquistato la promozione matematica in Serie C con ben sei giornate d'antici
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 02/08/2022 — 06/06/2023 | 308 giorni | 37 | 2,46 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

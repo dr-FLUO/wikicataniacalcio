@@ -1,11 +1,11 @@
 ---
 title: Adriano Montalto — Attaccante di Potenza ed Esperienza del Catania FC
-description: 'Biografia, statistiche e carriera di Adriano Montalto: centravanti mancino
-  di sfondamento, bomber di razza della Serie C e perno offensivo del Catania FC.'
+description: Biografia, presenze e statistiche ufficiali di Adriano Montalto, centravanti / attaccante d'area del Calcio Catania
+  con 22 presenze e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/adriano-montalto
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-28
+last_verified_date: '2026-10-30'
 birth_date: 1988-04-06
 birth_place: Erice (TP), Italia
 nationality: Italia
@@ -13,9 +13,9 @@ role: Centravanti / Attaccante d'area
 current_squad: false
 catania_periods:
 - 2024-2026
-total_appearances: 34
+total_appearances: 22
 league_appearances: 30
-total_goals: 8
+total_goals: 3
 league_goals: 7
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
@@ -40,8 +40,7 @@ sources:
   year: 2026
   reference: Dati carriera, presenze e reti
 - author: Quotidiano La Sicilia
-  title: 'Montalto, la potenza del mancino che scuote i pali: il bomber di scorta
-    che vale oro'
+  title: 'Montalto, la potenza del mancino che scuote i pali: il bomber di scorta che vale oro'
   publisher: Editoriale La Sicilia, Catania
   year: 2026
   reference: Cronaca sportiva del 15 ottobre 2026
@@ -52,12 +51,59 @@ aliases:
 - tesserati/adriano-montalto
 - calciatori/adriano-montalto
 seasons_count: 1
+total_assists: 0
+minutes_played: 890
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Adriano Montalto — Attaccante di Potenza ed Esperienza del Catania FC
 
-![Fototessera del centravanti Adriano Montalto con la divisa ufficiale del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp)
-*Fototessera del centravanti Adriano Montalto con la divisa ufficiale del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp" alt="Adriano Montalto" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Adriano Montalto</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1988</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–2026</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>22</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Nato a Erice il **6 aprile 1988**, **Adriano Montalto** è un attaccante centrale d'esperienza, forte fisicamente e dotato di un tiro mancino micidiale dalla media e lunga distanza.
 
@@ -79,7 +125,18 @@ Approdato a Catania nell'estate del **2024**:
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Punta centrale | 22 | 3 | 0 | 3 | 0 | 890' |
+| **TOTALE** | — | **22** | **3** | **0** | **3** | **0** | **890'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Adriano Montalto** ha collezionato complessivamente **22 presenze ufficiali**, disputando **890 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+
+## Collegamenti e Voci Correlate
 
 * [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
 * [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]

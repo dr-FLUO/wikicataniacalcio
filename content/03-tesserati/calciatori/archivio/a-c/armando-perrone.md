@@ -48,8 +48,56 @@ aliases:
 seasons_count: 1
 ---
 
-
 # Armando Perrone
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Armando Perrone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1921</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1946–1949</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>65</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Armando Perrone** (Taranto, 12 agosto 1921 – Taranto, 20 maggio 1999) è stato un calciatore italiano, nel ruolo di ala e attaccante. Nel settembre **1946**, alla rinascita del calcio a Catania sotto la nuova denominazione sociale di [[societa/1946-club-calcio-catania|Club Calcio Catania]], fu uno dei primi elementi ingaggiati dalla dirigenza guidata da Santi Passanisi Manganaro.
 
@@ -67,15 +115,6 @@ Perrone fu il punto fermo dell'attacco etneo nella pionieristica [[stagioni/1946
 ### Dalla Serie C alla Serie B (1946-1949)
 
 Affiancato prima a Musmeci e poi dal 1947 al grande veterano Nicolò Nicolosi e ad Arnaldo Cadei, Perrone garantì dinamismo e profondità alla manovra offensiva. Nella stagione 1948-1949 contribuì con 7 reti alla cavalcata che riportò il Catania in Serie B, salutando la maglia rossazzurra da autentico beniamino del Cibali.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1946-1949) | 65 | 18 | Attaccante / Ala | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **65** | **18** | — | — |
 
 ---
 

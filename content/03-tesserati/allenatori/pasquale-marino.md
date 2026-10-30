@@ -60,6 +60,12 @@ aliases:
 citizenship: Italia
 total_appearances: 17
 seasons_count: 3
+
+total_matches: 82
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pasquale-marino.jpg)
@@ -111,3 +117,12 @@ I tragici [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]] a
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 375–392 (calciatore) e 436–449 (allenatore).
 2. **Lega Nazionale Professionisti**, *Archivio Statistico Serie B 2005-2006 e Serie A 2006-2007*.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/2005 — 04/06/2007 | 703 giorni | 82 | 1,45 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

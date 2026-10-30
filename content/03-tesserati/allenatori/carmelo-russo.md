@@ -40,6 +40,12 @@ aliases:
 - carmelo-russo
 - tesserati/carmelo-russo
 - allenatori/carmelo-russo
+
+total_matches: 34
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -79,3 +85,12 @@ Nel 1988-1989 risalì la classifica fino a un dignitoso 10º posto finale con 31
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1988 — 30/06/1990 | 729 giorni | 34 | 1,24 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

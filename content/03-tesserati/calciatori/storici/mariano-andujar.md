@@ -1,21 +1,19 @@
 ---
 title: Mariano Andújar — Il Guardiano del Record dei 56 Punti (2009-2014)
-description: 'Biografia e statistiche di Mariano Andújar, portiere del Catania e della
-  Nazionale argentina: 135 presenze in Serie A e protagonista del record storico del
-  2013.'
+description: Biografia, presenze e statistiche ufficiali di Mariano Andújar, portiere del Calcio Catania con 149 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/mariano-andujar
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1983-07-30
+last_verified_date: '2026-10-30'
+birth_date: '1983-07-30'
 birth_place: Buenos Aires, Argentina
 nationality: Argentina
 role: Portiere
 shirt_number: 21
 catania_periods:
-- 2009-2012
-- 2012-2014
-total_appearances: 141
+- 2009-2014
+total_appearances: 149
 league_appearances: 135
 serie_a_appearances: 135
 total_goals: 0
@@ -42,8 +40,7 @@ sources:
   publisher: Lega Serie A
   year: 2014
   reference: 135 presenze in Serie A con il Calcio Catania
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -61,18 +58,69 @@ aliases:
 - calciatori/mariano-andujar
 image_credits:
 - image_path: /assets/images/calciatori/mariano-andujar.jpg
-  alt_text: 'Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Argentina
+height: 194 cm
+foot: Destro
+total_assists: 0
+minutes_played: 13376
+seasons_count: 5
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Mariano Andújar
 
-![Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/mariano-andujar.jpg)
-*Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/mariano-andujar.jpg" alt="Mariano Andújar" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mariano Andújar</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1983</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>194 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2009–2014</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>149</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) è un ex calciatore argentino, nel ruolo di portiere. Arrivato al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] nell'estate del **2009** fresco vincitore della Copa Libertadores con l'Estudiantes de La Plata, ha difeso i pali etnei per cinque stagioni in massima serie, totalizzando **135 presenze in Serie A** e conquistando da titolare rossazzurro la convocazione con la Nazionale argentina ai Mondiali di Sudafrica 2010 e Brasile 2014 (vicecampione del mondo).
@@ -84,6 +132,21 @@ citizenship: Argentina
 > - **Le Grandi Parate:** Decisivo nei successi storici contro l'Inter (3-1 nel 2010 e 2-1 nel 2011), la Juventus a Torino (1-2) e la Roma (1-0).
 
 ---
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2008-2009** | Portiere | 35 | 0 | 0 | 2 | 0 | 3116' |
+| **2009-2010** | Portiere | 37 | 0 | 0 | 2 | 0 | 3330' |
+| **2010-2011** | Portiere | 17 | 0 | 0 | 1 | 0 | 1530' |
+| **2011-2012** | Portiere | 35 | 0 | 0 | 0 | 1 | 3150' |
+| **2012-2013** | Portiere | 25 | 0 | 0 | 1 | 0 | 2250' |
+| **TOTALE** | — | **149** | **0** | **0** | **6** | **1** | **13376'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Mariano Andújar** ha collezionato complessivamente **149 presenze ufficiali**, disputando **13376 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mariano Andújar](https://it.wikipedia.org/wiki/Mariano_And%C3%BAjar)*.

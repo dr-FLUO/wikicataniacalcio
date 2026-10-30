@@ -1,11 +1,11 @@
 ---
 title: Michele Emmausso — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Michele Emmausso, attaccante
-  del Calcio Catania con 8 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Michele Emmausso, attaccante del Calcio Catania con 8 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/michele-emmausso
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 total_appearances: 8
 seasons_count: 1
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/994_michele-emmausso.jpg
 image_credits:
 - image_path: assets/images/players/994_michele-emmausso.jpg
-  alt_text: Ritratto del calciatore Michele Emmausso in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Michele Emmausso in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - michele-emmausso
 - tesserati/michele-emmausso
 - calciatori/michele-emmausso
+total_goals: 0
+total_assists: 0
+minutes_played: 363
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Michele Emmausso — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Michele Emmausso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/994_michele-emmausso.jpg)
-*Ritratto del calciatore Michele Emmausso in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/994_michele-emmausso.jpg" alt="Michele Emmausso" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Michele Emmausso</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Michele Emmausso** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 8
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2019-2020** | Ala destra | 8 | 0 | 0 | 2 | 0 | 363' |
+| **TOTALE** | — | **8** | **0** | **0** | **2** | **0** | **363'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Michele Emmausso** ha collezionato complessivamente **8 presenze ufficiali**, disputando **363 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

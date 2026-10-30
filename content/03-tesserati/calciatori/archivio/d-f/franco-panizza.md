@@ -1,13 +1,13 @@
 ---
 title: Franco Panizza — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Franco Panizza, centrocampista
-  del Calcio Catania con 63 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Franco Panizza, centrocampista del Calcio Catania con 70 presenze
+  e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/franco-panizza
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 63
+total_appearances: 70
 seasons_count: 2
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/540_franco-panizza.jpg
 image_credits:
 - image_path: assets/images/players/540_franco-panizza.jpg
-  alt_text: Ritratto del calciatore Franco Panizza in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Franco Panizza in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - franco-panizza
 - tesserati/franco-panizza
 - calciatori/franco-panizza
+total_goals: 2
+total_assists: 0
+minutes_played: 6277
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Franco Panizza — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Franco Panizza in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/540_franco-panizza.jpg)
-*Ritratto del calciatore Franco Panizza in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/540_franco-panizza.jpg" alt="Franco Panizza" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Franco Panizza</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>70</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Franco Panizza** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 63
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1974-1975** | Centrocampo | 33 | 1 | 0 | 0 | 1 | 2956' |
+| **1975-1976** | Centrocampo | 37 | 1 | 0 | 0 | 2 | 3321' |
+| **TOTALE** | — | **70** | **2** | **0** | **0** | **3** | **6277'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Franco Panizza** ha collezionato complessivamente **70 presenze ufficiali**, disputando **6277 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

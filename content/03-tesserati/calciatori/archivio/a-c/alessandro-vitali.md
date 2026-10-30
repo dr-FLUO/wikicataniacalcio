@@ -1,11 +1,11 @@
 ---
 title: Alessandro Vitali — La Mezzala Goleador della Serie B 1967-1968 (9 Reti)
-description: Biografia e statistiche di Alessandro Vitali, capocannoniere del Catania
-  nella Serie B 1967-1968 con 9 reti in 36 gare con Luigi Valsecchi.
+description: Biografia, presenze e statistiche ufficiali di Alessandro Vitali, attaccante / mezzala offensiva del Calcio Catania
+  con 32 presenze e 10 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/alessandro-vitali
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1945-03-24
 death_date: 1977-08-26
 birth_place: Roma, Italia
@@ -14,9 +14,9 @@ nationality: Italia
 role: Attaccante / Mezzala offensiva
 catania_periods:
 - 1967-1968
-total_appearances: 36
+total_appearances: 32
 league_appearances: 36
-total_goals: 9
+total_goals: 10
 league_goals: 9
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
@@ -33,8 +33,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Alessandro_Vitali_(calciatore_1945)
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -52,9 +51,62 @@ aliases:
 - calciatori/alessandro-vitali
 citizenship: Regno d'Italia
 seasons_count: 1
+total_assists: 0
+minutes_played: 2910
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alessandro Vitali
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alessandro Vitali</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1945</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1967–1968</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>32</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Alessandro Vitali** (Roma, 24 marzo 1945 – Roma, 26 agosto 1977) è stato un calciatore italiano, nel ruolo di attaccante e mezzala offensiva. Arrivato al Catania nell'estate del **1967**, disputò una straordinaria stagione cadetta risultando il capocannoniere indiscusso della squadra con **9 reti in 36 incontri**.
 
@@ -75,14 +127,16 @@ Tra i suoi gol memorabili in maglia etnea si ricordano le marcature pesanti cont
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1967-1968) | 36 | 9 | Attaccante / Mezzala offensiva | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| **Totale Complessivo** | **36** | **9** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1966-1967** | Ala sinistra | 32 | 10 | 0 | 0 | 0 | 2910' |
+| **TOTALE** | — | **32** | **10** | **0** | **0** | **0** | **2910'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alessandro Vitali** ha collezionato complessivamente **32 presenze ufficiali**, disputando **2910 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alessandro Vitali](https://it.wikipedia.org/wiki/Alessandro_Vitali_(calciatore_1945))*.

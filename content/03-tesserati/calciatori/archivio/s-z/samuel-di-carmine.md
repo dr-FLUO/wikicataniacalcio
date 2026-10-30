@@ -1,18 +1,18 @@
 ---
 title: Samuel Di Carmine — Il Centravanti della Coppa Italia Serie C (2023-2024)
-description: Biografia e statistiche di Samuel Di Carmine, bomber di razza con 8 reti
-  e protagonista del trionfo in Coppa Italia Serie C nella stagione 2023-2024.
+description: Biografia, presenze e statistiche ufficiali di Samuel Di Carmine, attaccante / centravanti del Calcio Catania
+  con 36 presenze e 10 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/samuel-di-carmine
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1988-09-29
 birth_place: Firenze, Italia
 nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 2023-2024
-total_appearances: 34
+total_appearances: 36
 league_appearances: 29
 total_goals: 10
 league_goals: 8
@@ -48,10 +48,62 @@ aliases:
 - tesserati/samuel-di-carmine
 - calciatori/samuel-di-carmine
 seasons_count: 1
+total_assists: 0
+minutes_played: 2343
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
-
 # Samuel Di Carmine
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Samuel Di Carmine</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1988</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2023–2024</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>36</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Samuel Di Carmine** (Firenze, 29 settembre 1988) è un calciatore italiano, nel ruolo di centravanti. Acquistato nell'agosto **2023** dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente Vincenzo Grella per guidare l'attacco del neonato Catania Football Club al ritorno nei professionisti, fu il capocannoniere della [[stagioni/2023-2024|Stagione 2023-2024]].
 
@@ -72,15 +124,16 @@ Tra i momenti più alti della sua stagione si ricordano la doppietta nel derby v
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2023-2024) | 29 | 8 | Attaccante / Centravanti | [[societa/2022-pelligra-catania-fc\|Catania Football Club (Era Pelligra)]] |
-| Coppe Nazionali / Spareggi | 5 | 2 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **34** | **10** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2022-2023** | Punta centrale | 36 | 10 | 0 | 3 | 0 | 2343' |
+| **TOTALE** | — | **36** | **10** | **0** | **3** | **0** | **2343'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Samuel Di Carmine** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2343 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 

@@ -1,17 +1,17 @@
 ---
 title: Felipe Seymour — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Felipe Seymour, centrocampista
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Felipe Seymour, centrocampista del Calcio Catania con 13 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/felipe-seymour
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 birth_date: '1987-07-23'
 birth_place: Santiago del Cile
 death_date: ''
 nationality: Cile
-total_appearances: 10
+total_appearances: 13
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Felipe_Seymour
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/felipe-seymour
 - calciatori/felipe-seymour
 citizenship: Cile
+total_goals: 1
+total_assists: 0
+minutes_played: 608
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Felipe Seymour — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Felipe Seymour in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/felipe-seymour.jpg)
-*Ritratto del calciatore Felipe Seymour in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/felipe-seymour.jpg" alt="Felipe Seymour" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Felipe Seymour</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1987</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Cile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Felipe Seymour** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,23 +105,12 @@ Nato a Santiago del Cile (1987-07-23), Felipe Seymour ha militato tra le file de
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Nazionalità Sportiva** | Cile |
-| **Data e Luogo di Nascita** | 1987-07-23 — Santiago del Cile |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2010-2011** | Mediano | 13 | 1 | 0 | 1 | 0 | 608' |
+| **TOTALE** | — | **13** | **1** | **0** | **1** | **0** | **608'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Felipe Seymour](https://it.wikipedia.org/wiki/Felipe_Seymour) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Felipe Seymour** ha collezionato complessivamente **13 presenze ufficiali**, disputando **608 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

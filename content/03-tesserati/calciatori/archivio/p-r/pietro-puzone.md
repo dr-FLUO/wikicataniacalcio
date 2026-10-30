@@ -1,13 +1,13 @@
 ---
 title: Pietro Puzone — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pietro Puzone, attaccante
-  del Calcio Catania con 42 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Pietro Puzone, attaccante del Calcio Catania con 72 presenze e
+  5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pietro-puzone
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 42
+total_appearances: 72
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/441_pietro-puzone.jpg
 image_credits:
 - image_path: assets/images/players/441_pietro-puzone.jpg
-  alt_text: Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,84 @@ aliases:
 birth_date: '1963-02-01'
 birth_place: Acerra
 citizenship: Italia
+total_goals: 5
+total_assists: 1
+minutes_played: 5327
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Pietro Puzone — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/441_pietro-puzone.jpg)
-*Ritratto del calciatore Pietro Puzone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/441_pietro-puzone.jpg" alt="Pietro Puzone" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Pietro Puzone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1963</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>72</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pietro Puzone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 42
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1984-1985** | Ala destra | 40 | 2 | 0 | 0 | 1 | 2747' |
+| **1986-1987** | Ala destra | 32 | 3 | 1 | 0 | 0 | 2580' |
+| **TOTALE** | — | **72** | **5** | **1** | **0** | **1** | **5327'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pietro Puzone** ha collezionato complessivamente **72 presenze ufficiali**, disputando **5327 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

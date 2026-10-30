@@ -1,12 +1,11 @@
 ---
 title: Aldo Cantarutti — L'Eroe del Gol Promozione agli Spareggi di Roma (1983)
-description: Biografia e statistiche di Aldo Cantarutti, bomber del Catania con 12
-  reti nella cavalcata verso la Serie A nel 1982-1983 e protagonista negli spareggi
-  di Roma.
+description: Biografia, presenze e statistiche ufficiali di Aldo Cantarutti, attaccante / centravanti del Calcio Catania con
+  108 presenze e 27 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/aldo-cantarutti
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1958-10-17
 birth_place: Manzano (UD), Italia
 nationality: Italia
@@ -14,10 +13,10 @@ role: Attaccante / Centravanti
 shirt_number: 9
 catania_periods:
 - 1981-1984
-total_appearances: 96
+total_appearances: 108
 league_appearances: 84
 serie_a_appearances: 23
-total_goals: 28
+total_goals: 27
 league_goals: 24
 serie_a_goals: 4
 club_entities:
@@ -38,8 +37,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Aldo_Cantarutti
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -69,12 +67,62 @@ aliases:
 - calciatori/aldo-cantarutti
 citizenship: Italia
 seasons_count: 3
+total_assists: 1
+minutes_played: 9557
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 ![Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp)
 *Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 # Aldo Cantarutti
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp" alt="Aldo Cantarutti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Aldo Cantarutti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1958</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1981–1984</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>108</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>27</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Aldo Cantarutti** (Manzano, 17 ottobre 1958) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1981**, ha vestito la maglia rossazzurra per tre campionati consecutivi fino al 1984, entrando nella storia del club come il capocannoniere e trascinatore offensivo della cavalcata trionfale della [[stagioni/1982-1983|Stagione 1982-1983]], culminata nel ritorno in Serie A agli spareggi dello Stadio Olimpico di Roma davanti a 40.000 etnei.
 
@@ -93,6 +141,19 @@ Forte fisicamente, dotato di eccezionale elevazione aerea e fiuto del gol da rap
 Negli spareggi dell'Olimpico del 18 e 25 giugno 1983, lottò come un leone contro le difese avversarie, propiziando l'azione del gol-partita di Crialesi contro il Como che aprì le porte della massima divisione.
 
 ---
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1980-1981** | Punta centrale | 40 | 10 | 0 | 0 | 0 | 3600' |
+| **1981-1982** | Punta centrale | 41 | 12 | 1 | 0 | 1 | 3600' |
+| **1982-1983** | Punta centrale | 27 | 5 | 0 | 0 | 0 | 2357' |
+| **TOTALE** | — | **108** | **27** | **1** | **0** | **1** | **9557'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Aldo Cantarutti** ha collezionato complessivamente **108 presenze ufficiali**, disputando **9557 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Aldo Cantarutti](https://it.wikipedia.org/wiki/Aldo_Cantarutti)*.

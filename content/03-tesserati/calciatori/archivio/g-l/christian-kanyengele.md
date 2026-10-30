@@ -1,18 +1,18 @@
 ---
 title: Christian Kanyengele — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Christian Kanyengele,
-  attaccante del Calcio Catania con 22 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Christian Kanyengele, attaccante del Calcio Catania con 38 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/christian-kanyengele
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1976-11-15'
 birth_place: Kisangani, R.D. Congo
 death_date: ''
 nationality: Repubblica Democratica del Congo
-total_appearances: 22
-seasons_count: 1
+total_appearances: 38
+seasons_count: 3
 tags:
 - calciatori
 - christian-kanyengele
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Christian_Kanyengele
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/christian-kanyengele
 - calciatori/christian-kanyengele
 citizenship: Repubblica Democratica del Congo
+total_goals: 3
+total_assists: 4
+minutes_played: 1513
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Christian Kanyengele — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Christian Kanyengele in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/christian-kanyengele.jpg)
-*Ritratto del calciatore Christian Kanyengele in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/christian-kanyengele.jpg" alt="Christian Kanyengele" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Christian Kanyengele</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1976</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Repubblica Democratica del Congo</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>38</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>4</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Christian Kanyengele** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,24 +105,14 @@ Attaccante congolese, primo calciatore della Repubblica Democratica del Congo a 
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando **22 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Presenze Totali Ufficiali** | 22 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (2001-2002) |
-| **Nazionalità Sportiva** | Repubblica Democratica del Congo |
-| **Luogo e Data di Nascita** | Kisangani, R.D. Congo (1976-11-15) |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2000-2001** | Ala destra | 28 | 2 | 4 | 2 | 0 | 1286' |
+| **2002-2003** | Ala destra | 6 | 0 | 0 | 1 | 0 | 123' |
+| **2003-2004** | Ala destra | 4 | 1 | 0 | 1 | 0 | 104' |
+| **TOTALE** | — | **38** | **3** | **4** | **4** | **0** | **1513'** |
 
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Christian Kanyengele](https://it.wikipedia.org/wiki/Christian_Kanyengele) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Christian Kanyengele** ha collezionato complessivamente **38 presenze ufficiali**, disputando **1513 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.

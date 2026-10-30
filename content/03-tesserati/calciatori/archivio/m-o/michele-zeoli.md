@@ -1,14 +1,14 @@
 ---
 title: Michele Zeoli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Michele Zeoli, difensore
-  del Calcio Catania con 104 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Michele Zeoli, difensore del Calcio Catania con 112 presenze e
+  5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/michele-zeoli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 104
-seasons_count: 4
+total_appearances: 112
+seasons_count: 5
 tags:
 - calciatori
 - michele-zeoli
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/150_michele-zeoli.jpg
 image_credits:
 - image_path: assets/images/players/150_michele-zeoli.jpg
-  alt_text: Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,87 @@ aliases:
 birth_date: '1974-03-24'
 birth_place: Civitavecchia
 citizenship: Italia
+total_goals: 5
+total_assists: 2
+minutes_played: 9184
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Michele Zeoli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/150_michele-zeoli.jpg)
-*Ritratto del calciatore Michele Zeoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/150_michele-zeoli.jpg" alt="Michele Zeoli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Michele Zeoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1974</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>112</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Michele Zeoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 104
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1999-2000** | Terzino sinistro | 32 | 2 | 1 | 8 | 1 | 2668' |
+| **2000-2001** | Terzino sinistro | 37 | 1 | 1 | 8 | 0 | 3105' |
+| **2001-2002** | Terzino sinistro | 34 | 2 | 0 | 6 | 1 | 2887' |
+| **2002-2003** | Terzino sinistro | 9 | 0 | 0 | 1 | 1 | 524' |
+| **2003-2004** | Terzino sinistro | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **112** | **5** | **2** | **23** | **3** | **9184'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Michele Zeoli** ha collezionato complessivamente **112 presenze ufficiali**, disputando **9184 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

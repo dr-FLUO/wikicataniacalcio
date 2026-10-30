@@ -1,7 +1,7 @@
 ---
 title: "I Decisi Curva Nord (Anni Novanta)"
 description: "Dossier storico sul gruppo I Decisi, sorto da una scissione della Falange d'Assalto negli anni '90 in Curva Nord: linea d'urto, conflittualità e repressione giudiziaria."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/i-decisi"
+slug: "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
 entity_type: "gruppo_ultras"
 foundation_year: 1994
 origin_district: "San Cristoforo, Picanello e Tunniceddu (Catania)"
@@ -27,12 +27,14 @@ sources:
     year: 2008
     reference: "Profilo e scioglimento de I Decisi"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
+  - "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
   - "tifoseria/curva-nord/i-decisi"
 ---
 
 # I Decisi Curva Nord (Anni Novanta)
 
-**I Decisi** hanno rappresentato negli anni Novanta una delle formazioni più temute e conflittuali della **Curva Nord** dello Stadio Cibali. Sorti a metà del decennio da una traumatica scissione interna alla [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]], il gruppo ha incarnato l'ala più intransigente e battagliera del movimento giovanile etneo.
+**I Decisi** hanno rappresentato negli anni Novanta una delle formazioni più temute e conflittuali della **Curva Nord** dello Stadio Cibali. Sorti a metà del decennio da una traumatica scissione interna alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], il gruppo ha incarnato l'ala più intransigente e battagliera del movimento giovanile etneo.
 
 ---
 

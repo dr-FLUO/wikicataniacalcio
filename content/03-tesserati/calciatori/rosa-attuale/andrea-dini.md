@@ -1,14 +1,14 @@
 ---
 title: Andrea Dini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Dini, portiere
-  del Calcio Catania con 63 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea Dini, portiere del Calcio Catania con 69 presenze e 0 gol
+  registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-dini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
 current_squad: true
-total_appearances: 63
+total_appearances: 69
 seasons_count: 3
 tags:
 - calciatori
@@ -21,8 +21,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Dini-1063
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 1063
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -40,33 +39,92 @@ aliases:
 - andrea-dini
 - tesserati/andrea-dini
 - calciatori/andrea-dini
+birth_date: '1996-02-20'
+birth_place: Cattolica (RN), Italia
+nationality: Italia
+height: 189 cm
+foot: Destro
+catania_periods:
+- 2024-
+total_goals: 0
+total_assists: 0
+minutes_played: 6210
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea Dini — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Andrea Dini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1063_andrea-dini.jpg)
-*Ritratto del calciatore Andrea Dini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1063_andrea-dini.jpg" alt="Andrea Dini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea Dini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1996</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>189 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>69</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**Andrea Dini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+**Andrea Dini** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 63
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Portiere | 17 | 0 | 0 | 4 | 0 | 1530' |
+| **2024-2025** | Portiere | 43 | 0 | 0 | 3 | 0 | 3870' |
+| **2025-2026** | Portiere | 9 | 0 | 0 | 0 | 0 | 810' |
+| **TOTALE** | — | **69** | **0** | **0** | **7** | **0** | **6210'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea Dini** ha collezionato complessivamente **69 presenze ufficiali**, disputando **6210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

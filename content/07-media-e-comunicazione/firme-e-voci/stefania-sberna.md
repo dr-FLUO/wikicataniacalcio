@@ -70,7 +70,7 @@ Con delibera ufficiale del **marzo 2021**, la **Tribuna Stampa dello Stadio Ange
 * [[07-media-e-comunicazione/index|L'Ecosistema dei Media e dell'Informazione Rossazzurra]]
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor e le Collaborazioni Televisive]]
 * [[01-societa/strutture/stadio-angelo-massimino|Lo Stadio Angelo Massimino e la Tribuna Stampa Stefania Sberna]]
-* [[06-tifoseria-e-cultura/curve/curva-nord/coreografie-storiche-massimino|La Curva Nord e la Memoria Sonora]]
+* [[06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino|La Curva Nord e la Memoria Sonora]]
 
 ---
 

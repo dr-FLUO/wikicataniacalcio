@@ -1,25 +1,25 @@
 ---
 title: Francesco Lodi — Il Regista dei Quattro Cicli (238 Presenze e 53 Reti)
-description: Biografia e statistiche di Francesco 'Ciccio' Lodi, terzo marcatore all-time
-  (53 reti) e quinto per presenze (238) nel Catania tra Serie A, B, C e Serie D.
+description: Biografia, presenze e statistiche ufficiali di Francesco Lodi, centrocampista (regista / metodista) del Calcio
+  Catania con 239 presenze e 54 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/francesco-lodi
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1984-03-23
+last_verified_date: '2026-10-30'
+birth_date: '1984-03-23'
 birth_place: Napoli, Italia
 nationality: Italia
 role: Centrocampista (Regista / Metodista)
 shirt_number: 10
 catania_periods:
 - 2011-2013
-- 2014-2015
+- '2014'
 - 2017-2020
 - 2022-2023
-total_appearances: 238
+total_appearances: 239
 league_appearances: 209
 serie_a_appearances: 96
-total_goals: 53
+total_goals: 54
 league_goals: 46
 serie_a_goals: 19
 club_entities:
@@ -44,11 +44,9 @@ sources:
   title: Archivio Statistico Ufficiale Francesco Lodi (2011-2023)
   publisher: FIGC
   year: 2023
-  reference: 238 presenze ufficiali e 53 reti complessive in quattro cicli con il
-    Catania
+  reference: 238 presenze ufficiali e 53 reti complessive in quattro cicli con il Catania
 - author: Roberto Quartarone
-  title: Francesco Lodi, il dieci che ha unito il Catania dei record in A alla rinascita
-    in Serie D
+  title: Francesco Lodi, il dieci che ha unito il Catania dei record in A alla rinascita in Serie D
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2023
@@ -60,8 +58,8 @@ sources:
   reference: 'ID 13: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Lodi-13
 cover_image: francesco-lodi.jpg
-cover_caption: Francesco «Ciccio» Lodi, specialista dei calci da fermo e regista simbolo
-  in tre cicli storici a Catania (52 reti).
+cover_caption: Francesco «Ciccio» Lodi, specialista dei calci da fermo e regista simbolo in tre cicli storici a Catania (52
+  reti).
 cover_credit: 'Foto: Filippo Mancuso · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/calciatori/francesco-lodi
@@ -70,22 +68,72 @@ aliases:
 - calciatori/francesco-lodi
 image_credits:
 - image_path: /assets/images/calciatori/francesco-lodi.jpg
-  alt_text: 'Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
+height: 182 cm
+foot: Sinistro
+total_assists: 50
+minutes_played: 18853
+seasons_count: 9
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Francesco Lodi
 
-![Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/francesco-lodi.jpg)
-*Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/francesco-lodi.jpg" alt="Francesco Lodi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Francesco Lodi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1984</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>182 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2011–2013, 2014, 2017–2020, 2022–2023</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>239</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>54</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Francesco Lodi**, detto **"Ciccio"** (Napoli, 23 marzo 1984), è un ex calciatore italiano, di ruolo centrocampista e regista. Autentico maestro dei calci piazzati e simbolo trasversale di oltre un decennio di storia rossazzurra, ha vestito la maglia numero 10 del Catania in **quattro distinti cicli (2011–2013, 2014–2015, 2017–2020 e 2022–2023)** attraversando due diverse matricole federali (11700 e 955013) e quattro categorie (Serie A, Serie B, Serie C e Serie D). Con **53 reti ufficiali** è il **terzo miglior marcatore assoluto della storia del Catania** (e il centrocampista più prolifico di sempre), mentre con **238 presenze complessive** occupa il **quinto posto nella classifica *all-time* di presenze**.
-
 
 ## Il Regista del Catania dei Record in Serie A (2011–2013 e 2014)
 
@@ -116,7 +164,6 @@ Dopo l'estinzione della matricola 11700 per il [[vicende-legali/fallimento-2021-
 | **[[stagioni/2022-2023\|2022-2023]]** | [[societa/2022-pelligra-catania-fc\|Catania SSD]] (955013) | Serie D | 29 (+1 Poule) | 4 | 0 (0) | **30 (4)** |
 | **Totale Consolidato** | **4 Cicli (2011–2023)** | **A / B / C / D** | **209 reg. (+10 PO/Poule)** | **46 reg. (+2 PO)** | **15 / 19 (5)** | **238 (53)** |
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -129,6 +176,25 @@ Dopo l'estinzione della matricola 11700 per il [[vicende-legali/fallimento-2021-
 - **Palmarès:** Vincitore del campionato di [[stagioni/2022-2023|Serie D 2022-2023]] da capitano della rinascita con il [[societa/2022-pelligra-catania-fc|Catania SSD]] di [[societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2009-2010** | Mediano | 16 | 3 | 2 | 0 | 0 | 947' |
+| **2010-2011** | Mediano | 37 | 9 | 7 | 4 | 0 | 3153' |
+| **2011-2012** | Mediano | 37 | 8 | 7 | 1 | 1 | 3263' |
+| **2012-2013** | Mediano | 20 | 2 | 4 | 3 | 0 | 1622' |
+| **2013-2014** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2016-2017** | Mediano | 34 | 8 | 11 | 4 | 1 | 2843' |
+| **2017-2018** | Mediano | 43 | 15 | 8 | 2 | 0 | 3364' |
+| **2018-2019** | Mediano | 19 | 5 | 4 | 1 | 0 | 1412' |
+| **2021-2022** | Mediano | 33 | 4 | 7 | 3 | 0 | 2249' |
+| **TOTALE** | — | **239** | **54** | **50** | **18** | **2** | **18853'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Francesco Lodi** ha collezionato complessivamente **239 presenze ufficiali**, disputando **18853 minuti** di gioco effettivo, siglando **54 gol** e servendo **50 assist** distribuiti su **9 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Francesco Lodi](https://it.wikipedia.org/wiki/Francesco_Lodi)*.

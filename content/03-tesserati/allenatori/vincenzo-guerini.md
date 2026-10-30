@@ -56,6 +56,12 @@ aliases:
 - vincenzo-guerini
 - tesserati/vincenzo-guerini
 - allenatori/vincenzo-guerini
+
+total_matches: 15
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -100,3 +106,13 @@ Quattro giorni più tardi, il **12 aprile 2003** (30ª giornata), Guerini siede 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 340–346 e 398–423.
 2. **TAR Sicilia — Sezione Staccata di Catania**, *Ordinanza Cautelare n. 1054/2003 del 5 giugno 2003* sul reclamo ex art. 17 C.G.S. relativo alla gara Catania-Siena del 12 aprile 2003.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 06/04/2003 — 30/06/2003 | 85 giorni | 9 | 1,44 |
+| 15/10/2000 — 05/12/2000 | 51 giorni | 6 | 1,17 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

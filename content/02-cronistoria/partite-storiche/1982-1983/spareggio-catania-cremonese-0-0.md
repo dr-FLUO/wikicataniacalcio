@@ -42,6 +42,9 @@ sources:
   reference: Edizione straordinaria del 26 giugno 1983
 aliases:
 - partite/1982-1983/spareggio-catania-cremonese-0-0
+- partite-storiche/1982-1983/spareggio-catania-cremonese-0-0
+- 1982-1983/spareggio-catania-cremonese-0-0
+- spareggio-catania-cremonese-0-0
 ---
 
 

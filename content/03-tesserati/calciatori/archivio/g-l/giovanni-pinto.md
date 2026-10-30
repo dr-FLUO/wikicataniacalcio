@@ -1,13 +1,13 @@
 ---
 title: Giovanni Pinto — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giovanni Pinto, difensore
-  del Calcio Catania con 78 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Giovanni Pinto, difensore del Calcio Catania con 62 presenze e
+  1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/giovanni-pinto
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 78
+total_appearances: 62
 seasons_count: 3
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/934_giovanni-pinto.jpg
 image_credits:
 - image_path: assets/images/players/934_giovanni-pinto.jpg
-  alt_text: Ritratto del calciatore Giovanni Pinto in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Giovanni Pinto in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,85 @@ aliases:
 - giovanni-pinto
 - tesserati/giovanni-pinto
 - calciatori/giovanni-pinto
+total_goals: 1
+total_assists: 5
+minutes_played: 4986
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Giovanni Pinto — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Giovanni Pinto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/934_giovanni-pinto.jpg)
-*Ritratto del calciatore Giovanni Pinto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/934_giovanni-pinto.jpg" alt="Giovanni Pinto" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Giovanni Pinto</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>62</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giovanni Pinto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 78
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2018-2019** | Terzino sinistro | 33 | 1 | 3 | 6 | 0 | 2829' |
+| **2019-2020** | Terzino sinistro | 27 | 0 | 2 | 6 | 0 | 2022' |
+| **2020-2021** | Terzino sinistro | 2 | 0 | 0 | 2 | 0 | 135' |
+| **TOTALE** | — | **62** | **1** | **5** | **14** | **0** | **4986'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Giovanni Pinto** ha collezionato complessivamente **62 presenze ufficiali**, disputando **4986 minuti** di gioco effettivo, siglando **1 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

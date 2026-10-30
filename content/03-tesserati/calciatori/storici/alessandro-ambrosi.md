@@ -1,20 +1,20 @@
 ---
 title: Alessandro «Il Re Leone» Ambrosi — Il Bomber dell'Era Gaucci (2000-2002)
-description: Biografia e statistiche di Alessandro Ambrosi, detto il Re Leone, autore
-  di 16 reti ufficiali nel Catania e idolo della tifoseria nella Serie C1 2000-2001.
+description: Biografia, presenze e statistiche ufficiali di Alessandro Ambrosi, attaccante / centravanti del Calcio Catania
+  con 20 presenze e 12 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/alessandro-ambrosi
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1971-07-12
 birth_place: Fiuggi (FR), Italia
 nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 2000-2002
-total_appearances: 47
+total_appearances: 20
 league_appearances: 42
-total_goals: 16
+total_goals: 12
 league_goals: 15
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
@@ -32,8 +32,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Alessandro_Ambrosi
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -51,17 +50,66 @@ aliases:
 - calciatori/alessandro-ambrosi
 image_credits:
 - image_path: /assets/images/calciatori/alessandro-ambrosi.jpg
-  alt_text: 'Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
+total_assists: 3
+minutes_played: 1738
+seasons_count: 1
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alessandro Ambrosi
 
-![Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alessandro-ambrosi.jpg)
-*Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/alessandro-ambrosi.jpg" alt="Alessandro Ambrosi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alessandro Ambrosi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1971</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2000–2002</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>20</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Alessandro Ambrosi**, universalmente noto come **"Il Re Leone"** per la folta criniera bionda e la potenza devastante nei contrasti (Fiuggi, 12 luglio 1971), è un ex calciatore italiano, nel ruolo di centravanti. Acquistato nell'estate del **2000** dal Crotone dalla nuova proprietà guidata dalla famiglia Gaucci, infiammò l'entusiasmo della piazza etnea.
@@ -83,15 +131,16 @@ Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e L
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2000-2002) | 42 | 15 | Attaccante / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
-| Coppe Nazionali / Spareggi | 5 | 1 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **47** | **16** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1999-2000** | Punta centrale | 20 | 12 | 3 | 4 | 0 | 1738' |
+| **TOTALE** | — | **20** | **12** | **3** | **4** | **0** | **1738'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alessandro Ambrosi** ha collezionato complessivamente **20 presenze ufficiali**, disputando **1738 minuti** di gioco effettivo, siglando **12 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alessandro Ambrosi](https://it.wikipedia.org/wiki/Alessandro_Ambrosi)*.

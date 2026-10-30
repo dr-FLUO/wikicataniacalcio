@@ -1,11 +1,11 @@
 ---
 title: Nicolò Cavuoti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista
-  del Calcio Catania con 8 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista del Calcio Catania con 8 presenze
+  e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 total_appearances: 8
 seasons_count: 1
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1140_nicol-cavuoti.jpg
 image_credits:
 - image_path: assets/images/players/1140_nicol-cavuoti.jpg
-  alt_text: Ritratto del calciatore Nicolò Cavuoti in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Nicolò Cavuoti in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - nicolò-cavuoti
 - tesserati/nicolò-cavuoti
 - calciatori/nicolò-cavuoti
+total_goals: 2
+total_assists: 2
+minutes_played: 483
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Nicolò Cavuoti — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Nicolò Cavuoti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1140_nicol-cavuoti.jpg)
-*Ritratto del calciatore Nicolò Cavuoti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1140_nicol-cavuoti.jpg" alt="Nicolò Cavuoti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Nicolò Cavuoti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Nicolò Cavuoti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 8
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2025-2026** | Trequartista | 8 | 2 | 2 | 1 | 0 | 483' |
+| **TOTALE** | — | **8** | **2** | **2** | **1** | **0** | **483'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Nicolò Cavuoti** ha collezionato complessivamente **8 presenze ufficiali**, disputando **483 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

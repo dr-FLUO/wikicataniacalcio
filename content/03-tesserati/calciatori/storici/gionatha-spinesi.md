@@ -1,20 +1,19 @@
 ---
 title: Gionatha Spinesi — «Il Gabbiano» della Promozione in Serie A (49 Reti)
-description: Biografia e statistiche di Gionatha Spinesi, quarto marcatore all-time
-  del Catania con 49 reti ufficiali (23 nella promozione in Serie A 2005-06 e 20 in
-  A).
+description: Biografia, presenze e statistiche ufficiali di Gionatha Spinesi, attaccante (centravanti) del Calcio Catania
+  con 117 presenze e 49 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/gionatha-spinesi
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1978-03-09
+last_verified_date: '2026-10-30'
+birth_date: '1978-03-09'
 birth_place: Pisa, Italia
 nationality: Italia
 role: Attaccante (Centravanti)
 shirt_number: 24
 catania_periods:
-- 2004-2009
-total_appearances: 143
+- 2005-2009
+total_appearances: 117
 league_appearances: 135
 serie_a_appearances: 72
 total_goals: 49
@@ -37,8 +36,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Gionatha_Spinesi
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -55,8 +53,8 @@ sources:
   reference: 'ID 64: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Spinesi-64
 cover_image: mascara-spinesi.jpg
-cover_caption: 'Gionatha Spinesi (#24) e Giuseppe Mascara al calcio d''inizio: la
-  prolifica coppia della promozione in Serie A 2005-2006.'
+cover_caption: 'Gionatha Spinesi (#24) e Giuseppe Mascara al calcio d''inizio: la prolifica coppia della promozione in Serie
+  A 2005-2006.'
 cover_credit: 'Foto: Roberto Quartarone · Licenza: CC BY-SA 2.5'
 aliases:
 - tesserati/calciatori/gionatha-spinesi
@@ -65,23 +63,72 @@ aliases:
 - calciatori/gionatha-spinesi
 image_credits:
 - image_path: /assets/images/calciatori/gionatha-spinesi.jpg
-  alt_text: 'Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
 seasons_count: 4
+height: 184 cm
+foot: Destro
+total_assists: 2
+minutes_played: 9258
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Gionatha Spinesi
 
-![Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gionatha-spinesi.jpg)
-*Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/mascara-spinesi.jpg" alt="Gionatha Spinesi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gionatha Spinesi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1978</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>184 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2005–2009</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>117</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>49</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Gionatha Spinesi**, soprannominato **"Il Gabbiano"** per la caratteristica esultanza a braccia spalancate (Pisa, 9 marzo 1978), è un ex calciatore italiano, di ruolo centravanti. Con **49 reti ufficiali in 143 presenze** tra il **2004 e il 2009**, occupa il **quarto posto assoluto nella classifica dei marcatori della storia del Catania** (alle spalle di [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]], [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e [[tesserati/calciatori/francesco-lodi|Francesco Lodi]]). I suoi **23 gol realizzati nella [[stagioni/2005-2006|Stagione 2005-2006]]** rappresentano il record per un singolo campionato cadetto nella storia rossazzurra e il pilastro della promozione in Serie A firmata da [[tesserati/allenatori/pasquale-marino|Pasquale Marino]].
-
 
 ## I 23 Gol della Promozione in Serie A (2004–2006)
 
@@ -106,7 +153,6 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 | **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
 | **Totale Carriera** | **5 Stagioni (2004–2009)** | **Serie A / B** | — | **135 (72 A + 63 B)** | **47 (20 A + 27 B)** | **8 (2)** | **143 (49)** |
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -119,6 +165,20 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 - **Prodezze in Serie A:** **17 reti in 32 presenze** nella Serie A 2006-2007, decisive per la prima storica salvezza dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]].
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2004-2005** | Punta centrale | 39 | 23 | 0 | 7 | 1 | 3491' |
+| **2005-2006** | Punta centrale | 33 | 17 | 0 | 4 | 2 | 2685' |
+| **2006-2007** | Punta centrale | 37 | 9 | 2 | 5 | 1 | 2974' |
+| **2007-2008** | Punta centrale | 8 | 0 | 0 | 0 | 0 | 108' |
+| **TOTALE** | — | **117** | **49** | **2** | **16** | **4** | **9258'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Gionatha Spinesi** ha collezionato complessivamente **117 presenze ufficiali**, disputando **9258 minuti** di gioco effettivo, siglando **49 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Gionatha Spinesi](https://it.wikipedia.org/wiki/Gionatha_Spinesi)*.

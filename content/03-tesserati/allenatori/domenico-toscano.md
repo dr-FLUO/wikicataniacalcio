@@ -51,6 +51,12 @@ aliases:
 - domenico-toscano
 - tesserati/domenico-toscano
 - allenatori/domenico-toscano
+
+total_matches: 80
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Domenico Toscano, allenatore del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp)
@@ -92,3 +98,13 @@ Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; conf
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 15/04/2026 — 30/06/2026 | 76 giorni | 6 | 1,17 |
+| 18/06/2024 — 16/03/2026 | 636 giorni | 74 | 1,76 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

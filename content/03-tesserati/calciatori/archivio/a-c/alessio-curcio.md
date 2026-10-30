@@ -1,13 +1,13 @@
 ---
 title: Alessio Curcio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Alessio Curcio, attaccante
-  del Calcio Catania con 12 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Alessio Curcio, attaccante del Calcio Catania con 14 presenze
+  e 4 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/alessio-curcio
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 12
+total_appearances: 14
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1016_alessio-curcio.jpg
 image_credits:
 - image_path: assets/images/players/1016_alessio-curcio.jpg
-  alt_text: Ritratto del calciatore Alessio Curcio in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Alessio Curcio in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - alessio-curcio
 - tesserati/alessio-curcio
 - calciatori/alessio-curcio
+total_goals: 4
+total_assists: 0
+minutes_played: 774
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alessio Curcio — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Alessio Curcio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1016_alessio-curcio.jpg)
-*Ritratto del calciatore Alessio Curcio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1016_alessio-curcio.jpg" alt="Alessio Curcio" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alessio Curcio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>14</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>4</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Alessio Curcio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 12
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2018-2019** | Ala sinistra | 14 | 4 | 0 | 2 | 0 | 774' |
+| **TOTALE** | — | **14** | **4** | **0** | **2** | **0** | **774'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alessio Curcio** ha collezionato complessivamente **14 presenze ufficiali**, disputando **774 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

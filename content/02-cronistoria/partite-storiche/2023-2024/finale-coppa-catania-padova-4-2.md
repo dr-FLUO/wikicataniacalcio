@@ -65,6 +65,9 @@ aliases:
 - partite/2023-2024/catania-padova-4-2
 - 02-cronistoria/partite-storiche/2023-2024/catania-padova-4-2
 - catania-padova-4-2
+- partite-storiche/2023-2024/finale-coppa-catania-padova-4-2
+- 2023-2024/finale-coppa-catania-padova-4-2
+- finale-coppa-catania-padova-4-2
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Norbert Gyömbér — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Norbert Gyömbér, difensore del Calcio Catania
-  con 25 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Norbert Gyömbér, difensore del Calcio Catania con 29 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/norbert-gyomber
 entity_type: calciatore
 status: verified
@@ -11,8 +11,8 @@ birth_date: '1992-07-03'
 birth_place: Revúca
 death_date: ''
 nationality: Slovacchia
-total_appearances: 25
-seasons_count: 2
+total_appearances: 29
+seasons_count: 3
 tags:
 - calciatori
 - norbert-gyomber
@@ -53,12 +53,60 @@ aliases:
 - calciatori/norbert-gyömbér
 - 03-tesserati/calciatori/archivio/m-o/norbert-gyömbér
 citizenship: Slovacchia
+total_goals: 1
+total_assists: 0
+minutes_played: 2359
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Norbert Gyömbér — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Norbert Gyömbér in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/norbert-gyomber.jpg)
-*Ritratto del calciatore Norbert Gyömbér in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/norbert-gyomber.jpg" alt="Norbert Gyömbér" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Norbert Gyömbér</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1992</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Slovacchia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>29</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Norbert Gyömbér** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
@@ -68,28 +116,14 @@ Nato a Revúca (1992-07-03), Norbert Gyömbér ha militato tra le file della for
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo** | Difensore |
-| **Presenze ufficiali complessive** | 25 |
-| **Stagioni disputate** | 2 |
-| **Nazionalità sportiva** | Slovacchia |
-| **Data e luogo di nascita** | 1992-07-03 — Revúca |
-| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2012-2013** | Difensore centrale | 19 | 1 | 0 | 2 | 0 | 1527' |
+| **2013-2014** | Difensore centrale | 9 | 0 | 0 | 2 | 2 | 742' |
+| **2014-2015** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
+| **TOTALE** | — | **29** | **1** | **0** | **5** | **2** | **2359'** |
 
-> [!note] Fonte statistica
-> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810)).
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Norbert Gyömbér*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r](https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r).
-2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Norbert Gyömbér*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810](https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810).
-3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Norbert Gyömbér** ha collezionato complessivamente **29 presenze ufficiali**, disputando **2359 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

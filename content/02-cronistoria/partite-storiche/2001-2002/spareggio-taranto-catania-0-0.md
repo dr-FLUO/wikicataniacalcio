@@ -43,6 +43,9 @@ sources:
   reference: Gara del 9 giugno 2002
 aliases:
 - partite/2001-2002/spareggio-taranto-catania-0-0
+- partite-storiche/2001-2002/spareggio-taranto-catania-0-0
+- 2001-2002/spareggio-taranto-catania-0-0
+- spareggio-taranto-catania-0-0
 ---
 
 

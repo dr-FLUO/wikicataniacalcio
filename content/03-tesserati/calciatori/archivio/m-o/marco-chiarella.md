@@ -1,13 +1,13 @@
 ---
 title: Marco Chiarella — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Marco Chiarella, attaccante
-  del Calcio Catania con 44 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Marco Chiarella, attaccante del Calcio Catania con 49 presenze
+  e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/marco-chiarella
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 44
+total_appearances: 49
 seasons_count: 2
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1033_marco-chiarella.png
 image_credits:
 - image_path: assets/images/players/1033_marco-chiarella.png
-  alt_text: Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - marco-chiarella
 - tesserati/marco-chiarella
 - calciatori/marco-chiarella
+total_goals: 6
+total_assists: 5
+minutes_played: 1993
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Marco Chiarella — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1033_marco-chiarella.png)
-*Ritratto del calciatore Marco Chiarella in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1033_marco-chiarella.png" alt="Marco Chiarella" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Marco Chiarella</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>49</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Marco Chiarella** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 44
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2021-2022** | Ala destra | 20 | 5 | 3 | 2 | 0 | 1189' |
+| **2022-2023** | Ala destra | 29 | 1 | 2 | 3 | 0 | 804' |
+| **TOTALE** | — | **49** | **6** | **5** | **5** | **0** | **1993'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Marco Chiarella** ha collezionato complessivamente **49 presenze ufficiali**, disputando **1993 minuti** di gioco effettivo, siglando **6 gol** e servendo **5 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

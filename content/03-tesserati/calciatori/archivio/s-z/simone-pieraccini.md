@@ -1,13 +1,13 @@
 ---
 title: Simone Pieraccini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Simone Pieraccini, difensore
-  del Calcio Catania con 27 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Simone Pieraccini, difensore del Calcio Catania con 29 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/simone-pieraccini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 27
+total_appearances: 29
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1073_simone-pieraccini.jpg
 image_credits:
 - image_path: assets/images/players/1073_simone-pieraccini.jpg
-  alt_text: Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - simone-pieraccini
 - tesserati/simone-pieraccini
 - calciatori/simone-pieraccini
+total_goals: 1
+total_assists: 0
+minutes_played: 2178
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Simone Pieraccini — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1073_simone-pieraccini.jpg)
-*Ritratto del calciatore Simone Pieraccini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1073_simone-pieraccini.jpg" alt="Simone Pieraccini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Simone Pieraccini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>29</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Simone Pieraccini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 27
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2024-2025** | Difensore centrale | 29 | 1 | 0 | 10 | 0 | 2178' |
+| **TOTALE** | — | **29** | **1** | **0** | **10** | **0** | **2178'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Simone Pieraccini** ha collezionato complessivamente **29 presenze ufficiali**, disputando **2178 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

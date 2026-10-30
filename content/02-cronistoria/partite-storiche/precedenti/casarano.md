@@ -31,6 +31,9 @@ sources:
   reference: Rubrica storica dei precedenti ufficiali
 aliases:
 - partite/precedenti/casarano
+- partite-storiche/precedenti/casarano
+- precedenti/casarano
+- casarano
 ---
 
 

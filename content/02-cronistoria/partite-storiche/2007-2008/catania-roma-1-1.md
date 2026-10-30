@@ -14,16 +14,17 @@ attendance: 21148
 score: 1-1
 scorers: 8' Vucinic (R), 85' Martnez (C)
 image_credits:
-- image_path: 'https://commons.wikimedia.org'
-  alt_text: "Jorge Martinez festeggia il gol del pareggio salvezza contro la Roma"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: https://commons.wikimedia.org
+  alt_text: Jorge Martinez festeggia il gol del pareggio salvezza contro la Roma
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
-- image_path: '../../../assets/images/partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp'
-  alt_text: "Jorge Martinez esulta dopo il gol salvezza in Catania-Roma 1-1 allo Stadio Massimino Solarino"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+  license_type: Creative Commons CC BY-SA 4.0
+- image_path: ../../../assets/images/partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp
+  alt_text: Jorge Martinez esulta dopo il gol salvezza in Catania-Roma 1-1 allo Stadio
+    Massimino Solarino
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - partite
 - serie-a
@@ -49,6 +50,9 @@ sources:
   reference: Documentazione anagrafica e statistiche certificate
 aliases:
 - partite/2007-2008/catania-roma-1-1
+- partite-storiche/2007-2008/catania-roma-1-1
+- 2007-2008/catania-roma-1-1
+- catania-roma-1-1
 ---
 # Catania-Roma 1-1 (18 Maggio 2008)
 

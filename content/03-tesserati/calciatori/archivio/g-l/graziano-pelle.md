@@ -1,7 +1,7 @@
 ---
 title: Graziano Pellè — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Graziano Pellè, attaccante del Calcio Catania
-  con 12 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Graziano Pellè, attaccante del Calcio Catania con 15 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/graziano-pelle
 entity_type: calciatore
 status: verified
@@ -11,7 +11,7 @@ birth_date: '1985-07-15'
 birth_place: San Cesario di Lecce
 death_date: ''
 nationality: Italia
-total_appearances: 12
+total_appearances: 15
 seasons_count: 1
 tags:
 - calciatori
@@ -53,12 +53,60 @@ aliases:
 - calciatori/graziano-pellè
 - 03-tesserati/calciatori/archivio/g-l/graziano-pellè
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 657
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Graziano Pellè — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Graziano Pellè in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/graziano-pelle.jpg)
-*Ritratto del calciatore Graziano Pellè in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/graziano-pelle.jpg" alt="Graziano Pellè" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Graziano Pellè</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1985</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>15</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Graziano Pellè** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -68,28 +116,12 @@ Nato a San Cesario di Lecce (1985-07-15), Graziano Pellè ha militato tra le fil
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo** | Attaccante |
-| **Presenze ufficiali complessive** | 12 |
-| **Stagioni disputate** | 1 |
-| **Nazionalità sportiva** | Italia |
-| **Data e luogo di nascita** | 1985-07-15 — San Cesario di Lecce |
-| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Punta centrale | 15 | 0 | 0 | 0 | 0 | 657' |
+| **TOTALE** | — | **15** | **0** | **0** | **0** | **0** | **657'** |
 
-> [!note] Fonte statistica
-> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116)).
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Graziano Pellè*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8](https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8).
-2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Graziano Pellè*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116](https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116).
-3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Graziano Pellè** ha collezionato complessivamente **15 presenze ufficiali**, disputando **657 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

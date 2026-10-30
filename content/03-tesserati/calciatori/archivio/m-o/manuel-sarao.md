@@ -1,13 +1,13 @@
 ---
 title: Manuel Sarao — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Manuel Sarao, attaccante
-  del Calcio Catania con 70 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Manuel Sarao, attaccante del Calcio Catania con 79 presenze e
+  19 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/manuel-sarao
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 70
+total_appearances: 79
 seasons_count: 3
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/946_manuel-sarao.jpg
 image_credits:
 - image_path: assets/images/players/946_manuel-sarao.jpg
-  alt_text: Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,85 @@ aliases:
 - manuel-sarao
 - tesserati/manuel-sarao
 - calciatori/manuel-sarao
+total_goals: 19
+total_assists: 5
+minutes_played: 4890
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Manuel Sarao — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/946_manuel-sarao.jpg)
-*Ritratto del calciatore Manuel Sarao in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/946_manuel-sarao.jpg" alt="Manuel Sarao" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Manuel Sarao</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>79</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>19</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>5</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Manuel Sarao** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 70
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2019-2020** | Punta centrale | 29 | 8 | 2 | 9 | 0 | 1910' |
+| **2021-2022** | Punta centrale | 35 | 9 | 3 | 10 | 0 | 2440' |
+| **2022-2023** | Punta centrale | 15 | 2 | 0 | 5 | 0 | 540' |
+| **TOTALE** | — | **79** | **19** | **5** | **24** | **0** | **4890'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Manuel Sarao** ha collezionato complessivamente **79 presenze ufficiali**, disputando **4890 minuti** di gioco effettivo, siglando **19 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

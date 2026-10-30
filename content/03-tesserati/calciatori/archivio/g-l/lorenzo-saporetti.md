@@ -1,11 +1,11 @@
 ---
 title: Lorenzo Saporetti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Lorenzo Saporetti, difensore
-  del Calcio Catania con 5 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Lorenzo Saporetti, difensore del Calcio Catania con 5 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/lorenzo-saporetti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 total_appearances: 5
 seasons_count: 1
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/935_lorenzo-saporetti.jpg
 image_credits:
 - image_path: assets/images/players/935_lorenzo-saporetti.jpg
-  alt_text: Ritratto del calciatore Lorenzo Saporetti in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Lorenzo Saporetti in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - lorenzo-saporetti
 - tesserati/lorenzo-saporetti
 - calciatori/lorenzo-saporetti
+total_goals: 0
+total_assists: 0
+minutes_played: 227
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Lorenzo Saporetti — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Lorenzo Saporetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/935_lorenzo-saporetti.jpg)
-*Ritratto del calciatore Lorenzo Saporetti in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/935_lorenzo-saporetti.jpg" alt="Lorenzo Saporetti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Lorenzo Saporetti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Lorenzo Saporetti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 5
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2018-2019** | Difensore centrale | 5 | 0 | 0 | 1 | 0 | 227' |
+| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **227'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Lorenzo Saporetti** ha collezionato complessivamente **5 presenze ufficiali**, disputando **227 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

@@ -1,22 +1,21 @@
 ---
 title: Alessio Castellini — Difensore e Capitano Bandiera del Catania FC (2022-2027)
-description: 'Biografia, statistiche e carriera di Alessio Castellini: capitano del
-  Catania FC, protagonista assoluto dalla rinascita in Serie D nel 2022 alla Serie
-  C contemporanea.'
+description: Biografia, presenze e statistiche ufficiali di Alessio Castellini, difensore polivalente (terzino sinistro /
+  difensore centrale) del Calcio Catania con 84 presenze e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/alessio-castellini
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-28
-birth_date: 2003-03-12
+last_verified_date: '2026-10-30'
+birth_date: '2003-03-12'
 birth_place: Brescia, Italia
 nationality: Italia
 role: Difensore polivalente (Terzino sinistro / Difensore centrale)
 current_squad: true
 catania_periods:
-- 2022-2027
-total_appearances: 125
+- 2022-
+total_appearances: 84
 league_appearances: 110
-total_goals: 8
+total_goals: 6
 league_goals: 7
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
@@ -42,8 +41,7 @@ sources:
   year: 2026
   reference: Dati carriera, presenze, ammonizioni e reti
 - author: Quotidiano La Sicilia
-  title: 'Castellini, il capitano del popolo rossazzurro: da promessa a simbolo dell''era
-    Pelligra'
+  title: 'Castellini, il capitano del popolo rossazzurro: da promessa a simbolo dell''era Pelligra'
   publisher: Editoriale La Sicilia, Catania
   year: 2025
   reference: Rubrica sportiva 20 marzo 2025
@@ -53,13 +51,62 @@ aliases:
 - alessio-castellini
 - tesserati/alessio-castellini
 - calciatori/alessio-castellini
-seasons_count: 3
+seasons_count: 2
+height: 187 cm
+foot: Sinistro
+total_assists: 4
+minutes_played: 6830
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alessio Castellini — Difensore e Capitano Bandiera del Catania FC (2022-2027)
 
-![Ritratto ufficiale del difensore e capitano del Catania Alessio Castellini in maglia rossazzurra — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp)
-*Ritratto ufficiale del difensore e capitano del Catania Alessio Castellini in maglia rossazzurra — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp" alt="Alessio Castellini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alessio Castellini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>2003</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>187 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2022–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>84</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>4</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Nato a Brescia il **12 marzo 2003**, **Alessio Castellini** è il capitano, leader tecnico e autentica bandiera del nuovo corso del Catania Football Club avviato dalla presidenza di [[societa/presidenti/ross-pelligra|Ross Pelligra]].
 
@@ -81,7 +128,19 @@ Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno 
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2021-2022** | Difensore centrale | 36 | 0 | 3 | 2 | 0 | 3153' |
+| **2022-2023** | Difensore centrale | 48 | 6 | 1 | 4 | 0 | 3677' |
+| **TOTALE** | — | **84** | **6** | **4** | **6** | **0** | **6830'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alessio Castellini** ha collezionato complessivamente **84 presenze ufficiali**, disputando **6830 minuti** di gioco effettivo, siglando **6 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
+
+
+## Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore attuale]]

@@ -1,13 +1,13 @@
 ---
 title: Dario Del Fabro — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Dario Del Fabro, difensore
-  del Calcio Catania con 5 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Dario Del Fabro, difensore del Calcio Catania con 7 presenze e
+  0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/dario-del-fabro
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 5
+total_appearances: 7
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1095_dario-del-fabro.jpg
 image_credits:
 - image_path: assets/images/players/1095_dario-del-fabro.jpg
-  alt_text: Ritratto del calciatore Dario Del Fabro in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Dario Del Fabro in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - dario-del-fabro
 - tesserati/dario-del-fabro
 - calciatori/dario-del-fabro
+total_goals: 0
+total_assists: 0
+minutes_played: 572
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Dario Del Fabro — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Dario Del Fabro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1095_dario-del-fabro.jpg)
-*Ritratto del calciatore Dario Del Fabro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1095_dario-del-fabro.jpg" alt="Dario Del Fabro" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Dario Del Fabro</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>7</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Dario Del Fabro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 5
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Difensore centrale | 7 | 0 | 0 | 1 | 0 | 572' |
+| **TOTALE** | — | **7** | **0** | **0** | **1** | **0** | **572'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Dario Del Fabro** ha collezionato complessivamente **7 presenze ufficiali**, disputando **572 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

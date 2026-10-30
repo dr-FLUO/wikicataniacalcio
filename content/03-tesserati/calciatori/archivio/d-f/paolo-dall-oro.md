@@ -1,17 +1,17 @@
 ---
 title: Paolo Dall'Oro — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Paolo Dall'Oro, difensore
-  del Calcio Catania con 38 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Paolo Dall'Oro, difensore del Calcio Catania con 22 presenze e
+  0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/paolo-dall-oro
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 birth_date: '1956-02-12'
 birth_place: Ceggia, Italia
 death_date: ''
 nationality: Italia
-total_appearances: 38
+total_appearances: 22
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Paolo_Dall%27Oro
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/paolo-dall-oro
 - calciatori/paolo-dall-oro
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 1694
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Paolo Dall'Oro — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Paolo Dall'Oro in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/paolo-dall-oro.jpg)
-*Ritratto del calciatore Paolo Dall'Oro in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/paolo-dall-oro.jpg" alt="Paolo Dall'Oro" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Paolo Dall'Oro</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1956</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1980–1981</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>22</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Paolo Dall'Oro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
@@ -58,24 +105,12 @@ Difensore moderno e terzino di fascia veneto, distintosi con il Perugia dei Mira
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1980-1981, totalizzando **38 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Difensore |
-| **Presenze Totali Ufficiali** | 38 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (1980-1981) |
-| **Nazionalità Sportiva** | Italia |
-| **Luogo e Data di Nascita** | Ceggia, Italia (1956-02-12) |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1975-1976** | Difesa | 22 | 0 | 0 | 0 | 0 | 1694' |
+| **TOTALE** | — | **22** | **0** | **0** | **0** | **0** | **1694'** |
 
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Paolo Dall'Oro](https://it.wikipedia.org/wiki/Paolo_Dall%27Oro) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Paolo Dall'Oro** ha collezionato complessivamente **22 presenze ufficiali**, disputando **1694 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

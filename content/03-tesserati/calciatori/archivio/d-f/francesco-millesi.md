@@ -1,13 +1,13 @@
 ---
 title: Francesco Millesi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco Millesi, centrocampista
-  del Calcio Catania con 10 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco Millesi, centrocampista del Calcio Catania con 11 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-millesi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 10
+total_appearances: 11
 seasons_count: 3
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/52_francesco-millesi.jpg
 image_credits:
 - image_path: assets/images/players/52_francesco-millesi.jpg
-  alt_text: Ritratto del calciatore Francesco Millesi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Francesco Millesi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,85 @@ aliases:
 birth_date: '1980-07-24'
 birth_place: Catania
 citizenship: Italia
+total_goals: 0
+total_assists: 1
+minutes_played: 273
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Francesco Millesi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Francesco Millesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/52_francesco-millesi.jpg)
-*Ritratto del calciatore Francesco Millesi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/52_francesco-millesi.jpg" alt="Francesco Millesi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Francesco Millesi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1980</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>11</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Francesco Millesi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 10
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2005-2006** | Ala sinistra | 10 | 0 | 1 | 1 | 0 | 272' |
+| **2006-2007** | Ala sinistra | 1 | 0 | 0 | 0 | 0 | 1' |
+| **2007-2008** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **11** | **0** | **1** | **1** | **0** | **273'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Francesco Millesi** ha collezionato complessivamente **11 presenze ufficiali**, disputando **273 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

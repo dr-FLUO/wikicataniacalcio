@@ -1,7 +1,7 @@
 ---
 title: "I Pazzi Rossazzurri (1999)"
 description: "Dossier storico sul gruppo I Pazzi (I Pazzi Rossazzurri), fondato nel 1999 in Curva Nord: radicamento in Corso Indipendenza e San Leone, stile e militanza."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/i-pazzi"
+slug: "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
 entity_type: "gruppo_ultras"
 foundation_year: 1999
 origin_district: "Corso Indipendenza e Quartiere San Leone (Catania)"
@@ -28,6 +28,8 @@ sources:
     year: 2016
     reference: "Mappatura territoriale del gruppo tra San Leone e Corso Indipendenza"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
+  - "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
   - "tifoseria/curva-nord/i-pazzi"
 ---
 
@@ -47,7 +49,7 @@ Nato sul finire degli anni Novanta in coincidenza con la rinascita sportiva del 
 
 ## 2. Fedeltà alla Linea No-Tessera
 
-Nel 2015, di fronte alla scissione del tifo etneo sulla Tessera del Tifoso, I Pazzi si sono schierati fin dal primo momento a fianco di [[06-tifoseria-e-cultura/curve/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *Nord Kaos* a difesa della mentalità ultras classica, rifiutando ogni forma di schedatura ministeriale e sostenendo il Catania con una presenza costante all'esterno dello stadio e nelle trasferte libere.
+Nel 2015, di fronte alla scissione del tifo etneo sulla Tessera del Tifoso, I Pazzi si sono schierati fin dal primo momento a fianco di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *Nord Kaos* a difesa della mentalità ultras classica, rifiutando ogni forma di schedatura ministeriale e sostenendo il Catania con una presenza costante all'esterno dello stadio e nelle trasferte libere.
 
 ---
 

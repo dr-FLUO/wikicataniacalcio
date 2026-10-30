@@ -1,20 +1,20 @@
 ---
 title: Caetano Calil — Il Punto di Riferimento del Rilancio in Lega Pro (2015-2017)
-description: Biografia e statistiche di Caetano Calil, attaccante brasiliano capocannoniere
-  del Catania nel campionato di Lega Pro 2015-2016 con 11 reti.
+description: Biografia, presenze e statistiche ufficiali di Caetano Calil, attaccante / trequartista del Calcio Catania con
+  46 presenze e 13 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/caetano-calil
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1984-05-20
 birth_place: Guaxupé, Brasile
 nationality: Brasile
 role: Attaccante / Trequartista
 catania_periods:
 - 2015-2017
-total_appearances: 50
+total_appearances: 46
 league_appearances: 48
-total_goals: 12
+total_goals: 13
 league_goals: 12
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
@@ -53,9 +53,63 @@ aliases:
 - caetano-calil
 - tesserati/caetano-calil
 - calciatori/caetano-calil
+total_assists: 3
+minutes_played: 3659
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Caetano Calil
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Caetano Calil</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1984</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2015–2017</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>46</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Caetano Prata Calil** (Guaxupé, 20 maggio 1984) è un ex calciatore brasiliano, nel ruolo di attaccante e seconda punta. Acquistato dal Catania nell'agosto **2015** dopo aver trascinato la Salernitana alla promozione, fu il perno offensivo della complessa [[stagioni/2015-2016|Stagione 2015-2016]] in Lega Pro.
 
@@ -76,15 +130,17 @@ Con doppiette memorabili contro Catanzaro e Ischia Isolaverde e prodezze al Mass
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2015-2017) | 48 | 12 | Attaccante / Trequartista | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] |
-| Coppe Nazionali / Spareggi | 2 | 0 | Attaccante / Trequartista | Gare ufficiali |
-| **Totale Complessivo** | **50** | **12** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2014-2015** | Punta centrale | 32 | 11 | 2 | 6 | 0 | 2725' |
+| **2015-2016** | Punta centrale | 14 | 2 | 1 | 1 | 0 | 934' |
+| **TOTALE** | — | **46** | **13** | **3** | **7** | **0** | **3659'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Caetano Calil** ha collezionato complessivamente **46 presenze ufficiali**, disputando **3659 minuti** di gioco effettivo, siglando **13 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Caetano Prósperi Calil](https://it.wikipedia.org/wiki/Caetano_Calil)*.

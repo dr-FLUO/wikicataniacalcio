@@ -1,13 +1,13 @@
 ---
 title: Paolo Bianco — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Paolo Bianco, difensore
-  del Calcio Catania con 72 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Paolo Bianco, difensore del Calcio Catania con 77 presenze e 0
+  gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/paolo-bianco
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 72
+total_appearances: 77
 seasons_count: 3
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/41_paolo-bianco.jpg
 image_credits:
 - image_path: /assets/images/calciatori/paolo-bianco.jpg
-  alt_text: 'Ritratto ufficiale di Paolo Bianco — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Paolo Bianco — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,87 @@ aliases:
 birth_date: '1977-08-20'
 birth_place: Foggia
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 6902
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Paolo Bianco — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Paolo Bianco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/paolo-bianco.jpg)
-*Ritratto ufficiale di Paolo Bianco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/41_paolo-bianco.jpg" alt="Paolo Bianco" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Paolo Bianco</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1977</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>77</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Paolo Bianco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Paolo Bianco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 72
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Difensore centrale | 40 | 0 | 0 | 14 | 0 | 3543' |
+| **2004-2005** | Difensore centrale | 36 | 0 | 0 | 9 | 0 | 3269' |
+| **2005-2006** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
+| **TOTALE** | — | **77** | **0** | **0** | **24** | **0** | **6902'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Paolo Bianco** ha collezionato complessivamente **77 presenze ufficiali**, disputando **6902 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

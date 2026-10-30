@@ -1,13 +1,13 @@
 ---
 title: Andrea De Paoli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea De Paoli, attaccante
-  del Calcio Catania con 7 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea De Paoli, attaccante del Calcio Catania con 11 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-de-paoli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 7
+total_appearances: 11
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1094_andrea-de-paoli.jpg
 image_credits:
 - image_path: assets/images/players/1094_andrea-de-paoli.jpg
-  alt_text: Ritratto del calciatore Andrea De Paoli in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Andrea De Paoli in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - andrea-de-paoli
 - tesserati/andrea-de-paoli
 - calciatori/andrea-de-paoli
+total_goals: 1
+total_assists: 2
+minutes_played: 485
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea De Paoli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Andrea De Paoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1094_andrea-de-paoli.jpg)
-*Ritratto del calciatore Andrea De Paoli in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1094_andrea-de-paoli.jpg" alt="Andrea De Paoli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea De Paoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>11</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Andrea De Paoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 7
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Punta centrale | 11 | 1 | 2 | 1 | 0 | 485' |
+| **TOTALE** | — | **11** | **1** | **2** | **1** | **0** | **485'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea De Paoli** ha collezionato complessivamente **11 presenze ufficiali**, disputando **485 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

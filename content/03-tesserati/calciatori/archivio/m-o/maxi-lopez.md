@@ -1,21 +1,20 @@
 ---
 title: Maxi López — «La Galina d'Oro», Centravanti e Trascinatore nel 2010
-description: 'Biografia e statistiche di Maxi López al Calcio Catania: 70 gare e 27
-  reti nel ciclo d''oro (87 totali), impatto devastante con 11 gol nella salvezza
-  del 2010.'
+description: Biografia, presenze e statistiche ufficiali di Maxi López, attaccante (centravanti) del Calcio Catania con 83
+  presenze e 27 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/maxi-lopez
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1984-04-03
+last_verified_date: '2026-10-30'
+birth_date: '1984-04-03'
 birth_place: Buenos Aires, Argentina
-nationality: Argentina / Italia
+nationality: Argentina
 role: Attaccante (Centravanti)
 shirt_number: 11
 catania_periods:
 - 2010-2012
 - 2013-2014
-total_appearances: 70
+total_appearances: 83
 league_appearances: 66
 serie_a_appearances: 66
 total_goals: 27
@@ -39,25 +38,21 @@ sources:
   url: https://it.wikipedia.org/wiki/Maxi_L%C3%B3pez
   reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Ufficiale Serie A TIM (2010-2014) — Scheda Maximiliano
-    Gastón López
+  title: Archivio Statistico Ufficiale Serie A TIM (2010-2014) — Scheda Maximiliano Gastón López
   publisher: Lega Serie A
   year: 2014
   reference: 78 presenze e 23 reti in Serie A, 9 presenze e 4 reti in Coppa Italia
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: 'pp. 460-467 (L''impatto devastante del gennaio 2010 con Mihajlović:
-    11 reti in 17 gare)'
+  reference: 'pp. 460-467 (L''impatto devastante del gennaio 2010 con Mihajlović: 11 reti in 17 gare)'
 - author: Roberto Quartarone, Alessandro Russo
   title: Maxi López, 'La Galina d'Oro' che fece impazzire il Massimino
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2014
-  reference: Cronistoria della salvezza 2010 e bilancio statistico dei due cicli in
-    rossazzurro
+  reference: Cronistoria della salvezza 2010 e bilancio statistico dei due cicli in rossazzurro
 - author: Archivio Storico CalcioCatania.com
   title: Scheda anagrafica e statistiche ufficiali di Maximiliano Gastòn  Lopez
   publisher: calciocatania.com
@@ -65,8 +60,8 @@ sources:
   reference: 'ID 27: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Lopez-27
 cover_image: maxi-lopez.jpg
-cover_caption: 'Maxi López («La Galina») al centro sportivo di Torre del Grifo con
-  i colori del Catania: 27 reti e protagonista della salvezza 2009-2010.'
+cover_caption: 'Maxi López («La Galina») al centro sportivo di Torre del Grifo con i colori del Catania: 27 reti e protagonista
+  della salvezza 2009-2010.'
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0 (Wikimedia Commons)'
 aliases:
 - tesserati/calciatori/maxi-lopez
@@ -75,18 +70,69 @@ aliases:
 - calciatori/maxi-lopez
 image_credits:
 - image_path: /assets/images/calciatori/maxi-lopez.jpg
-  alt_text: 'Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
+height: 190 cm
+foot: Destro
+total_assists: 8
+minutes_played: 6074
+seasons_count: 4
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Maxi López
 
-![Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/maxi-lopez.jpg)
-*Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/maxi-lopez.jpg" alt="Maxi López" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Maxi López</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1984</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>190 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2010–2012, 2013–2014</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>83</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>27</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>8</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Maximiliano Gastón López**, universalmente noto come **Maxi López** e soprannominato in patria **"El Galina"** e a Catania **"La Galina d'Oro"** (Buenos Aires, 3 aprile 1984), è un ex calciatore e dirigente sportivo argentino, di ruolo centravanti. Centravanti classico dotato di forza fisica prorompente, tempismo aereo letale e raffinata tecnica di protezione della palla, ha legato la propria consacrazione europea al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]: nel suo primo biennio dorato (**gennaio 2010 – gennaio 2012**) colleziona esattamente **70 presenze ufficiali e 26 reti** (poi salite a **87 presenze e 27 reti totali** con la parentesi del 2013-2014). Il suo sbarco in Sicilia nel gennaio 2010 ha rappresentato uno dei più devastanti impatti individuali della storia della Serie A moderna, salvando il club con **11 reti in appena 17 partite**.
@@ -152,6 +198,20 @@ Chiude la sua avventura complessiva ai piedi dell'Etna con **87 presenze ufficia
 - **Vittorie Storiche:** Mattatore nel successo per 3-1 sull'[[partite/precedenti/inter|Inter]] di Mourinho (12 marzo 2010) e autore di 3 reti complessive nei derby di Serie A contro il [[partite/precedenti/palermo|Palermo]] (doppietta nel 2-0 del 2010 e gol nel 4-0 del 2011).
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2008-2009** | Punta centrale | 17 | 11 | 2 | 4 | 0 | 1407' |
+| **2009-2010** | Punta centrale | 37 | 10 | 3 | 6 | 0 | 2930' |
+| **2010-2011** | Punta centrale | 16 | 5 | 1 | 0 | 0 | 1054' |
+| **2012-2013** | Punta centrale | 13 | 1 | 2 | 1 | 0 | 683' |
+| **TOTALE** | — | **83** | **27** | **8** | **11** | **0** | **6074'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Maxi López** ha collezionato complessivamente **83 presenze ufficiali**, disputando **6074 minuti** di gioco effettivo, siglando **27 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Maxi López](https://it.wikipedia.org/wiki/Maxi_L%C3%B3pez)*.

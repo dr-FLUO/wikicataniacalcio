@@ -1,25 +1,31 @@
 ---
-title: "Archivio Storico dei Precedenti per Club Avversario"
-description: "Bilanci storici, statistiche comparative, vittorie memorabili e precedenti ufficiali del Calcio Catania contro i club italiani ed esteri dal 1929 a oggi."
-slug: "02-cronistoria/partite-storiche/precedenti/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Archivio Storico dei Precedenti per Club Avversario
+description: Bilanci storici, statistiche comparative, vittorie memorabili e precedenti
+  ufficiali del Calcio Catania contro i club italiani ed esteri dal 1929 a oggi.
+slug: 02-cronistoria/partite-storiche/precedenti/index
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "precedenti"
-  - "partite-storiche"
-  - "inter"
-  - "palermo"
-  - "atalanta-u23"
-  - "casarano"
+- precedenti
+- partite-storiche
+- inter
+- palermo
+- atalanta-u23
+- casarano
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Statistiche e confronti diretti del Catania contro i club italiani"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Statistiche e confronti diretti del Catania contro i club italiani
 aliases:
-  - "partite-storiche/precedenti"
+- partite-storiche/precedenti
+- partite/precedenti/index
+- partite-storiche/precedenti/index
+- precedenti/index
+- index
 ---
 
 # Archivio Storico dei Precedenti per Club Avversario

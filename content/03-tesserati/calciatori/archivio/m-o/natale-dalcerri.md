@@ -1,13 +1,13 @@
 ---
 title: Natale Dalcerri — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Natale Dalcerri, centrocampista
-  del Calcio Catania con 7 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Natale Dalcerri, centrocampista del Calcio Catania con 19 presenze
+  e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/natale-dalcerri
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 7
+total_appearances: 19
 seasons_count: 1
 tags:
 - calciatori
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Dalcerri-748
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 748
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -40,30 +39,86 @@ aliases:
 birth_date: '1923-03-15'
 birth_place: San Colombano al Lambro
 citizenship: Italia
+total_goals: 2
+total_assists: 0
+minutes_played: 1710
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Natale Dalcerri — Scheda Giocatore nel Calcio Catania
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Natale Dalcerri</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1923</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>19</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Natale Dalcerri** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 7
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1950-1951** | Attacco | 19 | 2 | 0 | 0 | 0 | 1710' |
+| **TOTALE** | — | **19** | **2** | **0** | **0** | **0** | **1710'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Natale Dalcerri** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1710 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

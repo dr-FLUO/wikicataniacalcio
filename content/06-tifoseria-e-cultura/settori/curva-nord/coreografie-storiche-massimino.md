@@ -1,7 +1,7 @@
 ---
 title: Coreografie Storiche della Curva Nord allo Stadio Massimino
 description: 'Storia, iconografia e analisi scenografica delle coreografie monumentali della Curva Nord del Catania: dal Liotru gigante ai derby di Serie A e alla Coppa Italia.'
-slug: 06-tifoseria-e-cultura/curve/curva-nord/coreografie-storiche-massimino
+slug: 06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino
 entity_type: evento_tifo
 status: verified
 last_verified_date: 2026-10-27
@@ -41,7 +41,9 @@ sources:
   year: 2012
   reference: Speciale Derby e Tifoseria Etnea
 aliases:
-- tifoseria/curva-nord/coreografie-storiche-massimino
+  - "06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino"
+  - "06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino"
+  - "tifoseria/curva-nord/coreografie-storiche-massimino"
 ---
 # Coreografie Storiche della Curva Nord allo Stadio Massimino
 

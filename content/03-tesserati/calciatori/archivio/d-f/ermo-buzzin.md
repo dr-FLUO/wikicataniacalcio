@@ -45,9 +45,56 @@ aliases:
 - calciatori/ermo-buzzin
 ---
 
-
-
 # Ermo Buzzin
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Ermo Buzzin</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1956–1958</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>56</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>16</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Ermo Buzzin** (Ronchi dei Legionari, 14 agosto 1934 – Ronchi dei Legionari, 22 maggio 2018) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato nell'estate del **1956**, fu per due stagioni consecutive il miglior realizzatore del Club Calcio Catania nel campionato di Serie B.
 
@@ -65,15 +112,6 @@ Attaccante agile e opportunista, dotato di eccellente tempismo in area di rigore
 ### La Leadership Offensiva tra il 1956 e il 1958
 
 Nella successiva stagione [[stagioni/1957-1958|1957-1958]] Buzzin si confermò capocannoniere del Catania affiancato al prestigioso capitano Riccardo Carapellese, totalizzando altre 6 reti in 27 presenze e siglando marcature decisive nei derby del Sud.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1956-1958) | 56 | 16 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **56** | **16** | — | — |
 
 ---
 

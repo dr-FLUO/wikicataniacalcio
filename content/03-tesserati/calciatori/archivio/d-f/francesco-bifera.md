@@ -1,11 +1,11 @@
 ---
 title: Francesco Bifera — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco Bifera, portiere
-  del Calcio Catania con 33 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco Bifera, portiere del Calcio Catania con 33 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-bifera
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
 total_appearances: 33
 seasons_count: 1
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/251_francesco-bifera.jpg
 image_credits:
 - image_path: assets/images/players/251_francesco-bifera.jpg
-  alt_text: Ritratto del calciatore Francesco Bifera in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Francesco Bifera in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - francesco-bifera
 - tesserati/francesco-bifera
 - calciatori/francesco-bifera
+total_goals: 0
+total_assists: 0
+minutes_played: 2970
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Francesco Bifera — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Francesco Bifera in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/251_francesco-bifera.jpg)
-*Ritratto del calciatore Francesco Bifera in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/251_francesco-bifera.jpg" alt="Francesco Bifera" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Francesco Bifera</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>33</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Francesco Bifera** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 33
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1997-1998** | Portiere | 33 | 0 | 0 | 0 | 0 | 2970' |
+| **TOTALE** | — | **33** | **0** | **0** | **0** | **0** | **2970'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Francesco Bifera** ha collezionato complessivamente **33 presenze ufficiali**, disputando **2970 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

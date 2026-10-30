@@ -1,13 +1,13 @@
 ---
 title: Giovanni Simonini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giovanni Simonini, difensore
-  del Calcio Catania con 101 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Giovanni Simonini, difensore del Calcio Catania con 113 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/giovanni-simonini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 101
+total_appearances: 113
 seasons_count: 4
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/549_giovanni-simonini.jpg
 image_credits:
 - image_path: assets/images/players/549_giovanni-simonini.jpg
-  alt_text: Ritratto del calciatore Giovanni Simonini in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Giovanni Simonini in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,86 @@ aliases:
 birth_date: '1949-04-18'
 birth_place: Castelvetro di Modena
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 9775
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Giovanni Simonini — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Giovanni Simonini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/549_giovanni-simonini.jpg)
-*Ritratto del calciatore Giovanni Simonini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/549_giovanni-simonini.jpg" alt="Giovanni Simonini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Giovanni Simonini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1949</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>113</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giovanni Simonini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 101
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1971-1972** | Terzino destro | 40 | 0 | 0 | 0 | 0 | 3600' |
+| **1972-1973** | Terzino destro | 25 | 0 | 0 | 0 | 0 | 2096' |
+| **1973-1974** | Terzino destro | 24 | 0 | 0 | 0 | 0 | 1997' |
+| **1974-1975** | Terzino destro | 24 | 1 | 0 | 1 | 2 | 2082' |
+| **TOTALE** | — | **113** | **1** | **0** | **1** | **2** | **9775'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Giovanni Simonini** ha collezionato complessivamente **113 presenze ufficiali**, disputando **9775 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

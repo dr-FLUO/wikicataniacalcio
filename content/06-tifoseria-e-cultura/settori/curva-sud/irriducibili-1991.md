@@ -1,7 +1,7 @@
 ---
 title: "Irriducibili Curva Sud (1991)"
 description: "Dossier storico sul gruppo Irriducibili (I.R.A.) della Curva Sud: la nascita da Primo Amore nel 1991, la guida del settore meridionale e l'unione in Estrema Appartenenza."
-slug: "06-tifoseria-e-cultura/curve/curva-sud/irriducibili-1991"
+slug: "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
 entity_type: "gruppo_ultras"
 foundation_year: 1991
 origin_district: "San Cristoforo, Librino, Villaggio Sant'Agata, Via Plebiscito (Catania)"
@@ -28,12 +28,14 @@ sources:
     year: 2016
     reference: "Il ruolo degli Irriducibili nella Curva Sud"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
+  - "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
   - "tifoseria/curva-sud/irriducibili-1991"
 ---
 
 # Irriducibili Curva Sud (1991)
 
-Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.A. - Irriducibili RossAzzurri**) costituiscono dal **1991** la colonna portante della [[06-tifoseria-e-cultura/curve/curva-sud/index|Curva Sud]] dello Stadio Cibali / Angelo Massimino.
+Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.A. - Irriducibili RossAzzurri**) costituiscono dal **1991** la colonna portante della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali / Angelo Massimino.
 
 ---
 
@@ -47,7 +49,7 @@ Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.
 
 ## 2. Momenti Storici e Scissioni
 
-- **La Scissione dell'A.N.R. (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
+- **La Scissione dell'A.N.R. (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
 - **La Presenza in Trasferta:** Gli Irriducibili hanno costruito la propria reputazione sulla presenza costante su ogni campo: dai gironi infernali della Serie C2 fino ai palcoscenici della Serie A, garantendo una scorta vocale continua ai colori rossazzurri.
 
 ---
@@ -55,7 +57,7 @@ Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.
 ## 3. L'Adesione alla Tessera e l'Unione con la Falange (2015)
 
 Nell'estate del 2015, di fronte alla retrocessione in Serie C e ai divieti di trasferta, gli Irriducibili decisero di privilegiare il presenzialismo fisico al fianco della squadra, sottoscrivendo la Tessera del Tifoso:
-- La scelta portò all'accoglienza in Curva Sud della storica [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]], con cui venne siglato un patto d'azione unitario per le trasferte sotto lo striscione [[06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
+- La scelta portò all'accoglienza in Curva Sud della storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], con cui venne siglato un patto d'azione unitario per le trasferte sotto lo striscione [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
 
 ---
 

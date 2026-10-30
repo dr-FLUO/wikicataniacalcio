@@ -45,9 +45,56 @@ aliases:
 - calciatori/goffredo-romani
 ---
 
-
-
 # Goffredo Romani
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Goffredo Romani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1926</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1949–1950</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>37</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>11</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Goffredo Romani** (Roma, 19 maggio 1926 – Roma, 14 gennaio 2008) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1949** per affrontare il ritorno in Serie B dopo gli anni di gavetta post-bellica, fu il capocannoniere e punto di riferimento offensivo della [[stagioni/1949-1950|Stagione 1949-1950]].
 
@@ -65,15 +112,6 @@ Sotto la guida tecnica dell'ex juventino Mario Varglien, Romani disputò 37 dell
 ### Il Campionato di Serie B 1949-1950
 
 Tra le sue prestazioni più brillanti della stagione 1949-1950 spiccano le doppiette rifilate all'Arsenaltaranto e all'Empoli, nonché il gol decisivo nel match interno contro il Brescia. Il suo contributo permise al Catania di chiudere al dodicesimo posto finale, ponendo le basi per il ciclo di vertice degli anni Cinquanta.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1949-1950) | 37 | 11 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **37** | **11** | — | — |
 
 ---
 

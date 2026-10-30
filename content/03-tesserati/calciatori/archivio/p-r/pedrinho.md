@@ -1,21 +1,21 @@
 ---
 title: Pedrinho — Il Terzino Mondiale della Seleção e Cecchino su Punizione (1983-1985)
-description: Biografia e statistiche di Pedrinho, terzino sinistro brasiliano della
-  Seleção a Spagna '82, autore di 10 reti con il Catania tra Serie A e Serie B.
+description: Biografia, presenze e statistiche ufficiali di Pedrinho, difensore / terzino sinistro del Calcio Catania con
+  102 presenze e 12 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pedrinho
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1957-10-22
 birth_place: Santo André, Brasile
 nationality: Brasile
 role: Difensore / Terzino sinistro
 catania_periods:
 - 1983-1985
-total_appearances: 56
+total_appearances: 102
 league_appearances: 51
 serie_a_appearances: 27
-total_goals: 10
+total_goals: 12
 league_goals: 10
 serie_a_goals: 3
 club_entities:
@@ -35,8 +35,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pedrinho
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -53,9 +52,63 @@ aliases:
 - tesserati/pedrinho
 - calciatori/pedrinho
 citizenship: Brasile
+total_assists: 0
+minutes_played: 8377
+seasons_count: 3
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Pedrinho
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Pedrinho</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1957</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1983–1985</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>102</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pedrinho**, all'anagrafe **Pedro Luís Vicençote** (Santo André, 22 ottobre 1957), è un ex calciatore brasiliano, nel ruolo di terzino sinistro. Giunto a Catania nell'estate del **1983** dal Vasco da Gama per rinforzare il Catania neopromosso in Serie A di Gianni Di Marzio, è stato uno dei più celebri calciatori internazionali ad aver vestito la maglia rossazzurra.
 
@@ -76,15 +129,18 @@ Dopo la retrocessione del 1984, Pedrinho decise di rimanere a Catania in Serie B
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1983-1985) | 51 | 10 | Difensore / Terzino sinistro | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| Coppe Nazionali / Spareggi | 5 | 0 | Difensore / Terzino sinistro | Gare ufficiali |
-| **Totale Complessivo** | **56** | **10** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1982-1983** | Terzino sinistro | 32 | 3 | 0 | 0 | 0 | 2852' |
+| **1983-1984** | Terzino sinistro | 40 | 8 | 0 | 0 | 1 | 3508' |
+| **1984-1985** | Terzino sinistro | 30 | 1 | 0 | 0 | 0 | 2017' |
+| **TOTALE** | — | **102** | **12** | **0** | **0** | **1** | **8377'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pedrinho** ha collezionato complessivamente **102 presenze ufficiali**, disputando **8377 minuti** di gioco effettivo, siglando **12 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pedrinho](https://it.wikipedia.org/wiki/Pedrinho)*.

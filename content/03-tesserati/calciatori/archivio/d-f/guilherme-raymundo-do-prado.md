@@ -49,8 +49,51 @@ citizenship: Brasile
 
 # Guilherme Raymundo do Prado — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Guilherme Raymundo do Prado in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp)
-*Ritratto del calciatore Guilherme Raymundo do Prado in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp" alt="Guilherme Raymundo do Prado" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Guilherme Raymundo do Prado</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1981</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>20</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Guilherme Raymundo do Prado** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista Offensivo**.
 
@@ -60,24 +103,3 @@ Trequartista brasiliano di grande eleganza e visione di gioco (Guly do Prado). A
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2002-2003, totalizzando **20 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
-
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista Offensivo |
-| **Presenze Totali Ufficiali** | 20 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (2002-2003) |
-| **Nazionalità Sportiva** | Brasile |
-| **Luogo e Data di Nascita** | Campinas, Brasile (1981-12-31) |
-
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Guilherme Raymundo do Prado](https://it.wikipedia.org/wiki/Guilherme_Raymundo_do_Prado) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.

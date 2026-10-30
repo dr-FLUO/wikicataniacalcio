@@ -47,8 +47,51 @@ citizenship: Mali
 
 # Aboubacar Sankharé — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Aboubacar Sankharé in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/aboubacar-sankhare.webp)
-*Ritratto del calciatore Aboubacar Sankharé in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/aboubacar-sankhare.webp" alt="Aboubacar Sankharé" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Aboubacar Sankharé</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1978</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Mali / Francia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Aboubacar Sankharé** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
@@ -58,24 +101,3 @@ Difensore maliano con passaporto francese, possente e roccioso. Ingaggiato dal C
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando **18 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
-
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Difensore |
-| **Presenze Totali Ufficiali** | 18 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (2001-2002) |
-| **Nazionalità Sportiva** | Mali / Francia |
-| **Luogo e Data di Nascita** | Parigi, Francia (1978-01-17) |
-
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Aboubacar Sankharé](https://it.wikipedia.org/wiki/Aboubacar_Sankhar%C3%A9) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.

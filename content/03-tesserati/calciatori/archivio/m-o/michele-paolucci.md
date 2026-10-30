@@ -1,13 +1,13 @@
 ---
 title: Michele Paolucci — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Michele Paolucci, attaccante
-  del Calcio Catania con 43 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Michele Paolucci, attaccante del Calcio Catania con 48 presenze
+  e 14 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/michele-paolucci
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 43
+total_appearances: 48
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/83_michele-paolucci.jpg
 image_credits:
 - image_path: /assets/images/calciatori/michele-paolucci.jpg
-  alt_text: 'Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,86 @@ aliases:
 birth_date: '1986-02-06'
 birth_place: Torino
 citizenship: Italia
+total_goals: 14
+total_assists: 2
+minutes_played: 2892
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Michele Paolucci — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/michele-paolucci.jpg)
-*Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/83_michele-paolucci.jpg" alt="Michele Paolucci" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Michele Paolucci</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1986</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>48</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>14</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Michele Paolucci — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Michele Paolucci** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 43
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2007-2008** | Punta centrale | 28 | 9 | 2 | 3 | 0 | 1753' |
+| **2015-2016** | Punta centrale | 20 | 5 | 0 | 2 | 0 | 1139' |
+| **TOTALE** | — | **48** | **14** | **2** | **5** | **0** | **2892'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Michele Paolucci** ha collezionato complessivamente **48 presenze ufficiali**, disputando **2892 minuti** di gioco effettivo, siglando **14 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

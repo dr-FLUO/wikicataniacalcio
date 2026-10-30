@@ -45,9 +45,56 @@ aliases:
 - calciatori/romano-schillani
 ---
 
-
-
 # Romano Schillani
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Romano Schillani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1914</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1940–1942</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>54</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Romano Schillani** (Trieste, 20 aprile 1914 – Trieste, 15 agosto 1989) è stato un calciatore italiano, nel ruolo di mediano e centrocampista metodista. Giunto in Sicilia nell'autunno del **1940**, rappresentò la colonna portante dell'AFC Catania nel difficile biennio bellico 1940-1942.
 
@@ -65,16 +112,6 @@ Nonostante il ruolo prettamente difensivo e di costruzione in mediana, Schillani
 ### Il Biennio Bellico al Cibali
 
 In un contesto segnato dai bombardamenti e dalle restrizioni belliche, Schillani disputò due stagioni ad altissimo rendimento: dopo le 7 reti del 1940-1941, nella stagione 1941-1942 collezionò altre 28 gare e 5 reti a supporto del centravanti austriaco Engelbert Koenig, confermandosi tra i mediani più apprezzati dell'epoca.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1940-1942) | 50 | 12 | Centrocampista / Mediano | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
-| Coppe Nazionali / Spareggi | 4 | 0 | Centrocampista / Mediano | Gare ufficiali |
-| **Totale Complessivo** | **54** | **12** | — | — |
 
 ---
 

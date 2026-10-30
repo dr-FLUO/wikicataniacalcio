@@ -1,12 +1,11 @@
 ---
-title: Michele Manenti — Il Centravanti della Prima Storica Promozione in Serie A
-  (1954)
-description: Biografia e statistiche di Michele Manenti, bomber con 15 reti nella
-  Serie B 1953-1954 che portò il Catania per la prima volta nella massima serie.
+title: Michele Manenti — Il Centravanti della Prima Storica Promozione in Serie A (1954)
+description: Biografia, presenze e statistiche ufficiali di Michele Manenti, attaccante / centravanti del Calcio Catania con
+  54 presenze e 19 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/michele-manenti
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1928-10-28
 death_date: 1988-08-30
 birth_place: Milano, Italia
@@ -15,10 +14,10 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1953-1955
-total_appearances: 62
+total_appearances: 54
 league_appearances: 62
 serie_a_appearances: 28
-total_goals: 24
+total_goals: 19
 league_goals: 24
 serie_a_goals: 9
 club_entities:
@@ -37,8 +36,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Michele_Manenti
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -56,19 +54,67 @@ aliases:
 - calciatori/michele-manenti
 image_credits:
 - image_path: /assets/images/calciatori/michele-manenti.jpg
-  alt_text: 'Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Regno d'Italia
 seasons_count: 2
+total_assists: 0
+minutes_played: 4860
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Michele Manenti
 
-![Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/michele-manenti.jpg)
-*Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/michele-manenti.jpg" alt="Michele Manenti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Michele Manenti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1928</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1953–1955</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>54</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>19</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Michele Manenti** (Milano, 28 ottobre 1928 – Milano, 30 agosto 1988) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1953**, entrò per sempre nella leggenda rossazzurra come il capocannoniere e trascinatore della prima storica promozione in **Serie A** nella [[stagioni/1953-1954|Stagione 1953-1954]].
@@ -90,14 +136,17 @@ Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patr
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1953-1955) | 62 | 24 | Attaccante / Centravanti | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **62** | **24** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1952-1953** | Centrocampo | 29 | 16 | 0 | 0 | 0 | 2610' |
+| **1953-1954** | Centrocampo | 25 | 3 | 0 | 0 | 0 | 2250' |
+| **TOTALE** | — | **54** | **19** | **0** | **0** | **0** | **4860'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Michele Manenti** ha collezionato complessivamente **54 presenze ufficiali**, disputando **4860 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michele Manenti](https://it.wikipedia.org/wiki/Michele_Manenti)*.

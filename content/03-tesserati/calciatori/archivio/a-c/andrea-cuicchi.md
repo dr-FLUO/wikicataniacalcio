@@ -1,11 +1,11 @@
 ---
 title: Andrea Cuicchi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Cuicchi, difensore
-  del Calcio Catania con 22 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea Cuicchi, difensore del Calcio Catania con 22 presenze e
+  1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-cuicchi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 total_appearances: 22
 seasons_count: 2
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Cuicchi-413
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 413
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -39,42 +38,94 @@ aliases:
 - calciatori/andrea-cuicchi
 image_credits:
 - image_path: /assets/images/calciatori/andrea-cuicchi.jpg
-  alt_text: 'Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 birth_date: '1967-11-29'
 birth_place: Serra San Quirico
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 1296
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea Cuicchi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/andrea-cuicchi.jpg)
-*Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/andrea-cuicchi.jpg" alt="Andrea Cuicchi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea Cuicchi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1967</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>22</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Andrea Cuicchi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Andrea Cuicchi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 22
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1986-1987** | Libero | 16 | 1 | 0 | 0 | 0 | 896' |
+| **1987-1988** | Libero | 6 | 0 | 0 | 0 | 0 | 400' |
+| **TOTALE** | — | **22** | **1** | **0** | **0** | **0** | **1296'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea Cuicchi** ha collezionato complessivamente **22 presenze ufficiali**, disputando **1296 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

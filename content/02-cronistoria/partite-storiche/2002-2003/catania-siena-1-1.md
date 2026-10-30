@@ -49,6 +49,9 @@ sources:
     Martinelli
 aliases:
 - partite/2002-2003/catania-siena-1-1
+- partite-storiche/2002-2003/catania-siena-1-1
+- 2002-2003/catania-siena-1-1
+- catania-siena-1-1
 ---
 
 

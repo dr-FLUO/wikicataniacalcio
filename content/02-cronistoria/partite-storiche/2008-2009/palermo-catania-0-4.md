@@ -1,6 +1,9 @@
 ---
-title: Palermo-Catania 0-4 (1º marzo 2009) — Il Trionfo del Barbera e il Gol da Centrocampo di Mascara
-description: 'Tabellino e cronaca storica di Palermo-Catania 0-4 del 1º marzo 2009 (Serie A 2008-2009): le reti di Ledesma, Morimoto, Paolucci e il leggendario gol da 50 metri di Giuseppe Mascara.'
+title: Palermo-Catania 0-4 (1º marzo 2009) — Il Trionfo del Barbera e il Gol da Centrocampo
+  di Mascara
+description: 'Tabellino e cronaca storica di Palermo-Catania 0-4 del 1º marzo 2009
+  (Serie A 2008-2009): le reti di Ledesma, Morimoto, Paolucci e il leggendario gol
+  da 50 metri di Giuseppe Mascara.'
 slug: 02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4
 entity_type: tabellino_gara
 match_date: 2009-03-01
@@ -38,25 +41,31 @@ tags:
 status: verified
 last_verified_date: 2026-10-27
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: Capitolo Stagione 2008-2009, Tabellino 26ª giornata (01/03/2009), pp. 476-481
+  reference: Capitolo Stagione 2008-2009, Tabellino 26ª giornata (01/03/2009), pp.
+    476-481
 - author: Lega Nazionale Professionisti
-  title: 'Referto ufficiale Serie A TIM 2008-2009 — 26ª giornata: Palermo-Catania 0-4'
+  title: 'Referto ufficiale Serie A TIM 2008-2009 — 26ª giornata: Palermo-Catania
+    0-4'
   publisher: Lega Calcio
   year: 2009
   reference: Gara dell'1 marzo 2009
 image_credits:
-- image_path: 'assets/images/partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp'
-  alt_text: "Giuseppe Mascara festeggiato dopo il capolavoro balistico da 50 metri"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp
+  alt_text: Giuseppe Mascara festeggiato dopo il capolavoro balistico da 50 metri
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: 'Creative Commons CC BY-SA 4.0 al Barbera'
+  license_type: Creative Commons CC BY-SA 4.0 al Barbera
 image: assets/images/partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp
 aliases:
 - partite/2008-2009/palermo-catania-0-4
+- partite-storiche/2008-2009/palermo-catania-0-4
+- 2008-2009/palermo-catania-0-4
+- palermo-catania-0-4
 ---
 ![Giuseppe Mascara festeggiato dopo il capolavoro balistico da 50 metri al Barbera](/assets/images/partite-storiche/palermo-catania-0-4-gol-centrocampo-mascara-serie-a-2008-2009.webp)
 

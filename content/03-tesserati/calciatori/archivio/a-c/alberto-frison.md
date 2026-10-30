@@ -1,14 +1,14 @@
 ---
 title: Alberto Frison — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Alberto Frison, portiere
-  del Calcio Catania con 33 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Alberto Frison, portiere del Calcio Catania con 36 presenze e
+  0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/alberto-frison
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
-total_appearances: 33
-seasons_count: 3
+total_appearances: 36
+seasons_count: 4
 tags:
 - calciatori
 - alberto-frison
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/795_alberto-frison.jpg
 image_credits:
 - image_path: /assets/images/calciatori/alberto-frison.jpg
-  alt_text: 'Ritratto ufficiale di Alberto Frison — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Alberto Frison — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,88 @@ aliases:
 birth_date: '1988-01-22'
 birth_place: Mirano
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 3255
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alberto Frison — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Alberto Frison — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alberto-frison.jpg)
-*Ritratto ufficiale di Alberto Frison — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/795_alberto-frison.jpg" alt="Alberto Frison" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alberto Frison</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1988</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>36</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Alberto Frison — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Alberto Frison** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 33
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2011-2012** | Portiere | 7 | 0 | 0 | 3 | 0 | 690' |
+| **2012-2013** | Portiere | 14 | 0 | 0 | 2 | 0 | 1260' |
+| **2013-2014** | Portiere | 15 | 0 | 0 | 1 | 0 | 1305' |
+| **2014-2015** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **36** | **0** | **0** | **6** | **0** | **3255'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alberto Frison** ha collezionato complessivamente **36 presenze ufficiali**, disputando **3255 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

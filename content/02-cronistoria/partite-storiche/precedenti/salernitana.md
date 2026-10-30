@@ -31,6 +31,9 @@ sources:
   reference: Aggiornamento statistico Serie C / Serie B
 aliases:
 - partite/precedenti/salernitana
+- partite-storiche/precedenti/salernitana
+- precedenti/salernitana
+- salernitana
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Tomáš Košický — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Tomáš Košický, portiere del Calcio Catania
-  con 8 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Tomas Kosicky, portiere del Calcio Catania con 10 presenze e 0
+  gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/tomas-kosicky
 entity_type: calciatore
 status: verified
@@ -11,7 +11,7 @@ birth_date: '1986-03-11'
 birth_place: Bratislava, Slovacchia
 death_date: ''
 nationality: Slovacchia
-total_appearances: 8
+total_appearances: 10
 seasons_count: 4
 tags:
 - calciatori
@@ -53,12 +53,60 @@ aliases:
 - calciatori/tomàs-kosicky
 - 03-tesserati/calciatori/archivio/s-z/tomàs-kosicky
 citizenship: Slovacchia
+total_goals: 0
+total_assists: 1
+minutes_played: 777
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Tomáš Košický — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp)
-*Ritratto del calciatore Tomáš Košický in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp" alt="Tomáš Košický" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Tomáš Košický</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1986</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Slovacchia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Tomáš Košický** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
@@ -68,28 +116,15 @@ Portiere slovacco, nel giro della Nazionale del suo Paese. Ha fatto parte della 
 
 Ha vestito la maglia rossazzurra nel periodo 2008-2012.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo** | Portiere |
-| **Presenze ufficiali complessive** | 8 |
-| **Stagioni disputate** | 4 |
-| **Nazionalità sportiva** | Slovacchia |
-| **Data e luogo di nascita** | 1986-03-11 — Bratislava, Slovacchia |
-| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2007-2008** | Portiere | 6 | 0 | 0 | 0 | 0 | 540' |
+| **2008-2009** | Portiere | 1 | 0 | 0 | 0 | 0 | 34' |
+| **2009-2010** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2010-2011** | Portiere | 3 | 0 | 1 | 0 | 0 | 203' |
+| **TOTALE** | — | **10** | **0** | **1** | **0** | **0** | **777'** |
 
-> [!note] Fonte statistica
-> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Kosicky-28)).
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Tomáš Košický*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD](https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD).
-2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Tomàs Kosicky*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Kosicky-28](https://www.calciocatania.com/giocatori/giocatori.php?Kosicky-28).
-3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Tomas Kosicky** ha collezionato complessivamente **10 presenze ufficiali**, disputando **777 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.

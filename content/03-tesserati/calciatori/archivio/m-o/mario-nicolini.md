@@ -40,6 +40,55 @@ citizenship: Italia
 
 # Mario Nicolini — Scheda Giocatore nel Calcio Catania
 
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mario Nicolini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1912</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Mario Nicolini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
@@ -48,23 +97,3 @@ Nato a Sassuolo (1912-06-25), Mario Nicolini ha militato tra le file della forma
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
-
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1912-06-25 — Sassuolo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Mario Nicolini](https://it.wikipedia.org/wiki/Mario_Nicolini_(1912)) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).

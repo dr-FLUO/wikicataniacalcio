@@ -1,13 +1,13 @@
 ---
 title: Giuseppe Caccavallo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giuseppe Caccavallo, attaccante
-  del Calcio Catania con 4 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Giuseppe Caccavallo, attaccante del Calcio Catania con 5 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/giuseppe-caccavallo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 4
+total_appearances: 5
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1027_giuseppe-caccavallo.jpg
 image_credits:
 - image_path: assets/images/players/1027_giuseppe-caccavallo.jpg
-  alt_text: Ritratto del calciatore Giuseppe Caccavallo in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Giuseppe Caccavallo in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,83 @@ aliases:
 - giuseppe-caccavallo
 - tesserati/giuseppe-caccavallo
 - calciatori/giuseppe-caccavallo
+total_goals: 0
+total_assists: 0
+minutes_played: 177
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Giuseppe Caccavallo — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Giuseppe Caccavallo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1027_giuseppe-caccavallo.jpg)
-*Ritratto del calciatore Giuseppe Caccavallo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1027_giuseppe-caccavallo.jpg" alt="Giuseppe Caccavallo" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Giuseppe Caccavallo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giuseppe Caccavallo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 4
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2016-2017** | Ala destra | 5 | 0 | 0 | 1 | 0 | 177' |
+| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **177'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Giuseppe Caccavallo** ha collezionato complessivamente **5 presenze ufficiali**, disputando **177 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

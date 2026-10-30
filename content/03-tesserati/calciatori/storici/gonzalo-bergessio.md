@@ -1,15 +1,14 @@
 ---
-title: Gonzalo Bergessio — «El Lavandina», Primatista di Reti del Catania in Serie
-  A (35)
-description: Biografia e statistiche di Gonzalo Bergessio, primatista assoluto di
-  reti del Calcio Catania in Serie A con 35 gol (37 totali) tra il 2011 e il 2014.
+title: Gonzalo Bergessio — «El Lavandina», Primatista di Reti del Catania in Serie A (35)
+description: Biografia, presenze e statistiche ufficiali di Gonzalo Bergessio, attaccante (centravanti) del Calcio Catania
+  con 113 presenze e 37 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/gonzalo-bergessio
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1984-07-20
+last_verified_date: '2026-10-30'
+birth_date: '1984-07-20'
 birth_place: Córdoba, Argentina
-nationality: Argentina / Italia
+nationality: Argentina
 role: Attaccante (Centravanti)
 shirt_number: 9
 catania_periods:
@@ -42,13 +41,11 @@ sources:
   year: 2014
   reference: 109 presenze e 35 reti in Serie A, 4 presenze e 2 reti in Coppa Italia
 - author: Roberto Quartarone, Alessandro Russo
-  title: Gonzalo Bergessio, il bomber più prolifico della storia rossazzurra in Serie
-    A
+  title: Gonzalo Bergessio, il bomber più prolifico della storia rossazzurra in Serie A
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2014
-  reference: Analisi del sorpasso su Giuseppe Mascara (35 reti contro 31 in Serie
-    A)
+  reference: Analisi del sorpasso su Giuseppe Mascara (35 reti contro 31 in Serie A)
 - author: Archivio Storico CalcioCatania.com
   title: Scheda anagrafica e statistiche ufficiali di Gonzalo  Bergessio
   publisher: calciocatania.com
@@ -56,8 +53,7 @@ sources:
   reference: 'ID 16: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Bergessio-16
 cover_image: gonzalo-bergessio.jpg
-cover_caption: Gonzalo Rubén Bergessio («El Lavandina»), capocannoniere in Serie A
-  del Catania moderno con 35 reti.
+cover_caption: Gonzalo Rubén Bergessio («El Lavandina»), capocannoniere in Serie A del Catania moderno con 35 reti.
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/calciatori/gonzalo-bergessio
@@ -66,22 +62,72 @@ aliases:
 - calciatori/gonzalo-bergessio
 image_credits:
 - image_path: /assets/images/calciatori/gonzalo-bergessio.jpg
-  alt_text: 'Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Argentina
+height: 178 cm
+foot: Sinistro
+total_assists: 14
+minutes_played: 8992
+seasons_count: 4
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Gonzalo Bergessio
 
-![Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gonzalo-bergessio.jpg)
-*Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/gonzalo-bergessio.jpg" alt="Gonzalo Bergessio" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gonzalo Bergessio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1984</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>178 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2011–2014</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>113</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>37</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>14</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Gonzalo Rubén Bergessio**, soprannominato **"El Lavandina"** o **"El Toro"** (Córdoba, 20 luglio 1984), è un ex calciatore argentino, di ruolo centravanti. È il **primatista assoluto di reti con la maglia del Catania in Serie A con 35 gol in massima serie** (e **37 reti complessive** in **113 presenze ufficiali** includendo la Coppa Italia), primato stabilito tra il gennaio **2011** e il maggio **2014** durante l'apogeo del *"Catania degli Argentini"* nell'[[societa/2004-era-pulvirenti|Era Pulvirenti]].
-
 
 ## Dall'Arrivo con Simeone all'Esplosione con Montella e Maran (2011–2013)
 
@@ -107,7 +153,6 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 | **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/rolando-maran\|R. Maran]], L. De Canio, M. Pellegrino | 30 | 10 | 0 (0) | **30 (10)** |
 | **Totale Carriera** | **4 Stagioni in Rossazzurro** | **Serie A** | — | **109** | **35** | **4 (2)** | **113 (37)** |
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -120,6 +165,20 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 - **Stagione d'Oro:** Capocannoniere rossazzurro nella [[stagioni/2012-2013|Stagione 2012-2013]] con **13 reti in Serie A** (e 2 in Coppa Italia), trascinando la squadra di [[tesserati/allenatori/rolando-maran|Rolando Maran]] al record storico di **56 punti (8º posto)**.
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2009-2010** | Punta centrale | 13 | 5 | 2 | 2 | 0 | 1058' |
+| **2010-2011** | Punta centrale | 34 | 7 | 4 | 2 | 0 | 2568' |
+| **2011-2012** | Punta centrale | 36 | 15 | 5 | 9 | 0 | 2942' |
+| **2012-2013** | Punta centrale | 30 | 10 | 3 | 7 | 0 | 2424' |
+| **TOTALE** | — | **113** | **37** | **14** | **20** | **0** | **8992'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Gonzalo Bergessio** ha collezionato complessivamente **113 presenze ufficiali**, disputando **8992 minuti** di gioco effettivo, siglando **37 gol** e servendo **14 assist** distribuiti su **4 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Gonzalo Bergessio](https://it.wikipedia.org/wiki/Gonzalo_Bergessio)*.

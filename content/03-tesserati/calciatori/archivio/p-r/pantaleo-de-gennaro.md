@@ -1,13 +1,13 @@
 ---
 title: Pantaleo De Gennaro — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pantaleo De Gennaro, difensore
-  del Calcio Catania con 41 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Pantaleo De Gennaro, difensore del Calcio Catania con 45 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pantaleo-de-gennaro
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 41
+total_appearances: 45
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/524_pantaleo-de-gennaro.jpg
 image_credits:
 - image_path: assets/images/players/524_pantaleo-de-gennaro.jpg
-  alt_text: Ritratto del calciatore Pantaleo De Gennaro in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Pantaleo De Gennaro in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,84 @@ aliases:
 birth_date: '1954-11-27'
 birth_place: Molfetta
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 3811
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Pantaleo De Gennaro — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Pantaleo De Gennaro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/524_pantaleo-de-gennaro.jpg)
-*Ritratto del calciatore Pantaleo De Gennaro in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/524_pantaleo-de-gennaro.jpg" alt="Pantaleo De Gennaro" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Pantaleo De Gennaro</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1954</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>45</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pantaleo De Gennaro** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 41
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1975-1976** | Terzino sinistro | 23 | 1 | 0 | 0 | 0 | 1831' |
+| **1976-1977** | Terzino sinistro | 22 | 0 | 0 | 0 | 0 | 1980' |
+| **TOTALE** | — | **45** | **1** | **0** | **0** | **0** | **3811'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pantaleo De Gennaro** ha collezionato complessivamente **45 presenze ufficiali**, disputando **3811 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

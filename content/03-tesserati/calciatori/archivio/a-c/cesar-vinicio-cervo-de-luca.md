@@ -48,8 +48,51 @@ citizenship: Brasile
 
 # César Vinício Cervo de Luca — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore César Vinício Cervo de Luca in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg)
-*Ritratto del calciatore César Vinício Cervo de Luca in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/cesar-vinicio-cervo-de-luca.jpg" alt="César Vinício Cervo de Luca" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>César Vinício Cervo de Luca</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **César Vinício Cervo de Luca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
@@ -59,23 +102,3 @@ Nato a Rio de Janeiro (1979-05-19), César Vinício Cervo de Luca ha militato tr
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
-
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Difensore |
-| **Nazionalità Sportiva** | Brasile |
-| **Data e Luogo di Nascita** | 1979-05-19 — Rio de Janeiro |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — César Vinício Cervo de Luca](https://it.wikipedia.org/wiki/C%C3%A9sar_Vin%C3%ADcio_Cervo_de_Luca) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).

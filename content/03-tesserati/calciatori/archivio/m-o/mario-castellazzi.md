@@ -1,13 +1,13 @@
 ---
 title: Mario Castellazzi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Mario Castellazzi, centrocampista
-  del Calcio Catania con 51 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Mario Castellazzi, centrocampista del Calcio Catania con 52 presenze
+  e 9 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/mario-castellazzi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 51
+total_appearances: 52
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/667_mario-castellazzi.jpg
 image_credits:
 - image_path: assets/images/players/667_mario-castellazzi.jpg
-  alt_text: Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,84 @@ aliases:
 birth_date: '1935-11-09'
 birth_place: Finale Emilia
 citizenship: Regno d'Italia
+total_goals: 9
+total_assists: 0
+minutes_played: 4680
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Mario Castellazzi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/667_mario-castellazzi.jpg)
-*Ritratto del calciatore Mario Castellazzi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/667_mario-castellazzi.jpg" alt="Mario Castellazzi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mario Castellazzi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1935</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Regno d'Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>52</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Mario Castellazzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 51
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1959-1960** | Attacco | 28 | 6 | 0 | 0 | 0 | 2520' |
+| **1960-1961** | Attacco | 24 | 3 | 0 | 0 | 0 | 2160' |
+| **TOTALE** | — | **52** | **9** | **0** | **0** | **0** | **4680'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Mario Castellazzi** ha collezionato complessivamente **52 presenze ufficiali**, disputando **4680 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

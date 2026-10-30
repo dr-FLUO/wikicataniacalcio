@@ -1,13 +1,13 @@
 ---
 title: Maurizio Longobardo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Maurizio Longobardo, difensore
-  del Calcio Catania con 60 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Maurizio Longobardo, difensore del Calcio Catania con 104 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/maurizio-longobardo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 60
+total_appearances: 104
 seasons_count: 4
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/436_maurizio-longobardo.jpg
 image_credits:
 - image_path: assets/images/players/436_maurizio-longobardo.jpg
-  alt_text: Ritratto del calciatore Maurizio Longobardo in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Maurizio Longobardo in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,86 @@ aliases:
 birth_date: '1960-09-12'
 birth_place: Milano
 citizenship: Italia
+total_goals: 3
+total_assists: 0
+minutes_played: 8472
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Maurizio Longobardo — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Maurizio Longobardo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/436_maurizio-longobardo.jpg)
-*Ritratto del calciatore Maurizio Longobardo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/436_maurizio-longobardo.jpg" alt="Maurizio Longobardo" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Maurizio Longobardo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1960</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>104</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Maurizio Longobardo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 60
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1983-1984** | Terzino destro | 39 | 2 | 0 | 0 | 1 | 3506' |
+| **1984-1985** | Terzino destro | 36 | 1 | 0 | 0 | 1 | 3065' |
+| **1985-1986** | Terzino destro | 11 | 0 | 0 | 0 | 0 | 686' |
+| **1986-1987** | Terzino destro | 18 | 0 | 0 | 0 | 0 | 1215' |
+| **TOTALE** | — | **104** | **3** | **0** | **0** | **2** | **8472'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Maurizio Longobardo** ha collezionato complessivamente **104 presenze ufficiali**, disputando **8472 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

@@ -1,14 +1,14 @@
 ---
 title: Riccardo Maniero — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Riccardo Maniero, attaccante
-  del Calcio Catania con 19 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Riccardo Maniero, attaccante del Calcio Catania con 22 presenze
+  e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/riccardo-maniero
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 19
-seasons_count: 1
+total_appearances: 22
+seasons_count: 2
 tags:
 - calciatori
 - riccardo-maniero
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Maniero-864
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 864
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -39,42 +38,94 @@ aliases:
 - calciatori/riccardo-maniero
 image_credits:
 - image_path: /assets/images/calciatori/riccardo-maniero.jpg
-  alt_text: 'Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 birth_date: '1987-11-26'
 birth_place: Napoli
 citizenship: Italia
+total_goals: 6
+total_assists: 3
+minutes_played: 1502
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Riccardo Maniero — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-maniero.jpg)
-*Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/riccardo-maniero.jpg" alt="Riccardo Maniero" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Riccardo Maniero</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1987</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>22</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Riccardo Maniero** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 19
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2013-2014** | Punta centrale | 20 | 6 | 3 | 5 | 0 | 1386' |
+| **2014-2015** | Punta centrale | 2 | 0 | 0 | 1 | 0 | 116' |
+| **TOTALE** | — | **22** | **6** | **3** | **6** | **0** | **1502'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Riccardo Maniero** ha collezionato complessivamente **22 presenze ufficiali**, disputando **1502 minuti** di gioco effettivo, siglando **6 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

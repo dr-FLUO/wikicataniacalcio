@@ -1,15 +1,15 @@
 ---
 title: Michael Liguori — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Michael Liguori, attaccante
-  del Calcio Catania con 10 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Michael Liguori, attaccante del Calcio Catania con 10 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/michael-liguori
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 current_squad: true
 total_appearances: 10
-seasons_count: 2
+seasons_count: 3
 tags:
 - calciatori
 - michael-liguori
@@ -29,8 +29,7 @@ sources:
 image: assets/images/players/1024_michael-liguori.jpg
 image_credits:
 - image_path: assets/images/players/1024_michael-liguori.jpg
-  alt_text: Ritratto del calciatore Michael Liguori in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Michael Liguori in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -40,35 +39,93 @@ aliases:
 - michael-liguori
 - tesserati/michael-liguori
 - calciatori/michael-liguori
-birth_date: '1999-01-16'
+birth_date: '1999-04-05'
 citizenship: Italia
+birth_place: San Benedetto del Tronto (AP), Italia
+nationality: Italia
+height: 174 cm
+foot: Sinistro
+catania_periods:
+- 2024-
+total_goals: 1
+total_assists: 1
+minutes_played: 232
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Michael Liguori — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Michael Liguori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1024_michael-liguori.jpg)
-*Ritratto del calciatore Michael Liguori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1024_michael-liguori.jpg" alt="Michael Liguori" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Michael Liguori</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1999</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>174 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**Michael Liguori** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Michael Liguori** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 10
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2017-2018** | Ala destra | 2 | 0 | 0 | 1 | 0 | 15' |
+| **2018-2019** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2025-2026** | Ala destra | 8 | 1 | 1 | 1 | 0 | 217' |
+| **TOTALE** | — | **10** | **1** | **1** | **2** | **0** | **232'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Michael Liguori** ha collezionato complessivamente **10 presenze ufficiali**, disputando **232 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

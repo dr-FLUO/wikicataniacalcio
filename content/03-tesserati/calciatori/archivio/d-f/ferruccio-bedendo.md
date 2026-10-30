@@ -1,18 +1,18 @@
 ---
 title: Ferruccio Bedendo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Ferruccio Bedendo, centrocampista
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Ferruccio Bedendo, centrocampista del Calcio Catania con 5 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/ferruccio-bedendo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 birth_date: '1906-08-12'
 birth_place: Rovigo
 death_date: ''
 nationality: Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 5
+seasons_count: 2
 tags:
 - calciatori
 - ferruccio-bedendo
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Ferruccio_Bedendo
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -36,9 +35,63 @@ aliases:
 - tesserati/ferruccio-bedendo
 - calciatori/ferruccio-bedendo
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 450
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Ferruccio Bedendo — Scheda Giocatore nel Calcio Catania
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Ferruccio Bedendo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1906</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Ferruccio Bedendo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -48,23 +101,13 @@ Nato a Rovigo (1906-08-12), Ferruccio Bedendo ha militato tra le file della form
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1906-08-12 — Rovigo |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1934-1935** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1935-1936** | Difesa | 3 | 0 | 0 | 0 | 0 | 270' |
+| **TOTALE** | — | **5** | **0** | **0** | **0** | **0** | **450'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Ferruccio Bedendo](https://it.wikipedia.org/wiki/Ferruccio_Bedendo) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Ferruccio Bedendo** ha collezionato complessivamente **5 presenze ufficiali**, disputando **450 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

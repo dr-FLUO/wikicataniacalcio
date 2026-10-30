@@ -1,17 +1,17 @@
 ---
 title: Marc Nygaard — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Marc Nygaard, attaccante
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Marc Nygaard, attaccante del Calcio Catania con 12 presenze e
+  3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/marc-nygaard
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1976-09-01'
 birth_place: Copenaghen
 death_date: ''
 nationality: Regno di Danimarca
-total_appearances: 10
+total_appearances: 12
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Marc_Nygaard
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/marc-nygaard
 - calciatori/marc-nygaard
 citizenship: Regno di Danimarca
+total_goals: 3
+total_assists: 0
+minutes_played: 688
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Marc Nygaard — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Marc Nygaard in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/marc-nygaard.jpg)
-*Ritratto del calciatore Marc Nygaard in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/marc-nygaard.jpg" alt="Marc Nygaard" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Marc Nygaard</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1976</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Regno di Danimarca</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Marc Nygaard** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,23 +105,12 @@ Nato a Copenaghen (1976-09-01), Marc Nygaard ha militato tra le file della forma
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Nazionalità Sportiva** | Regno di Danimarca |
-| **Data e Luogo di Nascita** | 1976-09-01 — Copenaghen |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2002-2003** | Punta centrale | 12 | 3 | 0 | 2 | 0 | 688' |
+| **TOTALE** | — | **12** | **3** | **0** | **2** | **0** | **688'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Marc Nygaard](https://it.wikipedia.org/wiki/Marc_Nygaard) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Marc Nygaard** ha collezionato complessivamente **12 presenze ufficiali**, disputando **688 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

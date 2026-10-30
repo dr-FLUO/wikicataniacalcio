@@ -47,8 +47,51 @@ citizenship: Regno d'Italia
 
 # Attilio Ferraris — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Attilio Ferraris in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/attilio-ferraris.jpg)
-*Ritratto del calciatore Attilio Ferraris in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/attilio-ferraris.jpg" alt="Attilio Ferraris" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Attilio Ferraris</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1904</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Regno d'Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Attilio Ferraris** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,23 +101,3 @@ Nato a Roma (1904-03-26), Attilio Ferraris ha militato tra le file della formazi
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
-
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Nazionalità Sportiva** | Regno d'Italia |
-| **Data e Luogo di Nascita** | 1904-03-26 — Roma |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Attilio Ferraris](https://it.wikipedia.org/wiki/Attilio_Ferraris) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).

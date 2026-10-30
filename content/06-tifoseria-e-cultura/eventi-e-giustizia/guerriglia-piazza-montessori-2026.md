@@ -34,7 +34,7 @@ aliases:
 
 # Guerriglia di Piazza Montessori: Lo Scontro Fratricida del 19 Settembre 2026
 
-Nel pomeriggio di sabato **19 settembre 2026**, a poche ore dal calcio d'inizio del match casalingo di Serie C tra Catania e Barletta (terminato 0-0), la città di Catania è stata teatro di un gravissimo scontro fratricida che ha portato al culmine le tensioni latenti maturate nell'ultimo decennio tra la [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]] e la [[06-tifoseria-e-cultura/curve/curva-sud/index|Curva Sud]].
+Nel pomeriggio di sabato **19 settembre 2026**, a poche ore dal calcio d'inizio del match casalingo di Serie C tra Catania e Barletta (terminato 0-0), la città di Catania è stata teatro di un gravissimo scontro fratricida che ha portato al culmine le tensioni latenti maturate nell'ultimo decennio tra la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]].
 
 ---
 

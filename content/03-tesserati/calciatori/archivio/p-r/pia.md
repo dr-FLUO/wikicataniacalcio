@@ -1,17 +1,17 @@
 ---
 title: Piá — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Piá, attaccante del Calcio
-  Catania.
+description: Biografia, presenze e statistiche ufficiali di Piá, attaccante del Calcio Catania con 9 presenze e 0 gol registrati
+  in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pia
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1982-03-22'
 birth_place: Ibitinga
 death_date: ''
 nationality: Brasile
-total_appearances: 10
+total_appearances: 9
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pi%C3%A1
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/pia
 - calciatori/pia
 citizenship: Brasile
+total_goals: 0
+total_assists: 0
+minutes_played: 440
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Piá — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Piá in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pia.jpg)
-*Ritratto del calciatore Piá in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/pia.jpg" alt="Piá" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Piá</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1982</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Piá** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,23 +105,12 @@ Nato a Ibitinga (1982-03-22), Piá ha militato tra le file della formazione ross
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Nazionalità Sportiva** | Brasile |
-| **Data e Luogo di Nascita** | 1982-03-22 — Ibitinga |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2006-2007** | Seconda punta | 9 | 0 | 0 | 1 | 0 | 440' |
+| **TOTALE** | — | **9** | **0** | **0** | **1** | **0** | **440'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Piá](https://it.wikipedia.org/wiki/Pi%C3%A1) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Piá** ha collezionato complessivamente **9 presenze ufficiali**, disputando **440 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

@@ -1,14 +1,14 @@
 ---
 title: Andrea Catellani — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Catellani, attaccante
-  del Calcio Catania con 19 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea Catellani, attaccante del Calcio Catania con 23 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-catellani
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 19
-seasons_count: 1
+total_appearances: 23
+seasons_count: 3
 tags:
 - calciatori
 - andrea-catellani
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/31_andrea-catellani.jpg
 image_credits:
 - image_path: /assets/images/calciatori/andrea-catellani.jpg
-  alt_text: 'Ritratto ufficiale di Andrea Catellani — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Andrea Catellani — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,87 @@ aliases:
 birth_date: '1988-05-26'
 birth_place: Reggio Emilia
 citizenship: Italia
+total_goals: 1
+total_assists: 2
+minutes_played: 695
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea Catellani — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Andrea Catellani — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/andrea-catellani.jpg)
-*Ritratto ufficiale di Andrea Catellani — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/31_andrea-catellani.jpg" alt="Andrea Catellani" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea Catellani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1988</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>23</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Andrea Catellani — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Andrea Catellani** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 19
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2007-2008** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2008-2009** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2010-2011** | Punta centrale | 23 | 1 | 2 | 1 | 0 | 695' |
+| **TOTALE** | — | **23** | **1** | **2** | **1** | **0** | **695'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea Catellani** ha collezionato complessivamente **23 presenze ufficiali**, disputando **695 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

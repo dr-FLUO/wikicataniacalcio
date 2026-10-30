@@ -1,13 +1,13 @@
 ---
 title: Francesco Ripa — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco Ripa, attaccante
-  del Calcio Catania con 29 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco Ripa, attaccante del Calcio Catania con 32 presenze
+  e 9 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-ripa
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 29
+total_appearances: 32
 seasons_count: 1
 tags:
 - calciatori
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Ripa-910
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 910
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -31,31 +30,86 @@ aliases:
 - francesco-ripa
 - tesserati/francesco-ripa
 - calciatori/francesco-ripa
+total_goals: 9
+total_assists: 3
+minutes_played: 1483
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
-
 # Francesco Ripa — Scheda Giocatore nel Calcio Catania
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Francesco Ripa</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>32</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Francesco Ripa** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 29
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2016-2017** | Punta centrale | 32 | 9 | 3 | 1 | 0 | 1483' |
+| **TOTALE** | — | **32** | **9** | **3** | **1** | **0** | **1483'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Francesco Ripa** ha collezionato complessivamente **32 presenze ufficiali**, disputando **1483 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

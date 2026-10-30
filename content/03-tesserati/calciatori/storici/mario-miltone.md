@@ -68,8 +68,51 @@ citizenship: Italia
 
 # Mario Miltone (1934–1937)
 
-![Fotografia storica del difensore Mario Miltone con la casacca dell'Associazione Fascista Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp)
-*Fotografia storica del difensore Mario Miltone con la casacca dell'Associazione Fascista Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp" alt="Mario Miltone (1934–1937)" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mario Miltone (1934–1937)</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1906</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1934–1937</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>84</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Mario Miltone** (Torino, 24 marzo 1906) è stato un difensore italiano che ha vestito la maglia rossazzurra dell'[[societa/1929-ss-catania|S.S. Catania]] tra il 1934 e il 1937. Punto fermo del reparto arretrato etneo, vanta 84 presenze ufficiali in campionato, contribuendo alle solide stagioni del Catania nei primi campionati nazionali a girone unico di Serie B.
 

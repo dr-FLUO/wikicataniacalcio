@@ -1,12 +1,12 @@
 ---
 title: Adelmo «Memo» Prenna — Il Goleador degli Anni d'Oro di Di Bella (48 Reti)
-description: Biografia e statistiche di Adelmo 'Memo' Prenna, autore di 48 reti ufficiali
-  (29 in Serie A) con il Club Calcio Catania tra il 1958 e il 1964.
+description: Biografia, presenze e statistiche ufficiali di Adelmo Prenna, centrocampista offensivo / mezzala / attaccante
+  del Calcio Catania con 148 presenze e 45 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/adelmo-prenna
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1930-05-27
+last_verified_date: '2026-10-30'
+birth_date: '1930-05-27'
 death_date: 2008-12-16
 birth_place: Corridonia (MC), Italia
 death_place: Roma, Italia
@@ -14,10 +14,10 @@ nationality: Italia
 role: Centrocampista offensivo / Mezzala / Attaccante
 catania_periods:
 - 1958-1964
-total_appearances: 158
+total_appearances: 148
 league_appearances: 146
 serie_a_appearances: 93
-total_goals: 48
+total_goals: 45
 league_goals: 45
 serie_a_goals: 29
 club_entities:
@@ -70,16 +70,64 @@ aliases:
 - adelmo-prenna
 - tesserati/adelmo-prenna
 - calciatori/adelmo-prenna
+height: 176 cm
+foot: Destro
+total_assists: 0
+minutes_played: 13330
+seasons_count: 6
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Adelmo «Memo» Prenna
 
-![Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio Catania nel 1960-1961 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp)
-*Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio Catania nel 1960-1961 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
-
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp" alt="Adelmo «Memo» Prenna" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Adelmo «Memo» Prenna</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1930</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>176 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1958–1964</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>148</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>45</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Adelmo Prenna**, universalmente noto come **"Memo" Prenna** (Corridonia, 27 maggio 1930 – Roma, 16 dicembre 2008), è stato un calciatore e allenatore di calcio italiano, di ruolo mezzala offensiva e attaccante. È stato il **principale realizzatore dell'epopea d'oro degli anni Sessanta** del [[societa/1946-club-calcio-catania|Club Calcio Catania]] guidato dal presidente [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e dall'allenatore [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]: con **48 reti ufficiali complessive** (di cui **45/47 in campionato** e **29 in Serie A**) in **sei stagioni consecutive (1958–1964)**, occupa il **quinto posto nella classifica *all-time* dei marcatori rossazzurri** e il **terzo posto assoluto in Serie A** dietro ai soli [[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]] (35) e [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] (31).
-
 
 ## Dalla Promozione del 1959-1960 ai Trionfi in Serie A (1958–1964)
 
@@ -103,7 +151,6 @@ Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-m
 | **[[stagioni/1963-1964\|1963-1964]]** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] (11700) | Serie A | [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | 18 | 6 | 3 (0) | **21 (6)** |
 | **Totale Carriera** | **6 Stagioni (1958–1964)** | **Serie A / B** | — | **146 (93 A + 53 B)** | **45 (29 A + 16 B)** | **12 (3)** | **158 (48)** |
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -116,6 +163,22 @@ Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-m
 - **Partite Leggendarie:** Titolare con la maglia numero 10 nello storico [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961 ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»)]] e protagonista di due **8º posti in Serie A** ([[stagioni/1960-1961|1960-1961]] e [[stagioni/1963-1964|1963-1964]]).
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1957-1958** | Esterno di sinistra | 27 | 7 | 0 | 0 | 0 | 2430' |
+| **1958-1959** | Esterno di sinistra | 33 | 7 | 0 | 1 | 0 | 2970' |
+| **1959-1960** | Esterno di sinistra | 31 | 11 | 0 | 0 | 0 | 2790' |
+| **1960-1961** | Esterno di sinistra | 27 | 8 | 0 | 0 | 0 | 2430' |
+| **1961-1962** | Esterno di sinistra | 26 | 9 | 0 | 0 | 1 | 2350' |
+| **1962-1963** | Esterno di sinistra | 4 | 3 | 0 | 0 | 0 | 360' |
+| **TOTALE** | — | **148** | **45** | **0** | **1** | **1** | **13330'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Adelmo Prenna** ha collezionato complessivamente **148 presenze ufficiali**, disputando **13330 minuti** di gioco effettivo, siglando **45 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Adelmo Prenna](https://it.wikipedia.org/wiki/Adelmo_Prenna)*.

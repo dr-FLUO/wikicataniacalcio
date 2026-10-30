@@ -1,13 +1,13 @@
 ---
 title: Ferruccio Santamaria — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Ferruccio Santamaria,
-  difensore del Calcio Catania con 48 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Ferruccio Santamaria, difensore del Calcio Catania con 109 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/ferruccio-santamaria
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 48
+total_appearances: 109
 seasons_count: 4
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/723_ferruccio-santamaria.jpg
 image_credits:
 - image_path: assets/images/players/723_ferruccio-santamaria.jpg
-  alt_text: Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,86 @@ aliases:
 birth_date: '1926-05-04'
 birth_place: Maddaloni
 citizenship: Italia
+total_goals: 3
+total_assists: 0
+minutes_played: 9810
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Ferruccio Santamaria — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/723_ferruccio-santamaria.jpg)
-*Ritratto del calciatore Ferruccio Santamaria in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/723_ferruccio-santamaria.jpg" alt="Ferruccio Santamaria" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Ferruccio Santamaria</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1926</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>109</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Ferruccio Santamaria** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 48
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1951-1952** | Centrocampo | 32 | 1 | 0 | 0 | 0 | 2880' |
+| **1952-1953** | Centrocampo | 31 | 1 | 0 | 0 | 0 | 2790' |
+| **1953-1954** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 2430' |
+| **1954-1955** | Centrocampo | 19 | 1 | 0 | 0 | 0 | 1710' |
+| **TOTALE** | — | **109** | **3** | **0** | **0** | **0** | **9810'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Ferruccio Santamaria** ha collezionato complessivamente **109 presenze ufficiali**, disputando **9810 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

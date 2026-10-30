@@ -47,8 +47,56 @@ aliases:
 - calciatori/giuseppe-mosca
 ---
 
-
 # Giuseppe Mosca
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Giuseppe Mosca</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1966</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1993–1995</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>60</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>37</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giuseppe Mosca** (Napoli, 28 luglio 1966) è un ex calciatore italiano, nel ruolo di centravanti. Giunto a Catania nell'autunno del **1993** quando la squadra del presidente Angelo Massimino fu costretta a ripartire dal campionato regionale di Eccellenza, fu il salvatore e il trascinatore assoluto dell'orgoglio etneo.
 
@@ -66,16 +114,6 @@ In due stagioni di memorabile foga agonistica mise a referto ben **37 reti uffic
 ### Dalla Polvere dell'Eccellenza al Trionfo nel C.N.D.
 
 Nella [[stagioni/1993-1994|Stagione 1993-1994]] guidò l'attacco rossazzurro sui campi polverosi della Sicilia con 18 reti. Nel successivo torneo di Campionato Nazionale Dilettanti [[stagioni/1994-1995|1994-1995]], sotto la gestione di Angelo Busetta, fu devastante: realizzò **19 reti**, trascinando il Catania al primo posto davanti al Milazzo con 84 punti e riconquistando la Serie C2 tra il tripudio dei 20.000 del Cibali.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1993-1995) | 56 | 37 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. — Risalita dall'Eccellenza (1993-2000)]] |
-| Coppe Nazionali / Spareggi | 4 | 0 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **60** | **37** | — | — |
 
 ---
 

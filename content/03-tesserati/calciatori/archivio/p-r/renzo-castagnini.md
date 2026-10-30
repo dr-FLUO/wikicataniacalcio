@@ -1,13 +1,13 @@
 ---
 title: Renzo Castagnini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Renzo Castagnini, difensore
-  del Calcio Catania con 83 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Renzo Castagnini, difensore del Calcio Catania con 87 presenze
+  e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/renzo-castagnini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 83
+total_appearances: 87
 seasons_count: 3
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/491_renzo-castagnini.jpg
 image_credits:
 - image_path: assets/images/players/491_renzo-castagnini.jpg
-  alt_text: Ritratto del calciatore Renzo Castagnini in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Renzo Castagnini in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,85 @@ aliases:
 birth_date: '1956-11-14'
 birth_place: Reggello
 citizenship: Italia
+total_goals: 2
+total_assists: 0
+minutes_played: 6309
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Renzo Castagnini — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Renzo Castagnini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/491_renzo-castagnini.jpg)
-*Ritratto del calciatore Renzo Castagnini in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/491_renzo-castagnini.jpg" alt="Renzo Castagnini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Renzo Castagnini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1956</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>87</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Renzo Castagnini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 83
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1978-1979** | Difesa | 29 | 0 | 0 | 0 | 0 | 2293' |
+| **1979-1980** | Difesa | 28 | 1 | 0 | 0 | 1 | 1845' |
+| **1980-1981** | Difesa | 30 | 1 | 0 | 0 | 0 | 2171' |
+| **TOTALE** | — | **87** | **2** | **0** | **0** | **1** | **6309'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Renzo Castagnini** ha collezionato complessivamente **87 presenze ufficiali**, disputando **6309 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

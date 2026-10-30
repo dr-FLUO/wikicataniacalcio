@@ -1,7 +1,7 @@
 ---
 title: "Nord Kaos Valverde (Primi Anni 2000)"
 description: "Dossier sul gruppo ultras Nord Kaos della Curva Nord: origini a Valverde nell'hinterland etneo, mobilità in trasferta e adesione alla linea intransigente."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/nord-kaos"
+slug: "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
 entity_type: "gruppo_ultras"
 foundation_year: 2001
 origin_district: "Valverde (Hinterland Etneo)"
@@ -27,6 +27,8 @@ sources:
     year: 2021
     reference: "Ruolo di Nord Kaos nelle trasferte della Curva Nord"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
+  - "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
   - "tifoseria/curva-nord/nord-kaos"
 ---
 

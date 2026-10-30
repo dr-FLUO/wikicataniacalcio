@@ -58,6 +58,12 @@ aliases:
 - rolando-maran
 - tesserati/rolando-maran
 - allenatori/rolando-maran
+
+total_matches: 63
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -102,3 +108,13 @@ Confermato per la [[stagioni/2013-2014|Stagione 2013-2014]], Maran paga lo smant
 
 1. **Lega Nazionale Professionisti Serie A**, *Archivio Statistico Ufficiale Serie A TIM 2012-2013 e 2013-2014*.
 2. **Roberto Quartarone, Alessandro Russo**, *Stagione 2012-2013: l'apoteosi dei 56 punti di Rolando Maran*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)), 2013.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 16/01/2014 — 06/04/2014 | 80 giorni | 13 | 0,54 |
+| 11/06/2012 — 20/10/2013 | 496 giorni | 50 | 1,40 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

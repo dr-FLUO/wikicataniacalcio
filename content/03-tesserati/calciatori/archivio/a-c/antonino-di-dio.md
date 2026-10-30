@@ -1,13 +1,13 @@
 ---
 title: Antonino Di Dio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Antonino Di Dio, difensore
-  del Calcio Catania con 53 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Antonino Di Dio, difensore del Calcio Catania con 82 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/antonino-di-dio
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 53
+total_appearances: 82
 seasons_count: 3
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/256_antonino-di-dio.jpg
 image_credits:
 - image_path: assets/images/players/256_antonino-di-dio.jpg
-  alt_text: Ritratto del calciatore Antonino Di Dio in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Antonino Di Dio in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,85 @@ aliases:
 - antonino-di-dio
 - tesserati/antonino-di-dio
 - calciatori/antonino-di-dio
+total_goals: 0
+total_assists: 0
+minutes_played: 7149
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Antonino Di Dio — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Antonino Di Dio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/256_antonino-di-dio.jpg)
-*Ritratto del calciatore Antonino Di Dio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/256_antonino-di-dio.jpg" alt="Antonino Di Dio" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Antonino Di Dio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>82</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Antonino Di Dio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 53
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1995-1996** | Difesa | 25 | 0 | 0 | 0 | 0 | 2218' |
+| **1996-1997** | Difesa | 26 | 0 | 0 | 0 | 0 | 2279' |
+| **1997-1998** | Difesa | 31 | 0 | 0 | 0 | 0 | 2652' |
+| **TOTALE** | — | **82** | **0** | **0** | **0** | **0** | **7149'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Antonino Di Dio** ha collezionato complessivamente **82 presenze ufficiali**, disputando **7149 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

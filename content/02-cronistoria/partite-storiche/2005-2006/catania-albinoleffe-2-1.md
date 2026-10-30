@@ -1,61 +1,67 @@
 ---
-title: "Catania-AlbinoLeffe 2-1 (28 maggio 2006) — Il Ritorno in Serie A dopo 22 Anni"
-description: "Tabellino e cronaca di Catania-AlbinoLeffe 2-1 del 28 maggio 2006 al Massimino: le reti di Spinesi e Del Core sanciscono la storica promozione in Serie A con Pasquale Marino."
-slug: "02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1"
-entity_type: "tabellino_gara"
-match_date: "2006-05-28"
-season_ref: "[[stagioni/2005-2006|Stagione 2005-2006]]"
-competition: "Serie B"
-matchday: "42ª Giornata"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
+title: Catania-AlbinoLeffe 2-1 (28 maggio 2006) — Il Ritorno in Serie A dopo 22 Anni
+description: 'Tabellino e cronaca di Catania-AlbinoLeffe 2-1 del 28 maggio 2006 al
+  Massimino: le reti di Spinesi e Del Core sanciscono la storica promozione in Serie
+  A con Pasquale Marino.'
+slug: 02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1
+entity_type: tabellino_gara
+match_date: '2006-05-28'
+season_ref: '[[stagioni/2005-2006|Stagione 2005-2006]]'
+competition: Serie B
+matchday: 42ª Giornata
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
 attendance: 23000
-referee: "Tiziano Pieri (Lucca)"
-home_team: "[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]"
-away_team: "Unione Calcio AlbinoLeffe"
-home_coach: "[[tesserati/allenatori/pasquale-marino|Pasquale Marino]]"
-away_coach: "Emiliano Mondonico"
+referee: Tiziano Pieri (Lucca)
+home_team: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]'
+away_team: Unione Calcio AlbinoLeffe
+home_coach: '[[tesserati/allenatori/pasquale-marino|Pasquale Marino]]'
+away_coach: Emiliano Mondonico
 score_home: 2
 score_away: 1
 scorers:
-  - minute: 15
-    player: "Gionatha Spinesi"
-    team: "Catania"
-  - minute: 41
-    player: "Marco Cellini"
-    team: "AlbinoLeffe"
-  - minute: 54
-    player: "Umberto Del Core"
-    team: "Catania"
+- minute: 15
+  player: Gionatha Spinesi
+  team: Catania
+- minute: 41
+  player: Marco Cellini
+  team: AlbinoLeffe
+- minute: 54
+  player: Umberto Del Core
+  team: Catania
 tags:
-  - serie-b
-  - promozione-serie-a
-  - pasquale-marino
-  - gionatha-spinesi
-  - umberto-del-core
-  - albinoleffe
-  - partite-storiche
-status: "verified"
-last_verified_date: "2026-10-28"
+- serie-b
+- promozione-serie-a
+- pasquale-marino
+- gionatha-spinesi
+- umberto-del-core
+- albinoleffe
+- partite-storiche
+status: verified
+last_verified_date: '2026-10-28'
 sources:
-- author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-  title: "Tutto il Catania minuto per minuto (1929-2010)"
-  publisher: "GEO Edizioni, Empoli"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: "pp. 435-438 (Stagione 2005-2006 e tabellino Catania-AlbinoLeffe 2-1)"
-- author: "La Gazzetta dello Sport"
-  title: "Catania in delirio: batte l'AlbinoLeffe ed è Serie A dopo 22 anni"
-  publisher: "RCS MediaGroup, Milano"
+  reference: pp. 435-438 (Stagione 2005-2006 e tabellino Catania-AlbinoLeffe 2-1)
+- author: La Gazzetta dello Sport
+  title: 'Catania in delirio: batte l''AlbinoLeffe ed è Serie A dopo 22 anni'
+  publisher: RCS MediaGroup, Milano
   year: 2006
-  reference: "Edizione del 29 maggio 2006"
-- author: "Archivio Storico La Sicilia"
-  title: "Apoteosi rossazzurra al Massimino: Del Core firma il gol che vale la Serie A"
-  publisher: "La Sicilia, Catania"
+  reference: Edizione del 29 maggio 2006
+- author: Archivio Storico La Sicilia
+  title: 'Apoteosi rossazzurra al Massimino: Del Core firma il gol che vale la Serie
+    A'
+  publisher: La Sicilia, Catania
   year: 2006
-  reference: "Edizione straordinaria del 29 maggio 2006"
+  reference: Edizione straordinaria del 29 maggio 2006
 aliases:
-  - "partite/2005-2006/catania-albinoleffe-2-1"
-  - "catania-albinoleffe-2-1"
-  - "02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1"
+- partite/2005-2006/catania-albinoleffe-2-1
+- catania-albinoleffe-2-1
+- 02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1
+- partite-storiche/2005-2006/catania-albinoleffe-2-1
+- 2005-2006/catania-albinoleffe-2-1
 ---
 # Catania - AlbinoLeffe 2-1 (28 Maggio 2006)
 

@@ -53,6 +53,55 @@ aliases:
 
 # Engelbert Koenig
 
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Engelbert Koenig</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1919</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Austria</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1941–1942</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>23</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Engelbert Koenig** (Vienna, 18 ottobre 1919 – Vienna, 23 novembre 1997) è stato un calciatore austriaco, nel ruolo di centravanti. Approdato in Italia durante la guerra, fu ingaggiato dall'AFC Catania per la stagione di Serie C **1941-1942**.
 
 Il suo impatto con il calcio siciliano fu travolgente: in sole 23 presenze ufficiali realizzò ben **18 reti**, risultando il secondo miglior marcatore di tutti i gironi di Serie C e sfiorando la qualificazione alle finali promozione. Le sue prestazioni al Cibali convinsero la Lazio ad acquistarlo in Serie A, dove disputò stagioni memorabili.
@@ -69,15 +118,6 @@ Il suo impatto con il calcio siciliano fu travolgente: in sole 23 presenze uffic
 ### La Stagione Straordinaria 1941-1942
 
 Schierato titolare inamovibile al centro dell'attacco dall'allenatore ungherese Géza Kertész, Koenig dimostrò una classe nettamente superiore alla categoria. Tra i momenti memorabili della sua annata catanese si ricordano la tripletta all'Avellino e le marcature decisive nei derby con le formazioni siciliane e calabresi, che lo resero un idolo indimenticato della tifoseria etnea.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1941-1942) | 23 | 18 | Attaccante / Centravanti | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
-| **Totale Complessivo** | **23** | **18** | — | — |
 
 ---
 

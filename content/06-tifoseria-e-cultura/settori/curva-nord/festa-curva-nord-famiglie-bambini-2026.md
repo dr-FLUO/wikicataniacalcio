@@ -5,7 +5,7 @@ description: 'Dossier storico sull''iniziativa «Catania Siamo Noi» promossa da
   Curva Nord e dall''associazione Oltre il 14 ottobre 2026 in Piazza Dante: sport
   per bambini, appartenenza e difesa dell''identità alla vigilia dell''asta per lo
   storico stemma.'
-slug: 06-tifoseria-e-cultura/curve/curva-nord/festa-curva-nord-famiglie-bambini-2026
+slug: 06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026
 entity_type: evento_tifo
 status: verified
 last_verified_date: 2026-10-27
@@ -46,7 +46,9 @@ sources:
   reference: Verbale di aggiudicazione al Catania Football Club del 22 ottobre 2026
     (base d'asta 55.000 €, aggiudicazione a 250.000 €)
 aliases:
-- tifoseria/curva-nord/festa-curva-nord-famiglie-bambini-2026
+  - "06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026"
+  - "06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026"
+  - "tifoseria/curva-nord/festa-curva-nord-famiglie-bambini-2026"
 ---
 
 

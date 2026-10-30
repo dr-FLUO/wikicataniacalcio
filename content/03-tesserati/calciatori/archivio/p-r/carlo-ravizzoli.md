@@ -1,17 +1,17 @@
 ---
 title: Carlo Ravizzoli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Carlo Ravizzoli, attaccante
-  del Calcio Catania con 55 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Carlo Ravizzoli, attaccante del Calcio Catania con 3 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/carlo-ravizzoli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1914-04-28'
 birth_place: Modena, Italia
 death_date: '1989-08-20'
 nationality: Italia
-total_appearances: 55
+total_appearances: 3
 seasons_count: 2
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Carlo_Ravizzoli
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/carlo-ravizzoli
 - calciatori/carlo-ravizzoli
 citizenship: Regno d'Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 270
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Carlo Ravizzoli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Carlo Ravizzoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/carlo-ravizzoli.jpg)
-*Ritratto del calciatore Carlo Ravizzoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/carlo-ravizzoli.jpg" alt="Carlo Ravizzoli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Carlo Ravizzoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1914</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1938–1940</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Carlo Ravizzoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,24 +105,13 @@ Attaccante e mezzala emiliana di altissimo rendimento. Veste la divisa rossazzur
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1938-1940, totalizzando **55 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Presenze Totali Ufficiali** | 55 gare |
-| **Stagioni in Maglia Rossazzurra** | 2 stagioni (1938-1940) |
-| **Nazionalità Sportiva** | Italia |
-| **Luogo e Data di Nascita** | Modena, Italia (1914-04-28) |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1936-1937** | Attacco | 1 | 0 | 0 | 0 | 0 | 90' |
+| **1938-1939** | Attacco | 2 | 0 | 0 | 0 | 0 | 180' |
+| **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **270'** |
 
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Carlo Ravizzoli](https://it.wikipedia.org/wiki/Carlo_Ravizzoli) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Carlo Ravizzoli** ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

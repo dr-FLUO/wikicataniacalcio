@@ -52,6 +52,8 @@ aliases:
 - coppa-delle-alpi-1964
 - partite/1963-1964/coppa-delle-alpi-1964
 - partite-storiche/1963-1964/finale-coppa-delle-alpi-1964
+- 1963-1964/finale-coppa-delle-alpi-1964
+- finale-coppa-delle-alpi-1964
 ---
 
 

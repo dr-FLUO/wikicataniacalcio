@@ -44,6 +44,9 @@ sources:
   reference: Edizione del 19 giugno 1983
 aliases:
 - partite/1982-1983/spareggio-catania-como-1-0
+- partite-storiche/1982-1983/spareggio-catania-como-1-0
+- 1982-1983/spareggio-catania-como-1-0
+- spareggio-catania-como-1-0
 ---
 
 

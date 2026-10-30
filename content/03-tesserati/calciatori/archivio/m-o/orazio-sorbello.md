@@ -1,11 +1,11 @@
 ---
 title: Orazio Sorbello — Il Centravanti Etneo d'Area di Rigore (1986-1987, 1991-1993)
-description: Biografia e statistiche di Orazio Sorbello, centravanti catanese doc,
-  capocannoniere in Serie B 1986-1987 e colonna d'attacco in due epoche.
+description: Biografia, presenze e statistiche ufficiali di Orazio Sorbello, attaccante / centravanti del Calcio Catania con
+  30 presenze e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/orazio-sorbello
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1959-08-10
 birth_place: Acireale (CT), Italia
 nationality: Italia
@@ -13,9 +13,9 @@ role: Attaccante / Centravanti
 catania_periods:
 - 1986-1987
 - 1991-1993
-total_appearances: 75
+total_appearances: 30
 league_appearances: 69
-total_goals: 18
+total_goals: 6
 league_goals: 16
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
@@ -33,8 +33,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Orazio_Sorbello
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -52,9 +51,62 @@ aliases:
 - calciatori/orazio-sorbello
 citizenship: Italia
 seasons_count: 1
+total_assists: 0
+minutes_played: 2450
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Orazio Sorbello
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Orazio Sorbello</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1959</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1986–1987, 1991–1993</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>30</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Orazio Sorbello** (Acireale, 10 agosto 1959) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Cresciuto calcisticamente in Sicilia e maturato nei campionati professionistici, vestì la maglia del Catania per la prima volta nella [[stagioni/1986-1987|Stagione 1986-1987]] in Serie B, risultando il capocannoniere della squadra con 6 reti in 30 partite.
 
@@ -75,15 +127,16 @@ Nella difficile stagione cadetta 1986-1987 Sorbello lottò con grinta contro le 
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1987, 1991-1993) | 69 | 16 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| Coppe Nazionali / Spareggi | 6 | 2 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **75** | **18** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1985-1986** | Ala destra | 30 | 6 | 0 | 0 | 0 | 2450' |
+| **TOTALE** | — | **30** | **6** | **0** | **0** | **0** | **2450'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Orazio Sorbello** ha collezionato complessivamente **30 presenze ufficiali**, disputando **2450 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Orazio Sorbello](https://it.wikipedia.org/wiki/Orazio_Sorbello)*.

@@ -1,11 +1,11 @@
 ---
 title: Aquilino Bonfanti — Il Bomber della Promozione di Massimino e Rubino (1968-1972)
-description: Biografia e statistiche di Aquilino Bonfanti, 109 presenze e 30 reti
-  con il Catania, capocannoniere della cavalcata verso la Serie A nel 1969-1970.
+description: Biografia, presenze e statistiche ufficiali di Aquilino Bonfanti, attaccante / centravanti del Calcio Catania
+  con 110 presenze e 28 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1943-02-25
 death_date: 2016-03-02
 birth_place: Milano, Italia
@@ -14,10 +14,10 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1968-1972
-total_appearances: 109
+total_appearances: 110
 league_appearances: 101
 serie_a_appearances: 24
-total_goals: 30
+total_goals: 28
 league_goals: 29
 serie_a_goals: 5
 club_entities:
@@ -37,8 +37,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Aquilino_Bonfanti
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -63,12 +62,62 @@ aliases:
 - calciatori/aquilino-bonfanti
 citizenship: Regno d'Italia
 seasons_count: 3
+total_assists: 0
+minutes_played: 9690
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 ![Aquilino Bonfanti, capocannoniere della Serie B 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp)
 *Aquilino Bonfanti, capocannoniere della Serie B 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 # Aquilino Bonfanti
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp" alt="Aquilino Bonfanti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Aquilino Bonfanti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1943</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1968–1972</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>110</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>28</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Aquilino Bonfanti** (Milano, 25 febbraio 1943 – Milano, 2 marzo 2016) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nel **1968**, è stato il centravanti principe e l'eroe della cavalcata trionfale della [[stagioni/1969-1970|Stagione 1969-1970]], culminata con la promozione in Serie A.
 
@@ -89,15 +138,18 @@ Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 ret
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1968-1972) | 101 | 29 | Attaccante / Centravanti | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| Coppe Nazionali / Spareggi | 8 | 1 | Attaccante / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **109** | **30** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1968-1969** | Attacco | 37 | 14 | 0 | 1 | 0 | 3203' |
+| **1969-1970** | Attacco | 33 | 5 | 0 | 0 | 0 | 2932' |
+| **1970-1971** | Attacco | 40 | 9 | 0 | 0 | 0 | 3555' |
+| **TOTALE** | — | **110** | **28** | **0** | **1** | **0** | **9690'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Aquilino Bonfanti** ha collezionato complessivamente **110 presenze ufficiali**, disputando **9690 minuti** di gioco effettivo, siglando **28 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Aquilino Bonfanti](https://it.wikipedia.org/wiki/Aquilino_Bonfanti)*.

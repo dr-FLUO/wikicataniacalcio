@@ -54,6 +54,12 @@ aliases:
 - piero-andreoli
 - tesserati/piero-andreoli
 - allenatori/piero-andreoli
+
+total_matches: 96
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -99,3 +105,12 @@ Il campionato si chiude sul campo con una **meritatissima salvezza al 12º posto
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 146–164.
 2. **Archivio Storico Mimmo Rapisarda**, *La prima Serie A del 1953-54 e l'allenatore gentiluomo Piero Andreoli*, [mimmorapisarda.it](https://www.mimmorapisarda.it/).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1953 — 16/04/1956 | 1020 giorni | 96 | 1,49 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

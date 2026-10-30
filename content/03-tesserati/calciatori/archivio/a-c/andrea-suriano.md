@@ -1,13 +1,13 @@
 ---
 title: Andrea Suriano — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Suriano, difensore
-  del Calcio Catania con 5 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea Suriano, difensore del Calcio Catania con 9 presenze e
+  0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-suriano
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 5
+total_appearances: 9
 seasons_count: 2
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/97_andrea-suriano.jpg
 image_credits:
 - image_path: assets/images/players/97_andrea-suriano.jpg
-  alt_text: Ritratto del calciatore Andrea Suriano in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Andrea Suriano in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - andrea-suriano
 - tesserati/andrea-suriano
 - calciatori/andrea-suriano
+total_goals: 0
+total_assists: 0
+minutes_played: 502
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea Suriano — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Andrea Suriano in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/97_andrea-suriano.jpg)
-*Ritratto del calciatore Andrea Suriano in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/97_andrea-suriano.jpg" alt="Andrea Suriano" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea Suriano</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Andrea Suriano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 5
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Terzino sinistro | 8 | 0 | 0 | 1 | 0 | 451' |
+| **2004-2005** | Terzino sinistro | 1 | 0 | 0 | 0 | 0 | 51' |
+| **TOTALE** | — | **9** | **0** | **0** | **1** | **0** | **502'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea Suriano** ha collezionato complessivamente **9 presenze ufficiali**, disputando **502 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

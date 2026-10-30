@@ -2881,38 +2881,38 @@ table:not(.table-container table) {
 // ============================================================================
 
 footer.rossazzurri-footer {
-  margin-top: 4rem;
-  padding-top: 2rem;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
   border-top: 2px solid var(--wiki-border-strong);
-  opacity: 1 !important; // Rimosso lo sbiadimento globale (default opacity: 0.7)
+  opacity: 1 !important;
 
   .footer-compliance-box {
     background-color: var(--wiki-surface-elevated);
-    border: 1.5px solid var(--wiki-border-strong);
-    padding: 1.25rem 1.5rem;
-    margin-bottom: 1.25rem;
-    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.05);
+    border: 1px solid var(--wiki-border-subtle);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.85rem;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.04);
   }
 
   .footer-kicker {
     display: block;
     font-family: var(--font-display);
-    font-size: 0.88rem;
+    font-size: 0.72rem;
     font-weight: 800;
-    letter-spacing: 0.08em;
-    color: var(--rossazzurro-red) !important; // Rosso vivido
-    margin-bottom: 0.25rem;
+    letter-spacing: 0.06em;
+    color: var(--rossazzurro-red) !important;
+    margin-bottom: 0.15rem;
     text-transform: uppercase;
   }
 
   .footer-brand {
     font-family: var(--font-display);
-    font-size: 1.35rem;
+    font-size: 1.05rem;
     font-weight: 900;
     letter-spacing: 0.02em;
-    margin: 0 0 0.65rem 0;
-    color: #111111 !important; // Nero profondo e nitido
-    line-height: 1.2;
+    margin: 0 0 0.35rem 0;
+    color: #111111 !important;
+    line-height: 1.25;
 
     strong {
       color: #000000 !important;
@@ -2922,28 +2922,28 @@ footer.rossazzurri-footer {
 
   .footer-legal-notice {
     margin: 0;
-    font-size: 0.82rem;
-    line-height: 1.6;
-    color: #222222 !important; // Testo nitido e leggibile, non più grigio sbiadito
+    font-size: 0.73rem;
+    line-height: 1.45;
+    color: #333333 !important;
 
     strong {
-      color: #000000 !important;
+      color: #111111 !important;
       font-weight: 700;
     }
 
     em {
       font-style: italic;
-      color: #111111 !important;
+      color: #222222 !important;
     }
   }
 
   .footer-beta-notice {
-    margin: 0.85rem 0 0 0;
-    padding-top: 0.65rem;
+    margin: 0.45rem 0 0 0;
+    padding-top: 0.4rem;
     border-top: 1px dashed var(--wiki-border-hairline);
-    font-size: 0.80rem;
-    line-height: 1.55;
-    color: #222222 !important;
+    font-size: 0.71rem;
+    line-height: 1.4;
+    color: #333333 !important;
 
     strong {
       color: var(--rossazzurro-red) !important;
@@ -2961,7 +2961,7 @@ footer.rossazzurri-footer {
   }
 
   .footer-action-row {
-    margin: 1.25rem 0 1rem 0;
+    margin: 0.75rem 0 0.65rem 0;
     display: flex;
     justify-content: flex-start;
   }
@@ -2969,31 +2969,31 @@ footer.rossazzurri-footer {
   .footer-redazione-btn {
     display: inline-flex;
     align-items: center;
-    gap: 0.6rem;
-    padding: 0.65rem 1.25rem;
-    background-color: #111111 !important; // Nero solido ad alto contrasto
+    gap: 0.45rem;
+    padding: 0.45rem 0.95rem;
+    background-color: #111111 !important;
     color: #ffffff !important;
-    border: 2px solid #111111;
+    border: 1.5px solid #111111;
     font-family: var(--font-display);
-    font-size: 1.05rem;
+    font-size: 0.85rem;
     font-weight: 800;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
     text-decoration: none !important;
     transition: all 0.2s ease;
-    box-shadow: 2px 2px 0 var(--wiki-border-strong);
+    box-shadow: 1px 1px 0 var(--wiki-border-strong);
 
     &__icon {
-      color: #e5a93c !important; // Oro brillante
-      font-size: 1.15rem;
+      color: #e5a93c !important;
+      font-size: 0.95rem;
     }
 
     &:hover {
       background-color: var(--rossazzurro-red) !important;
       border-color: var(--rossazzurro-red) !important;
       color: #ffffff !important;
-      transform: translateY(-2px);
-      box-shadow: 4px 4px 0 var(--wiki-border-strong);
+      transform: translateY(-1px);
+      box-shadow: 2px 2px 0 var(--wiki-border-strong);
 
       .footer-redazione-btn__icon {
         color: #ffffff !important;
@@ -3005,12 +3005,12 @@ footer.rossazzurri-footer {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.8rem 1.5rem;
+    gap: 0.5rem 1.1rem;
     list-style: none;
     padding: 0;
-    margin: 1rem 0 0 0;
+    margin: 0.65rem 0 0 0;
     font-family: var(--font-display);
-    font-size: 0.95rem;
+    font-size: 0.80rem;
     font-weight: 800;
     letter-spacing: 0.05em;
     text-transform: uppercase;
@@ -3789,5 +3789,256 @@ nav.breadcrumb-container,
     background-color: var(--wiki-surface-sunken);
     border-color: var(--gray);
     color: var(--gray);
+  }
+}
+
+// ============================================================================
+// 12. GRIGLIA A DUE COLONNE: COLLEGAMENTI CORRELATI & FONTI (COMPATTO)
+// ============================================================================
+.nfc-sources-and-links-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--wiki-border-strong, #e0e0e0);
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .nfc-grid-column {
+    background-color: var(--wiki-surface-elevated, #fafafa);
+    border: 1px solid var(--wiki-border-subtle, #e5e5e5);
+    padding: 0.75rem 1rem;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.03);
+
+    h2, h3 {
+      font-family: var(--font-display, "Big Shoulders Display", sans-serif) !important;
+      font-size: 0.95rem !important;
+      font-weight: 800 !important;
+      letter-spacing: 0.04em !important;
+      text-transform: uppercase;
+      margin: 0 0 0.5rem 0 !important;
+      padding-bottom: 0.25rem;
+      border-bottom: 2px solid var(--rossazzurro-red, #d32f2f);
+      color: var(--wiki-text-primary, #111111) !important;
+
+      a.internal {
+        display: none !important;
+      }
+    }
+
+    ul, ol {
+      font-size: 0.78rem !important;
+      line-height: 1.45 !important;
+      margin: 0 !important;
+      padding-left: 1.15rem !important;
+      color: var(--wiki-text-secondary, #333333);
+
+      li {
+        margin-bottom: 0.25rem !important;
+
+        a {
+          font-weight: 600;
+          color: var(--rossazzurro-blue, #1565c0);
+          text-decoration: underline;
+          text-decoration-thickness: 1px;
+
+          &:hover {
+            color: var(--rossazzurro-red, #d32f2f);
+          }
+        }
+      }
+    }
+
+    p {
+      font-size: 0.78rem !important;
+      line-height: 1.45 !important;
+      margin: 0 0 0.35rem 0 !important;
+    }
+  }
+}
+
+// ============================================================================
+// 13. SCHEDA CALCIATORE: TABELLA ANAGRAFICA & RENDIMENTO IN TESTA
+// ============================================================================
+.nfc-player-hero-card {
+  margin: 1.25rem 0 1.75rem 0;
+  background-color: var(--wiki-surface-elevated, #fafafa);
+  border: 1.5px solid var(--wiki-border-strong, #333333);
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+
+  .nfc-player-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    font-size: 0.88rem;
+
+    tbody tr {
+      border-bottom: 1px solid var(--wiki-border-subtle, #e5e5e5);
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &:hover {
+        background-color: rgba(211, 47, 47, 0.03);
+      }
+    }
+
+    th {
+      width: 130px;
+      font-family: var(--font-display, "Big Shoulders Display", sans-serif);
+      font-size: 0.88rem;
+      font-weight: 800;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #333333;
+      padding: 0.35rem 0.65rem;
+      vertical-align: middle;
+      border-right: 1px solid var(--wiki-border-subtle, #e5e5e5);
+      background-color: rgba(0, 0, 0, 0.02);
+    }
+
+    td {
+      padding: 0.35rem 0.75rem;
+      color: #111111;
+      font-weight: 600;
+      vertical-align: middle;
+    }
+
+    .nfc-player-photo-cell {
+      width: 145px;
+      min-width: 145px;
+      max-width: 145px;
+      padding: 0.5rem;
+      vertical-align: top;
+      text-align: center;
+      border-right: 1.5px solid var(--wiki-border-strong, #333333);
+      background-color: #f0f0f0;
+
+      .nfc-player-photo {
+        width: 100%;
+        height: auto;
+        max-height: 200px;
+        object-fit: cover;
+        display: block;
+        border: 1px solid var(--wiki-border-subtle, #cccccc);
+        box-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+      }
+
+      .nfc-player-no-photo {
+        width: 100%;
+        height: 175px;
+        background-color: #e2e8f0;
+        border: 1.5px dashed #cbd5e1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #64748b;
+        font-family: var(--font-display, "Big Shoulders Display", sans-serif);
+        font-weight: 800;
+        letter-spacing: 0.05em;
+
+        .nfc-no-photo-badge {
+          font-size: 1.15rem;
+          color: #94a3b8;
+          margin-bottom: 0.2rem;
+        }
+
+        .nfc-no-photo-label {
+          font-size: 0.72rem;
+          text-transform: uppercase;
+          color: #64748b;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    .nfc-player-table {
+      .nfc-player-photo-cell {
+        display: block;
+        width: 100% !important;
+        max-width: 100% !important;
+        border-right: none;
+        border-bottom: 1.5px solid var(--wiki-border-strong);
+        
+        .nfc-player-photo, .nfc-player-no-photo {
+          max-width: 160px;
+          margin: 0 auto;
+        }
+      }
+      
+      tbody tr {
+        display: flex;
+        
+        th {
+          width: 40%;
+          min-width: 110px;
+        }
+        td {
+          width: 60%;
+        }
+      }
+    }
+  }
+}
+
+:root[saved-theme="dark"] {
+  .nfc-player-hero-card {
+    background-color: var(--wiki-surface-elevated, #1a1a1a);
+    border-color: #444444;
+
+    .nfc-player-table {
+      tbody tr {
+        border-bottom-color: #333333;
+        &:hover {
+          background-color: rgba(255, 255, 255, 0.03);
+        }
+      }
+
+      th {
+        color: #cccccc;
+        border-right-color: #333333;
+        background-color: rgba(255, 255, 255, 0.02);
+      }
+
+      td {
+        color: #f1f5f9;
+      }
+
+      .nfc-player-photo-cell {
+        background-color: #222222;
+        border-right-color: #444444;
+
+        .nfc-player-no-photo {
+          background-color: #262626;
+          border-color: #404040;
+          color: #94a3b8;
+        }
+      }
+    }
+  }
+
+  .nfc-sources-and-links-grid {
+    border-top-color: #444444;
+    .nfc-grid-column {
+      background-color: #1e1e1e;
+      border-color: #333333;
+
+      h2, h3 {
+        color: #f1f5f9 !important;
+      }
+
+      ul, ol {
+        color: #cccccc;
+      }
+    }
   }
 }

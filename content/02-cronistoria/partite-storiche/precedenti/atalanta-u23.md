@@ -30,6 +30,9 @@ sources:
   reference: Analisi statistica Stagione 2023-2024
 aliases:
 - partite/precedenti/atalanta-u23
+- partite-storiche/precedenti/atalanta-u23
+- precedenti/atalanta-u23
+- atalanta-u23
 ---
 
 

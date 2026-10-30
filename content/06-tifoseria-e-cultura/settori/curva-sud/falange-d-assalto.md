@@ -1,7 +1,7 @@
 ---
 title: "Falange d'Assalto Rossazzurra (1979)"
 description: "Storia della Falange d'Assalto Rossazzurra, gruppo fondatore del movimento ultras a Catania nato nel 1979 nel rione Castello Ursino da Francesco 'Ciccio' Famoso: dai 36 anni in Curva Nord al trasferimento in Curva Sud nel 2015."
-slug: "06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto"
+slug: "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
 entity_type: "gruppo_ultras"
 foundation_year: 1979
 founder: "Francesco 'Ciccio' Famoso"
@@ -38,6 +38,8 @@ sources:
     year: 2017
     reference: "La nascita nel 1979 al Castello Ursino e la guida della curva"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
+  - "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
   - "tifoseria/curva-sud/falange-d-assalto"
   - "tifoseria/curva-nord/falange-d-assalto"
 ---
@@ -52,10 +54,10 @@ Caratterizzata fin dalle origini dal celebre motto manifesto **«Primi a nascere
 
 ## 1. I Trentasei Anni in Curva Nord (1979–2015)
 
-Contrariamente a una diffusa semplificazione storiografica, la Falange d'Assalto è stata per **trentasei anni consecutivi la colonna portante della [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]]**:
+Contrariamente a una diffusa semplificazione storiografica, la Falange d'Assalto è stata per **trentasei anni consecutivi la colonna portante della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]**:
 - **La Baluardo del Cibali:** Dalla fondazione nel 1979 fino all'estate del 2015, lo striscione principale della Falange ha campeggiato al centro della balaustra della Curva Nord, guidando il tifo etneo sia nelle annate gloriose della Serie A sia negli inferi dei campi polverosi del Campionato Nazionale Dilettanti e dell'Eccellenza.
 - **La Battaglia per la Matricola (1993):** Nel 1993, quando la FIGC cancellò il Catania dal professionismo, Ciccio Famoso e i militanti della Falange guidarono le proteste popolari a Milano e si incatenarono davanti alla sede federale di Roma, difendendo l'onore della matricola 11700.
-- **Le Scissioni Interne:** Dalla Falange si sono staccate nel tempo componenti giovanili orientate allo scontro duro (come [[06-tifoseria-e-cultura/curve/curva-nord/i-decisi|I Decisi]] a metà anni Novanta).
+- **Le Scissioni Interne:** Dalla Falange si sono staccate nel tempo componenti giovanili orientate allo scontro duro (come [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]] a metà anni Novanta).
 
 ---
 
@@ -63,9 +65,9 @@ Contrariamente a una diffusa semplificazione storiografica, la Falange d'Assalto
 
 La frattura epocale nella storia del gruppo si consumò nell'estate del **2015**, in seguito alla retrocessione d'ufficio in Serie C per illecito sportivo ([[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|caso Treni del Gol]]) e all'imposizione ministeriale della **Tessera del Tifoso**:
 - Di fronte al divieto di trasferta per i non fidelizzati, la leadership della Falange scelse una linea pragmatica e presenzialista: sottoscrivere la tessera per non far mancare il sostegno alla squadra lontano dal Massimino.
-- Rifiutando la linea intransigente no-tessera assunta dalla Curva Nord guidata da [[06-tifoseria-e-cultura/curve/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], la Falange **abbandonò la Curva Nord dopo 36 anni** e si trasferì nella **Curva Sud**, stringendo un patto d'azione con gli [[06-tifoseria-e-cultura/curve/curva-sud/irriducibili-1991|Irriducibili]].
-- Dalla fusione operativa delle due storiche realtà nacque lo striscione unico da trasferta denominato [[06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
-- Una fazione dissidente interna rifiutò il trasferimento in Sud e la tessera, staccandosi per fondare in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/index|Ultras Mecha Klan Catania]].
+- Rifiutando la linea intransigente no-tessera assunta dalla Curva Nord guidata da [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], la Falange **abbandonò la Curva Nord dopo 36 anni** e si trasferì nella **Curva Sud**, stringendo un patto d'azione con gli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]].
+- Dalla fusione operativa delle due storiche realtà nacque lo striscione unico da trasferta denominato [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
+- Una fazione dissidente interna rifiutò il trasferimento in Sud e la tessera, staccandosi per fondare in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|Ultras Mecha Klan Catania]].
 
 ---
 

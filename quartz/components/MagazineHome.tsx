@@ -723,8 +723,8 @@ const ERAS = [
     years: "2022–OGGI",
     name: "Catania SSD ➔ Catania Football Club",
     matricola: "FIGC 955013",
-    figures: "Rosario Pelligra, V. Grella, M. Zeoli",
-    event: "Rinascita ex Art. 52 NOIF, trionfo in Serie D (88 pt), 1ª Coppa Italia Serie C (2024) e riacquisto logo.",
+    figures: "Rosario Pelligra, V. Grella, D. Faggiano, D. Toscano",
+    event: "Rinascita ex Art. 52 NOIF, record Serie D (88 pt), 1ª Coppa Italia Serie C (2024), riacquisto storico logo e acquisizione Torre del Grifo.",
     href: "./01-societa/epoche/2022-pelligra-catania-fc",
   },
 ]
@@ -820,7 +820,7 @@ const NUMBERS_POOL: NumberStat[] = [
     kicker: "MOVIMENTO ULTRAS",
     digits: "1979",
     desc: "La nascita della Falange d'Assalto Rossazzurra, gruppo capostipite del tifo organizzato al Cibali.",
-    href: "./06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto",
+    href: "./06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto",
   },
   {
     id: "rinascita-pelligra-88",

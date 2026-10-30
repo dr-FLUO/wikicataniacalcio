@@ -1,13 +1,13 @@
 ---
 title: Fortunato Torrisi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fortunato Torrisi, centrocampista
-  del Calcio Catania con 25 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Fortunato Torrisi, centrocampista del Calcio Catania con 27 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fortunato-torrisi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 25
+total_appearances: 27
 seasons_count: 1
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/481_fortunato-torrisi.jpg
 image_credits:
 - image_path: assets/images/players/481_fortunato-torrisi.jpg
-  alt_text: Ritratto del calciatore Fortunato Torrisi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Fortunato Torrisi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,83 @@ aliases:
 birth_date: '1955-10-23'
 birth_place: Melito di Porto Salvo
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 2242
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Fortunato Torrisi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Fortunato Torrisi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/481_fortunato-torrisi.jpg)
-*Ritratto del calciatore Fortunato Torrisi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/481_fortunato-torrisi.jpg" alt="Fortunato Torrisi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Fortunato Torrisi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1955</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>27</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Fortunato Torrisi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 25
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1982-1983** | Centrocampista | 27 | 1 | 0 | 1 | 0 | 2242' |
+| **TOTALE** | — | **27** | **1** | **0** | **1** | **0** | **2242'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Fortunato Torrisi** ha collezionato complessivamente **27 presenze ufficiali**, disputando **2242 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

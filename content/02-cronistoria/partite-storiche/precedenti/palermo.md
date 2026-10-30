@@ -31,6 +31,9 @@ sources:
   reference: Stagioni 2008-2009 e 2010-2011
 aliases:
 - partite/precedenti/palermo
+- partite-storiche/precedenti/palermo
+- precedenti/palermo
+- palermo
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro"
 description: "Monografia storica sulla Tribuna B (Gradinata) dello Stadio Angelo Massimino: origini, autonomia rispetto alle curve, e dossier completi su Mecha Klan, ANR, Gruppo Tattaresu e Vecchia Guardia."
-slug: "06-tifoseria-e-cultura/curve/tribuna-b/index"
+slug: "06-tifoseria-e-cultura/settori/tribuna-b/index"
 entity_type: "thematic_dossier"
 status: "verified"
 last_verified_date: 2026-10-30
@@ -37,21 +37,21 @@ sources:
     year: 2016
     reference: "Inchiesta sulla scissione della Falange d'Assalto e la nascita del Mecha Klan"
 aliases:
-  - "tifoseria/curve/tribuna-b"
+  - "tifoseria/settori/tribuna-b"
   - "tifoseria/tribuna-b"
-  - "06-tifoseria-e-cultura/curve/tribuna-b/anr"
-  - "tifoseria/curve/tribuna-b/anr"
-  - "06-tifoseria-e-cultura/curve/tribuna-b/gruppo-tattaresu"
+  - "06-tifoseria-e-cultura/settori/tribuna-b/anr"
+  - "tifoseria/settori/tribuna-b/anr"
+  - "06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu"
   - "tifoseria/tribuna-b/tattaresu"
-  - "06-tifoseria-e-cultura/curve/tribuna-b/mecha-klan"
+  - "06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan"
   - "tifoseria/tribuna-b/mecha-klan"
-  - "06-tifoseria-e-cultura/curve/tribuna-b/vecchia-guardia"
+  - "06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia"
   - "tifoseria/tribuna-b/vecchia-guardia"
 ---
 
 # La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro
 
-Nello scenario del tifo organizzato italiano, lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] presenta una conformazione sociologica inconsueta: accanto alle tradizionali gradinate di [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]] e [[06-tifoseria-e-cultura/curve/curva-sud/index|Curva Sud]], la **Tribuna B** (storicamente denominata *Gradinata*) ha espresso per decenni un'autonoma identità ultras, fungendo da vero e proprio terzo polo della passione etnea.
+Nello scenario del tifo organizzato italiano, lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] presenta una conformazione sociologica inconsueta: accanto alle tradizionali gradinate di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], la **Tribuna B** (storicamente denominata *Gradinata*) ha espresso per decenni un'autonoma identità ultras, fungendo da vero e proprio terzo polo della passione etnea.
 
 Collocata di fronte alla Tribuna A d'onore e sovrastante il parterre laterale verso il settore ospiti, la Tribuna B ha saputo combinare l'estrazione popolare dei quartieri storici del centro con una forte vocazione coreografica e comunitaria, ospitando formazioni pionieristiche che hanno segnato la storia del tifo rossazzurro.
 
@@ -62,9 +62,9 @@ Collocata di fronte alla Tribuna A d'onore e sovrastante il parterre laterale ve
 Fino alla fine degli anni Novanta, la Gradinata del Cibali accoglieva prevalentemente un pubblico caloroso ma non inquadrato militarmente. Con il passaggio di millennio, la progressiva saturazione delle due curve e la ricerca di spazi autonomi d'espressione hanno spinto militanti storici a radicare formazioni organizzate anche nel settore centrale est:
 
 1. **Il Polo di Pippo Tarraresu (Anni '90–2000):** Animato dallo storico capo-popolo [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Giuseppe "Pippo" Tarraresu]] (compagno di catene di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] alla sede FIGC di Roma nel 1993), il settore divenne celebre per le scenografie imponenti e per la custodia del gigantesco telo raffigurante il Cavaliere Angelo Massimino.
-2. **La Nascita dell'A.N.R. (2000):** Nel 2000, un gruppo di militanti fuoriusciti dagli [[06-tifoseria-e-cultura/curve/curva-sud/irriducibili-1991|Irriducibili]] della Sud scelse proprio la Tribuna B per fondare l'**Associazione Non Riconosciuta (A.N.R.)**, caratterizzata da un'impronta casual d'ispirazione britannica e dal celebre simbolo dei due leoni con la Trinacria nera (gruppo poi migrato in Curva Nord).
+2. **La Nascita dell'A.N.R. (2000):** Nel 2000, un gruppo di militanti fuoriusciti dagli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]] della Sud scelse proprio la Tribuna B per fondare l'**Associazione Non Riconosciuta (A.N.R.)**, caratterizzata da un'impronta casual d'ispirazione britannica e dal celebre simbolo dei due leoni con la Trinacria nera (gruppo poi migrato in Curva Nord).
 3. **La Vecchia Guardia di San Gregorio (1996–2010):** Posizionata a ridosso della gabbia del settore ospiti, ha storicamente rappresentato il baluardo dei fedelissimi della cintura metropolitana etnea.
-4. **La Scissione del 2015 e il Mecha Klan:** Quando nell'estate del 2015 la [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]] lasciò la Curva Nord per la Curva Sud aderendo alla Tessera del Tifoso, una fazione dissidente rifiutò la svolta e scelse la Tribuna B per fondare l'**Ultras Mecha Klan Catania (MCK)**.
+4. **La Scissione del 2015 e il Mecha Klan:** Quando nell'estate del 2015 la [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] lasciò la Curva Nord per la Curva Sud aderendo alla Tessera del Tifoso, una fazione dissidente rifiutò la svolta e scelse la Tribuna B per fondare l'**Ultras Mecha Klan Catania (MCK)**.
 
 ---
 
@@ -88,7 +88,7 @@ L'MCK ha improntato la propria condotta a un rigido codice ultras basato sull'**
 
 Fondata nell'estate del **2000**, la sigla **A.N.R. (Associazione Non Riconosciuta)** nacque per iniziativa di militanti provenienti dall'ala dura degli *Irriducibili 1991* della Curva Sud, intenzionati a creare un nucleo fondato sullo stile *casual* d'impronta britannica: abbigliamento non convenzionale, sciarpe a barre pesanti e rifiuto dell'assistenzialismo.
 
-Posizionata al centro della Tribuna B tra il 2000 e il 2003 (gli anni della risalita verso la Serie B nell'[[01-societa/epoche/2000-era-gaucci|Era Gaucci]]), la pezza con la scritta bianca *A.N.R.* su fondo nero e il logo araldico con due leoni affrontati attorno a una Trinacria nera divenne celebre in tutte le trasferte d'Italia. Nel 2003, con l'unificazione del coordinamento del tifo, il gruppo scelse di confluire nei gradoni della [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]], mantenendo viva la propria sigla storica.
+Posizionata al centro della Tribuna B tra il 2000 e il 2003 (gli anni della risalita verso la Serie B nell'[[01-societa/epoche/2000-era-gaucci|Era Gaucci]]), la pezza con la scritta bianca *A.N.R.* su fondo nero e il logo araldico con due leoni affrontati attorno a una Trinacria nera divenne celebre in tutte le trasferte d'Italia. Nel 2003, con l'unificazione del coordinamento del tifo, il gruppo scelse di confluire nei gradoni della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], mantenendo viva la propria sigla storica.
 
 ---
 
@@ -122,8 +122,8 @@ Caratterizzata da una costante presenza vocale contro le tifoserie avversarie in
 
 ## Voci Correlate
 
-* [[06-tifoseria-e-cultura/curve/index|Indice Generale Curve e Gradinate del Massimino]]
-* [[06-tifoseria-e-cultura/curve/curva-nord/index|La Curva Nord e le Grandi Coreografie]]
-* [[06-tifoseria-e-cultura/curve/curva-sud/index|La Curva Sud e la Tradizione della Falange]]
+* [[06-tifoseria-e-cultura/settori/index|Indice Generale Curve e Gradinate del Massimino]]
+* [[06-tifoseria-e-cultura/settori/curva-nord/index|La Curva Nord e le Grandi Coreografie]]
+* [[06-tifoseria-e-cultura/settori/curva-sud/index|La Curva Sud e la Tradizione della Falange]]
 * [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Pippo Tarraresu: Capo Popolo e Bandiera della Gradinata]]
 * [[04-strutture/stadio-massimino/angelo-massimino|Lo Stadio Angelo Massimino (Cibali)]]

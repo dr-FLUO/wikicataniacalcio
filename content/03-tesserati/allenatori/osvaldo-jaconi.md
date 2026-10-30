@@ -49,6 +49,12 @@ aliases:
 - osvaldo-jaconi
 - tesserati/osvaldo-jaconi
 - allenatori/osvaldo-jaconi
+
+total_matches: 9
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -92,3 +98,13 @@ Avviò la ricostruzione tecnica del gruppo etneo dopo la retrocessione dalla Ser
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/2002 — 11/09/2002 | 72 giorni | 3 | 0,33 |
+| 01/07/1987 — 30/06/1988 | 365 giorni | 6 | 1,17 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

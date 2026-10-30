@@ -23,3 +23,5 @@ backups/
 logs/
 scratch/
 user-content/
+locks/
+public_build/

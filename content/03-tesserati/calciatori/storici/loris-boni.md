@@ -61,8 +61,51 @@ aliases:
 
 # Loris Boni (1979–1980)
 
-![Figurina Panini ufficiale del centrocampista Loris Boni con la casacca del Calcio Catania 1979-1980 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp)
-*Figurina Panini ufficiale del centrocampista Loris Boni con la casacca del Calcio Catania 1979-1980 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp" alt="Loris Boni (1979–1980)" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Loris Boni (1979–1980)</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1953</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1979–1980</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>32</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Loris Boni** (Remedello, 14 gennaio 1953)  stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore Lino De Petrillo. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
 

@@ -1,7 +1,7 @@
 ---
 title: "Skizzati Passarello (Curva Nord)"
 description: "Dossier sul gruppo Skizzati Passarello della Curva Nord: identità rionale tra Picanello, Ognina e centro storico, militanza e coerenza ultras."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/skizzati-passarello"
+slug: "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
 entity_type: "gruppo_ultras"
 foundation_year: 2004
 origin_district: "Rione Passarello (tra Picanello, Ognina e Centro, Catania)"
@@ -27,6 +27,8 @@ sources:
     year: 2016
     reference: "Il ruolo di Skizzati Passarello nel blocco no-tessera"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
+  - "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
   - "tifoseria/curva-nord/skizzati-passarello"
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: Romolo Rossi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Romolo Rossi, difensore
-  del Calcio Catania con 39 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Romolo Rossi, difensore del Calcio Catania con 41 presenze e 3
+  gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/romolo-rossi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 39
+total_appearances: 41
 seasons_count: 2
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/426_romolo-rossi.jpg
 image_credits:
 - image_path: assets/images/players/426_romolo-rossi.jpg
-  alt_text: Ritratto del calciatore Romolo Rossi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Romolo Rossi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - romolo-rossi
 - tesserati/romolo-rossi
 - calciatori/romolo-rossi
+total_goals: 3
+total_assists: 0
+minutes_played: 3323
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Romolo Rossi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Romolo Rossi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/426_romolo-rossi.jpg)
-*Ritratto del calciatore Romolo Rossi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/426_romolo-rossi.jpg" alt="Romolo Rossi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Romolo Rossi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>41</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Romolo Rossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 39
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1986-1987** | Difensore centrale | 19 | 2 | 0 | 0 | 0 | 1670' |
+| **1987-1988** | Difensore centrale | 22 | 1 | 0 | 0 | 0 | 1653' |
+| **TOTALE** | — | **41** | **3** | **0** | **0** | **0** | **3323'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Romolo Rossi** ha collezionato complessivamente **41 presenze ufficiali**, disputando **3323 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

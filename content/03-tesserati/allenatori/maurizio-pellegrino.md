@@ -56,6 +56,12 @@ aliases:
 citizenship: Italia
 total_appearances: 31
 seasons_count: 3
+
+total_matches: 14
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 # Maurizio Pellegrino
@@ -93,3 +99,14 @@ Nel 2014 sfiorò un clamoroso miracolo salvezza in Serie A con tre vittorie cons
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 19/12/2014 — 03/01/2015 | 15 giorni | 3 | 0,33 |
+| 06/04/2014 — 14/09/2014 | 161 giorni | 11 | 1,45 |
+| 11/09/2002 — 03/11/2002 | 53 giorni | 0 | - |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

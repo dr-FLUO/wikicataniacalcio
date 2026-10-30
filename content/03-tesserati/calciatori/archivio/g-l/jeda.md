@@ -1,11 +1,11 @@
 ---
 title: Jeda — L'Attaccante Brasiliano Decisivo per la Salvezza in Serie B (2004-2005)
-description: Biografia e statistiche di Jeda (Jedaias Capucho Neves), centravanti
-  brasiliano decisivo per la permanenza del Catania in Serie B nel 2005.
+description: Biografia, presenze e statistiche ufficiali di Jeda, attaccante / seconda punta del Calcio Catania con 19 presenze
+  e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/jeda
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1979-04-15
 birth_place: Santarém, Brasile
 nationality: Brasile
@@ -32,8 +32,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Jeda
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -51,18 +50,67 @@ aliases:
 - calciatori/jeda
 image_credits:
 - image_path: /assets/images/calciatori/jeda.jpg
-  alt_text: 'Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini
-    dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons
+    Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Brasile
+total_assists: 0
+minutes_played: 1628
+seasons_count: 1
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Jeda
 
-![Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/jeda.jpg)
-*Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/jeda.jpg" alt="Jeda" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Jeda</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2005</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>19</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Jeda**, all'anagrafe **Jedaias Capucho Neves** (Santarém, 15 aprile 1979), è un allenatore di calcio ed ex calciatore brasiliano, nel ruolo di attaccante. Acquistato nel gennaio **2005** dalla neonata dirigenza di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e Pietro Lo Monaco per rinforzare la squadra nella difficile [[stagioni/2004-2005|Stagione 2004-2005]], si rivelò l'autentico salvatore della patria cadetta.
@@ -84,14 +132,16 @@ Con la maglia numero 11, Jeda conquistò i tifosi del Massimino per la sua rapid
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2005) | 19 | 6 | Attaccante / Seconda punta | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] |
-| **Totale Complessivo** | **19** | **6** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Seconda punta | 19 | 6 | 0 | 1 | 0 | 1628' |
+| **TOTALE** | — | **19** | **6** | **0** | **1** | **0** | **1628'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Jeda** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1628 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Jeda](https://it.wikipedia.org/wiki/Jeda)*.

@@ -46,9 +46,56 @@ aliases:
 - calciatori/guido-spikofski
 ---
 
-
-
 # Guido Spikofski
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Guido Spikofski</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1923</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Ungheria</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1955–1957</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>60</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Guido Spikofski** (all'anagrafe **György Spikofszky**, Budapest, 25 luglio 1923 – Budapest, 2 settembre 2007) è stato un calciatore e allenatore di calcio ungherese, di ruolo ala destra. Ingaggiato dal Club Calcio Catania nel **1955** dopo le esperienze con Roma e Palermo, incantò il Cibali per due stagioni con giocate di pura classe magistrale.
 
@@ -66,15 +113,6 @@ Nel campionato di Serie B [[stagioni/1955-1956|1955-1956]] fu il trascinatore of
 ### Il Ruolo di Leader Tattico nel 1955-1957
 
 Capace di saltare l'avversario con finte fulminee e di crossare con precisione millimetrica per i compagni, Spikofski garantì rendimento costante anche nel 1956-1957 (26 presenze), confermandosi uno dei talenti stranieri più amati della storia rossazzurra degli anni Cinquanta.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1955-1957) | 60 | 10 | Attaccante / Ala destra | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **60** | **10** | — | — |
 
 ---
 

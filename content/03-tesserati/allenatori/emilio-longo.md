@@ -43,6 +43,12 @@ aliases:
 - allenatori/emilio-longo
 - emilio-longo
 - tesserati/emilio-longo
+
+total_matches: 14
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -82,3 +88,12 @@ Sulla panchina rossazzurra, Longo ha impostato la squadra con una forte impronta
 1. **Wikipedia Italia**, *Catania Football Club 2026-2027*, consultabile su [it.wikipedia.org](https://it.wikipedia.org/wiki/Catania_Football_Club_2026-2027).
 2. **Catania Football Club**, *Emilio Longo è il nuovo allenatore del Catania*, 3 luglio 2026, consultabile su [cataniafc.it](https://www.cataniafc.it/it/notizie/emilio-longo-e-il-nuovo-allenatore-del-catania/).
 3. **Lega Italiana Calcio Professionistico**, *Referti Arbitrali e Comunicati Ufficiali Serie C NOW 2026-2027*, Lega Pro, Firenze, 2026.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 03/07/2026 — in carica | 119 giorni | 14 | 1,57 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

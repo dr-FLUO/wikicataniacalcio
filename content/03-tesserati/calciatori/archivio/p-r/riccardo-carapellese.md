@@ -1,11 +1,11 @@
 ---
 title: Riccardo Carapellese — L'Eroe Azzurro e Capitano d'Esperienza al Cibali (1957-1959)
-description: Biografia e statistiche di Riccardo Carapellese, leggenda del calcio
-  italiano ed ex capitano della Nazionale, capitano del Catania tra il 1957 e il 1959.
+description: Biografia, presenze e statistiche ufficiali di Riccardo Carapellese, attaccante / ala sinistra / capitano del
+  Calcio Catania con 31 presenze e 9 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/riccardo-carapellese
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1922-07-01
 death_date: 1995-10-20
 birth_place: Cerignola (FG), Italia
@@ -14,7 +14,7 @@ nationality: Italia
 role: Attaccante / Ala sinistra / Capitano
 catania_periods:
 - 1957-1959
-total_appearances: 30
+total_appearances: 31
 league_appearances: 30
 total_goals: 9
 league_goals: 9
@@ -33,8 +33,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Riccardo_Carapellese
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -52,19 +51,67 @@ aliases:
 - calciatori/riccardo-carapellese
 image_credits:
 - image_path: /assets/images/calciatori/riccardo-carapellese.jpg
-  alt_text: 'Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti:
+    Wikimedia Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Regno d'Italia
 seasons_count: 2
+total_assists: 0
+minutes_played: 2790
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Riccardo Carapellese
 
-![Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-carapellese.jpg)
-*Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/riccardo-carapellese.jpg" alt="Riccardo Carapellese" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Riccardo Carapellese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1922</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1957–1959</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>31</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Riccardo Carapellese** (Cerignola, 1 luglio 1922 – Rapallo, 20 ottobre 1995) è stato un calciatore e allenatore di calcio italiano, tra le più grandi ali sinistre del calcio nazionale del dopoguerra. Storico capitano della Nazionale Italiana ai Mondiali del 1950 in Brasile e del Torino post-Superga, approdò al Catania nel **1957** all'età di 35 anni.
@@ -86,14 +133,17 @@ Indossando la fascia di capitano con dignità regale, guidò i giovani compagni 
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1957-1959) | 30 | 9 | Attaccante / Ala sinistra / Capitano | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] |
-| **Totale Complessivo** | **30** | **9** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1956-1957** | Ala sinistra | 19 | 6 | 0 | 0 | 0 | 1710' |
+| **1957-1958** | Ala sinistra | 12 | 3 | 0 | 0 | 0 | 1080' |
+| **TOTALE** | — | **31** | **9** | **0** | **0** | **0** | **2790'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Riccardo Carapellese** ha collezionato complessivamente **31 presenze ufficiali**, disputando **2790 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Riccardo Carapellese](https://it.wikipedia.org/wiki/Riccardo_Carapellese)*.

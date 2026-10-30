@@ -47,8 +47,51 @@ citizenship: Regno d'Italia
 
 # Renato Miglioli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Renato Miglioli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/renato-miglioli.jpg)
-*Ritratto del calciatore Renato Miglioli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/renato-miglioli.jpg" alt="Renato Miglioli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Renato Miglioli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1921</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1952–1953</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>35</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Renato Miglioli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,24 +101,3 @@ Centrocampista ed ala di grande tecnica, già bandiera di Atalanta e Inter. Appr
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1952-1953, totalizzando **35 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
-
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Presenze Totali Ufficiali** | 35 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (1952-1953) |
-| **Nazionalità Sportiva** | Italia |
-| **Luogo e Data di Nascita** | Caronno Varesino, Italia (1921-10-03) |
-
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Renato Miglioli](https://it.wikipedia.org/wiki/Renato_Miglioli) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.

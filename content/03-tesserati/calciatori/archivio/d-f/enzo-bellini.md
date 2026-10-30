@@ -1,11 +1,11 @@
 ---
 title: Enzo Bellini — L'Ala Goleador della Promozione in Serie B del 1939
-description: Biografia e statistiche di Enzo Bellini, attaccante del Catania con 16
-  reti tra il 1938 e il 1940 e protagonista della promozione in Serie B nel 1938-1939.
+description: Biografia, presenze e statistiche ufficiali di Enzo Bellini, attaccante / ala destra del Calcio Catania con 3
+  presenze e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/enzo-bellini
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1917-02-14
 death_date: 2001-08-11
 birth_place: Bondeno (FE), Italia
@@ -14,9 +14,9 @@ nationality: Italia
 role: Attaccante / Ala destra
 catania_periods:
 - 1938-1940
-total_appearances: 45
+total_appearances: 3
 league_appearances: 41
-total_goals: 16
+total_goals: 2
 league_goals: 15
 club_entities:
 - '[[societa/1929-ss-catania|Associazione Fascista Calcio Catania]]'
@@ -34,8 +34,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Enzo_Bellini_(calciatore)
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -51,9 +50,63 @@ aliases:
 - tesserati/enzo-bellini
 - calciatori/enzo-bellini
 citizenship: Regno d'Italia
+total_assists: 0
+minutes_played: 270
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Enzo Bellini
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Enzo Bellini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1917</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1938–1940</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Enzo Bellini** (Bondeno, 14 febbraio 1917 – Ferrara, 11 agosto 2001) è stato un calciatore e allenatore di calcio italiano, di ruolo ala destra. Giunto a Catania nel **1938** dalla SPAL, fu il grande trascinatore offensivo della [[stagioni/1938-1939|Stagione 1938-1939]], culminata con il primo posto nel Girone H di Serie C e la vittoria del girone finale promozione per il ritorno in Serie B.
 
@@ -74,19 +127,20 @@ Nel campionato di Serie C 1938-1939 Bellini fu devastante per le retroguardie av
 
 ---
 
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1938-1940) | 41 | 15 | Attaccante / Ala destra | [[societa/1929-ss-catania\|Associazione Fascista Calcio Catania]] |
-| Coppe Nazionali / Spareggi | 4 | 1 | Attaccante / Ala destra | Gare ufficiali |
-| **Totale Complessivo** | **45** | **16** | — | — |
-
----
-
 ## Fonti
 
 - **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 79-88 (Stagioni 1938-1939 e 1939-1940).
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1936-1937** | Attacco | 2 | 1 | 0 | 0 | 0 | 180' |
+| **1938-1939** | Attacco | 1 | 1 | 0 | 0 | 0 | 90' |
+| **TOTALE** | — | **3** | **2** | **0** | **0** | **0** | **270'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Enzo Bellini** ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

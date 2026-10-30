@@ -1,13 +1,12 @@
 ---
 title: Marco Biagianti — Il Capitano e Primatista Assoluto di Presenze (284)
-description: Biografia e statistiche di Marco Biagianti, capitano e primatista assoluto
-  di presenze nella storia del Calcio Catania con 284 gare ufficiali (153 in Serie
-  A).
+description: Biografia, presenze e statistiche ufficiali di Marco Biagianti, centrocampista / mediano del Calcio Catania con
+  284 presenze e 12 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/marco-biagianti
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1984-04-19
+last_verified_date: '2026-10-30'
+birth_date: '1984-04-19'
 birth_place: Firenze, Italia
 nationality: Italia
 role: Centrocampista / Mediano
@@ -18,7 +17,7 @@ catania_periods:
 total_appearances: 284
 league_appearances: 258
 serie_a_appearances: 153
-total_goals: 6
+total_goals: 12
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
@@ -35,8 +34,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Marco_Biagianti
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -53,8 +51,7 @@ sources:
   reference: 'ID 10: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Biagianti-10
 cover_image: marco-biagianti.jpg
-cover_caption: Marco Biagianti, capitano e primatista di presenze in Serie A con il
-  Calcio Catania (284 gare ufficiali).
+cover_caption: Marco Biagianti, capitano e primatista di presenze in Serie A con il Calcio Catania (284 gare ufficiali).
 cover_credit: 'Foto: Manku 7 · Licenza: Public Domain (Wikimedia Commons)'
 aliases:
 - tesserati/calciatori/marco-biagianti
@@ -63,22 +60,72 @@ aliases:
 - calciatori/marco-biagianti
 image_credits:
 - image_path: /assets/images/calciatori/marco-biagianti.jpg
-  alt_text: 'Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
+height: 179 cm
+foot: Destro
+total_assists: 11
+minutes_played: 20482
+seasons_count: 12
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Marco Biagianti
 
-![Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/marco-biagianti.jpg)
-*Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/marco-biagianti.jpg" alt="Marco Biagianti" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Marco Biagianti</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1984</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>179 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2007–2013, 2016–2020</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>284</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>11</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[societa/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **258 in campionato** e **153 in Serie A**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
-
 
 ## Il Primo Ciclo in Serie A (2007–2013): Da Mediano di Rottura a Capitano
 
@@ -114,7 +161,6 @@ Ripresa la fascia di capitano (condivisa con [[tesserati/calciatori/francesco-lo
 
 Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]] guidata dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[societa/presidenti/vincenzo-grella|Vincenzo Grella]], Biagianti è rientrato nei quadri societari come team manager e dirigente del settore giovanile, partecipando dalla panchina alla vittoria della [[stagioni/2022-2023|Serie D 2022-2023]].
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -127,6 +173,28 @@ Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania S
 - **Riconoscimenti:** Convocazione in Nazionale Italiana (stage CT Cesare Prandelli, giugno 2009) e inserimento tra gli 11 più grandi calciatori della storia etnea nel sondaggio del settantennale del 1946.
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2005-2006** | Mediano | 2 | 0 | 0 | 0 | 0 | 57' |
+| **2006-2007** | Mediano | 21 | 0 | 0 | 4 | 0 | 1442' |
+| **2007-2008** | Mediano | 36 | 0 | 3 | 4 | 0 | 2903' |
+| **2008-2009** | Mediano | 36 | 3 | 2 | 8 | 0 | 2962' |
+| **2009-2010** | Mediano | 15 | 0 | 0 | 2 | 0 | 1286' |
+| **2010-2011** | Mediano | 15 | 0 | 1 | 3 | 0 | 845' |
+| **2011-2012** | Mediano | 29 | 0 | 0 | 5 | 0 | 1594' |
+| **2012-2013** | Mediano | 1 | 0 | 0 | 0 | 0 | 10' |
+| **2015-2016** | Mediano | 31 | 2 | 3 | 10 | 0 | 2646' |
+| **2016-2017** | Mediano | 35 | 2 | 2 | 9 | 0 | 2491' |
+| **2017-2018** | Mediano | 39 | 4 | 0 | 4 | 0 | 3064' |
+| **2018-2019** | Mediano | 24 | 1 | 0 | 5 | 0 | 1182' |
+| **TOTALE** | — | **284** | **12** | **11** | **54** | **0** | **20482'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Marco Biagianti** ha collezionato complessivamente **284 presenze ufficiali**, disputando **20482 minuti** di gioco effettivo, siglando **12 gol** e servendo **11 assist** distribuiti su **12 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Marco Biagianti](https://it.wikipedia.org/wiki/Marco_Biagianti)*.

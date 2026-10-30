@@ -58,6 +58,12 @@ aliases:
 - guido-mazzetti
 - tesserati/guido-mazzetti
 - allenatori/guido-mazzetti
+
+total_matches: 77
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Guido Mazzetti, leggenda della panchina etnea negli anni Settanta — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp)
@@ -103,3 +109,14 @@ Nel 1977-1978 subentrò a Matteucci portando la squadra allo spareggio promozion
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1980 — 30/06/1981 | 364 giorni | 38 | 1,21 |
+| 21/03/1976 — 30/06/1976 | 101 giorni | 14 | 1,43 |
+| 01/07/1973 — 24/02/1974 | 238 giorni | 25 | 1,12 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

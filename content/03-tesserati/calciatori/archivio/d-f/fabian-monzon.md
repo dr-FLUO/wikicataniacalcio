@@ -1,13 +1,13 @@
 ---
 title: Fabian Monzon — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fabian Monzon, difensore
-  del Calcio Catania con 38 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Fabián Monzón, difensore del Calcio Catania con 41 presenze e
+  2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fabian-monzon
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 38
+total_appearances: 41
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/804_fabian-monzon.jpg
 image_credits:
 - image_path: assets/images/players/804_fabian-monzon.jpg
-  alt_text: Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,84 @@ aliases:
 birth_date: '1987-04-13'
 birth_place: Granadero Baigorria
 citizenship: Argentina
+total_goals: 2
+total_assists: 2
+minutes_played: 3056
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Fabian Monzon — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/804_fabian-monzon.jpg)
-*Ritratto del calciatore Fabian Monzon in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/804_fabian-monzon.jpg" alt="Fabian Monzon" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Fabian Monzon</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1987</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>41</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Fabian Monzon** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 38
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2012-2013** | Terzino sinistro | 23 | 2 | 1 | 2 | 0 | 1443' |
+| **2013-2014** | Terzino sinistro | 18 | 0 | 1 | 6 | 1 | 1613' |
+| **TOTALE** | — | **41** | **2** | **2** | **8** | **1** | **3056'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Fabián Monzón** ha collezionato complessivamente **41 presenze ufficiali**, disputando **3056 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

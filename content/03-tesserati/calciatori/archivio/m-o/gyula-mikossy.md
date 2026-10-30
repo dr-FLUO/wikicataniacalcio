@@ -47,8 +47,51 @@ citizenship: Romania
 
 # Gyula Mikossy — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Gyula Mikossy in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gyula-mikossy.jpg)
-*Ritratto del calciatore Gyula Mikossy in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/gyula-mikossy.jpg" alt="Gyula Mikossy" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gyula Mikossy</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1908</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Romania / Ungheria</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1936–1938</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>48</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Gyula Mikossy** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,24 +101,3 @@ Centrocampista della scuola mitteleuropea danubiana. Arrivato in Italia negli an
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1936-1938, totalizzando **48 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
-
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Presenze Totali Ufficiali** | 48 gare |
-| **Stagioni in Maglia Rossazzurra** | 2 stagioni (1936-1938) |
-| **Nazionalità Sportiva** | Romania / Ungheria |
-| **Luogo e Data di Nascita** | Arad, Romania (1908-11-20) |
-
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Gyula Mikossy](https://it.wikipedia.org/wiki/Gyula_Mikossy) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.

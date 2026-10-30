@@ -1,13 +1,13 @@
 ---
 title: Roberto Sorrentino — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Roberto Sorrentino, portiere
-  del Calcio Catania con 167 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Roberto Sorrentino, portiere del Calcio Catania con 180 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/roberto-sorrentino
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
-total_appearances: 167
+total_appearances: 180
 seasons_count: 5
 tags:
 - calciatori
@@ -52,37 +52,87 @@ aliases:
 birth_date: '1955-08-14'
 birth_place: Napoli
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 15905
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Roberto Sorrentino — Scheda Giocatore nel Calcio Catania
 
-![Figurina Panini del portiere e capitano Roberto Sorrentino con il Catania 1982-1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](../../../assets/images/calciatori/figurine/roberto-sorrentino-calcio-catania-figurina-panini-1982-1983.webp)
-*Figurina Panini del portiere e capitano Roberto Sorrentino con il Catania 1982-1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
-
-
-![Ritratto del calciatore Roberto Sorrentino in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/480_roberto-sorrentino.jpg)
-*Ritratto del calciatore Roberto Sorrentino in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/480_roberto-sorrentino.jpg" alt="Roberto Sorrentino" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Roberto Sorrentino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1955</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>180</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Roberto Sorrentino** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 167
-* **Stagioni disputate**: 5
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1978-1979** | Portiere | 27 | 0 | 0 | 0 | 0 | 2295' |
+| **1979-1980** | Portiere | 41 | 0 | 0 | 0 | 0 | 3645' |
+| **1980-1981** | Portiere | 36 | 0 | 0 | 0 | 0 | 3195' |
+| **1981-1982** | Portiere | 42 | 0 | 0 | 0 | 0 | 3726' |
+| **1982-1983** | Portiere | 34 | 0 | 0 | 0 | 0 | 3044' |
+| **TOTALE** | — | **180** | **0** | **0** | **0** | **0** | **15905'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Roberto Sorrentino** ha collezionato complessivamente **180 presenze ufficiali**, disputando **15905 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

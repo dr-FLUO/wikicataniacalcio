@@ -1,18 +1,18 @@
 ---
 title: Babú — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Babú, attaccante esterno
-  del Calcio Catania con 32 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Babù, attaccante esterno del Calcio Catania con 3 presenze e 0
+  gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/babu
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante Esterno
 birth_date: '1980-12-23'
 birth_place: San Paolo, Brasile
 death_date: ''
 nationality: Brasile
-total_appearances: 32
-seasons_count: 2
+total_appearances: 3
+seasons_count: 1
 tags:
 - calciatori
 - babu
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Bab%C3%BA
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/babu
 - calciatori/babu
 citizenship: Brasile
+total_goals: 0
+total_assists: 0
+minutes_played: 77
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Babú — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Babú in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/archivio-calciocatania/anderson-de-oliveira-rodney-babu-calcio-catania-attaccante-2002-2008.webp)
-*Ritratto del calciatore Babú in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/anderson-de-oliveira-rodney-babu-calcio-catania-attaccante-2002-2008.webp" alt="Babú" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Babú</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1980</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Brasile</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Babú** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante Esterno**.
 
@@ -58,24 +105,12 @@ Ala rapida e fantasiosa brasiliana (Anderson Rodney de Oliveira detto Babú). Ap
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2007-2009, totalizzando **32 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante Esterno |
-| **Presenze Totali Ufficiali** | 32 gare |
-| **Stagioni in Maglia Rossazzurra** | 2 stagioni (2007-2009) |
-| **Nazionalità Sportiva** | Brasile |
-| **Luogo e Data di Nascita** | San Paolo, Brasile (1980-12-23) |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2006-2007** | Ala destra | 3 | 0 | 0 | 0 | 0 | 77' |
+| **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **77'** |
 
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Babú](https://it.wikipedia.org/wiki/Bab%C3%BA) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Babù** ha collezionato complessivamente **3 presenze ufficiali**, disputando **77 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

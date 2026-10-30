@@ -75,6 +75,12 @@ aliases:
 - tesserati/carmelo-di-bella
 - allenatori/carmelo-di-bella
 citizenship: Regno d'Italia
+
+total_matches: 380
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Carmelo Di Bella a bordo campo durante una partita ufficiale del Calcio Catania](/assets/images/allenatori/carmelo-di-bella-panchina.jpg)
@@ -142,3 +148,14 @@ Dopo l'amara retrocessione del 1965-1966 (a un solo punto dalla salvezza), Di Be
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 74–90, 175–232, 250–262, 276–281.
 2. **Alessandro Russo**, *Carmelo Di Bella, l'epopea del Mago che fece grande il Catania in Serie A*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2012.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/1976 — 30/06/1977 | 364 giorni | 42 | 0,95 |
+| 11/10/1971 — 30/06/1973 | 628 giorni | 77 | 1,42 |
+| 22/12/1958 — 10/01/1966 | 2576 giorni | 261 | 1,26 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

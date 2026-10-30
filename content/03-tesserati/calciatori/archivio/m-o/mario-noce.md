@@ -1,14 +1,14 @@
 ---
 title: Mario Noce — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Mario Noce, difensore
-  del Calcio Catania con 9 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Mario Noce, difensore del Calcio Catania con 13 presenze e 0 gol
+  registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/mario-noce
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 9
-seasons_count: 2
+total_appearances: 13
+seasons_count: 3
 tags:
 - calciatori
 - mario-noce
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Noce-933
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 933
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -38,33 +37,85 @@ aliases:
 - mario-noce
 - tesserati/mario-noce
 - calciatori/mario-noce
+total_goals: 0
+total_assists: 0
+minutes_played: 737
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Mario Noce — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Mario Noce in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/933_mario-noce.jpg)
-*Ritratto del calciatore Mario Noce in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/933_mario-noce.jpg" alt="Mario Noce" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mario Noce</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Mario Noce** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 9
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2017-2018** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 75' |
+| **2018-2019** | Difensore centrale | 5 | 0 | 0 | 0 | 0 | 332' |
+| **2019-2020** | Difensore centrale | 7 | 0 | 0 | 1 | 0 | 330' |
+| **TOTALE** | — | **13** | **0** | **0** | **1** | **0** | **737'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Mario Noce** ha collezionato complessivamente **13 presenze ufficiali**, disputando **737 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

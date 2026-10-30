@@ -1,11 +1,11 @@
 ---
 title: Fulvio Francesconi — Due Volte Re del Gol in Serie B al Cibali (1971-1973)
-description: Biografia e statistiche di Fulvio Francesconi, capocannoniere del Catania
-  per due stagioni consecutive di Serie B con 20 reti in 74 gare.
+description: Biografia, presenze e statistiche ufficiali di Fulvio Francesconi, attaccante / ala tornante del Calcio Catania
+  con 74 presenze e 19 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fulvio-francesconi
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1944-11-19
 birth_place: Pordenone, Italia
 nationality: Italia
@@ -14,7 +14,7 @@ catania_periods:
 - 1971-1973
 total_appearances: 74
 league_appearances: 70
-total_goals: 20
+total_goals: 19
 league_goals: 20
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
@@ -32,8 +32,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Fulvio_Francesconi
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -51,19 +50,67 @@ aliases:
 - calciatori/fulvio-francesconi
 image_credits:
 - image_path: /assets/images/calciatori/fulvio-francesconi.jpg
-  alt_text: 'Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
 seasons_count: 2
+total_assists: 0
+minutes_played: 6258
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Fulvio Francesconi
 
-![Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/fulvio-francesconi.jpg)
-*Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/fulvio-francesconi.jpg" alt="Fulvio Francesconi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Fulvio Francesconi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1944</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1971–1973</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>19</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Fulvio Francesconi** (Pordenone, 19 novembre 1944) è un ex calciatore italiano, nel ruolo di ala tornante e attaccante. Acquistato dal Catania nell'estate del **1971** dalla Sampdoria, fu il faro dell'attacco etneo per due campionati consecutivi di Serie B sotto la guida tecnica di Salvador Calvanese e Carmelo Di Bella.
@@ -85,15 +132,17 @@ Nel campionato 1971-1972 decise sfide caldissime contro Genoa, Bari e Reggina; n
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1971-1973) | 70 | 20 | Attaccante / Ala tornante | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| Coppe Nazionali / Spareggi | 4 | 0 | Attaccante / Ala tornante | Gare ufficiali |
-| **Totale Complessivo** | **74** | **20** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1970-1971** | Ala sinistra | 34 | 10 | 0 | 0 | 0 | 2703' |
+| **1971-1972** | Ala sinistra | 40 | 9 | 0 | 1 | 0 | 3555' |
+| **TOTALE** | — | **74** | **19** | **0** | **1** | **0** | **6258'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Fulvio Francesconi** ha collezionato complessivamente **74 presenze ufficiali**, disputando **6258 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fulvio Francesconi](https://it.wikipedia.org/wiki/Fulvio_Francesconi)*.

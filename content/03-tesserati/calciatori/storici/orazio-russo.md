@@ -1,9 +1,7 @@
 ---
 title: 'Orazio Russo — Il Figlio dell''Etna: Bandiera, Capitano, Tecnico e Dirigente'
-description: Biografia sportiva, statistiche e carriera di Orazio Russo (1973–2026),
-  unico calciatore della storia ad aver militato nel Calcio Catania in tutte le serie
-  professionistiche (dalla C2 alla Serie A), poi storico responsabile del vivaio e
-  dirigente rossazzurro.
+description: Biografia, presenze e statistiche ufficiali di Orazio Russo, attaccante / ala / team manager / allenatore giovanili
+  / responsabile settore giovanile del Calcio Catania con 125 presenze e 13 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/orazio-russo
 aliases:
 - societa/personaggi/orazio-russo
@@ -13,24 +11,23 @@ aliases:
 - calciatori/orazio-russo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-27'
+last_verified_date: '2026-10-30'
 birth_date: '1973-10-06'
 birth_place: Misterbianco (Catania), Italia
 death_date: '2026-02-14'
 death_place: Catania, Italia
 nationality: Italia
-role: Attaccante / Ala / Team Manager / Allenatore Giovanili / Responsabile Settore
-  Giovanile
+role: Attaccante / Ala / Team Manager / Allenatore Giovanili / Responsabile Settore Giovanile
 shirt_number: 11
 catania_periods:
 - 1991–1993
 - 1996–1997
 - 2004–2006
 - 2009–2010
-total_appearances: 119
+total_appearances: 125
 league_appearances: 92
 serie_a_appearances: 1
-total_goals: 12
+total_goals: 13
 club_entities:
 - '[[societa/1946-club-calcio-catania|Calcio Catania S.p.A. (Matricola 11700)]]'
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
@@ -53,13 +50,11 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Orazio_Russo
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: pp. 360-490 (Dettaglio tabellini, presenze, reti e carriere dal 1991
-    al 2010)
+  reference: pp. 360-490 (Dettaglio tabellini, presenze, reti e carriere dal 1991 al 2010)
 - author: Archivio Storico CalcioCatania.com
   title: 'Scheda anagrafica e statistiche ufficiali: Orazio Russo'
   publisher: calciocatania.com
@@ -67,32 +62,78 @@ sources:
   reference: 'ID 86: 92 presenze di campionato, ruoli, stagioni e schede partita'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Russo-86
 - author: Redazione Tutto il Catania Minuto per Minuto
-  title: 'Orazio Russo: l''unico a giocare in tutte le serie col Catania e la favola
-    dell''addio in A col Genoa'
+  title: 'Orazio Russo: l''unico a giocare in tutte le serie col Catania e la favola dell''addio in A col Genoa'
   publisher: tuttoilcataniaminutoperminuto.it
   year: 2026
   reference: Monografia storica e tributo alla memoria di Orazio Russo
   url: https://www.tuttoilcataniaminutoperminuto.it/
 cover_image: orazio-russo.jpg
-cover_caption: 'Orazio Russo con la divisa sociale del Calcio Catania: bandiera, tecnico
-  del vivaio e dirigente storico etneo.'
+cover_caption: 'Orazio Russo con la divisa sociale del Calcio Catania: bandiera, tecnico del vivaio e dirigente storico etneo.'
 cover_credit: Archivio Storico Calcio Catania (Pubblico Dominio)
 image: assets/images/calciatori/archivio-calciocatania/orazio-russo-calcio-catania-attaccante-1991-2010.webp
 image_credits:
 - image_path: /assets/images/calciatori/orazio-russo.jpg
-  alt_text: 'Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
-seasons_count: 6
+seasons_count: 7
+total_assists: 0
+minutes_played: 8569
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Orazio Russo
 
-![Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/orazio-russo.jpg)
-*Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/archivio-calciocatania/orazio-russo-calcio-catania-attaccante-1991-2010.webp" alt="Orazio Russo" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Orazio Russo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1973</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1991–1993, 1996–1997, 2004–2006, 2009–2010</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>125</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Orazio Russo** (Misterbianco, 6 ottobre 1973 – Catania, 14 febbraio 2026) è stato un calciatore, allenatore e dirigente sportivo italiano, di ruolo attaccante o ala offensiva. Considerato all'unanimità una delle bandiere più pure, autentiche e viscerali della storia del [[societa/1946-club-calcio-catania|Calcio Catania]], detiene un primato che nessun altro atleta ha mai eguagliato nella storia quasi centenaria dell'Elefante: è **l'unico calciatore ad aver indossato la maglia rossazzurra in tutte le categorie professionistiche del calcio italiano**, dalla Serie C2 alla Serie C1, dalla Serie B fino alla Serie A.
@@ -185,3 +226,19 @@ La notizia suscita un'ondata di cordoglio oceanica che travolge l'intera Sicilia
 2. **Archivio Storico CalcioCatania.com**, *Scheda carriera e presenze di Orazio Russo (ID 86)*, consultabile su [calciocatania.com/giocatori](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Russo-86).
 3. **Redazione Tutto il Catania Minuto per Minuto**, *Dossier memoriale e testimonianze su Orazio Russo*, [tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/).
 4. **Lega Nazionale Professionisti Serie A / Lega B**, *Tabellino ufficiale Catania–Genoa 1-0 del 16 maggio 2010*, Roma.
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1990-1991** | Ala destra | 5 | 0 | 0 | 0 | 0 | 159' |
+| **1991-1992** | Ala destra | 25 | 2 | 0 | 0 | 0 | 1861' |
+| **1995-1996** | Ala destra | 32 | 3 | 0 | 0 | 0 | 2823' |
+| **2003-2004** | Ala destra | 36 | 5 | 0 | 4 | 0 | 2603' |
+| **2004-2005** | Ala destra | 26 | 3 | 0 | 4 | 0 | 1117' |
+| **2005-2006** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2008-2009** | Ala destra | 1 | 0 | 0 | 0 | 0 | 6' |
+| **TOTALE** | — | **125** | **13** | **0** | **8** | **0** | **8569'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Orazio Russo** ha collezionato complessivamente **125 presenze ufficiali**, disputando **8569 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.

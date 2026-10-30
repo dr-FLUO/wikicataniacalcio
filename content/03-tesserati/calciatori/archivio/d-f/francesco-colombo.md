@@ -1,14 +1,14 @@
 ---
 title: Francesco Colombo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco Colombo, attaccante
-  del Calcio Catania con 52 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco Colombo, attaccante del Calcio Catania con 60 presenze
+  e 5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-colombo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 52
-seasons_count: 4
+total_appearances: 60
+seasons_count: 5
 tags:
 - calciatori
 - francesco-colombo
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/547_francesco-colombo.jpg
 image_credits:
 - image_path: assets/images/players/547_francesco-colombo.jpg
-  alt_text: Ritratto del calciatore Francesco Colombo in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Francesco Colombo in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,87 @@ aliases:
 - francesco-colombo
 - tesserati/francesco-colombo
 - calciatori/francesco-colombo
+total_goals: 5
+total_assists: 0
+minutes_played: 3610
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Francesco Colombo — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Francesco Colombo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/547_francesco-colombo.jpg)
-*Ritratto del calciatore Francesco Colombo in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/547_francesco-colombo.jpg" alt="Francesco Colombo" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Francesco Colombo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>60</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Francesco Colombo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 52
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1970-1971** | Attacco | 2 | 0 | 0 | 0 | 0 | 74' |
+| **1971-1972** | Attacco | 18 | 2 | 0 | 0 | 0 | 1196' |
+| **1972-1973** | Attacco | 19 | 2 | 0 | 0 | 0 | 1319' |
+| **1973-1974** | Attacco | 10 | 1 | 0 | 0 | 0 | 412' |
+| **1974-1975** | Attacco | 11 | 0 | 0 | 0 | 0 | 609' |
+| **TOTALE** | — | **60** | **5** | **0** | **0** | **0** | **3610'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Francesco Colombo** ha collezionato complessivamente **60 presenze ufficiali**, disputando **3610 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

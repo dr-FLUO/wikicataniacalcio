@@ -1,17 +1,17 @@
 ---
 title: Dante Mircoli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Dante Mircoli, centrocampista
-  del Calcio Catania con 25 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Dante Mircoli, centrocampista del Calcio Catania con 1 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/dante-mircoli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 birth_date: '1947-03-12'
 birth_place: Ladispoli, Italia
 death_date: '2019-12-19'
 nationality: Argentina / Italia
-total_appearances: 25
+total_appearances: 1
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Dante_Mircoli
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/dante-mircoli
 - calciatori/dante-mircoli
 citizenship: Argentina
+total_goals: 0
+total_assists: 0
+minutes_played: 75
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Dante Mircoli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Dante Mircoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/dante-mircoli.jpg)
-*Ritratto del calciatore Dante Mircoli in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/dante-mircoli.jpg" alt="Dante Mircoli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Dante Mircoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1947</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina / Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1975–1976</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Dante Mircoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
@@ -58,24 +105,12 @@ Mediano grintoso cresciuto nell'Independiente con cui vinse la Coppa Intercontin
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1975-1976, totalizzando **25 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Statistiche di Rendimento nel Calcio Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Categoria | Dettaglio Statistico |
-| :--- | :--- |
-| **Ruolo Tattico** | Centrocampista |
-| **Presenze Totali Ufficiali** | 25 gare |
-| **Stagioni in Maglia Rossazzurra** | 1 stagioni (1975-1976) |
-| **Nazionalità Sportiva** | Argentina / Italia |
-| **Luogo e Data di Nascita** | Ladispoli, Italia (1947-03-12) |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1974-1975** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 75' |
+| **TOTALE** | — | **1** | **0** | **0** | **0** | **0** | **75'** |
 
-## Collegamenti Interni Correlati
-
-- [[societa/matricola-11700|Calcio Catania (Matricola Federale 11700)]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Dante Mircoli](https://it.wikipedia.org/wiki/Dante_Mircoli) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale FIGC e Almanacco Illustrato del Calcio Panini.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Dante Mircoli** ha collezionato complessivamente **1 presenze ufficiali**, disputando **75 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

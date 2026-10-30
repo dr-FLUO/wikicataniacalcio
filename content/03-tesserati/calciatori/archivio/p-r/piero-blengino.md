@@ -49,9 +49,56 @@ aliases:
 - calciatori/piero-blengino
 ---
 
-
-
 # Piero Blengino
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Piero Blengino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1904</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1929–1931</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>29</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>—</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Piero Blengino** (noto nelle cronache dell'epoca anche come **Pierino Blengino**) è stato un calciatore italiano, nel ruolo di ala e attaccante. Entrato nella storia del club etneo come il primo bomber ufficiale della neocostituita [[societa/1929-ss-catania|Società Sportiva Catania]], fu il capocannoniere della squadra nella [[stagioni/1929-1930|Stagione 1929-1930]], la prima in assoluto disputata dalla società rossazzurra nei campionati FIGC.
 
@@ -69,15 +116,6 @@ In una squadra assemblata dal presidente [[societa/presidenti/santi-quasimodo|Sa
 ### La Prima Rete Ufficiale e il Campionato 1929-1930
 
 Nel torneo inaugurale di Seconda Divisione Sud 1929-1930, Blengino fu il perno dell'attacco rossazzurro, guidando i compagni in trasferte insidiose e siglando doppiette decisive contro avversari campani e calabresi. Riconfermato nella stagione successiva [[stagioni/1930-1931|1930-1931]] in Prima Divisione, totalizzò ulteriori 13 presenze e 3 reti al fianco del nuovo idolo etneo Ercole Bodini, chiudendo la sua esperienza catanese con 29 presenze e 10 reti totali.
-
----
-
-## Riepilogo Statistico nel Catania
-
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1929-1931) | 29 | 10 | Attaccante / Ala | [[societa/1929-ss-catania\|Società Sportiva Catania]] |
-| **Totale Complessivo** | **29** | **10** | — | — |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Adriano Zancopè — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Adriano Zancopè, portiere del Calcio Catania
-  con 13 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Adriano Zancopè, portiere del Calcio Catania con 13 presenze e
+  0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/adriano-zancope
 entity_type: calciatore
 status: verified
@@ -46,12 +46,63 @@ aliases:
 - calciatori/adriano-zancopè
 - 03-tesserati/calciatori/archivio/a-c/adriano-zancopè
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 1125
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Adriano Zancopè — Scheda Giocatore nel Calcio Catania
 
-
-
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Adriano Zancopè</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1971</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Adriano Zancopè** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
@@ -61,28 +112,12 @@ Nato a Padova (1971-11-19), Adriano Zancopè ha militato tra le file della forma
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo** | Portiere |
-| **Presenze ufficiali complessive** | 13 |
-| **Stagioni disputate** | 1 |
-| **Nazionalità sportiva** | Italia |
-| **Data e luogo di nascita** | 1971-11-19 — Padova |
-| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1999-2000** | Portiere | 13 | 0 | 0 | 0 | 0 | 1125' |
+| **TOTALE** | — | **13** | **0** | **0** | **0** | **0** | **1125'** |
 
-> [!note] Fonte statistica
-> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Zancope-222)).
-
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Adriano Zancopè*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Adriano_Zancop%C3%A8](https://it.wikipedia.org/wiki/Adriano_Zancop%C3%A8).
-2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Adriano Zancopè*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Zancope-222](https://www.calciocatania.com/giocatori/giocatori.php?Zancope-222).
-3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Adriano Zancopè** ha collezionato complessivamente **13 presenze ufficiali**, disputando **1125 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

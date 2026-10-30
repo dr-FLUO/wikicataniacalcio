@@ -1,24 +1,22 @@
 ---
 title: Pablo Barrientos — «El Pitu», Genio Tattico e Tecnica Sopraffina del Catania
-description: 'Biografia e statistiche di Pablo ''El Pitu'' Barrientos al Calcio Catania:
-  93 gare e 15 reti tra il 2009 e il 2014, talento cristallino del ciclo d''oro in
-  Serie A.'
+description: Biografia, presenze e statistiche ufficiali di Pablo Barrientos, centrocampista offensivo (trequartista / mezzala
+  / ala) del Calcio Catania con 93 presenze e 14 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pablo-barrientos
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1985-01-17
+last_verified_date: '2026-10-30'
+birth_date: '1985-01-17'
 birth_place: Comodoro Rivadavia, Argentina
 nationality: Argentina
 role: Centrocampista offensivo (Trequartista / Mezzala / Ala)
 shirt_number: 28
 catania_periods:
-- 2009-2011
-- 2011-2014
+- 2009-2014
 total_appearances: 93
 league_appearances: 86
 serie_a_appearances: 86
-total_goals: 15
+total_goals: 14
 league_goals: 14
 serie_a_goals: 14
 club_entities:
@@ -38,18 +36,15 @@ sources:
   url: https://it.wikipedia.org/wiki/Pablo_Barrientos
   reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Ufficiale Serie A TIM (2009-2014) — Scheda Pablo César
-    Barrientos
+  title: Archivio Statistico Ufficiale Serie A TIM (2009-2014) — Scheda Pablo César Barrientos
   publisher: Lega Serie A
   year: 2014
   reference: 86 presenze e 14 reti in Serie A, 7 presenze e 1 rete in Coppa Italia
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: pp. 458-466 (L'acquisto di Barrientos nel maggio 2009 e l'esordio nel
-    2010)
+  reference: pp. 458-466 (L'acquisto di Barrientos nel maggio 2009 e l'esordio nel 2010)
 - author: Roberto Quartarone, Alessandro Russo
   title: Pablo 'Pitu' Barrientos, il mancino vellutato del Catania dei record
   publisher: tuttoilcataniaminutoperminuto.it
@@ -63,8 +58,8 @@ sources:
   reference: 'ID 33: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Barrientos-33
 cover_image: pablo-barrientos.jpg
-cover_caption: Pablo César Barrientos («El Pitu») durante la preparazione con il Calcio
-  Catania a Torre del Grifo (86 gare e 14 reti in Serie A).
+cover_caption: Pablo César Barrientos («El Pitu») durante la preparazione con il Calcio Catania a Torre del Grifo (86 gare
+  e 14 reti in Serie A).
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0 (Wikimedia Commons)'
 aliases:
 - tesserati/calciatori/pablo-barrientos
@@ -73,18 +68,69 @@ aliases:
 - calciatori/pablo-barrientos
 image_credits:
 - image_path: /assets/images/calciatori/pablo-barrientos.jpg
-  alt_text: 'Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Argentina
+height: 173 cm
+foot: Sinistro
+total_assists: 14
+minutes_played: 7236
+seasons_count: 5
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Pablo Barrientos
 
-![Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pablo-barrientos.jpg)
-*Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/pablo-barrientos.jpg" alt="Pablo Barrientos" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Pablo Barrientos</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1985</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>173 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2009–2014</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>93</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>14</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>14</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Pablo César Barrientos**, affettuosamente soprannominato **"El Pitu"** (Comodoro Rivadavia, 17 gennaio 1985), è un ex calciatore argentino, di ruolo centrocampista offensivo, mezzala o ala. Mancino purissimo dal tocco vellutato, dotato di visione periferica eccezionale e balistica sopraffina da fuori area, ha vestito la maglia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] in due fasi tra il **2009** e il **2014**, totalizzando **93 presenze ufficiali e 15 reti** (86 presenze e 14 gol in Serie A, oltre a 7 gare e 1 rete in Coppa Italia). Assieme ad [[tesserati/calciatori/alejandro-gomez|Alejandro Gómez]] e [[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]], ha formato il triangolo di pura fantasia che ha trascinato il club al vertice assoluto della sua storia in massima serie.
@@ -149,6 +195,21 @@ Nel luglio 2014, dopo **93 gare ufficiali e 15 reti** con il Catania, fa ritorno
 - **Gol Più Spettacolare:** Il tiro a parabola dai 30 metri in Lecce-Catania 0-1 (26 novembre 2011), tra le perle balistiche più celebri dell'era etnea in massima serie.
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2008-2009** | Ala destra | 2 | 0 | 0 | 0 | 0 | 60' |
+| **2009-2010** | Ala destra | 2 | 0 | 1 | 0 | 0 | 210' |
+| **2010-2011** | Ala destra | 26 | 4 | 4 | 5 | 0 | 1757' |
+| **2011-2012** | Ala destra | 35 | 5 | 5 | 7 | 0 | 2922' |
+| **2012-2013** | Ala destra | 28 | 5 | 4 | 10 | 0 | 2287' |
+| **TOTALE** | — | **93** | **14** | **14** | **22** | **0** | **7236'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pablo Barrientos** ha collezionato complessivamente **93 presenze ufficiali**, disputando **7236 minuti** di gioco effettivo, siglando **14 gol** e servendo **14 assist** distribuiti su **5 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pablo Barrientos](https://it.wikipedia.org/wiki/Pablo_Barrientos)*.

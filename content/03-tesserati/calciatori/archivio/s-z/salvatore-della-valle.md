@@ -1,11 +1,11 @@
 ---
 title: Salvatore Della Valle — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Salvatore Della Valle,
-  portiere del Calcio Catania con 0 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Salvatore Della Valle, portiere del Calcio Catania con 0 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/salvatore-della-valle
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Portiere
 total_appearances: 0
 seasons_count: 2
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/928_salvatore-della-valle.jpg
 image_credits:
 - image_path: assets/images/players/928_salvatore-della-valle.jpg
-  alt_text: Ritratto del calciatore Salvatore Della Valle in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Salvatore Della Valle in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - salvatore-della-valle
 - tesserati/salvatore-della-valle
 - calciatori/salvatore-della-valle
+total_goals: 0
+total_assists: 0
+minutes_played: 0
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Salvatore Della Valle — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Salvatore Della Valle in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/928_salvatore-della-valle.jpg)
-*Ritratto del calciatore Salvatore Della Valle in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/928_salvatore-della-valle.jpg" alt="Salvatore Della Valle" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Salvatore Della Valle</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Salvatore Della Valle** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 0
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2018-2019** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2019-2020** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Salvatore Della Valle** ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

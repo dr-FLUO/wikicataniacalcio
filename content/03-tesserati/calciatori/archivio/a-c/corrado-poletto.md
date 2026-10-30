@@ -1,13 +1,13 @@
 ---
 title: Corrado Poletto — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Corrado Poletto, centrocampista
-  del Calcio Catania con 70 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Corrado Poletto, centrocampista del Calcio Catania con 72 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/corrado-poletto
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 70
+total_appearances: 72
 seasons_count: 2
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/548_corrado-poletto.jpg
 image_credits:
 - image_path: assets/images/players/548_corrado-poletto.jpg
-  alt_text: Ritratto del calciatore Corrado Poletto in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Corrado Poletto in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -38,33 +37,84 @@ aliases:
 - corrado-poletto
 - tesserati/corrado-poletto
 - calciatori/corrado-poletto
+total_goals: 1
+total_assists: 0
+minutes_played: 6256
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Corrado Poletto — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Corrado Poletto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/548_corrado-poletto.jpg)
-*Ritratto del calciatore Corrado Poletto in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/548_corrado-poletto.jpg" alt="Corrado Poletto" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Corrado Poletto</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>72</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Corrado Poletto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 70
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1973-1974** | Mediano | 34 | 0 | 0 | 0 | 0 | 3045' |
+| **1974-1975** | Mediano | 38 | 1 | 0 | 0 | 1 | 3211' |
+| **TOTALE** | — | **72** | **1** | **0** | **0** | **1** | **6256'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Corrado Poletto** ha collezionato complessivamente **72 presenze ufficiali**, disputando **6256 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

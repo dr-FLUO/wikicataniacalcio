@@ -1,13 +1,12 @@
 ---
 title: Giuseppe Mascara — Il Genio Rossazzurro (60 Reti e 235 Presenze)
-description: Biografia e statistiche di Giuseppe Mascara, secondo marcatore assoluto
-  della storia del Catania con 60 reti in 235 gare (31 in Serie A) e bandiera dal
-  2003 al 2011.
+description: Biografia, presenze e statistiche ufficiali di Giuseppe Mascara, attaccante / seconda punta / fantasista del
+  Calcio Catania con 238 presenze e 60 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/giuseppe-mascara
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1979-08-22
+last_verified_date: '2026-10-30'
+birth_date: '1979-03-22'
 birth_place: Caltagirone (CT), Italia
 nationality: Italia
 role: Attaccante / Seconda punta / Fantasista
@@ -15,7 +14,7 @@ shirt_number: 7
 catania_periods:
 - 2003-2004
 - 2005-2011
-total_appearances: 235
+total_appearances: 238
 league_appearances: 224
 serie_a_appearances: 145
 total_goals: 60
@@ -39,19 +38,16 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Giuseppe_Mascara
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: pp. 424-488 (Stagioni dal 2003-2004 al 2009-2010)
 - author: FIGC / Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Giuseppe Mascara e Tabellino Italia-Irlanda del Nord
-    (6 giugno 2009)
+  title: Archivio Statistico Giuseppe Mascara e Tabellino Italia-Irlanda del Nord (6 giugno 2009)
   publisher: FIGC
   year: 2011
-  reference: 235 presenze e 60 reti ufficiali nel Calcio Catania; 1 presenza in Nazionale
-    A
+  reference: 235 presenze e 60 reti ufficiali nel Calcio Catania; 1 presenza in Nazionale A
 - author: Archivio Storico CalcioCatania.com
   title: Scheda anagrafica e statistiche ufficiali di Giuseppe Mascara
   publisher: calciocatania.com
@@ -59,8 +55,7 @@ sources:
   reference: 'ID 51: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Mascara-51
 cover_image: mascara-tifosi.jpg
-cover_caption: 'Giuseppe Mascara acclamato dai tifosi: capitano, 235 presenze e 60
-  reti in maglia rossazzurra.'
+cover_caption: 'Giuseppe Mascara acclamato dai tifosi: capitano, 235 presenze e 60 reti in maglia rossazzurra.'
 cover_credit: 'Foto: Roberto Quartarone · Licenza: CC BY-SA 2.5'
 aliases:
 - tesserati/calciatori/giuseppe-mascara
@@ -70,23 +65,72 @@ aliases:
 - 03-tesserati/calciatori/giuseppe-mascara
 image_credits:
 - image_path: /assets/images/calciatori/giuseppe-mascara.jpg
-  alt_text: 'Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Italia
 seasons_count: 7
+height: 172 cm
+foot: Destro
+total_assists: 26
+minutes_played: 20014
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Giuseppe Mascara
 
-![Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/giuseppe-mascara.jpg)
-*Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/mascara-tifosi.jpg" alt="Giuseppe Mascara" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Giuseppe Mascara</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>172 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2003–2004, 2005–2011</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>238</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>60</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>26</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Giuseppe Mascara** (Caltagirone, 22 agosto 1979) è un allenatore di calcio ed ex calciatore italiano, di ruolo attaccante o trequartista. Fantasista dal talento cristallino e simbolo identitario del calcio etneo negli anni Duemila, occupa il **secondo posto nella classifica dei marcatori assoluti della storia del Catania con 60 reti ufficiali** (alle spalle del solo [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]] a quota 78) e il **sesto posto assoluto per presenze con 235 gare** (di cui **145 presenze e 31 reti in Serie A**). È stato il **primo calciatore della storia del Calcio Catania a vestire la maglia della Nazionale Italiana maggiore** durante la militanza in rossazzurro (6 giugno 2009).
-
 
 ## L'Arrivo nell'Era Gaucci (2003–2004) e il Trionfo verso la Serie A (2005–2006)
 
@@ -117,7 +161,6 @@ Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segn
 | **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 18 | 1 | 1 (0) | **19 (1)** |
 | **Totale** | **7 Stagioni in Rossazzurro** | **Serie A / B** | **224 (145 A + 79 B)** | **58 (31 A + 27 B)** | **11 (2)** | **235 (60)** |
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -130,6 +173,23 @@ Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segn
 - **Imprese Iconiche:** Promozione in Serie A nella [[stagioni/2005-2006|Stagione 2005-2006]], gol al volo da 50 metri nel derby [[partite/precedenti/palermo|Palermo-Catania 0-4]] (1º marzo 2009) e rigore a *"cucchiaio"* nel 3-1 all'[[partite/precedenti/inter|Inter]] del *Triplete* (12 marzo 2010).
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2002-2003** | Seconda punta | 41 | 13 | 0 | 8 | 0 | 3521' |
+| **2004-2005** | Seconda punta | 36 | 14 | 0 | 6 | 2 | 3191' |
+| **2005-2006** | Seconda punta | 28 | 6 | 5 | 5 | 2 | 2274' |
+| **2006-2007** | Seconda punta | 42 | 5 | 8 | 8 | 0 | 3431' |
+| **2007-2008** | Seconda punta | 35 | 12 | 3 | 5 | 0 | 3041' |
+| **2008-2009** | Seconda punta | 37 | 9 | 8 | 8 | 0 | 3105' |
+| **2009-2010** | Seconda punta | 19 | 1 | 2 | 4 | 0 | 1451' |
+| **TOTALE** | — | **238** | **60** | **26** | **44** | **4** | **20014'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Giuseppe Mascara** ha collezionato complessivamente **238 presenze ufficiali**, disputando **20014 minuti** di gioco effettivo, siglando **60 gol** e servendo **26 assist** distribuiti su **7 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giuseppe Mascara](https://it.wikipedia.org/wiki/Giuseppe_Mascara)*.

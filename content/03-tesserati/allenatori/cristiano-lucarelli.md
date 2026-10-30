@@ -56,6 +56,12 @@ aliases:
 - cristiano-lucarelli
 - tesserati/cristiano-lucarelli
 - allenatori/cristiano-lucarelli
+
+total_matches: 91
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp)
@@ -99,3 +105,14 @@ Nel 2017-2018 condusse il Catania a 70 punti al secondo posto sfiorando la Serie
 1. Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 2. *Almanacco Illustrato del Calcio*, Panini / Rizzoli, edizioni storiche dal 1939 al 2026.
 3. Archivio Storico Ufficiale Calcio Catania e Lega Nazionale Professionisti (LNP / Lega Pro / LND).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 14/11/2023 — 07/03/2024 | 114 giorni | 21 | 1,38 |
+| 22/10/2019 — 29/07/2020 | 281 giorni | 27 | 1,70 |
+| 01/07/2017 — 04/07/2018 | 368 giorni | 43 | 1,88 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

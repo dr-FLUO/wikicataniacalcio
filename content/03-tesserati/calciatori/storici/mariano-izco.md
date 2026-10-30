@@ -1,23 +1,23 @@
 ---
 title: Mariano Izco — Primatista Assoluto del Catania in Serie A (218 Presenze)
-description: Biografia e statistiche di Mariano Julio Izco, primatista assoluto di
-  presenze con il Catania in Serie A (218) e terzo all-time con 280 gare ufficiali.
+description: Biografia, presenze e statistiche ufficiali di Mariano Izco, centrocampista / esterno destro del Calcio Catania
+  con 258 presenze e 7 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/mariano-izco
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
-birth_date: 1983-03-13
+last_verified_date: '2026-10-30'
+birth_date: '1983-03-13'
 birth_place: Buenos Aires, Argentina
-nationality: Argentina / Italia
+nationality: Argentina
 role: Centrocampista / Esterno destro
 shirt_number: 13
 catania_periods:
 - 2006-2014
-- 2020-2021
-total_appearances: 280
+- 2020-2022
+total_appearances: 258
 league_appearances: 262
 serie_a_appearances: 218
-total_goals: 6
+total_goals: 7
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 - '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
@@ -35,8 +35,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Mariano_Izco
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -53,8 +52,7 @@ sources:
   reference: 'ID 21: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Izco-21
 cover_image: mariano-izco.jpg
-cover_caption: Mariano Julio Izco, 280 presenze e capitano nel periodo d'oro della
-  Serie A a Catania (2006–2014).
+cover_caption: Mariano Julio Izco, 280 presenze e capitano nel periodo d'oro della Serie A a Catania (2006–2014).
 cover_credit: 'Foto: Emi1929 · Licenza: CC BY-SA 4.0'
 aliases:
 - tesserati/calciatori/mariano-izco
@@ -63,22 +61,72 @@ aliases:
 - calciatori/mariano-izco
 image_credits:
 - image_path: /assets/images/calciatori/mariano-izco.jpg
-  alt_text: 'Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Argentina
+height: 178 cm
+foot: Destro
+total_assists: 16
+minutes_played: 17190
+seasons_count: 10
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Mariano Izco
 
-![Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/mariano-izco.jpg)
-*Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/mariano-izco.jpg" alt="Mariano Izco" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Mariano Izco</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1983</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>178 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2006–2014, 2020–2022</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>258</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>7</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>16</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Mariano Julio Izco** (Buenos Aires, 13 marzo 1983) è un ex calciatore argentino con cittadinanza italiana, di ruolo centrocampista o esterno destro. È il **primatista assoluto di presenze con il Catania in Serie A** con **218 gare disputate nella massima divisione** (su **280 presenze ufficiali complessive**, terzo posto nella graduatoria *all-time* del club dietro a [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] e [[tesserati/calciatori/damiano-morra|Damiano Morra]]). È l'unico calciatore ad aver militato ininterrottamente in tutte le **otto stagioni consecutive di Serie A (2006–2014)** dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]], divenendo il pioniere e il capitano del celebre *"Catania degli Argentini"*.
-
 
 ## Il Pioniere del "Catania degli Argentini" (2006–2014)
 
@@ -110,7 +158,6 @@ Lasciata Catania nell'estate 2014 dopo la retrocessione al termine della [[stagi
 > [!info] Nota Statistica sulle Presenze Complessive
 > Nelle statistiche ufficiali aggregate della Hall of Fame del Catania (280 presenze ufficiali), il computo comprende le **218 gare di Serie A**, le **17 di Coppa Italia** e le presenze tra terza serie, coppe e gare di spareggio/playoff maturate nei due cicli rossazzurri.
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -123,6 +170,26 @@ Lasciata Catania nell'estate 2014 dopo la retrocessione al termine della [[stagi
 - **Longevità in Massima Serie:** Presente in tutti gli 8 campionati consecutivi di Serie A del ciclo 2006–2014, culminati nell'8º posto record della [[stagioni/2012-2013|Stagione 2012-2013]].
 
 </details>
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2005-2006** | Centrocampista | 19 | 0 | 1 | 2 | 0 | 1031' |
+| **2006-2007** | Centrocampista | 39 | 1 | 2 | 5 | 0 | 2539' |
+| **2007-2008** | Centrocampista | 30 | 0 | 4 | 1 | 1 | 1697' |
+| **2008-2009** | Centrocampista | 36 | 1 | 4 | 1 | 0 | 2414' |
+| **2009-2010** | Centrocampista | 19 | 0 | 1 | 0 | 0 | 1070' |
+| **2010-2011** | Centrocampista | 25 | 1 | 0 | 3 | 0 | 2162' |
+| **2011-2012** | Centrocampista | 37 | 1 | 2 | 3 | 0 | 2966' |
+| **2012-2013** | Centrocampista | 30 | 3 | 2 | 3 | 0 | 2366' |
+| **2019-2020** | Centrocampista | 22 | 0 | 0 | 0 | 0 | 855' |
+| **2020-2021** | Centrocampista | 1 | 0 | 0 | 0 | 0 | 90' |
+| **TOTALE** | — | **258** | **7** | **16** | **18** | **1** | **17190'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Mariano Izco** ha collezionato complessivamente **258 presenze ufficiali**, disputando **17190 minuti** di gioco effettivo, siglando **7 gol** e servendo **16 assist** distribuiti su **10 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mariano Izco](https://it.wikipedia.org/wiki/Mariano_Izco)*.

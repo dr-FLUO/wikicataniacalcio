@@ -1,7 +1,7 @@
 ---
 title: "A Sostegno di una Fede (1993)"
 description: "Dossier storico sul gruppo ultras A Sostegno di una Fede: la nascita dopo la radiazione del 1993, la guida di Michele Spampinato e l'egemonia in Curva Nord."
-slug: "06-tifoseria-e-cultura/curve/curva-nord/a-sostegno-di-una-fede"
+slug: "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
 entity_type: "gruppo_ultras"
 foundation_year: 1993
 founder: "Michele Spampinato e Collettivo Militante della Nord"
@@ -29,12 +29,14 @@ sources:
     year: 2011
     reference: "Il ruolo della Curva Nord negli anni '90 e 2000"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
+  - "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
   - "tifoseria/curva-nord/a-sostegno-di-una-fede"
 ---
 
 # A Sostegno di una Fede (1993)
 
-**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che ha guidato la [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]] dello Stadio Cibali / Angelo Massimino a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A.
+**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che ha guidato la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Cibali / Angelo Massimino a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A.
 
 ---
 

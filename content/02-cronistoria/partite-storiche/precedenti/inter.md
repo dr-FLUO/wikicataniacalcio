@@ -29,6 +29,9 @@ sources:
   reference: Bilancio complessivo in Serie A e Coppa Italia
 aliases:
 - partite/precedenti/inter
+- partite-storiche/precedenti/inter
+- precedenti/inter
+- inter
 ---
 
 

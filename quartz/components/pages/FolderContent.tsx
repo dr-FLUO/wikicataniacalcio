@@ -153,20 +153,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           <h1 class="nfc-panoramica-title">{pageTitle}</h1>
           <p class="nfc-panoramica-deck">{pageDescription}</p>
 
-          <div class="nfc-panoramica-meta-strip">
-            <div class="nfc-meta-pill-item">
-              <span>Sezione:</span>
-              <strong>{editorial.rubric.split("·")[1]?.trim() ?? "Archivio"}</strong>
-            </div>
-            <div class="nfc-meta-pill-item">
-              <span>Documenti Totali:</span>
-              <strong>{totalCount} Schede</strong>
-            </div>
-            <div class="nfc-meta-pill-item">
-              <span>Verifica Fonti:</span>
-              <strong>100% Conforme</strong>
-            </div>
-          </div>
+          {/* Rimossa la stringa Sezione: Documenti Totali: Verifica Fonti come da richiesta */}
         </header>
 
         {/* Articolo / Tavola introduttiva (se presente nel markdown di index.md) */}

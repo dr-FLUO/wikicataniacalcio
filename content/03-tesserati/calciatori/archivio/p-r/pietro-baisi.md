@@ -1,18 +1,18 @@
 ---
 title: Pietro Baisi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pietro Baisi, attaccante
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Pietro Baisi, attaccante del Calcio Catania con 102 presenze e
+  20 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pietro-baisi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1945-09-10'
 birth_place: Serramazzoni
 death_date: ''
 nationality: Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 102
+seasons_count: 3
 tags:
 - calciatori
 - pietro-baisi
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pietro_Baisi
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,60 @@ aliases:
 - tesserati/pietro-baisi
 - calciatori/pietro-baisi
 citizenship: Italia
+total_goals: 20
+total_assists: 0
+minutes_played: 8728
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Pietro Baisi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Pietro Baisi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pietro-baisi.jpg)
-*Ritratto del calciatore Pietro Baisi in maglia rossazzurra del Calcio Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/pietro-baisi.jpg" alt="Pietro Baisi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Pietro Baisi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1945</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>102</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>20</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pietro Baisi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
@@ -58,23 +105,14 @@ Nato a Serramazzoni (1945-09-10), Pietro Baisi ha militato tra le file della for
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Dettaglio Statistico di Rendimento
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Parametro Agonistico | Riferimento Ufficiale |
-| :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1945-09-10 — Serramazzoni |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1965-1966** | Punta centrale | 35 | 9 | 0 | 0 | 0 | 3150' |
+| **1969-1970** | Punta centrale | 31 | 4 | 0 | 0 | 0 | 2637' |
+| **1970-1971** | Punta centrale | 36 | 7 | 0 | 0 | 0 | 2941' |
+| **TOTALE** | — | **102** | **20** | **0** | **0** | **0** | **8728'** |
 
-## Collegamenti Interni Correlati
-
-- [[03-tesserati/calciatori/archivio/index|Archivio Generale Calciatori Rossazzurri]]
-- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
-- [[societa/matricola-11700|Calcio Catania (Matricola 11700)]]
-
-## Fonti e Bibliografia
-
-- [Voce Enciclopedica Ufficiale — Pietro Baisi](https://it.wikipedia.org/wiki/Pietro_Baisi) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pietro Baisi** ha collezionato complessivamente **102 presenze ufficiali**, disputando **8728 minuti** di gioco effettivo, siglando **20 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

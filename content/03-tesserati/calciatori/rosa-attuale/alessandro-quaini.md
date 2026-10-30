@@ -1,22 +1,21 @@
 ---
 title: Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
-description: 'Biografia, carriera e profilo tecnico di Alessandro Quaini: regista
-  metodista, geometrie e senso della posizione al servizio della mediana del Catania
-  FC.'
+description: Biografia, presenze e statistiche ufficiali di Alessandro Quaini, regista / mediano metodista / difensore centrale
+  del Calcio Catania con 125 presenze e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/alessandro-quaini
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-28
-birth_date: 1998-09-17
+last_verified_date: '2026-10-30'
+birth_date: '1998-09-17'
 birth_place: Cremona, Italia
 nationality: Italia
 role: Regista / Mediano metodista / Difensore centrale
 current_squad: true
 catania_periods:
-- 2023-2027
-total_appearances: 75
+- 2023-
+total_appearances: 125
 league_appearances: 68
-total_goals: 2
+total_goals: 1
 league_goals: 2
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
@@ -39,12 +38,61 @@ aliases:
 - tesserati/alessandro-quaini
 - calciatori/alessandro-quaini
 seasons_count: 4
+height: 184 cm
+foot: Destro
+total_assists: 1
+minutes_played: 8642
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 
-![Fototessera ufficiale del centrocampista del Catania Alessandro Quaini — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp)
-*Fototessera ufficiale del centrocampista del Catania Alessandro Quaini — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp" alt="Alessandro Quaini" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alessandro Quaini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1998</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>184 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2023–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>125</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Nato a Cremona il **17 settembre 1998**, **Alessandro Quaini** è un centrocampista d'ordine, abile nella prima impostazione dal basso, nel dettare i tempi della manovra e nell'agire all'occorrenza come centrale difensivo.
 
@@ -64,7 +112,21 @@ Arrivato in Sicilia nell'estate del **2023**:
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2022-2023** | Mediano | 39 | 0 | 0 | 10 | 0 | 2984' |
+| **2023-2024** | Mediano | 36 | 1 | 0 | 16 | 0 | 2144' |
+| **2024-2025** | Mediano | 36 | 0 | 0 | 15 | 0 | 2387' |
+| **2025-2026** | Mediano | 14 | 0 | 1 | 3 | 0 | 1127' |
+| **TOTALE** | — | **125** | **1** | **1** | **44** | **0** | **8642'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alessandro Quaini** ha collezionato complessivamente **125 presenze ufficiali**, disputando **8642 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+
+
+## Collegamenti e Voci Correlate
 
 * [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi: Compagno di reparto]]

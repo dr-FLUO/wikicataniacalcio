@@ -80,7 +80,7 @@ Le pietre miliari della storiografia rossazzurra, utilizzate come fonti primarie
 * **Candido Cannavò**, *Una vita in rosa* (Rizzoli, Milano, 2002): Memorie del decano del giornalismo italiano, con i racconti giovanili a bordo campo al Cibali e l'amicizia fraterna con Carmelo Di Bella.
 * **Gianni Coppola**, *Il cavaliere, l'elefante ed il leviatano* (Marco Spampinato Editore, 1996): Analisi sociologica della figura di Angelo Massimino nei suoi rapporti con l'imprenditoria e la politica etnea.
 * **Enzo Catania**, *Marca Liotru* (2006) e *Il caso Raciti* (A.Car Edizioni, 2008): Inchieste giornalistiche sui fatti del derby del 2 febbraio 2007.
-* **Luigi Pulvirenti e Michele Spampinato**, *Quando saremo tutti nella Nord* (Eclettica, 2014): Saggio cult sul movimento ultras catanese, dalla [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto\|Falange d'Assalto]] alla memoria del capo ultras [[06-tifoseria-e-cultura/biografie/ciccio-famoso\|Ciccio Famoso]].
+* **Luigi Pulvirenti e Michele Spampinato**, *Quando saremo tutti nella Nord* (Eclettica, 2014): Saggio cult sul movimento ultras catanese, dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto\|Falange d'Assalto]] alla memoria del capo ultras [[06-tifoseria-e-cultura/biografie/ciccio-famoso\|Ciccio Famoso]].
 * **Rosario Caraffa e Daniele Di Frangia**, *Palermo-Catania. La grande storia dei derby* (Edizioni Della Sera, 2013).
 
 ---

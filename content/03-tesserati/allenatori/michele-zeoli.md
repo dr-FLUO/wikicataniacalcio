@@ -54,6 +54,12 @@ aliases:
 citizenship: Italia
 total_appearances: 104
 seasons_count: 4
+
+total_matches: 14
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 # Michele Zeoli
@@ -92,3 +98,12 @@ Il **2 aprile 2024**, nella finale di ritorno della **Coppa Italia Serie C** all
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 400–430.
 2. **Lega Italiana Calcio Professionistico (Lega Pro)**, *Albo d'Oro e Tabellino Ufficiale Finale Coppa Italia Serie C 2023-2024 (Catania-Padova 4-2 d.t.s., 2 aprile 2024)*.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 08/03/2024 — 18/06/2024 | 102 giorni | 14 | 1,36 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

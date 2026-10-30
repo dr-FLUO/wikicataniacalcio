@@ -1,11 +1,11 @@
 ---
 title: Luís «Lulù» Oliveira — Il Fuoriclasse Internazionale al Cibali (2002-2004)
-description: Biografia e statistiche di Luís Oliveira, stella della Nazionale belga,
-  autore di 28 reti in 74 gare nel Catania tra Serie B e Caso Catania.
+description: Biografia, presenze e statistiche ufficiali di Luis Oliveira, attaccante / seconda punta / centravanti del Calcio
+  Catania con 74 presenze e 27 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/luis-oliveira
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1969-03-24
 birth_place: Faveira, Brasile
 nationality: Belgio
@@ -14,7 +14,7 @@ catania_periods:
 - 2002-2004
 total_appearances: 74
 league_appearances: 71
-total_goals: 28
+total_goals: 27
 league_goals: 26
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
@@ -32,8 +32,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Lu%C3%ADs_Oliveira
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -49,9 +48,63 @@ aliases:
 - luis-oliveira
 - tesserati/luis-oliveira
 - calciatori/luis-oliveira
+total_assists: 1
+minutes_played: 6362
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Luís Oliveira
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Luís Oliveira</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1969</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Belgio</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2002–2004</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>74</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>27</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Luís Airton Oliveira Barroso**, universalmente noto come **"Lulù" Oliveira** (Faveira, 24 marzo 1969), è un allenatore di calcio ed ex calciatore brasiliano naturalizzato belga, nel ruolo di attaccante. Acquistato dal presidente Luciano Gaucci nell'estate del **2002** per celebrare il ritorno in Serie B, rappresentò uno dei colpi di mercato più prestigiosi della storia etnea.
 
@@ -72,15 +125,17 @@ In mezzo alla tempesta giudiziaria del Caso Catania nel 2003, Oliveira rimase il
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (2002-2004) | 71 | 26 | Attaccante / Seconda punta / Centravanti | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Gestione Gaucci)]] |
-| Coppe Nazionali / Spareggi | 3 | 2 | Attaccante / Seconda punta / Centravanti | Gare ufficiali |
-| **Totale Complessivo** | **74** | **28** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2001-2002** | Punta centrale | 35 | 13 | 0 | 4 | 0 | 3058' |
+| **2002-2003** | Punta centrale | 39 | 14 | 1 | 3 | 0 | 3304' |
+| **TOTALE** | — | **74** | **27** | **1** | **7** | **0** | **6362'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Luis Oliveira** ha collezionato complessivamente **74 presenze ufficiali**, disputando **6362 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luís Oliveira](https://it.wikipedia.org/wiki/Lu%C3%ADs_Oliveira)*.

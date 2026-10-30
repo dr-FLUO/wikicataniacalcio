@@ -64,6 +64,9 @@ sources:
 image_credits: []
 aliases:
 - partite/2010-2011/catania-palermo-4-0
+- partite-storiche/2010-2011/catania-palermo-4-0
+- 2010-2011/catania-palermo-4-0
+- catania-palermo-4-0
 ---
 
 

@@ -1,20 +1,20 @@
 ---
 title: Adriano Polenta — Il Libero Rigorista e Capocannoniere Salvezza (1987-1988)
-description: Biografia e statistiche di Adriano Polenta, carismatico libero e rigorista
-  infallibile, miglior marcatore del Catania nella Serie C1 1987-1988.
+description: Biografia, presenze e statistiche ufficiali di Adriano Polenta, difensore / libero del Calcio Catania con 169
+  presenze e 14 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/adriano-polenta
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1958-11-23
 birth_place: Osimo (AN), Italia
 nationality: Italia
 role: Difensore / Libero
 catania_periods:
 - 1986-1988
-total_appearances: 64
+total_appearances: 169
 league_appearances: 56
-total_goals: 8
+total_goals: 14
 league_goals: 7
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
@@ -33,8 +33,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Adriano_Polenta
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -52,9 +51,62 @@ aliases:
 - calciatori/adriano-polenta
 citizenship: Italia
 seasons_count: 5
+total_assists: 0
+minutes_played: 14921
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Adriano Polenta
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Adriano Polenta</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1958</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1986–1988</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>169</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>14</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Adriano Polenta** (Osimo, 23 novembre 1958) è un ex calciatore italiano, nel ruolo di libero e difensore centrale. Giunto a Catania nel **1986** in Serie B, fu il carismatico regista difensivo della squadra etnea per due campionati consecutivi.
 
@@ -75,15 +127,20 @@ Dotato di un senso della posizione impeccabile e di grande personalità nell'imp
 
 ---
 
-## Riepilogo Statistico nel Catania
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Competizione / Stagione | Presenze | Reti Segnate | Ruolo Principale | Note Istituzionali |
-| :--- | :---: | :---: | :--- | :--- |
-| Campionato (1986-1988) | 56 | 7 | Difensore / Libero | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A. (Era Massimino)]] |
-| Coppe Nazionali / Spareggi | 8 | 1 | Difensore / Libero | Gare ufficiali |
-| **Totale Complessivo** | **64** | **8** | — | — |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1983-1984** | Libero | 31 | 1 | 0 | 0 | 0 | 2790' |
+| **1984-1985** | Libero | 36 | 2 | 0 | 0 | 0 | 3074' |
+| **1985-1986** | Libero | 40 | 2 | 0 | 0 | 1 | 3560' |
+| **1986-1987** | Libero | 34 | 6 | 0 | 0 | 0 | 2977' |
+| **1987-1988** | Libero | 28 | 3 | 0 | 1 | 0 | 2520' |
+| **TOTALE** | — | **169** | **14** | **0** | **1** | **1** | **14921'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Adriano Polenta** ha collezionato complessivamente **169 presenze ufficiali**, disputando **14921 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Adriano Polenta](https://it.wikipedia.org/wiki/Adriano_Polenta)*.

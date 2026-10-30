@@ -1,13 +1,13 @@
 ---
 title: Gennaro Sardo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Gennaro Sardo, difensore
-  del Calcio Catania con 54 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Gennaro Sardo, difensore del Calcio Catania con 61 presenze e
+  1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/gennaro-sardo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 54
+total_appearances: 61
 seasons_count: 4
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/60_gennaro-sardo.jpg
 image_credits:
 - image_path: /assets/images/calciatori/gennaro-sardo.jpg
-  alt_text: 'Ritratto ufficiale di Gennaro Sardo — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Gennaro Sardo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,88 @@ aliases:
 birth_date: '1979-05-08'
 birth_place: Pozzuoli
 citizenship: Italia
+total_goals: 1
+total_assists: 1
+minutes_played: 4548
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Gennaro Sardo — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Gennaro Sardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/gennaro-sardo.jpg)
-*Ritratto ufficiale di Gennaro Sardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/60_gennaro-sardo.jpg" alt="Gennaro Sardo" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Gennaro Sardo</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>61</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Gennaro Sardo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Gennaro Sardo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 54
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2005-2006** | Terzino destro | 18 | 0 | 0 | 6 | 0 | 1072' |
+| **2006-2007** | Terzino destro | 25 | 1 | 1 | 7 | 1 | 2093' |
+| **2007-2008** | Terzino destro | 16 | 0 | 0 | 5 | 0 | 1243' |
+| **2008-2009** | Terzino destro | 2 | 0 | 0 | 1 | 0 | 140' |
+| **TOTALE** | — | **61** | **1** | **1** | **19** | **1** | **4548'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Gennaro Sardo** ha collezionato complessivamente **61 presenze ufficiali**, disputando **4548 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

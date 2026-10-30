@@ -1,14 +1,14 @@
 ---
 title: Cosimo Chiricò — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Cosimo Chiricò, attaccante
-  del Calcio Catania con 36 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Cosimo Chiricò, attaccante del Calcio Catania con 43 presenze
+  e 6 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/cosimo-chiricò
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 36
-seasons_count: 1
+total_appearances: 43
+seasons_count: 2
 tags:
 - calciatori
 - cosimo-chiricò
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Chirico-1058
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 1058
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -31,31 +30,87 @@ aliases:
 - cosimo-chiricò
 - tesserati/cosimo-chiricò
 - calciatori/cosimo-chiricò
+total_goals: 6
+total_assists: 7
+minutes_played: 2885
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
-
 # Cosimo Chiricò — Scheda Giocatore nel Calcio Catania
+
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Cosimo Chiricò</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>43</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>6</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>7</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Cosimo Chiricò** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 36
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2022-2023** | Ala destra | 42 | 6 | 6 | 7 | 0 | 2803' |
+| **2023-2024** | Ala destra | 1 | 0 | 1 | 0 | 0 | 82' |
+| **TOTALE** | — | **43** | **6** | **7** | **7** | **0** | **2885'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Cosimo Chiricò** ha collezionato complessivamente **43 presenze ufficiali**, disputando **2885 minuti** di gioco effettivo, siglando **6 gol** e servendo **7 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

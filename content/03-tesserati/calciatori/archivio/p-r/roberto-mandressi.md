@@ -1,13 +1,13 @@
 ---
 title: Roberto Mandressi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Roberto Mandressi, attaccante
-  del Calcio Catania con 34 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Roberto Mandressi, attaccante del Calcio Catania con 91 presenze
+  e 10 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/roberto-mandressi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
-total_appearances: 34
+total_appearances: 91
 seasons_count: 3
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/437_roberto-mandressi.jpg
 image_credits:
 - image_path: assets/images/players/437_roberto-mandressi.jpg
-  alt_text: Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,85 @@ aliases:
 birth_date: '1960-11-19'
 birth_place: Seregno
 citizenship: Italia
+total_goals: 10
+total_assists: 0
+minutes_played: 5545
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Roberto Mandressi — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/437_roberto-mandressi.jpg)
-*Ritratto del calciatore Roberto Mandressi in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/437_roberto-mandressi.jpg" alt="Roberto Mandressi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Roberto Mandressi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1960</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>91</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>10</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Roberto Mandressi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Attaccante
-* **Presenze Ufficiali complessive**: 34
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1984-1985** | Attacco | 36 | 4 | 0 | 0 | 0 | 2158' |
+| **1985-1986** | Attacco | 31 | 4 | 0 | 0 | 0 | 1585' |
+| **1986-1987** | Attacco | 24 | 2 | 0 | 0 | 0 | 1802' |
+| **TOTALE** | — | **91** | **10** | **0** | **0** | **0** | **5545'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Roberto Mandressi** ha collezionato complessivamente **91 presenze ufficiali**, disputando **5545 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

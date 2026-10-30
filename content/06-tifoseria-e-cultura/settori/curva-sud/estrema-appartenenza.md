@@ -1,7 +1,7 @@
 ---
 title: "Estrema Appartenenza Curva Sud Catania (2015)"
 description: "Dossier sulla sigla unitaria da trasferta Estrema Appartenenza, nata nel 2015 dall'unione tra Irriducibili e Falange d'Assalto in Curva Sud dopo l'adesione alla Tessera del Tifoso."
-slug: "06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza"
+slug: "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
 entity_type: "gruppo_ultras"
 foundation_year: 2015
 origin_district: "Castello Ursino, San Cristoforo, Librino, Zia Lisa (Catania)"
@@ -28,12 +28,14 @@ sources:
     year: 2024
     reference: "Lo striscione unitario da trasferta della Sud"
 aliases:
+  - "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
+  - "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
   - "tifoseria/curva-sud/estrema-appartenenza"
 ---
 
 # Estrema Appartenenza Curva Sud Catania (2015)
 
-**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **2015-2016** dagli ultras della [[06-tifoseria-e-cultura/curve/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo la penisola.
+**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **2015-2016** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo la penisola.
 
 ---
 
@@ -42,7 +44,7 @@ aliases:
 Nell'estate del 2015, il declassamento d'ufficio del Catania in Serie C per illecito sportivo ([[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|caso Treni del Gol]]) e l'inasprimento dei divieti di trasferta imposti dall'Osservatorio Nazionale sulle Manifestazioni Sportive costrinsero il tifo etneo a un bivio ideologico:
 - Per seguire la squadra lontano dal Cibali nei campi di terza serie, le autorità imponevano la sottoscrizione obbligatoria della **Tessera del Tifoso**.
 - Gli ultras della Curva Sud assunsero una linea pragmatica e presenzialista: mossi dalla convinzione che «la maglia e la squadra non possano mai restare sole in trasferta nel momento del disonore sportivo», decisero di sottoscrivere la tessera.
-- Questa scelta provocò l'abbandono storico della [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]] da parte della [[06-tifoseria-e-cultura/curve/curva-sud/falange-d-assalto|Falange d'Assalto]], che dopo 36 anni traslocò nella Sud unendosi agli [[06-tifoseria-e-cultura/curve/curva-sud/irriducibili-1991|Irriducibili]].
+- Questa scelta provocò l'abbandono storico della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] da parte della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], che dopo 36 anni traslocò nella Sud unendosi agli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]].
 
 ---
 

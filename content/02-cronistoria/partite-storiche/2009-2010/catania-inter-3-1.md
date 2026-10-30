@@ -55,13 +55,16 @@ sources:
   year: 2010
   reference: Anticipo del 12 marzo 2010
 image_credits:
-- image_path: 'assets/images/partite-storiche/catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp'
-  alt_text: "Festa rossazzurra al Cibali nel memorabile 3-1 contro l''Inter del Triplete"
-  author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
+- image_path: assets/images/partite-storiche/catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp
+  alt_text: Festa rossazzurra al Cibali nel memorabile 3-1 contro l''Inter del Triplete
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - partite/2009-2010/catania-inter-3-1
+- partite-storiche/2009-2010/catania-inter-3-1
+- 2009-2010/catania-inter-3-1
+- catania-inter-3-1
 ---
 ![Festa rossazzurra al Cibali nel memorabile 3-1 contro l'Inter del Triplete](/assets/images/partite-storiche/catania-inter-3-1-cucchiaio-rigore-mascara-serie-a-2009-2010.webp)
 

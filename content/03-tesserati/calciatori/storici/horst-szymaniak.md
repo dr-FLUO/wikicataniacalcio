@@ -1,13 +1,13 @@
 ---
 title: Horst Szymaniak — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Horst Szymaniak, centrocampista
-  del Calcio Catania con 62 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Horst Szymaniak, centrocampista del Calcio Catania con 63 presenze
+  e 9 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/horst-szymaniak
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 62
+total_appearances: 63
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/664_horst-szymaniak.jpg
 image_credits:
 - image_path: /assets/images/calciatori/horst-szymaniak.jpg
-  alt_text: 'Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -50,16 +50,69 @@ aliases:
 - tesserati/horst-szymaniak
 - calciatori/horst-szymaniak
 birth_date: '1934-08-29'
-birth_place: Oer-Erkenschwick
+birth_place: Erkenschwick, Germania
 citizenship: Germania
+nationality: Germania
+height: 178 cm
+foot: Sinistro
+catania_periods:
+- 1961-1963
+total_goals: 9
+total_assists: 0
+minutes_played: 5700
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Horst Szymaniak — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/horst-szymaniak.jpg)
-*Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
-*Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/664_horst-szymaniak.jpg" alt="Horst Szymaniak" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Horst Szymaniak</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Germania</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>178 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Sinistro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1961–1963</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>63</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+*Ritratto ufficiale di Horst Szymaniak — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 ![Ritratto del calciatore Horst Szymaniak in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/664_horst-szymaniak.jpg)
 *Ritratto del calciatore Horst Szymaniak in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
@@ -68,22 +121,25 @@ citizenship: Germania
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 62
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1960-1961** | Esterno di sinistra | 30 | 4 | 0 | 0 | 0 | 2700' |
+| **1961-1962** | Esterno di sinistra | 33 | 5 | 0 | 0 | 0 | 3000' |
+| **TOTALE** | — | **63** | **9** | **0** | **0** | **0** | **5700'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Horst Szymaniak** ha collezionato complessivamente **63 presenze ufficiali**, disputando **5700 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

@@ -67,6 +67,10 @@ aliases:
 - sinisa-mihajlovic
 - tesserati/sinisa-mihajlovic
 - allenatori/sinisa-mihajlovic
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
@@ -153,3 +157,12 @@ Il **24 maggio 2010**, dopo aver centrato la salvezza e fatto innamorare la piaz
 1. **Lega Nazionale Professionisti Serie A**, *Archivio Statistico Ufficiale Serie A TIM 2009-2010*, tabellini e classifica generale dalla 16ª alla 38ª giornata.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 458-467.
 3. **Roberto Quartarone, Alessandro Russo**, *Siniša Mihajlović a Catania: il serbo di ferro che piegò Mourinho e la Juventus*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)), 2022.
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 08/12/2009 — 24/05/2010 | 167 giorni | 25 | 1,56 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

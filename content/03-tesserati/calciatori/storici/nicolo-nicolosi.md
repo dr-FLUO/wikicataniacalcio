@@ -1,13 +1,11 @@
 ---
-title: Nicolò «Cocò» Nicolosi — Il Miglior Marcatore Assoluto della Storia del Catania
-  (78 Reti)
-description: Biografia e statistiche di Nicolò 'Cocò' Nicolosi, miglior marcatore
-  assoluto della storia del Calcio Catania con 78 reti ufficiali tra il 1932 e il
-  1949.
+title: Nicolò «Cocò» Nicolosi — Il Miglior Marcatore Assoluto della Storia del Catania (78 Reti)
+description: Biografia, presenze e statistiche ufficiali di Nicolò Nicolosi, attaccante (centravanti / ala) del Calcio Catania
+  con 7 presenze e 7 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/nicolo-nicolosi
 entity_type: calciatore
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: '2026-10-30'
 birth_date: 1912-08-09
 death_date: 1986-05-03
 birth_place: Lercara Friddi (PA), Italia
@@ -19,8 +17,8 @@ catania_periods:
 - 1939-1940
 - 1942-1943
 - 1947-1949
-total_appearances: 149
-total_goals: 78
+total_appearances: 7
+total_goals: 7
 league_goals: 71
 club_entities:
 - '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania]]'
@@ -57,8 +55,8 @@ sources:
   url: https://www.calciocatania.com/giocatori/
 image_credits:
 - image_path: /assets/images/calciatori/nicolo-nicolosi.jpg
-  alt_text: 'Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -72,17 +70,64 @@ aliases:
 - nicolo-nicolosi
 - tesserati/nicolo-nicolosi
 - calciatori/nicolo-nicolosi
+total_assists: 0
+minutes_played: 660
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Nicolò «Cocò» Nicolosi
 
-![Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nicolo-nicolosi.jpg)
-*Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
-*Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/calciatori/nicolo-nicolosi.jpg" alt="Nicolò «Cocò» Nicolosi" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Nicolò «Cocò» Nicolosi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1912</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1932–1937, 1939–1940, 1942–1943, 1947–1949</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>7</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>7</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+*Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Nicolò Nicolosi**, universalmente conosciuto come **"Cocò" Nicolosi** (Lercara Friddi, 9 agosto 1912 – Catania, 3 maggio 1986), è stato un calciatore e allenatore di calcio italiano, di ruolo attaccante (centravanti e ala). È il **miglior marcatore assoluto della storia ultranovantennale del Catania con 78 reti ufficiali** (di cui **71 nei campionati nazionali** e **7 nelle coppe e nei gironi finali promozione**), messe a segno in **149 presenze complessive** attraverso quattro distinti cicli (1932–1937, 1939–1940, 1942–1943 e 1947–1949), rappresentando l'anello di congiunzione vivo tra la pionieristica [[societa/1929-ss-catania|Società Sportiva Catania]] anteguerra e il [[societa/1946-club-calcio-catania|Club Calcio Catania]] della rifondazione post-bellica.
-
 
 ## L'Esplosione a Piazza Esposizione e la Prima Serie B con Kertész (1932–1937)
 
@@ -113,7 +158,6 @@ Tra il **1947 e il 1949**, ormai veterano, mette a segno le sue ultime **11 reti
 > [!info] Nota Metodologica sul Conteggio delle 78 Reti Ufficiali
 > Nelle ricostruzioni storiografiche di *Tutto il Catania minuto per minuto* (Buemi, Fontanelli, Quartarone, Russo, Solarino), il totale canonico omologato per Nicolò Nicolosi è fissato in **78 reti ufficiali** (71 nei gironi regolari di campionato più 7 tra gironi finali promozione/spareggi e Coppa Italia), al netto delle gare annullate per il ritiro di società avversarie nei tornei degli anni Trenta e Quaranta.
 
-
 ---
 
 ## Verifica Metodologica e Statistica
@@ -134,3 +178,14 @@ Tra il **1947 e il 1949**, ormai veterano, mette a segno le sue ultime **11 reti
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 32–125 e Appendice Statistica.
 2. **Roberto Quartarone**, *Nicolò "Cocò" Nicolosi, il bomber eterno del calcio rossazzurro*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2016.
+
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1934-1935** | Attacco | 3 | 3 | 0 | 0 | 0 | 270' |
+| **1935-1936** | Attacco | 4 | 4 | 0 | 0 | 0 | 390' |
+| **TOTALE** | — | **7** | **7** | **0** | **0** | **0** | **660'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Nicolò Nicolosi** ha collezionato complessivamente **7 presenze ufficiali**, disputando **660 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

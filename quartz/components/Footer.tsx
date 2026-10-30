@@ -1,6 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { resolveRelative, FullSlug } from "../util/path"
+// @ts-ignore
+import gridScript from "./scripts/sourcesGrid.inline"
 
 interface Options {
   links: Record<string, string>
@@ -80,5 +82,6 @@ export default ((opts?: Options) => {
   }
 
   Footer.css = style
+  Footer.afterDOMLoaded = gridScript
   return Footer
 }) satisfies QuartzComponentConstructor

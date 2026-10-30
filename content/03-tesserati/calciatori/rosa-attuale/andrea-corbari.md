@@ -1,14 +1,14 @@
 ---
 title: Andrea Corbari — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Corbari, centrocampista
-  del Calcio Catania con 40 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Andrea Corbari, centrocampista del Calcio Catania con 41 presenze
+  e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-corbari
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
 current_squad: true
-total_appearances: 40
+total_appearances: 41
 seasons_count: 2
 tags:
 - calciatori
@@ -29,8 +29,7 @@ sources:
 image: assets/images/players/1084_andrea-corbari.png
 image_credits:
 - image_path: assets/images/players/1084_andrea-corbari.png
-  alt_text: Ritratto del calciatore Andrea Corbari in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Andrea Corbari in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -40,33 +39,91 @@ aliases:
 - andrea-corbari
 - tesserati/andrea-corbari
 - calciatori/andrea-corbari
+birth_date: '1994-04-26'
+birth_place: Cremona, Italia
+nationality: Italia
+height: 182 cm
+foot: Destro
+catania_periods:
+- 2024-
+total_goals: 1
+total_assists: 1
+minutes_played: 2093
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Andrea Corbari — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Andrea Corbari in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1084_andrea-corbari.png)
-*Ritratto del calciatore Andrea Corbari in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1084_andrea-corbari.png" alt="Andrea Corbari" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Andrea Corbari</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1994</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>182 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>41</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>1</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>1</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**Andrea Corbari** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andrea Corbari** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 40
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2024-2025** | Centrocampista | 33 | 1 | 0 | 5 | 0 | 1699' |
+| **2025-2026** | Centrocampista | 8 | 0 | 1 | 0 | 0 | 394' |
+| **TOTALE** | — | **41** | **1** | **1** | **5** | **0** | **2093'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Andrea Corbari** ha collezionato complessivamente **41 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

@@ -1,13 +1,13 @@
 ---
 title: Lorenzo Barlassina — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Lorenzo Barlassina, centrocampista
-  del Calcio Catania con 159 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Lorenzo Barlassina, centrocampista del Calcio Catania con 171
+  presenze e 18 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 159
+total_appearances: 171
 seasons_count: 5
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/487_lorenzo-barlassina.jpg
 image_credits:
 - image_path: assets/images/players/487_lorenzo-barlassina.jpg
-  alt_text: Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,87 @@ aliases:
 birth_date: '1948-07-07'
 birth_place: Limbiate
 citizenship: Italia
+total_goals: 18
+total_assists: 0
+minutes_played: 15135
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Lorenzo Barlassina — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/487_lorenzo-barlassina.jpg)
-*Ritratto del calciatore Lorenzo Barlassina in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/487_lorenzo-barlassina.jpg" alt="Lorenzo Barlassina" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Lorenzo Barlassina</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1948</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>171</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Lorenzo Barlassina** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 159
-* **Stagioni disputate**: 5
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1975-1976** | Attacco | 30 | 1 | 0 | 0 | 0 | 2570' |
+| **1977-1978** | Attacco | 32 | 1 | 0 | 0 | 0 | 2871' |
+| **1978-1979** | Attacco | 28 | 6 | 0 | 0 | 0 | 2517' |
+| **1979-1980** | Attacco | 42 | 7 | 0 | 0 | 0 | 3772' |
+| **1980-1981** | Attacco | 39 | 3 | 0 | 0 | 1 | 3405' |
+| **TOTALE** | — | **171** | **18** | **0** | **0** | **1** | **15135'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Lorenzo Barlassina** ha collezionato complessivamente **171 presenze ufficiali**, disputando **15135 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

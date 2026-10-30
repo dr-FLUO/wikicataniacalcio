@@ -120,19 +120,24 @@ export const EDITORIAL_FOLDERS: Record<string, EditorialFolderMeta> = {
     desc: "La passione delle curve del Massimino, la nascita del movimento ultras dal 1979, i cori, le coreografie, i grandi esodi, i gemellaggi e le rivalità storiche.",
     rubric: "RUBRICA 06 · TIFOSERIA",
   },
-  "06-tifoseria-e-cultura/curve": {
-    title: "Le Curve del Massimino (Curva Nord & Curva Sud)",
-    desc: "I due poli del tifo organizzato etneo: le origini, le filosofie di curva, gli striscioni storici e il legame viscerale con i quartieri di Catania.",
+  "06-tifoseria-e-cultura/settori": {
+    title: "I Settori del Massimino (Nord, Sud & Tribuna B)",
+    desc: "I tre poli del tifo organizzato etneo: le origini, le filosofie di gradinata, gli striscioni storici e il legame viscerale con i quartieri di Catania.",
     rubric: "RUBRICA 06 · TIFOSERIA",
   },
-  "06-tifoseria-e-cultura/curve/curva-nord": {
+  "06-tifoseria-e-cultura/settori/curva-nord": {
     title: "Curva Nord: Movimento, Gruppi & Coreografie",
     desc: "La storia della Curva Nord: dalle prime sigle a Mecha Katane e A Sostegno di una Fede, con le coreografie monumentali che hanno riempito lo stadio.",
     rubric: "RUBRICA 06 · TIFOSERIA",
   },
-  "06-tifoseria-e-cultura/curve/curva-sud": {
+  "06-tifoseria-e-cultura/settori/curva-sud": {
     title: "Curva Sud: Falange d'Assalto & Irriducibili 1991",
     desc: "Le radici storiche del tifo popolare: la Falange fondata nel 1979 da Ciccio Famoso, gli Irriducibili e l'identità del Castello Ursino e di San Cristoforo.",
+    rubric: "RUBRICA 06 · TIFOSERIA",
+  },
+  "06-tifoseria-e-cultura/settori/tribuna-b": {
+    title: "Tribuna B (Gradinata): MCK & Tradizione Popolare",
+    desc: "Il terzo polo autonomo di gradinata: dal Gruppo Tattaresu all'A.N.R. e all'Ultras Mecha Klan Catania (MCK).",
     rubric: "RUBRICA 06 · TIFOSERIA",
   },
   "06-tifoseria-e-cultura/biografie": {

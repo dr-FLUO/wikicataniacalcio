@@ -1,13 +1,13 @@
 ---
 title: Davide Cordone — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Davide Cordone, centrocampista
-  del Calcio Catania con 81 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Davide Cordone, centrocampista del Calcio Catania con 87 presenze
+  e 9 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/davide-cordone
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 81
+total_appearances: 87
 seasons_count: 3
 tags:
 - calciatori
@@ -34,8 +34,7 @@ sources:
 image: assets/images/players/158_davide-cordone.jpg
 image_credits:
 - image_path: assets/images/players/158_davide-cordone.jpg
-  alt_text: Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -47,33 +46,85 @@ aliases:
 birth_date: '1971-09-17'
 birth_place: Varese
 citizenship: Italia
+total_goals: 9
+total_assists: 4
+minutes_played: 6541
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Davide Cordone — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/158_davide-cordone.jpg)
-*Ritratto del calciatore Davide Cordone in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/158_davide-cordone.jpg" alt="Davide Cordone" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Davide Cordone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1971</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>87</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>9</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>4</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Davide Cordone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 81
-* **Stagioni disputate**: 3
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1999-2000** | Centrocampista | 19 | 3 | 2 | 1 | 0 | 1710' |
+| **2000-2001** | Centrocampista | 40 | 5 | 2 | 1 | 0 | 2875' |
+| **2001-2002** | Centrocampista | 28 | 1 | 0 | 1 | 0 | 1956' |
+| **TOTALE** | — | **87** | **9** | **4** | **3** | **0** | **6541'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Davide Cordone** ha collezionato complessivamente **87 presenze ufficiali**, disputando **6541 minuti** di gioco effettivo, siglando **9 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

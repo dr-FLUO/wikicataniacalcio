@@ -8,7 +8,7 @@ status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
 current_squad: true
-total_appearances: 0
+total_appearances: 2
 seasons_count: 1
 tags:
 - calciatori
@@ -40,33 +40,76 @@ aliases:
 - christian-de-falco
 - tesserati/christian-de-falco
 - calciatori/christian-de-falco
+birth_date: '2006-01-01'
+birth_place: Catania, Italia
+nationality: Italia
+height: 177 cm
+foot: Destro
+catania_periods:
+- 2024-
+total_goals: 0
+total_assists: 0
 ---
 
 # Christian De falco — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Christian De falco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1126_christian-de-falco.jpg)
-*Ritratto del calciatore Christian De falco in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1126_christian-de-falco.jpg" alt="Christian De falco" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Christian De falco</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>2006</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>177 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2024–</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-**Christian De falco** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+**Christian De falco** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Portiere**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
-
-* **Ruolo**: Portiere
-* **Presenze Ufficiali complessive**: 0
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
-
----
-
-## 2. Note e Scheda di Carriera
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

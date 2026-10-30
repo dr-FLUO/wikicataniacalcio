@@ -28,7 +28,7 @@ aliases:
 
 # Michele Spampinato: La Guida della Nord e la Memoria Scritta
 
-**Michele Spampinato** è una delle figure intellettualmente e carismaticamente più influenti della storia recente del tifo organizzato a Catania. Leader indiscusso del gruppo [[06-tifoseria-e-cultura/curve/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] per oltre un quindicennio, ha guidato la [[06-tifoseria-e-cultura/curve/curva-nord/index|Curva Nord]] attraverso il periodo più drammatico ed esaltante della parabola sportiva rossazzurra: dalla cancellazione federale del 1993 fino al ritorno in Serie A nel 2006.
+**Michele Spampinato** è una delle figure intellettualmente e carismaticamente più influenti della storia recente del tifo organizzato a Catania. Leader indiscusso del gruppo [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] per oltre un quindicennio, ha guidato la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] attraverso il periodo più drammatico ed esaltante della parabola sportiva rossazzurra: dalla cancellazione federale del 1993 fino al ritorno in Serie A nel 2006.
 
 ---
 

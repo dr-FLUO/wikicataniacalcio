@@ -7,9 +7,9 @@ slug: 03-tesserati/calciatori/storici/alejandro-gomez
 entity_type: calciatore
 status: verified
 last_verified_date: 2026-10-27
-birth_date: 1988-02-15
+birth_date: '1988-02-15'
 birth_place: Buenos Aires, Argentina
-nationality: Argentina / Italia
+nationality: Argentina
 role: Attaccante (Ala sinistra / Seconda punta / Fantasista)
 shirt_number: 17
 catania_periods:
@@ -71,12 +71,59 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 citizenship: Argentina
+height: 167 cm
+foot: Destro
+total_assists: 17
 ---
 
 # Alejandro Gómez
 
-![Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/alejandro-gomez.jpg)
-*Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/papu-gomez.jpg" alt="Alejandro Gómez" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Alejandro Gómez</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1988</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Argentina</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>167 cm</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>Destro</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2010–2013</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>111</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>18</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>17</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Alejandro Darío Gómez**, universalmente noto come **"El Papu"** (Buenos Aires, 15 febbraio 1988), è un calciatore argentino naturalizzato italiano, di ruolo attaccante, ala sinistra o trequartista. Dotato di un baricentro basso, accelerazione bruciante e di un dribbling nello stretto pressoché immarcabile, ha vestito la maglia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] per tre stagioni consecutive in Serie A tra il **2010** e il **2013**, collezionando **111 presenze ufficiali e 18 reti** (106 gare e 16 gol in massima divisione). È stato uno degli interpreti più spettacolari e determinanti del leggendario *"Catania degli Argentini"*, culminato con lo storico **8º posto a 56 punti** nella [[stagioni/2012-2013|Stagione 2012-2013]].

@@ -60,6 +60,12 @@ aliases:
 - vincenzo-montella
 - tesserati/vincenzo-montella
 - allenatori/vincenzo-montella
+
+total_matches: 40
+
+locked: true
+locked_date: '2026-10-30'
+locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 ![Vincenzo Montella, autore del record di punti in Serie A 2011-2012 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp)
@@ -95,3 +101,12 @@ A fine stagione Montella ottenne la rescissione consensuale per approdare alla F
 1. **Lega Nazionale Professionisti Serie A**, *Statistiche Ufficiali Serie A TIM 2011-2012*, Lega Serie A, Milano, 2012.
 2. **La Sicilia**, *Il Catania di Montella tra applausi e record: 48 punti di pura bellezza*, Cronaca di Catania, maggio 2012.
 3. **Archivio Storico Calcio Catania**, *Stagione 2011-2012: cronache, tabellini e protagonisti*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/).
+
+
+## Cronistoria Incarichi e Rendimento Tecnico Ufficiale
+
+| Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Media Punti a Partita |
+| :--- | :--- | :---: | :---: |
+| 01/07/2011 — 30/06/2012 | 365 giorni | 40 | 1,28 |
+
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC.*

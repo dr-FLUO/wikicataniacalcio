@@ -1,13 +1,13 @@
 ---
 title: Armando Anastasio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore
-  del Calcio Catania con 28 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore del Calcio Catania con 36 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/armando-anastasio
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 28
+total_appearances: 36
 seasons_count: 1
 tags:
 - calciatori
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/1089_armando-anastasio.jpg
 image_credits:
 - image_path: assets/images/players/1089_armando-anastasio.jpg
-  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -41,33 +40,83 @@ aliases:
 - tesserati/armando-anastasio
 - calciatori/armando-anastasio
 current_squad: false
+total_goals: 3
+total_assists: 3
+minutes_played: 2876
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Armando Anastasio — Scheda Giocatore nel Calcio Catania
 
-![Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/1089_armando-anastasio.jpg)
-*Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/1089_armando-anastasio.jpg" alt="Armando Anastasio" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Armando Anastasio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>36</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>3</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>3</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Armando Anastasio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 28
-* **Stagioni disputate**: 1
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2023-2024** | Terzino sinistro | 36 | 3 | 3 | 11 | 0 | 2876' |
+| **TOTALE** | — | **36** | **3** | **3** | **11** | **0** | **2876'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Armando Anastasio** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

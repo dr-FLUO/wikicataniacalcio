@@ -1,13 +1,13 @@
 ---
 title: Antonio Mazzotta — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Antonio Mazzotta, difensore
-  del Calcio Catania con 31 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Antonio Mazzotta, difensore del Calcio Catania con 35 presenze
+  e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/antonio-mazzotta
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
-total_appearances: 31
+total_appearances: 35
 seasons_count: 2
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/860_antonio-mazzotta.jpg
 image_credits:
 - image_path: /assets/images/calciatori/antonio-mazzotta.jpg
-  alt_text: 'Ritratto ufficiale di Antonio Mazzotta — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Antonio Mazzotta — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,86 @@ aliases:
 birth_date: '1989-08-02'
 birth_place: Palermo
 citizenship: Italia
+total_goals: 0
+total_assists: 6
+minutes_played: 2979
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Antonio Mazzotta — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Antonio Mazzotta — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/antonio-mazzotta.jpg)
-*Ritratto ufficiale di Antonio Mazzotta — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/860_antonio-mazzotta.jpg" alt="Antonio Mazzotta" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Antonio Mazzotta</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1989</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>35</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>0</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>6</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Antonio Mazzotta — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Antonio Mazzotta** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Difensore
-* **Presenze Ufficiali complessive**: 31
-* **Stagioni disputate**: 2
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2013-2014** | Terzino sinistro | 19 | 0 | 4 | 4 | 0 | 1693' |
+| **2022-2023** | Terzino sinistro | 16 | 0 | 2 | 2 | 0 | 1286' |
+| **TOTALE** | — | **35** | **0** | **6** | **6** | **0** | **2979'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Antonio Mazzotta** ha collezionato complessivamente **35 presenze ufficiali**, disputando **2979 minuti** di gioco effettivo, siglando **0 gol** e servendo **6 assist** distribuiti su **2 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]

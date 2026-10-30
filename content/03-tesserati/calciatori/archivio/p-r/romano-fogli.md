@@ -1,13 +1,13 @@
 ---
 title: Romano Fogli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Romano Fogli, centrocampista
-  del Calcio Catania con 114 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Romano Fogli, centrocampista del Calcio Catania con 128 presenze
+  e 5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/romano-fogli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Centrocampista
-total_appearances: 114
+total_appearances: 128
 seasons_count: 4
 tags:
 - calciatori
@@ -34,8 +34,8 @@ sources:
 image: assets/images/players/559_romano-fogli.jpg
 image_credits:
 - image_path: /assets/images/calciatori/romano-fogli.jpg
-  alt_text: 'Ritratto ufficiale di Romano Fogli — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Romano Fogli — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -47,34 +47,88 @@ aliases:
 birth_date: '1938-01-21'
 birth_place: Santa Maria a Monte
 citizenship: Italia
+total_goals: 5
+total_assists: 0
+minutes_played: 11364
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-
 # Romano Fogli — Scheda Giocatore nel Calcio Catania
 
-![Ritratto ufficiale di Romano Fogli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/romano-fogli.jpg)
-*Ritratto ufficiale di Romano Fogli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <img src="/assets/images/players/559_romano-fogli.jpg" alt="Romano Fogli" class="nfc-player-photo" />
+        </td>
+        <th>Nome e cognome</th>
+        <td>Romano Fogli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1938</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>128</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>5</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>0</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Romano Fogli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Romano Fogli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ---
 
-## 1. Dati di Rendimento in Maglia Rossazzurra
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-* **Ruolo**: Centrocampista
-* **Presenze Ufficiali complessive**: 114
-* **Stagioni disputate**: 4
-* **Stadio di casa**: [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1969-1970** | Mediano | 29 | 2 | 0 | 0 | 0 | 2610' |
+| **1970-1971** | Mediano | 34 | 3 | 0 | 0 | 0 | 3032' |
+| **1971-1972** | Mediano | 38 | 0 | 0 | 0 | 0 | 3403' |
+| **1972-1973** | Mediano | 27 | 0 | 0 | 0 | 0 | 2319' |
+| **TOTALE** | — | **128** | **5** | **0** | **0** | **0** | **11364'** |
 
----
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Romano Fogli** ha collezionato complessivamente **128 presenze ufficiali**, disputando **11364 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
-## 2. Note e Scheda di Carriera
+
+## Note e Scheda di Carriera
 
 Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
 
 ---
 
-## 3. Collegamenti e Voci Correlate
+## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
 * [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
