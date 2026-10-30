@@ -50,7 +50,7 @@ Rilevato il sodalizio nel luglio 1951, Michisanti seppe unire oculatezza amminis
 
 ## 2. Il Ritorno nel 1958-1959
 
-Dopo la parentesi di Agatino Pesce seguita al Caso Scaramella, Michisanti tornò al timone della società nell'estate 1958 per gestire la transizione societaria in Serie B, affidando la squadra a Carmelo Di Bella e traghettando il club verso la presidenza di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] nel marzo 1959.
+Dopo la parentesi di Agatino Pesce seguita al [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]], Michisanti tornò al timone della società nell'estate 1958 per gestire la transizione societaria in Serie B, affidando la squadra a Carmelo Di Bella e traghettando il club verso la presidenza di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] nel marzo 1959.
 
 ---
 

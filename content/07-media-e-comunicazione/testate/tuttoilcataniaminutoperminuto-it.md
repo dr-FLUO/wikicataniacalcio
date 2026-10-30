@@ -35,7 +35,7 @@ aliases:
 
 Lanciato nel **2010** come estensione e cantiere digitale permanente della monumentale opera editoriale omonima edita da GEO Edizioni, ***TuttoilCataniaMinutoperMinuto.it*** ([tuttoilcataniaminutoperminuto.it](https://tuttoilcataniaminutoperminuto.it/)) rappresenta il tempio storiografico e archivistico del Calcio Catania.
 
-Curato dal collettivo di ricercatori ed enciclopedisti denominato **"Quelli del '46"** — fondato da [[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi]], Carlo Fontanelli, [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] e [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Filippo Fabio Solarino]], arricchitosi con i contributi di studiosi quali Emanuele Rizzo e Sergio Nunzio Capizzi — il portale conduce da oltre quindici anni un'opera senza precedenti di recupero documentale, filologico e araldico.
+Curato dal collettivo di ricercatori ed enciclopedisti denominato **"Quelli del '46"** — fondato da [[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi]], Carlo Fontanelli, [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] e [[07-media-e-comunicazione/letteratura/index|Filippo Fabio Solarino]], arricchitosi con i contributi di studiosi quali Emanuele Rizzo e Sergio Nunzio Capizzi — il portale conduce da oltre quindici anni un'opera senza precedenti di recupero documentale, filologico e araldico.
 
 ---
 
@@ -61,7 +61,7 @@ Nel corso degli anni Venti e fino al 2026, il portale ha ospitato saggi monograf
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
 * [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone: Statistico RSSSF e Storico]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo: Medico, Scrittore e Biografo]]
 * [[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi (BAnt): Ricercatore e Illustratore]]

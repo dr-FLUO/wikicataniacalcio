@@ -41,8 +41,8 @@ aliases:
 
 # Espresso Sera: Il Quotidiano Pomeridiano Catanese e la Memoria Storica (1956-1992)
 
-![Prima pagina storica di Espresso Sera che celebra la vittoria degli spareggi di Roma del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp)
-*Prima pagina storica di Espresso Sera che celebra la vittoria degli spareggi di Roma del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
+![Prima pagina storica di Espresso Sera che celebra la vittoria degli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma del 1983]] — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp)
+*Prima pagina storica di Espresso Sera che celebra la vittoria degli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma del 1983]] — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 Attivo a Catania tra il **1956** e il **1992**, ***Espresso Sera*** è stato uno dei più celebri e venduti quotidiani pomeridiani del Mezzogiorno. Nato come voce complementare alla stampa del mattino, si impose rapidamente grazie a un taglio popolare, dinamico e a una straordinaria tempestività nella cronaca sportiva, rappresentando inoltre una fondamentale palestra di giornalismo d'assalto in cui si formarono cronisti come [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] (collaboratore dal 1984 al 1990).
 

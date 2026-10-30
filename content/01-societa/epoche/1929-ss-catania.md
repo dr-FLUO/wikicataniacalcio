@@ -22,7 +22,7 @@ coaches_refs:
 - Pietro Colombetti
 - Mario Sernagiotto
 stadium_refs:
-- '[[stadio/piazza-esposizione|Campo di Piazza Esposizione (1929-1937)]]'
+- '[[04-strutture/campi-storici/index|Campo di Piazza Esposizione (1929-1937)]]'
 - '[[stadio/angelo-massimino|Stadio Cibali (dal 28 novembre 1937)]]'
 next_era: '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 tags:
@@ -67,13 +67,13 @@ image_credits:
 La **Società Sportiva Catania** (ridenominata **Associazione Fascista Calcio Catania — AFC Catania** tra il 1936 e il 1943) rappresenta l'atto di nascita ufficiale della tradizione calcistica rossazzurra. Fondata tra il **24 e il 28 giugno 1929** in attuazione delle direttive di accentramento sportivo della *Carta di Viareggio*, la società raccolse l'eredità pionieristica della *Pro Patria* (1908), dell'*Unione Sportiva Catanese* (1919) e della *Società Sportiva Juventus*, adottando per la prima volta i colori sociali **rosso e azzurro** (*«il rosso del fuoco dell'Etna e l'azzurro del cielo e del mare di Catania»*) e il simbolo cittadino dell'elefante ([[maglie/loghi-storici-liotru|u Liotru]]).
 
 > [!abstract] Sintesi Storica del Periodo Pre-Bellico (1929–1943)
-> Sotto il mecenatismo di [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona, Duca di Misterbianco]], e la guida tecnica del maestro ungherese [[tesserati/allenatori/geza-kertesz|Géza Kertész]], il club conquistò la **prima promozione in Serie B nella [[stagioni/1933-1934|Stagione 1933-1934]]** sul terreno di [[stadio/piazza-esposizione|Piazza Esposizione]], inaugurò il nuovo [[stadio/angelo-massimino|Stadio Cibali]] il **28 novembre 1937**, vinse il campionato di Serie C 1938-1939 e lanciò il bomber assoluto della storia etnea [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]] (78 reti complessive in carriera rossazzurra), prima della sospensione bellica del 1943.
+> Sotto il mecenatismo di [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona, Duca di Misterbianco]], e la guida tecnica del maestro ungherese [[tesserati/allenatori/geza-kertesz|Géza Kertész]], il club conquistò la **prima promozione in Serie B nella [[stagioni/1933-1934|Stagione 1933-1934]]** sul terreno di [[04-strutture/campi-storici/index|Piazza Esposizione]], inaugurò il nuovo [[stadio/angelo-massimino|Stadio Cibali]] il **28 novembre 1937**, vinse il campionato di Serie C 1938-1939 e lanciò il bomber assoluto della storia etnea [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]] (78 reti complessive in carriera rossazzurra), prima della sospensione bellica del 1943.
 
 ---
 
 ## Genesi del 1929, Mecenatismo del Duca Trigona e il Debito di 2.600.000 Lire
 
-Nell'estate del **1929**, l'esclusione dell'*US Catanese* dai campionati nazionali — causata dalle passività di bilancio e dall'inagibilità regolamentare del [[stadio/piazza-esposizione|Campo di Piazza Esposizione]], allora privo di tribune — spinse le autorità sportive cittadine a sciogliere la *SS Juventus* per costituire un'unica rappresentativa denominata **Società Sportiva Catania**, affidata inizialmente alla presidenza del generale **Santi Quasimodo** e poi dell'avvocato **Giuseppe "Geppino" Fusco**.
+Nell'estate del **1929**, l'esclusione dell'*US Catanese* dai campionati nazionali — causata dalle passività di bilancio e dall'inagibilità regolamentare del [[04-strutture/campi-storici/index|Campo di Piazza Esposizione]], allora privo di tribune — spinse le autorità sportive cittadine a sciogliere la *SS Juventus* per costituire un'unica rappresentativa denominata **Società Sportiva Catania**, affidata inizialmente alla presidenza del generale **Santi Quasimodo** e poi dell'avvocato **Giuseppe "Geppino" Fusco**.
 
 La svolta agonistica avvenne nel **1932** con l'ingresso al timone del nobile [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona (Duca di Misterbianco)]], che ingaggiò l'allenatore magiaro [[tesserati/allenatori/geza-kertesz|Géza Kertész]]. Al termine della [[stagioni/1933-1934|Stagione 1933-1934]], superando nel girone finale di Prima Divisione Reggina, Biellese e Savona, il Catania approdò per la prima volta in **Serie B**.
 
@@ -83,7 +83,7 @@ Nonostante gli ottimi piazzamenti cadetti (4º posto nel 1934-1935 e 8º nel 193
 
 ## Dall'AFC Catania (1936) all'Interruzione Bellica (1943)
 
-Nel **1936**, per imposizione del CONI, il sodalizio assunse la denominazione di **Associazione Fascista Calcio Catania (AFC Catania)**. Lasciato il vecchio campo di [[stadio/piazza-esposizione|Piazza Esposizione]], il **28 novembre 1937** venne inaugurato il monumentale [[stadio/angelo-massimino|Stadio Cibali]] (progettato dall'architetto Raffaele Leone) con la vittoria per 1-0 sul Foggia.
+Nel **1936**, per imposizione del CONI, il sodalizio assunse la denominazione di **Associazione Fascista Calcio Catania (AFC Catania)**. Lasciato il vecchio campo di [[04-strutture/campi-storici/index|Piazza Esposizione]], il **28 novembre 1937** venne inaugurato il monumentale [[stadio/angelo-massimino|Stadio Cibali]] (progettato dall'architetto Raffaele Leone) con la vittoria per 1-0 sul Foggia.
 
 Riconquistata la Serie B nel **1938-1939** e richiamato in panchina [[tesserati/allenatori/geza-kertesz|Géza Kertész]] nel 1941-1942, il club vinse il proprio girone di Serie C anche nel **1942-1943** sotto la guida di Berardo Frisoni, ma non poté disputare i gironi finali a causa dei bombardamenti alleati e dello sbarco in Sicilia (*Operazione Husky*, luglio 1943), che determinarono lo scioglimento di fatto dell'ente fino alla nascita post-bellica del [[societa/1946-club-calcio-catania|Club Calcio Catania]].
 

@@ -53,6 +53,9 @@ sources:
   reference: Sent. Fall. n. 158/2021
 aliases:
 - vicende-legali/trattativa-sigi-tacopina-2021
+- caso-tacopina
+- trattativa-tacopina
+- trattativa-sigi-tacopina-2021
 ---
 
 

@@ -38,7 +38,7 @@ aliases:
 
 Il **Derby di Sicilia** tra il **Calcio Catania** e il **Palermo** costituisce il principale e più sentito confronto calcistico dell'isola, espressione di un dualismo storico, economico, culturale e territoriale tra i due poli metropolitani della Sicilia orientale e occidentale (approfondito sotto il profilo sociologico nel nodo [[tifoseria/rivalita/palermo|Rivalità Storica Catania-Palermo]]).
 
-Disputato per la prima volta in gara ufficiale il **1º novembre 1936** in Coppa Italia (vittoria etnea per 1-0 all'allora [[stadio/piazza-esposizione|Campo di Piazza Esposizione]]) e affrontato in **Serie A**, **Serie B**, **Serie C** e **Coppa Italia** per oltre **85 incontri ufficiali**, il confronto ha vissuto il suo apice tecnico e mediatico nel decennio d'oro dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]] (2006–2013), quando le due compagini siciliane si sono sfidate stabilmente in massima serie.
+Disputato per la prima volta in gara ufficiale il **1º novembre 1936** in Coppa Italia (vittoria etnea per 1-0 all'allora [[04-strutture/campi-storici/index|Campo di Piazza Esposizione]]) e affrontato in **Serie A**, **Serie B**, **Serie C** e **Coppa Italia** per oltre **85 incontri ufficiali**, il confronto ha vissuto il suo apice tecnico e mediatico nel decennio d'oro dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]] (2006–2013), quando le due compagini siciliane si sono sfidate stabilmente in massima serie.
 
 > [!abstract] I Due Poker Storici di Serie A: 0-4 al Barbera (2009) e 4-0 al Massimino (2011)
 > Nel ciclo moderno di Serie A, il Catania ha firmato i due successi con il maggior scarto nella storia del Derby di Sicilia in massima divisione con identico punteggio di **4-0**:

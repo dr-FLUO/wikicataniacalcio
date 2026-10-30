@@ -76,7 +76,7 @@ I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cron
 16. **Enzo Bearzot** — Mediano metodista nel Catania 1951-1954, futuro C.T. Campione del Mondo 1982.
 17. **Sebastiano Buzzin** — Mezzala di classe del Catania di Di Bella.
 18. **Adelmo Prenna** — Capitano e bomber principe della prima epoca d'oro in Serie A.
-19. **Alvaro Biagini** — Regista illuminato del *Clamoroso al Cibali* (1961).
+19. **Alvaro Biagini** — Regista illuminato del *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* (1961).
 20. **Amilcare Ferretti** — Mastino di centrocampo della massima serie anni Sessanta.
 21. **Giorgio Michelotti** — Terzino capitano e colonna inamovibile per un decennio.
 22. **Salvatore Calvanese** — Ala argentina, match winner contro l'Inter di Herrera nel 1961.
@@ -91,7 +91,7 @@ I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cron
 31. **Zelico Petrovic** — Mediano generoso ed energico degli anni Settanta.
 32. **Adelchi Malaman** — Ala micidiale, protagonista di memorabili campionati tra B e C.
 33. **Claudio Ciceri** — Centravanti d'area e beniamino della curva negli anni Settanta.
-34. **Gianni Di Marzio** — L'allenatore della trionfale cavalcata agli spareggi di Roma 1983.
+34. **Gianni Di Marzio** — L'allenatore della trionfale cavalcata agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma 1983]].
 35. **Angelo Crialesi** — Autore del gol decisivo all'Olimpico contro il Como nello spareggio promozione 1983.
 36. **Ennio Mastalli** — Metronomo di centrocampo della cavalcata trionfale 1982-1983.
 37. **Roberto Sorrentino** — Portiere e capitano carismatico della Serie A 1983-1984.
@@ -117,7 +117,7 @@ Il murale dei *Cinquanta Volti* ha trasformato via Cifali in una vera e propria 
 
 - [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
 - [[01-societa/presidenti/angelo-massimino|Angelo Massimino — Il Presidentissimo]]
-- [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Clamoroso al Cibali (Catania-Inter 2-0)]]
+- [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]] (Catania-Inter 2-0)]]
 - [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso — Il Patriarca degli Ultras]]
 - [[07-media-e-comunicazione/firme-e-voci/stefania-sberna|Stefania Sberna — La Voce del Massimino]]
 

@@ -76,7 +76,7 @@ Edoardo «Edy» Reja, uno degli allenatori più esperti e vincenti del calcio it
 
 ## 2. La Conduzione Tecnica del Catania
 
-Assunse l'incarico in una delle fasi più calde della stagione, culminata nella complessa vertenza giudiziaria del Caso Martinelli e del Caso Catania che riscrisse le regole della Serie B.
+Assunse l'incarico in una delle fasi più calde della stagione, culminata nella complessa vertenza giudiziaria del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] e del Caso Catania che riscrisse le regole della Serie B.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -38,7 +38,7 @@ L'antagonismo tra la tifoseria del Catania e quella del **Perugia** si articola 
 
 ## 1. Il Trauma del 12 Giugno 1983
 
-La prima faglia nacque in occasione dell'ultima giornata del campionato di Serie B 1982-1983, quando prima dell'inizio del match al Cibali il custode Angelo Grasso sparò contro i tifosi assiepati in Curva Sud, uccidendo Lorenzo Marino e ferendo 32 persone ([[06-tifoseria-e-cultura/eventi-e-giustizia/tragedia-custode-cibali-1983|dossier tragedia del custode]]). Nonostante il dramma, il match venne disputato e la vittoria in rimonta per 2-1 condannò il Perugia, consentendo al Catania di volare agli spareggi di Roma per la Serie A.
+La prima faglia nacque in occasione dell'ultima giornata del campionato di Serie B 1982-1983, quando prima dell'inizio del match al Cibali il custode Angelo Grasso sparò contro i tifosi assiepati in Curva Sud, uccidendo Lorenzo Marino e ferendo 32 persone ([[06-tifoseria-e-cultura/eventi-e-giustizia/tragedia-custode-cibali-1983|dossier tragedia del custode]]). Nonostante il dramma, il match venne disputato e la vittoria in rimonta per 2-1 condannò il Perugia, consentendo al Catania di volare agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] per la Serie A.
 
 ---
 

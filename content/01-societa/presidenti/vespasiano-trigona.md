@@ -42,7 +42,7 @@ aliases:
 **Vespasiano Trigona, Duca di Misterbianco** (Catania, 1898 – 1973), è stato un nobile, sportivo e mecenate siciliano, **presidente della [[societa/1929-ss-catania|Società Sportiva Catania]] dal 1932 al 1936** e primo grande artefice dell'ascesa del calcio catanese nel panorama nazionale.
 
 > [!abstract] Mecenatismo, Prima Serie B e l'Esposizione di 2.600.000 Lire
-> Assunta la guida del club nel 1932, il Duca Trigona ingaggiò l'allenatore ungherese [[tesserati/allenatori/geza-kertesz|Géza Kertész]] e l'attaccante [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], conquistando nella [[stagioni/1933-1934|Stagione 1933-1934]] la **prima storica promozione in Serie B** sul campo di [[stadio/piazza-esposizione|Piazza Esposizione]]. Per sostenere la squadra nei campionati cadetti 1934-1935 (4º posto) e 1935-1936 (8º posto), arrivò ad accumulare un credito personale verso la società di **2.600.000 lire** dell'epoca, cifra imponente che segnò il passaggio nel 1936 alla denominazione CONI di *AFC Catania*.
+> Assunta la guida del club nel 1932, il Duca Trigona ingaggiò l'allenatore ungherese [[tesserati/allenatori/geza-kertesz|Géza Kertész]] e l'attaccante [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], conquistando nella [[stagioni/1933-1934|Stagione 1933-1934]] la **prima storica promozione in Serie B** sul campo di [[04-strutture/campi-storici/index|Piazza Esposizione]]. Per sostenere la squadra nei campionati cadetti 1934-1935 (4º posto) e 1935-1936 (8º posto), arrivò ad accumulare un credito personale verso la società di **2.600.000 lire** dell'epoca, cifra imponente che segnò il passaggio nel 1936 alla denominazione CONI di *AFC Catania*.
 
 ---
 

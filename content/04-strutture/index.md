@@ -43,8 +43,8 @@ Questa sezione documenta l'evoluzione architettonica, urbanistica, toponomastica
 
 ## Elenco Rapido dei Nodi della Categoria
 
-- **[[stadio/campo-due-obelischi|Campo dei Due Obelischi (Barriera del Bosco, 1929)]]**
-- **[[stadio/piazza-esposizione|Campo dei Giochi di Piazza Esposizione / Piazza Giovanni Verga (1929–1937)]]**
+- **[[04-strutture/campi-storici/index|Campo dei Due Obelischi (Barriera del Bosco, 1929)]]**
+- **[[04-strutture/campi-storici/index|Campo dei Giochi di Piazza Esposizione / Piazza Giovanni Verga (1929–1937)]]**
 - **[[stadio/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali, 1937–Oggi)]]**
 - **[[stadio/torre-del-grifo|Centro Sportivo Torre del Grifo Village (Mascalucia, 2011–Oggi)]]**
 

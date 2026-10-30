@@ -62,7 +62,7 @@ Accanto all'attività quotidiana sulla carta stampata e sul portale digitale *la
 
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano dell'Isola]]
 * [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò: Storico Caposervizio]]
-* [[07-media-e-comunicazione/letteratura/saggi-e-biografie|Saggi, Biografie e Memorialistica Rossazzurra]]
+* [[07-media-e-comunicazione/letteratura/index|Saggi, Biografie e Memorialistica Rossazzurra]]
 * [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini: Collega e Analista Tattico]]
 
 ---

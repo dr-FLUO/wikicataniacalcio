@@ -34,7 +34,7 @@ aliases:
 
 # Precedenti Ufficiali Catania - Inter
 
-I confronti ufficiali tra il **Calcio Catania** e l'**F.C. Internazionale Milano** hanno scandito alcune delle pagine più iconiche della storia della **Serie A**, legando indissolubilmente il nome dello [[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]] a imprese rimaste nella memoria collettiva del calcio italiano: dal leggendario **[[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]]** (*«Clamoroso al Cibali!»*) fino allo storico **Catania-Inter 3-1 del 12 marzo 2010** contro i nerazzurri di José Mourinho lanciati verso il *Triplete*.
+I confronti ufficiali tra il **Calcio Catania** e l'**F.C. Internazionale Milano** hanno scandito alcune delle pagine più iconiche della storia della **Serie A**, legando indissolubilmente il nome dello [[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]] a imprese rimaste nella memoria collettiva del calcio italiano: dal leggendario **[[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]]** (*[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*) fino allo storico **Catania-Inter 3-1 del 12 marzo 2010** contro i nerazzurri di José Mourinho lanciati verso il *Triplete*.
 
 > [!info] Bilancio Sintetico in Serie A (34 Incontri Ufficiali)
 > Nei **34 confronti ufficiali in Serie A** disputati tra la [[stagioni/1954-1955|Stagione 1954-1955]] e la [[stagioni/2013-2014|Stagione 2013-2014]] (17 a Catania e 17 a Milano), il bilancio registra **5 vittorie del Catania** (tutte ottenute in casa ai piedi dell'Etna), **5 pareggi** e **24 vittorie dell'Inter**, a cui si aggiungono i confronti in Coppa Italia.
@@ -43,7 +43,7 @@ I confronti ufficiali tra il **Calcio Catania** e l'**F.C. Internazionale Milano
 
 ## Le Due Imprese Simbolo della Storia Rossazzurra
 
-### 1. Il «Clamoroso al Cibali!» del 4 Giugno 1961 (Catania-Inter 2-0)
+### 1. Il [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!» del 4 Giugno 1961 (Catania-Inter 2-0)
 Alla 34ª e ultima giornata della [[stagioni/1960-1961|Serie A 1960-1961]], il neopromosso [[societa/1946-club-calcio-catania|Club Calcio Catania]] del presidente [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e dell'allenatore [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] sconfisse per **2-0** l'Inter di Helenio Herrera con una rete per tempo di **Mario Castellazzi** (25') e **Salvador Calvanese** (70'), spegnendo le residue speranze tricolori dei meneghini e ispirando la celebre frase radiofonica di Sandro Ciotti (vedi la scheda completa [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 (4 giugno 1961)]]).
 
 ### 2. La Notte Perfetta del 12 Marzo 2010 (Catania-Inter 3-1)

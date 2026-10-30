@@ -64,7 +64,7 @@ Enzo Bellini è una delle figure storiche più amate del Club Calcio Catania: ba
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò la squadra con polso fermo in un momento delicato successivo alla retrocessione per il Caso Scaramella, traghettando i rossazzurri al quinto posto finale con 40 punti.
+Guidò la squadra con polso fermo in un momento delicato successivo alla retrocessione per il [[01-societa/vicende-legali/caso-scaramella-1955|il Caso Scaramella]], traghettando i rossazzurri al quinto posto finale con 40 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

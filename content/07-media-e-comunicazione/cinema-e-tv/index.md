@@ -13,4 +13,4 @@ Questa sezione raccoglie le testimonianze, le analisi filmografiche, teatrali e 
 
 ## Documenti e Dossier
 
-- [[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]: Da *Malizia* a *L'allenatore nel pallone*, *Al bar dello sport* e la pièce teatrale-televisiva *Clamoroso al Cibali* con Giuseppe Mascara.
+- [[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]: Da *Malizia* a *L'allenatore nel pallone*, *Al bar dello sport* e la pièce teatrale-televisiva *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* con Giuseppe Mascara.

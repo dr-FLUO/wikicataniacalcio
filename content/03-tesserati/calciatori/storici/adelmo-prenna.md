@@ -88,7 +88,7 @@ Cresciuto nella Maceratese e passato per SPAL, Livorno, Cagliari e Como, Adelmo 
 Nella stagione 1959-1960, Di Bella costruisce attorno alla tecnica sopraffina, al tiro dalla distanza e al senso del gol di *"Memo"* Prenna la manovra offensiva rossazzurra: con **11 reti in 28 gare di Serie B**, Prenna trascina il Catania al 3º posto finale e alla **seconda promozione in Serie A della storia etnea**.
 
 Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-massimino|Stadio Cibali]], Prenna — già trentenne all'esordio in Serie A — vive una straordinaria seconda giovinezza componendo reparti d'attacco leggendari con Salvador Calvanese, Mario Castellazzi, Alvaro Biagini, Bruno Petroni, Giancarlo Danova e i fuoriclasse stranieri **Horst Szymaniak** e **Cinesinho**:
-- Nella [[stagioni/1960-1961|Stagione 1960-1961]] realizza **11 reti in 32 gare di Serie A** (tra cui una doppietta nel 4-3 al Milan e reti decisive a Roma, Torino e Napoli) e scende in campo da titolare il **4 giugno 1961** nel celebre [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 («Clamoroso al Cibali!»)]], chiudendo il torneo all'**8º posto**.
+- Nella [[stagioni/1960-1961|Stagione 1960-1961]] realizza **11 reti in 32 gare di Serie A** (tra cui una doppietta nel 4-3 al Milan e reti decisive a Roma, Torino e Napoli) e scende in campo da titolare il **4 giugno 1961** nel celebre [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»)]], chiudendo il torneo all'**8º posto**.
 - Nel 1961-1962 si laurea nuovamente capocannoniere rossazzurro con **7 reti** (decisivo per la salvezza), per poi segnare **5 reti** nel 1962-1963 (inclusa una doppietta alla Roma e il gol nel 3-0 al Torino) e **6 reti** nella [[stagioni/1963-1964|Stagione 1963-1964]] (chiusa ancora all'**8º posto in Serie A** e con la finale della Coppa delle Alpi), lasciando Catania a 34 anni come il miglior marcatore di sempre del club nella massima divisione.
 
 ### Dettaglio Statistico per Stagione nel Club Calcio Catania
@@ -113,7 +113,7 @@ Nel successivo quadriennio in massima serie (1960–1964) allo [[stadio/angelo-m
 
 - **Reti Ufficiali nel Catania:** **48** (5º marcatore assoluto della storia del club; **29 reti in Serie A**, primato resistito per 46 anni dal 1964 fino al sorpasso di Mascara nel 2010).
 - **Presenze Ufficiali:** **158 gare complessive** (146 in campionato — 93 in Serie A e 53 in Serie B — più 12 tra Coppa Italia, Coppa delle Alpi e Coppa dell'Amicizia).
-- **Partite Leggendarie:** Titolare con la maglia numero 10 nello storico [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961 («Clamoroso al Cibali!»)]] e protagonista di due **8º posti in Serie A** ([[stagioni/1960-1961|1960-1961]] e [[stagioni/1963-1964|1963-1964]]).
+- **Partite Leggendarie:** Titolare con la maglia numero 10 nello storico [[partite/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961 ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»)]] e protagonista di due **8º posti in Serie A** ([[stagioni/1960-1961|1960-1961]] e [[stagioni/1963-1964|1963-1964]]).
 
 </details>
 

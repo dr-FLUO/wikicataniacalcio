@@ -54,8 +54,8 @@ Dossier dedicati alla genealogia grafica dei loghi societari, all'origine dei co
 Dossier analitici sull'evoluzione tessile e commerciale delle casacche rossazzurre, riorganizzati per netta competenza tematica:
 
 * **[[05-identita-e-simboli/sponsor/index|Hub Sponsor Tecnici e Commerciali]]**: il quadro normativo FIGC sulle delibere 1979 (marchio tecnico) e 1981 (sponsor pubblicitari).
-* **[[05-identita-e-simboli/sponsor/sponsor-tecnici|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]**: la storia dei produttori di abbigliamento sportivo (da Ennerre, Adidas e Puma a Galex, Legea, Givova ed Erreà), l'evoluzione dalla pesante "lanetta" al poliestere lavico, e il canone immutabile dei **calzettoni neri (#191919) con risvolto rossazzurro**.
-* **[[05-identita-e-simboli/sponsor/sponsor-commerciali|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]**: la cronologia di tutti i marchi commerciali apparsi sulle casacche etnee, dal pioniere **Haribo** (1982-83) e Pasta Poiatti fino al lungo sodalizio di Serie A con **SP Energia Siciliana** e all'era contemporanea con **SuperConveniente (Gruppo Arena)** e **Replay**.
+* **[[05-identita-e-simboli/sponsor/index|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]**: la storia dei produttori di abbigliamento sportivo (da Ennerre, Adidas e Puma a Galex, Legea, Givova ed Erreà), l'evoluzione dalla pesante "lanetta" al poliestere lavico, e il canone immutabile dei **calzettoni neri (#191919) con risvolto rossazzurro**.
+* **[[05-identita-e-simboli/sponsor/index|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]**: la cronologia di tutti i marchi commerciali apparsi sulle casacche etnee, dal pioniere **Haribo** (1982-83) e Pasta Poiatti fino al lungo sodalizio di Serie A con **SP Energia Siciliana** e all'era contemporanea con **SuperConveniente (Gruppo Arena)** e **Replay**.
 
 ---
 

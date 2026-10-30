@@ -82,7 +82,7 @@ seasons_count: 3
 > - **Presenze Ufficiali:** 96 (84 in campionato di cui 23 in Serie A e 2 negli spareggi promozione, 10 in Coppa Italia).
 > - **Reti Complessive:** 28 (24 in campionato di cui 4 in Serie A, 4 in Coppa Italia).
 > - **Capocannoniere Promozione 1982-1983:** **12 reti** in 36 gare di Serie B, punto di riferimento avanzato nel modulo tattico di [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]].
-> - **Gli Spareggi di Roma:** Titolare inamovibile nel triangolare di spareggio contro Como (1-0) e Cremonese (0-0) che regalò al Catania la quarta Serie A della sua storia.
+> - **Gli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|Gli Spareggi di Roma]]:** Titolare inamovibile nel triangolare di spareggio contro Como (1-0) e Cremonese (0-0) che regalò al Catania la quarta Serie A della sua storia.
 
 ---
 

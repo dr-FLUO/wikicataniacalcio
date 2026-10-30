@@ -1,17 +1,17 @@
 ---
 title: Pietro Podestà — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pietro Podestà, difensore
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Pietro Podestà, difensore del Calcio Catania
+  con 19 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/pietro-podesta
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 birth_date: '1928-09-20'
 birth_place: Genova
 death_date: ''
 nationality: Italia
-total_appearances: 10
+total_appearances: 19
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,13 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pietro_Podest%C3%A0
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Pietro Podestà
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Podesta-703
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 703
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,6 +47,11 @@ aliases:
 - pietro-podesta
 - tesserati/pietro-podesta
 - calciatori/pietro-podesta
+- tesserati/calciatori/pietro-podestà
+- pietro-podestà
+- tesserati/pietro-podestà
+- calciatori/pietro-podestà
+- 03-tesserati/calciatori/archivio/p-r/pietro-podestà
 citizenship: Italia
 ---
 
@@ -52,7 +62,7 @@ citizenship: Italia
 
 **Pietro Podestà** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
-## Profilo Biografico e Carriera Sportiva
+## Profilo Biografico e Carriera
 
 Nato a Genova (1928-09-20), Pietro Podestà ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
@@ -60,12 +70,17 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Dettaglio Statistico di Rendimento
 
-| Parametro Agonistico | Riferimento Ufficiale |
+| Parametro | Riferimento Ufficiale |
 | :--- | :--- |
-| **Ruolo Tattico** | Difensore |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1928-09-20 — Genova |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Ruolo** | Difensore |
+| **Presenze ufficiali complessive** | 19 |
+| **Stagioni disputate** | 1 |
+| **Nazionalità sportiva** | Italia |
+| **Data e luogo di nascita** | 1928-09-20 — Genova |
+| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+
+> [!note] Fonte statistica
+> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Podesta-703)).
 
 ## Collegamenti Interni Correlati
 
@@ -75,6 +90,6 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Fonti e Bibliografia
 
-- [Voce Enciclopedica Ufficiale — Pietro Podestà](https://it.wikipedia.org/wiki/Pietro_Podest%C3%A0) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Pietro Podestà*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Pietro_Podest%C3%A0](https://it.wikipedia.org/wiki/Pietro_Podest%C3%A0).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pietro Podestà*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Podesta-703](https://www.calciocatania.com/giocatori/giocatori.php?Podesta-703).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

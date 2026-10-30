@@ -43,7 +43,7 @@ La **Matricola Federale 11700** ha rappresentato per 75 anni l'identità giuridi
 
 Assegnata nell'autunno del 1946 all'atto della fusione tra la *Società Sportiva Catanese* e la *Virtus Catania* sotto la presidenza di [[societa/presidenti/michele-finocchiaro|Michele Finocchiaro]], la matricola 11700 ha accompagnato il club etneo attraverso tutte le epoche gloriose della sua storia:
 * La prima promozione in Serie A del 1953-1954 con il presidente [[societa/presidenti/santi-maimone|Santi Maimone]];
-* Gli anni d'oro del "Clamoroso al Cibali" in Serie A negli anni Sessanta;
+* Gli anni d'oro del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]" in Serie A negli anni Sessanta;
 * La lunga era guidata dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]];
 * Gli otto campionati consecutivi di Serie A sotto la gestione di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]].
 

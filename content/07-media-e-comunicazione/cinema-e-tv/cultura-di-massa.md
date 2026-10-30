@@ -69,10 +69,10 @@ Con Gigi Proietti ed Enrico Brignano:
 
 ---
 
-## 2. Il Teatro e la Televisione: "Clamoroso al Cibali" con Giuseppe Mascara
+## 2. Il Teatro e la Televisione: [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]" con Giuseppe Mascara
 
 Accanto alla produzione cinematografica, il mito calcistico rossazzurro ha trovato espressione sul palcoscenico teatrale:
-* Lo spettacolo ***"Clamoroso al Cibali"***, interpretato e dedicato alle prodezze dell'ex fantasista rossazzurro [[03-tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] (protagonista del celebre gol da centrocampo nel derby di Palermo del 2009 e delle notti di Serie A), ha riscosso enorme successo nei teatri siciliani ed è stato trasmesso integralmente sugli schermi di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], testimoniando l'integrazione tra sport, drammaturgia popolare ed emittenza televisiva.
+* Lo spettacolo ***[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]"***, interpretato e dedicato alle prodezze dell'ex fantasista rossazzurro [[03-tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] (protagonista del celebre gol da centrocampo nel derby di Palermo del 2009 e delle notti di Serie A), ha riscosso enorme successo nei teatri siciliani ed è stato trasmesso integralmente sugli schermi di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], testimoniando l'integrazione tra sport, drammaturgia popolare ed emittenza televisiva.
 
 ---
 
@@ -85,7 +85,7 @@ Accanto alla produzione cinematografica, il mito calcistico rossazzurro ha trova
 | **1983** | *Al bar dello sport* | Cinema / F. Massaro | L. Banfi, J. Calà | Il "2" vincente del Catania al Totocalcio regala il leggendario 13 miliardario. |
 | **1984** | *L'allenatore nel pallone* | Cinema / S. Martino | L. Banfi, G. Di Marzio | Scontro all'Hotel Executive con Angelo Massimino per Luvanor e Pedrinho. |
 | **2010** | *La vita è una cosa meravigliosa* | Cinema / C. Vanzina | G. Proietti, E. Brignano | Radiocronaca del netto 4-0 del Catania contro la Roma. |
-| **Anni 2010** | *Clamoroso al Cibali* | Teatro e TV | Giuseppe Mascara | Pièce teatrale e televisiva sulla memoria calcistica etnea su Antenna Sicilia. |
+| **Anni 2010** | *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali\|Clamoroso al Cibali]]* | Teatro e TV | Giuseppe Mascara | Pièce teatrale e televisiva sulla memoria calcistica etnea su Antenna Sicilia. |
 
 ---
 
@@ -94,4 +94,4 @@ Accanto alla produzione cinematografica, il mito calcistico rossazzurro ha trova
 1. **Roberto Quartarone, Alessandro Russo**, *Il Catania sul grande schermo: da Malizia a Oronzo Canà*, [Tutto il Catania minuto per minuto](https://www.tuttoilcataniaminutoperminuto.it/), 2023.
 2. **Enrico Lancia, Roberto Poppi**, *Dizionario del cinema italiano — I film dal 1970 al 1979*, Gremese Editore, Roma, 2001.
 3. **Marco Giusti**, *Dizionario dei film italiani stracult*, Frassinelli, Milano, 2004.
-4. **Archivio Audiovisivo Antenna Sicilia**, *Riprese e Messa in Onda dello Spettacolo Clamoroso al Cibali*, Catania.
+4. **Archivio Audiovisivo Antenna Sicilia**, *Riprese e Messa in Onda dello Spettacolo [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]*, Catania.

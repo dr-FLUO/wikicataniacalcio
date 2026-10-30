@@ -65,7 +65,7 @@ La frattura epocale nella storia del gruppo si consumò nell'estate del **2015**
 - Di fronte al divieto di trasferta per i non fidelizzati, la leadership della Falange scelse una linea pragmatica e presenzialista: sottoscrivere la tessera per non far mancare il sostegno alla squadra lontano dal Massimino.
 - Rifiutando la linea intransigente no-tessera assunta dalla Curva Nord guidata da [[06-tifoseria-e-cultura/curve/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], la Falange **abbandonò la Curva Nord dopo 36 anni** e si trasferì nella **Curva Sud**, stringendo un patto d'azione con gli [[06-tifoseria-e-cultura/curve/curva-sud/irriducibili-1991|Irriducibili]].
 - Dalla fusione operativa delle due storiche realtà nacque lo striscione unico da trasferta denominato [[06-tifoseria-e-cultura/curve/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
-- Una fazione dissidente interna rifiutò il trasferimento in Sud e la tessera, staccandosi per fondare in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/mecha-klan|Ultras Mecha Klan Catania]].
+- Una fazione dissidente interna rifiutò il trasferimento in Sud e la tessera, staccandosi per fondare in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/index|Ultras Mecha Klan Catania]].
 
 ---
 

@@ -40,7 +40,7 @@ aliases:
 **Riccardo Gaucci** (Roma, 27 luglio 1977) è un imprenditore e dirigente sportivo italiano, figlio di [[societa/presidenti/luciano-gaucci|Luciano Gaucci]] e **presidente del [[societa/2000-era-gaucci|Calcio Catania S.p.A.]]** (matricola FIGC 11700) dal **maggio 2000 al giugno 2004**.
 
 > [!abstract] Promozione a Taranto (2002) e Caso Catania (2003)
-> Divenuto a soli 22 anni il più giovane presidente del calcio professionistico italiano, Riccardo Gaucci ha guidato il Catania al **ritorno in Serie B il 9 giugno 2002** nella [[partite/2001-2002/spareggio-taranto-catania-0-0|finale playoff di Taranto]] ([[stagioni/2001-2002|Stagione 2001-2002]]), ha promosso l'intitolazione dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] (16 giugno 2002) e nella primavera-estate 2003 ha capeggiato il ricorso al TAR Sicilia nel **[[vicende-legali/caso-catania-2003|Caso Catania (Caso Martinelli)]]**, ottenendo la permanenza in cadetteria e l'allargamento della [[stagioni/2003-2004|Serie B 2003-2004]] a 24 squadre.
+> Divenuto a soli 22 anni il più giovane presidente del calcio professionistico italiano, Riccardo Gaucci ha guidato il Catania al **ritorno in Serie B il 9 giugno 2002** nella [[partite/2001-2002/spareggio-taranto-catania-0-0|finale playoff di Taranto]] ([[stagioni/2001-2002|Stagione 2001-2002]]), ha promosso l'intitolazione dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] (16 giugno 2002) e nella primavera-estate 2003 ha capeggiato il ricorso al TAR Sicilia nel **[[vicende-legali/caso-catania-2003|Caso Catania ([[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]])]]**, ottenendo la permanenza in cadetteria e l'allargamento della [[stagioni/2003-2004|Serie B 2003-2004]] a 24 squadre.
 
 ---
 

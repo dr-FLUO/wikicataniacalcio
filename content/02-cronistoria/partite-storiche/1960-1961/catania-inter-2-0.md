@@ -63,7 +63,7 @@ aliases:
 - partite-storiche/1960-1961/clamoroso-al-cibali
 - partite/1960-1961/clamoroso-al-cibali
 ---
-![Fase di gioco della storica vittoria per 2-0 contro l'Inter di Helenio Herrera (Clamoroso al Cibali!)](/assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp)
+![Fase di gioco della storica vittoria per 2-0 contro l'Inter di Helenio Herrera ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!)](/assets/images/partite-storiche/catania-inter-2-0-clamoroso-al-cibali-serie-a-1960-1961.webp)
 
 
 # Catania - Inter 2-0 (4 Giugno 1961)
@@ -71,7 +71,7 @@ aliases:
 ![Tabellino ufficiale e rassegna stampa storica della celebre partita Catania-Inter 2-0 del 4 giugno 1961](../../../assets/images/stagioni/classifiche-tabellini/tabellino-catania-inter-2-0-clamoroso-al-cibali-1961-calcio-catania.webp)
 
 
-La sfida **Catania-Inter (2-0)** disputata il **4 giugno 1961** allo [[stadio/angelo-massimino|Stadio Cibali]] per la 34ª e ultima giornata della Serie A 1960-1961 è entrata nella storia della lingua e del costume italiano grazie alla celebre esclamazione radiofonica **_«Clamoroso al Cibali!»_** attribuita a **Sandro Ciotti** (in collegamento con Enrico Ameri su *Tutto il calcio minuto per minuto*), divenuta per antonomasia sinonimo di un ribaltamento di pronostico inatteso e sensazionale.
+La sfida **Catania-Inter (2-0)** disputata il **4 giugno 1961** allo [[stadio/angelo-massimino|Stadio Cibali]] per la 34ª e ultima giornata della Serie A 1960-1961 è entrata nella storia della lingua e del costume italiano grazie alla celebre esclamazione radiofonica **_[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]_** attribuita a **Sandro Ciotti** (in collegamento con Enrico Ameri su *Tutto il calcio minuto per minuto*), divenuta per antonomasia sinonimo di un ribaltamento di pronostico inatteso e sensazionale.
 
 > [!quote] Il Contesto Storico della Gara
 > Alla vigilia dell'ultimo turno, l'Inter di Helenio Herrera necessitava di una vittoria a Catania per tenere vive le speranze di Scudetto nel testa a testa con la Juventus, mentre il neopromosso **Club Calcio Catania** del presidente **Ignazio Marcoccio** e dell'allenatore **Carmelo Di Bella** aveva già ampiamente blindato la salvezza ma onorò il campionato con una prestazione memorabile, chiudendo al **8º posto con 36 punti**.

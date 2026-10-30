@@ -32,12 +32,12 @@ tags:
 status: verified
 last_verified_date: 2026-10-27
 sources:
-- author: "Wikipedia Italia"
-  title: "Voce Enciclopedica Ufficiale — Scandalo Scaramella"
-  publisher: "Wikimedia Foundation"
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Scandalo Scaramella
+  publisher: Wikimedia Foundation
   year: 2026
-  url: "https://it.wikipedia.org/wiki/Scandalo_Scaramella"
-  reference: "Dossier storico illecito sportivo 1955"
+  url: https://it.wikipedia.org/wiki/Scandalo_Scaramella
+  reference: Dossier storico illecito sportivo 1955
 - author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
     Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
@@ -55,6 +55,8 @@ aliases:
 - vicende-legali/scandalo-scaramella-1955
 - scandalo-scaramella-1955
 - scandalo-scaramella
+- caso-scaramella
+- caso-scaramella-1955
 ---
 
 

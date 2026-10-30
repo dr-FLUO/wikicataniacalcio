@@ -13,7 +13,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           __html: `
             (function() {
               var isGh = window.location.hostname.endsWith(".github.io");
-              var path = window.location.pathname.replace(/\/+/g, "/");
+              var path = window.location.pathname.replace(new RegExp("/+", "g"), "/");
               if (isGh && !path.startsWith("/wikicataniacalcio")) {
                 window.location.replace("/wikicataniacalcio" + path + window.location.search + window.location.hash);
                 return;

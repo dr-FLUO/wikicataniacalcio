@@ -1,18 +1,18 @@
 ---
 title: Norbert Gyömbér — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Norbert Gyömbér, difensore
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Norbert Gyömbér, difensore del Calcio Catania
+  con 25 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/norbert-gyomber
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Difensore
 birth_date: '1992-07-03'
 birth_place: Revúca
 death_date: ''
 nationality: Slovacchia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 25
+seasons_count: 2
 tags:
 - calciatori
 - norbert-gyomber
@@ -24,8 +24,13 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Norbert Gyömbér
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 810
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,6 +47,11 @@ aliases:
 - norbert-gyomber
 - tesserati/norbert-gyomber
 - calciatori/norbert-gyomber
+- tesserati/calciatori/norbert-gyömbér
+- norbert-gyömbér
+- tesserati/norbert-gyömbér
+- calciatori/norbert-gyömbér
+- 03-tesserati/calciatori/archivio/m-o/norbert-gyömbér
 citizenship: Slovacchia
 ---
 
@@ -52,7 +62,7 @@ citizenship: Slovacchia
 
 **Norbert Gyömbér** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
-## Profilo Biografico e Carriera Sportiva
+## Profilo Biografico e Carriera
 
 Nato a Revúca (1992-07-03), Norbert Gyömbér ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
@@ -60,12 +70,17 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Dettaglio Statistico di Rendimento
 
-| Parametro Agonistico | Riferimento Ufficiale |
+| Parametro | Riferimento Ufficiale |
 | :--- | :--- |
-| **Ruolo Tattico** | Difensore |
-| **Nazionalità Sportiva** | Slovacchia |
-| **Data e Luogo di Nascita** | 1992-07-03 — Revúca |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Ruolo** | Difensore |
+| **Presenze ufficiali complessive** | 25 |
+| **Stagioni disputate** | 2 |
+| **Nazionalità sportiva** | Slovacchia |
+| **Data e luogo di nascita** | 1992-07-03 — Revúca |
+| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+
+> [!note] Fonte statistica
+> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810)).
 
 ## Collegamenti Interni Correlati
 
@@ -75,6 +90,6 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Fonti e Bibliografia
 
-- [Voce Enciclopedica Ufficiale — Norbert Gyömbér](https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Norbert Gyömbér*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r](https://it.wikipedia.org/wiki/Norbert_Gy%C3%B6mb%C3%A9r).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Norbert Gyömbér*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810](https://www.calciocatania.com/giocatori/giocatori.php?Gyomber-810).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

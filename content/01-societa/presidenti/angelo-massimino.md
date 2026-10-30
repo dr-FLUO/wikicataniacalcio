@@ -50,7 +50,7 @@ aliases:
 **Angelo Massimino** (Catania, 16 gennaio 1927 – Scillato, 4 marzo 1996), universalmente ricordato dal popolo rossazzurro come **_«Il Presidentissimo»_**, è stato l'imprenditore edile e dirigente sportivo che ha legato il proprio nome per oltre un quarto di secolo alla guida del **Calcio Catania S.p.A.** (Matricola FIGC **11700**), dal **1969** fino alla tragica scomparsa avvenuta il **4 marzo 1996** sull'autostrada A19 Palermo-Catania.
 
 > [!abstract] L'Eredità Storica e Identitaria
-> Sotto la presidenza di Angelo Massimino il Catania ha conquistato **due promozioni in Serie A** (1969-1970 con Egizio Rubino e 1982-1983 con Gianni Di Marzio negli storici spareggi di Roma davanti a 40.000 etnei), due promozioni in Serie B (1974-1975 e 1979-1980) e ha difeso con successo dinanzi al TAR Sicilia e al CGA nell'estate 1993 la storica **matricola 11700** contro la delibera di radiazione della FIGC. Dal 16 giugno 2002 lo [[stadio/angelo-massimino|Stadio Angelo Massimino]] porta il suo nome.
+> Sotto la presidenza di Angelo Massimino il Catania ha conquistato **due promozioni in Serie A** (1969-1970 con Egizio Rubino e 1982-1983 con Gianni Di Marzio negli storici [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] davanti a 40.000 etnei), due promozioni in Serie B (1974-1975 e 1979-1980) e ha difeso con successo dinanzi al TAR Sicilia e al CGA nell'estate 1993 la storica **matricola 11700** contro la delibera di radiazione della FIGC. Dal 16 giugno 2002 lo [[stadio/angelo-massimino|Stadio Angelo Massimino]] porta il suo nome.
 
 ---
 

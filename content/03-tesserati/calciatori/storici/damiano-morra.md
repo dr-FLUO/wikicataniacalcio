@@ -80,7 +80,7 @@ Acquistato nell'estate del **1975** dal presidente [[societa/presidenti/angelo-m
 
 Rimasto fedele alla causa anche dopo l'amara caduta in Serie C del 1977 e lo spareggio promozione perso a Catanzaro contro la Nocerina nel giugno 1978 (1-2), Morra guida la riscossa rossazzurra nella [[stagioni/1979-1980|Stagione 1979-1980]]: sotto la conduzione tecnica di Lino De Petrillo (e nel finale nuovamente di [[tesserati/allenatori/egizio-rubino|Egizio Rubino]]), il Catania vince il Girone B di Serie C1 con 44 punti riconquistando la cadetteria, nello stesso anno in cui in [[tifoseria/curva-sud/index|Curva Sud]] nasce la [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto Rossazzurra]] di [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]].
 
-## La Promozione in Serie A agli Spareggi di Roma (1983)
+## La Promozione in Serie A agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|Spareggi di Roma]] (1983)
 
 Consolidata la categoria nei campionati cadetti 1980-1981 e 1981-1982 con Guido Mazzetti e Giorgio Michelotti, Morra raggiunge l'apice della propria carriera nella leggendaria [[stagioni/1982-1983|Stagione 1982-1983]] agli ordini di [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]. Al fianco di Roberto Sorrentino, Claudio Ranieri, Giampietro Mastalli e Aldo Cantarutti, disputa 35 gare di campionato (segnando una rete) più entrambi gli storici spareggi promozione sul neutro dello Stadio Olimpico, vissuti davanti all'[[tifoseria/eventi/esodo-roma-1983|esodo di 40.000 tifosi catanesi]]: il successo per 1-0 in [[partite/1982-1983/spareggio-catania-como-1-0|Catania-Como (18 giugno 1983)]] e il decisivo 0-0 in [[partite/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese (25 giugno 1983)]].
 
@@ -110,7 +110,7 @@ Nella successiva [[stagioni/1983-1984|Stagione 1983-1984]], corona il sogno di g
 <summary><strong>Sintesi Statistica e Primato di Fedeltà</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
 - **Presenze Ufficiali Totali:** **281** (2º posto assoluto nella storia del Catania; **primatista per stagioni consecutive da titolare** nel dopoguerra).
-- **Dettaglio Competizioni:** 25 presenze in [[stagioni/1983-1984|Serie A]], 155 in Serie B (più i 2 [[partite/1982-1983/spareggio-catania-como-1-0|spareggi di Roma del 1983]]), 70 in Serie C / C1 (più 1 spareggio nel 1978), 28 tra Coppa Italia e Coppa Italia Semiprofessionisti.
+- **Dettaglio Competizioni:** 25 presenze in [[stagioni/1983-1984|Serie A]], 155 in Serie B (più i 2 [[partite/1982-1983/spareggio-catania-como-1-0|[[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] del 1983]]), 70 in Serie C / C1 (più 1 spareggio nel 1978), 28 tra Coppa Italia e Coppa Italia Semiprofessionisti.
 - **Palmarès in Rossazzurro:** Promozione dalla Serie C1 alla Serie B nella [[stagioni/1979-1980|Stagione 1979-1980]] e promozione in Serie A nella [[stagioni/1982-1983|Stagione 1982-1983]].
 
 </details>

@@ -1,17 +1,17 @@
 ---
 title: Graziano Pellè — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Graziano Pellè, attaccante
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Graziano Pellè, attaccante del Calcio Catania
+  con 12 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/graziano-pelle
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-28'
+last_verified_date: '2026-10-30'
 role: Attaccante
 birth_date: '1985-07-15'
 birth_place: San Cesario di Lecce
 death_date: ''
 nationality: Italia
-total_appearances: 10
+total_appearances: 12
 seasons_count: 1
 tags:
 - calciatori
@@ -24,8 +24,13 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Graziano Pellè
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 116
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,6 +47,11 @@ aliases:
 - graziano-pelle
 - tesserati/graziano-pelle
 - calciatori/graziano-pelle
+- tesserati/calciatori/graziano-pellè
+- graziano-pellè
+- tesserati/graziano-pellè
+- calciatori/graziano-pellè
+- 03-tesserati/calciatori/archivio/g-l/graziano-pellè
 citizenship: Italia
 ---
 
@@ -52,7 +62,7 @@ citizenship: Italia
 
 **Graziano Pellè** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
-## Profilo Biografico e Carriera Sportiva
+## Profilo Biografico e Carriera
 
 Nato a San Cesario di Lecce (1985-07-15), Graziano Pellè ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
@@ -60,12 +70,17 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Dettaglio Statistico di Rendimento
 
-| Parametro Agonistico | Riferimento Ufficiale |
+| Parametro | Riferimento Ufficiale |
 | :--- | :--- |
-| **Ruolo Tattico** | Attaccante |
-| **Nazionalità Sportiva** | Italia |
-| **Data e Luogo di Nascita** | 1985-07-15 — San Cesario di Lecce |
-| **Club di Appartenenza** | [[societa/matricola-11700\|Calcio Catania]] |
+| **Ruolo** | Attaccante |
+| **Presenze ufficiali complessive** | 12 |
+| **Stagioni disputate** | 1 |
+| **Nazionalità sportiva** | Italia |
+| **Data e luogo di nascita** | 1985-07-15 — San Cesario di Lecce |
+| **Club** | [[societa/matricola-11700\|Calcio Catania]] |
+
+> [!note] Fonte statistica
+> Presenze e stagioni sono riportate secondo l'archivio giocatori di calciocatania.com ([scheda ufficiale](https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116)).
 
 ## Collegamenti Interni Correlati
 
@@ -75,6 +90,6 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 ## Fonti e Bibliografia
 
-- [Voce Enciclopedica Ufficiale — Graziano Pellè](https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8) su *Wikipedia, L'enciclopedia libera*.
-- Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-- Archivio Storico Federale della Federazione Italiana Giuoco Calcio (FIGC).
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Graziano Pellè*, Wikimedia Foundation, 2026 — [https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8](https://it.wikipedia.org/wiki/Graziano_Pell%C3%A8).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Graziano Pellè*, calciocatania.com, 2024 — [https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116](https://www.calciocatania.com/giocatori/giocatori.php?Pelle-116).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

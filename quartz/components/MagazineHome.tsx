@@ -882,6 +882,10 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
             src="./static/images/photos/curva-nord-coreografia.jpg"
             alt="Stadio Angelo Massimino illuminato durante una gara notturna del Catania con coreografia rossazzurra"
             loading="eager"
+            fetchpriority="high"
+            decoding="async"
+            width="1200"
+            height="800"
           />
           <div class="nfc-hero-cover__overlay" />
         </div>
@@ -1162,10 +1166,6 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   }
 
   function initRandomizer() {
-    shuffleStories();
-    shufflePortraits();
-    shuffleNumbers();
-
     var storyBtn = document.getElementById("nfc-shuffle-stories-btn");
     if (storyBtn) {
       storyBtn.onclick = function(e) {

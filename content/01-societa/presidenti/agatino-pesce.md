@@ -34,8 +34,8 @@ aliases:
 
 **Agatino Pesce** (Catania, 1904 – Catania, 1989) è stato un imprenditore etneo e dirigente sportivo, **presidente del [[societa/1946-club-calcio-catania|Club Calcio Catania]] dal 1955 al 1958**.
 
-> [!abstract] La Ricostruzione nel Dopoguerra del Caso Scaramella
-> Nell'estate 1955, in seguito alla dolorosa retrocessione d'ufficio inflitta dalla Giustizia Sportiva al termine del primo storico campionato di Serie A 1954-1955 (il celebre *Caso Scaramella*), Agatino Pesce assunse la presidenza del club in un momento di gravissima crisi istituzionale ed emotiva. Con serietà imprenditoriale, garantì la stabilità finanziaria della matricola **11700** e allestì formazioni di primo livello per tre campionati consecutivi di Serie B.
+> [!abstract] La Ricostruzione nel Dopoguerra del [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]]
+> Nell'estate 1955, in seguito alla dolorosa retrocessione d'ufficio inflitta dalla Giustizia Sportiva al termine del primo storico campionato di Serie A 1954-1955 (il celebre *[[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]]*), Agatino Pesce assunse la presidenza del club in un momento di gravissima crisi istituzionale ed emotiva. Con serietà imprenditoriale, garantì la stabilità finanziaria della matricola **11700** e allestì formazioni di primo livello per tre campionati consecutivi di Serie B.
 
 ---
 

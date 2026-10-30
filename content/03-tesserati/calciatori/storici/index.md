@@ -32,7 +32,7 @@ aliases:
 
 # Calciatori Storici del Catania — Bandiere e Leggende
 
-Questa sezione raccoglie le monografie biografiche dei **calciatori simbolo** che hanno scritto le pagine più memorabili della storia etnea, dai pionieri degli anni Trenta agli eroi del «Clamoroso al Cibali», dalle bandiere dell'era Massimino ai fuoriclasse del ciclo d'oro in Serie A.
+Questa sezione raccoglie le monografie biografiche dei **calciatori simbolo** che hanno scritto le pagine più memorabili della storia etnea, dai pionieri degli anni Trenta agli eroi del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]», dalle bandiere dell'era Massimino ai fuoriclasse del ciclo d'oro in Serie A.
 
 ---
 

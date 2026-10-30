@@ -72,7 +72,7 @@ I colori sociali adottati formalmente nel **1929** alla nascita della [[societa/
 * **Rosso cremisi**: evoca il magma incandescente dell'Etna, vulcano attivo che sovrasta e forgia l'indole della comunità catanese.
 * **Azzurro ciano / cobalto**: simboleggia le acque profonde del Golfo di Catania e del Mare Jonio, fonte di vita e scambi commerciali per il porto etneo.
 
-Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da Santi Quasimodo (fratello del futuro Nobel Salvatore) e dal presidente nobile [[societa/presidenti/vespasiano-trigona-di-misterbianco|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[stadio/campo-due-obelischi|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
+Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da Santi Quasimodo (fratello del futuro Nobel Salvatore) e dal presidente nobile [[societa/presidenti/vespasiano-trigona-di-misterbianco|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[04-strutture/campi-storici/index|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
 
 ![Seconda divisa da trasferta del Catania bianca con banda diagonale rossazzurra](/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp)
 
@@ -114,8 +114,8 @@ Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprend
 
 ## 5. Collegamenti e Voci Correlate
 
-* [[05-identita-e-simboli/sponsor/sponsor-tecnici|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]
-* [[05-identita-e-simboli/sponsor/sponsor-commerciali|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]
+* [[05-identita-e-simboli/sponsor/index|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]
+* [[05-identita-e-simboli/sponsor/index|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]
 * [[societa/1929-ss-catania|Nascita della Società Sportiva Catania nel 1929]]
 * [[societa/1946-club-calcio-catania|La Rinascita post-bellica del 1946]]
 * [[societa/presidenti/angelo-massimino|Angelo Massimino e i trent'anni della Matricola 11700]]

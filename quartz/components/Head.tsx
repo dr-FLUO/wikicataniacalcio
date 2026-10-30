@@ -45,7 +45,7 @@ export default (() => {
             __html: `
               (function() {
                 var isGh = window.location.hostname.endsWith(".github.io");
-                var path = window.location.pathname.replace(/\/+/g, "/");
+                var path = window.location.pathname.replace(new RegExp("/+", "g"), "/");
                 if (isGh && !path.startsWith("/wikicataniacalcio")) {
                   window.location.replace("/wikicataniacalcio" + path + window.location.search + window.location.hash);
                   return;
@@ -111,6 +111,7 @@ export default (() => {
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
+            <link rel="canonical" href={socialUrl} />
           </>
         )}
 

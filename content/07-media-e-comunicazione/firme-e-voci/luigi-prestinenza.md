@@ -57,7 +57,7 @@ Alla redazione de *La Sicilia*, Prestinenza è stato il punto di riferimento e i
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano dell'Isola]]
 * [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò e l'Apprendistato a La Sicilia]]
 

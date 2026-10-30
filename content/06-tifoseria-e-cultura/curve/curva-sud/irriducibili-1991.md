@@ -47,7 +47,7 @@ Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.
 
 ## 2. Momenti Storici e Scissioni
 
-- **La Scissione dell'A.N.R. (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/anr|A.N.R. (Associazione Non Riconosciuta)]].
+- **La Scissione dell'A.N.R. (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/curve/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
 - **La Presenza in Trasferta:** Gli Irriducibili hanno costruito la propria reputazione sulla presenza costante su ogni campo: dai gironi infernali della Serie C2 fino ai palcoscenici della Serie A, garantendo una scorta vocale continua ai colori rossazzurri.
 
 ---

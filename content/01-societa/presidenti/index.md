@@ -55,7 +55,7 @@ La storia del Calcio Catania è indissolubilmente legata alle figure dei suoi pr
 - [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti (1951-1954)]] — Conquista la storica prima promozione in Serie A nel 1954.
 - **Giuseppe Ingrassia** (1954-1955)
 - **Michele Giuffrida** (1955-1959)
-- [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio (1959-1969)]] — Il presidente dell'era d'oro in Serie A, artefice del *Clamoroso al Cibali* (1961).
+- [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio (1959-1969)]] — Il presidente dell'era d'oro in Serie A, artefice del *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* (1961).
 
 ### L'Era Massimino (1969-1996)
 - [[01-societa/presidenti/angelo-massimino|Angelo Massimino (1969-1973, 1974-1987, 1992-1996)]] — Il *Presidentissimo*, 27 anni al timone del club, 3 promozioni in Serie A (1970, 1983) e 2 in B.

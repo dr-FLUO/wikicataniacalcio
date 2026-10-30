@@ -63,7 +63,7 @@ Fondato il **15 marzo 1945** dall'imprenditore Domenico Sanfilippo, il quotidian
 Fin dai campionati del secondo dopoguerra del *Club Calcio Catania 1946*, le pagine sportive del quotidiano — guidate dal decano [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]] — hanno accompagnato l'evoluzione sociale del tifo:
 * **La Fucina di Candido Cannavò**: Nel 1949, a soli diciannove anni, esordì in redazione il giovane [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]], che prima di assumere la direzione de *La Gazzetta dello Sport* raccontò per quasi vent'anni le gesta della squadra di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], mantenendo sempre un'assoluta indipendenza etica nei confronti della società.
 * **Luigi Tripisciano**: Mosse i primi passi a *La Sicilia* anche [[07-media-e-comunicazione/firme-e-voci/luigi-tripisciano|Luigi Tripisciano]], prima del passaggio nel 1955 alla RAI e all'epopea di *90° Minuto*.
-* **La Prima Serie A e il Clamoroso al Cibali**: Le promozioni del 1954 e il celebre [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]] vennero celebrati con titoli cubitali a tutta pagina rimasti impressi nella memoria visiva della città.
+* **La Prima Serie A e il [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]**: Le promozioni del 1954 e il celebre [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]] vennero celebrati con titoli cubitali a tutta pagina rimasti impressi nella memoria visiva della città.
 
 ---
 

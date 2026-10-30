@@ -65,10 +65,10 @@ aliases:
 
 **Salvador Calvanese**, affettuosamente ribattezzato dai tifosi **"Todo Calvanese"** (Buenos Aires, 17 agosto 1934 – Buenos Aires, 5 novembre 2019), è stato un calciatore e allenatore di calcio argentino, nel ruolo di centravanti. Acquistato dall'Atlanta di Buenos Aires nell'estate del **1960**, è stato una delle figure più iconiche e amate dell'intera storia calcistica etnea.
 
-Attaccante generoso, grintoso e dotato di eccellente fiuto per il gol, legò indissolubilmente il proprio nome al Catania di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], segnando il gol del 2-0 nella celebre sfida del 4 giugno 1961 contro l'Inter di Helenio Herrera che originò la storica locuzione radiofonica di Sandro Ciotti: *«Clamoroso al Cibali!»*.
+Attaccante generoso, grintoso e dotato di eccellente fiuto per il gol, legò indissolubilmente il proprio nome al Catania di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], segnando il gol del 2-0 nella celebre sfida del 4 giugno 1961 contro l'Inter di Helenio Herrera che originò la storica locuzione radiofonica di Sandro Ciotti: *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*.
 
 > [!abstract] L'Eroe Argentino dell'Era d'Oro di Carmelo Di Bella
-> - **L'Inno al Cibali:** Autore del gol del 2-0 nella storica vittoria contro l'Inter di Herrera il 4 giugno 1961 (*«Clamoroso al Cibali!»*).
+> - **L'Inno al Cibali:** Autore del gol del 2-0 nella storica vittoria contro l'Inter di Herrera il 4 giugno 1961 (*[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*).
 > - **Centravanti Totale:** 117 presenze e 24 reti in maglia rossazzurra attraverso due distinti cicli trionfali.
 > - **L'Ottavo Posto Record (1964-1965):** Protagonista in Serie A del celebre tridente Danova-Facchin-Calvanese.
 > - **La Promozione del 1967:** Perno dell'attacco che riconquistò immediatamente la Serie A nel 1966-1967.
@@ -97,6 +97,6 @@ Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stag
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Salvador Calvanese](https://it.wikipedia.org/wiki/Salvatore_Calvanese)*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 188-235 (Stagioni 1960-1962 e 1964-1967).
-2. **La Sicilia**, *Addio a 'Todo' Calvanese, l'eroe del Clamoroso al Cibali*, La Sicilia - Catania, 2019, Necrologio e rievocazione storica 6 novembre 2019.
+2. **La Sicilia**, *Addio a 'Todo' Calvanese, l'eroe del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]*, La Sicilia - Catania, 2019, Necrologio e rievocazione storica 6 novembre 2019.
 
 - **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Salvador Calvanese*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Calvanese-616).

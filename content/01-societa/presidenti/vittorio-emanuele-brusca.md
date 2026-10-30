@@ -36,7 +36,7 @@ aliases:
 L'avvocato **Vittorio Emanuele Brusca** (Catania, 1893 – Catania, 1968) è stato un noto professionista forense e dirigente sportivo, **presidente dell'[[societa/1929-ss-catania|Associazione Fascista Calcio Catania (AFC Catania)]] dal 1936 al 1940**.
 
 > [!abstract] La Nascita dello Stadio Cibali (28 Novembre 1937)
-> Il quadriennio di presidenza Brusca coincide con la pietra miliare dell'edilizia sportiva etnea: la costruzione e l'inaugurazione dello **Stadio Polisportivo Comunale di Cibali** (odierno [[stadio/angelo-massimino|Stadio Angelo Massimino]]), avvenuta domenica **28 novembre 1937** in occasione della gara Catania-Foggia (1-0, marcatore Bellore), che sostituì definitivamente il vecchio campo di [[stadio/piazza-esposizione|Piazza Esposizione]].
+> Il quadriennio di presidenza Brusca coincide con la pietra miliare dell'edilizia sportiva etnea: la costruzione e l'inaugurazione dello **Stadio Polisportivo Comunale di Cibali** (odierno [[stadio/angelo-massimino|Stadio Angelo Massimino]]), avvenuta domenica **28 novembre 1937** in occasione della gara Catania-Foggia (1-0, marcatore Bellore), che sostituì definitivamente il vecchio campo di [[04-strutture/campi-storici/index|Piazza Esposizione]].
 
 ---
 

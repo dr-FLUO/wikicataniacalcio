@@ -1,4 +1,4 @@
-﻿---
+---
 title: Tabellini Storici e Archivio dei Precedenti
 description: Archivio dei tabellini storici e bilancio perpetuo dei precedenti ufficiali
   del Calcio Catania contro le squadre avversarie dal 1929 a oggi.
@@ -35,7 +35,7 @@ Questa sezione raccoglie i **tabellini certificati** delle partite spartiacque d
 
 | Data Incontro | Stagione e Competizione | Partita e Risultato | Rilevanza Storica, Agonistica o Giuridica |
 | :--- | :--- | :--- | :--- |
-| **4 giugno 1961** | [[stagioni/1960-1961\|Serie A 1960-1961]] (34Âª Giornata) | **[[partite/1960-1961/catania-inter-2-0\|Catania - Inter 2-0]]** | Reti di Castellazzi e Calvanese; nasce la locuzione radiofonica **_Â«Clamoroso al Cibali!Â»_** di Sandro Ciotti. |
+| **4 giugno 1961** | [[stagioni/1960-1961\|Serie A 1960-1961]] (34Âª Giornata) | **[[partite/1960-1961/catania-inter-2-0\|Catania - Inter 2-0]]** | Reti di Castellazzi e Calvanese; nasce la locuzione radiofonica **_Â[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali\|Clamoroso al Cibali]]Â»_** di Sandro Ciotti. |
 | **18 giugno 1983** | [[stagioni/1982-1983\|Serie B 1982-1983]] (Spareggi Roma) | **[[partite/1982-1983/spareggio-catania-como-1-0\|Catania - Como 1-0]]** | Gol di testa di **Angelo Crialesi** al 70' allo Stadio Olimpico di Roma (All. [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]]). |
 | **25 giugno 1983** | [[stagioni/1982-1983\|Serie B 1982-1983]] (Spareggi Roma) | **[[partite/1982-1983/spareggio-catania-cremonese-0-0\|Catania - Cremonese 0-0]]** | Spareggio decisivo davanti all'[[tifoseria/eventi/esodo-roma-1983\|esodo dei 40.000 tifosi catanesi]]: promozione in Serie A. |
 | **12 aprile 2003** | [[stagioni/2002-2003\|Serie B 2002-2003]] (30Âª Giornata) | **[[partite/2002-2003/catania-siena-1-1\|Catania - Siena 1-1]]** | Impiego per 90' dello squalificato **Luigi Martinelli** e rigore fallito da Grieco: genesi del **[[vicende-legali/caso-catania-2003\|Caso Catania]]**. |

@@ -63,7 +63,7 @@ Con il nome d'arte di **BAnt**, Buemi ha inaugurato una fortunata collana editor
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
 * [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone: Statistico e Ricercatore]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo: Scrittore e Biografo]]
 * [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]]

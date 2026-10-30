@@ -85,7 +85,7 @@ Regista dai piedi vellutati e dalla straordinaria intelligenza tattica, Hansen f
 
 ### Dalla Serie A al Triennio Rossazzurro (1954-1957)
 
-Dopo la controversa retrocessione a tavolino del 1955 per il Caso Scaramella, Hansen decise di onorare il contratto rimanendo a Catania per altri due campionati di Serie B (1955-1956 e 1956-1957), collezionando ulteriori 48 presenze e 4 reti prima di chiudere la carriera professionistica.
+Dopo la controversa retrocessione a tavolino del 1955 per il [[01-societa/vicende-legali/caso-scaramella-1955|il Caso Scaramella]], Hansen decise di onorare il contratto rimanendo a Catania per altri due campionati di Serie B (1955-1956 e 1956-1957), collezionando ulteriori 48 presenze e 4 reti prima di chiudere la carriera professionistica.
 
 ---
 

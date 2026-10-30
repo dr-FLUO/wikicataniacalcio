@@ -31,6 +31,7 @@ aliases:
 - 02-cronistoria/partite-storiche/1960-1961/clamoroso-al-cibali
 - partite-storiche/1960-1961/clamoroso-al-cibali
 - partite/1960-1961/clamoroso-al-cibali
+- clamoroso-al-cibali-1961
 image_credits:
 - image_path: assets/images/partite-storiche/clamoroso-al-cibali-inter-1961.jpg
   alt_text: Azione di gioco della storica vittoria per 2-0 del Catania contro l'Inter

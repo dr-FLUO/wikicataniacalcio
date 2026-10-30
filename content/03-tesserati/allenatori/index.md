@@ -44,11 +44,11 @@ Nel corso di quasi un secolo di storia sportiva, oltre cento tecnici si sono alt
 
 | Allenatore | Periodi Principali | Gare Ufficiali | Traguardi Raggiunti |
 | :--- | :--- | :---: | :--- |
-| **[[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]** | 1958-1966, 1971-1973, 1976-1977 | **297** | 6 stagioni consecutive in Serie A (1960-1966), tre ottavi posti, vittoria con l'Inter (*Clamoroso al Cibali*). |
+| **[[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]** | 1958-1966, 1971-1973, 1976-1977 | **297** | 6 stagioni consecutive in Serie A (1960-1966), tre ottavi posti, vittoria con l'Inter (*[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali\|Clamoroso al Cibali]]*). |
 | **[[03-tesserati/allenatori/guido-mazzetti\|Guido Mazzetti]]** | 1970-1974, 1975-1976, 1980-1982 | **211** | Due storiche promozioni: Serie A (1969-1970) e Serie B (1974-1975). |
 | **[[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]]** | 1933-1936, 1941-1943 | **158** | Prima promozione in Serie B (1933-1934), maestro tattico della scuola ungherese. |
 | **[[03-tesserati/allenatori/pasquale-marino\|Pasquale Marino]]** | 2005-2007 | **84** | Promozione in Serie A (2005-2006) dopo 22 anni di attesa e storica salvezza. |
-| **[[03-tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]]** | 1982-1984 | **68** | Trionfo agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|Spareggi di Roma 1983]] e promozione in Serie A. |
+| **[[03-tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]]** | 1982-1984 | **68** | Trionfo agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|[[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|Spareggi di Roma]] 1983]] e promozione in Serie A. |
 | **[[03-tesserati/allenatori/domenico-toscano\|Domenico Toscano]]** | 2024-2026 | **76** | Semifinale Playoff Serie C 2024-2025 e condottiero del progetto di rilancio. |
 
 ## Le Grandi Scuole Tecniche al Cibali

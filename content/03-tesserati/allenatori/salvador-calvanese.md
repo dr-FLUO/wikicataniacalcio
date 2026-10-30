@@ -70,7 +70,7 @@ Salvador «Todo» Calvanese è stato uno dei più celebri e amati attaccanti arg
 
 ## 2. La Conduzione Tecnica del Catania
 
-Simbolo indelebile dell'epopea del «Clamoroso al Cibali», rimase legato a vita alla città etnea come maestro di calcio e formatore di giovani generazioni.
+Simbolo indelebile dell'epopea del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]», rimase legato a vita alla città etnea come maestro di calcio e formatore di giovani generazioni.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

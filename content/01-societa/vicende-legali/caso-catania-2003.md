@@ -62,19 +62,22 @@ cover_caption: 'Luciano Gaucci negli anni Novanta: il patron del Catania che con
 cover_credit: Archivio Storico · Pubblico Dominio (Art. 70 L. 633/1941)
 aliases:
 - vicende-legali/caso-catania-2003
+- caso-catania
+- caso-catania-2003
+- caso-catania-del-2003
 ---
 
 
 # Il Caso Catania (2003)
 
-Il **Caso Catania** (noto nella dottrina giuspubblicistica anche come *Caso Martinelli* o *Caso Catania II* per distinguerlo dal [[vicende-legali/index|contenzioso amministrativo dell'estate 1993]]) rappresenta una controversia giudiziaria e amministrativa esplosa nella primavera-estate del 2003 in relazione al campionato di [[stagioni/index|Serie B 2002-2003]]. Scaturita dal reclamo presentato dal presidente **Riccardo Gaucci** per la posizione irregolare del difensore del Siena **Luigi Martinelli**, la vicenda ha scardinato l'interpretazione autarchica del *vincolo di giustizia sportiva*, culminando nell'allargamento della Serie B 2003-2004 a 24 squadre e nell'emanazione della **Legge 17 ottobre 2003, n. 280**.
+Il **Caso Catania** (noto nella dottrina giuspubblicistica anche come *[[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]]* o *Caso Catania II* per distinguerlo dal [[vicende-legali/index|contenzioso amministrativo dell'estate 1993]]) rappresenta una controversia giudiziaria e amministrativa esplosa nella primavera-estate del 2003 in relazione al campionato di [[stagioni/index|Serie B 2002-2003]]. Scaturita dal reclamo presentato dal presidente **Riccardo Gaucci** per la posizione irregolare del difensore del Siena **Luigi Martinelli**, la vicenda ha scardinato l'interpretazione autarchica del *vincolo di giustizia sportiva*, culminando nell'allargamento della Serie B 2003-2004 a 24 squadre e nell'emanazione della **Legge 17 ottobre 2003, n. 280**.
 
 > [!abstract] Impatto Storico-Giuridico nell'Ordinamento Italiano
 > L'ordinanza cautelare n. 1054/2003 pronunciata dal TAR Sicilia – Sezione staccata di Catania il **5 giugno 2003** ha sancito per la prima volta che il *vincolo di giustizia sportiva* opera esclusivamente per le questioni tecnico-sportive e i diritti disponibili, ma non può precludere la tutela giurisdizionale degli interessi legittimi dinanzi al giudice amministrativo statale (artt. 24, 103 e 113 Cost.) quando un organo federale annulla illegittimamente un verdetto definitivo di secondo grado.
 
 ---
 
-## Genesi della Controversia: Il Caso Martinelli
+## Genesi della Controversia: Il [[01-societa/vicende-legali/caso-martinelli-2003|Il Caso Martinelli]]
 
 Il sabato **5 aprile 2003**, in occasione della 29ª giornata di Serie B che vedeva la prima squadra del Siena impegnata contro il Napoli, il difensore bianconero **Luigi Martinelli** (gravato da un turno di squalifica inflitto dal Giudice Sportivo di Serie B) venne schierato fuori quota nella formazione **Primavera** del Siena contro i pari età della Ternana. Ritenendo così estinta la sanzione, il sabato successivo (**12 aprile 2003**), nel match del 30º turno **Catania-Siena (1-1)** disputato allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] (con un calcio di rigore fallito da Vito Grieco), Martinelli rimase in campo per tutti i 90 minuti.
 

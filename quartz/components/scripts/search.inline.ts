@@ -187,7 +187,46 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   return html.body
 }
 
-async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: ContentIndex) {
+let cachedData: ContentIndex | null = null
+let idDataMap: FullSlug[] = []
+let indexPopulated = false
+let populatePromise: Promise<void> | null = null
+
+async function fillDocument(data: ContentIndex) {
+  if (indexPopulated) return
+  let id = 0
+  const promises: Array<Promise<unknown>> = []
+  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+    promises.push(
+      index.addAsync(id++, {
+        id,
+        slug: slug as FullSlug,
+        title: fileData.title,
+        content: fileData.content,
+        tags: fileData.tags,
+      }),
+    )
+  }
+
+  await Promise.all(promises)
+  indexPopulated = true
+}
+
+async function ensureDataReady(): Promise<ContentIndex> {
+  if (populatePromise) {
+    await populatePromise
+    return cachedData!
+  }
+  populatePromise = (async () => {
+    cachedData = (await fetchData) as ContentIndex
+    idDataMap = Object.keys(cachedData) as FullSlug[]
+    await fillDocument(cachedData)
+  })()
+  await populatePromise
+  return cachedData!
+}
+
+async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -202,7 +241,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
-  const idDataMap = Object.keys(data) as FullSlug[]
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -233,11 +271,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     searchButton.focus()
   }
 
-  function showSearch(searchTypeNew: SearchType) {
+  async function showSearch(searchTypeNew: SearchType) {
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
+    await ensureDataReady()
   }
 
   let currentHover: HTMLInputElement | null = null
@@ -309,12 +348,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   const formatForDisplay = (term: string, id: number) => {
     const slug = idDataMap[id]
+    const item = cachedData && slug ? cachedData[slug] : null
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
-      content: highlight(term, data[slug].content ?? "", true),
-      tags: highlightTags(term.substring(1), data[slug].tags),
+      title: item ? (searchType === "tags" ? item.title : highlight(term, item.title ?? "")) : "",
+      content: item ? highlight(term, item.content ?? "", true) : "",
+      tags: item ? highlightTags(term.substring(1), item.tags) : [],
     }
   }
 
@@ -437,6 +477,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
+    if (!indexPopulated) {
+      await ensureDataReady()
+    }
     currentSearchTerm = (e.target as HTMLInputElement).value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
@@ -501,40 +544,23 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
   registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
-}
-
-/**
- * Fills flexsearch document with data
- * @param index index to fill
- * @param data data to fill index with
- */
-let indexPopulated = false
-async function fillDocument(data: ContentIndex) {
-  if (indexPopulated) return
-  let id = 0
-  const promises: Array<Promise<unknown>> = []
-  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
-    promises.push(
-      index.addAsync(id++, {
-        id,
-        slug: slug as FullSlug,
-        title: fileData.title,
-        content: fileData.content,
-        tags: fileData.tags,
-      }),
-    )
-  }
-
-  await Promise.all(promises)
-  indexPopulated = true
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  const data = await fetchData
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
+    await setupSearch(element, currentSlug)
+  }
+
+  // Pre-warm search index during idle time (without blocking initial page render)
+  if ("requestIdleCallback" in window) {
+    (window as any).requestIdleCallback(() => {
+      ensureDataReady()
+    }, { timeout: 4000 })
+  } else {
+    setTimeout(() => {
+      ensureDataReady()
+    }, 4000)
   }
 })

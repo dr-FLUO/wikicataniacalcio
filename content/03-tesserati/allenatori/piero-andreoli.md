@@ -77,7 +77,7 @@ Chiamato al capezzale del [[societa/1946-club-calcio-catania|Club Calcio Catania
 
 Con intelligenza tattica e grande equilibrio psicologico, il tecnico bolognese costruisce una macchina perfetta attorno al portiere Antonio Seveso, ai difensori Nicola Fusco e Giovanni Bravetti, al mediano **Enzo Bearzot** (futuro Commissario Tecnico dell'Italia campione del mondo nel 1982), all'ala danese Karl Aage Hansen, a Michele Manenti (15 gol) e a Guido Klein (10 gol). Il Catania tiene la testa della classifica per quasi l'intero torneo allo [[stadio/angelo-massimino|Stadio Cibali]], conquistando la **matematica promozione in Serie A** e il **1º posto assoluto in Serie B con 43 punti** (16 vittorie, 11 pareggi e 7 sconfitte in 34 gare, davanti alla Pro Patria).
 
-## La Salvezza sul Campo in Serie A (1954–1955) e la Ferita del Caso Scaramella
+## La Salvezza sul Campo in Serie A (1954–1955) e la Ferita del [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]]
 
 Confermato al timone per l'esordio assoluto del Catania in **Serie A** nella [[stagioni/1954-1955|Stagione 1954-1955]], Andreoli guida la matricola rossazzurra a una stagione sorprendente: dopo il debutto del 19 settembre 1954 a Firenze (2-1) e la prima storica vittoria in massima serie del **3 ottobre 1954** contro l'Udinese (2-0 al Cibali, doppietta di Vittorio Ghiandi), gli etnei superano al Cibali il Torino (2-1), la Lazio (1-0), la Sampdoria (2-1), la Triestina (2-1) e strappano un celebre **5-0 contro la Pro Patria**, pareggiando inoltre con l'[[partite/precedenti/inter|Inter]] (1-1), la Roma (2-2) e nel [[partite/precedenti/palermo|Derby di Sicilia]] a Palermo (1-1).
 

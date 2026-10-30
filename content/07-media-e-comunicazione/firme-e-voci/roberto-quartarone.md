@@ -63,8 +63,8 @@ La produzione editoriale di Quartarone spazia attraverso ambiti eterogenei dello
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
-* [[07-media-e-comunicazione/letteratura/saggi-e-biografie|Saggi, Biografie e Memorialistica Rossazzurra]]
+* [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/letteratura/index|Saggi, Biografie e Memorialistica Rossazzurra]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo e il Collettivo Quelli del '46]]
 * [[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi (BAnt) e le Grandi Enciclopedie]]
 * [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]]

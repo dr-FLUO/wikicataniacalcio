@@ -33,7 +33,7 @@ In questa sezione sono raccolti i bilanci complessivi dei confronti diretti disp
 | Club Avversario | Categoria Principale Confronti | Gare Disputate | Sfida più Iconica | Documento Correlato |
 | :--- | :--- | :---: | :--- | :--- |
 | **[[02-cronistoria/partite-storiche/precedenti/palermo\|Palermo]]** | Serie A, Serie B, Serie C, Coppa Italia | Oltre 85 | Derby di Sicilia (4-0 al Barbera 2009, 4-0 al Massimino 2011) | [[02-cronistoria/partite-storiche/precedenti/palermo\|Bilancio Precedenti Palermo]] |
-| **[[02-cronistoria/partite-storiche/precedenti/inter\|Inter]]** | Serie A, Coppa Italia | Oltre 35 | «Clamoroso al Cibali» (2-0 1961), 3-1 nel 2010 | [[02-cronistoria/partite-storiche/precedenti/inter\|Bilancio Precedenti Inter]] |
+| **[[02-cronistoria/partite-storiche/precedenti/inter\|Inter]]** | Serie A, Coppa Italia | Oltre 35 | [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali\|Clamoroso al Cibali]]» (2-0 1961), 3-1 nel 2010 | [[02-cronistoria/partite-storiche/precedenti/inter\|Bilancio Precedenti Inter]] |
 | **[[02-cronistoria/partite-storiche/precedenti/atalanta-u23\|Atalanta U23]]** | Serie C (Playoff Promozione) | 2 | Fase Nazionale Playoff Serie C 2023-2024 | [[02-cronistoria/partite-storiche/precedenti/atalanta-u23\|Bilancio Precedenti Atalanta U23]] |
 | **[[02-cronistoria/partite-storiche/precedenti/casarano\|Casarano]]** | Serie C1, Serie C2 | 10 | Spareggi e sfide storiche anni '80 e '90 | [[02-cronistoria/partite-storiche/precedenti/casarano\|Bilancio Precedenti Casarano]] |
 

@@ -1,51 +1,58 @@
 ---
-title: "Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno in Serie A"
-description: "Dossier storico sul memorabile triangolare spareggi promozione di Serie B disputato allo Stadio Olimpico di Roma nel giugno 1983 tra Catania, Como e Cremonese, culminato nella promozione in Serie A del Catania di Gianni Di Marzio e Angelo Massimino."
-slug: "02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983"
-entity_type: "dossier_partita"
-season_ref: "[[stagioni/1982-1983|Stagione 1982-1983]]"
-competition: "Serie B — Spareggi Promozione"
-stadium_ref: "Stadio Olimpico (Roma)"
+title: Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno
+  in Serie A
+description: Dossier storico sul memorabile triangolare spareggi promozione di Serie
+  B disputato allo Stadio Olimpico di Roma nel giugno 1983 tra Catania, Como e Cremonese,
+  culminato nella promozione in Serie A del Catania di Gianni Di Marzio e Angelo Massimino.
+slug: 02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983
+entity_type: dossier_partita
+season_ref: '[[stagioni/1982-1983|Stagione 1982-1983]]'
+competition: Serie B — Spareggi Promozione
+stadium_ref: Stadio Olimpico (Roma)
 attendance: 40000
-home_coach: "[[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]"
-president_ref: "[[01-societa/presidenti/angelo-massimino|Angelo Massimino]]"
-status: "verified"
-last_verified_date: "2026-10-28"
+home_coach: '[[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]'
+president_ref: '[[01-societa/presidenti/angelo-massimino|Angelo Massimino]]'
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "spareggi-roma-1983"
-  - "serie-b"
-  - "promozione-serie-a"
-  - "gianni-di-marzio"
-  - "angelo-massimino"
-  - "stadio-olimpico"
+- spareggi-roma-1983
+- serie-b
+- promozione-serie-a
+- gianni-di-marzio
+- angelo-massimino
+- stadio-olimpico
 sources:
-  - author: "Wikipedia Italia"
-    title: "Serie B 1982-1983 — Spareggi promozione"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Serie_B_1982-1983#Spareggi_promozione"
-    reference: "Resoconto ufficiale del triangolare di spareggio di Roma"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Capitolo Stagione 1982-1983, pp. 315-322"
-  - author: "Archivio Storico La Sicilia"
-    title: "Quarantamila cuori rossazzurri all'Olimpico: Catania è in Serie A!"
-    publisher: "La Sicilia, Catania"
-    year: 1983
-    reference: "Edizione straordinaria del 26 giugno 1983"
-image: "assets/images/tifoseria-e-curva/foto-1982-1983-curva-nord-2026-2027-calcio-catania.webp"
+- author: Wikipedia Italia
+  title: Serie B 1982-1983 — Spareggi promozione
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Serie_B_1982-1983#Spareggi_promozione
+  reference: Resoconto ufficiale del triangolare di spareggio di Roma
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Capitolo Stagione 1982-1983, pp. 315-322
+- author: Archivio Storico La Sicilia
+  title: 'Quarantamila cuori rossazzurri all''Olimpico: Catania è in Serie A!'
+  publisher: La Sicilia, Catania
+  year: 1983
+  reference: Edizione straordinaria del 26 giugno 1983
+image: assets/images/tifoseria-e-curva/foto-1982-1983-curva-nord-2026-2027-calcio-catania.webp
 image_credits:
-  - image_path: "assets/images/tifoseria-e-curva/foto-1982-1983-curva-nord-2026-2027-calcio-catania.webp"
-    alt_text: "Lo straordinario calore del popolo rossazzurro durante la stagione 1982-1983 culminata con gli spareggi di Roma"
-    author_or_archive: "Archivio Storico Tifoseria Rossazzurra"
-    year: 1983
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/tifoseria-e-curva/foto-1982-1983-curva-nord-2026-2027-calcio-catania.webp
+  alt_text: Lo straordinario calore del popolo rossazzurro durante la stagione 1982-1983
+    culminata con gli spareggi di Roma
+  author_or_archive: Archivio Storico Tifoseria Rossazzurra
+  year: 1983
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "partite-storiche/1982-1983/spareggi-roma-1983"
-  - "spareggi-roma-1983"
-  - "spareggi-olimpico-1983"
+- partite-storiche/1982-1983/spareggi-roma-1983
+- spareggi-roma-1983
+- spareggi-olimpico-1983
+- spareggi-di-roma
+- spareggi-di-roma-1983
 ---
 # Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno in Serie A
 

@@ -63,8 +63,8 @@ Nel suo percorso letterario spiccano inoltre:
 
 ## 3. Collegamenti e Voci Correlate
 
-* [[07-media-e-comunicazione/letteratura/saggi-e-biografie|Saggi, Biografie e Memorialistica Rossazzurra]]
-* [[07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi|Grandi Opere Enciclopediche e Almanacchi Storici]]
+* [[07-media-e-comunicazione/letteratura/index|Saggi, Biografie e Memorialistica Rossazzurra]]
+* [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
 * [[01-societa/presidenti/angelo-massimino|Angelo Massimino: Venticinque Anni di Presidenza]]
 * [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone e la Ricerca Storiografica]]
 * [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]]

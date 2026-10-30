@@ -42,7 +42,7 @@ Il nome di Pippo Tarraresu è legato a doppio filo alla drammatica estate del **
 
 ## 2. Il Presidio in Tribuna B e il Telo di Massimino
 
-Dagli anni Novanta in poi, Tarraresu ha fatto della **Tribuna B** il proprio regno, guidando il [[06-tifoseria-e-cultura/curve/tribuna-b/gruppo-tattaresu|Gruppo Tattaresu]]:
+Dagli anni Novanta in poi, Tarraresu ha fatto della **Tribuna B** il proprio regno, guidando il [[06-tifoseria-e-cultura/curve/tribuna-b/index|Gruppo Tattaresu]]:
 - Contrario alla logica dei rancori interni tra curve, ha sempre lavorato per unire il pubblico del Massimino, promuovendo il tifo delle famiglie e dei giovani.
 - Ogni anno, in occasione del *Memorial Massimino*, Tarraresu coordinava personalmente l'ostensione del monumentale telo dipinto con il volto del Presidentissimo, facendone un simbolo eterno di fedeltà e gratitudine verso l'uomo che salvò il calcio a Catania.
 

@@ -20,4 +20,4 @@ Benvenuti nella sezione **Cronistoria** di Wiki Catania Calcio. In questa sezion
 
 ## Sezioni dell'Archivio
 * [[02-cronistoria/stagioni/index|Stagioni Ufficiali (1929–2027)]] — Tabelle algebriche, tabellini, capocannonieri e cronache per ogni annata.
-* [[02-cronistoria/partite-storiche/index|Partite Storiche]] — Dalle vittorie sul Grande Torino e sull'Inter ("Clamoroso al Cibali") agli spareggi dell'Olimpico e al derby di Palermo 0-4.
+* [[02-cronistoria/partite-storiche/index|Partite Storiche]] — Dalle vittorie sul Grande Torino e sull'Inter ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]") agli spareggi dell'Olimpico e al derby di Palermo 0-4.

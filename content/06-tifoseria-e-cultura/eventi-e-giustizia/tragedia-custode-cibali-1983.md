@@ -65,7 +65,7 @@ Alle **ore 16:30 esatte**, esasperato dall'ennesima pioggia di insulti e oggetti
 ## 3. La Partita Surreale e la Giustizia
 
 In un clima irreale e di terrore collettivo, per scongiurare una rivolta popolare di dimensioni incontrollabili che avrebbe travolto l'intero impianto, le autorità di pubblica sicurezza decisero di far disputare regolarmente la partita:
-- Il Catania, scosso dal dramma, andò in svantaggio per la rete del perugino Amenta, ma riuscì a rimontare nella ripresa vincendo per **2-1** con i gol di Mastalli e Mosti, conquistando gli spareggi di Roma che il 25 giugno avrebbero regalato la Serie A.
+- Il Catania, scosso dal dramma, andò in svantaggio per la rete del perugino Amenta, ma riuscì a rimontare nella ripresa vincendo per **2-1** con i gol di Mastalli e Mosti, conquistando gli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|gli spareggi di Roma]] che il 25 giugno avrebbero regalato la Serie A.
 - Angelo Grasso venne immediatamente disarmato e arrestato. Il **10 ottobre 1985**, la Corte d'Assise di Catania lo condannò a **13 anni di reclusione** per omicidio volontario ed eccidio colposo.
 
 ---

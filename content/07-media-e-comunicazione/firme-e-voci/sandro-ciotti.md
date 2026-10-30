@@ -33,12 +33,12 @@ aliases:
   - "sandro-ciotti"
   - "media/giornalisti/sandro-ciotti"
 ---
-# Sandro Ciotti: La Voce Inconfondibile e il Conio di «Clamoroso al Cibali!»
+# Sandro Ciotti: La Voce Inconfondibile e il Conio di [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»
 
 **Sandro Ciotti** (Roma, 4 novembre 1928 – Roma, 18 luglio 2003) è stato uno dei più celebri, autorevoli e imitati giornalisti sportivi italiani del Novecento, colonna portante della trasmissione radiofonica *Tutto il calcio minuto per minuto* e storico conduttore de *La Domenica Sportiva*.
 
 > [!abstract] Il Legame Indissolubile con Catania e lo Stadio Cibali
-> Il nome di Sandro Ciotti è legato in maniera indelebile alla storia del Calcio Catania e della lingua italiana per aver coniato, il **4 giugno 1961**, l'iconica esclamazione **_«Clamoroso al Cibali!»_**. Collegato da bordo campo per l'ultima giornata del campionato di Serie A 1960-1961, Ciotti annunciò con la sua inconfondibile voce roca il vantaggio e poi il raddoppio etneo (2-0) sull'Inter di Helenio Herrera, costata ai nerazzurri la perdita dello Scudetto e consacrando il Catania di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
+> Il nome di Sandro Ciotti è legato in maniera indelebile alla storia del Calcio Catania e della lingua italiana per aver coniato, il **4 giugno 1961**, l'iconica esclamazione **_[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]_**. Collegato da bordo campo per l'ultima giornata del campionato di Serie A 1960-1961, Ciotti annunciò con la sua inconfondibile voce roca il vantaggio e poi il raddoppio etneo (2-0) sull'Inter di Helenio Herrera, costata ai nerazzurri la perdita dello Scudetto e consacrando il Catania di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
 
 ---
 
@@ -53,7 +53,7 @@ Ex calciatore nelle giovanili della Lazio e musicista (diplomato al Conservatori
 
 ## 2. L'Eredità Culturale della Frase
 
-La formula «Clamoroso al Cibali!», nata dal genio di sintesi di Ciotti durante [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0]], è divenuta parte del patrimonio linguistico nazionale:
+La formula [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!», nata dal genio di sintesi di Ciotti durante [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0]], è divenuta parte del patrimonio linguistico nazionale:
 * Registrata nei dizionari della lingua italiana (Zingarelli, Devoto-Oli, Treccani) come locuzione proverbiale per indicare una sconfitta inaspettata dei favoriti contro ogni pronostico.
 * Ciotti ricordò sempre con profondo affetto l'atmosfera calorosa, civile e vibrante dello stadio etneo, tornando frequentemente a commentare le gare interne dei rossazzurri nei decenni successivi.
 

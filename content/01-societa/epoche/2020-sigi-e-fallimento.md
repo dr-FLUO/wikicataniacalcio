@@ -62,7 +62,7 @@ La **Gestione SIGI e la successiva Curatela Fallimentare (23 luglio 2020 – 9 a
 
 ---
 
-## L'Aggiudicazione alla SIGI (23 Luglio 2020) e il Caso Tacopina (Gennaio–Maggio 2021)
+## L'Aggiudicazione alla SIGI (23 Luglio 2020) e il [[01-societa/vicende-legali/trattativa-sigi-tacopina-2021|il Caso Tacopina]] (Gennaio–Maggio 2021)
 
 Al termine della stagione 2019-2020, nell'ambito della procedura concordataria di *Finaria S.p.A.*, il Tribunale di Catania bandì un'asta competitiva per la cessione del **95,4% delle azioni del Calcio Catania S.p.A.**, gravato da un passivo complessivo superiore a **55 milioni di euro** (tra debiti tributari verso l'Agenzia delle Entrate, pendenze sportive e mutuo dell'Istituto per il Credito Sportivo su [[stadio/torre-del-grifo|Torre del Grifo Village]]).
 

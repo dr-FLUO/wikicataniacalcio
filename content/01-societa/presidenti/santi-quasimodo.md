@@ -42,7 +42,7 @@ aliases:
 ## 1. La Stagione di Esordio (1929-1930)
 
 Sotto la guida direttiva di Quasimodo e la conduzione tecnica di Giorgio Armari:
-* La squadra disputò le proprie gare interne sul terreno di [[stadio/piazza-esposizione|Piazza Esposizione]], gremito di appassionati.
+* La squadra disputò le proprie gare interne sul terreno di [[04-strutture/campi-storici/index|Piazza Esposizione]], gremito di appassionati.
 * Nel Girone A Sud di Seconda Divisione, il Catania conquistò il **1º posto in classifica** con 24 punti in 16 gare (10 vittorie, 4 pareggi e sole 2 sconfitte), realizzando 41 reti e subendone appena 13.
 * Tra i protagonisti sul campo si distinsero il cannoniere Piero Blengino (autore di oltre 15 reti), Mario Verova e il portiere Dario Caviglia.
 
