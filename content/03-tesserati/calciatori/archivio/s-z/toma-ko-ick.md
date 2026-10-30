@@ -11,7 +11,7 @@ birth_date: '1986-03-11'
 birth_place: Bratislava
 death_date: ''
 nationality: Slovacchia
-total_appearances: 10
+total_appearances: 1
 seasons_count: 1
 tags:
 - calciatori
@@ -43,8 +43,13 @@ aliases:
 - tesserati/toma-ko-ick
 - calciatori/toma-ko-ick
 citizenship: Slovacchia
+total_goals: 0
+total_assists: 0
+minutes_played: 5
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Tomáš Košický — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,19 +72,19 @@ citizenship: Slovacchia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2010–2011</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -101,3 +106,10 @@ Nato a Bratislava (1986-03-11), Tomáš Košický ha militato tra le file della 
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2010-2011 | Terzino sinistro | 1 | 0 | 0 | 0 | 0 | 5' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 1 presenze e 0 reti complessive.*

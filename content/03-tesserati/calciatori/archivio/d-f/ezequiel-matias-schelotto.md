@@ -38,8 +38,13 @@ aliases:
 - ezequiel-matias-schelotto
 - tesserati/ezequiel-matias-schelotto
 - calciatori/ezequiel-matias-schelotto
+total_goals: 1
+total_assists: 0
+minutes_played: 825
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Ezequiel Matias Schelotto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,15 +67,15 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2009–2010</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -78,11 +83,11 @@ aliases:
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ezequiel Matias Schelotto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Schelotto-88](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Schelotto-88), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2009-2010 | Esterno di destra | 14 | 1 | 0 | 1 | 0 | 825' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 14 presenze e 1 reti complessive.*

@@ -3,7 +3,7 @@ title: Calciatori Storici del Catania — Bandiere, Capitani e Leggende Rossazzu
 description: 'Albo d''oro e galleria delle grandi bandiere, primatisti e campioni
   che hanno segnato la storia del Calcio Catania dal 1929 a oggi: biografie monografiche,
   presenze e gol storici.'
-slug: 03-tesserati/calciatori/storici/index
+slug: 03-tesserati/calciatori/storici
 entity_type: section_index
 status: verified
 last_verified_date: '2026-10-28'
@@ -90,3 +90,17 @@ Questa sezione raccoglie le monografie biografiche dei **calciatori simbolo** ch
 
 - Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
 - Archivio Storico Federale FIGC e Lega Nazionale Professionisti Serie A.
+
+
+### Altri Protagonisti e Calciatori Storici
+- [[03-tesserati/calciatori/storici/alessandro-ambrosi|Alessandro «Il Re Leone» Ambrosi]]
+- [[03-tesserati/calciatori/storici/angelo-pereni|Angelo Pereni]]
+- [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]]
+- [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]]
+- [[03-tesserati/calciatori/storici/gianvito-plasmati|Gianvito Plasmati]]
+- [[03-tesserati/calciatori/storici/giorgio-mastropasqua|Giorgio Mastropasqua]]
+- [[03-tesserati/calciatori/storici/giuseppe-baronchelli|Giuseppe Baronchelli]]
+- [[03-tesserati/calciatori/storici/loris-boni|Loris Boni]]
+- [[03-tesserati/calciatori/storici/mario-miltone|Mario Miltone]]
+- [[03-tesserati/calciatori/storici/michele-fini|Michele Fini]]
+- [[03-tesserati/calciatori/storici/nicola-fusaro|Nicola Fusaro]]

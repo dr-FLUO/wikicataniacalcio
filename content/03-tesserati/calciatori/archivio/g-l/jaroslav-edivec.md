@@ -11,8 +11,8 @@ birth_date: '1981-02-16'
 birth_place: Plzeň
 death_date: ''
 nationality: Repubblica Ceca
-total_appearances: 10
-seasons_count: 1
+total_appearances: 41
+seasons_count: 2
 tags:
 - calciatori
 - jaroslav-edivec
@@ -36,8 +36,13 @@ aliases:
 - tesserati/jaroslav-edivec
 - calciatori/jaroslav-edivec
 citizenship: Repubblica Ceca
+total_goals: 3
+total_assists: 0
+minutes_played: 1733
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Jaroslav Šedivec — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,27 +68,27 @@ citizenship: Repubblica Ceca
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2001–2003</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>41</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>3</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,11 @@ Nato a Plzeň (1981-02-16), Jaroslav Šedivec ha militato tra le file della form
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2001-2002 | Ala sinistra | 14 | 0 | 0 | 0 | 0 | 428' |
+| 2002-2003 | Ala sinistra | 27 | 3 | 0 | 1 | 0 | 1305' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 41 presenze e 3 reti complessive.*

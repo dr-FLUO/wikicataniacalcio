@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 14
+total_appearances: 17
 seasons_count: 1
 tags:
 - calciatori
@@ -40,8 +40,13 @@ aliases:
 birth_date: '1934-03-07'
 birth_place: Firenze
 citizenship: Italia
+total_goals: 6
+total_assists: 0
+minutes_played: 1530
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Pietro Fiorindi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,27 +72,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1955–1956</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>14</td>
+        <td>17</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>6</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -117,3 +122,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pietro Fiorindi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fiorindi-708](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fiorindi-708), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1955-1956 | Attacco | 17 | 6 | 0 | 0 | 0 | 1530' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 17 presenze e 6 reti complessive.*

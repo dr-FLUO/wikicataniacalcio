@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 11
+total_appearances: 13
 seasons_count: 1
 tags:
 - calciatori
@@ -31,8 +31,13 @@ aliases:
 - adrian-daniel-calello
 - tesserati/adrian-daniel-calello
 - calciatori/adrian-daniel-calello
+total_goals: 0
+total_assists: 0
+minutes_played: 569
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Adrian Daniel Calello — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,19 +63,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2013–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>11</td>
+        <td>13</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -78,7 +83,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -107,3 +112,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Adrian Daniel Calello*, in [https://www.calciocatania.com/giocatori/giocatori.php?Calello-843](https://www.calciocatania.com/giocatori/giocatori.php?Calello-843), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2013-2014 | Mediano | 13 | 0 | 0 | 3 | 0 | 569' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 13 presenze e 0 reti complessive.*

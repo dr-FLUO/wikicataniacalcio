@@ -20,7 +20,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "«Clamoroso al Cibali!»: Catania–Inter 2-0 e il mito di Sandro Ciotti",
     excerpt:
       "Il 4 giugno 1961 le reti di Castellazzi e Calvanese abbattono l'Inter di Herrera, consegnando alla storia il più celebre neologismo radiocronistico del dopoguerra.",
-    href: "./02-cronistoria/stagioni/1960-1961",
+    href: "./02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0",
     image: "./static/images/photos/catania-1960-61.jpg",
     credit: "Archivio Storico · Pubblico Dominio",
   },
@@ -75,7 +75,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Catania–Padova 4-2 d.t.s.: il primo trofeo nazionale nella bacheca etnea",
     excerpt:
       "Dal gol di Marsura al 120' alla bolgia del Massimino: cronaca e tabellino della prima Coppa Italia Serie C conquistata dal club.",
-    href: "./02-cronistoria/coppa-italia-serie-c",
+    href: "./02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2",
     image: "./static/images/photos/coccarda-coppa-italia-c.png",
     credit: "Lega Pro · Foto Ufficiale",
   },
@@ -121,7 +121,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Palermo–Catania 0-4: il capolavoro da centrocampo di Peppe Mascara",
     excerpt:
       "La prodezza balistica al volo da cinquanta metri che ammutolì il Barbera e la più travolgente affermazione esterna nella storia del derby di Sicilia.",
-    href: "./02-cronistoria/stagioni/2008-2009",
+    href: "./02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4",
     image: "./static/images/photos/mascara-tifosi.jpg",
     credit: "Foto: Roberto Quartarone (CC BY-SA 2.5)",
   },
@@ -132,7 +132,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Catania–Inter 3-1: la notte in cui Mihajlović batté l'Inter del Triplete",
     excerpt:
       "Maxi López, Mascara su rigore a cucchiaio e Martínez firmano la memorabile rimonta sui futuri campioni d'Europa di José Mourinho.",
-    href: "./02-cronistoria/stagioni/2009-2010",
+    href: "./02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1",
     image: "./static/images/photos/sinisa-mihajlovic.jpg",
     credit: "Foto: Wikimedia Commons (CC BY-SA 3.0)",
   },
@@ -178,7 +178,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Piazza Esposizione: il primo rettangolo di gioco del calcio a Catania",
     excerpt:
       "La culla pionieristica della Pro Patria e della SS Catania nella piazza dei Malavoglia, prima dell'inaugurazione del Cibali nel 1937.",
-    href: "./04-strutture/campi-storici/piazza-esposizione",
+    href: "./04-strutture/campi-storici/",
     image: "./static/images/photos/piazza-verga-malavoglia.jpg",
     credit: "Foto: Drunkpiper (Pubblico Dominio)",
   },
@@ -314,7 +314,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Quarant'anni di divise e sponsor: dall'acrilico Ennerre alla lava di Erreà",
     excerpt:
       "La trasformazione della maglia palata tra cotone, lanetta, colletti vintage e sponsor leggendari come Haribo, Poiatti ed SP.",
-    href: "./05-identita-e-simboli/sponsor/sponsor-tecnici-e-commerciali",
+    href: "./05-identita-e-simboli/sponsor/",
     image: "./static/images/photos/stemma-catania-ssd-2022-2023.png",
     credit: "Archivio Storico Maglie Catania",
   },
@@ -347,7 +347,7 @@ const COVER_STORIES_POOL: CoverStory[] = [
     title: "Torre del Grifo Village: il sogno d'eccellenza, il baratro e la rinascita",
     excerpt:
       "Centocinquantamila metri quadri di campi e strutture d'avanguardia a Mascalucia: la culla dei successi in A e il piano di riscatto.",
-    href: "./04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026",
+    href: "./04-strutture/centri-sportivi/torre-del-grifo",
     image: "./static/images/photos/torre-del-grifo-village.jpg",
     credit: "Foto: Salvosmav (CC BY-SA 4.0)",
   },
@@ -677,7 +677,7 @@ const ERAS = [
     matricola: "PRE-1946",
     figures: "V. Trigona, V. Santi, Géza Kertész",
     event: "1ª storica promozione in Serie B (1933-34) e inaugurazione Stadio Cibali (1937).",
-    href: "./societa/1929-ss-catania",
+    href: "./01-societa/epoche/1929-ss-catania",
   },
   {
     years: "1946–1967",
@@ -685,7 +685,7 @@ const ERAS = [
     matricola: "FIGC 11700",
     figures: "L. Santi, A. Pesce, I. Marcoccio, C. Di Bella",
     event: "Nascita della Matricola 11700, 1ª Serie A (1953-54) ed epopea anni '60 (Catania–Inter 2-0).",
-    href: "./societa/1946-club-calcio-catania",
+    href: "./01-societa/epoche/1946-club-calcio-catania",
   },
   {
     years: "1967–1993",
@@ -693,7 +693,7 @@ const ERAS = [
     matricola: "FIGC 11700",
     figures: "Angelo Massimino, E. Rubino, G. Di Marzio",
     event: "Promozioni in Serie A 1969-70 e spareggi di Roma 1983 davanti a 40.000 catanesi.",
-    href: "./societa/1967-calcio-catania-spa-massimino",
+    href: "./01-societa/epoche/1967-calcio-catania-spa-massimino",
   },
   {
     years: "1993–2004",
@@ -701,7 +701,7 @@ const ERAS = [
     matricola: "FIGC 11700",
     figures: "Angelo Massimino, L. Gaucci, R. Gaucci",
     event: "Vittoria al TAR (1993), scalata dall'Eccellenza, play-off Taranto 2002 e Caso Catania (2003).",
-    href: "./societa/2000-era-gaucci",
+    href: "./01-societa/epoche/2000-era-gaucci",
   },
   {
     years: "2004–2020",
@@ -709,7 +709,7 @@ const ERAS = [
     matricola: "FIGC 11700",
     figures: "A. Pulvirenti, P. Lo Monaco, P. Marino, R. Maran",
     event: "Inaugurazione Torre del Grifo, 8 stagioni consecutive in Serie A e record di 56 punti (2012-13).",
-    href: "./societa/2004-era-pulvirenti",
+    href: "./01-societa/epoche/2004-era-pulvirenti",
   },
   {
     years: "2020–2022",
@@ -717,7 +717,7 @@ const ERAS = [
     matricola: "FIGC 11700",
     figures: "SIGI S.p.A., F. Baldini, L. Moro",
     event: "Sentenza di fallimento n. 158/2021 del Tribunale di Catania e revoca esercizio provvisorio (09/04/2022).",
-    href: "./societa/2020-sigi-e-fallimento",
+    href: "./01-societa/epoche/2020-sigi-e-fallimento",
   },
   {
     years: "2022–OGGI",

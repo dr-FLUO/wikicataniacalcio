@@ -8,7 +8,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 110
+total_appearances: 123
 seasons_count: 7
 tags:
 - calciatori
@@ -39,8 +39,13 @@ aliases:
 - pablo-sebastian-valeira-alvarez
 - tesserati/pablo-sebastian-valeira-alvarez
 - calciatori/pablo-sebastian-valeira-alvarez
+total_goals: 0
+total_assists: 2
+minutes_played: 9551
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Pablo Sebastian Valeira  Alvarez — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2006–2013</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>110</td>
+        <td>123</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>2</td>
       </tr>
     </tbody>
   </table>
@@ -112,3 +117,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pablo Sebastian Valeira  Alvarez*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Alvarez-3](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Alvarez-3), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2006-2007 | Terzino destro | 8 | 0 | 0 | 0 | 0 | 382' |
+| 2007-2008 | Terzino destro | 7 | 0 | 0 | 1 | 0 | 508' |
+| 2008-2009 | Terzino destro | 26 | 0 | 1 | 4 | 0 | 2158' |
+| 2009-2010 | Terzino destro | 25 | 0 | 1 | 4 | 1 | 1905' |
+| 2010-2011 | Terzino destro | 9 | 0 | 0 | 2 | 0 | 691' |
+| 2011-2012 | Terzino destro | 30 | 0 | 0 | 7 | 1 | 2525' |
+| 2012-2013 | Terzino destro | 18 | 0 | 0 | 6 | 0 | 1382' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 123 presenze e 0 reti complessive.*

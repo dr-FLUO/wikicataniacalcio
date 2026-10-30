@@ -11,7 +11,7 @@ birth_date: '1979-05-31'
 birth_place: Liegi
 death_date: ''
 nationality: Belgio
-total_appearances: 10
+total_appearances: 16
 seasons_count: 1
 tags:
 - calciatori
@@ -45,8 +45,13 @@ aliases:
 - tesserati/jean-fran-ois-gillet
 - calciatori/jean-fran-ois-gillet
 citizenship: Belgio
+total_goals: 0
+total_assists: 0
+minutes_played: 1440
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Jean François Gillet — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -69,19 +74,19 @@ citizenship: Belgio
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2013–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>16</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -103,3 +108,10 @@ Nato a Liegi (1979-05-31), Jean François Gillet ha militato tra le file della f
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2013-2014 | Portiere | 16 | 0 | 0 | 0 | 0 | 1440' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 16 presenze e 0 reti complessive.*

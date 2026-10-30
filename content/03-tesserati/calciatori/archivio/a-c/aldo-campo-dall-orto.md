@@ -11,7 +11,7 @@ birth_date: '1931-11-11'
 birth_place: Vittorio Veneto
 death_date: ''
 nationality: Italia
-total_appearances: 10
+total_appearances: 2
 seasons_count: 1
 tags:
 - calciatori
@@ -36,8 +36,13 @@ aliases:
 - tesserati/aldo-campo-dall-orto
 - calciatori/aldo-campo-dall-orto
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 180
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Aldo Campo Dall'Orto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1952–1953</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>2</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,10 @@ Nato a Vittorio Veneto (1931-11-11), Aldo Campo Dall'Orto ha militato tra le fil
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1952-1953 | Attacco | 2 | 0 | 0 | 0 | 0 | 180' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 2 presenze e 0 reti complessive.*

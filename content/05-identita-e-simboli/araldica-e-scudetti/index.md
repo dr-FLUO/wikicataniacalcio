@@ -1,31 +1,35 @@
 ---
-title: "Araldica, Simbologia e Scudetti Storici del Calcio Catania"
-description: "Evoluzione araldica, loghi storici, lo stemma dell'Elefante (U Liotru), i colori sociali rosso e azzurro e l'acquisizione del marchio storico (matricola 11700)."
-slug: "05-identita-e-simboli/araldica-e-scudetti/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Araldica, Simbologia e Scudetti Storici del Calcio Catania
+description: Evoluzione araldica, loghi storici, lo stemma dell'Elefante (U Liotru),
+  i colori sociali rosso e azzurro e l'acquisizione del marchio storico (matricola
+  11700).
+slug: 05-identita-e-simboli/araldica-e-scudetti
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "araldica"
-  - "simboli"
-  - "liotru"
-  - "elefante"
-  - "stemmi"
-  - "marchio-storico"
+- araldica
+- simboli
+- liotru
+- elefante
+- stemmi
+- marchio-storico
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Sezione speciale sull'araldica e l'evoluzione grafica degli stemmi del club"
-  - author: "Comune di Catania"
-    title: "Stemma Civico e la statua dell'Elefante di Piazza Duomo"
-    publisher: "Archivio Storico Comunale"
-    year: 1736
-    reference: "Origine araldica del Liotru come simbolo civico etneo"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Sezione speciale sull'araldica e l'evoluzione grafica degli stemmi del
+    club
+- author: Comune di Catania
+  title: Stemma Civico e la statua dell'Elefante di Piazza Duomo
+  publisher: Archivio Storico Comunale
+  year: 1736
+  reference: Origine araldica del Liotru come simbolo civico etneo
 aliases:
-  - "simboli/araldica"
-  - "simboli/stemmi"
+- simboli/araldica
+- simboli/stemmi
 ---
 
 # Araldica, Simbologia e Scudetti Storici del Calcio Catania

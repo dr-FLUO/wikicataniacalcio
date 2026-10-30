@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 13
+total_appearances: 17
 seasons_count: 1
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - luigi-andrea-della-rocca
 - tesserati/luigi-andrea-della-rocca
 - calciatori/luigi-andrea-della-rocca
+total_goals: 0
+total_assists: 1
+minutes_played: 1237
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Luigi Andrea Della Rocca — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2022–2023</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>13</td>
+        <td>17</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -82,7 +87,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Andrea Della Rocca*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Della-Rocca-128](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Della-Rocca-128), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2022-2023 | Centrocampista | 17 | 0 | 1 | 4 | 0 | 1237' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 17 presenze e 0 reti complessive.*

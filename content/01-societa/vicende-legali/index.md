@@ -3,7 +3,7 @@ title: Dossier Giudiziari e Storia del Diritto Sportivo
 description: Archivio completo dei procedimenti sportivi, amministrativi (TAR/CGA)
   e fallimentari che hanno coinvolto il Calcio Catania dal Caso Scaramella (1955)
   al Fallimento 2021.
-slug: 01-societa/vicende-legali/index
+slug: 01-societa/vicende-legali
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-27

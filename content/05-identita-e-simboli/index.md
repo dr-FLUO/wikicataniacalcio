@@ -1,33 +1,36 @@
 ---
-title: "Identità, Simboli, Maglie e Tradizioni del Calcio Catania"
-description: "Archivio enciclopedico sull'identità rossazzurra: araldica e stemmi del Liotru, genesi cromatica, fornitori tecnici, sponsor commerciali, mascotte e inni ufficiali dal 1929 a oggi."
-slug: "05-identita-e-simboli/index"
-entity_type: "section_index"
-status: "verified"
+title: Identità, Simboli, Maglie e Tradizioni del Calcio Catania
+description: 'Archivio enciclopedico sull''identità rossazzurra: araldica e stemmi
+  del Liotru, genesi cromatica, fornitori tecnici, sponsor commerciali, mascotte e
+  inni ufficiali dal 1929 a oggi.'
+slug: 05-identita-e-simboli
+entity_type: section_index
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "identita"
-  - "simboli"
-  - "araldica"
-  - "liotru"
-  - "maglie"
-  - "sponsor"
-  - "inni"
+- identita
+- simboli
+- araldica
+- liotru
+- maglie
+- sponsor
+- inni
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Appendice Iconografica Maglie, Stemmi, Sponsor e Folklore (1929-2010)"
-  - author: "Santi Correnti"
-    title: "La città sempreviva: leggende, tradizioni e simboli di Catania"
-    publisher: "Greco Editore, Catania"
-    year: 1999
-    reference: "Il mito di Eliodoro e l'elefante di pietra lavica (u Liotru)"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Appendice Iconografica Maglie, Stemmi, Sponsor e Folklore (1929-2010)
+- author: Santi Correnti
+  title: 'La città sempreviva: leggende, tradizioni e simboli di Catania'
+  publisher: Greco Editore, Catania
+  year: 1999
+  reference: Il mito di Eliodoro e l'elefante di pietra lavica (u Liotru)
 aliases:
-  - "maglie/index"
-  - "simboli/index"
-  - "identita/index"
+- maglie/index
+- simboli/index
+- identita/index
 ---
 
 # Identità, Simboli, Maglie e Tradizioni del Calcio Catania

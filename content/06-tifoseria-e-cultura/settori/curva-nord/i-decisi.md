@@ -1,35 +1,35 @@
 ---
-title: "I Decisi Curva Nord (Anni Novanta)"
-description: "Dossier storico sul gruppo I Decisi, sorto da una scissione della Falange d'Assalto negli anni '90 in Curva Nord: linea d'urto, conflittualità e repressione giudiziaria."
-slug: "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
-entity_type: "gruppo_ultras"
+title: I Decisi Curva Nord (Anni Novanta)
+description: 'Dossier storico sul gruppo I Decisi, sorto da una scissione della Falange
+  d''Assalto negli anni ''90 in Curva Nord: linea d''urto, conflittualità e repressione
+  giudiziaria.'
+slug: 06-tifoseria-e-cultura/settori/curva-nord/i-decisi
+entity_type: gruppo_ultras
 foundation_year: 1994
-origin_district: "San Cristoforo, Picanello e Tunniceddu (Catania)"
-stadium_sector: "Curva Nord"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
-status: "verified"
+origin_district: San Cristoforo, Picanello e Tunniceddu (Catania)
+stadium_sector: Curva Nord
+stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "i-decisi"
-  - "curva-nord"
-  - "scissione-falange"
-  - "anni-novanta"
-  - "gruppo-durto"
+- i-decisi
+- curva-nord
+- scissione-falange
+- anni-novanta
+- gruppo-durto
 sources:
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Genesi de I Decisi da scissione interna alla Falange"
-  - author: "Archivio Storico"
-    title: "Gruppi Ultras Catania"
-    publisher: "vitadaultras.forumfree.it"
-    year: 2008
-    reference: "Profilo e scioglimento de I Decisi"
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Genesi de I Decisi da scissione interna alla Falange
+- author: Archivio Storico
+  title: Gruppi Ultras Catania
+  publisher: vitadaultras.forumfree.it
+  year: 2008
+  reference: Profilo e scioglimento de I Decisi
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
-  - "06-tifoseria-e-cultura/settori/curva-nord/i-decisi"
-  - "tifoseria/curva-nord/i-decisi"
+- tifoseria/curva-nord/i-decisi
 ---
 
 # I Decisi Curva Nord (Anni Novanta)

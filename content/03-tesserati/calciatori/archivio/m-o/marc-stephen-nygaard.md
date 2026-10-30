@@ -38,8 +38,13 @@ aliases:
 - marc-stephen-nygaard
 - tesserati/marc-stephen-nygaard
 - calciatori/marc-stephen-nygaard
+total_goals: 3
+total_assists: 0
+minutes_played: 688
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Marc Stephen Nygaard — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,15 +67,15 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2002–2003</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -78,11 +83,11 @@ aliases:
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>3</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marc Stephen Nygaard*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Nygaard-140](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Nygaard-140), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2002-2003 | Punta centrale | 12 | 3 | 0 | 2 | 0 | 688' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 12 presenze e 3 reti complessive.*

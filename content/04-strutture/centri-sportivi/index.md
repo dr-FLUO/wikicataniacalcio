@@ -1,23 +1,25 @@
 ---
-title: "Centri Sportivi e Strutture di Allenamento"
-description: "Dossier sui campi di allenamento e centri sportivi comunali e privati utilizzati dal Calcio Catania: Nesima, Cibali e strutture cittadine."
-slug: "04-strutture/centri-sportivi/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Centri Sportivi e Strutture di Allenamento
+description: 'Dossier sui campi di allenamento e centri sportivi comunali e privati
+  utilizzati dal Calcio Catania: Nesima, Cibali e strutture cittadine.'
+slug: 04-strutture/centri-sportivi
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "centri-sportivi"
-  - "nesima"
-  - "allenamento"
-  - "strutture"
+- centri-sportivi
+- nesima
+- allenamento
+- strutture
 sources:
-  - author: "Comune di Catania"
-    title: "Convenzioni e concessioni impianti sportivi comunali"
-    publisher: "Assessorato allo Sport, Catania"
-    year: 2024
-    reference: "Atti di concessione del Campo Comunale di Nesima al Catania Football Club"
+- author: Comune di Catania
+  title: Convenzioni e concessioni impianti sportivi comunali
+  publisher: Assessorato allo Sport, Catania
+  year: 2024
+  reference: Atti di concessione del Campo Comunale di Nesima al Catania Football
+    Club
 aliases:
-  - "strutture/centri-sportivi"
+- strutture/centri-sportivi
 ---
 
 # Centri Sportivi e Strutture di Allenamento
@@ -35,3 +37,6 @@ Oltre al terreno principale dello Stadio Angelo Massimino, il club ha fatto rife
 ## Fonti Certificate
 
 1. **Comune di Catania**, *Atti di concessione e gestione impianto sportivo Nesima*, Catania, 2024.
+
+
+- [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village — Il Centro Sportivo Polifunzionale]]

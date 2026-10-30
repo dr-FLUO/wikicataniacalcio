@@ -14,9 +14,9 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1956-1958
-total_appearances: 56
+total_appearances: 137
 league_appearances: 56
-total_goals: 16
+total_goals: 32
 league_goals: 16
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
@@ -43,8 +43,13 @@ aliases:
 - ermo-buzzin
 - tesserati/ermo-buzzin
 - calciatori/ermo-buzzin
+total_assists: 0
+minutes_played: 12330
+seasons_count: 4
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Ermo Buzzin
 
 <div class="nfc-player-hero-card">
@@ -70,11 +75,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -82,15 +87,15 @@ aliases:
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>56</td>
+        <td>137</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>16</td>
+        <td>32</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -121,3 +126,14 @@ Nella successiva stagione [[stagioni/1957-1958|1957-1958]] Buzzin si confermò c
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 170-179 (Stagioni 1956-1957 e 1957-1958).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1955-1956 | Centrocampista | 34 | 10 | 0 | 0 | 0 | 3060' |
+| 1956-1957 | Centrocampista | 33 | 6 | 0 | 0 | 0 | 2970' |
+| 1957-1958 | Centrocampista | 37 | 7 | 0 | 0 | 0 | 3330' |
+| 1958-1959 | Centrocampista | 33 | 9 | 0 | 0 | 0 | 2970' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 137 presenze e 32 reti complessive.*

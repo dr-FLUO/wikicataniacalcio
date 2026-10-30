@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 0
+total_appearances: 21
 seasons_count: 1
 tags:
 - calciatori
@@ -31,8 +31,13 @@ aliases:
 - conti
 - tesserati/conti
 - calciatori/conti
+total_goals: 0
+total_assists: 0
+minutes_played: 1819
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Conti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,19 +63,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1990–1991</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>0</td>
+        <td>21</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -78,7 +83,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -107,3 +112,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Conti*, in [https://www.calciocatania.com/giocatori/giocatori.php?Conti-790](https://www.calciocatania.com/giocatori/giocatori.php?Conti-790), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1990-1991 | Portiere | 21 | 0 | 0 | 0 | 0 | 1819' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 21 presenze e 0 reti complessive.*

@@ -47,8 +47,10 @@ image_credits:
 birth_date: '1918-12-27'
 birth_place: Cologna Veneta
 citizenship: Italia
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Arnaldo Cadei — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -71,27 +73,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1918–2024</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

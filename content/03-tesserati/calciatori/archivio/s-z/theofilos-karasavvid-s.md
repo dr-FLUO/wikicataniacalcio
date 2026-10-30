@@ -11,8 +11,8 @@ birth_date: '1971-04-27'
 birth_place: Giannitsa
 death_date: ''
 nationality: Grecia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 67
+seasons_count: 4
 tags:
 - calciatori
 - theofilos-karasavvid-s
@@ -36,8 +36,13 @@ aliases:
 - tesserati/theofilos-karasavvid-s
 - calciatori/theofilos-karasavvid-s
 citizenship: Grecia
+total_goals: 0
+total_assists: 1
+minutes_played: 5814
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Theofilos Karasavvidīs — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Grecia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2021–2025</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>67</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Grecia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,13 @@ Nato a Giannitsa (1971-04-27), Theofilos Karasavvidīs ha militato tra le file d
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2021-2022 | Portiere | 34 | 0 | 1 | 3 | 0 | 3015' |
+| 2022-2023 | Portiere | 22 | 0 | 0 | 0 | 0 | 1857' |
+| 2023-2024 | Portiere | 11 | 0 | 0 | 2 | 0 | 942' |
+| 2024-2025 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 67 presenze e 0 reti complessive.*

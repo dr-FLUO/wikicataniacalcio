@@ -3,7 +3,7 @@ title: 'La Curva Sud del Massimino: Tradizione Popolare e Appartenenza'
 description: 'Dossier sulla Curva Sud dello Stadio Cibali / Angelo Massimino: dai
   Catania Raiders agli Irriducibili, l''arrivo della Falange e lo striscione Estrema
   Appartenenza.'
-slug: 06-tifoseria-e-cultura/settori/curva-sud/index
+slug: 06-tifoseria-e-cultura/settori/curva-sud
 entity_type: thematic_dossier
 status: verified
 last_verified_date: 2026-10-29
@@ -27,10 +27,8 @@ sources:
   year: 2021
   reference: I gruppi e la svolta del 2015 in Curva Sud
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-sud"
-  - "06-tifoseria-e-cultura/settori/curva-sud/index"
-  - "tifoseria/curva-sud"
-  - "tifoseria/curva-sud/index"
+- tifoseria/curva-sud
+- tifoseria/curva-sud/index
 ---
 
 # La Curva Sud del Massimino: Tradizione Popolare e Appartenenza

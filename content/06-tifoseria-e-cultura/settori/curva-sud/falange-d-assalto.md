@@ -1,47 +1,48 @@
 ---
-title: "Falange d'Assalto Rossazzurra (1979)"
-description: "Storia della Falange d'Assalto Rossazzurra, gruppo fondatore del movimento ultras a Catania nato nel 1979 nel rione Castello Ursino da Francesco 'Ciccio' Famoso: dai 36 anni in Curva Nord al trasferimento in Curva Sud nel 2015."
-slug: "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
-entity_type: "gruppo_ultras"
+title: Falange d'Assalto Rossazzurra (1979)
+description: 'Storia della Falange d''Assalto Rossazzurra, gruppo fondatore del movimento
+  ultras a Catania nato nel 1979 nel rione Castello Ursino da Francesco ''Ciccio''
+  Famoso: dai 36 anni in Curva Nord al trasferimento in Curva Sud nel 2015.'
+slug: 06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto
+entity_type: gruppo_ultras
 foundation_year: 1979
-founder: "Francesco 'Ciccio' Famoso"
-origin_district: "Castello Ursino e Quartieri Popolari del Centro Storico (Catania)"
-stadium_sector: "Curva Nord (1979–2015) -> Curva Sud (dal 2015)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
+founder: Francesco 'Ciccio' Famoso
+origin_district: Castello Ursino e Quartieri Popolari del Centro Storico (Catania)
+stadium_sector: Curva Nord (1979–2015) -> Curva Sud (dal 2015)
+stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 international_ties:
-  - "Desperados 1999 (Borussia Dortmund)"
-  - "Polonia Bytom"
+- Desperados 1999 (Borussia Dortmund)
+- Polonia Bytom
 tags:
-  - "ultras"
-  - "curva-nord"
-  - "curva-sud"
-  - "castello-ursino"
-  - "ciccio-famoso"
-  - "estrema-appartenenza"
-  - "primi-a-nascere-ultimi-a-morire"
-status: "verified"
+- ultras
+- curva-nord
+- curva-sud
+- castello-ursino
+- ciccio-famoso
+- estrema-appartenenza
+- primi-a-nascere-ultimi-a-morire
+status: verified
 last_verified_date: 2026-10-29
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2011
-    reference: "Sezione Storia del Tifo Organizzato (1979-2010)"
-  - author: "Redazione Cronaca Cittadina La Sicilia"
-    title: "Falange d'Assalto perde il suo leader: morto Ciccio Famoso"
-    publisher: "La Sicilia"
-    year: 2017
-    reference: "Edizione del 2-3 febbraio 2017"
-  - author: "MeridioNews"
-    title: "Ultras Catania, scomparso Ciccio Falange Famoso. Fondatore del primo gruppo"
-    publisher: "meridionews.it"
-    year: 2017
-    reference: "La nascita nel 1979 al Castello Ursino e la guida della curva"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2011
+  reference: Sezione Storia del Tifo Organizzato (1979-2010)
+- author: Redazione Cronaca Cittadina La Sicilia
+  title: 'Falange d''Assalto perde il suo leader: morto Ciccio Famoso'
+  publisher: La Sicilia
+  year: 2017
+  reference: Edizione del 2-3 febbraio 2017
+- author: MeridioNews
+  title: Ultras Catania, scomparso Ciccio Falange Famoso. Fondatore del primo gruppo
+  publisher: meridionews.it
+  year: 2017
+  reference: La nascita nel 1979 al Castello Ursino e la guida della curva
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
-  - "06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto"
-  - "tifoseria/curva-sud/falange-d-assalto"
-  - "tifoseria/curva-nord/falange-d-assalto"
+- tifoseria/curva-sud/falange-d-assalto
+- tifoseria/curva-nord/falange-d-assalto
 ---
 
 # Falange d'Assalto Rossazzurra (1979)

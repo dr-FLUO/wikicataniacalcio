@@ -1,60 +1,66 @@
 ---
-title: "Centro Sportivo Torre del Grifo Village (Mascalucia)"
-description: "Storia, architettura, fallimento del 2021 e riacquisto all'asta del 2025-2026 del centro sportivo polifunzionale Torre del Grifo Village a Mascalucia."
-slug: "04-strutture/centri-sportivi/torre-del-grifo"
-entity_type: "impianto_sportivo"
+title: Centro Sportivo Torre del Grifo Village (Mascalucia)
+description: Storia, architettura, fallimento del 2021 e riacquisto all'asta del 2025-2026
+  del centro sportivo polifunzionale Torre del Grifo Village a Mascalucia.
+slug: 04-strutture/centri-sportivi/torre-del-grifo
+entity_type: impianto_sportivo
 foundation_year: 2011
 date_start: 2011-05-18
 date_end: 2026-02-19
-origin_district: "Via Magenta, Mascalucia (Città Metropolitana di Catania)"
+origin_district: Via Magenta, Mascalucia (Città Metropolitana di Catania)
 tags:
-  - "torre-del-grifo"
-  - "centro-sportivo"
-  - "era-pulvirenti"
-  - "ross-pelligra"
-  - "vincenzo-grella"
-  - "asta-fallimentare"
-  - "patrimonio"
-  - "mascalucia"
-  - "impianti-sportivi"
-status: "verified"
+- torre-del-grifo
+- centro-sportivo
+- era-pulvirenti
+- ross-pelligra
+- vincenzo-grella
+- asta-fallimentare
+- patrimonio
+- mascalucia
+- impianti-sportivi
+status: verified
 last_verified_date: 2026-10-30
-cover_image: "torre-del-grifo-village.jpg"
-cover_caption: "Veduta aerea del centro sportivo Torre del Grifo Village a Mascalucia, polo d'eccellenza per la preparazione atletica."
-cover_credit: "Foto: Salvosmav · Licenza: CC BY-SA 4.0 (Wikimedia Commons)"
+cover_image: torre-del-grifo-village.jpg
+cover_caption: Veduta aerea del centro sportivo Torre del Grifo Village a Mascalucia,
+  polo d'eccellenza per la preparazione atletica.
+cover_credit: 'Foto: Salvosmav · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
 image_credits:
-  - image_path: "assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg"
-    alt_text: "Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia"
-    author_or_archive: "Archivio Storico Calcio Catania"
-    year: 2023
-    license_type: "Creative Commons CC BY-SA 4.0"
+- image_path: assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg
+  alt_text: Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 2023
+  license_type: Creative Commons CC BY-SA 4.0
 sources:
-  - author: "Calcio Catania S.p.A. / Istituto per il Credito Sportivo"
-    title: "Atti di inaugurazione e scheda tecnica del Centro Sportivo Polifunzionale Torre del Grifo Village"
-    publisher: "Calcio Catania S.p.A., Mascalucia"
-    year: 2011
-    reference: "Inaugurazione ufficiale 18 maggio 2011"
-  - author: "Tribunale Ordinario di Catania — Sezione Fallimentare"
-    title: "Sentenza di Fallimento n. 158/2021 del 22 dicembre 2021 e Bandi d'Asta Immobiliare"
-    publisher: "Tribunale di Catania"
-    year: 2021
-    reference: "Scorporo del ramo d'azienda sportivo dal complesso immobiliare di Torre del Grifo"
-  - author: "Tribunale Ordinario di Catania — Sezione Fallimentare"
-    title: "Verbale di aggiudicazione della procedura competitiva del 23 ottobre 2025 per il complesso immobiliare Torre del Grifo Village e atto notarile di trasferimento del 19 febbraio 2026"
-    publisher: "Tribunale di Catania"
-    year: 2026
-    reference: "Aggiudicazione per Euro 5.500.000 (23/10/2025) e saldo/rogito (19/02/2026)"
-  - author: "Redazione La Sicilia"
-    title: "Torre del Grifo torna al Catania: Pelligra vince l'asta a 5,5 milioni, firmato il rogito definitivo"
-    publisher: "La Sicilia, Catania"
-    year: 2026
-    reference: "Edizioni del 24 ottobre 2025 e 20 febbraio 2026"
+- author: Calcio Catania S.p.A. / Istituto per il Credito Sportivo
+  title: Atti di inaugurazione e scheda tecnica del Centro Sportivo Polifunzionale
+    Torre del Grifo Village
+  publisher: Calcio Catania S.p.A., Mascalucia
+  year: 2011
+  reference: Inaugurazione ufficiale 18 maggio 2011
+- author: Tribunale Ordinario di Catania — Sezione Fallimentare
+  title: Sentenza di Fallimento n. 158/2021 del 22 dicembre 2021 e Bandi d'Asta Immobiliare
+  publisher: Tribunale di Catania
+  year: 2021
+  reference: Scorporo del ramo d'azienda sportivo dal complesso immobiliare di Torre
+    del Grifo
+- author: Tribunale Ordinario di Catania — Sezione Fallimentare
+  title: Verbale di aggiudicazione della procedura competitiva del 23 ottobre 2025
+    per il complesso immobiliare Torre del Grifo Village e atto notarile di trasferimento
+    del 19 febbraio 2026
+  publisher: Tribunale di Catania
+  year: 2026
+  reference: Aggiudicazione per Euro 5.500.000 (23/10/2025) e saldo/rogito (19/02/2026)
+- author: Redazione La Sicilia
+  title: 'Torre del Grifo torna al Catania: Pelligra vince l''asta a 5,5 milioni,
+    firmato il rogito definitivo'
+  publisher: La Sicilia, Catania
+  year: 2026
+  reference: Edizioni del 24 ottobre 2025 e 20 febbraio 2026
 aliases:
-  - "stadio/torre-del-grifo"
-  - "04-strutture/centri-sportivi/torre-del-grifo"
-  - "04-strutture/stadio-massimino/torre-del-grifo"
-  - "04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026"
-  - "stadio/acquisizione-torre-del-grifo-2025-2026"
+- stadio/torre-del-grifo
+- 04-strutture/stadio-massimino/torre-del-grifo
+- 04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026
+- stadio/acquisizione-torre-del-grifo-2025-2026
 ---
 
 ![Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia](/assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg)

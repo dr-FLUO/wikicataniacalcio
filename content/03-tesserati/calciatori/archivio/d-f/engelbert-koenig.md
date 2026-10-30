@@ -49,8 +49,10 @@ aliases:
 - engelbert-koenig
 - tesserati/engelbert-koenig
 - calciatori/engelbert-koenig
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Engelbert Koenig
 
 <div class="nfc-player-hero-card">
@@ -76,11 +78,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -96,7 +98,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

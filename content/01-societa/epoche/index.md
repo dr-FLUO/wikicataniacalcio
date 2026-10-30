@@ -1,24 +1,27 @@
 ---
-title: "Le Sette Ere Societarie del Calcio Catania (1929–Oggi)"
-description: "Dossier completo sulle sette epoche societarie, le matricole federali FIGC (11700 e 955013) e le trasformazioni giuridico-patrimoniali del club dal 1929 a oggi."
-slug: "01-societa/epoche/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Le Sette Ere Societarie del Calcio Catania (1929–Oggi)
+description: Dossier completo sulle sette epoche societarie, le matricole federali
+  FIGC (11700 e 955013) e le trasformazioni giuridico-patrimoniali del club dal 1929
+  a oggi.
+slug: 01-societa/epoche
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "epoche"
-  - "societa"
-  - "matricola-11700"
-  - "matricola-955013"
-  - "storia-giuridica"
+- epoche
+- societa
+- matricola-11700
+- matricola-955013
+- storia-giuridica
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Le sette epoche del calcio catanese e le matricole FIGC"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Le sette epoche del calcio catanese e le matricole FIGC
 aliases:
-  - "societa/epoche"
+- societa/epoche
 ---
 
 # Le Sette Ere Societarie del Calcio Catania (1929–Oggi)

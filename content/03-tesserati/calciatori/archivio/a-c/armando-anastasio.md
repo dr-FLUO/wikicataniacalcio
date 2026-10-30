@@ -1,7 +1,7 @@
 ---
 title: Armando Anastasio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore del Calcio Catania con 36 presenze
-  e 3 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore
+  del Calcio Catania con 36 presenze e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/armando-anastasio
 entity_type: calciatore
 status: verified
@@ -28,14 +28,14 @@ sources:
 image: assets/images/players/1089_armando-anastasio.jpg
 image_credits:
 - image_path: assets/images/players/1089_armando-anastasio.jpg
-  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania
+  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio
+    Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - 03-tesserati/calciatori/rosa-attuale/armando-anastasio
 - tesserati/calciatori/armando-anastasio
-- 03-tesserati/calciatori/archivio/a-c/armando-anastasio
 - armando-anastasio
 - tesserati/armando-anastasio
 - calciatori/armando-anastasio
@@ -69,15 +69,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2023–2024</td>
       </tr>
       <tr>
         <th>Presenze totali</th>

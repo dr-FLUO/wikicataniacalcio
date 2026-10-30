@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 68
+total_appearances: 102
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - luis-vincencote-pedrinho
 - tesserati/luis-vincencote-pedrinho
 - calciatori/luis-vincencote-pedrinho
+total_goals: 12
+total_assists: 0
+minutes_played: 8377
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Luis Vincencote Pedrinho — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1982–1985</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>68</td>
+        <td>102</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>12</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luis Vincencote Pedrinho*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pedrinho-460](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pedrinho-460), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1982-1983 | Terzino sinistro | 32 | 3 | 0 | 0 | 0 | 2852' |
+| 1983-1984 | Terzino sinistro | 40 | 8 | 0 | 0 | 1 | 3508' |
+| 1984-1985 | Terzino sinistro | 30 | 1 | 0 | 0 | 0 | 2017' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 102 presenze e 12 reti complessive.*

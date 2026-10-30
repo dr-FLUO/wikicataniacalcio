@@ -11,8 +11,8 @@ birth_date: '1948-07-27'
 birth_place: Marmirolo
 death_date: '2022-07-28'
 nationality: Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 70
+seasons_count: 2
 tags:
 - calciatori
 - franco-panizza-calciatore
@@ -35,8 +35,13 @@ aliases:
 - franco-panizza-calciatore
 - tesserati/franco-panizza-calciatore
 - calciatori/franco-panizza-calciatore
+total_goals: 2
+total_assists: 0
+minutes_played: 6277
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Franco Panizza (calciatore) — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1974–1976</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>70</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>2</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -96,3 +101,11 @@ Nato a Marmirolo (1948-07-27), Franco Panizza (calciatore) ha militato tra le fi
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1974-1975 | Centrocampo | 33 | 1 | 0 | 0 | 1 | 2956' |
+| 1975-1976 | Centrocampo | 37 | 1 | 0 | 0 | 2 | 3321' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 70 presenze e 2 reti complessive.*

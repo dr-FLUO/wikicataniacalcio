@@ -1,33 +1,35 @@
 ---
-title: "Patti di Amicizia e Rispetto Nazionale e Internazionale"
-description: "Hub delle relazioni di amicizia, stima e rispetto reciproco della tifoseria del Catania con piazze nazionali (Napoli, Inter, Parma) ed estere (Borussia Dortmund, Bayern Monaco)."
-slug: "06-tifoseria-e-cultura/relazioni/amicizie/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Patti di Amicizia e Rispetto Nazionale e Internazionale
+description: Hub delle relazioni di amicizia, stima e rispetto reciproco della tifoseria
+  del Catania con piazze nazionali (Napoli, Inter, Parma) ed estere (Borussia Dortmund,
+  Bayern Monaco).
+slug: 06-tifoseria-e-cultura/relazioni/amicizie
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "amicizie"
-  - "rispetto-reciproco"
-  - "napoli"
-  - "inter"
-  - "parma"
-  - "borussia-dortmund"
-  - "bayern-monaco"
-  - "ultras"
+- amicizie
+- rispetto-reciproco
+- napoli
+- inter
+- parma
+- borussia-dortmund
+- bayern-monaco
+- ultras
 sources:
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Quadro generale delle amicizie nazionali ed estere"
-  - author: "Redazione La Sicilia"
-    title: "Da Dortmund a Monaco di Baviera: l'omaggio delle curve tedesche a Ciccio Famoso"
-    publisher: "La Sicilia"
-    year: 2017
-    reference: "Tributi internazionali della Südtribüne e del Bayern"
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Quadro generale delle amicizie nazionali ed estere
+- author: Redazione La Sicilia
+  title: 'Da Dortmund a Monaco di Baviera: l''omaggio delle curve tedesche a Ciccio
+    Famoso'
+  publisher: La Sicilia
+  year: 2017
+  reference: Tributi internazionali della Südtribüne e del Bayern
 aliases:
-  - "tifoseria/amicizie"
-  - "06-tifoseria-e-cultura/relazioni/amicizie"
+- tifoseria/amicizie
 ---
 
 # Patti di Amicizia e Rispetto Nazionale e Internazionale

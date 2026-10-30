@@ -1,36 +1,36 @@
 ---
-title: "Irriducibili Curva Sud (1991)"
-description: "Dossier storico sul gruppo Irriducibili (I.R.A.) della Curva Sud: la nascita da Primo Amore nel 1991, la guida del settore meridionale e l'unione in Estrema Appartenenza."
-slug: "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
-entity_type: "gruppo_ultras"
+title: Irriducibili Curva Sud (1991)
+description: 'Dossier storico sul gruppo Irriducibili (I.R.A.) della Curva Sud: la
+  nascita da Primo Amore nel 1991, la guida del settore meridionale e l''unione in
+  Estrema Appartenenza.'
+slug: 06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991
+entity_type: gruppo_ultras
 foundation_year: 1991
-origin_district: "San Cristoforo, Librino, Villaggio Sant'Agata, Via Plebiscito (Catania)"
-stadium_sector: "Curva Sud (Anello Superiore)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
-status: "verified"
+origin_district: San Cristoforo, Librino, Villaggio Sant'Agata, Via Plebiscito (Catania)
+stadium_sector: Curva Sud (Anello Superiore)
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "irriducibili"
-  - "ira"
-  - "curva-sud"
-  - "primo-amore"
-  - "estrema-appartenenza"
-  - "ultras"
+- irriducibili
+- ira
+- curva-sud
+- primo-amore
+- estrema-appartenenza
+- ultras
 sources:
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Genesi degli Irriducibili dal gruppo Primo Amore"
-  - author: "MeridioNews"
-    title: "Il Catania e i leader che comandano dentro le curve"
-    publisher: "meridionews.it"
-    year: 2016
-    reference: "Il ruolo degli Irriducibili nella Curva Sud"
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Genesi degli Irriducibili dal gruppo Primo Amore
+- author: MeridioNews
+  title: Il Catania e i leader che comandano dentro le curve
+  publisher: meridionews.it
+  year: 2016
+  reference: Il ruolo degli Irriducibili nella Curva Sud
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
-  - "06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991"
-  - "tifoseria/curva-sud/irriducibili-1991"
+- tifoseria/curva-sud/irriducibili-1991
 ---
 
 # Irriducibili Curva Sud (1991)

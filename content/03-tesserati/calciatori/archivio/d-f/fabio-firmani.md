@@ -76,15 +76,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2002–2004</td>
       </tr>
       <tr>
         <th>Presenze totali</th>

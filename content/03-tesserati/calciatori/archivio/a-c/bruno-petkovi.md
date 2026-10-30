@@ -11,8 +11,8 @@ birth_date: '1994-09-16'
 birth_place: Metković
 death_date: ''
 nationality: Croazia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 5
+seasons_count: 2
 tags:
 - calciatori
 - bruno-petkovi
@@ -43,8 +43,13 @@ aliases:
 - tesserati/bruno-petkovi
 - calciatori/bruno-petkovi
 citizenship: Croazia
+total_goals: 0
+total_assists: 0
+minutes_played: 189
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Bruno Petković — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,19 +72,19 @@ citizenship: Croazia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2011–2013</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -87,7 +92,7 @@ citizenship: Croazia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -101,3 +106,11 @@ Nato a Metković (1994-09-16), Bruno Petković ha militato tra le file della for
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2011-2012 | Punta centrale | 1 | 0 | 0 | 0 | 0 | 1' |
+| 2012-2013 | Punta centrale | 4 | 0 | 0 | 0 | 0 | 188' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 5 presenze e 0 reti complessive.*

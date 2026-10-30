@@ -11,7 +11,7 @@ birth_date: '1995-03-06'
 birth_place: Capodistria
 death_date: ''
 nationality: Slovenia
-total_appearances: 10
+total_appearances: 5
 seasons_count: 1
 tags:
 - calciatori
@@ -36,8 +36,13 @@ aliases:
 - tesserati/maks-bari-i
 - calciatori/maks-bari-i
 citizenship: Slovenia
+total_goals: 0
+total_assists: 0
+minutes_played: 450
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Maks Barišič — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Slovenia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2025–2026</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Slovenia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,10 @@ Nato a Capodistria (1995-03-06), Maks Barišič ha militato tra le file della fo
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2025-2026 | Portiere | 5 | 0 | 0 | 0 | 0 | 450' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 5 presenze e 0 reti complessive.*

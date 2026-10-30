@@ -1,27 +1,29 @@
 ---
-title: "Eventi Storici, Ordine Pubblico e Giustizia Sportiva"
-description: "Cronistoria ragionata dei grandi avvenimenti dell'ordine pubblico a Catania: tragedie, scontri, svolte legislative, cortei per la matricola e sentenze storiche."
-slug: "06-tifoseria-e-cultura/eventi-e-giustizia/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Eventi Storici, Ordine Pubblico e Giustizia Sportiva
+description: 'Cronistoria ragionata dei grandi avvenimenti dell''ordine pubblico a
+  Catania: tragedie, scontri, svolte legislative, cortei per la matricola e sentenze
+  storiche.'
+slug: 06-tifoseria-e-cultura/eventi-e-giustizia
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "eventi"
-  - "ordine-pubblico"
-  - "giustizia"
-  - "daspo"
-  - "2-febbraio-2007"
-  - "raciti"
-  - "1983"
-  - "2024"
+- eventi
+- ordine-pubblico
+- giustizia
+- daspo
+- 2-febbraio-2007
+- raciti
+- '1983'
+- '2024'
 sources:
-  - author: "Corte di Cassazione, Questura di Catania, Ministero dell'Interno"
-    title: "Atti giudiziari e relazioni sull'ordine pubblico (1983-2026)"
-    publisher: "Archivi Giudiziari e Parlamentari"
-    year: 2026
-    reference: "Documentazione ufficiale sugli eventi di piazza"
+- author: Corte di Cassazione, Questura di Catania, Ministero dell'Interno
+  title: Atti giudiziari e relazioni sull'ordine pubblico (1983-2026)
+  publisher: Archivi Giudiziari e Parlamentari
+  year: 2026
+  reference: Documentazione ufficiale sugli eventi di piazza
 aliases:
-  - "tifoseria/eventi"
+- tifoseria/eventi
 ---
 
 # Eventi Storici, Ordine Pubblico e Giustizia Sportiva
@@ -51,3 +53,13 @@ La storia del tifo a Catania ha incrociato drammaticamente la storia del diritto
 1. **Gazzetta Ufficiale della Repubblica Italiana**, *Legge 41/2007*, Serie Generale n. 80.
 2. **Corte Suprema di Cassazione**, *Sentenze 1985, 2012*.
 3. **Questura di Catania**, *Relazioni e bollettini DIGOS (1983-2026)*.
+
+
+### Altri Dossier Storici e Giudiziari
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/aggressione-lo-monaco-stretto-2019|L]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/analisi-storico-giudiziaria-ordine-pubblico|Analisi Storico-Giudiziaria del Tifo Organizzato Catanese (1983-2026): Dinamiche]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/boicottaggio-atletico-1993|Il Rifiuto dell]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/daspo-ordine-pubblico-legislazione|Ordine Pubblico, DASPO e Legislazione Speciale Antiviolenza]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017|Le Esequie di Ciccio Famoso e il Rito al Massimino: Rilievo Giudiziario e]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-autostrada-a2-casertana-2025|La Guerriglia Inter-Tifoserie sull]]
+- [[06-tifoseria-e-cultura/eventi-e-giustizia/striscione-fighters-e-storie-curva|Il Caso dello Striscione «Fighters» e i Grandi Episodi della Storia Ultras]]

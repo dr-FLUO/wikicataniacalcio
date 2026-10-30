@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 9
+total_appearances: 10
 seasons_count: 1
 tags:
 - calciatori
@@ -31,8 +31,13 @@ aliases:
 - leite-pereira-marcelinho
 - tesserati/leite-pereira-marcelinho
 - calciatori/leite-pereira-marcelinho
+total_goals: 1
+total_assists: 2
+minutes_played: 282
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Leite Pereira Marcelinho — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,27 +63,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2013–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>9</td>
+        <td>10</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>2</td>
       </tr>
     </tbody>
   </table>
@@ -107,3 +112,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Leite Pereira Marcelinho*, in [https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836](https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2013-2014 | Ala sinistra | 10 | 1 | 2 | 0 | 0 | 282' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 10 presenze e 1 reti complessive.*

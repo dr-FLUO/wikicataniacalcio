@@ -11,8 +11,8 @@ birth_date: '1962-02-15'
 birth_place: Pirajuba
 death_date: ''
 nationality: Brasile
-total_appearances: 10
-seasons_count: 1
+total_appearances: 97
+seasons_count: 3
 tags:
 - calciatori
 - luvanor-donizete-borges
@@ -36,8 +36,13 @@ aliases:
 - tesserati/luvanor-donizete-borges
 - calciatori/luvanor-donizete-borges
 citizenship: Brasile
+total_goals: 5
+total_assists: 1
+minutes_played: 6368
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Luvanor Donizete Borges — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,27 +68,27 @@ citizenship: Brasile
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1982–1985</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>97</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,12 @@ Nato a Pirajuba (1962-02-15), Luvanor Donizete Borges ha militato tra le file de
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1982-1983 | Trequartista | 35 | 0 | 1 | 0 | 0 | 2799' |
+| 1983-1984 | Trequartista | 34 | 3 | 0 | 0 | 0 | 2005' |
+| 1984-1985 | Trequartista | 28 | 2 | 0 | 0 | 0 | 1564' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 97 presenze e 5 reti complessive.*

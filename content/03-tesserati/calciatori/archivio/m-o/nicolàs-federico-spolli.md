@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 148
+total_appearances: 154
 seasons_count: 6
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - nicolàs-federico-spolli
 - tesserati/nicolàs-federico-spolli
 - calciatori/nicolàs-federico-spolli
+total_goals: 7
+total_assists: 3
+minutes_played: 12607
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Nicolàs Federico  Spolli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2008–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>148</td>
+        <td>154</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>7</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>3</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicolàs Federico  Spolli*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Spolli-8](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Spolli-8), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2008-2009 | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2095' |
+| 2009-2010 | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2236' |
+| 2010-2011 | Difensore centrale | 33 | 2 | 0 | 9 | 1 | 2682' |
+| 2011-2012 | Difensore centrale | 29 | 2 | 1 | 9 | 0 | 2536' |
+| 2012-2013 | Difensore centrale | 21 | 1 | 0 | 6 | 0 | 1772' |
+| 2013-2014 | Difensore centrale | 17 | 0 | 0 | 9 | 1 | 1286' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 154 presenze e 7 reti complessive.*

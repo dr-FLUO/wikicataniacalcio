@@ -59,7 +59,6 @@ sources:
 aliases:
 - partite/2023-2024/padova-catania-2-1
 - padova-catania-2-1
-- 02-cronistoria/partite-storiche/2023-2024/padova-catania-2-1
 - partite-storiche/2023-2024/padova-catania-2-1
 - 2023-2024/padova-catania-2-1
 ---

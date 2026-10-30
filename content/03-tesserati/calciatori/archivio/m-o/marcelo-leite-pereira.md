@@ -43,8 +43,10 @@ aliases:
 - tesserati/marcelo-leite-pereira
 - calciatori/marcelo-leite-pereira
 citizenship: Brasile
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Marcelo Leite Pereira — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,15 +69,15 @@ citizenship: Brasile
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>1987</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -83,11 +85,11 @@ citizenship: Brasile
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 3
+total_appearances: 6
 seasons_count: 1
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - nicolae-costantin-dica
 - tesserati/nicolae-costantin-dica
 - calciatori/nicolae-costantin-dica
+total_goals: 1
+total_assists: 1
+minutes_played: 320
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Nicolae Costantin Dica — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2007–2008</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>3</td>
+        <td>6</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicolae Costantin Dica*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Dica-81](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Dica-81), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2007-2008 | Seconda punta | 6 | 1 | 1 | 1 | 0 | 320' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 6 presenze e 1 reti complessive.*

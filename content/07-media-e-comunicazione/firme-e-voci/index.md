@@ -1,36 +1,38 @@
 ---
-title: "Grandi Firme, Giornalisti e Voci Storiche del Calcio Catania"
-description: "Biografie e profili dei grandi narratori del calcio catanese: maestri della carta stampata, volti dell'etere televisivo e radiofonico, cronisti contemporanei e ricercatori storiografici."
-slug: "07-media-e-comunicazione/firme-e-voci/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Grandi Firme, Giornalisti e Voci Storiche del Calcio Catania
+description: 'Biografie e profili dei grandi narratori del calcio catanese: maestri
+  della carta stampata, volti dell''etere televisivo e radiofonico, cronisti contemporanei
+  e ricercatori storiografici.'
+slug: 07-media-e-comunicazione/firme-e-voci
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "giornalisti"
-  - "firme"
-  - "cannavo"
-  - "prestinenza"
-  - "schilliro"
-  - "teghini"
-  - "micale"
-  - "patane"
-  - "finocchiaro"
-  - "vagliasindi"
-  - "cigalini"
-  - "sberna"
+- giornalisti
+- firme
+- cannavo
+- prestinenza
+- schilliro
+- teghini
+- micale
+- patane
+- finocchiaro
+- vagliasindi
+- cigalini
+- sberna
 sources:
-  - author: "Domenico Tempio"
-    title: "La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)"
-    publisher: "Domenico Sanfilippo Editore, Catania"
-    year: 2015
-    reference: "Profili dei maestri della redazione sportiva"
-  - author: "Flavio Gagliano"
-    title: "L'etere rossazzurro: quarant'anni di tv e radio al seguito del Catania"
-    publisher: "Edizioni Etnee, Catania"
-    year: 2021
-    reference: "Voci e volti delle emittenti televisive e radiofoniche"
+- author: Domenico Tempio
+  title: 'La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)'
+  publisher: Domenico Sanfilippo Editore, Catania
+  year: 2015
+  reference: Profili dei maestri della redazione sportiva
+- author: Flavio Gagliano
+  title: 'L''etere rossazzurro: quarant''anni di tv e radio al seguito del Catania'
+  publisher: Edizioni Etnee, Catania
+  year: 2021
+  reference: Voci e volti delle emittenti televisive e radiofoniche
 aliases:
-  - "media/firme"
+- media/firme
 ---
 
 # Grandi Firme, Giornalisti e Voci Storiche del Calcio Catania

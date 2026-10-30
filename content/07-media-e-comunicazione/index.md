@@ -1,7 +1,9 @@
 ---
 title: L'Ecosistema dei Media e dell'Informazione Rossazzurra (1945-2026)
-description: 'Portale enciclopedico sull''evoluzione dell''informazione sportiva a Catania: dalla carta stampata storica alle televisioni private, dai pionieri radiofonici all''editoria digitale contemporanea.'
-slug: 07-media-e-comunicazione/index
+description: 'Portale enciclopedico sull''evoluzione dell''informazione sportiva a
+  Catania: dalla carta stampata storica alle televisioni private, dai pionieri radiofonici
+  all''editoria digitale contemporanea.'
+slug: 07-media-e-comunicazione
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-29
@@ -30,7 +32,8 @@ sources:
   publisher: Edizioni Etnee, Catania
   year: 2021
   reference: Evoluzione del sistema radiotelevisivo etneo
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010

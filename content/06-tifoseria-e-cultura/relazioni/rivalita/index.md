@@ -1,33 +1,34 @@
 ---
-title: "L'Arco delle Rivalità Storiche del Tifo Rossazzurro"
-description: "Dossier completo sulle rivalità calcistiche della tifoseria del Catania: i derby siciliani, la contesa per l'egemonia nel Sud Italia e gli scontri col Centro-Nord."
-slug: "06-tifoseria-e-cultura/relazioni/rivalita/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: L'Arco delle Rivalità Storiche del Tifo Rossazzurro
+description: 'Dossier completo sulle rivalità calcistiche della tifoseria del Catania:
+  i derby siciliani, la contesa per l''egemonia nel Sud Italia e gli scontri col Centro-Nord.'
+slug: 06-tifoseria-e-cultura/relazioni/rivalita
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "rivalita"
-  - "palermo"
-  - "messina"
-  - "siracusa"
-  - "salernitana"
-  - "taranto"
-  - "roma"
-  - "catanzaro"
-  - "perugia"
+- rivalita
+- palermo
+- messina
+- siracusa
+- salernitana
+- taranto
+- roma
+- catanzaro
+- perugia
 sources:
-  - author: "Archivio Storico"
-    title: "Catania - Rivalità e Scontri"
-    publisher: "vitadaultras.forumfree.it"
-    year: 2008
-    reference: "Censimento esaustivo delle rivalità etnee"
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "I precedenti ad alto rischio del calcio catanese"
+- author: Archivio Storico
+  title: Catania - Rivalità e Scontri
+  publisher: vitadaultras.forumfree.it
+  year: 2008
+  reference: Censimento esaustivo delle rivalità etnee
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: I precedenti ad alto rischio del calcio catanese
 aliases:
-  - "tifoseria/rivalita"
+- tifoseria/rivalita
 ---
 
 # L'Arco delle Rivalità Storiche del Tifo Rossazzurro
@@ -71,3 +72,6 @@ Il quadro delle ostilità sportive del Calcio Catania è tra i più vasti e acce
 
 1. **Archivio Storico**, *Catania - Rivalità e Scontri*, vitadaultras.forumfree.it, 2008.
 2. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
+
+
+- [[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Il Derby di Sicilia — La Storica Rivalità con il Palermo]]

@@ -1,34 +1,37 @@
 ---
-title: "Testate Giornalistiche, Emittenti e Media Storici del Calcio Catania"
-description: "Dossier sui quotidiani storici (La Sicilia, Espresso Sera), sulle emittenti televisive e radiofoniche (Telecolor, Antenna Sicilia, Radio Sis) e sull'informazione digitale indipendente (CalcioCatania.com, Pianeta Catania, Catanista, TuttoCalcioCatania, Tutto il Catania mpm)."
-slug: "07-media-e-comunicazione/testate/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Testate Giornalistiche, Emittenti e Media Storici del Calcio Catania
+description: Dossier sui quotidiani storici (La Sicilia, Espresso Sera), sulle emittenti
+  televisive e radiofoniche (Telecolor, Antenna Sicilia, Radio Sis) e sull'informazione
+  digitale indipendente (CalcioCatania.com, Pianeta Catania, Catanista, TuttoCalcioCatania,
+  Tutto il Catania mpm).
+slug: 07-media-e-comunicazione/testate
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "testate"
-  - "giornali"
-  - "tv"
-  - "radio"
-  - "web"
-  - "la-sicilia"
-  - "telecolor"
-  - "antenna-sicilia"
-  - "catanista"
-  - "pianeta-catania"
+- testate
+- giornali
+- tv
+- radio
+- web
+- la-sicilia
+- telecolor
+- antenna-sicilia
+- catanista
+- pianeta-catania
 sources:
-  - author: "Flavio Gagliano"
-    title: "L'etere rossazzurro: quarant'anni di tv e radio al seguito del Catania"
-    publisher: "Edizioni Etnee, Catania"
-    year: 2021
-    reference: "Il panorama completo delle testate giornalistiche ed emittenti"
-  - author: "Domenico Tempio"
-    title: "La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)"
-    publisher: "Domenico Sanfilippo Editore, Catania"
-    year: 2015
-    reference: "Storia della carta stampata a Catania"
+- author: Flavio Gagliano
+  title: 'L''etere rossazzurro: quarant''anni di tv e radio al seguito del Catania'
+  publisher: Edizioni Etnee, Catania
+  year: 2021
+  reference: Il panorama completo delle testate giornalistiche ed emittenti
+- author: Domenico Tempio
+  title: 'La Sicilia: 70 anni di cronache, battaglie e passione civile (1945-2015)'
+  publisher: Domenico Sanfilippo Editore, Catania
+  year: 2015
+  reference: Storia della carta stampata a Catania
 aliases:
-  - "media/testate"
+- media/testate
 ---
 
 # Testate Giornalistiche, Emittenti e Media Storici del Calcio Catania

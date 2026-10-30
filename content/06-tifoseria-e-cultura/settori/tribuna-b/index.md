@@ -1,52 +1,49 @@
 ---
-title: "La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro"
-description: "Monografia storica sulla Tribuna B (Gradinata) dello Stadio Angelo Massimino: origini, autonomia rispetto alle curve, e dossier completi su Mecha Klan, ANR, Gruppo Tattaresu e Vecchia Guardia."
-slug: "06-tifoseria-e-cultura/settori/tribuna-b/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: 'La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro'
+description: 'Monografia storica sulla Tribuna B (Gradinata) dello Stadio Angelo Massimino:
+  origini, autonomia rispetto alle curve, e dossier completi su Mecha Klan, ANR, Gruppo
+  Tattaresu e Vecchia Guardia.'
+slug: 06-tifoseria-e-cultura/settori/tribuna-b
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-30
 tags:
-  - "tribuna-b"
-  - "gradinata"
-  - "ultras"
-  - "catania"
-  - "mecha-klan"
-  - "anr"
-  - "tattaresu"
-  - "vecchia-guardia"
-  - "stadio-massimino"
+- tribuna-b
+- gradinata
+- ultras
+- catania
+- mecha-klan
+- anr
+- tattaresu
+- vecchia-guardia
+- stadio-massimino
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2011
-    reference: "Sezione La Gradinata e il Popolo del Cibali"
-  - author: "Redazione Cronaca"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Mappatura dei settori e delle formazioni della Tribuna B"
-  - author: "Archivio Storico"
-    title: "Gruppi Ultras Catania"
-    publisher: "vitadaultras.forumfree.it"
-    year: 2008
-    reference: "Censimento sigle e storia della Tribuna B"
-  - author: "MeridioNews"
-    title: "Il Catania e i leader che comandano dentro le curve"
-    publisher: "meridionews.it"
-    year: 2016
-    reference: "Inchiesta sulla scissione della Falange d'Assalto e la nascita del Mecha Klan"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2011
+  reference: Sezione La Gradinata e il Popolo del Cibali
+- author: Redazione Cronaca
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Mappatura dei settori e delle formazioni della Tribuna B
+- author: Archivio Storico
+  title: Gruppi Ultras Catania
+  publisher: vitadaultras.forumfree.it
+  year: 2008
+  reference: Censimento sigle e storia della Tribuna B
+- author: MeridioNews
+  title: Il Catania e i leader che comandano dentro le curve
+  publisher: meridionews.it
+  year: 2016
+  reference: Inchiesta sulla scissione della Falange d'Assalto e la nascita del Mecha
+    Klan
 aliases:
-  - "tifoseria/settori/tribuna-b"
-  - "tifoseria/tribuna-b"
-  - "06-tifoseria-e-cultura/settori/tribuna-b/anr"
-  - "tifoseria/settori/tribuna-b/anr"
-  - "06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu"
-  - "tifoseria/tribuna-b/tattaresu"
-  - "06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan"
-  - "tifoseria/tribuna-b/mecha-klan"
-  - "06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia"
-  - "tifoseria/tribuna-b/vecchia-guardia"
+- tifoseria/settori/tribuna-b
+- tifoseria/tribuna-b
+- 06-tifoseria-e-cultura/curve/tribuna-b
 ---
 
 # La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro
@@ -70,6 +67,8 @@ Fino alla fine degli anni Novanta, la Gradinata del Cibali accoglieva prevalente
 
 ## 2. Ultras Mecha Klan (MCK) — Dal 2015
 
+> *Monografia dedicata:* [[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan (MCK) — Scheda Dettagliata]]
+
 Fondato nell'agosto del **2015**, l'**Ultras Mecha Klan Catania (MCK)** è la formazione trainante e più rappresentativa della Tribuna B contemporanea.
 
 ### La Scissione dalla Falange d'Assalto
@@ -86,6 +85,8 @@ L'MCK ha improntato la propria condotta a un rigido codice ultras basato sull'**
 
 ## 3. A.N.R. — Associazione Non Riconosciuta (2000–2003)
 
+> *Monografia dedicata:* [[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R. Associazione Non Riconosciuta — Scheda Dettagliata]]
+
 Fondata nell'estate del **2000**, la sigla **A.N.R. (Associazione Non Riconosciuta)** nacque per iniziativa di militanti provenienti dall'ala dura degli *Irriducibili 1991* della Curva Sud, intenzionati a creare un nucleo fondato sullo stile *casual* d'impronta britannica: abbigliamento non convenzionale, sciarpe a barre pesanti e rifiuto dell'assistenzialismo.
 
 Posizionata al centro della Tribuna B tra il 2000 e il 2003 (gli anni della risalita verso la Serie B nell'[[01-societa/epoche/2000-era-gaucci|Era Gaucci]]), la pezza con la scritta bianca *A.N.R.* su fondo nero e il logo araldico con due leoni affrontati attorno a una Trinacria nera divenne celebre in tutte le trasferte d'Italia. Nel 2003, con l'unificazione del coordinamento del tifo, il gruppo scelse di confluire nei gradoni della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], mantenendo viva la propria sigla storica.
@@ -93,6 +94,8 @@ Posizionata al centro della Tribuna B tra il 2000 e il 2003 (gli anni della risa
 ---
 
 ## 4. Gruppo Tattaresu e la Coreografia Popolare (1993–2005)
+
+> *Monografia dedicata:* [[06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu|Gruppo Tattaresu — Scheda Dettagliata]]
 
 Intitolato alla figura carismatica di [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Pippo Tarraresu]] (Giuseppe Spampinato), il **Gruppo Tattaresu** ha incarnato l'anima folkloristica, genuina e indomita del tifo di gradinata negli anni della rinascita dopo la radiazione del 1993.
 
@@ -102,6 +105,8 @@ Intitolato alla figura carismatica di [[06-tifoseria-e-cultura/biografie/pippo-t
 ---
 
 ## 5. Vecchia Guardia San Gregorio (1996–2010)
+
+> *Monografia dedicata:* [[06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia|Vecchia Guardia San Gregorio — Scheda Dettagliata]]
 
 Fondata nel **1996** da un affiatato gruppo di sostenitori residenti nel comune pedemontano di **San Gregorio di Catania** (tra cui Vito, Tuccio, Michele, Santi, Umberto e Andrea), la **Vecchia Guardia** ha presidiato per oltre un decennio l'estremità nord della Tribuna B, a ridosso della recinzione metallica che divide il settore locale dalla gabbia riservata agli ospiti.
 

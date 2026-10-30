@@ -59,7 +59,6 @@ sources:
 aliases:
 - partite/2005-2006/catania-albinoleffe-2-1
 - catania-albinoleffe-2-1
-- 02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1
 - partite-storiche/2005-2006/catania-albinoleffe-2-1
 - 2005-2006/catania-albinoleffe-2-1
 ---

@@ -1,37 +1,41 @@
 ---
-title: "Albo Storico degli Allenatori del Calcio Catania (1929-2027)"
-description: "Cronologia completa, statistiche e schede biografiche di tutti i tecnici che hanno guidato il Calcio Catania dalla fondazione ad oggi: da Géza Kertész a Carmelo Di Bella, da Pasquale Marino a Domenico Toscano."
-slug: "03-tesserati/allenatori/index"
-entity_type: "section_index"
-status: "verified"
-last_verified_date: "2026-10-28"
+title: Albo Storico degli Allenatori del Calcio Catania (1929-2027)
+description: 'Cronologia completa, statistiche e schede biografiche di tutti i tecnici
+  che hanno guidato il Calcio Catania dalla fondazione ad oggi: da Géza Kertész a
+  Carmelo Di Bella, da Pasquale Marino a Domenico Toscano.'
+slug: 03-tesserati/allenatori
+entity_type: section_index
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "allenatori"
-  - "tesserati"
-  - "guida-tecnica"
-  - "statistiche"
+- allenatori
+- tesserati
+- guida-tecnica
+- statistiche
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Cronologia completa delle panchine rossazzurre"
-  - author: "Wikipedia Italia"
-    title: "Allenatori del Catania Football Club"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Catania_Football_Club#Allenatori"
-    reference: "Albo degli allenatori ufficiali"
-image: "assets/images/allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Cronologia completa delle panchine rossazzurre
+- author: Wikipedia Italia
+  title: Allenatori del Catania Football Club
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Catania_Football_Club#Allenatori
+  reference: Albo degli allenatori ufficiali
+image: assets/images/allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp
 image_credits:
-  - image_path: "assets/images/allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp"
-    alt_text: "Ritratto di Carmelo Di Bella, recordman di panchine nella storia del Calcio Catania"
-    author_or_archive: "Archivio Storico Calcio Catania"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/allenatori/carmelo-di-bella-calcio-catania-allenatore-record-panchine-1958-1977.webp
+  alt_text: Ritratto di Carmelo Di Bella, recordman di panchine nella storia del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "allenatori/index"
-  - "tesserati/allenatori/index"
+- allenatori/index
+- tesserati/allenatori/index
 ---
 # Albo Storico degli Allenatori del Calcio Catania (1929-2027)
 
@@ -77,6 +81,103 @@ Nel corso di quasi un secolo di storia sportiva, oltre cento tecnici si sono alt
 - [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone (2011)]] — Salvezza record e derby vinto 4-0 contro il Palermo.
 - [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella (2011-2012)]] — Calcio spettacolare e record di punti dell'epoca.
 - [[03-tesserati/allenatori/rolando-maran|Rolando Maran (2012-2013)]] — Record assoluto in Serie A: 8º posto con 56 punti.
+
+
+
+### Archivio Monografico Completo delle Guide Tecniche
+Elenco di tutti gli allenatori con scheda monografica dedicata:
+
+- [[03-tesserati/allenatori/achille-piccini|Achille Piccini]]
+- [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]]
+- [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]]
+- [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]]
+- [[03-tesserati/allenatori/aldo-cerantola|Aldo Cerantola]]
+- [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]]
+- [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]]
+- [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]]
+- [[03-tesserati/allenatori/angelo-sormani|Angelo Sormani]]
+- [[03-tesserati/allenatori/antonio-colomban|Antonio Colomban]]
+- [[03-tesserati/allenatori/antonio-renna|Antonio Renna]]
+- [[03-tesserati/allenatori/berardo-frisoni|Berardo Frisoni]]
+- [[03-tesserati/allenatori/blagoje-marjanovic|Blagoje Marjanović]]
+- [[03-tesserati/allenatori/bruno-pace|Bruno Pace]]
+- [[03-tesserati/allenatori/carlo-matteucci|Carlo Matteucci]]
+- [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]]
+- [[03-tesserati/allenatori/cesare-goffi|Cesare Goffi]]
+- [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]]
+- [[03-tesserati/allenatori/dario-marcolin|Dario Marcolin]]
+- [[03-tesserati/allenatori/edoardo-reja|Edoardo Reja]]
+- [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]
+- [[03-tesserati/allenatori/emilio-longo|Emilio Longo]]
+- [[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]]
+- [[03-tesserati/allenatori/ernst-guzsik|Ernst Guzsik]]
+- [[03-tesserati/allenatori/felice-borel|Felice Borel]]
+- [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]]
+- [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]]
+- [[03-tesserati/allenatori/francesco-capocasale|Francesco Capocasale]]
+- [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]]
+- [[03-tesserati/allenatori/francesco-moriero|Francesco Moriero]]
+- [[03-tesserati/allenatori/franco-gagliardi|Franco Gagliardi]]
+- [[03-tesserati/allenatori/franco-indelicato|Franco Indelicato]]
+- [[03-tesserati/allenatori/franco-vannini|Franco Vannini]]
+- [[03-tesserati/allenatori/gabriele-matricciani|Gabriele Matricciani]]
+- [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]]
+- [[03-tesserati/allenatori/giacinto-bavazzano|Giacinto Bavazzano]]
+- [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]]
+- [[03-tesserati/allenatori/gianni-simonelli|Gianni Simonelli]]
+- [[03-tesserati/allenatori/giorgio-armari|Giorgio Armari]]
+- [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]]
+- [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]]
+- [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]]
+- [[03-tesserati/allenatori/giovanni-mei|Giovanni Mei]]
+- [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]]
+- [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]]
+- [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]]
+- [[03-tesserati/allenatori/giuseppe-caramanno|Giuseppe Caramanno]]
+- [[03-tesserati/allenatori/giuseppe-pancaro|Giuseppe Pancaro]]
+- [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]]
+- [[03-tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]]
+- [[03-tesserati/allenatori/giuseppe-sannino|Giuseppe Sannino]]
+- [[03-tesserati/allenatori/ivo-iaconi|Ivo Iaconi]]
+- [[03-tesserati/allenatori/john-toshack|John Toshack]]
+- [[03-tesserati/allenatori/jozsef-banas|József Bánás]]
+- [[03-tesserati/allenatori/lajos-czeizler|Lajos Czeizler]]
+- [[03-tesserati/allenatori/lamberto-leonardi|Lamberto Leonardi]]
+- [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]]
+- [[03-tesserati/allenatori/lorenzo-barlassina|Lorenzo Barlassina]]
+- [[03-tesserati/allenatori/lorenzo-bergia|Lorenzo Bergia]]
+- [[03-tesserati/allenatori/luca-tabbiani|Luca Tabbiani]]
+- [[03-tesserati/allenatori/luigi-de-canio|Luigi De Canio]]
+- [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]
+- [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]]
+- [[03-tesserati/allenatori/mario-magnozzi|Mario Magnozzi]]
+- [[03-tesserati/allenatori/mario-petrone|Mario Petrone]]
+- [[03-tesserati/allenatori/mario-russo|Mario Russo]]
+- [[03-tesserati/allenatori/mario-sernagiotto|Mario Sernagiotto]]
+- [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]]
+- [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]]
+- [[03-tesserati/allenatori/michele-spata|Michele Spata]]
+- [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]]
+- [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]]
+- [[03-tesserati/allenatori/nereo-marini|Nereo Marini]]
+- [[03-tesserati/allenatori/nicola-papa|Nicola Papa]]
+- [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]]
+- [[03-tesserati/allenatori/pier-giuseppe-mosti|Pier Giuseppe Mosti]]
+- [[03-tesserati/allenatori/piero-cucchi|Piero Cucchi]]
+- [[03-tesserati/allenatori/pietro-colombati|Pietro Colombati]]
+- [[03-tesserati/allenatori/pietro-santin|Pietro Santin]]
+- [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]]
+- [[03-tesserati/allenatori/riccardo-carapellese|Riccardo Carapellese]]
+- [[03-tesserati/allenatori/rodolfo-brondi|Rodolfo Brondi]]
+- [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]]
+- [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]]
+- [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]]
+- [[03-tesserati/allenatori/stanislao-klein|Stanislao Klein]]
+- [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]]
+- [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]]
+- [[03-tesserati/allenatori/walter-joackim|Walter Joackim]]
+- [[03-tesserati/allenatori/walter-novellino|Walter Novellino]]
+- [[03-tesserati/allenatori/william-viali|William Viali]]
 
 ## Collegamenti Correlati
 

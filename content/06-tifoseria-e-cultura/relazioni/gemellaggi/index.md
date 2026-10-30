@@ -1,31 +1,32 @@
 ---
-title: "I Gemellaggi Ufficiali della Tifoseria del Catania"
-description: "Dossier storico sui gemellaggi ufficiali e le fratellanze consolidate della tifoseria rossazzurra: Genoa, Crotone, Triestina, Benevento e Trapani."
-slug: "06-tifoseria-e-cultura/relazioni/gemellaggi/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: I Gemellaggi Ufficiali della Tifoseria del Catania
+description: 'Dossier storico sui gemellaggi ufficiali e le fratellanze consolidate
+  della tifoseria rossazzurra: Genoa, Crotone, Triestina, Benevento e Trapani.'
+slug: 06-tifoseria-e-cultura/relazioni/gemellaggi
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "gemellaggi"
-  - "genoa"
-  - "crotone"
-  - "triestina"
-  - "benevento"
-  - "trapani"
-  - "fratellanza"
+- gemellaggi
+- genoa
+- crotone
+- triestina
+- benevento
+- trapani
+- fratellanza
 sources:
-  - author: "Redazione UltrasInside"
-    title: "Gemelli & Rivali (ITALIA) Tifoserie Ultras"
-    publisher: "ultrasinside.it"
-    year: 2022
-    reference: "Censimento dei gemellaggi ufficiali"
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "I patti di fratellanza del tifo rossazzurro"
+- author: Redazione UltrasInside
+  title: Gemelli & Rivali (ITALIA) Tifoserie Ultras
+  publisher: ultrasinside.it
+  year: 2022
+  reference: Censimento dei gemellaggi ufficiali
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: I patti di fratellanza del tifo rossazzurro
 aliases:
-  - "tifoseria/gemellaggi"
+- tifoseria/gemellaggi
 ---
 
 # I Gemellaggi Ufficiali della Tifoseria del Catania

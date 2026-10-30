@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 82
+total_appearances: 86
 seasons_count: 4
 tags:
 - calciatori
@@ -48,8 +48,13 @@ aliases:
 birth_date: '1980-11-07'
 birth_place: Rosario
 citizenship: Argentina
+total_goals: 9
+total_assists: 0
+minutes_played: 6233
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Sergio Bernardo Almiron — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -72,27 +77,27 @@ citizenship: Argentina
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2010–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>82</td>
+        <td>86</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>9</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -124,3 +129,14 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Bernardo Almiron*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Almiron-34](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Almiron-34), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2010-2011 | Centrocampista | 32 | 4 | 0 | 5 | 1 | 2612' |
+| 2011-2012 | Centrocampista | 33 | 4 | 0 | 5 | 0 | 2228' |
+| 2012-2013 | Centrocampista | 13 | 1 | 0 | 1 | 0 | 873' |
+| 2013-2014 | Centrocampista | 8 | 0 | 0 | 3 | 0 | 520' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 86 presenze e 9 reti complessive.*

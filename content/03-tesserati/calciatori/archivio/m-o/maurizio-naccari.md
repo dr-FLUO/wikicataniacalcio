@@ -12,7 +12,7 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1995-1996
-total_appearances: 32
+total_appearances: 33
 league_appearances: 30
 total_goals: 10
 league_goals: 10
@@ -42,8 +42,13 @@ aliases:
 - maurizio-naccari
 - tesserati/maurizio-naccari
 - calciatori/maurizio-naccari
+total_assists: 0
+minutes_played: 2334
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Maurizio Naccari
 
 <div class="nfc-player-hero-card">
@@ -69,11 +74,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -81,7 +86,7 @@ aliases:
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>32</td>
+        <td>33</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -89,7 +94,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -120,3 +125,12 @@ Affiancato a Tiziano D'Isidoro e Pasquale Sanseverino, Naccari fu protagonista d
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 384-388 (Stagione 1995-1996).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1994-1995 | Punta centrale | 33 | 10 | 0 | 0 | 0 | 2334' |
+| 1995-1996 | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 33 presenze e 10 reti complessive.*

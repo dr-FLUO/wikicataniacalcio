@@ -1,28 +1,30 @@
 ---
-title: "08 · Settori Paralleli — Giovanili, Primavera e Catania Women"
-description: "Dossier e archivi dedicati al Settore Giovanile rossazzurro, al Torneo di Viareggio e alla squadra femminile Catania Women (Scudetto 1978 Jolly Componibili)."
-slug: "08-settori-paralleli/index"
+title: 08 · Settori Paralleli — Giovanili, Primavera e Catania Women
+description: Dossier e archivi dedicati al Settore Giovanile rossazzurro, al Torneo
+  di Viareggio e alla squadra femminile Catania Women (Scudetto 1978 Jolly Componibili).
+slug: 08-settori-paralleli
 aliases:
-  - "settori-paralleli"
-  - "settori-paralleli/index"
-entity_type: "section_index"
-status: "verified"
-last_verified_date: "2026-10-28"
+- settori-paralleli
+- settori-paralleli/index
+entity_type: section_index
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "giovanili"
-  - "women"
-  - "primavera"
+- giovanili
+- women
+- primavera
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Albo d'oro formazioni giovanili e campionati interregionali"
-  - author: "Sergio Nunzio Capizzi, Roberto Quartarone"
-    title: "Il cielo è rosa sopra il Cibali"
-    publisher: "Quelli del '46, Catania"
-    year: 2020
-    reference: "Monografia storica sul calcio femminile catanese e lo Scudetto 1978"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Albo d'oro formazioni giovanili e campionati interregionali
+- author: Sergio Nunzio Capizzi, Roberto Quartarone
+  title: Il cielo è rosa sopra il Cibali
+  publisher: Quelli del '46, Catania
+  year: 2020
+  reference: Monografia storica sul calcio femminile catanese e lo Scudetto 1978
 ---
 
 # Settori Paralleli: Giovanili & Catania Women

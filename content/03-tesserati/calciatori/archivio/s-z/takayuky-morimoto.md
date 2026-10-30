@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 86
+total_appearances: 98
 seasons_count: 6
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - takayuky-morimoto
 - tesserati/takayuky-morimoto
 - calciatori/takayuky-morimoto
+total_goals: 20
+total_assists: 8
+minutes_played: 4898
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Takayuky Morimoto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2005–2012</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>86</td>
+        <td>98</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>20</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>8</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Takayuky Morimoto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Morimoto-54](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Morimoto-54), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2005-2006 | Punta centrale | 5 | 1 | 0 | 0 | 0 | 61' |
+| 2006-2007 | Punta centrale | 17 | 2 | 1 | 3 | 0 | 485' |
+| 2007-2008 | Punta centrale | 24 | 9 | 3 | 4 | 0 | 1675' |
+| 2008-2009 | Punta centrale | 31 | 6 | 3 | 3 | 1 | 1844' |
+| 2009-2010 | Punta centrale | 13 | 2 | 0 | 3 | 1 | 573' |
+| 2011-2012 | Punta centrale | 8 | 0 | 1 | 0 | 0 | 260' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 98 presenze e 20 reti complessive.*

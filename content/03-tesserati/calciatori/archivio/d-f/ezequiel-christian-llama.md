@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 92
-seasons_count: 7
+total_appearances: 105
+seasons_count: 8
 tags:
 - calciatori
 - ezequiel-christian-llama
@@ -38,8 +38,13 @@ aliases:
 - ezequiel-christian-llama
 - tesserati/ezequiel-christian-llama
 - calciatori/ezequiel-christian-llama
+total_goals: 3
+total_assists: 10
+minutes_played: 4369
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Ezequiel Christian  Llama — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2006–2019</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>92</td>
+        <td>105</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>3</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>10</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,18 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ezequiel Christian  Llama*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Llama-24](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Llama-24), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2006-2007 | Trequartista | 1 | 0 | 0 | 0 | 0 | 45' |
+| 2007-2008 | Trequartista | 17 | 0 | 2 | 1 | 0 | 577' |
+| 2008-2009 | Trequartista | 25 | 2 | 1 | 6 | 0 | 1502' |
+| 2009-2010 | Trequartista | 16 | 1 | 4 | 4 | 0 | 588' |
+| 2010-2011 | Trequartista | 17 | 0 | 2 | 0 | 0 | 420' |
+| 2011-2012 | Trequartista | 0 | 0 | 0 | 0 | 0 | 0' |
+| 2017-2018 | Trequartista | 15 | 0 | 1 | 3 | 0 | 601' |
+| 2018-2019 | Trequartista | 14 | 0 | 0 | 3 | 0 | 636' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 105 presenze e 3 reti complessive.*

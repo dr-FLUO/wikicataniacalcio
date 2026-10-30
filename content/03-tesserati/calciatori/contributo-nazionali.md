@@ -41,6 +41,56 @@ aliases:
 
 # Il Contributo del Catania alle Nazionali di Calcio (1929–Oggi)
 
+<div class="nfc-player-hero-card">
+  <table class="nfc-player-table">
+    <tbody>
+      <tr>
+        <td class="nfc-player-photo-cell" rowspan="9">
+          <div class="nfc-player-no-photo">
+        <span class="nfc-no-photo-badge">ND</span>
+        <span class="nfc-no-photo-label">Nessuna foto</span>
+      </div>
+        </td>
+        <th>Nome e cognome</th>
+        <td>Il Contributo del Catania alle Nazionali di Calcio (1929–Oggi)</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Altezza</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1929–2010</td>
+      </tr>
+      <tr>
+        <th>Presenze totali</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Goal totali</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Assist totali</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
 Nel corso della sua storia quasi centenaria, il **Calcio Catania** ha fornito numerosi atleti di primo piano sia alla **Nazionale italiana** sia alle selezioni maggiori e giovanili di quattro continenti (Europa, Sud America, Africa e Asia).
 
 Il punto di massimo splendore si è registrato durante il ciclo aureo in Serie A (2006–2014), culminato con le qualificazioni e la fase finale della **Coppa del Mondo FIFA Sudafrica 2010**, torneo che vide ben cinque tesserati o futuri protagonisti rossazzurri convocati dalle rispettive rappresentative.

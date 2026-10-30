@@ -14,9 +14,9 @@ nationality: Ungheria
 role: Attaccante / Ala destra
 catania_periods:
 - 1955-1957
-total_appearances: 60
+total_appearances: 72
 league_appearances: 60
-total_goals: 10
+total_goals: 15
 league_goals: 10
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
@@ -44,8 +44,13 @@ aliases:
 - guido-spikofski
 - tesserati/guido-spikofski
 - calciatori/guido-spikofski
+total_assists: 0
+minutes_played: 6480
+seasons_count: 3
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Guido Spikofski
 
 <div class="nfc-player-hero-card">
@@ -71,11 +76,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -83,15 +88,15 @@ aliases:
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>60</td>
+        <td>72</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>10</td>
+        <td>15</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -122,3 +127,13 @@ Capace di saltare l'avversario con finte fulminee e di crossare con precisione m
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 164-173 (Stagioni 1955-1956 e 1956-1957).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1953-1954 | Trequartista | 27 | 6 | 0 | 0 | 0 | 2430' |
+| 1954-1955 | Trequartista | 29 | 7 | 0 | 0 | 0 | 2610' |
+| 1955-1956 | Trequartista | 16 | 2 | 0 | 0 | 0 | 1440' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 72 presenze e 15 reti complessive.*

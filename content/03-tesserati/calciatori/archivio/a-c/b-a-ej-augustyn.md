@@ -11,8 +11,8 @@ birth_date: '1988-01-26'
 birth_place: Strzelin
 death_date: ''
 nationality: Polonia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 22
+seasons_count: 4
 tags:
 - calciatori
 - b-a-ej-augustyn
@@ -36,8 +36,13 @@ aliases:
 - tesserati/b-a-ej-augustyn
 - calciatori/b-a-ej-augustyn
 citizenship: Polonia
+total_goals: 0
+total_assists: 0
+minutes_played: 1458
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Błażej Augustyn — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Polonia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2008–2012</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>22</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Polonia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,13 @@ Nato a Strzelin (1988-01-26), Błażej Augustyn ha militato tra le file della fo
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2008-2009 | Difensore centrale | 14 | 0 | 0 | 7 | 0 | 937' |
+| 2009-2010 | Difensore centrale | 7 | 0 | 0 | 0 | 0 | 490' |
+| 2010-2011 | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| 2011-2012 | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 31' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 22 presenze e 0 reti complessive.*

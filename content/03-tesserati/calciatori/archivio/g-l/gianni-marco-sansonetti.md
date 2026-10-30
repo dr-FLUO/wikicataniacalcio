@@ -11,8 +11,8 @@ birth_date: '1965-01-28'
 birth_place: Chieti
 death_date: ''
 nationality: Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 8
+seasons_count: 2
 tags:
 - calciatori
 - gianni-marco-sansonetti
@@ -36,8 +36,13 @@ aliases:
 - tesserati/gianni-marco-sansonetti
 - calciatori/gianni-marco-sansonetti
 citizenship: Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 609
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Gianni Marco Sansonetti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2000–2002</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>8</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -97,3 +102,11 @@ Nato a Chieti (1965-01-28), Gianni Marco Sansonetti ha militato tra le file dell
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2000-2001 | Portiere | 6 | 0 | 0 | 1 | 0 | 429' |
+| 2001-2002 | Portiere | 2 | 0 | 0 | 1 | 0 | 180' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 8 presenze e 0 reti complessive.*

@@ -11,8 +11,8 @@ birth_date: '1983-04-05'
 birth_place: Montevideo
 death_date: ''
 nationality: Uruguay
-total_appearances: 10
-seasons_count: 1
+total_appearances: 29
+seasons_count: 4
 tags:
 - calciatori
 - jorge-andres-martinez
@@ -36,8 +36,13 @@ aliases:
 - tesserati/jorge-andres-martinez
 - calciatori/jorge-andres-martinez
 citizenship: Uruguay
+total_goals: 0
+total_assists: 0
+minutes_played: 2587
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Jorge Andrés Martínez — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Uruguay
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2015–2020</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>29</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Uruguay
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,13 @@ Nato a Montevideo (1983-04-05), Jorge Andrés Martínez ha militato tra le file 
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2015-2016 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| 2016-2017 | Portiere | 3 | 0 | 0 | 1 | 0 | 217' |
+| 2018-2019 | Portiere | 8 | 0 | 0 | 2 | 0 | 720' |
+| 2019-2020 | Portiere | 18 | 0 | 0 | 3 | 0 | 1650' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 29 presenze e 0 reti complessive.*

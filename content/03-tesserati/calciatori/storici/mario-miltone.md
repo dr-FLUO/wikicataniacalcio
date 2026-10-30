@@ -64,8 +64,10 @@ aliases:
 - tesserati/mario-miltone
 - calciatori/mario-miltone
 citizenship: Italia
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Mario Miltone (1934–1937)
 
 <div class="nfc-player-hero-card">
@@ -88,11 +90,11 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -108,7 +110,7 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

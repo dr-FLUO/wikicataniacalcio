@@ -2,7 +2,7 @@
 title: Tifoseria e Cultura Rossazzurra
 description: Hub enciclopedico del movimento ultras, della cultura di gradinata, dei
   grandi eventi e della mitologia popolare del Calcio Catania dal 1929 a oggi.
-slug: 06-tifoseria-e-cultura/index
+slug: 06-tifoseria-e-cultura
 entity_type: thematic_hub
 status: verified
 last_verified_date: 2026-10-29
@@ -34,7 +34,6 @@ sources:
   reference: Antropologia del tifo catanese
 aliases:
 - tifoseria
-- 06-tifoseria-e-cultura
 - tifoseria/index
 ---
 

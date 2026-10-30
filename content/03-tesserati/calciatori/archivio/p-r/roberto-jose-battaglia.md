@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 37
-seasons_count: 2
+total_appearances: 12
+seasons_count: 1
 tags:
 - calciatori
 - roberto-jose-battaglia
@@ -40,8 +40,13 @@ aliases:
 birth_date: '1940-11-10'
 birth_place: San Paolo
 citizenship: Brasile
+total_goals: 4
+total_assists: 0
+minutes_played: 1080
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Roberto Jose Battaglia — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,27 +72,27 @@ citizenship: Brasile
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1998–1999</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>37</td>
+        <td>12</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>4</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -117,3 +122,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Jose Battaglia*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-656](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-656), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1998-1999 | Centrocampo | 12 | 4 | 0 | 2 | 0 | 1080' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 12 presenze e 4 reti complessive.*

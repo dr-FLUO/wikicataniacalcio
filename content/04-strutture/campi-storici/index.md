@@ -1,43 +1,47 @@
 ---
-title: "I Campi Storici Pionieristici del Calcio Catania (1929–1937)"
-description: "Monografia storica sui terreni di gioco delle origini prima dell'inaugurazione del Cibali nel 1937: il Campo dei Due Obelischi e il Campo di Piazza Esposizione (Piazza Verga)."
-slug: "04-strutture/campi-storici/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: I Campi Storici Pionieristici del Calcio Catania (1929–1937)
+description: 'Monografia storica sui terreni di gioco delle origini prima dell''inaugurazione
+  del Cibali nel 1937: il Campo dei Due Obelischi e il Campo di Piazza Esposizione
+  (Piazza Verga).'
+slug: 04-strutture/campi-storici
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-30
 tags:
-  - "campi-storici"
-  - "piazza-esposizione"
-  - "campo-due-obelischi"
-  - "origini-1929"
-  - "ss-catania"
-  - "strutture"
-  - "archeologia-sportiva"
+- campi-storici
+- piazza-esposizione
+- campo-due-obelischi
+- origini-1929
+- ss-catania
+- strutture
+- archeologia-sportiva
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "pp. 14-68 (Le origini del 1929, Due Obelischi e tabellini completi a Piazza Esposizione fino al 1937)"
-  - author: "Carmelo Gennaro, Luigi Prestinenza"
-    title: "Dal fondo... ai vertici. 1908-1958: Cinquant'anni di calcio a Catania"
-    publisher: "Industrie Grafiche Siciliane, Catania"
-    year: 1958
-    reference: "I campi sportivi delle origini: Piazza Esposizione e Due Obelischi"
-  - author: "Archivio Storico Mimmo Rapisarda"
-    title: "29 Settembre 1929: Il debutto della maglia rossazzurra ai Due Obelischi"
-    publisher: "mimmorapisarda.it"
-    year: 2010
-    reference: "Sezione Origini e Campi Storici"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: pp. 14-68 (Le origini del 1929, Due Obelischi e tabellini completi a
+    Piazza Esposizione fino al 1937)
+- author: Carmelo Gennaro, Luigi Prestinenza
+  title: 'Dal fondo... ai vertici. 1908-1958: Cinquant''anni di calcio a Catania'
+  publisher: Industrie Grafiche Siciliane, Catania
+  year: 1958
+  reference: 'I campi sportivi delle origini: Piazza Esposizione e Due Obelischi'
+- author: Archivio Storico Mimmo Rapisarda
+  title: '29 Settembre 1929: Il debutto della maglia rossazzurra ai Due Obelischi'
+  publisher: mimmorapisarda.it
+  year: 2010
+  reference: Sezione Origini e Campi Storici
 aliases:
-  - "strutture/campi-storici"
-  - "stadio/campi-storici"
-  - "04-strutture/campi-storici/campo-due-obelischi"
-  - "stadio/campo-due-obelischi"
-  - "campo-due-obelischi"
-  - "04-strutture/campi-storici/piazza-esposizione"
-  - "stadio/piazza-esposizione"
-  - "piazza-esposizione"
+- strutture/campi-storici
+- stadio/campi-storici
+- 04-strutture/campi-storici/campo-due-obelischi
+- stadio/campo-due-obelischi
+- campo-due-obelischi
+- 04-strutture/campi-storici/piazza-esposizione
+- stadio/piazza-esposizione
+- piazza-esposizione
 ---
 
 # I Campi Storici Pionieristici del Calcio Catania (1929–1937)

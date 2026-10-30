@@ -13,10 +13,10 @@ role: Centrocampista / Mediano
 shirt_number: 4
 catania_periods:
 - 1979–1980
-total_appearances: 32
+total_appearances: 0
 league_appearances: 32
 serie_a_appearances: 0
-total_goals: 1
+total_goals: 0
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
 image_credits:
@@ -57,8 +57,13 @@ aliases:
 - loris-boni
 - tesserati/loris-boni
 - calciatori/loris-boni
+total_assists: 0
+minutes_played: 0
+seasons_count: 1
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Loris Boni (1979–1980)
 
 <div class="nfc-player-hero-card">
@@ -81,11 +86,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -97,11 +102,11 @@ aliases:
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>1</td>
+        <td>0</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -117,3 +122,11 @@ aliases:
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 * *Almanacco Illustrato del Calcio*, Panini Edizioni, Modena.
 * [CalcioCatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2018-2019 | Terzino sinistro | 0 | 0 | 0 | 0 | 0 | 0' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*

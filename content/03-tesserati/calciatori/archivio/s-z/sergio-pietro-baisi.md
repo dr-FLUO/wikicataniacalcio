@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 93
+total_appearances: 102
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - sergio-pietro-baisi
 - tesserati/sergio-pietro-baisi
 - calciatori/sergio-pietro-baisi
+total_goals: 20
+total_assists: 0
+minutes_played: 8728
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Sergio Pietro Baisi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1965–1971</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>93</td>
+        <td>102</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>20</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Pietro Baisi*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baisi-587](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baisi-587), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1965-1966 | Punta centrale | 35 | 9 | 0 | 0 | 0 | 3150' |
+| 1969-1970 | Punta centrale | 31 | 4 | 0 | 0 | 0 | 2637' |
+| 1970-1971 | Punta centrale | 36 | 7 | 0 | 0 | 0 | 2941' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 102 presenze e 20 reti complessive.*

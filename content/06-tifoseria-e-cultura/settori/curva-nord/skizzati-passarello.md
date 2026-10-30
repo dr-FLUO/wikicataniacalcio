@@ -1,35 +1,34 @@
 ---
-title: "Skizzati Passarello (Curva Nord)"
-description: "Dossier sul gruppo Skizzati Passarello della Curva Nord: identità rionale tra Picanello, Ognina e centro storico, militanza e coerenza ultras."
-slug: "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
-entity_type: "gruppo_ultras"
+title: Skizzati Passarello (Curva Nord)
+description: 'Dossier sul gruppo Skizzati Passarello della Curva Nord: identità rionale
+  tra Picanello, Ognina e centro storico, militanza e coerenza ultras.'
+slug: 06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello
+entity_type: gruppo_ultras
 foundation_year: 2004
-origin_district: "Rione Passarello (tra Picanello, Ognina e Centro, Catania)"
-stadium_sector: "Curva Nord"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
-status: "verified"
+origin_district: Rione Passarello (tra Picanello, Ognina e Centro, Catania)
+stadium_sector: Curva Nord
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "skizzati-passarello"
-  - "passarello"
-  - "curva-nord"
-  - "picanello"
-  - "clan-rionali"
+- skizzati-passarello
+- passarello
+- curva-nord
+- picanello
+- clan-rionali
 sources:
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Skizzati Passarello nella mappa dei gruppi rionali"
-  - author: "MeridioNews"
-    title: "Il Catania e i leader che comandano dentro le curve"
-    publisher: "meridionews.it"
-    year: 2016
-    reference: "Il ruolo di Skizzati Passarello nel blocco no-tessera"
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Skizzati Passarello nella mappa dei gruppi rionali
+- author: MeridioNews
+  title: Il Catania e i leader che comandano dentro le curve
+  publisher: meridionews.it
+  year: 2016
+  reference: Il ruolo di Skizzati Passarello nel blocco no-tessera
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
-  - "06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello"
-  - "tifoseria/curva-nord/skizzati-passarello"
+- tifoseria/curva-nord/skizzati-passarello
 ---
 
 # Skizzati Passarello (Curva Nord)

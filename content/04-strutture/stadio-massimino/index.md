@@ -2,7 +2,7 @@
 title: Stadio Angelo Massimino (Stadio Cibali) e Centro Tecnico
 description: Dossier monografico sullo Stadio Cibali inaugurato nel 1937, intitolato
   ad Angelo Massimino nel 2002, e sul centro sportivo di Torre del Grifo.
-slug: 04-strutture/stadio-massimino/index
+slug: 04-strutture/stadio-massimino
 entity_type: thematic_dossier
 status: verified
 last_verified_date: 2026-10-28

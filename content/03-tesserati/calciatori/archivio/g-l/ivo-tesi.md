@@ -40,8 +40,10 @@ aliases:
 birth_date: '1919-05-14'
 birth_place: Pistoia
 citizenship: Italia
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Ivo Tesi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,15 +69,15 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>1919–2024</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -83,11 +85,11 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

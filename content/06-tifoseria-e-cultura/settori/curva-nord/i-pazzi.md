@@ -1,36 +1,35 @@
 ---
-title: "I Pazzi Rossazzurri (1999)"
-description: "Dossier storico sul gruppo I Pazzi (I Pazzi Rossazzurri), fondato nel 1999 in Curva Nord: radicamento in Corso Indipendenza e San Leone, stile e militanza."
-slug: "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
-entity_type: "gruppo_ultras"
+title: I Pazzi Rossazzurri (1999)
+description: 'Dossier storico sul gruppo I Pazzi (I Pazzi Rossazzurri), fondato nel
+  1999 in Curva Nord: radicamento in Corso Indipendenza e San Leone, stile e militanza.'
+slug: 06-tifoseria-e-cultura/settori/curva-nord/i-pazzi
+entity_type: gruppo_ultras
 foundation_year: 1999
-origin_district: "Corso Indipendenza e Quartiere San Leone (Catania)"
-stadium_sector: "Curva Nord"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
-status: "verified"
+origin_district: Corso Indipendenza e Quartiere San Leone (Catania)
+stadium_sector: Curva Nord
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "i-pazzi"
-  - "i-pazzi-rossazzurri"
-  - "curva-nord"
-  - "san-leone"
-  - "corso-indipendenza"
-  - "torciate"
+- i-pazzi
+- i-pazzi-rossazzurri
+- curva-nord
+- san-leone
+- corso-indipendenza
+- torciate
 sources:
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Nascita e presenze del gruppo I Pazzi"
-  - author: "MeridioNews"
-    title: "Il Catania e i leader che comandano dentro le curve"
-    publisher: "meridionews.it"
-    year: 2016
-    reference: "Mappatura territoriale del gruppo tra San Leone e Corso Indipendenza"
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Nascita e presenze del gruppo I Pazzi
+- author: MeridioNews
+  title: Il Catania e i leader che comandano dentro le curve
+  publisher: meridionews.it
+  year: 2016
+  reference: Mappatura territoriale del gruppo tra San Leone e Corso Indipendenza
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
-  - "06-tifoseria-e-cultura/settori/curva-nord/i-pazzi"
-  - "tifoseria/curva-nord/i-pazzi"
+- tifoseria/curva-nord/i-pazzi
 ---
 
 # I Pazzi Rossazzurri (1999)

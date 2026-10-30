@@ -39,8 +39,10 @@ aliases:
 - tesserati/marius-adamonis
 - calciatori/marius-adamonis
 seasons_count: 1
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Marius Adamonis — Portiere della Nazionale Lituana e del Catania FC
 
 <div class="nfc-player-hero-card">
@@ -63,11 +65,11 @@ seasons_count: 1
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -83,7 +85,7 @@ seasons_count: 1
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

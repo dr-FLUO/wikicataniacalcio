@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 76
+total_appearances: 83
 seasons_count: 4
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - maximiliano-gastòn-lopez
 - tesserati/maximiliano-gastòn-lopez
 - calciatori/maximiliano-gastòn-lopez
+total_goals: 27
+total_assists: 8
+minutes_played: 6074
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Maximiliano Gastòn  Lopez — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2008–2013</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>76</td>
+        <td>83</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>27</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>8</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,14 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maximiliano Gastòn  Lopez*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Lopez-27](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Lopez-27), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2008-2009 | Punta centrale | 17 | 11 | 2 | 4 | 0 | 1407' |
+| 2009-2010 | Punta centrale | 37 | 10 | 3 | 6 | 0 | 2930' |
+| 2010-2011 | Punta centrale | 16 | 5 | 1 | 0 | 0 | 1054' |
+| 2012-2013 | Punta centrale | 13 | 1 | 2 | 1 | 0 | 683' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 83 presenze e 27 reti complessive.*

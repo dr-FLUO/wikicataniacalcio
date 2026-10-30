@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 67
+total_appearances: 69
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - igor-marziano
 - tesserati/igor-marziano
 - calciatori/igor-marziano
+total_goals: 10
+total_assists: 1
+minutes_played: 5810
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Igor Marziano — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1997–2000</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>67</td>
+        <td>69</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>10</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Igor Marziano*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marziano-209](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marziano-209), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1997-1998 | Esterno di sinistra | 28 | 4 | 0 | 0 | 0 | 2210' |
+| 1998-1999 | Esterno di sinistra | 28 | 6 | 0 | 8 | 0 | 2430' |
+| 1999-2000 | Esterno di sinistra | 13 | 0 | 1 | 4 | 0 | 1170' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 69 presenze e 10 reti complessive.*

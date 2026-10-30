@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 17
+total_appearances: 22
 seasons_count: 4
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - blazej-augustyn
 - tesserati/blazej-augustyn
 - calciatori/blazej-augustyn
+total_goals: 0
+total_assists: 0
+minutes_played: 1458
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Blazej  Augustyn — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2008–2012</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>17</td>
+        <td>22</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -82,7 +87,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,14 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Blazej  Augustyn*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Augustyn-4](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Augustyn-4), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2008-2009 | Difensore centrale | 14 | 0 | 0 | 7 | 0 | 937' |
+| 2009-2010 | Difensore centrale | 7 | 0 | 0 | 0 | 0 | 490' |
+| 2010-2011 | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| 2011-2012 | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 31' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 22 presenze e 0 reti complessive.*

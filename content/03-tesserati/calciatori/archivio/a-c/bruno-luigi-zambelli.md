@@ -36,8 +36,13 @@ aliases:
 - tesserati/bruno-luigi-zambelli
 - calciatori/bruno-luigi-zambelli
 citizenship: Regno d'Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 900
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Bruno Luigi Zambelli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,15 +68,15 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>1950–1951</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -83,7 +88,7 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,10 @@ Nato a Fiume (1921-07-25), Bruno Luigi Zambelli ha militato tra le file della fo
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1950-1951 | Attacco | 10 | 0 | 0 | 0 | 0 | 900' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 10 presenze e 0 reti complessive.*

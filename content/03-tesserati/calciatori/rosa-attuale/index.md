@@ -2,7 +2,7 @@
 title: Rosa Ufficiale Catania Football Club (2026–2027)
 description: Organigramma tecnico con Emilio Longo, ruoli, numeri di maglia e schede
   biografiche ufficiali dei calciatori del Catania FC in Serie C (Girone C).
-slug: 03-tesserati/calciatori/rosa-attuale/index
+slug: 03-tesserati/calciatori/rosa-attuale
 entity_type: section_index
 status: verified
 last_verified_date: '2026-10-28'

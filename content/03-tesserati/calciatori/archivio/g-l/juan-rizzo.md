@@ -11,8 +11,8 @@ birth_date: '1906-07-06'
 birth_place: Buenos Aires
 death_date: ''
 nationality: Argentina
-total_appearances: 10
-seasons_count: 1
+total_appearances: 114
+seasons_count: 6
 tags:
 - calciatori
 - juan-rizzo
@@ -36,8 +36,13 @@ aliases:
 - tesserati/juan-rizzo
 - calciatori/juan-rizzo
 citizenship: Argentina
+total_goals: 5
+total_assists: 8
+minutes_played: 7824
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Juan Rizzo — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,27 +68,27 @@ citizenship: Argentina
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1936–2023</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>114</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>8</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,15 @@ Nato a Buenos Aires (1906-07-06), Juan Rizzo ha militato tra le file della forma
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1936-1937 | Centrocampo | 1 | 1 | 0 | 0 | 0 | 90' |
+| 2016-2017 | Centrocampista | 20 | 1 | 3 | 2 | 0 | 1003' |
+| 2017-2018 | Centrocampista | 28 | 0 | 2 | 9 | 0 | 1888' |
+| 2018-2019 | Centrocampista | 25 | 0 | 0 | 5 | 2 | 1577' |
+| 2021-2022 | Centrocampista | 34 | 3 | 2 | 6 | 0 | 2969' |
+| 2022-2023 | Centrocampista | 6 | 0 | 1 | 1 | 0 | 297' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 114 presenze e 5 reti complessive.*

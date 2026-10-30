@@ -1,37 +1,37 @@
 ---
-title: "A Sostegno di una Fede (1993)"
-description: "Dossier storico sul gruppo ultras A Sostegno di una Fede: la nascita dopo la radiazione del 1993, la guida di Michele Spampinato e l'egemonia in Curva Nord."
-slug: "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
-entity_type: "gruppo_ultras"
+title: A Sostegno di una Fede (1993)
+description: 'Dossier storico sul gruppo ultras A Sostegno di una Fede: la nascita
+  dopo la radiazione del 1993, la guida di Michele Spampinato e l''egemonia in Curva
+  Nord.'
+slug: 06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede
+entity_type: gruppo_ultras
 foundation_year: 1993
-founder: "Michele Spampinato e Collettivo Militante della Nord"
-origin_district: "Via Belfiore / San Cristoforo e Centro Storico (Catania)"
-stadium_sector: "Curva Nord"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
-status: "verified"
+founder: Michele Spampinato e Collettivo Militante della Nord
+origin_district: Via Belfiore / San Cristoforo e Centro Storico (Catania)
+stadium_sector: Curva Nord
+stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "a-sostegno-di-una-fede"
-  - "curva-nord"
-  - "michele-spampinato"
-  - "radiazione-1993"
-  - "no-tessera"
-  - "quando-saremo-tutti-nella-nord"
+- a-sostegno-di-una-fede
+- curva-nord
+- michele-spampinato
+- radiazione-1993
+- no-tessera
+- quando-saremo-tutti-nella-nord
 sources:
-  - author: "Luigi Pulvirenti, Michele Spampinato"
-    title: "Quando saremo tutti nella Nord"
-    publisher: "Euno Edizioni / Eclettica"
-    year: 2014
-    reference: "Genesi, etica e cronache di A Sostegno di una Fede"
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "Il ruolo della Curva Nord negli anni '90 e 2000"
+- author: Luigi Pulvirenti, Michele Spampinato
+  title: Quando saremo tutti nella Nord
+  publisher: Euno Edizioni / Eclettica
+  year: 2014
+  reference: Genesi, etica e cronache di A Sostegno di una Fede
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: Il ruolo della Curva Nord negli anni '90 e 2000
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
-  - "06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede"
-  - "tifoseria/curva-nord/a-sostegno-di-una-fede"
+- tifoseria/curva-nord/a-sostegno-di-una-fede
 ---
 
 # A Sostegno di una Fede (1993)

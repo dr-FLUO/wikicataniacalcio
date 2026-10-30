@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 31
+total_appearances: 76
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - francesco-bassetti
 - tesserati/francesco-bassetti
 - calciatori/francesco-bassetti
+total_goals: 24
+total_assists: 0
+minutes_played: 6750
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Francesco Bassetti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1952–1955</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>31</td>
+        <td>76</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>24</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Bassetti*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bassetti-714](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bassetti-714), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1952-1953 | Centrocampo | 31 | 11 | 0 | 0 | 0 | 2790' |
+| 1953-1954 | Centrocampo | 15 | 3 | 0 | 0 | 1 | 1260' |
+| 1954-1955 | Centrocampo | 30 | 10 | 0 | 0 | 0 | 2700' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 76 presenze e 24 reti complessive.*

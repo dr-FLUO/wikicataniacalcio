@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 256
+total_appearances: 258
 seasons_count: 10
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - mariano-julio-izco
 - tesserati/mariano-julio-izco
 - calciatori/mariano-julio-izco
+total_goals: 7
+total_assists: 16
+minutes_played: 17190
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Mariano Julio  Izco — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2005–2021</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>256</td>
+        <td>258</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>7</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>16</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,20 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mariano Julio  Izco*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Izco-21](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Izco-21), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2005-2006 | Centrocampista | 19 | 0 | 1 | 2 | 0 | 1031' |
+| 2006-2007 | Centrocampista | 39 | 1 | 2 | 5 | 0 | 2539' |
+| 2007-2008 | Centrocampista | 30 | 0 | 4 | 1 | 1 | 1697' |
+| 2008-2009 | Centrocampista | 36 | 1 | 4 | 1 | 0 | 2414' |
+| 2009-2010 | Centrocampista | 19 | 0 | 1 | 0 | 0 | 1070' |
+| 2010-2011 | Centrocampista | 25 | 1 | 0 | 3 | 0 | 2162' |
+| 2011-2012 | Centrocampista | 37 | 1 | 2 | 3 | 0 | 2966' |
+| 2012-2013 | Centrocampista | 30 | 3 | 2 | 3 | 0 | 2366' |
+| 2019-2020 | Centrocampista | 22 | 0 | 0 | 0 | 0 | 855' |
+| 2020-2021 | Centrocampista | 1 | 0 | 0 | 0 | 0 | 90' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 258 presenze e 7 reti complessive.*

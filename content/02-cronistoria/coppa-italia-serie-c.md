@@ -30,7 +30,6 @@ aliases:
 - cronistoria/coppa-italia-serie-c
 - coppa-italia-serie-c
 - coppa-italia/2023-2024
-- 02-cronistoria/coppa-italia-serie-c
 image_credits:
 - image_path: assets/images/maglie-e-simboli/coccarda-coppa-italia-serie-c.png
   alt_text: Coccarda tricolore ufficiale della Coppa Italia Serie C vinta dal Catania

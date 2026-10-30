@@ -1,57 +1,177 @@
-with open("quartz/styles/custom.scss", "r", encoding="utf-8") as f:
-    text = f.read()
+path = 'quartz/styles/custom.scss'
+with open(path, 'r', encoding='utf-8') as f:
+    c = f.read()
 
-old_block = """.nfc-masthead__actions {
-  display: flex;
-  align-items: center;
-  gap: 0.65rem;
-  padding: 0.45rem 0.85rem;
-  border-right: 1px solid var(--wiki-border-hairline);
-}"""
-
-new_block = """.nfc-masthead__actions {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: flex-end;
-  gap: 0.25rem;
-  padding: 0.35rem 0.85rem;
-  border-right: 1px solid var(--wiki-border-hairline);
-}
-
-.nfc-update-meta {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  font-family: var(--font-mono, monospace);
-  font-size: 0.68rem;
-  font-weight: 600;
-  color: #10b981;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
-
-  &__dot {
-    width: 6px;
-    height: 6px;
-    background-color: #10b981;
-    border-radius: 50%;
-    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
-    animation: cataniaPulse 2s infinite;
+# Make footer more compact
+old_footer = """  .footer-compliance-box {
+    background-color: var(--wiki-surface-elevated);
+    border: 1px solid var(--wiki-border-subtle);
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.85rem;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.04);
   }
 
-  &__text {
-    line-height: 1;
+  .footer-kicker {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    color: var(--rossazzurro-red) !important;
+    margin-bottom: 0.15rem;
+    text-transform: uppercase;
   }
-}
 
-:root[saved-theme="dark"] .nfc-update-meta {
-  color: #34d399;
-}"""
+  .footer-brand {
+    font-family: var(--font-display);
+    font-size: 1.05rem;
+    font-weight: 900;
+    letter-spacing: 0.02em;
+    margin: 0 0 0.35rem 0;
+    color: #111111 !important;
+    line-height: 1.25;
 
-if old_block in text:
-    text = text.replace(old_block, new_block, 1)
-    with open("quartz/styles/custom.scss", "w", encoding="utf-8", newline="\r\n") as f:
-        f.write(text)
-    print("SUCCESS: custom.scss updated")
-else:
-    print("WARNING: old_block not found")
+    strong {
+      color: #000000 !important;
+      font-weight: 900;
+    }
+  }
+
+  .footer-legal-notice {
+    margin: 0;
+    font-size: 0.73rem;
+    line-height: 1.45;
+    color: #333333 !important;
+
+    strong {
+      color: #111111 !important;
+      font-weight: 700;
+    }
+
+    em {
+      font-style: italic;
+      color: #222222 !important;
+    }
+  }
+
+  .footer-beta-notice {
+    margin: 0.45rem 0 0 0;
+    padding-top: 0.4rem;
+    border-top: 1px dashed var(--wiki-border-hairline);
+    font-size: 0.71rem;
+    line-height: 1.4;
+    color: #333333 !important;"""
+
+new_footer = """  .footer-compliance-box {
+    background-color: var(--wiki-surface-elevated);
+    border: 1px solid var(--wiki-border-subtle);
+    padding: 0.45rem 0.75rem;
+    margin-bottom: 0.5rem;
+    box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.04);
+  }
+
+  .footer-kicker {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 0.65rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    color: var(--rossazzurro-red) !important;
+    margin-bottom: 0.1rem;
+    text-transform: uppercase;
+  }
+
+  .footer-brand {
+    font-family: var(--font-display);
+    font-size: 0.88rem;
+    font-weight: 900;
+    letter-spacing: 0.02em;
+    margin: 0 0 0.2rem 0;
+    color: #111111 !important;
+    line-height: 1.2;
+
+    strong {
+      color: #000000 !important;
+      font-weight: 900;
+    }
+  }
+
+  .footer-legal-notice {
+    margin: 0;
+    font-size: 0.65rem;
+    line-height: 1.35;
+    color: #333333 !important;
+
+    strong {
+      color: #111111 !important;
+      font-weight: 700;
+    }
+
+    em {
+      font-style: italic;
+      color: #222222 !important;
+    }
+  }
+
+  .footer-beta-notice {
+    margin: 0.25rem 0 0 0;
+    padding-top: 0.25rem;
+    border-top: 1px dashed var(--wiki-border-hairline);
+    font-size: 0.63rem;
+    line-height: 1.3;
+    color: #333333 !important;"""
+
+c = c.replace(old_footer.replace('\r\n', '\n'), new_footer)
+c = c.replace(old_footer, new_footer)
+
+old_grid = """    h2, h3 {
+      font-family: var(--font-display, "Big Shoulders Display", sans-serif) !important;
+      font-size: 0.95rem !important;
+      font-weight: 800 !important;
+      letter-spacing: 0.04em !important;
+      text-transform: uppercase;
+      margin: 0 0 0.5rem 0 !important;
+      padding-bottom: 0.25rem;
+      border-bottom: 2px solid var(--rossazzurro-red, #d32f2f);
+      color: var(--wiki-text-primary, #111111) !important;
+
+      a.internal {
+        display: none !important;
+      }
+    }
+
+    ul, ol {
+      font-size: 0.78rem !important;
+      line-height: 1.45 !important;
+      margin: 0 !important;
+      padding-left: 1.15rem !important;"""
+
+new_grid = """    h2, h3 {
+      font-family: var(--font-display, "Big Shoulders Display", sans-serif) !important;
+      font-size: 0.80rem !important;
+      font-weight: 800 !important;
+      letter-spacing: 0.04em !important;
+      text-transform: uppercase;
+      margin: 0 0 0.35rem 0 !important;
+      padding-bottom: 0.2rem;
+      border-bottom: 2px solid var(--rossazzurro-red, #d32f2f);
+      color: var(--wiki-text-primary, #111111) !important;
+
+      a.internal {
+        display: none !important;
+      }
+    }
+
+    ul, ol {
+      font-size: 0.70rem !important;
+      line-height: 1.35 !important;
+      margin: 0 !important;
+      padding-left: 1rem !important;"""
+
+c = c.replace(old_grid.replace('\r\n', '\n'), new_grid)
+c = c.replace(old_grid, new_grid)
+
+with open(path, 'w', encoding='utf-8') as f:
+    f.write(c)
+
+print('Updated custom.scss successfully.')

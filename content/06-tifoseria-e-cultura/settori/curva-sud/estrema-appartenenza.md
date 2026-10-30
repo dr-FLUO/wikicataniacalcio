@@ -1,36 +1,37 @@
 ---
-title: "Estrema Appartenenza Curva Sud Catania (2015)"
-description: "Dossier sulla sigla unitaria da trasferta Estrema Appartenenza, nata nel 2015 dall'unione tra Irriducibili e Falange d'Assalto in Curva Sud dopo l'adesione alla Tessera del Tifoso."
-slug: "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
-entity_type: "gruppo_ultras"
+title: Estrema Appartenenza Curva Sud Catania (2015)
+description: Dossier sulla sigla unitaria da trasferta Estrema Appartenenza, nata
+  nel 2015 dall'unione tra Irriducibili e Falange d'Assalto in Curva Sud dopo l'adesione
+  alla Tessera del Tifoso.
+slug: 06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza
+entity_type: gruppo_ultras
 foundation_year: 2015
-origin_district: "Castello Ursino, San Cristoforo, Librino, Zia Lisa (Catania)"
-stadium_sector: "Curva Sud (Striscione unico trasferta)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
-status: "verified"
+origin_district: Castello Ursino, San Cristoforo, Librino, Zia Lisa (Catania)
+stadium_sector: Curva Sud (Striscione unico trasferta)
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "estrema-appartenenza"
-  - "curva-sud"
-  - "irriducibili"
-  - "falange-dassalto"
-  - "tessera-del-tifoso"
-  - "trasferte"
+- estrema-appartenenza
+- curva-sud
+- irriducibili
+- falange-dassalto
+- tessera-del-tifoso
+- trasferte
 sources:
-  - author: "Redazione Sportiva Meridionews"
-    title: "Calcio Catania, differenze tra curva Nord e Sud: da appelli per lo sciopero alla tessera del tifoso"
-    publisher: "meridionews.it"
-    year: 2016
-    reference: "Genesi di Estrema Appartenenza e scissione con la Nord"
-  - author: "Wikipedia Italia"
-    title: "Tifoseria del Catania Football Club"
-    publisher: "it.wikipedia.org"
-    year: 2024
-    reference: "Lo striscione unitario da trasferta della Sud"
+- author: Redazione Sportiva Meridionews
+  title: 'Calcio Catania, differenze tra curva Nord e Sud: da appelli per lo sciopero
+    alla tessera del tifoso'
+  publisher: meridionews.it
+  year: 2016
+  reference: Genesi di Estrema Appartenenza e scissione con la Nord
+- author: Wikipedia Italia
+  title: Tifoseria del Catania Football Club
+  publisher: it.wikipedia.org
+  year: 2024
+  reference: Lo striscione unitario da trasferta della Sud
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
-  - "06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza"
-  - "tifoseria/curva-sud/estrema-appartenenza"
+- tifoseria/curva-sud/estrema-appartenenza
 ---
 
 # Estrema Appartenenza Curva Sud Catania (2015)

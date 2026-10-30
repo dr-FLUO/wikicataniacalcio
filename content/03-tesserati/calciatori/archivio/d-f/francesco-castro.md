@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 9
-seasons_count: 1
+total_appearances: 94
+seasons_count: 3
 tags:
 - calciatori
 - francesco-castro
@@ -31,8 +31,13 @@ aliases:
 - francesco-castro
 - tesserati/francesco-castro
 - calciatori/francesco-castro
+total_goals: 13
+total_assists: 10
+minutes_played: 6055
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Francesco Castro — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,27 +63,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2011–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>9</td>
+        <td>94</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>13</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>10</td>
       </tr>
     </tbody>
   </table>
@@ -107,3 +112,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Castro*, in [https://www.calciocatania.com/giocatori/giocatori.php?Castro-789](https://www.calciocatania.com/giocatori/giocatori.php?Castro-789), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2011-2012 | Trequartista | 39 | 4 | 6 | 5 | 0 | 2200' |
+| 2012-2013 | Trequartista | 29 | 3 | 2 | 3 | 0 | 1979' |
+| 2013-2014 | Trequartista | 26 | 6 | 2 | 7 | 0 | 1876' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 94 presenze e 13 reti complessive.*

@@ -11,8 +11,8 @@ birth_date: '1906-07-26'
 birth_place: Milano
 death_date: '1998-06-18'
 nationality: Regno d'Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 14
+seasons_count: 2
 tags:
 - calciatori
 - mario-fontana
@@ -36,8 +36,13 @@ aliases:
 - tesserati/mario-fontana
 - calciatori/mario-fontana
 citizenship: Regno d'Italia
+total_goals: 4
+total_assists: 0
+minutes_played: 1260
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Mario Fontana — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,23 +68,23 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1951–1955</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>14</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>4</td>
       </tr>
       <tr>
         <th>Assist totali</th>
@@ -97,3 +102,11 @@ Nato a Milano (1906-07-26), Mario Fontana ha militato tra le file della formazio
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1951-1952 | Attacco | 1 | 0 | 0 | 0 | 0 | 90' |
+| 1954-1955 | Attacco | 13 | 4 | 0 | 0 | 0 | 1170' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 14 presenze e 4 reti complessive.*

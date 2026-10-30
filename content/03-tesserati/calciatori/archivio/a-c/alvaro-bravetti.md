@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 66
+total_appearances: 160
 seasons_count: 5
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - alvaro-bravetti
 - tesserati/alvaro-bravetti
 - calciatori/alvaro-bravetti
+total_goals: 0
+total_assists: 0
+minutes_played: 14400
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Alvaro Bravetti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1950–1955</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>66</td>
+        <td>160</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -82,7 +87,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alvaro Bravetti*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bravetti-716](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bravetti-716), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1950-1951 | Terzino destro | 34 | 0 | 0 | 0 | 0 | 3060' |
+| 1951-1952 | Terzino destro | 35 | 0 | 0 | 0 | 0 | 3150' |
+| 1952-1953 | Terzino destro | 31 | 0 | 0 | 0 | 0 | 2790' |
+| 1953-1954 | Terzino destro | 31 | 0 | 0 | 0 | 0 | 2790' |
+| 1954-1955 | Terzino destro | 29 | 0 | 0 | 0 | 0 | 2610' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 160 presenze e 0 reti complessive.*

@@ -32,8 +32,10 @@ aliases:
 - teixeira-dos-montes-wellington
 - tesserati/teixeira-dos-montes-wellington
 - calciatori/teixeira-dos-montes-wellington
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Teixeira dos Montes Wellington — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -59,15 +61,15 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2010–2024</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -75,11 +77,11 @@ aliases:
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

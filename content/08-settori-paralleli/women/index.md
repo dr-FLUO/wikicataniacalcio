@@ -1,60 +1,66 @@
 ---
-title: "Catania Women: Storia del Calcio Femminile Rossazzurro (1970–2026)"
-description: "Monografia enciclopedica sul calcio femminile a Catania: dallo storico Scudetto 1978 della Jolly Componibili alla rifondazione del Catania Women con Ross Pelligra in Serie C."
-slug: "08-settori-paralleli/women/index"
-entity_type: "section_index"
-status: "verified"
+title: 'Catania Women: Storia del Calcio Femminile Rossazzurro (1970–2026)'
+description: 'Monografia enciclopedica sul calcio femminile a Catania: dallo storico
+  Scudetto 1978 della Jolly Componibili alla rifondazione del Catania Women con Ross
+  Pelligra in Serie C.'
+slug: 08-settori-paralleli/women
+entity_type: section_index
+status: verified
 last_verified_date: 2026-10-30
-image: "assets/images/femminile/scudetto-jolly-catania-1978.jpg"
+image: assets/images/femminile/scudetto-jolly-catania-1978.jpg
 image_credits:
-  - image_path: "assets/images/femminile/scudetto-jolly-catania-1978.jpg"
-    alt_text: "La formazione della Jolly Componibili Catania Campione d'Italia 1978 allo Stadio Cibali"
-    author_or_archive: "Archivio Storico Famiglia Cutispoti"
-    year: 1978
-    license_type: "Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)"
-  - image_path: "assets/images/femminile/catania-women-prima-squadra-nesima-2024.webp"
-    alt_text: "La prima squadra del Catania Women schierata al Campo Comunale di Nesima Superiore"
-    author_or_archive: "Catania Football Club / Ufficio Stampa"
-    year: 2024
-    license_type: "Creative Commons CC BY-SA 4.0"
+- image_path: assets/images/femminile/scudetto-jolly-catania-1978.jpg
+  alt_text: La formazione della Jolly Componibili Catania Campione d'Italia 1978 allo
+    Stadio Cibali
+  author_or_archive: Archivio Storico Famiglia Cutispoti
+  year: 1978
+  license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
+- image_path: assets/images/femminile/catania-women-prima-squadra-nesima-2024.webp
+  alt_text: La prima squadra del Catania Women schierata al Campo Comunale di Nesima
+    Superiore
+  author_or_archive: Catania Football Club / Ufficio Stampa
+  year: 2024
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
-  - "catania-women"
-  - "calcio-femminile"
-  - "jolly-componibili"
-  - "scudetto-1978"
-  - "rose-reilly"
-  - "serie-c-femminile"
-  - "campo-nesima"
-  - "ross-pelligra"
+- catania-women
+- calcio-femminile
+- jolly-componibili
+- scudetto-1978
+- rose-reilly
+- serie-c-femminile
+- campo-nesima
+- ross-pelligra
 sources:
-  - author: "Giovanni Di Salvo"
-    title: "Quando le donne facevano gol: storia del calcio femminile in Sicilia"
-    publisher: "Edizioni Kalós, Palermo"
-    year: 2020
-    reference: "La vittoria dello Scudetto 1978 della Jolly Componibili Catania e l'evoluzione contemporanea"
-  - author: "Sergio Nunzio Capizzi, Roberto Quartarone"
-    title: "Il cielo è rosa sopra il Cibali"
-    publisher: "Quelli del '46, Catania"
-    year: 2020
-    reference: "Monografia completa sulla Jolly Componibili Catania Campione d'Italia 1978"
-  - author: "Dipartimento Calcio Femminile LND"
-    title: "Annuario Ufficiale e Classifiche Serie C Femminile"
-    publisher: "FIGC - Lega Nazionale Dilettanti, Roma"
-    year: 2024
-    reference: "Partecipazione ufficiale Catania Women Girone C"
-  - author: "Archivio Storico FIGCF"
-    title: "Comunicati Ufficiali e Classifiche Serie A 1978"
-    publisher: "FIGCF, Roma"
-    year: 1978
-    reference: "Tabellini e albo d'oro ufficiale Scudetto 1978"
+- author: Giovanni Di Salvo
+  title: 'Quando le donne facevano gol: storia del calcio femminile in Sicilia'
+  publisher: Edizioni Kalós, Palermo
+  year: 2020
+  reference: La vittoria dello Scudetto 1978 della Jolly Componibili Catania e l'evoluzione
+    contemporanea
+- author: Sergio Nunzio Capizzi, Roberto Quartarone
+  title: Il cielo è rosa sopra il Cibali
+  publisher: Quelli del '46, Catania
+  year: 2020
+  reference: Monografia completa sulla Jolly Componibili Catania Campione d'Italia
+    1978
+- author: Dipartimento Calcio Femminile LND
+  title: Annuario Ufficiale e Classifiche Serie C Femminile
+  publisher: FIGC - Lega Nazionale Dilettanti, Roma
+  year: 2024
+  reference: Partecipazione ufficiale Catania Women Girone C
+- author: Archivio Storico FIGCF
+  title: Comunicati Ufficiali e Classifiche Serie A 1978
+  publisher: FIGCF, Roma
+  year: 1978
+  reference: Tabellini e albo d'oro ufficiale Scudetto 1978
 aliases:
-  - "women/index"
-  - "08-settori-paralleli/women/dipartimento-catania-women"
-  - "women/dipartimento"
-  - "settori-paralleli/women/catania-women"
-  - "08-settori-paralleli/women/lo-scudetto-1978-della-jolly-componibili"
-  - "women/scudetto-1978"
-  - "settori-paralleli/women/jolly-cutispoti-1978"
+- women/index
+- 08-settori-paralleli/women/dipartimento-catania-women
+- women/dipartimento
+- settori-paralleli/women/catania-women
+- 08-settori-paralleli/women/lo-scudetto-1978-della-jolly-componibili
+- women/scudetto-1978
+- settori-paralleli/women/jolly-cutispoti-1978
 ---
 
 ![La formazione della Jolly Componibili Catania Campione d'Italia 1978 allo Stadio Cibali](/assets/images/femminile/scudetto-jolly-catania-1978.jpg)

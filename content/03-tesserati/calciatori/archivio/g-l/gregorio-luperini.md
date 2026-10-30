@@ -1,7 +1,7 @@
 ---
 title: Gregorio Luperini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Gregorio Luperini, centrocampista del Calcio Catania con 18 presenze
-  e 1 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Gregorio Luperini, centrocampista
+  del Calcio Catania con 18 presenze e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/gregorio-luperini
 entity_type: calciatore
 status: verified
@@ -20,7 +20,8 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Luperini-1105
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 1105
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -28,7 +29,6 @@ sources:
 aliases:
 - 03-tesserati/calciatori/rosa-attuale/gregorio-luperini
 - tesserati/calciatori/gregorio-luperini
-- 03-tesserati/calciatori/archivio/g-l/gregorio-luperini
 - gregorio-luperini
 - tesserati/gregorio-luperini
 - calciatori/gregorio-luperini
@@ -65,15 +65,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2023–2024</td>
       </tr>
       <tr>
         <th>Presenze totali</th>

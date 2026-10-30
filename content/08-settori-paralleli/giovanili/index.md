@@ -1,17 +1,20 @@
 ---
 title: 'Il Settore Giovanile del Calcio Catania (1946-2026): Storia, Talenti e Strutture'
-description: 'Monografia completa sul settore giovanile del Calcio Catania: la scuola di Carmelo Di Bella, le case del vivaio da Nesima a Torre del Grifo, il Torneo di Viareggio, l''albo d''oro giovanile e i talenti lanciati in prima squadra.'
-slug: 08-settori-paralleli/giovanili/index
+description: 'Monografia completa sul settore giovanile del Calcio Catania: la scuola
+  di Carmelo Di Bella, le case del vivaio da Nesima a Torre del Grifo, il Torneo di
+  Viareggio, l''albo d''oro giovanile e i talenti lanciati in prima squadra.'
+slug: 08-settori-paralleli/giovanili
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-30
 image: assets/images/strutture-e-stadi/campo-comunale-nesima-calcio-catania-settore-giovanile.webp
 image_credits:
-- image_path: 'assets/images/strutture-e-stadi/campo-comunale-nesima-calcio-catania-settore-giovanile.webp'
-  alt_text: "Terreno sintetico e strutture del settore giovanile al Campo Comunale di Nesima Solarino"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/strutture-e-stadi/campo-comunale-nesima-calcio-catania-settore-giovanile.webp
+  alt_text: Terreno sintetico e strutture del settore giovanile al Campo Comunale
+    di Nesima Solarino
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - settore-giovanile
 - primavera
@@ -27,21 +30,26 @@ tags:
 - torre-del-grifo
 - nesima
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: Albo d'oro formazioni giovanili, presenze storiche e tabellini alla Coppa Carnevale di Viareggio; biografie e schede tecniche dei giovani etnei approdati in prima squadra
+  reference: Albo d'oro formazioni giovanili, presenze storiche e tabellini alla Coppa
+    Carnevale di Viareggio; biografie e schede tecniche dei giovani etnei approdati
+    in prima squadra
 - author: Comune di Catania
   title: Relazione Tecnica di Riqualificazione del Complesso Sportivo di Nesima Superiore
   publisher: Comune di Catania
   year: 2022
-  reference: Convenzione sportiva per il vivaio rossazzurro e centro di sviluppo giovanile territoriale
+  reference: Convenzione sportiva per il vivaio rossazzurro e centro di sviluppo giovanile
+    territoriale
 - author: Centro Giovani Calciatori Viareggio
   title: 'Viareggio Cup World Football Tournament Coppa Carnevale: Annuario Storico'
   publisher: CGC Viareggio, Viareggio
   year: 2023
-  reference: Archivio ufficiale partecipazioni, gironi e sfide internazionali del Catania
+  reference: Archivio ufficiale partecipazioni, gironi e sfide internazionali del
+    Catania
 - author: Lega Nazionale Professionisti Serie A e B
   title: Albo d'Oro Campionato Nazionale Primavera Trofeo Giacinto Facchetti
   publisher: LNP, Milano
@@ -51,7 +59,8 @@ sources:
   title: Il libro del Catania
   publisher: Edizioni InContro, Catania
   year: 2013
-  reference: Trattato sull'evoluzione dei campi d'allenamento e della scuola calcio etnea
+  reference: Trattato sull'evoluzione dei campi d'allenamento e della scuola calcio
+    etnea
 - author: Lega Nazionale Professionisti Serie C
   title: Regolamento Ufficiale e Albo d'Oro Campionato Primavera
   publisher: Lega Pro, Firenze

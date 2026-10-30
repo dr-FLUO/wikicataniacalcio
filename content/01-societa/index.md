@@ -3,7 +3,7 @@ title: Storia Societaria, Ragioni Sociali e Presidenti (1929–Oggi)
 description: Indice completo delle 7 ere societarie, delle ragioni sociali, delle
   matricole federali FIGC (11700 e 955013) e dei presidenti del Calcio Catania dal
   1929 a oggi.
-slug: 01-societa/index
+slug: 01-societa
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-27

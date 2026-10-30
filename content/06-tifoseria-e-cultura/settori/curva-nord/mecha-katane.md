@@ -43,9 +43,7 @@ sources:
   year: 2023
   reference: Documentazione gruppi rionali e sigle territoriali
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/mecha-katane"
-  - "06-tifoseria-e-cultura/settori/curva-nord/mecha-katane"
-  - "tifoseria/curva-nord/mecha-katane"
+- tifoseria/curva-nord/mecha-katane
 ---
 
 

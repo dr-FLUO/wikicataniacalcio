@@ -31,8 +31,13 @@ aliases:
 - giovanni-menozzi
 - tesserati/giovanni-menozzi
 - calciatori/giovanni-menozzi
+total_goals: 0
+total_assists: 0
+minutes_played: 3060
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Giovanni Menozzi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,15 +63,15 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>1955–1957</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -107,3 +112,12 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Menozzi*, in [https://www.calciocatania.com/giocatori/giocatori.php?Menozzi-695](https://www.calciocatania.com/giocatori/giocatori.php?Menozzi-695), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1955-1956 | Portiere | 30 | 0 | 0 | 0 | 0 | 2700' |
+| 1956-1957 | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 34 presenze e 0 reti complessive.*

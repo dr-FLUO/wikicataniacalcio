@@ -11,7 +11,7 @@ birth_date: '1995-01-17'
 birth_place: Belgrado
 death_date: ''
 nationality: Serbia
-total_appearances: 10
+total_appearances: 8
 seasons_count: 1
 tags:
 - calciatori
@@ -36,8 +36,13 @@ aliases:
 - tesserati/filip-jankovi
 - calciatori/filip-jankovi
 citizenship: Serbia
+total_goals: 0
+total_assists: 1
+minutes_played: 320
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Filip Janković — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,19 +68,19 @@ citizenship: Serbia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2013–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>8</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -83,7 +88,7 @@ citizenship: Serbia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,10 @@ Nato a Belgrado (1995-01-17), Filip Janković ha militato tra le file della form
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2013-2014 | Centrocampista | 8 | 0 | 1 | 1 | 0 | 320' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 8 presenze e 0 reti complessive.*

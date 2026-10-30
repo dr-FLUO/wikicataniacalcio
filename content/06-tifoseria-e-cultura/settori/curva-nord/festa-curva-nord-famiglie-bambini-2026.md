@@ -46,9 +46,7 @@ sources:
   reference: Verbale di aggiudicazione al Catania Football Club del 22 ottobre 2026
     (base d'asta 55.000 €, aggiudicazione a 250.000 €)
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026"
-  - "06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026"
-  - "tifoseria/curva-nord/festa-curva-nord-famiglie-bambini-2026"
+- tifoseria/curva-nord/festa-curva-nord-famiglie-bambini-2026
 ---
 
 

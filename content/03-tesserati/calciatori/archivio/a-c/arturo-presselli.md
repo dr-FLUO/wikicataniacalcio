@@ -36,8 +36,10 @@ aliases:
 - tesserati/arturo-presselli
 - calciatori/arturo-presselli
 citizenship: Regno d'Italia
+locked: true
+locked_date: '2026-10-30'
+locked_by: certificazione_archivio_storico_ufficiale
 ---
-
 # Arturo Presselli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,15 +65,15 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>1919</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
@@ -79,11 +81,11 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
     </tbody>
   </table>

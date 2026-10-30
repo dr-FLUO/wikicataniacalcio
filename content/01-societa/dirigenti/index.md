@@ -1,25 +1,28 @@
 ---
-title: "Quadri Dirigenziali e Direttori Sportivi del Calcio Catania"
-description: "Dossier storico e archivio biografico sui dirigenti generali, amministratori delegati e direttori sportivi che hanno governato la gestione tecnica e amministrativa del club etneo."
-slug: "01-societa/dirigenti/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Quadri Dirigenziali e Direttori Sportivi del Calcio Catania
+description: Dossier storico e archivio biografico sui dirigenti generali, amministratori
+  delegati e direttori sportivi che hanno governato la gestione tecnica e amministrativa
+  del club etneo.
+slug: 01-societa/dirigenti
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-28
 tags:
-  - "dirigenti"
-  - "societa"
-  - "pietro-lo-monaco"
-  - "vincenzo-grella"
-  - "daniele-faggiano"
-  - "sergio-gasparin"
+- dirigenti
+- societa
+- pietro-lo-monaco
+- vincenzo-grella
+- daniele-faggiano
+- sergio-gasparin
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Organigrammi societari, direttori sportivi e quadri dirigenziali (1929-2010)"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Organigrammi societari, direttori sportivi e quadri dirigenziali (1929-2010)
 aliases:
-  - "societa/dirigenti"
+- societa/dirigenti
 ---
 
 # Quadri Dirigenziali e Direttori Sportivi del Calcio Catania

@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 0
+total_appearances: 13
 seasons_count: 1
 tags:
 - calciatori
@@ -47,8 +47,13 @@ aliases:
 birth_date: '1926-08-30'
 birth_place: Lugo di Vicenza
 citizenship: Italia
+total_goals: 2
+total_assists: 0
+minutes_played: 1170
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Nereo Manzardo — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -71,27 +76,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1950–1951</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>0</td>
+        <td>13</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>2</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -121,3 +126,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nereo Manzardo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Manzardo-752](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Manzardo-752), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1950-1951 | Centrocampo | 13 | 2 | 0 | 0 | 0 | 1170' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 13 presenze e 2 reti complessive.*

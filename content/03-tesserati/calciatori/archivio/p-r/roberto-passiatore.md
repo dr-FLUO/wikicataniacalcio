@@ -12,7 +12,7 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1998-2000
-total_appearances: 64
+total_appearances: 65
 league_appearances: 58
 total_goals: 18
 league_goals: 18
@@ -43,8 +43,13 @@ aliases:
 - roberto-passiatore
 - tesserati/roberto-passiatore
 - calciatori/roberto-passiatore
+total_assists: 1
+minutes_played: 4845
+seasons_count: 3
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Roberto Passiatore
 
 <div class="nfc-player-hero-card">
@@ -70,11 +75,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -82,7 +87,7 @@ aliases:
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>64</td>
+        <td>65</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -90,7 +95,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>1</td>
       </tr>
     </tbody>
   </table>
@@ -121,3 +126,13 @@ Soprannominato dai tifosi il *Cobra* per la freddezza nei sedici metri, Passiato
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 400-408 (Stagioni 1998-1999 e 1999-2000).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1997-1998 | Attacco | 29 | 7 | 0 | 0 | 0 | 2257' |
+| 1998-1999 | Attacco | 29 | 10 | 1 | 5 | 1 | 2153' |
+| 1999-2000 | Attacco | 7 | 1 | 0 | 2 | 0 | 435' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 65 presenze e 18 reti complessive.*

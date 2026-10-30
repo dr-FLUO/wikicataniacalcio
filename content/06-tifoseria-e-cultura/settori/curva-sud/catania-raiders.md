@@ -1,35 +1,34 @@
 ---
-title: "Catania Raiders (1982-1983)"
-description: "Dossier sui Catania Raiders, primo storico gruppo organizzato comparso nella Curva Sud dello Stadio Cibali nella stagione della promozione in Serie A 1982-1983."
-slug: "06-tifoseria-e-cultura/settori/curva-sud/catania-raiders"
-entity_type: "gruppo_ultras"
+title: Catania Raiders (1982-1983)
+description: Dossier sui Catania Raiders, primo storico gruppo organizzato comparso
+  nella Curva Sud dello Stadio Cibali nella stagione della promozione in Serie A 1982-1983.
+slug: 06-tifoseria-e-cultura/settori/curva-sud/catania-raiders
+entity_type: gruppo_ultras
 foundation_year: 1982
-origin_district: "Quartieri Popolari Cittadini (Catania)"
-stadium_sector: "Curva Sud"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
-status: "verified"
+origin_district: Quartieri Popolari Cittadini (Catania)
+stadium_sector: Curva Sud
+stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "catania-raiders"
-  - "curva-sud"
-  - "anni-ottanta"
-  - "pionieri"
-  - "serie-b-1982-1983"
+- catania-raiders
+- curva-sud
+- anni-ottanta
+- pionieri
+- serie-b-1982-1983
 sources:
-  - author: "Tutto il Catania Minuto per Minuto"
-    title: "Stagione 1982/83 - Forse non tutti ricordano che..."
-    publisher: "tuttoilcataniaminutoperminuto.it"
-    year: 2020
-    reference: "Comparsa del gruppo Catania Raiders al Cibali"
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "I pionieri della Curva Sud negli anni Ottanta"
+- author: Tutto il Catania Minuto per Minuto
+  title: Stagione 1982/83 - Forse non tutti ricordano che...
+  publisher: tuttoilcataniaminutoperminuto.it
+  year: 2020
+  reference: Comparsa del gruppo Catania Raiders al Cibali
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: I pionieri della Curva Sud negli anni Ottanta
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-sud/catania-raiders"
-  - "06-tifoseria-e-cultura/settori/curva-sud/catania-raiders"
-  - "tifoseria/curva-sud/catania-raiders"
+- tifoseria/curva-sud/catania-raiders
 ---
 
 # Catania Raiders (1982-1983)

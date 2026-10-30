@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
-total_appearances: 9
+total_appearances: 8
 seasons_count: 2
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - gianmarco-sansonetti
 - tesserati/gianmarco-sansonetti
 - calciatori/gianmarco-sansonetti
+total_goals: 0
+total_assists: 0
+minutes_played: 609
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Gianmarco Sansonetti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2000–2002</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>9</td>
+        <td>8</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -111,3 +116,12 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gianmarco Sansonetti*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sansonetti-173](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sansonetti-173), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2000-2001 | Portiere | 6 | 0 | 0 | 1 | 0 | 429' |
+| 2001-2002 | Portiere | 2 | 0 | 0 | 1 | 0 | 180' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 8 presenze e 0 reti complessive.*

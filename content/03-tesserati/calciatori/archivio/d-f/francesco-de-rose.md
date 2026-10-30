@@ -1,7 +1,7 @@
 ---
 title: Francesco De Rose — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco De Rose, centrocampista del Calcio Catania con 22 presenze
-  e 0 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco De Rose, centrocampista
+  del Calcio Catania con 22 presenze e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-de-rose
 entity_type: calciatore
 status: verified
@@ -20,7 +20,8 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?De-Rose-1102
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 1102
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -28,7 +29,6 @@ sources:
 aliases:
 - 03-tesserati/calciatori/rosa-attuale/francesco-de-rose
 - tesserati/calciatori/francesco-de-rose
-- 03-tesserati/calciatori/archivio/d-f/francesco-de-rose
 - francesco-de-rose
 - tesserati/francesco-de-rose
 - calciatori/francesco-de-rose
@@ -65,15 +65,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2023–2025</td>
       </tr>
       <tr>
         <th>Presenze totali</th>

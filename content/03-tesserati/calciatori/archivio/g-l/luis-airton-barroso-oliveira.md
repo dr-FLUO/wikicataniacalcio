@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 65
-seasons_count: 2
+total_appearances: 0
+seasons_count: 1
 tags:
 - calciatori
 - luis-airton-barroso-oliveira
@@ -38,8 +38,13 @@ aliases:
 - luis-airton-barroso-oliveira
 - tesserati/luis-airton-barroso-oliveira
 - calciatori/luis-airton-barroso-oliveira
+total_goals: 0
+total_assists: 0
+minutes_played: 0
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Luis Airton Barroso Oliveira — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2003–2004</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>65</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -82,7 +87,7 @@ aliases:
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,11 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luis Airton Barroso Oliveira*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Oliveira-141](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Oliveira-141), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2003-2004 | Esterno di sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*

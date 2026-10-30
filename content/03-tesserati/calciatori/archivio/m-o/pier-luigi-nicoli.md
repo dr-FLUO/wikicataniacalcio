@@ -11,8 +11,8 @@ birth_date: '1966-04-06'
 birth_place: Aarau, Svizzera
 death_date: ''
 nationality: Italia
-total_appearances: 40
-seasons_count: 2
+total_appearances: 32
+seasons_count: 1
 tags:
 - calciatori
 - pier-luigi-nicoli
@@ -43,8 +43,13 @@ aliases:
 - tesserati/pier-luigi-nicoli
 - calciatori/pier-luigi-nicoli
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 2794
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Pier Luigi Nicoli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,27 +72,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1992–1993</td>
+        <td>1990–1994</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>40</td>
+        <td>32</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -101,3 +106,10 @@ Difensore arcigno e terzino affidabile. Difende i colori del Calcio Catania nell
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1992-1994, totalizzando **40 presenze ufficiali** tra campionati e coppe nazionali.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1990-1991 | Terzino destro | 32 | 1 | 0 | 0 | 0 | 2794' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 32 presenze e 1 reti complessive.*

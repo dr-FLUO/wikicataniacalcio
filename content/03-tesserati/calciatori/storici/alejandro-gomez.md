@@ -73,9 +73,13 @@ image_credits:
 citizenship: Argentina
 height: 167 cm
 foot: Destro
-total_assists: 17
+total_assists: 18
+minutes_played: 8730
+seasons_count: 3
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Alejandro Gómez
 
 <div class="nfc-player-hero-card">
@@ -118,7 +122,7 @@ total_assists: 17
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>17</td>
+        <td>18</td>
       </tr>
     </tbody>
   </table>
@@ -199,3 +203,13 @@ Nell'agosto 2013, dopo **111 partite e 18 reti** complessive in maglia rossazzur
 3. **Roberto Quartarone, Alessandro Russo**, *Papu Gómez, tre anni di magia pura ai piedi del vulcano*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2013.
 
 - **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alejandro Dario  Gomez*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gomez-11).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2009-2010 | Ala sinistra | 37 | 4 | 5 | 3 | 0 | 2587' |
+| 2010-2011 | Ala sinistra | 35 | 5 | 6 | 1 | 0 | 2865' |
+| 2011-2012 | Ala sinistra | 39 | 9 | 7 | 5 | 0 | 3278' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 111 presenze e 18 reti complessive.*

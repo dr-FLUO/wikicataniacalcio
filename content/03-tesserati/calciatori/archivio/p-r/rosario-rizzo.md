@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
-total_appearances: 0
-seasons_count: 1
+total_appearances: 114
+seasons_count: 6
 tags:
 - calciatori
 - rosario-rizzo
@@ -31,8 +31,13 @@ aliases:
 - rosario-rizzo
 - tesserati/rosario-rizzo
 - calciatori/rosario-rizzo
+total_goals: 5
+total_assists: 8
+minutes_played: 7824
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Rosario Rizzo — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -58,27 +63,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1936–2023</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>0</td>
+        <td>114</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>0</td>
+        <td>8</td>
       </tr>
     </tbody>
   </table>
@@ -107,3 +112,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rosario Rizzo*, in [https://www.calciocatania.com/giocatori/giocatori.php?Rizzo-775](https://www.calciocatania.com/giocatori/giocatori.php?Rizzo-775), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1936-1937 | Centrocampo | 1 | 1 | 0 | 0 | 0 | 90' |
+| 2016-2017 | Centrocampista | 20 | 1 | 3 | 2 | 0 | 1003' |
+| 2017-2018 | Centrocampista | 28 | 0 | 2 | 9 | 0 | 1888' |
+| 2018-2019 | Centrocampista | 25 | 0 | 0 | 5 | 2 | 1577' |
+| 2021-2022 | Centrocampista | 34 | 3 | 2 | 6 | 0 | 2969' |
+| 2022-2023 | Centrocampista | 6 | 0 | 1 | 1 | 0 | 297' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 114 presenze e 5 reti complessive.*

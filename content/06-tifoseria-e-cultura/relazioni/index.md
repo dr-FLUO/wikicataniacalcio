@@ -1,29 +1,30 @@
 ---
-title: "Relazioni della Tifoseria: Gemellaggi, Amicizie e Rivalità Storiche"
-description: "Mappa geopolitica completa delle alleanze, dei patti di rispetto e delle rivalità storiche del movimento ultras rossazzurro in Italia e in Europa."
-slug: "06-tifoseria-e-cultura/relazioni/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: 'Relazioni della Tifoseria: Gemellaggi, Amicizie e Rivalità Storiche'
+description: Mappa geopolitica completa delle alleanze, dei patti di rispetto e delle
+  rivalità storiche del movimento ultras rossazzurro in Italia e in Europa.
+slug: 06-tifoseria-e-cultura/relazioni
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "relazioni"
-  - "gemellaggi"
-  - "amicizie"
-  - "rivalita"
-  - "geopolitica-ultras"
+- relazioni
+- gemellaggi
+- amicizie
+- rivalita
+- geopolitica-ultras
 sources:
-  - author: "Antonio Buemi et al."
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni"
-    year: 2011
-    reference: "Geografia delle alleanze e delle rivalità"
-  - author: "Sebastiano Molino"
-    title: "Catania siamo noi"
-    publisher: "Edizioni Boemi"
-    year: 2004
-    reference: "Dinamiche relazionali del tifo catanese"
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: Geografia delle alleanze e delle rivalità
+- author: Sebastiano Molino
+  title: Catania siamo noi
+  publisher: Edizioni Boemi
+  year: 2004
+  reference: Dinamiche relazionali del tifo catanese
 aliases:
-  - "tifoseria/relazioni"
+- tifoseria/relazioni
 ---
 
 # Relazioni della Tifoseria: Gemellaggi, Amicizie e Rivalità Storiche

@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Difensore
-total_appearances: 14
+total_appearances: 29
 seasons_count: 2
 tags:
 - calciatori
@@ -47,8 +47,13 @@ aliases:
 birth_date: '1928-01-14'
 birth_place: Sesto San Giovanni
 citizenship: Italia
+total_goals: 1
+total_assists: 0
+minutes_played: 2610
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Araldo Pirola — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -71,27 +76,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1952–1954</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>14</td>
+        <td>29</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>1</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -121,3 +126,12 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Araldo Pirola*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pirola-729](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pirola-729), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1952-1953 | Difesa | 11 | 0 | 0 | 0 | 0 | 990' |
+| 1953-1954 | Difesa | 18 | 1 | 0 | 0 | 0 | 1620' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 29 presenze e 1 reti complessive.*

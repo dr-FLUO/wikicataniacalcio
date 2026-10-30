@@ -1,26 +1,28 @@
 ---
-title: "I Protagonisti del Tifo: Biografie dei Leader e Figure Iconiche"
-description: "Raccolta biografica dei capi storici, militanti e protagonisti della curva rossazzurra: Ciccio Famoso, Michele Spampinato, Pippo Tarraresu, Antonino Speziale, Daniele Micale."
-slug: "06-tifoseria-e-cultura/biografie/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: 'I Protagonisti del Tifo: Biografie dei Leader e Figure Iconiche'
+description: 'Raccolta biografica dei capi storici, militanti e protagonisti della
+  curva rossazzurra: Ciccio Famoso, Michele Spampinato, Pippo Tarraresu, Antonino
+  Speziale, Daniele Micale.'
+slug: 06-tifoseria-e-cultura/biografie
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "biografie"
-  - "leader-ultras"
-  - "ciccio-famoso"
-  - "michele-spampinato"
-  - "pippo-tarraresu"
-  - "antonino-speziale"
-  - "daniele-micale"
+- biografie
+- leader-ultras
+- ciccio-famoso
+- michele-spampinato
+- pippo-tarraresu
+- antonino-speziale
+- daniele-micale
 sources:
-  - author: "Redazione La Sicilia"
-    title: "I leader storici delle curve etnee"
-    publisher: "La Sicilia"
-    year: 2017
-    reference: "Profili biografici dei protagonisti del tifo rossazzurro"
+- author: Redazione La Sicilia
+  title: I leader storici delle curve etnee
+  publisher: La Sicilia
+  year: 2017
+  reference: Profili biografici dei protagonisti del tifo rossazzurro
 aliases:
-  - "tifoseria/biografie"
+- tifoseria/biografie
 ---
 
 # I Protagonisti del Tifo: Biografie dei Leader e Figure Iconiche

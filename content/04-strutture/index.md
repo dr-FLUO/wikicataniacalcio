@@ -3,7 +3,7 @@ title: Impianti Sportivi e Centri di Allenamento
 description: 'Storia degli stadi e dei centri sportivi del Calcio Catania: da Piazza
   Esposizione (1929-1937) allo Stadio Cibali / Angelo Massimino (1937) e Torre del
   Grifo Village (2011).'
-slug: 04-strutture/index
+slug: 04-strutture
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-27

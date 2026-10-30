@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
-total_appearances: 146
+total_appearances: 149
 seasons_count: 5
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - mariano-gonzalo-andujar
 - tesserati/mariano-gonzalo-andujar
 - calciatori/mariano-gonzalo-andujar
+total_goals: 0
+total_assists: 0
+minutes_played: 13376
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Mariano Gonzalo  Andujar — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,19 +67,19 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2008–2013</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>146</td>
+        <td>149</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -111,3 +116,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mariano Gonzalo  Andujar*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Andujar-2](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Andujar-2), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2008-2009 | Portiere | 35 | 0 | 0 | 2 | 0 | 3116' |
+| 2009-2010 | Portiere | 37 | 0 | 0 | 2 | 0 | 3330' |
+| 2010-2011 | Portiere | 17 | 0 | 0 | 1 | 0 | 1530' |
+| 2011-2012 | Portiere | 35 | 0 | 0 | 0 | 1 | 3150' |
+| 2012-2013 | Portiere | 25 | 0 | 0 | 1 | 0 | 2250' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 149 presenze e 0 reti complessive.*

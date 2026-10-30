@@ -2,7 +2,7 @@
 title: Archivio Storico dei Precedenti per Club Avversario
 description: Bilanci storici, statistiche comparative, vittorie memorabili e precedenti
   ufficiali del Calcio Catania contro i club italiani ed esteri dal 1929 a oggi.
-slug: 02-cronistoria/partite-storiche/precedenti/index
+slug: 02-cronistoria/partite-storiche/precedenti
 entity_type: thematic_dossier
 status: verified
 last_verified_date: 2026-10-28
@@ -48,3 +48,7 @@ In questa sezione sono raccolti i bilanci complessivi dei confronti diretti disp
 ## Fonti Certificate
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2010.
+
+
+### Altri Precedenti Ufficiali Registrati
+- [[02-cronistoria/partite-storiche/precedenti/salernitana|Precedenti Ufficiali Catania-Salernitana (U.S. Salernitana 1919)]]

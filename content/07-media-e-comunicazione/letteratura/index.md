@@ -1,48 +1,52 @@
 ---
-title: "Bibliografia e Letteratura Storica sul Calcio Catania"
-description: "Monografia bibliografica e catalogo ragionato di grandi opere enciclopediche, almanacchi ufficiali, saggi d'inchiesta e biografie sul Calcio Catania dal 1929 al 2026."
-slug: "07-media-e-comunicazione/letteratura/index"
-entity_type: "section_index"
-status: "verified"
+title: Bibliografia e Letteratura Storica sul Calcio Catania
+description: Monografia bibliografica e catalogo ragionato di grandi opere enciclopediche,
+  almanacchi ufficiali, saggi d'inchiesta e biografie sul Calcio Catania dal 1929
+  al 2026.
+slug: 07-media-e-comunicazione/letteratura
+entity_type: section_index
+status: verified
 last_verified_date: 2026-10-30
 tags:
-  - "letteratura"
-  - "bibliografia"
-  - "storiografia"
-  - "libri"
-  - "almanacchi"
-  - "fonti"
-  - "editoria"
+- letteratura
+- bibliografia
+- storiografia
+- libri
+- almanacchi
+- fonti
+- editoria
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2011
-    reference: "Opera monumentale completa, 528 pagine con tutti i tabellini e statistiche 1929-2011"
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Il rosso, l'azzurro. Catania, novant'anni di una maglia"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2020
-    reference: "Studio araldico e filologico su maglie e stemmi dal 1929"
-  - author: "Alessandro Russo"
-    title: "Angelo Massimino. Una vita per il (suo) Catania"
-    publisher: "Edizioni La Rocca, Catania"
-    year: 2007
-    reference: "Biografia documentale del Cavaliere Angelo Massimino"
-  - author: "Sergio Nunzio Capizzi, Roberto Quartarone"
-    title: "Il cielo è rosa sopra il Cibali"
-    publisher: "Quelli del '46, Catania"
-    year: 2020
-    reference: "Monografia storiografica sulla vittoria dello Scudetto Femminile 1978"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni, Empoli
+  year: 2011
+  reference: Opera monumentale completa, 528 pagine con tutti i tabellini e statistiche
+    1929-2011
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Il rosso, l'azzurro. Catania, novant'anni di una maglia
+  publisher: GEO Edizioni, Empoli
+  year: 2020
+  reference: Studio araldico e filologico su maglie e stemmi dal 1929
+- author: Alessandro Russo
+  title: Angelo Massimino. Una vita per il (suo) Catania
+  publisher: Edizioni La Rocca, Catania
+  year: 2007
+  reference: Biografia documentale del Cavaliere Angelo Massimino
+- author: Sergio Nunzio Capizzi, Roberto Quartarone
+  title: Il cielo è rosa sopra il Cibali
+  publisher: Quelli del '46, Catania
+  year: 2020
+  reference: Monografia storiografica sulla vittoria dello Scudetto Femminile 1978
 aliases:
-  - "letteratura/index"
-  - "07-media-e-comunicazione/letteratura"
-  - "07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi"
-  - "letteratura/grandi-opere"
-  - "media/letteratura/almanacchi"
-  - "07-media-e-comunicazione/letteratura/saggi-e-biografie"
-  - "letteratura/saggi-e-biografie"
-  - "media/letteratura/saggi"
+- letteratura/index
+- 07-media-e-comunicazione/letteratura/grandi-opere-e-almanacchi
+- letteratura/grandi-opere
+- media/letteratura/almanacchi
+- 07-media-e-comunicazione/letteratura/saggi-e-biografie
+- letteratura/saggi-e-biografie
+- media/letteratura/saggi
 ---
 
 # Bibliografia e Letteratura Storica sul Calcio Catania

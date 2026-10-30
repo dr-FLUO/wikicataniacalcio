@@ -11,8 +11,8 @@ birth_date: '1982-01-05'
 birth_place: Opočno
 death_date: ''
 nationality: Repubblica Ceca
-total_appearances: 10
-seasons_count: 1
+total_appearances: 46
+seasons_count: 2
 tags:
 - calciatori
 - jaroslav-pla-il
@@ -43,8 +43,13 @@ aliases:
 - tesserati/jaroslav-pla-il
 - calciatori/jaroslav-pla-il
 citizenship: Repubblica Ceca
+total_goals: 13
+total_assists: 3
+minutes_played: 3659
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Jaroslav Plašil — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,27 +72,27 @@ citizenship: Repubblica Ceca
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2014–2016</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>46</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>13</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>3</td>
       </tr>
     </tbody>
   </table>
@@ -101,3 +106,11 @@ Nato a Opočno (1982-01-05), Jaroslav Plašil ha militato tra le file della form
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2014-2015 | Punta centrale | 32 | 11 | 2 | 6 | 0 | 2725' |
+| 2015-2016 | Punta centrale | 14 | 2 | 1 | 1 | 0 | 934' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 46 presenze e 13 reti complessive.*

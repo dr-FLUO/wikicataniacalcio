@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 33
+total_appearances: 38
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - kampamy-cristian-kanyengele
 - tesserati/kampamy-cristian-kanyengele
 - calciatori/kampamy-cristian-kanyengele
+total_goals: 3
+total_assists: 4
+minutes_played: 1513
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Kampamy Cristian Kanyengele — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2000–2004</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>33</td>
+        <td>38</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>3</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>4</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kampamy Cristian Kanyengele*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Kanyengele-121](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Kanyengele-121), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2000-2001 | Ala destra | 28 | 2 | 4 | 2 | 0 | 1286' |
+| 2002-2003 | Ala destra | 6 | 0 | 0 | 1 | 0 | 123' |
+| 2003-2004 | Ala destra | 4 | 1 | 0 | 1 | 0 | 104' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 38 presenze e 3 reti complessive.*

@@ -14,9 +14,9 @@ nationality: Italia
 role: Attaccante / Centravanti
 catania_periods:
 - 1949-1950
-total_appearances: 37
+total_appearances: 60
 league_appearances: 37
-total_goals: 11
+total_goals: 10
 league_goals: 11
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
@@ -43,8 +43,13 @@ aliases:
 - goffredo-romani
 - tesserati/goffredo-romani
 - calciatori/goffredo-romani
+total_assists: 0
+minutes_played: 5400
+seasons_count: 2
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Goffredo Romani
 
 <div class="nfc-player-hero-card">
@@ -70,11 +75,11 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -82,15 +87,15 @@ aliases:
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>37</td>
+        <td>60</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>11</td>
+        <td>10</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -121,3 +126,12 @@ Tra le sue prestazioni più brillanti della stagione 1949-1950 spiccano le doppi
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 126-131 (Stagione 1949-1950).
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1948-1949 | Attacco | 38 | 10 | 0 | 0 | 0 | 3420' |
+| 1949-1950 | Attacco | 22 | 0 | 0 | 0 | 0 | 1980' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 60 presenze e 10 reti complessive.*

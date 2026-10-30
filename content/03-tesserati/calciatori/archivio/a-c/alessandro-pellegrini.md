@@ -11,8 +11,8 @@ birth_date: '1964-08-02'
 birth_place: Vercelli
 death_date: '2026-08-01'
 nationality: Italia
-total_appearances: 10
-seasons_count: 1
+total_appearances: 132
+seasons_count: 4
 tags:
 - calciatori
 - alessandro-pellegrini
@@ -36,8 +36,13 @@ aliases:
 - tesserati/alessandro-pellegrini
 - calciatori/alessandro-pellegrini
 citizenship: Italia
+total_goals: 5
+total_assists: 0
+minutes_played: 11467
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Alessandro Pellegrini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -63,27 +68,27 @@ citizenship: Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>1983–1987</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>10</td>
+        <td>132</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -97,3 +102,13 @@ Nato a Vercelli (1964-08-02), Alessandro Pellegrini ha militato tra le file dell
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1983-1984 | Ala sinistra | 33 | 0 | 0 | 0 | 0 | 2900' |
+| 1984-1985 | Ala sinistra | 32 | 3 | 0 | 0 | 1 | 2811' |
+| 1985-1986 | Ala sinistra | 39 | 2 | 0 | 0 | 0 | 3407' |
+| 1986-1987 | Ala sinistra | 28 | 0 | 0 | 0 | 0 | 2349' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 132 presenze e 5 reti complessive.*

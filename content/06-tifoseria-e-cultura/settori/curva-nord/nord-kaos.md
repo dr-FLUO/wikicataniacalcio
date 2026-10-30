@@ -1,35 +1,34 @@
 ---
-title: "Nord Kaos Valverde (Primi Anni 2000)"
-description: "Dossier sul gruppo ultras Nord Kaos della Curva Nord: origini a Valverde nell'hinterland etneo, mobilità in trasferta e adesione alla linea intransigente."
-slug: "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
-entity_type: "gruppo_ultras"
+title: Nord Kaos Valverde (Primi Anni 2000)
+description: 'Dossier sul gruppo ultras Nord Kaos della Curva Nord: origini a Valverde
+  nell''hinterland etneo, mobilità in trasferta e adesione alla linea intransigente.'
+slug: 06-tifoseria-e-cultura/settori/curva-nord/nord-kaos
+entity_type: gruppo_ultras
 foundation_year: 2001
-origin_district: "Valverde (Hinterland Etneo)"
-stadium_sector: "Curva Nord"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
-status: "verified"
+origin_district: Valverde (Hinterland Etneo)
+stadium_sector: Curva Nord
+stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+status: verified
 last_verified_date: 2026-10-29
 tags:
-  - "nord-kaos"
-  - "valverde"
-  - "curva-nord"
-  - "hinterland"
-  - "ultras"
+- nord-kaos
+- valverde
+- curva-nord
+- hinterland
+- ultras
 sources:
-  - author: "Archivio Storico"
-    title: "Gruppi Ultras Catania"
-    publisher: "vitadaultras.forumfree.it"
-    year: 2008
-    reference: "Nord Kaos e il radicamento a Valverde"
-  - author: "Redazione Cronaca e Tifo"
-    title: "Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra"
-    publisher: "italiani.it"
-    year: 2021
-    reference: "Ruolo di Nord Kaos nelle trasferte della Curva Nord"
+- author: Archivio Storico
+  title: Gruppi Ultras Catania
+  publisher: vitadaultras.forumfree.it
+  year: 2008
+  reference: Nord Kaos e il radicamento a Valverde
+- author: Redazione Cronaca e Tifo
+  title: Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra
+  publisher: italiani.it
+  year: 2021
+  reference: Ruolo di Nord Kaos nelle trasferte della Curva Nord
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
-  - "06-tifoseria-e-cultura/settori/curva-nord/nord-kaos"
-  - "tifoseria/curva-nord/nord-kaos"
+- tifoseria/curva-nord/nord-kaos
 ---
 
 # Nord Kaos Valverde (Primi Anni 2000)

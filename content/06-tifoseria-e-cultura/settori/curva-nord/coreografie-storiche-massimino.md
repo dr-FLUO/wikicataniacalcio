@@ -1,19 +1,22 @@
 ---
 title: Coreografie Storiche della Curva Nord allo Stadio Massimino
-description: 'Storia, iconografia e analisi scenografica delle coreografie monumentali della Curva Nord del Catania: dal Liotru gigante ai derby di Serie A e alla Coppa Italia.'
+description: 'Storia, iconografia e analisi scenografica delle coreografie monumentali
+  della Curva Nord del Catania: dal Liotru gigante ai derby di Serie A e alla Coppa
+  Italia.'
 slug: 06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino
 entity_type: evento_tifo
 status: verified
 last_verified_date: 2026-10-27
 cover_image: curva-nord-coreografia.jpg
-cover_caption: Spettacolare colpo d'occhio notturno dello Stadio Angelo Massimino illuminato da torce, fumogeni e stendardi rossazzurri.
+cover_caption: Spettacolare colpo d'occhio notturno dello Stadio Angelo Massimino
+  illuminato da torce, fumogeni e stendardi rossazzurri.
 cover_credit: Archivio Fotografico Wiki Catania Calcio · CC BY-SA 4.0
 image_credits:
-- image_path: 'quartz/static/images/photos/curva-nord-coreografia.jpg'
-  alt_text: "Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: quartz/static/images/photos/curva-nord-coreografia.jpg
+  alt_text: Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: 'Creative Commons CC BY-SA 4.0 da torce e fumogeni rossazzurri'
+  license_type: Creative Commons CC BY-SA 4.0 da torce e fumogeni rossazzurri
 tags:
 - tifoseria
 - curva-nord
@@ -24,7 +27,8 @@ tags:
 - serie-a
 - ccn
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -36,14 +40,13 @@ sources:
   year: 2024
   reference: Dossier fotografico Coreografie Storiche
 - author: Redazione Sportiva La Sicilia
-  title: 'Spettacolo al Massimino: le storiche scenografie della Curva Nord nei derby e nelle sfide di Serie A'
+  title: 'Spettacolo al Massimino: le storiche scenografie della Curva Nord nei derby
+    e nelle sfide di Serie A'
   publisher: La Sicilia
   year: 2012
   reference: Speciale Derby e Tifoseria Etnea
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino"
-  - "06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino"
-  - "tifoseria/curva-nord/coreografie-storiche-massimino"
+- tifoseria/curva-nord/coreografie-storiche-massimino
 ---
 # Coreografie Storiche della Curva Nord allo Stadio Massimino
 

@@ -1,37 +1,41 @@
 ---
-title: "Albo d'Oro dei Presidenti del Calcio Catania (1929-2027)"
-description: "Cronologia, biografie e mandati presidenziali di tutti i massimi dirigenti che hanno guidato il Calcio Catania dalla fondazione ad oggi: da Santi Quasimodo ad Angelo Massimino, fino a Ross Pelligra."
-slug: "01-societa/presidenti/index"
-entity_type: "section_index"
-status: "verified"
-last_verified_date: "2026-10-28"
+title: Albo d'Oro dei Presidenti del Calcio Catania (1929-2027)
+description: 'Cronologia, biografie e mandati presidenziali di tutti i massimi dirigenti
+  che hanno guidato il Calcio Catania dalla fondazione ad oggi: da Santi Quasimodo
+  ad Angelo Massimino, fino a Ross Pelligra.'
+slug: 01-societa/presidenti
+entity_type: section_index
+status: verified
+last_verified_date: '2026-10-28'
 tags:
-  - "presidenti"
-  - "societa"
-  - "storia-societaria"
-  - "dirigenti"
+- presidenti
+- societa
+- storia-societaria
+- dirigenti
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Cronologia presidenziale e quadri dirigenziali"
-  - author: "Wikipedia Italia"
-    title: "Presidenti del Catania Football Club"
-    publisher: "Wikimedia Foundation"
-    year: 2026
-    url: "https://it.wikipedia.org/wiki/Catania_Football_Club#Presidenti"
-    reference: "Elenco ufficiale dei presidenti societari"
-image: "assets/images/presidenti-dirigenti/angelo-massimino-presidente-calcio-catania.webp"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Cronologia presidenziale e quadri dirigenziali
+- author: Wikipedia Italia
+  title: Presidenti del Catania Football Club
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Catania_Football_Club#Presidenti
+  reference: Elenco ufficiale dei presidenti societari
+image: assets/images/presidenti-dirigenti/angelo-massimino-presidente-calcio-catania.webp
 image_credits:
-  - image_path: "assets/images/presidenti-dirigenti/angelo-massimino-presidente-calcio-catania.webp"
-    alt_text: "Ritratto del Cavalier Angelo Massimino, storico presidente del Calcio Catania"
-    author_or_archive: "Archivio Storico Calcio Catania"
-    year: 2024
-    license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+- image_path: assets/images/presidenti-dirigenti/angelo-massimino-presidente-calcio-catania.webp
+  alt_text: Ritratto del Cavalier Angelo Massimino, storico presidente del Calcio
+    Catania
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 2024
+  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-  - "presidenti/index"
-  - "societa/presidenti/index"
+- presidenti/index
+- societa/presidenti/index
 ---
 # Albo d'Oro dei Presidenti del Calcio Catania (1929-2027)
 
@@ -70,6 +74,16 @@ La storia del Calcio Catania è indissolubilmente legata alle figure dei suoi pr
 
 ### La Rinascita Contemporanea (2022-2027)
 - [[01-societa/presidenti/ross-pelligra|Ross Pelligra (2022-2027)]] — Imprenditore italo-australiano a capo del Pelligra Group, vincitore del bando comunale per la rinascita del Catania F.C., dominatore della Serie D 2022-2023 a quota 88 punti e trionfatore della Coppa Italia Serie C 2024.
+
+
+
+### Altri Presidenti e Commissari Straordinari nell'Archivio
+- [[01-societa/presidenti/agatino-pesce|Agatino Pesce (Presidente Club Calcio Catania 1955-1958)]]
+- [[01-societa/presidenti/luciano-gaucci|Luciano Gaucci (Patron Calcio Catania S.p.A. 2000]]
+- [[01-societa/presidenti/michele-finocchiaro|Michele Finocchiaro]]
+- [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura (Amministratore Unico Calcio Catania S.p.A. 2020-2021)]]
+- [[01-societa/presidenti/ottavio-teghini|Ottavio Teghini (Presidente AFC Catania 1940-1943)]]
+- [[01-societa/presidenti/santi-maimone|Santi Maimone]]
 
 ## Collegamenti Correlati
 

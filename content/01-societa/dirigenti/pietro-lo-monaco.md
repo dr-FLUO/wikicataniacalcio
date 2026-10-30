@@ -31,15 +31,15 @@ sources:
   reference: Archivio Stagioni 2004-2019
 image: assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp
 image_credits:
-- image_path: 'assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp'
-  alt_text: "Pietro Lo Monaco, storico amministratore delegato del Catania in Serie A"
-  author_or_archive: 'Archivio Storico Calcio Catania'
+- image_path: assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp
+  alt_text: Pietro Lo Monaco, storico amministratore delegato del Catania in Serie
+    A
+  author_or_archive: Archivio Storico Calcio Catania
   year: 2024
-  license_type: "Creative Commons CC BY-SA 4.0"
+  license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - societa/presidenti/pietro-lo-monaco
 - societa/dirigenti/pietro-lo-monaco
-- 01-societa/dirigenti/pietro-lo-monaco
 ---
 ![Pietro Lo Monaco, storico amministratore delegato del Catania in Serie A — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp)
 *Pietro Lo Monaco, storico amministratore delegato del Catania in Serie A — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*

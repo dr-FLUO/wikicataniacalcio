@@ -11,7 +11,7 @@ birth_date: '1910-09-19'
 birth_place: Como, Italia
 death_date: '1952-09-16'
 nationality: Regno d'Italia
-total_appearances: 45
+total_appearances: 0
 seasons_count: 2
 tags:
 - calciatori
@@ -43,8 +43,13 @@ aliases:
 - tesserati/marco-romano
 - calciatori/marco-romano
 citizenship: Regno d'Italia
+total_goals: 0
+total_assists: 0
+minutes_played: 0
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Marco Romano — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -67,19 +72,19 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1940–1942</td>
+        <td>1940–2004</td>
       </tr>
       <tr>
         <th>Presenze totali</th>
-        <td>45</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Goal totali</th>
@@ -87,7 +92,7 @@ citizenship: Regno d'Italia
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>0</td>
       </tr>
     </tbody>
   </table>
@@ -101,3 +106,11 @@ Celebre centravanti comasco, micidiale finalizzatore degli anni Trenta e Quarant
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1940-1942, totalizzando **45 presenze ufficiali** tra campionati e coppe nazionali.
 
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2002-2003 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| 2003-2004 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*

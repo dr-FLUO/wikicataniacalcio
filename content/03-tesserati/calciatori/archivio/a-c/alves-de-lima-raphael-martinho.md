@@ -9,7 +9,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 31
+total_appearances: 36
 seasons_count: 2
 tags:
 - calciatori
@@ -40,8 +40,13 @@ aliases:
 - alves-de-lima-raphael-martinho
 - tesserati/alves-de-lima-raphael-martinho
 - calciatori/alves-de-lima-raphael-martinho
+total_goals: 5
+total_assists: 5
+minutes_played: 2189
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Alves de Lima Raphael Martinho — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -64,27 +69,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2009–2014</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>31</td>
+        <td>36</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>5</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>5</td>
       </tr>
     </tbody>
   </table>
@@ -113,3 +118,12 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alves de Lima Raphael Martinho*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Martinho-87](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Martinho-87), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2009-2010 | Esterno di sinistra | 14 | 1 | 0 | 1 | 1 | 706' |
+| 2013-2014 | Esterno di sinistra | 22 | 4 | 5 | 6 | 0 | 1483' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 36 presenze e 5 reti complessive.*

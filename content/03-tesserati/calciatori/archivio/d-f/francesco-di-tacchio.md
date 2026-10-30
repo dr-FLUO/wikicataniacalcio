@@ -1,7 +1,7 @@
 ---
 title: Francesco Di Tacchio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Francesco Di Tacchio, centrocampista del Calcio Catania con 55
-  presenze e 2 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Francesco Di Tacchio,
+  centrocampista del Calcio Catania con 55 presenze e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/francesco-di-tacchio
 entity_type: calciatore
 status: verified
@@ -28,14 +28,14 @@ sources:
 image: assets/images/players/1080_francesco-di-tacchio.png
 image_credits:
 - image_path: assets/images/players/1080_francesco-di-tacchio.png
-  alt_text: Ritratto del calciatore Francesco Di Tacchio in maglia rossazzurra del Calcio Catania
+  alt_text: Ritratto del calciatore Francesco Di Tacchio in maglia rossazzurra del
+    Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
 - 03-tesserati/calciatori/rosa-attuale/francesco-di-tacchio
 - tesserati/calciatori/francesco-di-tacchio
-- 03-tesserati/calciatori/archivio/d-f/francesco-di-tacchio
 - francesco-di-tacchio
 - tesserati/francesco-di-tacchio
 - calciatori/francesco-di-tacchio
@@ -69,15 +69,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Piede</th>
-        <td>—</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>ND</td>
+        <td>2023–2026</td>
       </tr>
       <tr>
         <th>Presenze totali</th>

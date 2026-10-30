@@ -142,3 +142,5 @@ Almanacco cronologico delle stagioni ufficiali disputate dal Catania dal 1929 a 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929â€“2010)*, GEO Edizioni, Empoli, 2010.
 2. **Archivio Storico Mimmo Rapisarda**, *Almanacco delle stagioni del Calcio Catania (1929â€“2024)*, [mimmorapisarda.it](https://www.mimmorapisarda.it/).
+
+- [[02-cronistoria/stagioni/2026-2027|Stagione 2026-2027 — Il Catania nel Campionato di Serie C]]

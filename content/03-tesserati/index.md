@@ -3,7 +3,7 @@ title: 'Tesserati: Hall of Fame Calciatori e Allenatori della Storia Rossazzurra
 description: 'Albo storico dei grandi protagonisti del Calcio Catania dal 1929 a oggi:
   classifiche presenze e marcatori all-time, condottieri della panchina e biografie
   monografiche.'
-slug: 03-tesserati/index
+slug: 03-tesserati
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-27

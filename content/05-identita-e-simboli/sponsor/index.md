@@ -1,78 +1,82 @@
 ---
-title: "Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)"
-description: "Monografia enciclopedica e archivio storico su partner tecnici, fornitori ufficiali e sponsor commerciali di maglia del Calcio Catania dal 1979 a oggi."
-slug: "05-identita-e-simboli/sponsor/index"
-entity_type: "thematic_dossier"
-status: "verified"
+title: Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)
+description: Monografia enciclopedica e archivio storico su partner tecnici, fornitori
+  ufficiali e sponsor commerciali di maglia del Calcio Catania dal 1979 a oggi.
+slug: 05-identita-e-simboli/sponsor
+entity_type: thematic_dossier
+status: verified
 last_verified_date: 2026-10-30
-image: "assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp"
+image: assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp
 image_credits:
-  - image_path: "assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp"
-    alt_text: "Divisa storica da gioco del Catania con l'iconico sponsor Haribo"
-    author_or_archive: "Archivio Storico Calcio Catania"
-    year: 1983
-    license_type: "Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)"
-  - image_path: "assets/images/maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp"
-    alt_text: "Maglia del Calcio Catania con lo sponsor commerciale SP Energia Siciliana"
-    author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
-    year: 2009
-    license_type: "Creative Commons CC BY-SA 4.0"
-  - image_path: "assets/images/maglie-e-simboli/sponsor/sponsor-storico-giovi-calcio-catania-anni-1990.webp"
-    alt_text: "La storica divisa da gioco del Catania con sponsor commerciale negli anni Novanta"
-    author_or_archive: "Archivio Storico Fotografico Calcio Catania"
-    year: 1994
-    license_type: "Pubblico Dominio"
+- image_path: assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp
+  alt_text: Divisa storica da gioco del Catania con l'iconico sponsor Haribo
+  author_or_archive: Archivio Storico Calcio Catania
+  year: 1983
+  license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
+- image_path: assets/images/maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp
+  alt_text: Maglia del Calcio Catania con lo sponsor commerciale SP Energia Siciliana
+  author_or_archive: Archivio Fotografico Wiki Catania Calcio
+  year: 2009
+  license_type: Creative Commons CC BY-SA 4.0
+- image_path: assets/images/maglie-e-simboli/sponsor/sponsor-storico-giovi-calcio-catania-anni-1990.webp
+  alt_text: La storica divisa da gioco del Catania con sponsor commerciale negli anni
+    Novanta
+  author_or_archive: Archivio Storico Fotografico Calcio Catania
+  year: 1994
+  license_type: Pubblico Dominio
 tags:
-  - "sponsor"
-  - "sponsor-tecnici"
-  - "sponsor-commerciali"
-  - "maglie"
-  - "ennerre"
-  - "adidas"
-  - "legea"
-  - "givova"
-  - "errea"
-  - "haribo"
-  - "sp-energia-siciliana"
-  - "superconveniente"
-  - "cultura-materiale"
+- sponsor
+- sponsor-tecnici
+- sponsor-commerciali
+- maglie
+- ennerre
+- adidas
+- legea
+- givova
+- errea
+- haribo
+- sp-energia-siciliana
+- superconveniente
+- cultura-materiale
 sources:
-  - author: "Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino"
-    title: "Tutto il Catania minuto per minuto (1929-2010)"
-    publisher: "GEO Edizioni, Empoli"
-    year: 2010
-    reference: "Cronologia Divise da Gioco, Fornitori Tecnici e Sponsor (1979-2010), pp. 490-504"
-  - author: "Roberto Quartarone"
-    title: "Gli sponsor tecnici e commerciali del Catania dal 1979 ad oggi"
-    publisher: "tuttoilcataniaminutoperminuto.it"
-    url: "https://www.tuttoilcataniaminutoperminuto.it/"
-    year: 2024
-    reference: "Dossier completo maglie e contratti di partnership commerciale"
-  - author: "Archivio Storico Mimmo Rapisarda"
-    title: "Museo virtuale delle maglie storiche e dei fornitori del Calcio Catania"
-    publisher: "mimmorapisarda.it"
-    url: "https://www.mimmorapisarda.it/"
-    year: 2024
-    reference: "Sezione Fornitori Tecnici e Maglie Storiche"
-  - author: "Luigi Prestinenza"
-    title: "Catania e il pallone: mezzo secolo di passione all'ombra dell'Etna"
-    publisher: "Editoriale La Sicilia, Catania"
-    year: 1984
-    reference: "La rivoluzione commerciale del calcio professionistico negli anni Ottanta"
-  - author: "Almanacco Illustrato del Calcio"
-    title: "Almanacco Illustrato del Calcio (annate 1980-2026)"
-    publisher: "Edizioni Panini, Modena"
-    year: 2026
-    reference: "Schede societarie, fornitori tecnici e sponsorizzazioni ufficiali"
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+    Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
+  publisher: GEO Edizioni, Empoli
+  year: 2010
+  reference: Cronologia Divise da Gioco, Fornitori Tecnici e Sponsor (1979-2010),
+    pp. 490-504
+- author: Roberto Quartarone
+  title: Gli sponsor tecnici e commerciali del Catania dal 1979 ad oggi
+  publisher: tuttoilcataniaminutoperminuto.it
+  url: https://www.tuttoilcataniaminutoperminuto.it/
+  year: 2024
+  reference: Dossier completo maglie e contratti di partnership commerciale
+- author: Archivio Storico Mimmo Rapisarda
+  title: Museo virtuale delle maglie storiche e dei fornitori del Calcio Catania
+  publisher: mimmorapisarda.it
+  url: https://www.mimmorapisarda.it/
+  year: 2024
+  reference: Sezione Fornitori Tecnici e Maglie Storiche
+- author: Luigi Prestinenza
+  title: 'Catania e il pallone: mezzo secolo di passione all''ombra dell''Etna'
+  publisher: Editoriale La Sicilia, Catania
+  year: 1984
+  reference: La rivoluzione commerciale del calcio professionistico negli anni Ottanta
+- author: Almanacco Illustrato del Calcio
+  title: Almanacco Illustrato del Calcio (annate 1980-2026)
+  publisher: Edizioni Panini, Modena
+  year: 2026
+  reference: Schede societarie, fornitori tecnici e sponsorizzazioni ufficiali
 aliases:
-  - "simboli/sponsor"
-  - "maglie/sponsor"
-  - "05-identita-e-simboli/sponsor/sponsor-tecnici"
-  - "05-identita-e-simboli/sponsor/sponsor-commerciali"
-  - "05-identita-e-simboli/sponsor/sponsor-tecnici-e-commerciali"
-  - "maglie/sponsor-tecnici"
-  - "maglie/sponsor-commerciali"
-  - "maglie/sponsor-tecnici-e-commerciali"
+- simboli/sponsor
+- maglie/sponsor
+- 05-identita-e-simboli/sponsor/sponsor-tecnici
+- 05-identita-e-simboli/sponsor/sponsor-commerciali
+- 05-identita-e-simboli/sponsor/sponsor-tecnici-e-commerciali
+- maglie/sponsor-tecnici
+- maglie/sponsor-commerciali
+- maglie/sponsor-tecnici-e-commerciali
 ---
 
 # Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)

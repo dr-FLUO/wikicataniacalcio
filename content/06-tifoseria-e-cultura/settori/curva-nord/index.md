@@ -3,7 +3,7 @@ title: 'La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali'
 description: 'Dossier completo sulla Curva Nord dello Stadio Cibali / Angelo Massimino:
   dalle origini con la Falange d''Assalto alla rinascita con A Sostegno di una Fede
   e i clan rionali.'
-slug: 06-tifoseria-e-cultura/settori/curva-nord/index
+slug: 06-tifoseria-e-cultura/settori/curva-nord
 entity_type: thematic_dossier
 status: verified
 last_verified_date: 2026-10-29
@@ -28,11 +28,9 @@ sources:
   year: 2011
   reference: La Curva Nord dal 1979 al 2010
 aliases:
-  - "06-tifoseria-e-cultura/settori/curva-nord"
-  - "06-tifoseria-e-cultura/settori/curva-nord/index"
-  - "tifoseria/curva-nord"
-  - "tifoseria/curva-nord/index"
-  - "tifoseria/curva-nord/origini-curva-nord"
+- tifoseria/curva-nord
+- tifoseria/curva-nord/index
+- tifoseria/curva-nord/origini-curva-nord
 ---
 
 # La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali
@@ -66,3 +64,6 @@ La **Curva Nord** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] è i
 
 1. **Luigi Pulvirenti, Michele Spampinato**, *Quando saremo tutti nella Nord*, Euno Edizioni / Eclettica, 2014.
 2. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
+
+
+- [[06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026|Festa Curva Nord Famiglie e Bambini (2026)]]

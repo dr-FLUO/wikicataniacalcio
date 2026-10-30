@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 101
+total_appearances: 111
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,13 @@ aliases:
 - alejandro-dario-gomez
 - tesserati/alejandro-dario-gomez
 - calciatori/alejandro-dario-gomez
+total_goals: 18
+total_assists: 18
+minutes_played: 8730
+locked: true
+locked_date: '2026-10-30'
+locked_by: quadratura_riconciliazione_alias_dataset
 ---
-
 # Alejandro Dario  Gomez — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -62,27 +67,27 @@ aliases:
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Piede</th>
-        <td>—</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
         <td>ND</td>
       </tr>
       <tr>
+        <th>Piede</th>
+        <td>ND</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td>2009–2012</td>
+      </tr>
+      <tr>
         <th>Presenze totali</th>
-        <td>101</td>
+        <td>111</td>
       </tr>
       <tr>
         <th>Goal totali</th>
-        <td>0</td>
+        <td>18</td>
       </tr>
       <tr>
         <th>Assist totali</th>
-        <td>—</td>
+        <td>18</td>
       </tr>
     </tbody>
   </table>
@@ -111,3 +116,13 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alejandro Dario  Gomez*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gomez-11](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gomez-11), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2009-2010 | Ala sinistra | 37 | 4 | 5 | 3 | 0 | 2587' |
+| 2010-2011 | Ala sinistra | 35 | 5 | 6 | 1 | 0 | 2865' |
+| 2011-2012 | Ala sinistra | 39 | 9 | 7 | 5 | 0 | 3278' |
+
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 111 presenze e 18 reti complessive.*
