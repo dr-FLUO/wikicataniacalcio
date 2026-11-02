@@ -87,37 +87,6 @@ aliases:
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/lino-de-petrillo.jpg" alt="Lino De Petrillo" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Lino De Petrillo</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1934</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1979–1981</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Lino De Petrillo** (Roccamonfina (CE), Italia, 1934) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1979-1981**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

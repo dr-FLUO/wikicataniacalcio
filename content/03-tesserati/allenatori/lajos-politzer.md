@@ -90,37 +90,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/lajos-politzer.jpg" alt="Lajos Politzer" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Lajos Politzer</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1898</td>
-        <th>Nazionalità</th>
-        <td>Ungheria</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1950–1951</strong> (dal 01/07/1950 al 30/06/1951)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>40</td>
-        <th>Media Punti</th>
-        <td>1,50</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Lajos Politzer** (Ungheria, 1898) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1950-1951**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

@@ -90,37 +90,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/gipo-poggi.jpg" alt="Gipo Poggi" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Gipo Poggi</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1913</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1956–1958</strong> (dal 01/07/1956 al 24/11/1957)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>45</td>
-        <th>Media Punti</th>
-        <td>1,56</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Gipo Poggi** (Genova, Italia, 1908 – 1992) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1956-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

@@ -109,37 +109,6 @@ aliases:
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/diego-pablo-simeone.jpg" alt="Diego Pablo Simeone" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Diego Pablo Simeone</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1970</td>
-        <th>Nazionalità</th>
-        <td>Argentina / Spagna</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2011</strong> (dal 19/01/2011 al 30/06/2011)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>18</td>
-        <th>Media Punti</th>
-        <td>1,33</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Diego Pablo Simeone**, universalmente noto come **"El Cholo"** (Buenos Aires, 28 aprile 1970), è un allenatore di calcio ed ex calciatore argentino. Prima di consacrarsi alla guida dell'Atlético Madrid come uno degli allenatori più vincenti e influenti della storia del calcio mondiale contemporaneo, ha vissuto al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] la sua **prima panchina assoluta in Europa** tra il **gennaio e il maggio 2011**: subentrato in corsa nel campionato di **Serie A 2010-2011**, ha trasformato il *"Catania degli Argentini"* conducendolo all'allora **record storico di 46 punti in Serie A (13º posto)** e firmando il trionfale **4-0 nel [[partite/precedenti/palermo|Derby di Sicilia]] contro il Palermo** allo [[stadio/angelo-massimino|Stadio Angelo Massimino]].
 
 

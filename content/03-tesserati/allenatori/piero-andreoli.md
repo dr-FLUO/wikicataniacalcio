@@ -95,37 +95,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/piero-andreoli.jpg" alt="Piero Andreoli" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Piero Andreoli</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1911</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1953–1956</strong> (dal 01/07/1953 al 16/04/1956)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>96</td>
-        <th>Media Punti</th>
-        <td>1,49</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Piero Andreoli** (Bologna, 2 gennaio 1911 – Massa, 26 marzo 1960) è stato un calciatore e allenatore di calcio italiano. Tre volte campione d'Italia da calciatore con il Bologna, ha iscritto per sempre il proprio nome nella leggenda del [[societa/1946-club-calcio-catania|Club Calcio Catania]] (matricola FIGC 11700) conducendo i colori rossazzurri alla **prima storica promozione in Serie A nella [[stagioni/1953-1954|Stagione 1953-1954]]** (con vittoria del campionato cadetto al 1º posto) e conquistando nella successiva [[stagioni/1954-1955|Stagione 1954-1955]] una brillante **salvezza sul campo al 12º posto**, poi vanificata a tavolino dal [[vicende-legali/caso-scaramella-1955|Caso Scaramella]].
 
 > [!abstract] Sintesi Storica e Traguardi sulla Panchina Rossazzurra

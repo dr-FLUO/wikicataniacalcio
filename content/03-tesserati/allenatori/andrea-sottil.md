@@ -117,37 +117,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/andrea-sottil.jpg" alt="Andrea Sottil" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Andrea Sottil</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1974</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2018–2019</strong> (dal 06/07/2018 al 02/07/2019)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>36</td>
-        <th>Media Punti</th>
-        <td>1,83</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 *Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Andrea Sottil** (Venaria Reale (TO), Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

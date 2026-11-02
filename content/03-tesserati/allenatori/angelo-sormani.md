@@ -92,37 +92,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/angelo-sormani.jpg" alt="Angelo Sormani" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Angelo Sormani</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1939</td>
-        <th>Nazionalità</th>
-        <td>Brasile / Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1989–1991</strong> (dal 01/07/1989 al 30/06/1991)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>68</td>
-        <th>Media Punti</th>
-        <td>1,40</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Angelo Sormani** (Jaú, Brasile, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1989-1991**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

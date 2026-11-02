@@ -92,37 +92,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/gyorgy-orth.jpg" alt="György Orth" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">György Orth</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1901</td>
-        <th>Nazionalità</th>
-        <td>Ungheria</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1939–1940</strong> (dal 04/10/1939 al 30/06/1940)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>2</td>
-        <th>Media Punti</th>
-        <td>1,50</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **György Orth** (Budapest, Ungheria, 1901 – 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

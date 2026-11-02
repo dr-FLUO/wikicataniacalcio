@@ -94,37 +94,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/giovanni-ferraro.jpg" alt="Giovanni Ferraro" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Giovanni Ferraro</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1969</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2022–2023</strong> (dal 02/08/2022 al 06/06/2023)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>37</td>
-        <th>Media Punti</th>
-        <td>2,46</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Giovanni Ferraro** (Vico Equense (NA), Italia, 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2022-2023**, legando il proprio nome alla storia societaria di Catania SSD / Catania Football Club (2022-Oggi).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

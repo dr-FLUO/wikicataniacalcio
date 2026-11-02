@@ -110,37 +110,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/dario-marcolin.jpg" alt="Dario Marcolin" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Dario Marcolin</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1971</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2014–2015</strong> (dal 03/01/2015 al 16/07/2015)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>21</td>
-        <th>Media Punti</th>
-        <td>1,33</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Dario Marcolin** (Poncarale (BS), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2014-2015**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

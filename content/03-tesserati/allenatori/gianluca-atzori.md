@@ -100,37 +100,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/gianluca-atzori.jpg" alt="Gianluca Atzori" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Gianluca Atzori</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1971</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2009–2010</strong> (dal 10/06/2009 al 08/12/2009)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>16</td>
-        <th>Media Punti</th>
-        <td>0,75</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Gianluca Atzori** (Collepardo (FR), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2009-2010**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

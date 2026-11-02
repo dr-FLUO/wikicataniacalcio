@@ -117,37 +117,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/carmelo-di-bella.jpg" alt="Carmelo Di Bella" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Carmelo Di Bella</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1921</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1958–1966, 1971–1973, 1976–1977</strong> (dal 22/12/1958 al 30/06/1977)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>380</td>
-        <th>Media Punti</th>
-        <td>1,26</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Carmelo Di Bella** (Catania, 30 gennaio 1921 – Palermo, 9 settembre 1992) è stato un calciatore e allenatore di calcio italiano. Catanese purosangue, cresciuto come mezzala nell'[[societa/1929-ss-catania|AFC Catania]] prima della guerra, è l'**allenatore più longevo, iconico e rappresentativo della storia rossazzurra**, detenendo il **primato assoluto di panchine ufficiali alla guida del Catania (oltre 340 in campionato e 392 complessive includendo le coppe nazionali e internazionali)** e il **record di 204 panchine consecutive in Serie A** (1960–1966). In simbiosi con il presidente [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], ha forgiato il ciclo d'oro degli anni Sessanta del [[societa/1946-club-calcio-catania|Club Calcio Catania]], conquistando la promozione in massima serie nel 1959-1960, **tre storici 8º posti in Serie A** ([[stagioni/1960-1961|1960-1961]], [[stagioni/1963-1964|1963-1964]] e [[stagioni/1964-1965|1964-1965]]) e firmando capolavori tattici rimasti nella leggenda come il [[partite/1960-1961/catania-inter-2-0|2-0 all'Inter del 4 giugno 1961 ([[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»)]].
 
 

@@ -83,37 +83,6 @@ aliases:
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/aldo-cerantola.jpg" alt="Aldo Cerantola" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Aldo Cerantola</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1950</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1995–1996</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Aldo Cerantola** (Loria (TV), Italia, 1950) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

@@ -104,37 +104,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/francesco-graziani.jpg" alt="Francesco Graziani" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Francesco Graziani</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1952</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2001–2003</strong> (dal 27/04/2002 al 12/11/2002)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>16</td>
-        <th>Media Punti</th>
-        <td>1,19</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Francesco Graziani** (Subiaco (RM), Italia, 1952) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2003**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

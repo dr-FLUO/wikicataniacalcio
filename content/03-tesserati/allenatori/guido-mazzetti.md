@@ -99,37 +99,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/guido-mazzetti-calcio-catania-allenatore-anni-1970.webp" alt="Guido Mazzetti" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Giornalistico Catanese</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Guido Mazzetti</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1916</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1973–1974, 1975–1976, 1977–1978, 1980–1981, 1985–1986</strong> (dal 01/07/1973 al 30/06/1981)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>77</td>
-        <th>Media Punti</th>
-        <td>1,22</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Guido Mazzetti** (Bologna, Italia, 1916 – 1997) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1973-1974, 1975-1976, 1977-1978, 1980-1981, 1985-1986**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

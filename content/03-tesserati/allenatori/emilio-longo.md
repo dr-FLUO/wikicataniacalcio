@@ -96,37 +96,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/emilio-longo.jpg" alt="Emilio Longo" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Emilio Longo</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1973</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2026–in corso</strong> (dal 03/07/2026)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>14</td>
-        <th>Media Punti</th>
-        <td>1,57</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Emilio Longo** (Salerno, 18 maggio 1973) è l'allenatore responsabile della prima squadra del **Catania Football Club** per la [[02-cronistoria/stagioni/2026-2027|stagione sportiva 2026-2027]] nel campionato di **Serie C (Girone C)**.
 
 ---

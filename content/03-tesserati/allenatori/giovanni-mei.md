@@ -90,37 +90,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/giovanni-mei.jpg" alt="Giovanni Mei" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Giovanni Mei</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1953</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1996–1998</strong> (dal 01/07/1996 al 30/06/1998)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>36</td>
-        <th>Media Punti</th>
-        <td>1,53</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Giovanni Mei** (Fano (PU), Italia, 1953) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1996-1998**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

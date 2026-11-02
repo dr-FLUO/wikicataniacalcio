@@ -116,37 +116,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/sinisa-mihajlovic.jpg" alt="Siniša Mihajlović" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Siniša Mihajlović</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1969</td>
-        <th>Nazionalità</th>
-        <td>Serbia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2009–2010</strong> (dal 08/12/2009 al 24/05/2010)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>25</td>
-        <th>Media Punti</th>
-        <td>1,56</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Siniša Mihajlović** (Vukovar, 20 febbraio 1969 – Roma, 16 dicembre 2022) è stato un allenatore di calcio e calciatore serbo, di ruolo difensore o centrocampista. Personalità magnetica, carisma d'acciaio e maestro tattico nella cura dei dettagli difensivi e delle palle inattive, ha legato il proprio nome a una delle stagioni più esaltanti della storia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]: subentrato all'indomani della 15ª giornata della **Serie A 2009-2010** con la squadra all'ultimo posto a quota 9 punti, ha guidato gli etnei a una travolgente rimonta salvezza, chiudendo al **13º posto con il record societario dell'epoca di 45 punti** (conquistandone **36 in 23 panchine**, di cui 30 nel solo girone di ritorno). La sua gestione è passata alla storia per le leggendarie vittorie contro la Juventus a Torino (1-2) e contro l'[[partite/precedenti/inter|Inter]] di José Mourinho al Cibali (3-1).
 
 > [!abstract] Il "Serbo di Ferro" che Riscrisse la Storia Rossazzurra

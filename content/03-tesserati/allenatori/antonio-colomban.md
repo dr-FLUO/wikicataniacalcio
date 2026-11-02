@@ -84,37 +84,6 @@ aliases:
   </table>
 </div>
 
-<div class="nfc-player-hero-card nfc-coach-hero-card">
-  <div class="nfc-player-photo-block">
-    <img src="/assets/images/allenatori/antonio-colomban.jpg" alt="Antonio Colomban" class="nfc-player-photo" />
-    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
-  </div>
-  <table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Antonio Colomban</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1932</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1985–1986</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Antonio Colomban** (Farasina, Italia (Croazia), 1932 – 2020) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
