@@ -74,13 +74,13 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-![Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp)
 
 # Roberto Inglese
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/roberto-inglese.jpg" alt="Roberto Inglese" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
   </div>
   <table class="nfc-player-table">
     <tbody>

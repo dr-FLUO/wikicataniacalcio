@@ -65,9 +65,6 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 
-![Pasquale Marino, guida tecnica del Calcio Catania](/assets/images/allenatori/pasquale-marino.jpg)
-*Pasquale Marino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Pasquale Marino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">

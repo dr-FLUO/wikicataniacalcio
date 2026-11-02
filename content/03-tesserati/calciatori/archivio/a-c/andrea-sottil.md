@@ -75,14 +75,12 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 
-![Andrea Sottil, guida tecnica del Calcio Catania](/assets/images/allenatori/andrea-sottil.jpg)
-*Andrea Sottil, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Andrea Sottil — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/andrea-sottil.jpg" alt="Andrea Sottil" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
   </div>
   <table class="nfc-player-table">
     <tbody>

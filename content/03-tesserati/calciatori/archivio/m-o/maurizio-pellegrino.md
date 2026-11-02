@@ -74,9 +74,6 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 
-![Maurizio Pellegrino, guida tecnica del Calcio Catania](/assets/images/allenatori/maurizio-pellegrino.jpg)
-*Maurizio Pellegrino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Maurizio Pellegrino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">

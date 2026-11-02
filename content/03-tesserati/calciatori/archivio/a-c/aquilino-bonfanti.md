@@ -68,7 +68,6 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-![Aquilino Bonfanti, capocannoniere della Serie B 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aquilino-bonfanti-calcio-catania-figurina-panini-1970-1971.webp)
 
 # Aquilino Bonfanti
 

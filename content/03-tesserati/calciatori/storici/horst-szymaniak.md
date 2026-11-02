@@ -79,6 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/horst-szymaniak.jpg" alt="Horst Szymaniak" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -111,9 +112,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
     </tbody>
   </table>
 </div>
-
-![Ritratto del calciatore Horst Szymaniak in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/664_horst-szymaniak.jpg)
-*Ritratto del calciatore Horst Szymaniak in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
 **Horst Szymaniak** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 

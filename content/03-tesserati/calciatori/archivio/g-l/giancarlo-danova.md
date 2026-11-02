@@ -66,7 +66,6 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-![Giancarlo Danova con la casacca del Catania in Serie A — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/giancarlo-danova-calcio-catania-figurina-panini-1965-1966.webp)
 
 # Giancarlo Danova
 

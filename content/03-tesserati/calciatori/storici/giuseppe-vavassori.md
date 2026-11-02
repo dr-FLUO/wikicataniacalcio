@@ -98,9 +98,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-![Ritratto del calciatore Giuseppe Vavassori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/621_giuseppe-vavassori.jpg)
-*Ritratto del calciatore Giuseppe Vavassori in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
-
 **Giuseppe Vavassori** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ---

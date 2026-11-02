@@ -74,9 +74,6 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
-![Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/claudio-ranieri.jpg)
-
-*Ritratto ufficiale di Claudio Ranieri — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 # Claudio Ranieri
 

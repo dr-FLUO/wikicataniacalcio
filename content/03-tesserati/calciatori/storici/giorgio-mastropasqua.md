@@ -98,9 +98,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-![Ritratto del calciatore Giorgio Mastropasqua in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/players/476_giorgio-mastropasqua.jpg)
-*Ritratto del calciatore Giorgio Mastropasqua in maglia rossazzurra del Calcio Catania — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
-
 **Giorgio Mastropasqua** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
