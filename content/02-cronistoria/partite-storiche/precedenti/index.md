@@ -22,10 +22,11 @@ sources:
   reference: Statistiche e confronti diretti del Catania contro i club italiani
 aliases:
 - partite-storiche/precedenti
-- partite/precedenti/index
 - partite-storiche/precedenti/index
-- precedenti/index
-- index
+- partite/precedenti
+- partite/precedenti/index
+- cronistoria/partite-storiche/precedenti
+- cronistoria/partite-storiche/precedenti/index
 ---
 
 # Archivio Storico dei Precedenti per Club Avversario

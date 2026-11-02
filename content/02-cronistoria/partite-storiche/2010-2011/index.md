@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 2010-2011
+aliases:
+- partite-storiche/2010-2011
+- partite-storiche/2010-2011/index
+- partite/2010-2011
+- partite/2010-2011/index
+- cronistoria/partite-storiche/2010-2011
+- cronistoria/partite-storiche/2010-2011/index
 ---
 
 # Partite Storiche — Stagione 2010-2011
@@ -27,8 +34,8 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 
 ## Elenco Incontri Monografici
 
-### [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0|Catania-Palermo 4-0 (3 aprile 2011) — Il Trionfo del Massimino e il Poker del]]
-Tabellino e cronaca di Catania-Palermo 4-0 del 3 aprile 2011 al Massimino:
+### [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0|Catania-Palermo 4-0 (3 aprile 2011) — Il Poker Storico del Massimino]]
+Tabellino e cronaca di Catania-Palermo 4-0 del 3 aprile 2011 al Massimino: il Catania di Diego Simeone travolge i rosanero con autogol di Balzaretti, Bergessio, Ledesma e Pesce.
 
 ---
 

@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 2008-2009
+aliases:
+- partite-storiche/2008-2009
+- partite-storiche/2008-2009/index
+- partite/2008-2009
+- partite/2008-2009/index
+- cronistoria/partite-storiche/2008-2009
+- cronistoria/partite-storiche/2008-2009/index
 ---
 
 # Partite Storiche — Stagione 2008-2009
@@ -27,8 +34,8 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 
 ## Elenco Incontri Monografici
 
-### [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|Palermo-Catania 0-4 (1º marzo 2009) — Il Trionfo del Barbera e il Gol da Centrocampo]]
-Tabellino e cronaca storica di Palermo-Catania 0-4 del 1º marzo 2009
+### [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|Palermo-Catania 0-4 (1º marzo 2009) — Il Trionfo del Barbera e il Gol da Centrocampo di Mascara]]
+Tabellino e cronaca storica di Palermo-Catania 0-4 del 1º marzo 2009: le reti di Ledesma, Morimoto, il celeberrimo capolavoro balistico al volo da 50 metri di Peppe Mascara e il poker finale di Paolucci.
 
 ---
 

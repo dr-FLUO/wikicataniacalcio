@@ -18,7 +18,11 @@ sources:
   reference: Archivio generale tabellini e precedenti (1929-2010)
 aliases:
 - partite-storiche
+- partite-storiche/index
+- partite
+- partite/index
 - cronistoria/partite-storiche
+- cronistoria/partite-storiche/index
 ---
 
 # Tabellini Storici e Archivio dei Precedenti

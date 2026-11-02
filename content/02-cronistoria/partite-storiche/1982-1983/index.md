@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 1982-1983
+aliases:
+- partite-storiche/1982-1983
+- partite-storiche/1982-1983/index
+- partite/1982-1983
+- partite/1982-1983/index
+- cronistoria/partite-storiche/1982-1983
+- cronistoria/partite-storiche/1982-1983/index
 ---
 
 # Partite Storiche — Stagione 1982-1983
@@ -27,14 +34,14 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 
 ## Elenco Incontri Monografici
 
-### [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|Gli Spareggi di Roma 1983 — L]]
-Dossier storico sul memorabile triangolare spareggi promozione di Serie
+### [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno in Serie A]]
+Dossier storico sul memorabile triangolare spareggi promozione di Serie B a Roma tra Catania, Como e Cremonese con l'esodo di quarantamila tifosi etnei.
 
 ### [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0|Catania-Como 1-0 (18 giugno 1983) — Spareggio Promozione di Roma]]
-Tabellino e cronaca di Catania-Como 1-0 del 18 giugno 1983 allo Stadio
+Tabellino e cronaca di Catania-Como 1-0 del 18 giugno 1983 allo Stadio Olimpico: inzuccata vincente di Angelo Crialesi al 70' su schema di Gianni Di Marzio.
 
-### [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese 0-0 (25 giugno 1983) — La Promozione in Serie A davanti a]]
-Tabellino e storia dello spareggio decisivo Catania-Cremonese 0-0 del
+### [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese 0-0 (25 giugno 1983) — La Promozione in Serie A]]
+Tabellino e storia dello spareggio decisivo Catania-Cremonese 0-0 del 25 giugno 1983: la resistenza grintosa che sancisce il ritorno in massima serie del Cavaliere Massimino.
 
 ---
 

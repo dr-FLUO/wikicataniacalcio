@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 2005-2006
+aliases:
+- partite-storiche/2005-2006
+- partite-storiche/2005-2006/index
+- partite/2005-2006
+- partite/2005-2006/index
+- cronistoria/partite-storiche/2005-2006
+- cronistoria/partite-storiche/2005-2006/index
 ---
 
 # Partite Storiche — Stagione 2005-2006
@@ -28,7 +35,7 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 ## Elenco Incontri Monografici
 
 ### [[02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1|Catania-AlbinoLeffe 2-1 (28 maggio 2006) — Il Ritorno in Serie A dopo 22 Anni]]
-Tabellino e cronaca di Catania-AlbinoLeffe 2-1 del 28 maggio 2006 al
+Tabellino e cronaca di Catania-AlbinoLeffe 2-1 del 28 maggio 2006 al Massimino: le reti di Gionatha Spinesi e il memorabile pallonetto di Umberto Del Core che riportano il Catania di Pasquale Marino in Serie A.
 
 ---
 

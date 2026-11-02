@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 1963-1964
+aliases:
+- partite-storiche/1963-1964
+- partite-storiche/1963-1964/index
+- partite/1963-1964
+- partite/1963-1964/index
+- cronistoria/partite-storiche/1963-1964
+- cronistoria/partite-storiche/1963-1964/index
 ---
 
 # Partite Storiche — Stagione 1963-1964
@@ -27,8 +34,8 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 
 ## Elenco Incontri Monografici
 
-### [[02-cronistoria/partite-storiche/1963-1964/finale-coppa-delle-alpi-1964|Genoa-Catania 2-0 (1º luglio 1964) — La Cavalcata e la Finale della Coppa delle]]
-Storia e tabellino della Finale della Coppa delle Alpi 1964 disputata
+### [[02-cronistoria/partite-storiche/1963-1964/finale-coppa-delle-alpi-1964|Genoa-Catania 2-0 (1º luglio 1964) — La Finale della Coppa delle Alpi]]
+Storia e tabellino della Finale della Coppa delle Alpi 1964 disputata al Wankdorfstadion di Berna: il punto più alto del Catania continentale di Ignazio Marcoccio e Carmelo Di Bella.
 
 ---
 

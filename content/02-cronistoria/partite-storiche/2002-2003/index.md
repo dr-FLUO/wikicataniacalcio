@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 2002-2003
+aliases:
+- partite-storiche/2002-2003
+- partite-storiche/2002-2003/index
+- partite/2002-2003
+- partite/2002-2003/index
+- cronistoria/partite-storiche/2002-2003
+- cronistoria/partite-storiche/2002-2003/index
 ---
 
 # Partite Storiche — Stagione 2002-2003
@@ -28,7 +35,7 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 ## Elenco Incontri Monografici
 
 ### [[02-cronistoria/partite-storiche/2002-2003/catania-siena-1-1|Catania-Siena 1-1 (12 aprile 2003) — La Partita del «Caso Catania»]]
-Tabellino e analisi di Catania-Siena 1-1 del 12 aprile 2003 (30ª giornata
+Tabellino e analisi di Catania-Siena 1-1 del 12 aprile 2003 (30ª giornata di Serie B): l'impiego del difensore squalificato Luigi Martinelli che diede vita al più celebre caso giurisprudenziale del calcio italiano.
 
 ---
 

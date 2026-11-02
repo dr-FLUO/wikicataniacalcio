@@ -17,6 +17,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2011
   reference: Tabellini ufficiali stagione 2001-2002
+aliases:
+- partite-storiche/2001-2002
+- partite-storiche/2001-2002/index
+- partite/2001-2002
+- partite/2001-2002/index
+- cronistoria/partite-storiche/2001-2002
+- cronistoria/partite-storiche/2001-2002/index
 ---
 
 # Partite Storiche — Stagione 2001-2002
@@ -27,8 +34,8 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 
 ## Elenco Incontri Monografici
 
-### [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|Taranto-Catania 0-0 (9 giugno 2002) — La Finale Playoff dello Iacovone e il]]
-Tabellino e storia della finale di ritorno dei Playoff di Serie C1 Taranto-Catania
+### [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|Taranto-Catania 0-0 (9 giugno 2002) — La Finale Playoff dello Iacovone e il Ritorno in Serie B]]
+Tabellino e cronaca della finale di ritorno dei Playoff di Serie C1 Taranto-Catania: la stoica resistenza allo Stadio Erasmo Iacovone dopo l'1-0 dell'andata al Cibali firmato Michele Fini.
 
 ---
 
