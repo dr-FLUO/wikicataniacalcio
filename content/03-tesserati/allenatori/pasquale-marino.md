@@ -79,12 +79,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Pasquale Marino, guida tecnica del Calcio Catania](/assets/images/allenatori/pasquale-marino.jpg)
-*Pasquale Marino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-*Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
-
-
 # Pasquale Marino
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/pasquale-marino.jpg" alt="Pasquale Marino" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pasquale Marino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2005–2007</strong> (dal 01/07/2005 al 04/06/2007)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>82</td>
+        <th>Media Punti</th>
+        <td>1,45</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/pasquale-marino.jpg" alt="Pasquale Marino" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pasquale Marino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2005–2007</strong> (dal 01/07/2005 al 04/06/2007)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>82</td>
+        <th>Media Punti</th>
+        <td>1,45</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pasquale Marino** (Marsala, 13 luglio 1962) è un allenatore di calcio ed ex calciatore italiano. Già centrocampista del Catania tra il 1993 e il 1997 (protagonista in campo della risalita dall'[[stagioni/1993-1994|Eccellenza Sicilia 1993-1994]] fino alla Serie C2), è stato il **tecnico fondatore del ciclo moderno in Serie A del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]**: nel biennio **2005–2007** ha condotto i rossazzurri alla **quinta promozione in Serie A nella [[stagioni/2005-2006|Stagione 2005-2006]]** attraverso un calcio offensivo e spettacolare (4-3-3) e, l'anno seguente, alla **prima storica salvezza sul campo e in classifica in massima serie dagli anni Sessanta (2006-2007)**, conquistata nonostante quattro mesi di esilio in campo neutro a porte chiuse dopo i [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]].
 

@@ -58,13 +58,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Antonio Renna
 
-![Ritratto ufficiale di Antonio Renna sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/antonio-renna.jpg)
-*Ritratto ufficiale di Antonio Renna sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/antonio-renna.jpg" alt="Antonio Renna" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Antonio Renna</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1937</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1984–1985</strong> (dal 01/07/1984 al 30/06/1985)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>43</td>
+        <th>Media Punti</th>
+        <td>1,05</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/antonio-renna.jpg" alt="Antonio Renna" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Antonio Renna</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1937</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1984–1985</strong> (dal 01/07/1984 al 30/06/1985)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>43</td>
+        <th>Media Punti</th>
+        <td>1,05</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Antonio Renna** (Lecce, Italia, 1937 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1984-1985**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

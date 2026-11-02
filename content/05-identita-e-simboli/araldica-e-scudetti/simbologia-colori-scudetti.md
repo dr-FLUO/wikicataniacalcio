@@ -49,7 +49,7 @@ sources:
   title: Verbale di aggiudicazione all'asta pubblica dei beni immateriali e marchi
   publisher: Tribunale Fallimentare di Catania
   year: 2024
-  reference: Assegnazione a Catania Football Club (maggio 2024)
+  reference: Aggiudicazione definitiva a Catania Football Club S.r.l. per Euro 250.000 (22 ottobre 2026)
 aliases:
 - maglie/simbologia-colori-scudetti
 ---
@@ -100,15 +100,18 @@ Nel calcio cittadino, la figura del Liotru:
 | **1946–1967** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[societa/presidenti/santi-maimone\|Santi Maimone]] |
 | **1967–2022** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[societa/matricola-11700\|Matricola 11700]] |
 | **2022–2023** | Catania SSD | Scudetto circolare con Liotru geometrico moderno e strisce verticali stilizzate | Campionato vinto di Serie D con record di punti |
-| **2023–Oggi** | Catania FC | Ritorno al logo storico originario dopo riscatto all'asta giudiziaria da parte di [[societa/presidenti/ross-pelligra\|Ross Pelligra]] | Marchio storico riacquisito dal Tribunale |
+| **2026–Oggi** | Catania FC | Ritorno allo stemma storico originario dopo aggiudicazione all'asta fallimentare del 22 ottobre 2026 per 250.000 € | [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026\|Asta Marchio Storico 2026]] |
 
 ---
 
-## 4. La Vicenda della Matricola 11700 e il Riacquisto del Marchio (2022-2024)
+## 4. La Vicenda della Matricola 11700 e il Riacquisto del Marchio (22 Ottobre 2026)
 
-Il fallimento del Calcio Catania S.p.A. decretato dal Tribunale il **22 dicembre 2021** e la successiva revoca dell'affiliazione FIGC con decadenza della storica **Matricola Federale 11700** rischiarono di cancellare per sempre l'araldica storica. 
+Il fallimento del Calcio Catania S.p.A. decretato dal Tribunale il **22 dicembre 2021** e la successiva revoca dell'affiliazione FIGC con decadenza della storica **Matricola Federale 11700** rischiarono di congelare a tempo indeterminato l'araldica storica. 
 
-Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprenditore italo-australiano [[societa/presidenti/ross-pelligra|Ross Pelligra]] dovette utilizzare una denominazione e uno stemma provvisori (*Catania SSD*). Nel maggio del 2024, con la chiusura definitiva del bando fallimentare, il gruppo Pelligra ha rilevato per circa 85.000 euro tutti i diritti d'uso dei loghi storici, riallacciando formalmente la continuità grafica e araldica con la tradizione ultracentenaria del club.
+Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprenditore italo-australiano [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] dovette utilizzare una denominazione e uno stemma contemporanei (*Catania SSD*, poi *Catania FC* con la "C" sveva). Il **22 ottobre 2026**, al termine della gara telematica asincrona della Curatela Fallimentare (procedura n. 158/2021 - 254/2021) conclusasi alle ore 12:11 dopo oltre un'ora di rilanci a oltranza contro *Revolution Group S.r.l.*, il Catania Football Club si è aggiudicato in via definitiva per **250.000 euro** (base d'asta 55.000 euro) tutti i marchi, stemmi e denominazioni storiche del club, riallacciando formalmente e patrimonialmente la continuità grafica e araldica con la tradizione ultracentenaria rossazzurra.
+
+> [!tip] Dossier Monografico
+> Per la cronistoria completa dell'asta giudiziaria e i verbali fallimentari, consulta: **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|L'Acquisizione dello Storico Marchio del Calcio Catania all'Asta del 22 Ottobre 2026]]**.
 
 ---
 
@@ -127,5 +130,5 @@ Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprend
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010. ISBN 978-88-6999-036-6.
 2. **Santi Correnti**, *La città sempreviva: leggende, tradizioni e simboli di Catania*, Greco Editore, Catania, 1999.
-3. **Curatela Fallimentare Calcio Catania S.p.A.**, *Verbale di aggiudicazione all'asta pubblica dei beni immateriali e marchi storici (R.F. n. 165/2021)*, Tribunale Fallimentare di Catania, maggio 2024.
+3. **Tribunale Ordinario di Catania — Sezione Fallimentare**, *Verbale di aggiudicazione della vendita telematica del marchio storico "Calcio Catania" (Procedura Fallimentare n. 158/2021 - 254/2021)*, 22 ottobre 2026.
 4. **Archivio Storico Comunale di Catania**, *Delibere Civiche e Concessioni Araldiche per Società Sportive*, Vol. IV (1929-1940).

@@ -73,13 +73,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
-
-![Mario Petrone, guida tecnica del Calcio Catania](/assets/images/allenatori/mario-petrone.jpg)
-*Mario Petrone, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Mario Petrone
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/mario-petrone.jpg" alt="Mario Petrone" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Mario Petrone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1973</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2016–2017</strong> (dal 13/02/2017 al 08/03/2017)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>3</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/mario-petrone.jpg" alt="Mario Petrone" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Mario Petrone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1973</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2016–2017</strong> (dal 13/02/2017 al 08/03/2017)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>3</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Mario Petrone** (Napoli, Italia, 1973) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 

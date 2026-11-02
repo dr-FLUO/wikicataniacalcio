@@ -73,11 +73,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Walter Zenga, guida tecnica del Calcio Catania](/assets/images/allenatori/walter-zenga.jpg)
-*Walter Zenga, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
-
 # Walter Zenga
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/walter-zenga.jpg" alt="Walter Zenga" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Walter Zenga</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1960</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2007–2008, 2008–2009</strong> (dal 01/04/2008 al 30/06/2009)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>50</td>
+        <th>Media Punti</th>
+        <td>1,16</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/walter-zenga.jpg" alt="Walter Zenga" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Walter Zenga</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1960</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2007–2008, 2008–2009</strong> (dal 01/04/2008 al 30/06/2009)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>50</td>
+        <th>Media Punti</th>
+        <td>1,16</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Walter Zenga** (Milano, 28 aprile 1960) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di portiere. Arrivato sulla panchina del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] il **1º aprile 2008** in sostituzione dell'esonerato Silvio Baldini a sette giornate dal termine della [[stagioni/2007-2008|Stagione 2007-2008]], ha legato il proprio nome a uno dei cicli più entusiasmanti e spettacolari della storia etnea in massima serie.
 

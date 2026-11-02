@@ -79,11 +79,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Vincenzo Montella, guida tecnica del Calcio Catania](/assets/images/allenatori/vincenzo-montella.jpg)
-*Vincenzo Montella, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
-
 # Vincenzo Montella
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/vincenzo-montella.jpg" alt="Vincenzo Montella" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Vincenzo Montella</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1974</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2011–2012</strong> (dal 01/07/2011 al 30/06/2012)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>40</td>
+        <th>Media Punti</th>
+        <td>1,28</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/vincenzo-montella.jpg" alt="Vincenzo Montella" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Vincenzo Montella</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1974</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2011–2012</strong> (dal 01/07/2011 al 30/06/2012)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>40</td>
+        <th>Media Punti</th>
+        <td>1,28</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Vincenzo Montella** (Pomigliano d'Arco, 18 giugno 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di attaccante. Ingaggiato dal presidente [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] il **9 giugno 2011**, ha guidato il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] nella [[stagioni/2011-2012|Stagione 2011-2012]], trasformando la compagine etnea in una delle squadre più spettacolari ed efficaci del campionato italiano di massima divisione.
 

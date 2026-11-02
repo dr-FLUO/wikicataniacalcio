@@ -60,9 +60,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Luigi Valsecchi
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luigi Valsecchi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1921</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1965–1966, 1967–1968, 1971–1972, 1973–1974, 1976–1977</strong> (dal 16/01/1966 al 31/03/1974)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>52</td>
+        <th>Media Punti</th>
+        <td>1,21</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luigi Valsecchi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1921</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1965–1966, 1967–1968, 1971–1972, 1973–1974, 1976–1977</strong> (dal 16/01/1966 al 31/03/1974)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>52</td>
+        <th>Media Punti</th>
+        <td>1,21</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Luigi Valsecchi** (Lecco, Italia, 1921 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1965-1966, 1967-1968, 1971-1972, 1973-1974, 1976-1977**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967), Calcio Catania S.p.A. (Era Massimino).
 

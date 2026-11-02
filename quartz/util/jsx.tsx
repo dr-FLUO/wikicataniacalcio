@@ -6,9 +6,9 @@ import { type FilePath } from "./path"
 
 const customComponents: Components = {
   table: (props) => {
-    // Se la tabella appartiene alla scheda anagrafica calciatore, non racchiuderla in .table-container
+    // Se la tabella appartiene alla scheda anagrafica calciatore o allenatore, non racchiuderla in .table-container
     // per evitare doppi bordi, sporgenze o scrollbar proprietarie
-    if (props.className?.includes("nfc-player-table")) {
+    if (props.className?.includes("nfc-player-table") || props.className?.includes("nfc-coach-table")) {
       return <table {...props} />
     }
     return (

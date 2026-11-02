@@ -14,7 +14,6 @@ catania_periods:
 - 1998-1999
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
-image: assets/images/allenatori/piero-cucchi.jpg
 image_credits:
 - image_path: assets/images/allenatori/piero-cucchi.jpg
   alt_text: Ritratto ufficiale di Piero Cucchi in maglia rossazzurra
@@ -69,13 +68,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Piero Cucchi
 
-![Piero Cucchi, guida tecnica del Calcio Catania](/assets/images/allenatori/piero-cucchi.jpg)
-*Piero Cucchi, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Piero Cucchi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1939</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1998–1999</strong> (dal 01/07/1998 al 30/06/1999)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,74</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Piero Cucchi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1939</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1998–1999</strong> (dal 01/07/1998 al 30/06/1999)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,74</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Piero Cucchi** (Boffalora sopra Ticino (MI), Italia, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1998-1999**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

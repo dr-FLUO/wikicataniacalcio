@@ -68,13 +68,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Andrea Camplone
 
-![Andrea Camplone, guida tecnica del Calcio Catania](/assets/images/allenatori/andrea-camplone.jpg)
-*Andrea Camplone, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/andrea-camplone.jpg" alt="Andrea Camplone" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Andrea Camplone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1966</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2019–2020</strong> (dal 08/07/2019 al 21/10/2019)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>12</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/andrea-camplone.jpg" alt="Andrea Camplone" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Andrea Camplone</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1966</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2019–2020</strong> (dal 08/07/2019 al 21/10/2019)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>12</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Andrea Camplone** (Pescara, Italia, 1966) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2019-2020**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 

@@ -74,11 +74,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Cristiano Lucarelli, guida tecnica del Calcio Catania](/assets/images/allenatori/cristiano-lucarelli.jpg)
-*Cristiano Lucarelli, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
-
 # Cristiano Lucarelli
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/cristiano-lucarelli.jpg" alt="Cristiano Lucarelli" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Cristiano Lucarelli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1975</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2017–2018, 2019–2020, 2023–2024</strong> (dal 01/07/2017 al 07/03/2024)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>91</td>
+        <th>Media Punti</th>
+        <td>1,71</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/cristiano-lucarelli.jpg" alt="Cristiano Lucarelli" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Cristiano Lucarelli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1975</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2017–2018, 2019–2020, 2023–2024</strong> (dal 01/07/2017 al 07/03/2024)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>91</td>
+        <th>Media Punti</th>
+        <td>1,71</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Cristiano Lucarelli** (Livorno, Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2017-2018, 2019-2020, 2023-2024**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti), Catania Football Club (2023-Oggi).
 

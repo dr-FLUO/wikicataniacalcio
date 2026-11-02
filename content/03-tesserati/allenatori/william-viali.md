@@ -69,13 +69,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # William Viali
 
-![William Viali, guida tecnica del Calcio Catania](/assets/images/allenatori/william-viali.jpg)
-*William Viali, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/william-viali.jpg" alt="William Viali" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">William Viali</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1974</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2025–2026</strong> (dal 17/03/2026 al 15/04/2026)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>4</td>
+        <th>Media Punti</th>
+        <td>1,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/william-viali.jpg" alt="William Viali" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">William Viali</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1974</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2025–2026</strong> (dal 17/03/2026 al 15/04/2026)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>4</td>
+        <th>Media Punti</th>
+        <td>1,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **William Viali** (Vaprio d'Adda (MI), Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2025-2026**, legando il proprio nome alla storia societaria di Catania Football Club (2023-Oggi).
 

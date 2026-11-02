@@ -14,7 +14,6 @@ catania_periods:
 - 2004-2005
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-image: assets/images/allenatori/maurizio-costantini.jpg
 image_credits:
 - image_path: assets/images/allenatori/maurizio-costantini.jpg
   alt_text: Ritratto ufficiale di Maurizio Costantini in maglia rossazzurra
@@ -67,13 +66,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Maurizio Costantini
 
-![Maurizio Costantini, guida tecnica del Calcio Catania](/assets/images/allenatori/maurizio-costantini.jpg)
-*Maurizio Costantini, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Maurizio Costantini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2004–2005</strong> (dal 01/07/2004 al 31/10/2004)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>14</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Maurizio Costantini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2004–2005</strong> (dal 01/07/2004 al 31/10/2004)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>14</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 

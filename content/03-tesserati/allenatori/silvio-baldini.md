@@ -73,13 +73,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
-
-![Silvio Baldini, guida tecnica del Calcio Catania](/assets/images/allenatori/silvio-baldini.jpg)
-*Silvio Baldini, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Silvio Baldini
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/silvio-baldini.jpg" alt="Silvio Baldini" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Silvio Baldini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1958</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2007–2008</strong> (dal 01/07/2007 al 31/03/2008)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,03</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/silvio-baldini.jpg" alt="Silvio Baldini" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Silvio Baldini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1958</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2007–2008</strong> (dal 01/07/2007 al 31/03/2008)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,03</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Silvio Baldini** (Massa, Italia, 1958) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2007-2008**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 

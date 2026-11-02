@@ -64,8 +64,65 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Riccardo Carapellese
 
-![Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/riccardo-carapellese.jpg)
-*Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Riccardo Carapellese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1922</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1957–1958</strong> (dal 08/12/1957 al 29/12/1957)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>3</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Riccardo Carapellese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1922</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1957–1958</strong> (dal 08/12/1957 al 29/12/1957)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>3</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Riccardo Carapellese** (Cerignola (FG), Italia, 1922 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).

@@ -68,13 +68,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Edoardo Reja
 
-![Edoardo Reja, guida tecnica del Calcio Catania](/assets/images/allenatori/edoardo-reja.jpg)
-*Edoardo Reja, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/edoardo-reja.jpg" alt="Edoardo Reja" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Edoardo Reja</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1945</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2002–2003</strong> (dal 29/01/2003 al 06/04/2003)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>9</td>
+        <th>Media Punti</th>
+        <td>1,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/edoardo-reja.jpg" alt="Edoardo Reja" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Edoardo Reja</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1945</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2002–2003</strong> (dal 29/01/2003 al 06/04/2003)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>9</td>
+        <th>Media Punti</th>
+        <td>1,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Edoardo Reja** (Lucinico (GO), Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 

@@ -66,13 +66,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Rolando Maran
 
-![Rolando Maran, guida tecnica del Calcio Catania](/assets/images/allenatori/rolando-maran.jpg)
-*Rolando Maran, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/rolando-maran.jpg" alt="Rolando Maran" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Rolando Maran</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1963</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2012–2013, 2014</strong> (dal 11/06/2012 al 06/04/2014)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>63</td>
+        <th>Media Punti</th>
+        <td>1,22</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/rolando-maran.jpg" alt="Rolando Maran" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Rolando Maran</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1963</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2012–2013, 2014</strong> (dal 11/06/2012 al 06/04/2014)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>63</td>
+        <th>Media Punti</th>
+        <td>1,22</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Rolando Maran** (Trento, 14 luglio 1963) è un allenatore di calcio ed ex calciatore italiano. È il tecnico che ha condotto il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] al **punto più alto della sua storia statistica e agonistica in Serie A**: nella memorabile [[stagioni/2012-2013|Stagione 2012-2013]], la formazione rossazzurra da lui guidata ha conquistato l'**8º posto in classifica** (eguagliando il miglior piazzamento di sempre stabilito da [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta) e ha fissato il **record assoluto di punti (56)**, di **vittorie complessive (15)**, di **vittorie interne (12 su 19)** e di **reti segnate (50)** nella Serie A moderna a 20 squadre, sfiorando per un solo punto la qualificazione alla UEFA Europa League.
 

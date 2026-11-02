@@ -57,13 +57,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Lajos Czeizler
 
-![Ritratto ufficiale di Lajos Czeizler sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/lajos-czeizler.jpg)
-*Ritratto ufficiale di Lajos Czeizler sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/lajos-czeizler.jpg" alt="Lajos Czeizler" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Lajos Czeizler</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1893</td>
+        <th>Nazionalità</th>
+        <td>Ungheria</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1932–1933</strong> (dal 01/07/1932 al 18/03/1933)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>0</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/lajos-czeizler.jpg" alt="Lajos Czeizler" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Lajos Czeizler</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1893</td>
+        <th>Nazionalità</th>
+        <td>Ungheria</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1932–1933</strong> (dal 01/07/1932 al 18/03/1933)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>0</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Lajos Czeizler** (Heves, Ungheria, 1893 – 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1932-1933**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 

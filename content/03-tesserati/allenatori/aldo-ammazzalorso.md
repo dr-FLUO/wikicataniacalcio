@@ -50,9 +50,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Aldo Ammazzalorso
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Aldo Ammazzalorso</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1951</td>
+        <th>Nazionalità</th>
+        <td>Argentina / Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2001–2002</strong> (dal 23/06/2001 al 18/12/2001)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>19</td>
+        <th>Media Punti</th>
+        <td>1,42</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Aldo Ammazzalorso</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1951</td>
+        <th>Nazionalità</th>
+        <td>Argentina / Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2001–2002</strong> (dal 23/06/2001 al 18/12/2001)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>19</td>
+        <th>Media Punti</th>
+        <td>1,42</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Aldo Ammazzalorso** (Buenos Aires, Argentina, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 

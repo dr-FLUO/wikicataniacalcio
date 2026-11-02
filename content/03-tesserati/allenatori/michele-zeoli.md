@@ -64,6 +64,65 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Michele Zeoli
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Michele Zeoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1973</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2022–2023, 2023–2024</strong> (dal 08/03/2024 al 18/06/2024)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>14</td>
+        <th>Media Punti</th>
+        <td>1,36</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Michele Zeoli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1973</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2022–2023, 2023–2024</strong> (dal 08/03/2024 al 18/06/2024)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>14</td>
+        <th>Media Punti</th>
+        <td>1,36</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Michele Zeoli**, universalmente noto ai tifosi rossazzurri con il soprannome di **"Zorro"** per la celebre esultanza con la maschera (Civitavecchia, 22 aprile 1974), è un allenatore di calcio ed ex calciatore italiano, di ruolo difensore. Figura simbolo di appartenenza e cuore etneo attraverso due diversi quarti di secolo, è stato prima **colonna difensiva del [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] dal 2000 al 2004** (protagonista con **104 presenze ufficiali e 5 reti** della promozione in Serie B a Taranto nella [[stagioni/2001-2002|Stagione 2001-2002]]) e successivamente **allenatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]] nella [[stagioni/2023-2024|Stagione 2023-2024]]**, conducendo il club il **2 aprile 2024** alla conquista della **Coppa Italia Serie C** ([[partite/2023-2024/finale-coppa-catania-padova-4-2|Catania-Padova 4-2 d.t.s.]]), il **primo trofeo nazionale nella storia ultranovantennale del Catania**.
 
 > [!abstract] Sintesi Storica: Da "Zorro" al Primo Trofeo Nazionale

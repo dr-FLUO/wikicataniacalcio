@@ -77,13 +77,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Gianni Di Marzio
 
-![Gianni Di Marzio, guida tecnica del Calcio Catania](/assets/images/allenatori/gianni-di-marzio.jpg)
-*Gianni Di Marzio, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/gianni-di-marzio.jpg" alt="Gianni Di Marzio" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Gianni Di Marzio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1940</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1982–1983</strong> (dal 01/07/1982 al 15/12/1983)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>62</td>
+        <th>Media Punti</th>
+        <td>1,34</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/gianni-di-marzio.jpg" alt="Gianni Di Marzio" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Gianni Di Marzio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1940</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1982–1983</strong> (dal 01/07/1982 al 15/12/1983)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>62</td>
+        <th>Media Punti</th>
+        <td>1,34</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Gianni Di Marzio** (Napoli, 8 gennaio 1940 – Padova, 22 gennaio 2022) è stato un allenatore di calcio e dirigente sportivo italiano. Tecnico carismatico e profondo conoscitore di calcio (celebre per aver scoperto un giovanissimo Diego Armando Maradona in Argentina nel 1978), è entrato nel mito della storia rossazzurra guidando il [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] alla **quarta promozione in Serie A nella [[stagioni/1982-1983|Stagione 1982-1983]]**, trionfando negli **spareggi dello Stadio Olimpico di Roma del 18 e 25 giugno 1983** davanti al leggendario [[tifoseria/eventi/esodo-roma-1983|esodo di 40.000 tifosi catanesi]].
 

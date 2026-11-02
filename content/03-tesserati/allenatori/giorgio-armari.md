@@ -48,9 +48,66 @@ aliases:
 - allenatori/giorgio-armari
 ---
 
-
-
 # Giorgio Armari
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giorgio Armari</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1895</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1929–1930, 1932–1933</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giorgio Armari</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1895</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1929–1930, 1932–1933</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giorgio Armari** (Ferrara, Italia, 1895 – 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929-1930, 1932-1933**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 

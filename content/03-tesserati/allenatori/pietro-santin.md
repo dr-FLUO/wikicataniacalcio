@@ -49,9 +49,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Pietro Santin
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pietro Santin</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1987–1988</strong> (dal 01/07/1987 al 30/06/1988)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>0</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pietro Santin</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1987–1988</strong> (dal 01/07/1987 al 30/06/1988)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>0</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pietro Santin** (Rovigno d'Istria, Italia, 1933 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1987-1988**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

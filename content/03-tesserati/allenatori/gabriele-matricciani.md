@@ -51,13 +51,69 @@ aliases:
 - allenatori/gabriele-matricciani
 ---
 
-
-
 # Gabriele Matricciani
 
-![Ritratto ufficiale di Gabriele Matricciani sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/gabriele-matricciani.jpg)
-*Ritratto ufficiale di Gabriele Matricciani sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/gabriele-matricciani.jpg" alt="Gabriele Matricciani" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Gabriele Matricciani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1951</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2003–2004</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/gabriele-matricciani.jpg" alt="Gabriele Matricciani" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Gabriele Matricciani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1951</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2003–2004</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Gabriele Matricciani** (Pescara, Italia, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 

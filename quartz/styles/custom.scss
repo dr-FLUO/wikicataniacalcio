@@ -3976,7 +3976,7 @@ nav.breadcrumb-container,
     }
 
     tbody tr {
-      height: 20%; // 5 righe divise equamente in altezza per riempire al 100% l'area verticale
+      height: 20%; // 5 righe divise equamente in altezza per riempire al 100% l'area verticale (calciatori)
       border-bottom: 1px solid var(--wiki-border-subtle, #e5e5e5) !important;
       border-top: none !important;
       border-left: none !important;
@@ -3989,6 +3989,10 @@ nav.breadcrumb-container,
       &:hover {
         background-color: rgba(211, 47, 47, 0.02) !important;
       }
+    }
+
+    &.nfc-coach-table tbody tr {
+      height: 25% !important; // 4 righe divise equamente in altezza (allenatori)
     }
 
     th {

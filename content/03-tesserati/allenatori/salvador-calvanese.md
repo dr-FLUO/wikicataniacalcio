@@ -60,6 +60,65 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Salvador Calvanese
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Salvador Calvanese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+        <th>Nazionalità</th>
+        <td>Argentina / Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1971–1972</strong> (dal 01/07/1971 al 10/10/1971)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>7</td>
+        <th>Media Punti</th>
+        <td>1,14</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Salvador Calvanese</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1934</td>
+        <th>Nazionalità</th>
+        <td>Argentina / Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1971–1972</strong> (dal 01/07/1971 al 10/10/1971)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>7</td>
+        <th>Media Punti</th>
+        <td>1,14</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Salvador Calvanese** (Buenos Aires, Argentina, 1934 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1971-1972**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

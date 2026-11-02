@@ -57,13 +57,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Carlo Matteucci
 
-![Ritratto ufficiale di Carlo Matteucci sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/carlo-matteucci.jpg)
-*Ritratto ufficiale di Carlo Matteucci sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/carlo-matteucci.jpg" alt="Carlo Matteucci" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Carlo Matteucci</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1927</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1977–1978</strong> (dal 01/07/1977 al 30/06/1978)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>38</td>
+        <th>Media Punti</th>
+        <td>1,87</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/carlo-matteucci.jpg" alt="Carlo Matteucci" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Carlo Matteucci</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1927</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1977–1978</strong> (dal 01/07/1977 al 30/06/1978)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>38</td>
+        <th>Media Punti</th>
+        <td>1,87</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Carlo Matteucci** (Bologna, Italia, 1927 – 2000) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1977-1978**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

@@ -15,7 +15,6 @@ catania_periods:
 - 2001-2002
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-image: assets/images/allenatori/pietro-vierchowod.jpg
 image_credits:
 - image_path: assets/images/allenatori/pietro-vierchowod.jpg
   alt_text: Ritratto ufficiale di Pietro Vierchowod in maglia rossazzurra
@@ -69,13 +68,66 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Pietro Vierchowod
 
-![Pietro Vierchowod, guida tecnica del Calcio Catania](/assets/images/allenatori/pietro-vierchowod.jpg)
-*Pietro Vierchowod, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pietro Vierchowod</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1959</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2001–2002</strong> (dal 19/12/2001 al 22/04/2002)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>16</td>
+        <th>Media Punti</th>
+        <td>1,81</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Pietro Vierchowod</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1959</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2001–2002</strong> (dal 19/12/2001 al 22/04/2002)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>16</td>
+        <th>Media Punti</th>
+        <td>1,81</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Pietro Vierchowod** (Calcinate (BG), Italia, 1959) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 

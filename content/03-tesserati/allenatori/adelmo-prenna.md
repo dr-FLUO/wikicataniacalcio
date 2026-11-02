@@ -66,9 +66,67 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Adelmo Prenna
 
-![Ritratto ufficiale di Adelmo Prenna sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/adelmo-prenna.jpg)
-*Ritratto ufficiale di Adelmo Prenna sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/adelmo-prenna.jpg" alt="Adelmo Prenna" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Adelmo Prenna</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1930</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1973–1974</strong> (dal 07/04/1974 al 30/06/1974)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>11</td>
+        <th>Media Punti</th>
+        <td>0,45</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/adelmo-prenna.jpg" alt="Adelmo Prenna" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Adelmo Prenna</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1930</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1973–1974</strong> (dal 07/04/1974 al 30/06/1974)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>11</td>
+        <th>Media Punti</th>
+        <td>0,45</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Adelmo Prenna** (Roma, Italia, 1930 – 2008) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1973-1974**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

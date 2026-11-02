@@ -5,6 +5,7 @@ description: Biografia e storia dirigenziale di Luciano Gaucci (1938-2020), patr
   del Caso Catania 2003.
 slug: 01-societa/presidenti/luciano-gaucci
 entity_type: dirigente
+image: assets/images/presidenti-dirigenti/luciano-gaucci.jpg
 date_start: 2000-05-15
 date_end: 2004-06-30
 club_entity: '[[societa/2000-era-gaucci|Calcio Catania S.p.A. — Gestione Gaucci]]'

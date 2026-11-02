@@ -63,13 +63,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
-
-![Giuseppe Raffaele, guida tecnica del Calcio Catania](/assets/images/allenatori/giuseppe-raffaele.jpg)
-*Giuseppe Raffaele, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Giuseppe Raffaele
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/giuseppe-raffaele.jpg" alt="Giuseppe Raffaele" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giuseppe Raffaele</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1975</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2020–2021</strong> (dal 14/08/2020 al 18/03/2021)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>30</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/giuseppe-raffaele.jpg" alt="Giuseppe Raffaele" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giuseppe Raffaele</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1975</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2020–2021</strong> (dal 14/08/2020 al 18/03/2021)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>30</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giuseppe Raffaele** (Barcellona Pozzo di Gotto (ME), Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2021**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione SIGI).
 

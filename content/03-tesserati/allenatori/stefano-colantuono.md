@@ -67,13 +67,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Stefano Colantuono
 
-![Stefano Colantuono, guida tecnica del Calcio Catania](/assets/images/allenatori/stefano-colantuono.jpg)
-*Stefano Colantuono, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/stefano-colantuono.jpg" alt="Stefano Colantuono" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Stefano Colantuono</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2003–2004</strong> (dal 01/07/2003 al 30/06/2004)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>5</td>
+        <th>Media Punti</th>
+        <td>2,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/stefano-colantuono.jpg" alt="Stefano Colantuono" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Stefano Colantuono</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1962</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2003–2004</strong> (dal 01/07/2003 al 30/06/2004)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>5</td>
+        <th>Media Punti</th>
+        <td>2,00</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Stefano Colantuono** (Roma, Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 

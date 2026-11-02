@@ -52,6 +52,65 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Nereo Marini
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Nereo Marini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1908</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1950–1952</strong> (dal 01/07/1951 al 20/01/1952)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>16</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Nereo Marini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1908</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1950–1952</strong> (dal 01/07/1951 al 20/01/1952)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>16</td>
+        <th>Media Punti</th>
+        <td>1,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 **Nereo Marini** (Mantova, Italia, 1909) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1950-1952**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

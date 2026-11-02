@@ -65,11 +65,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Egizio Rubino, storico tecnico della promozione in Serie A del 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp)
-*Egizio Rubino, storico tecnico della promozione in Serie A del 1969-1970 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
-
-
 # Egizio Rubino
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp" alt="Egizio Rubino" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Giornalistico Catanese</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Egizio Rubino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1919</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1968–1971, 1974–1976, 1980</strong> (dal 01/07/1968 al 14/03/1976)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>183</td>
+        <th>Media Punti</th>
+        <td>1,35</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/egizio-rubino-calcio-catania-allenatore-serie-a-1968-1974.webp" alt="Egizio Rubino" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Giornalistico Catanese</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Egizio Rubino</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1919</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1968–1971, 1974–1976, 1980</strong> (dal 01/07/1968 al 14/03/1976)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>183</td>
+        <th>Media Punti</th>
+        <td>1,35</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Egizio Rubino** (Siracusa, 30 giugno 1923 – Siracusa, 5 febbraio 2008) è stato un calciatore, allenatore di calcio e dirigente sportivo italiano. Ricordato come il *"Signore della panchina"* per lo stile sobrio e la signorilità fuori dal campo, è stato il **primo grande condottiero dell'epopea presidenziale di [[societa/presidenti/angelo-massimino|Angelo Massimino]]** alla guida del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], firmando **due storiche promozioni** (e collaborando a una terza): il **ritorno in Serie A nella [[stagioni/1969-1970|Stagione 1969-1970]]** e la **vittoria del campionato di Serie C 1974-1975**, per un totale di **168 panchine ufficiali** in rossazzurro.
 

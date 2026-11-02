@@ -55,13 +55,69 @@ aliases:
 - allenatori/franco-gagliardi
 ---
 
-
-
-
-![Franco Gagliardi, guida tecnica del Calcio Catania](/assets/images/allenatori/franco-gagliardi.jpg)
-*Franco Gagliardi, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Franco Gagliardi
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/franco-gagliardi.jpg" alt="Franco Gagliardi" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Franco Gagliardi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1947</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1997–1998</strong> (dal 01/07/1997 al 30/06/1998)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,26</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/franco-gagliardi.jpg" alt="Franco Gagliardi" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Franco Gagliardi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1947</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1997–1998</strong> (dal 01/07/1997 al 30/06/1998)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>34</td>
+        <th>Media Punti</th>
+        <td>1,26</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Franco Gagliardi** (Reggio Calabria, Italia, 1943) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1997-1998**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 

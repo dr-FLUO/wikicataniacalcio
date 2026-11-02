@@ -74,13 +74,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Vincenzo Guerini
 
-![Vincenzo Guerini, guida tecnica del Calcio Catania](/assets/images/allenatori/vincenzo-guerini.jpg)
-*Vincenzo Guerini, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/vincenzo-guerini.jpg" alt="Vincenzo Guerini" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Vincenzo Guerini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1953</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1999–2000, 2001, 2003</strong> (dal 15/10/2000 al 30/06/2003)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>15</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/vincenzo-guerini.jpg" alt="Vincenzo Guerini" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Vincenzo Guerini</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1953</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1999–2000, 2001, 2003</strong> (dal 15/10/2000 al 30/06/2003)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>15</td>
+        <th>Media Punti</th>
+        <td>1,33</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Vincenzo Guerini** (Sarezzo, 30 ottobre 1953) è un dirigente sportivo ed ex allenatore di calcio italiano (già centrocampista della Fiorentina e della Nazionale italiana prima del grave incidente stradale del 1975 che ne interruppe prematuramente la carriera agonistica a 22 anni). Già tornato per la prima volta a Catania come allenatore in **Serie B nella stagione 1986-1987** (subentrando a Gennaro Rambone), ha legato il proprio nome alla fase di transizione tra la fine della gestione degli eredi di [[societa/presidenti/angelo-massimino|Angelo Massimino]] e l'[[societa/2000-era-gaucci|Era Gaucci]], guidando i rossazzurri in molteplici cicli (1986-1987, 1999-2000, 2000-2001 e [[stagioni/2002-2003|2002-2003]]) e sedendo sulla panchina dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] nella storica gara [[partite/2002-2003/catania-siena-1-1|Catania-Siena 1-1 del 12 aprile 2003]] da cui scaturì il [[vicende-legali/caso-catania-2003|Caso Catania]].
 

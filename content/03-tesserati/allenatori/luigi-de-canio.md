@@ -67,13 +67,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
 # Luigi De Canio
 
-![Luigi De Canio, guida tecnica del Calcio Catania](/assets/images/allenatori/luigi-de-canio.jpg)
-*Luigi De Canio, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/luigi-de-canio.jpg" alt="Luigi De Canio" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luigi De Canio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1957</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2013–2014</strong> (dal 20/10/2013 al 16/01/2014)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>12</td>
+        <th>Media Punti</th>
+        <td>0,67</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/luigi-de-canio.jpg" alt="Luigi De Canio" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luigi De Canio</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1957</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2013–2014</strong> (dal 20/10/2013 al 16/01/2014)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>12</td>
+        <th>Media Punti</th>
+        <td>0,67</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Luigi De Canio** (Matera, Italia, 1957) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2013-2014**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 

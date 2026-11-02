@@ -72,8 +72,68 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Nicolò Nicolosi
 
-![Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/nicolo-nicolosi.jpg)
-*Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/nicolo-nicolosi.jpg" alt="Nicolò Nicolosi" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Nicolò Nicolosi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1912</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1947–1948, 1957–1958</strong> (dal 05/01/1958 al 12/01/1958)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>2</td>
+        <th>Media Punti</th>
+        <td>0,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/nicolo-nicolosi.jpg" alt="Nicolò Nicolosi" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Nicolò Nicolosi</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1912</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1947–1948, 1957–1958</strong> (dal 05/01/1958 al 12/01/1958)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>2</td>
+        <th>Media Punti</th>
+        <td>0,50</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 *Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Nicolò Nicolosi** (Lercara Friddi (PA), Italia, 1912 – 1986) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1947-1948, 1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).

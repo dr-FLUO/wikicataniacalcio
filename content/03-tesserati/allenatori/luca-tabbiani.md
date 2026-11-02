@@ -63,13 +63,69 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-
-
-
-![Luca Tabbiani, guida tecnica del Calcio Catania](/assets/images/allenatori/luca-tabbiani.jpg)
-*Luca Tabbiani, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
-
 # Luca Tabbiani
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/luca-tabbiani.jpg" alt="Luca Tabbiani" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luca Tabbiani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2023–2024</strong> (dal 16/06/2023 al 05/11/2023)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>13</td>
+        <th>Media Punti</th>
+        <td>1,38</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/luca-tabbiani.jpg" alt="Luca Tabbiani" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Archivio Storico Calcio Catania</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Luca Tabbiani</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1979</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>2023–2024</strong> (dal 16/06/2023 al 05/11/2023)</td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>13</td>
+        <th>Media Punti</th>
+        <td>1,38</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Luca Tabbiani** (Genova, Italia, 1979) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2023-2024**, legando il proprio nome alla storia societaria di Catania Football Club (2023-Oggi).
 

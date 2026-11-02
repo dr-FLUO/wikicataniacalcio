@@ -53,13 +53,69 @@ aliases:
 - allenatori/giulio-cappelli
 ---
 
-
-
 # Giulio Cappelli
 
-![Ritratto ufficiale di Giulio Cappelli sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/giulio-cappelli.jpg)
-*Ritratto ufficiale di Giulio Cappelli sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/giulio-cappelli.jpg" alt="Giulio Cappelli" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giulio Cappelli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1911</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1952–1953</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
+<div class="nfc-player-hero-card nfc-coach-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/allenatori/giulio-cappelli.jpg" alt="Giulio Cappelli" class="nfc-player-photo" />
+    <span class="nfc-player-photo-credit">Wikimedia Commons</span>
+  </div>
+  <table class="nfc-player-table nfc-coach-table">
+    <tbody>
+      <tr>
+        <th>Nome e cognome</th>
+        <td colspan="3">Giulio Cappelli</td>
+      </tr>
+      <tr>
+        <th>Anno</th>
+        <td>1911</td>
+        <th>Nazionalità</th>
+        <td>Italia</td>
+      </tr>
+      <tr>
+        <th>Al Catania</th>
+        <td colspan="3"><strong>1952–1953</strong></td>
+      </tr>
+      <tr class="nfc-stats-row">
+        <th>Partite</th>
+        <td>ND</td>
+        <th>Media Punti</th>
+        <td>ND</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 **Giulio Cappelli** (La Spezia, Italia, 1911 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1952-1953**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
