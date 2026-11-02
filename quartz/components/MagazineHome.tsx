@@ -351,6 +351,232 @@ const COVER_STORIES_POOL: CoverStory[] = [
     image: "./static/images/photos/torre-del-grifo-village.jpg",
     credit: "Foto: Salvosmav (CC BY-SA 4.0)",
   },
+
+  // Batch 6 (Notturne Storiche, Trionfi in A e Spareggi)
+  {
+    id: "catania-roma-2011",
+    issue: "EPICA · 15.05.2011",
+    category: "SERIE A",
+    title: "Catania–Roma 2-1: la rimonta salvezza firmata Bergessio e Gómez",
+    excerpt:
+      "Sotto di un gol, il Catania del Cholo Simeone ribalta i giallorossi all'82' e al 95', centrando l'aritmetica permanenza in A al termine di una battaglia indimenticabile.",
+    href: "./02-cronistoria/stagioni/2010-2011",
+    image: "./static/images/photos/diego-simeone.jpg",
+    credit: "Foto: Carlos Delgado (CC BY-SA 3.0)",
+  },
+  {
+    id: "catania-juventus-2011",
+    issue: "PRODEZZA · 25.09.2011",
+    category: "SERIE A",
+    title: "Catania–Juventus 1-1: la notte del gol capolavoro di Gonzalo Bergessio",
+    excerpt:
+      "Il Catania di Vincenzo Montella mette alle corde la corazzata di Antonio Conte: gol di prepotenza di Bergessio e una sinfonia corale applaudita da tutta Italia.",
+    href: "./02-cronistoria/stagioni/2011-2012",
+    image: "./static/images/photos/gonzalo-bergessio.jpg",
+    credit: "Foto: Phil1m (CC BY-SA 3.0)",
+  },
+  {
+    id: "catania-milan-2012",
+    issue: "CONTESA · 31.03.2012",
+    category: "SERIE A",
+    title: "Catania–Milan 1-1: il pareggio di Spolli e la sfida ai campioni d'Italia",
+    excerpt:
+      "La sfida scudetto al Massimino: il salvataggio sulla riga di Marchese su Robinho e il sigillo di Nicolás Spolli che frenò i rossoneri di Ibrahimović.",
+    href: "./02-cronistoria/stagioni/2011-2012",
+    image: "./static/images/photos/vincenzo-montella.jpg",
+    credit: "Foto: Roberto Quartarone (CC BY-SA 2.5)",
+  },
+  {
+    id: "derby-catania-palermo-2008",
+    issue: "DERBY · 02.12.2007",
+    category: "SERIE A",
+    title: "Catania–Palermo 3-1: Mascara e Martínez infiammano il Massimino",
+    excerpt:
+      "La spettacolare affermazione nel derby siciliano di Serie A con il gol al volo di Peppe Mascara e il sigillo del «Malaka» Jorge Martínez.",
+    href: "./02-cronistoria/stagioni/2007-2008",
+    image: "./static/images/photos/mascara-spinesi.jpg",
+    credit: "Foto: Roberto Quartarone (CC BY-SA 2.5)",
+  },
+  {
+    id: "promozione-taranto-2002",
+    issue: "RISALITA · 09.06.2002",
+    category: "SERIE C1",
+    title: "La finale di Taranto: Graziani e Pellegrino riportano il Catania in Serie B",
+    excerpt:
+      "Dallo 0-0 dello Iacovone al gol di Fini al Massimino: l'epico spareggio playoff dell'era Gaucci che cancellò quindici anni di inferno in terza serie.",
+    href: "./02-cronistoria/stagioni/2001-2002",
+    image: "./static/images/photos/francesco-graziani.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "cucchi-record-1999",
+    issue: "CAVALCATA · 1998-1999",
+    category: "SERIE C2",
+    title: "I 59 punti di Piero Cucchi: la marcia inarrestabile verso la C1",
+    excerpt:
+      "Ventuno giornate senza sconfitte, la difesa d'acciaio e il primato solitario: la trionfale cavalcata che aprì il nuovo millennio rossazzurro.",
+    href: "./02-cronistoria/stagioni/1998-1999",
+    image: "./static/images/photos/curva-nord-storica.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+
+  // Batch 7 (Radici, Identità Araldica e Grandi Gemellaggi)
+  {
+    id: "riconquista-marchio-2026",
+    issue: "STORIA · 22.10.2026",
+    category: "ARALDICA & DIRITTO",
+    title: "L'Asta del 22 ottobre 2026: il Catania FC riscatta il marchio storico",
+    excerpt:
+      "Dopo un'ora di rilanci telematici al Tribunale di Catania, il presidente Ross Pelligra si aggiudica per 250.000 euro lo stemma del 1946 e le denominazioni storiche.",
+    href: "./05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026",
+    image: "./static/images/photos/stemma-catania-spa-2002-2022.png",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "fondazione-1946",
+    issue: "RINASCITA · 24.09.1946",
+    category: "STORIA SOCIETARIA",
+    title: "24 Settembre 1946: la nascita del Club Calcio Catania e la matricola 11700",
+    excerpt:
+      "La fusione tra Virtus Catania e Catanese Elefante promossa da Santi Maimone e Angelo Vasta: l'atto fondativo che unificò il calcio cittadino nel dopoguerra.",
+    href: "./01-societa/epoche/1946-club-calcio-catania",
+    image: "./static/images/photos/liotru-storico-1865.jpg",
+    credit: "Archivio Civico Catanese",
+  },
+  {
+    id: "gemellaggio-napoli-1979",
+    issue: "FRATELLANZA · DAL 1979",
+    category: "CULTURA ULTRAS",
+    title: "Catania e Napoli: il patto d'acciaio tra le due capitali del Mezzogiorno",
+    excerpt:
+      "Quarantasette anni di rispetto e reciproca accoglienza tra la Curva Nord etnea e le Curve partenopee: il gemellaggio più longevo e sentito del Sud Italia.",
+    href: "./06-tifoseria-e-cultura/relazioni/amicizie/napoli",
+    image: "./static/images/photos/spavaldi-e-fieri-cibali.jpg",
+    credit: "Curva Nord Catania",
+  },
+  {
+    id: "gemellaggio-genoa-2006",
+    issue: "UNIONE · DAL 2006",
+    category: "CULTURA ULTRAS",
+    title: "L'abbraccio del Ferraris: la storica fratellanza tra Catania e Genoa",
+    excerpt:
+      "Nato nella corsa promozione in Serie B del 2005-2006, il legame indissolubile con la Gradinata Nord rossoblù nel segno dell'amicizia e dei colori del mare.",
+    href: "./06-tifoseria-e-cultura/relazioni/gemellaggi/genoa",
+    image: "./static/images/photos/curva-nord-coreografia.jpg",
+    credit: "Curva Nord Catania",
+  },
+  {
+    id: "debutto-serie-a-bologna-1954",
+    issue: "PRIMATO · 19.09.1954",
+    category: "SERIE A",
+    title: "Bologna–Catania 4-2: lo storico battesimo del fuoco in massima serie",
+    excerpt:
+      "Lo storico esordio della formazione di Piero Andreoli allo Stadio Comunale di Bologna: la prima apparizione dell'Elefante nell'élite del calcio italiano.",
+    href: "./02-cronistoria/stagioni/1954-1955",
+    image: "./static/images/photos/catania-1954-55.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "nascita-falange-1979",
+    issue: "PIONIERI · OTTOBRE 1979",
+    category: "CULTURA ULTRAS",
+    title: "Falange d'Assalto 1979: il primo nucleo organizzato del tifo al Cibali",
+    excerpt:
+      "Fondata da Ciccio Famoso e dai veterani del quartiere Palestro: i tamburi a mano, il tamburo a tracolla e la nascita del tifo moderno in Curva Sud.",
+    href: "./06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto",
+    image: "./static/images/photos/ciccio-famoso.jpg",
+    credit: "Curva Nord Catania",
+  },
+
+  // Batch 8 (Voci Eterne, Impianti Pionieristici e Trofei Nazionali)
+  {
+    id: "candido-cannavo-giornalismo",
+    issue: "MEMORIA · 1928–2009",
+    category: "GIORNALISMO & VOCI",
+    title: "Candido Cannavò: dalla tribuna stampa del Cibali alla direzione della Gazzetta",
+    excerpt:
+      "La voce civile e sportiva più autorevole di Catania: il racconto appassionato delle promozioni storiche e l'amore viscerale per l'Elefante.",
+    href: "./07-media-e-comunicazione/firme-e-voci/candido-cannavo",
+    image: "./static/images/photos/clamoroso-inter-1961.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+  {
+    id: "scudetto-jolly-femminile-1978",
+    issue: "TRICOLORE · 1978",
+    category: "CALCIO FEMMINILE",
+    title: "Lo Scudetto della Jolly Componibili: Catania campione d'Italia nel 1978",
+    excerpt:
+      "L'impresa leggendaria della squadra etnea capitanata da Rose Reilly e Susanne Augustesen: l'unico tricolore calcistico assoluto della città di Catania.",
+    href: "./08-settori-paralleli/women/",
+    image: "./static/images/photos/coccarda-coppa-italia-c.png",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "cantera-viareggio-torneo",
+    issue: "VIVAIO · 1950–OGGI",
+    category: "SETTORE GIOVANILE",
+    title: "La Cantera dell'Elefante: dalle semifinali di Viareggio ai talenti di Torre del Grifo",
+    excerpt:
+      "Le formazioni Primavera e Berretti, le partecipazioni alla Coppa Carnevale e i campioni cresciuti nel vivaio etneo fino al professionismo.",
+    href: "./08-settori-paralleli/giovanili/",
+    image: "./static/images/photos/torre-del-grifo-village.jpg",
+    credit: "Foto: Salvosmav (CC BY-SA 4.0)",
+  },
+  {
+    id: "campo-due-obelischi",
+    issue: "PIONIERI · 1930-1937",
+    category: "ARCHITETTURA",
+    title: "Il Campo dei Due Obelischi: sette anni di battaglie prima del Cibali",
+    excerpt:
+      "Il terreno di gioco della SS Catania sulla barriera di Canalicchio: la fossa dove Geza Kertész forgiò la prima leggendaria promozione in Serie B.",
+    href: "./04-strutture/campi-storici/",
+    image: "./static/images/photos/catania-1933-34.jpg",
+    credit: "Archivio Storico Calcio Catania",
+  },
+  {
+    id: "coppa-delle-alpi-1964",
+    issue: "EUROPA · GIUGNO 1964",
+    category: "TORNEI INTERNAZIONALI",
+    title: "La Coppa delle Alpi 1964: il Catania di Di Bella protagonista in Svizzera",
+    excerpt:
+      "Le sfide contro Basilea, Zurigo e Servette: la prestigiosa ribalta continentale del Catania d'oro guidato dal Commissario Marcoccio.",
+    href: "./02-cronistoria/stagioni/1963-1964",
+    image: "./static/images/photos/szymaniak-marcoccio.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+  {
+    id: "catania-napoli-1961",
+    issue: "SERIE A · 15.01.1961",
+    category: "SERIE A",
+    title: "Catania–Napoli 3-1: il trionfo al Cibali nella stagione d'oro",
+    excerpt:
+      "Le reti di Prenna, Castellazzi e Morelli piegano i campani in un Cibali gremito in ogni ordine di posto nella splendida cavalcata dell'ottavo posto.",
+    href: "./02-cronistoria/stagioni/1960-1961",
+    image: "./static/images/photos/catania-1960-61.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
+  {
+    id: "simbologia-colori-1929",
+    issue: "SIMBOLI · DAL 1929",
+    category: "ESTETICA & ARALDICA",
+    title: "Il rosso del fuoco e l'azzurro del cielo: novantasette anni di fede cromatica",
+    excerpt:
+      "La deliberazione statutaria del 1929 che scelse i colori del vulcano e delle acque joniche, unendo per sempre il popolo etneo sotto un'unica bandiera.",
+    href: "./05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti",
+    image: "./static/images/photos/stemma-catania-ssd-2022-2023.png",
+    credit: "Archivio Storico Maglie Catania",
+  },
+  {
+    id: "treni-spareggi-roma-1983",
+    issue: "TRASFERTA · GIUGNO 1983",
+    category: "CULTURA ULTRAS",
+    title: "I treni speciali per Roma 1983: l'esodo di quarantamila cuori rossazzurri",
+    excerpt:
+      "Quaranta carrozze speciali, ventidue ore di viaggio no-stop e il traghetto dello Stretto: la più grande mobilitazione calcistica del Meridione d'Italia.",
+    href: "./06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983",
+    image: "./static/images/photos/mastalli-cantarutti.jpg",
+    credit: "Archivio Storico · Pubblico Dominio",
+  },
 ]
 
 interface PortraitItem {
@@ -668,6 +894,126 @@ const PORTRAITS_POOL: PortraitItem[] = [
     href: "./03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti",
     image: "./static/images/photos/aquilino-bonfanti.webp",
   },
+
+  // Batch 10 (Tecnici del Riscatto e della Risalita)
+  {
+    id: "francesco-graziani",
+    name: "Francesco Graziani",
+    role: "ALLENATORE · 2001–2003",
+    stat: "PROMOZIONE B 2002",
+    href: "./03-tesserati/allenatori/francesco-graziani",
+    image: "./static/images/photos/francesco-graziani.jpg",
+  },
+  {
+    id: "domenico-toscano",
+    name: "Domenico Toscano",
+    role: "ALLENATORE · 2024–2026",
+    stat: "80 GARE · 1,72 PPG",
+    href: "./03-tesserati/allenatori/domenico-toscano",
+    image: "./static/images/photos/domenico-toscano.jpg",
+  },
+  {
+    id: "michele-zeoli",
+    name: "Michele Zeoli",
+    role: "DIFENSORE & TECNICO",
+    stat: "COPPA ITALIA C 2024",
+    href: "./03-tesserati/allenatori/michele-zeoli",
+    image: "./static/images/photos/michele-zeoli.webp",
+  },
+  {
+    id: "walter-novellino",
+    name: "Walter Novellino",
+    role: "ALLENATORE · 2019",
+    stat: "10 GARE IN SERIE C",
+    href: "./03-tesserati/allenatori/walter-novellino",
+    image: "./static/images/photos/walter-novellino.jpg",
+  },
+
+  // Batch 11 (Idoli del Campo e Campioni di Fedeltà)
+  {
+    id: "roberto-inglese",
+    name: "Roberto Inglese",
+    role: "CENTRAVANTI · 2024–2026",
+    stat: "31 PRES · 14 GOL",
+    href: "./03-tesserati/calciatori/archivio/g-l/roberto-inglese",
+    image: "./static/images/photos/roberto-inglese.jpg",
+  },
+  {
+    id: "claudio-ranieri",
+    name: "Claudio Ranieri",
+    role: "DIFENSORE · 1982–1984",
+    stat: "92 GARE · SPAREGGI '83",
+    href: "./03-tesserati/calciatori/archivio/a-c/claudio-ranieri",
+    image: "./static/images/photos/claudio-ranieri.jpg",
+  },
+  {
+    id: "giancarlo-danova",
+    name: "Giancarlo Danova",
+    role: "ALA DESTRA · 1965–1968",
+    stat: "«PANTERA» IN SERIE A",
+    href: "./03-tesserati/calciatori/archivio/g-l/giancarlo-danova",
+    image: "./static/images/photos/giancarlo-danova.webp",
+  },
+  {
+    id: "armando-pantanelli",
+    name: "Armando Pantanelli",
+    role: "PORTIERE · 2004–2007",
+    stat: "116 GARE · PROMOZIONE A",
+    href: "./03-tesserati/calciatori/archivio/a-c/armando-pantanelli",
+    image: "./static/images/photos/armando-pantanelli.jpg",
+  },
+
+  // Batch 12 (Bandiere Eterne, Portieri e Maestri Tattici)
+  {
+    id: "orazio-russo",
+    name: "Orazio Russo",
+    role: "ATTACCANTE · 1991–2010",
+    stat: "PRESENZE IN OGNI SERIE",
+    href: "./03-tesserati/calciatori/storici/orazio-russo",
+    image: "./static/images/photos/orazio-russo.jpg",
+  },
+  {
+    id: "giuseppe-vavassori",
+    name: "Giuseppe Vavassori",
+    role: "PORTIERE · 1961–1966",
+    stat: "148 GARE IN SERIE A",
+    href: "./03-tesserati/calciatori/storici/giuseppe-vavassori",
+    image: "./static/images/photos/giuseppe-vavassori.jpg",
+  },
+  {
+    id: "giorgio-mastropasqua",
+    name: "Giorgio Mastropasqua",
+    role: "LIBERO · 1981–1983",
+    stat: "55 PRES · PROMOZIONE '83",
+    href: "./03-tesserati/calciatori/storici/giorgio-mastropasqua",
+    image: "./static/images/photos/giorgio-mastropasqua.jpg",
+  },
+  {
+    id: "maurizio-pellegrino",
+    name: "Maurizio Pellegrino",
+    role: "CENTROCAMPISTA & TECNICO",
+    stat: "168 PRES · PROMOZIONE B",
+    href: "./03-tesserati/calciatori/archivio/m-o/maurizio-pellegrino",
+    image: "./static/images/photos/maurizio-pellegrino.jpg",
+  },
+
+  // Batch 13 (Maestri Mitteleuropei e Dirigenti Fondatori)
+  {
+    id: "lajos-czeizler",
+    name: "Lajos Czeizler",
+    role: "ALLENATORE · 1942–1943",
+    stat: "MAESTRO DANUBIANO",
+    href: "./03-tesserati/allenatori/lajos-czeizler",
+    image: "./static/images/photos/lajos-czeizler.jpg",
+  },
+  {
+    id: "edoardo-reja",
+    name: "Edoardo Reja",
+    role: "ALLENATORE · 2003",
+    stat: "CONDUZIONE SERIE B",
+    href: "./03-tesserati/allenatori/edoardo-reja",
+    image: "./static/images/photos/edoardo-reja.jpg",
+  },
 ]
 
 const ERAS = [
@@ -860,10 +1206,18 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   // Calcolo deterministico orario per render iniziale statico
   const currentHour = Math.floor(Date.now() / 3600000)
   const storyBatchIdx = currentHour % Math.ceil(COVER_STORIES_POOL.length / 6)
-  const initialStories = COVER_STORIES_POOL.slice(storyBatchIdx * 6, storyBatchIdx * 6 + 6)
+  const storiesSlice = COVER_STORIES_POOL.slice(storyBatchIdx * 6, storyBatchIdx * 6 + 6)
+  const initialStories =
+    storiesSlice.length === 6
+      ? storiesSlice
+      : [...storiesSlice, ...COVER_STORIES_POOL.slice(0, 6 - storiesSlice.length)]
 
   const portraitBatchIdx = currentHour % Math.ceil(PORTRAITS_POOL.length / 4)
-  const initialPortraits = PORTRAITS_POOL.slice(portraitBatchIdx * 4, portraitBatchIdx * 4 + 4)
+  const portraitsSlice = PORTRAITS_POOL.slice(portraitBatchIdx * 4, portraitBatchIdx * 4 + 4)
+  const initialPortraits =
+    portraitsSlice.length === 4
+      ? portraitsSlice
+      : [...portraitsSlice, ...PORTRAITS_POOL.slice(0, 4 - portraitsSlice.length)]
 
   const numberBatchIdx = currentHour % Math.ceil(NUMBERS_POOL.length / 5)
   const initialNumbersSlice = NUMBERS_POOL.slice(numberBatchIdx * 5, numberBatchIdx * 5 + 5)

@@ -1911,56 +1911,118 @@ body:not([data-slug="index"]) article#main-article-content > h1:first-child {
   max-width: 68ch;
 }
 
-.nfc-article-hero__meta-grid {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  border-top: 1.5px solid var(--wiki-border-strong);
-  border-bottom: 1.5px solid var(--wiki-border-strong);
-  margin: 0 -1.75rem;
-}
-
-.nfc-meta-cell {
-  padding: 0.65rem 1.1rem;
-  border-right: 1px solid var(--wiki-border-hairline);
+// Minimalist Inline Metadata Strip (Opzione B approvata)
+.nfc-article-hero__meta-inline {
   display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.55rem 0.65rem;
+  padding: 0.55rem 0.2rem;
+  margin: 0 0 1.35rem 0;
+  border-top: 1px solid var(--wiki-border-hairline);
+  border-bottom: 1.5px solid var(--wiki-border-strong);
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
 
-  &:last-child {
-    border-right: none;
+.nfc-meta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.65rem;
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 3px;
+  line-height: 1;
+
+  &--verified {
+    background-color: rgba(16, 185, 129, 0.1);
+    color: #047857;
+    border: 1px solid rgba(16, 185, 129, 0.35);
+
+    .nfc-meta-pill__check {
+      font-weight: 900;
+      color: #059669;
+    }
   }
 
-  &__label {
-    font-family: var(--font-display);
-    font-size: 0.72rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    color: var(--gray);
-  }
-
-  &__val {
-    font-size: 0.84rem;
-    font-weight: 600;
-    color: var(--dark);
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  &--action {
-    justify-content: center;
-    background-color: rgba(12, 178, 217, 0.06);
+  &--draft {
+    background-color: rgba(245, 158, 11, 0.1);
+    color: #b45309;
+    border: 1px solid rgba(245, 158, 11, 0.35);
   }
 }
 
-.nfc-meta-link {
+.nfc-meta-sep {
+  color: var(--wiki-border-strong);
+  user-select: none;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
+
+.nfc-meta-inline-item {
+  color: var(--dark);
+  font-size: 0.84rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.nfc-meta-inline-label {
+  color: var(--gray);
+  font-weight: 600;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.nfc-meta-inline-action {
+  margin-left: auto;
   font-family: var(--font-display);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 800;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   color: var(--rossazzurro-red) !important;
   text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: color 0.15s ease;
+
+  &:hover {
+    color: #b91c1c !important;
+    text-decoration: underline !important;
+  }
+}
+
+:root[saved-theme="dark"] {
+  .nfc-meta-pill--verified {
+    background-color: rgba(16, 185, 129, 0.18);
+    color: #34d399;
+    border-color: rgba(16, 185, 129, 0.45);
+
+    .nfc-meta-pill__check {
+      color: #34d399;
+    }
+  }
+
+  .nfc-meta-pill--draft {
+    background-color: rgba(245, 158, 11, 0.18);
+    color: #fbbf24;
+    border-color: rgba(245, 158, 11, 0.45);
+  }
+
+  .nfc-meta-inline-action {
+    color: #ff6b7b !important;
+
+    &:hover {
+      color: #ff8c99 !important;
+    }
+  }
 }
 
 .nfc-article-hero__figure {
@@ -2041,9 +2103,8 @@ body:not([data-slug="index"]) article#main-article-content > h1:first-child {
       margin-bottom: 1rem !important;
     }
 
-    &__meta-grid {
-      grid-template-columns: 1fr 1fr;
-      margin: 0 -1rem !important; // Allineato al padding mobile per zero overflow
+    &__meta-inline {
+      margin: 0 0 1rem 0 !important;
     }
 
     &__figure {
@@ -2073,9 +2134,8 @@ body:not([data-slug="index"]) article#main-article-content > h1:first-child {
       font-size: clamp(1.65rem, 7vw, 2.2rem) !important;
     }
 
-    &__meta-grid {
-      grid-template-columns: 1fr; // Colonna singola per non troncare testo su smartphone stretti
-      margin: 0 -0.75rem !important;
+    &__meta-inline {
+      margin: 0 0 0.85rem 0 !important;
     }
 
     &__figure {

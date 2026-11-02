@@ -306,32 +306,276 @@ function selectHeroMedia(slug: string, fm: Record<string, any>): HeroMedia | nul
   return null
 }
 
-function getRubricLabel(slug: string, entityType: string): { left: string; right: string } {
-  if (slug.startsWith("stagioni/")) {
-    return { left: "RUBRICA 02 · STAGIONI", right: entityType === "season" ? "ANNALE UFFICIALE" : "INDICE GENERALE" }
+function getPageEditorialBadges(slug: string, fm: Record<string, any>): { left: string; right: string } {
+  // Se il frontmatter specifica esplicitamente le etichette editoriali
+  if (fm.category && fm.issue) {
+    return { left: String(fm.category).toUpperCase(), right: String(fm.issue).toUpperCase() }
   }
-  if (slug.startsWith("societa/")) {
-    return { left: "RUBRICA 01 · SOCIETÀ", right: slug.includes("presidenti/") ? "PROFILO PRESIDENZIALE" : "ERA SOCIETARIA" }
+  if (fm.editorial_category && fm.editorial_badge) {
+    return { left: String(fm.editorial_category).toUpperCase(), right: String(fm.editorial_badge).toUpperCase() }
   }
-  if (slug.startsWith("partite/")) {
-    return { left: "RUBRICA 03 · PARTITE", right: slug.includes("precedenti/") ? "ARCHIVIO PRECEDENTI" : "TABELLINO STORICO" }
+
+  const s = slug.toLowerCase()
+  const title = String(fm.title ?? slug)
+  const t = title.toLowerCase()
+
+  // 02 - Cronistoria / Stagioni / Partite
+  if (s.includes("02-cronistoria") || s.includes("stagioni") || s.includes("partite-storiche") || s.includes("partite/")) {
+    if (s.includes("partite")) {
+      const mYear = title.match(/(19\d\d|20\d\d)/)
+      const yearStr = mYear ? mYear[1] : ""
+      return {
+        left: "PARTITE STORICHE",
+        right: yearStr ? `TABELLINO · ${yearStr}` : "TABELLINO STORICO",
+      }
+    } else {
+      const mSeason = slug.match(/(\d{4}[–-]\d{4})/)
+      const season = mSeason ? mSeason[1].replace("-", "–") : (fm.season_label ? String(fm.season_label).replace("-", "–") : "")
+      let cat = "ANNALI CAMPIONATO"
+      const mDivision = title.match(/[—–-]\s*(Serie [ABCD]|Lega Pro|Prima Divisione|Seconda Divisione|CND|Interregionale|Divisione Nazionale)/i)
+      if (mDivision) {
+        cat = mDivision[1].toUpperCase()
+      } else if (t.includes("serie b")) {
+        cat = "SERIE B"
+      } else if (t.includes("serie a")) {
+        cat = "SERIE A"
+      } else if (t.includes("serie c") || t.includes("lega pro") || t.includes("serie c1") || t.includes("serie c2")) {
+        cat = "SERIE C"
+      } else if (t.includes("serie d") || t.includes("interregionale") || t.includes("cnd")) {
+        cat = "SERIE D"
+      } else if (t.includes("prima divisione")) {
+        cat = "PRIMA DIVISIONE"
+      }
+
+      return {
+        left: cat,
+        right: season ? `ANNALE UFFICIALE · ${season}` : "ANNALE UFFICIALE",
+      }
+    }
   }
-  if (slug.startsWith("vicende-legali/")) {
-    return { left: "RUBRICA 04 · DIRITTO SPORTIVO", right: "DOSSIER GIURISPRUDENZIALE" }
+
+  // 03 - Tesserati (Calciatori / Allenatori)
+  if (s.includes("03-tesserati") || s.includes("calciatori") || s.includes("allenatori") || s.includes("tesserati/")) {
+    if (s.includes("allenatori")) {
+      const mYears = title.match(/(\d{4}[–-]\d{4})/)
+      const years = mYears ? mYears[1].replace("-", "–") : ""
+      return {
+        left: "GUIDA TECNICA",
+        right: years ? `ALLENATORE · ${years}` : "PROFILO ALLENATORE",
+      }
+    } else {
+      const role = String(fm.role ?? "")
+      const roleShort = role ? role.split("(")[0].trim().toUpperCase() : "CALCIATORE"
+      const mYears = title.match(/(\d{4}[–-]\d{4})/)
+      let years = mYears ? mYears[1].replace("-", "–") : ""
+      if (!years && Array.isArray(fm.catania_periods) && fm.catania_periods.length > 0) {
+        const first = String(fm.catania_periods[0]).split("-")[0]
+        const last = String(fm.catania_periods[fm.catania_periods.length - 1]).split("-").pop()
+        years = first !== last ? `${first}–${last}` : first
+      }
+      return {
+        left: "CALCIATORI ROSSAZZURRI",
+        right: years ? `${roleShort} · ${years}` : roleShort,
+      }
+    }
   }
-  if (slug.startsWith("tesserati/")) {
-    return { left: "RUBRICA 05 · HALL OF FAME", right: slug.includes("allenatori/") ? "PROFILO ALLENATORE" : "PROFILO CALCIATORE" }
+
+  // 01 - Società / Presidenti / Dirigenti / Epoche / Vicende Legali
+  if (s.includes("01-societa") || s.includes("societa/") || s.includes("vicende-legali/")) {
+    if (s.includes("vicende-legali")) {
+      const mYear = (slug + " " + title).match(/(19\d\d|20\d\d)/)
+      const y = mYear ? mYear[1] : ""
+      return {
+        left: "DIRITTO SPORTIVO",
+        right: y ? `DOSSIER GIURIDICO · ${y}` : "DOSSIER GIURISPRUDENZIALE",
+      }
+    }
+    if (s.includes("presidenti")) {
+      const mYears = title.match(/(\d{4}[–-]\d{4})/)
+      const years = mYears ? mYears[1].replace("-", "–") : ""
+      return {
+        left: "PRESIDENTI & PATRON",
+        right: years ? `PRESIDENZA · ${years}` : "PROFILO PRESIDENZIALE",
+      }
+    }
+    if (s.includes("dirigenti")) {
+      return {
+        left: "QUADRI DIRIGENZIALI",
+        right: "MANAGEMENT STORICO",
+      }
+    }
+    if (s.includes("epoche")) {
+      const mYears = title.match(/(\d{4}[–-]\d{4})/) || title.match(/(19\d\d|20\d\d)/)
+      const years = mYears ? mYears[0].replace("-", "–") : ""
+      return {
+        left: "STORIA SOCIETARIA",
+        right: years ? `ERA SOCIETARIA · ${years}` : "ERA SOCIETARIA",
+      }
+    }
+    return {
+      left: "SOCIETÀ & ASSETTI",
+      right: "ORGANIZZAZIONE CLUB",
+    }
   }
-  if (slug.startsWith("stadio/")) {
-    return { left: "RUBRICA 06 · ARCHITETTURA & STADI", right: "IMPIANTO STORICO" }
+
+  // 04 - Strutture / Stadi / Centri Sportivi / Campi Storici
+  if (s.includes("04-strutture") || s.includes("strutture/") || s.includes("stadio/")) {
+    if (s.includes("stadio") || s.includes("massimino") || s.includes("cibali")) {
+      return {
+        left: "ARCHITETTURA & STADI",
+        right: "STADIO CIBALI · DAL 1937",
+      }
+    }
+    if (s.includes("centri-sportivi") || s.includes("torre-del-grifo")) {
+      return {
+        left: "CENTRI SPORTIVI",
+        right: "TORRE DEL GRIFO · 2011–2022",
+      }
+    }
+    if (s.includes("campi-storici")) {
+      return {
+        left: "CAMPI PIONIERISTICI",
+        right: "ORIGINI CITTADINE · 1910–1937",
+      }
+    }
+    return {
+      left: "IMPIANTI & INFRASTRUTTURE",
+      right: "PATRIMONIO IMMOBILIARE",
+    }
   }
-  if (slug.startsWith("maglie/")) {
-    return { left: "RUBRICA 07 · ESTETICA & MAGLIE", right: "ARALDICA ROSSAZZURRA" }
+
+  // 05 - Identità e Simboli / Araldica / Sponsor / Maglie
+  if (s.includes("05-identita-e-simboli") || s.includes("identita/") || s.includes("maglie/")) {
+    if (s.includes("araldica") || s.includes("scudett") || s.includes("marchio")) {
+      const isAsta = s.includes("asta") || s.includes("acquisizione")
+      return {
+        left: "ARALDICA & COLORI",
+        right: isAsta ? "RISCATTO MARCHIO · 2026" : "STEMMI & COLORI · DAL 1929",
+      }
+    }
+    if (s.includes("sponsor")) {
+      return {
+        left: "SPONSOR & DIVISE",
+        right: "MAGLIE UFFICIALI",
+      }
+    }
+    return {
+      left: "SIMBOLI ROSSAZZURRI",
+      right: "IDENTITÀ & ICONOGRAFIA",
+    }
   }
-  if (slug.startsWith("tifoseria/")) {
-    return { left: "RUBRICA 08 · CULTURA ULTRAS", right: "ETNOGRAFIA DELLE CURVE" }
+
+  // 06 - Tifoseria e Cultura / Relazioni / Settori / Eventi
+  if (s.includes("06-tifoseria-e-cultura") || s.includes("tifoseria/")) {
+    if (s.includes("gemellaggi")) {
+      return {
+        left: "CULTURA ULTRAS",
+        right: "GEMELLAGGIO STORICO",
+      }
+    }
+    if (s.includes("amicizie")) {
+      return {
+        left: "CULTURA ULTRAS",
+        right: "FRATELLANZA & RISPETTO",
+      }
+    }
+    if (s.includes("rivalita")) {
+      return {
+        left: "CULTURA ULTRAS",
+        right: "RIVALITÀ & DERBY",
+      }
+    }
+    if (s.includes("settori") || s.includes("curva")) {
+      const mYear = (title + " " + slug).match(/(19\d\d|20\d\d)/)
+      const y = mYear ? mYear[1] : ""
+      return {
+        left: "CURVE & GRADINATE",
+        right: y ? `TIFO ORGANIZZATO · DAL ${y}` : "TIFO ORGANIZZATO",
+      }
+    }
+    if (s.includes("eventi-e-giustizia")) {
+      const mYear = (title + " " + slug).match(/(19\d\d|20\d\d)/)
+      const y = mYear ? mYear[1] : ""
+      return {
+        left: "CRONACA & GIUSTIZIA",
+        right: y ? `FATTI E MEMORIA · ${y}` : "FATTI E MEMORIA",
+      }
+    }
+    if (s.includes("biografie")) {
+      return {
+        left: "MEMORIA POPOLARE",
+        right: "FIGURE DEL TIFO",
+      }
+    }
+    return {
+      left: "TIFOSERIA ROSSAZZURRA",
+      right: "ETNOGRAFIA DELLE CURVE",
+    }
   }
-  return { left: "REDAZIONE WIKI CATANIA CALCIO", right: "DOSSIER UFFICIALE" }
+
+  // 07 - Media e Comunicazione / Cinema / Firme / Letteratura
+  if (s.includes("07-media-e-comunicazione") || s.includes("media/")) {
+    if (s.includes("cinema") || s.includes("tv")) {
+      return {
+        left: "CULTURA POPOLARE",
+        right: "CINEMA & TELEVISIONE · 1973–2010",
+      }
+    }
+    if (s.includes("firme") || s.includes("voci")) {
+      const mYears = title.match(/(\d{4}[–-]\d{4})/)
+      const years = mYears ? mYears[1].replace("-", "–") : ""
+      return {
+        left: "GIORNALISMO & VOCI",
+        right: years ? `RACCONTO CIVILE · ${years}` : "TESTIMONIANZE",
+      }
+    }
+    if (s.includes("letteratura")) {
+      return {
+        left: "LETTERATURA & SAGGI",
+        right: "PUBBLICAZIONI ROSSAZZURRE",
+      }
+    }
+    if (s.includes("testate")) {
+      return {
+        left: "STAMPA SPORTIVA",
+        right: "PERIODICI E QUOTIDIANI",
+      }
+    }
+    return {
+      left: "MEDIA & COMUNICAZIONE",
+      right: "RACCONTO EDITORIALE",
+    }
+  }
+
+  // 08 - Settori Paralleli / Women / Giovanili
+  if (s.includes("08-settori-paralleli") || s.includes("settori-paralleli/")) {
+    if (s.includes("women") || s.includes("femminile")) {
+      return {
+        left: "CALCIO FEMMINILE",
+        right: "SCUDETTO JOLLY · DAL 1970",
+      }
+    }
+    if (s.includes("giovanili")) {
+      return {
+        left: "SETTORE GIOVANILE",
+        right: "CANTERA & PRIMAVERA",
+      }
+    }
+    return {
+      left: "SETTORI PARALLELI",
+      right: "DISCIPLINE AFFINI",
+    }
+  }
+
+  // Se è impostato un tag specifico nel frontmatter
+  if (Array.isArray(fm.tags) && fm.tags.length > 0) {
+    return {
+      left: "DOSSIER ARCHIVIO",
+      right: String(fm.tags[0]).replace(/-/g, " ").toUpperCase(),
+    }
+  }
+
+  return { left: "WIKI CATANIA CALCIO", right: "DOSSIER MONOGRAFICO" }
 }
 
 const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
@@ -340,16 +584,22 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponen
     return null
   }
 
-  const fm = fileData.frontmatter ?? {}
+  const fm = (fileData.frontmatter ?? {}) as Record<string, any>
   const title = String(fm.title ?? slug)
   const description = fm.description ? String(fm.description) : null
-  const entityType = String(fm.entity_type ?? "article")
   const status = String(fm.status ?? "verified")
   const lastVerified = fm.last_verified_date ? String(fm.last_verified_date) : "2026-10-27"
   const sources = Array.isArray(fm.sources) ? fm.sources : []
 
   const baseDir = pathToRoot(slug)
-  const rubric = getRubricLabel(slug, entityType)
+  const badges = getPageEditorialBadges(slug, fm)
+
+  // Primary source label
+  const primarySourceLabel = sources[0]?.author
+    ? `${String(sources[0].author).split(",")[0]} (${sources[0]?.year ?? ""})`
+    : sources[0]?.title
+      ? String(sources[0].title).slice(0, 32)
+      : `${sources.length || 1} fonte verificata`
 
   // Verifica se il corpo dell'articolo contiene già un'immagine (<img>)
   let hasBodyImage = false
@@ -375,16 +625,9 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponen
       {/* Top Badge stile No Football Colors */}
       <div class="nfc-article-hero__top-row">
         <div class="nfc-split-badge">
-          <span class="nfc-split-badge__left">{rubric.left}</span>
-          <span class="nfc-split-badge__right">{rubric.right}</span>
+          <span class="nfc-split-badge__left">{badges.left}</span>
+          <span class="nfc-split-badge__right">{badges.right}</span>
         </div>
-
-        {status === "verified" && (
-          <div class="nfc-verified-tag" title={`Fonti verificate il ${lastVerified}`}>
-            <span class="nfc-verified-tag__dot" aria-hidden="true" />
-            <span>DOSSIER CERTIFICATO ({sources.length || 1} FONTI)</span>
-          </div>
-        )}
       </div>
 
       {/* Giant Condensed Headline (Big Shoulders Display) */}
@@ -393,29 +636,29 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponen
       {/* Editorial Deck / Standfirst */}
       {description && <p class="nfc-article-hero__deck">{description}</p>}
 
-      {/* Sincro-style Architectural Metadata Strip */}
-      <div class="nfc-article-hero__meta-grid">
-        <div class="nfc-meta-cell">
-          <span class="nfc-meta-cell__label">REDAZIONE</span>
-          <span class="nfc-meta-cell__val">Wiki Catania Calcio</span>
-        </div>
-        <div class="nfc-meta-cell">
-          <span class="nfc-meta-cell__label">VERIFICA STORICA</span>
-          <span class="nfc-meta-cell__val">{lastVerified}</span>
-        </div>
-        <div class="nfc-meta-cell">
-          <span class="nfc-meta-cell__label">FONTE PRIMARIA</span>
-          <span class="nfc-meta-cell__val">
-            {sources[0]?.author
-              ? `${String(sources[0].author).split(",")[0]} (${sources[0]?.year ?? ""})`
-              : "Archivio Storico Rossazzurro"}
+      {/* Micro-riga minimale salva-spazio (Opzione B approvata) */}
+      <div class="nfc-article-hero__meta-inline">
+        {status === "verified" ? (
+          <span class="nfc-meta-pill nfc-meta-pill--verified" title="Dati e fonti archivistici verificati">
+            <span class="nfc-meta-pill__check" aria-hidden="true">✓</span> Dossier Verificato
           </span>
-        </div>
-        <div class="nfc-meta-cell nfc-meta-cell--action">
-          <a href={`${reportHref}?page=${encodeURIComponent(slug)}`} class="nfc-meta-link">
-            ✎ Segnala correzione o fonte →
-          </a>
-        </div>
+        ) : (
+          <span class="nfc-meta-pill nfc-meta-pill--draft">
+            Revisione in corso
+          </span>
+        )}
+        <span class="nfc-meta-sep">·</span>
+        <span class="nfc-meta-inline-item">
+          <span class="nfc-meta-inline-label">Revisione:</span> {lastVerified}
+        </span>
+        <span class="nfc-meta-sep">·</span>
+        <span class="nfc-meta-inline-item">
+          <span class="nfc-meta-inline-label">Fonti:</span> {primarySourceLabel}
+        </span>
+        <span class="nfc-meta-sep">·</span>
+        <a href={`${reportHref}?page=${encodeURIComponent(slug)}`} class="nfc-meta-inline-action">
+          ✎ Segnala correzione →
+        </a>
       </div>
 
       {/* Magazine Editorial Cover Photograph Frame — SOLO se media esiste ed è contestuale */}

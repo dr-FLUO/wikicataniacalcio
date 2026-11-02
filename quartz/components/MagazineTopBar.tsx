@@ -97,7 +97,7 @@ const MagazineTopBar: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps
             </span>
           </div>
           <div class="nfc-beta-version" title="Versione di sviluppo attivo del vault">
-            <span class="nfc-beta-version__text">BETA VERSIONE 0.9</span>
+            <span class="nfc-beta-version__text">BETA VERSIONE 1.0</span>
           </div>
         </div>
       </div>
