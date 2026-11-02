@@ -88,52 +88,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Maxi López
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/maxi-lopez.jpg" alt="Maxi López" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/maxi-lopez.jpg" alt="Maxi López" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Maxi López</td>
+        <td colspan="3">Maxi López</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1984</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>190 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2010–2012, 2013–2014</td>
+        <td colspan="3">2010–2012, 2013–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>83</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>27</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>8</td>
+        <th>Goal / Assist</th>
+        <td>27 / 8</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Maximiliano Gastón López**, universalmente noto come **Maxi López** e soprannominato in patria **"El Galina"** e a Catania **"La Galina d'Oro"** (Buenos Aires, 3 aprile 1984), è un ex calciatore e dirigente sportivo argentino, di ruolo centravanti. Centravanti classico dotato di forza fisica prorompente, tempismo aereo letale e raffinata tecnica di protezione della palla, ha legato la propria consacrazione europea al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]: nel suo primo biennio dorato (**gennaio 2010 – gennaio 2012**) colleziona esattamente **70 presenze ufficiali e 26 reti** (poi salite a **87 presenze e 27 reti totali** con la parentesi del 2013-2014). Il suo sbarco in Sicilia nel gennaio 2010 ha rappresentato uno dei più devastanti impatti individuali della storia della Serie A moderna, salvando il club con **11 reti in appena 17 partite**.
 

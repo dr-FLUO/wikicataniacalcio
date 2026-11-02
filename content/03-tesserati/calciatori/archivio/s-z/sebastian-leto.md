@@ -63,46 +63,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Sebastián Leto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/sebastian-leto.jpg" alt="Sebastián Leto" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Sebastián Leto calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/sebastian-leto.jpg" alt="Sebastián Leto" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Sebastián Leto</td>
+        <td colspan="3">Sebastián Leto</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1986</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2012–2014</td>
+        <td colspan="3">2012–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>42</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>6</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>2</td>
+        <th>Goal / Assist</th>
+        <td>6 / 2</td>
       </tr>
     </tbody>
   </table>

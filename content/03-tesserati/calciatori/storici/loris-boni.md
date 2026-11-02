@@ -67,46 +67,43 @@ locked_by: quadratura_riconciliazione_alias_dataset
 # Loris Boni (1979–1980)
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp" alt="Loris Boni" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[CalcioCatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.
+
+## Rendimento e Presenze Ufficiali per Stagione
+
+| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2018-2019 | Terzino sinistro | 0 | 0 | 0 | 0 | 0 | 0' |</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp" alt="Loris Boni (1979–1980)" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Loris Boni (1979–1980)</td>
+        <td colspan="3">Loris Boni</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1953</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1979–1980</td>
+        <td colspan="3">1979–1980</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>32</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>

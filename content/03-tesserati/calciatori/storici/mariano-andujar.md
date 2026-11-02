@@ -76,52 +76,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Mariano Andújar
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/mariano-andujar.jpg" alt="Mariano Andújar" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/mariano-andujar.jpg" alt="Mariano Andújar" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Mariano Andújar</td>
+        <td colspan="3">Mariano Andújar</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1983</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>194 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2009–2014</td>
+        <td colspan="3">2009–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>149</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) è un ex calciatore argentino, nel ruolo di portiere. Arrivato al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] nell'estate del **2009** fresco vincitore della Copa Libertadores con l'Estudiantes de La Plata, ha difeso i pali etnei per cinque stagioni in massima serie, totalizzando **135 presenze in Serie A** e conquistando da titolare rossazzurro la convocazione con la Nazionale argentina ai Mondiali di Sudafrica 2010 e Brasile 2014 (vicecampione del mondo).
 

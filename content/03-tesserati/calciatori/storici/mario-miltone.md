@@ -71,46 +71,37 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Mario Miltone (1934–1937)
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp" alt="Mario Miltone" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Mario Miltone difensore della SS Catania negli anni Trenta</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/foto-storiche/mario-miltone-ss-catania-difensore-1934-1937.webp" alt="Mario Miltone (1934–1937)" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Mario Miltone (1934–1937)</td>
+        <td colspan="3">Mario Miltone</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1906</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1934–1937</td>
+        <td colspan="3">1934–1937</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>84</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>1</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>1 / ND</td>
       </tr>
     </tbody>
   </table>

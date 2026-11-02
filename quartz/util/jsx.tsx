@@ -5,11 +5,18 @@ import { trace } from "./trace"
 import { type FilePath } from "./path"
 
 const customComponents: Components = {
-  table: (props) => (
-    <div class="table-container">
-      <table {...props} />
-    </div>
-  ),
+  table: (props) => {
+    // Se la tabella appartiene alla scheda anagrafica calciatore, non racchiuderla in .table-container
+    // per evitare doppi bordi, sporgenze o scrollbar proprietarie
+    if (props.className?.includes("nfc-player-table")) {
+      return <table {...props} />
+    }
+    return (
+      <div class="table-container">
+        <table {...props} />
+      </div>
+    )
+  },
 }
 
 export function htmlToJsx(fp: FilePath, tree: Node) {

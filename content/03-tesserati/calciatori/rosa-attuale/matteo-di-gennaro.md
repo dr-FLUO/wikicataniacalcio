@@ -56,46 +56,43 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Matteo Di Gennaro — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/1081_matteo-di-gennaro.png" alt="Matteo Di Gennaro" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia
+
+1.</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/1081_matteo-di-gennaro.png" alt="Matteo Di Gennaro" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Matteo Di Gennaro</td>
+        <td colspan="3">Matteo Di Gennaro</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1994</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>191 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–</td>
+        <td colspan="3">2024–</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>56</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>4</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>3</td>
+        <th>Goal / Assist</th>
+        <td>4 / 3</td>
       </tr>
     </tbody>
   </table>

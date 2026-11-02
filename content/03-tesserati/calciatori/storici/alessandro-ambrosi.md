@@ -65,52 +65,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Alessandro Ambrosi
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/alessandro-ambrosi.jpg" alt="Alessandro «Il Re Leone» Ambrosi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/alessandro-ambrosi.jpg" alt="Alessandro Ambrosi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Alessandro Ambrosi</td>
+        <td colspan="3">Alessandro «Il Re Leone» Ambrosi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1971</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2000–2002</td>
+        <td colspan="3">2000–2002</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>20</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>12</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>3</td>
+        <th>Goal / Assist</th>
+        <td>12 / 3</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Alessandro Ambrosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Alessandro Ambrosi**, universalmente noto come **"Il Re Leone"** per la folta criniera bionda e la potenza devastante nei contrasti (Fiuggi, 12 luglio 1971), è un ex calciatore italiano, nel ruolo di centravanti. Acquistato nell'estate del **2000** dal Crotone dalla nuova proprietà guidata dalla famiglia Gaucci, infiammò l'entusiasmo della piazza etnea.
 

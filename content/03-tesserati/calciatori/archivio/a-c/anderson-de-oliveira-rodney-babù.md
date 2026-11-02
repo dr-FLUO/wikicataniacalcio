@@ -49,46 +49,43 @@ locked_by: quadratura_riconciliazione_alias_dataset
 # Anderson de Oliveira Rodney Babù — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg" alt="Anderson de Oliveira Rodney Babù" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia
+
+1.</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/67_anderson-de-oliveira-rodney-bab.jpg" alt="Anderson de Oliveira Rodney Babù" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Anderson de Oliveira Rodney Babù</td>
+        <td colspan="3">Anderson de Oliveira Rodney Babù</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2006–2007</td>
+        <td colspan="3">2006–2007</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>3</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>

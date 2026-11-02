@@ -48,46 +48,43 @@ locked_by: quadratura_riconciliazione_alias_dataset
 # Nicolae Costantin Dica — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/81_nicolae-costantin-dica.jpg" alt="Nicolae Costantin Dica" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia
+
+1.</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/81_nicolae-costantin-dica.jpg" alt="Nicolae Costantin Dica" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Nicolae Costantin Dica</td>
+        <td colspan="3">Nicolae Costantin Dica</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2007–2008</td>
+        <td colspan="3">2007–2008</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>6</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>1</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>1 / 1</td>
       </tr>
     </tbody>
   </table>

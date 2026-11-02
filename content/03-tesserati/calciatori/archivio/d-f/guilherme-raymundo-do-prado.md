@@ -52,46 +52,37 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Guilherme Raymundo do Prado — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp" alt="Guilherme Raymundo do Prado" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Guilherme Raymundo do Prado calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp" alt="Guilherme Raymundo do Prado" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Guilherme Raymundo do Prado</td>
+        <td colspan="3">Guilherme Raymundo do Prado</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1981</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Brasile</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2002–2003</td>
+        <td colspan="3">2002–2003</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>20</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>ND</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>ND / ND</td>
       </tr>
     </tbody>
   </table>

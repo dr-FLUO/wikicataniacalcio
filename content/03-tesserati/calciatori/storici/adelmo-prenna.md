@@ -82,46 +82,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Adelmo «Memo» Prenna
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp" alt="Adelmo «Memo» Prenna" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Figurina Lampo di Memo Prenna capitano e cannoniere storico del Calcio</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/figurine/memo-prenna-calcio-catania-figurina-lampo-1960-1961.webp" alt="Adelmo «Memo» Prenna" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Adelmo «Memo» Prenna</td>
+        <td colspan="3">Adelmo «Memo» Prenna</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1930</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>176 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1958–1964</td>
+        <td colspan="3">1958–1964</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>148</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>45</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>45 / 0</td>
       </tr>
     </tbody>
   </table>

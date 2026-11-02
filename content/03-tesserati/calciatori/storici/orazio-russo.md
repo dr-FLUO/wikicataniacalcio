@@ -89,52 +89,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Orazio Russo
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/orazio-russo.jpg" alt="Orazio Russo" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/archivio-calciocatania/orazio-russo-calcio-catania-attaccante-1991-2010.webp" alt="Orazio Russo" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Orazio Russo</td>
+        <td colspan="3">Orazio Russo</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1973</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1991–1993, 1996–1997, 2004–2006, 2009–2010</td>
+        <td colspan="3">1991–1993, 1996–1997, 2004–2006, 2009–2010</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>125</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>13</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>13 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Orazio Russo** (Misterbianco, 6 ottobre 1973 – Catania, 14 febbraio 2026) è stato un calciatore, allenatore e dirigente sportivo italiano, di ruolo attaccante o ala offensiva. Considerato all'unanimità una delle bandiere più pure, autentiche e viscerali della storia del [[societa/1946-club-calcio-catania|Calcio Catania]], detiene un primato che nessun altro atleta ha mai eguagliato nella storia quasi centenaria dell'Elefante: è **l'unico calciatore ad aver indossato la maglia rossazzurra in tutte le categorie professionistiche del calcio italiano**, dalla Serie C2 alla Serie C1, dalla Serie B fino alla Serie A.
 

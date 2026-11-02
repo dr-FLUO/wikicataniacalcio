@@ -38,49 +38,39 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Gianluca Mammana — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Gianluca Mammana</td>
+        <td colspan="3">Gianluca Mammana</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2010–2024</td>
+        <td colspan="3">2010–2024</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
-        <td>ND</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>ND</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
+        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>ND / ND</td>
       </tr>
     </tbody>
   </table>

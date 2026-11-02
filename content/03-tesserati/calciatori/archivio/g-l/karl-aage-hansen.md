@@ -71,52 +71,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Karl Aage Hansen
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/karl-aage-hansen.jpg" alt="Karl Aage Hansen" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/karl-aage-hansen.jpg" alt="Karl Aage Hansen" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Karl Aage Hansen</td>
+        <td colspan="3">Karl Aage Hansen</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1921</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Danimarca</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1954–1957</td>
+        <td colspan="3">1954–1957</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>79</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>6</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>6 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Karl Aage Hansen** (Mesinge, 4 luglio 1921 – Gentofte, 23 novembre 1990) è stato un calciatore danese, nel ruolo di mezzala e regista. Acquistato dal Club Calcio Catania nell'estate del **1954** per affrontare il primo storico campionato di **Serie A** della storia etnea, portò alle pendici dell'Etna un bagaglio di esperienza e caratura tecnica internazionale impareggiabile.
 

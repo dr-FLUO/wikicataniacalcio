@@ -52,46 +52,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Giulio Rossi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp" alt="Giulio Rossi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Giulio Rossi calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp" alt="Giulio Rossi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Giulio Rossi</td>
+        <td colspan="3">Giulio Rossi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1912</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1938–1941</td>
+        <td colspan="3">1938–1941</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>2</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>

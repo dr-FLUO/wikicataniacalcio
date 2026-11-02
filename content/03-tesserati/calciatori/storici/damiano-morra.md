@@ -70,51 +70,41 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 ![Damiano Morra, recordman assoluto di presenze nella storia del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp)
-*Damiano Morra, recordman assoluto di presenze nella storia del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 # Damiano Morra
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp" alt="Damiano Morra" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Damiano Morra, recordman assoluto di presenze nella storia del Calcio Catania — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp" alt="Damiano Morra" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Damiano Morra</td>
+        <td colspan="3">Damiano Morra</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1955</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1975–1984</td>
+        <td colspan="3">1975–1984</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>308</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>26</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>2</td>
+        <th>Goal / Assist</th>
+        <td>26 / 2</td>
       </tr>
     </tbody>
   </table>

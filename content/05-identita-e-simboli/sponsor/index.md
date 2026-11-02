@@ -165,7 +165,7 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 | **2020–2021** | **Givova** | **SuperConveniente (Gruppo Arena)** | **Grimaldi Lines**, **Comer Sud** | Serie C |
 | **2021–2022** | **Nike** *(Linea Oro)* | **SuperConveniente (Gruppo Arena)** | **Ulisse**, **Comer Sud** | Serie C (Fine matricola 11700) |
 | **2022–2023** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Replay**, **Funivia dell'Etna** | **Serie D** (Rinascita Pelligra, vittoria girone I) |
-| **2023–2024** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Funivia dell'Etna**, **Comer Sud** | Serie C (Vittoria [[02-cronistoria/partite-storiche/2023-2024/catania-padova-4-2-coppa-italia-c\|Coppa Italia Serie C]]) |
+| **2023–2024** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Funivia dell'Etna**, **Comer Sud** | Serie C (Vittoria [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C]]) |
 | **2024–2026** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Replay**, **Funivia dell'Etna**, **Trilogy**, **Morgante** | Serie C |
 
 ---
@@ -176,7 +176,7 @@ Al di là dei singoli accordi commerciali, la divisa del Calcio Catania rispetta
 
 1. **La Tonalità Ufficiale dei Colori:** Il **Rosso Fuoco (#d11317)** della lava etnea e l'**Azzurro Mare (#0cb2d9)** delle acque ioniche, codificati nello statuto fondativo del 1929 redatto da Santi Quasimodo e Vespasiano Trigona.
 2. **Il Tratto Distintivo dei Calzettoni Neri con Risvolto:** A differenza di altri club rossazzurri o rossoblù, la tradizione etnea impone **calzettoni rigorosamente neri (#191919) con risvolto o righe rossazzurre**, elemento di rigore e sobria eleganza quasi centenario.
-3. **Patch Ufficiali e Numerazioni:** Dalla toppa ufficiale della Lega Calcio (1994) e dalla numerazione personalizzata con nome (1995-1996), fino alla coccarda tricolore della [[02-cronistoria/partite-storiche/2023-2024/catania-padova-4-2-coppa-italia-c\|Coppa Italia Serie C 2023-2024]].
+3. **Patch Ufficiali e Numerazioni:** Dalla toppa ufficiale della Lega Calcio (1994) e dalla numerazione personalizzata con nome (1995-1996), fino alla coccarda tricolore della [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C 2023-2024]].
 
 ---
 

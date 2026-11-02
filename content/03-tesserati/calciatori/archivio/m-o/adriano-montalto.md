@@ -60,46 +60,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Adriano Montalto — Attaccante di Potenza ed Esperienza del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp" alt="Adriano Montalto" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Fototessera del centravanti Adriano Montalto con la divisa ufficiale del</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp" alt="Adriano Montalto" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Adriano Montalto</td>
+        <td colspan="3">Adriano Montalto</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1988</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–2026</td>
+        <td colspan="3">2024–2026</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>22</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>3</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>3 / 0</td>
       </tr>
     </tbody>
   </table>

@@ -52,46 +52,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Christian Kanyengele — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/christian-kanyengele.jpg" alt="Christian Kanyengele" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Christian Kanyengele calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/christian-kanyengele.jpg" alt="Christian Kanyengele" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Christian Kanyengele</td>
+        <td colspan="3">Christian Kanyengele</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1976</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Repubblica Democratica del Congo</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2000–2004</td>
+        <td colspan="3">2000–2004</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>38</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>3</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>4</td>
+        <th>Goal / Assist</th>
+        <td>3 / 4</td>
       </tr>
     </tbody>
   </table>

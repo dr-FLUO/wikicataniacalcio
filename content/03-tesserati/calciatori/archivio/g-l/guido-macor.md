@@ -57,52 +57,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Guido Macor — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/675_guido-macor.jpg" alt="Guido Macor" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/675_guido-macor.jpg" alt="Guido Macor" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Guido Macor</td>
+        <td colspan="3">Guido Macor</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1932</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1957–1960</td>
+        <td colspan="3">1957–1960</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>71</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>22</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>22 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Guido Macor — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Guido Macor** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 

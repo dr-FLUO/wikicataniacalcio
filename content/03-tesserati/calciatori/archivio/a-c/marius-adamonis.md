@@ -46,46 +46,37 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Marius Adamonis — Portiere della Nazionale Lituana e del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp" alt="Marius Adamonis" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Fototessera ufficiale del portiere lituano del Catania Marius Adamonis</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp" alt="Marius Adamonis" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Marius Adamonis</td>
+        <td colspan="3">Marius Adamonis</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1997</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Lituania</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–2026</td>
+        <td colspan="3">2024–2026</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>38</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>0 / ND</td>
       </tr>
     </tbody>
   </table>

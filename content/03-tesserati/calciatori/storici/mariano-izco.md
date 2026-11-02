@@ -79,52 +79,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Mariano Izco
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/mariano-izco.jpg" alt="Mariano Izco" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/mariano-izco.jpg" alt="Mariano Izco" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Mariano Izco</td>
+        <td colspan="3">Mariano Izco</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1983</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>178 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2006–2014, 2020–2022</td>
+        <td colspan="3">2006–2014, 2020–2022</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>258</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>7</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>16</td>
+        <th>Goal / Assist</th>
+        <td>7 / 16</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Mariano Julio Izco** (Buenos Aires, 13 marzo 1983) è un ex calciatore argentino con cittadinanza italiana, di ruolo centrocampista o esterno destro. È il **primatista assoluto di presenze con il Catania in Serie A** con **218 gare disputate nella massima divisione** (su **280 presenze ufficiali complessive**, terzo posto nella graduatoria *all-time* del club dietro a [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] e [[tesserati/calciatori/damiano-morra|Damiano Morra]]). È l'unico calciatore ad aver militato ininterrottamente in tutte le **otto stagioni consecutive di Serie A (2006–2014)** dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]], divenendo il pioniere e il capitano del celebre *"Catania degli Argentini"*.
 

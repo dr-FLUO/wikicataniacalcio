@@ -51,46 +51,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Karl-Heinz Spikofski — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/karl-heinz-spikofski.jpg" alt="Karl" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Karl-Heinz Spikofski calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/karl-heinz-spikofski.jpg" alt="Karl-Heinz Spikofski" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Karl-Heinz Spikofski</td>
+        <td colspan="3">Karl</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1927</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Germania</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1953–1956</td>
+        <td colspan="3">1953–1956</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>72</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>15</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>15 / 0</td>
       </tr>
     </tbody>
   </table>

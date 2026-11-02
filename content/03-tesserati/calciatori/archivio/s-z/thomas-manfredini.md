@@ -57,52 +57,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Thomas Manfredini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/109_thomas-manfredini.jpg" alt="Thomas Manfredini" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Thomas Manfredini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/109_thomas-manfredini.jpg" alt="Thomas Manfredini" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Thomas Manfredini</td>
+        <td colspan="3">Thomas Manfredini</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1980</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2003–2004</td>
+        <td colspan="3">2003–2004</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>31</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>3</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>3 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Thomas Manfredini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Thomas Manfredini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 

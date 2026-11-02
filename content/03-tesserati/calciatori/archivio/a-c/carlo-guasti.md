@@ -56,46 +56,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Carlo Guasti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/562_carlo-guasti.jpg" alt="Carlo Guasti" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/562_carlo-guasti.jpg" alt="Carlo Guasti" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Carlo Guasti</td>
+        <td colspan="3">Carlo Guasti</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1950</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1970–1973</td>
+        <td colspan="3">1970–1973</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>54</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>

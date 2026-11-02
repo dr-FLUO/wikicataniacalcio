@@ -57,52 +57,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Andrea Russotto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/868_andrea-russotto.jpg" alt="Andrea Russotto" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/868_andrea-russotto.jpg" alt="Andrea Russotto" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Andrea Russotto</td>
+        <td colspan="3">Andrea Russotto</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1988</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2014–2022</td>
+        <td colspan="3">2014–2022</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>134</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>28</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>21</td>
+        <th>Goal / Assist</th>
+        <td>28 / 21</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Andrea Russotto — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Andrea Russotto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 

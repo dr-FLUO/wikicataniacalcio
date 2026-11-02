@@ -70,52 +70,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Michele Manenti
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/michele-manenti.jpg" alt="Michele Manenti" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/michele-manenti.jpg" alt="Michele Manenti" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Michele Manenti</td>
+        <td colspan="3">Michele Manenti</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1928</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1953–1955</td>
+        <td colspan="3">1953–1955</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>54</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>19</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>19 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Michele Manenti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Michele Manenti** (Milano, 28 ottobre 1928 – Milano, 30 agosto 1988) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1953**, entrò per sempre nella leggenda rossazzurra come il capocannoniere e trascinatore della prima storica promozione in **Serie A** nella [[stagioni/1953-1954|Stagione 1953-1954]].
 

@@ -63,46 +63,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Alessio Castellini — Difensore e Capitano Bandiera del Catania FC (2022-2027)
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp" alt="Alessio Castellini" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale del difensore e capitano del Catania Alessio Castellini</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp" alt="Alessio Castellini" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Alessio Castellini</td>
+        <td colspan="3">Alessio Castellini</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>2003</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>187 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2022–</td>
+        <td colspan="3">2022–</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>84</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>6</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>4</td>
+        <th>Goal / Assist</th>
+        <td>6 / 4</td>
       </tr>
     </tbody>
   </table>

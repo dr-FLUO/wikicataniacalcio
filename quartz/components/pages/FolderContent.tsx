@@ -79,24 +79,26 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     }
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
-    const folder = trie.findNode(currentSlug.split("/"))
-    if (!folder) {
-      return null
-    }
+    const cleanSlug = currentSlug.replace(/\/index$/, "")
+    const folder = trie.findNode(cleanSlug.split("/"))
 
-    const editorial = getEditorialFolderInfo(currentSlug)
+    const editorial = getEditorialFolderInfo(cleanSlug)
     const pageTitle = fileData.frontmatter?.title && !fileData.frontmatter.title.startsWith("Cartella:") && !fileData.frontmatter.title.startsWith("Folder:")
       ? fileData.frontmatter.title
       : editorial.title
     const pageDescription = fileData.frontmatter?.description ?? editorial.desc
 
     // Direct files in this folder
-    const directFiles: QuartzPluginData[] = folder.children
-      .filter((n) => !n.isFolder && n.data && n.slugSegment !== "index")
-      .map((n) => n.data!)
+    const directFiles: QuartzPluginData[] = folder
+      ? folder.children
+          .filter((n) => !n.isFolder && n.data && n.slugSegment !== "index")
+          .map((n) => n.data!)
+      : []
 
     // Subfolders in this folder
-    const subfolderNodes = folder.children.filter((n) => n.isFolder && n.slugSegment !== "tags")
+    const subfolderNodes = folder
+      ? folder.children.filter((n) => n.isFolder && n.slugSegment !== "tags")
+      : []
     const subfolders = subfolderNodes.map((sf) => {
       const sfInfo = getEditorialFolderInfo(sf.slug)
       const count = countLeaves(sf)
@@ -112,7 +114,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     // If there are no direct files, but there are subfolders, flatten and surface documents
     let displayDocs = directFiles
-    if (displayDocs.length === 0 && subfolders.length > 0) {
+    if (displayDocs.length === 0 && subfolders.length > 0 && folder) {
       displayDocs = collectAllLeaves(folder)
     }
 
@@ -147,7 +149,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </div>
             <div class="nfc-verified-tag">
               <span class="nfc-verified-tag__dot" />
-              <span>{totalCount} SCHEDE CERTIFICATE</span>
+              <span>{totalCount > 0 ? `${totalCount} SCHEDE CERTIFICATE` : `DOSSIER MONOGRAFICO CERTIFICATO`}</span>
             </div>
           </div>
           <h1 class="nfc-panoramica-title">{pageTitle}</h1>
@@ -159,7 +161,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         {/* Articolo / Tavola introduttiva (se presente nel markdown di index.md) */}
         {renderedContent && (
           <div class="nfc-panoramica-intro">
-            <article class={classes}>{renderedContent}</article>
+            <article id="main-article-content" role="main" class={classes}>{renderedContent}</article>
           </div>
         )}
 

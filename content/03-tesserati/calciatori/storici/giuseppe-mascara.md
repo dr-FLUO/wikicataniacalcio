@@ -83,52 +83,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Giuseppe Mascara
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/mascara-tifosi.jpg" alt="Giuseppe Mascara" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/mascara-tifosi.jpg" alt="Giuseppe Mascara" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Giuseppe Mascara</td>
+        <td colspan="3">Giuseppe Mascara</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1979</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>172 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2003–2004, 2005–2011</td>
+        <td colspan="3">2003–2004, 2005–2011</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>238</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>60</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>26</td>
+        <th>Goal / Assist</th>
+        <td>60 / 26</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Giuseppe Mascara** (Caltagirone, 22 agosto 1979) è un allenatore di calcio ed ex calciatore italiano, di ruolo attaccante o trequartista. Fantasista dal talento cristallino e simbolo identitario del calcio etneo negli anni Duemila, occupa il **secondo posto nella classifica dei marcatori assoluti della storia del Catania con 60 reti ufficiali** (alle spalle del solo [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]] a quota 78) e il **sesto posto assoluto per presenze con 235 gare** (di cui **145 presenze e 31 reti in Serie A**). È stato il **primo calciatore della storia del Calcio Catania a vestire la maglia della Nazionale Italiana maggiore** durante la militanza in rossazzurro (6 giugno 2009).
 

@@ -52,49 +52,39 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Salvatore Monaco — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Salvatore Monaco</td>
+        <td colspan="3">Salvatore Monaco</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1972</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2001–2024</td>
+        <td colspan="3">2001–2024</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>68</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>5</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>5 / 1</td>
       </tr>
     </tbody>
   </table>

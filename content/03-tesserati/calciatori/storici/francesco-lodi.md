@@ -86,52 +86,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Francesco Lodi
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/francesco-lodi.jpg" alt="Francesco Lodi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/francesco-lodi.jpg" alt="Francesco Lodi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Francesco Lodi</td>
+        <td colspan="3">Francesco Lodi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1984</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>182 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2011–2013, 2014, 2017–2020, 2022–2023</td>
+        <td colspan="3">2011–2013, 2014, 2017–2020, 2022–2023</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>239</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>54</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>50</td>
+        <th>Goal / Assist</th>
+        <td>54 / 50</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Francesco Lodi**, detto **"Ciccio"** (Napoli, 23 marzo 1984), è un ex calciatore italiano, di ruolo centrocampista e regista. Autentico maestro dei calci piazzati e simbolo trasversale di oltre un decennio di storia rossazzurra, ha vestito la maglia numero 10 del Catania in **quattro distinti cicli (2011–2013, 2014–2015, 2017–2020 e 2022–2023)** attraversando due diverse matricole federali (11700 e 955013) e quattro categorie (Serie A, Serie B, Serie C e Serie D). Con **53 reti ufficiali** è il **terzo miglior marcatore assoluto della storia del Catania** (e il centrocampista più prolifico di sempre), mentre con **238 presenze complessive** occupa il **quinto posto nella classifica *all-time* di presenze**.
 

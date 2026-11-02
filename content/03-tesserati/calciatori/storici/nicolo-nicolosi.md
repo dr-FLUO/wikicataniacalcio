@@ -80,52 +80,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Nicolò «Cocò» Nicolosi
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/nicolo-nicolosi.jpg" alt="Nicolò «Cocò» Nicolosi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/nicolo-nicolosi.jpg" alt="Nicolò «Cocò» Nicolosi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Nicolò «Cocò» Nicolosi</td>
+        <td colspan="3">Nicolò «Cocò» Nicolosi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1912</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1932–1937, 1939–1940, 1942–1943, 1947–1949</td>
+        <td colspan="3">1932–1937, 1939–1940, 1942–1943, 1947–1949</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>7</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>7</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>7 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Nicolò Nicolosi**, universalmente conosciuto come **"Cocò" Nicolosi** (Lercara Friddi, 9 agosto 1912 – Catania, 3 maggio 1986), è stato un calciatore e allenatore di calcio italiano, di ruolo attaccante (centravanti e ala). È il **miglior marcatore assoluto della storia ultranovantennale del Catania con 78 reti ufficiali** (di cui **71 nei campionati nazionali** e **7 nelle coppe e nei gironi finali promozione**), messe a segno in **149 presenze complessive** attraverso quattro distinti cicli (1932–1937, 1939–1940, 1942–1943 e 1947–1949), rappresentando l'anello di congiunzione vivo tra la pionieristica [[societa/1929-ss-catania|Società Sportiva Catania]] anteguerra e il [[societa/1946-club-calcio-catania|Club Calcio Catania]] della rifondazione post-bellica.
 

@@ -62,52 +62,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Nicola Legrottaglie — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/36_nicola-legrottaglie.jpg" alt="Nicola Legrottaglie" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/36_nicola-legrottaglie.jpg" alt="Nicola Legrottaglie" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Nicola Legrottaglie</td>
+        <td colspan="3">Nicola Legrottaglie</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1976</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>185 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2011–2014</td>
+        <td colspan="3">2011–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>79</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>8</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>2</td>
+        <th>Goal / Assist</th>
+        <td>8 / 2</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Nicola Legrottaglie — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Nicola Legrottaglie** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 

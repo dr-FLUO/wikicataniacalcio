@@ -57,52 +57,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Franco Cordova — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/641_franco-cordova.jpg" alt="Franco Cordova" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Franco Cordova — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/641_franco-cordova.jpg" alt="Franco Cordova" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Franco Cordova</td>
+        <td colspan="3">Franco Cordova</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1944</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1962–1964</td>
+        <td colspan="3">1962–1964</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>10</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>1</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>1 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Franco Cordova — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Franco Cordova** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 

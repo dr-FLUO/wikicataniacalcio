@@ -60,49 +60,39 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Guido Klein
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Guido Klein</td>
+        <td colspan="3">Guido Klein</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1923</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1950–1953</td>
+        <td colspan="3">1950–1953</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>135</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>45</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>45 / 0</td>
       </tr>
     </tbody>
   </table>

@@ -66,52 +66,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Fulvio Francesconi
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/fulvio-francesconi.jpg" alt="Fulvio Francesconi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/fulvio-francesconi.jpg" alt="Fulvio Francesconi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Fulvio Francesconi</td>
+        <td colspan="3">Fulvio Francesconi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1944</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1971–1973</td>
+        <td colspan="3">1971–1973</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>74</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>19</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>19 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Fulvio Francesconi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Fulvio Francesconi** (Pordenone, 19 novembre 1944) è un ex calciatore italiano, nel ruolo di ala tornante e attaccante. Acquistato dal Catania nell'estate del **1971** dalla Sampdoria, fu il faro dell'attacco etneo per due campionati consecutivi di Serie B sotto la guida tecnica di Salvador Calvanese e Carmelo Di Bella.
 

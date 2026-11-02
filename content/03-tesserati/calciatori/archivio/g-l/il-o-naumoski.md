@@ -50,46 +50,37 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Ilčo Naumoski — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/il-o-naumoski.jpg" alt="Ilčo Naumoski" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto fotografico di Ilčo Naumoski calciatore del Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/il-o-naumoski.jpg" alt="Ilčo Naumoski" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Ilčo Naumoski</td>
+        <td colspan="3">Ilčo Naumoski</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1983</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Macedonia del Nord</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1983</td>
+        <td colspan="3">1983</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>10</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>ND</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>ND / ND</td>
       </tr>
     </tbody>
   </table>

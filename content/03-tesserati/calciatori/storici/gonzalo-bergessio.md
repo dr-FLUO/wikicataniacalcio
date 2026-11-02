@@ -80,52 +80,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Gonzalo Bergessio
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/gonzalo-bergessio.jpg" alt="Gonzalo Bergessio" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/gonzalo-bergessio.jpg" alt="Gonzalo Bergessio" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Gonzalo Bergessio</td>
+        <td colspan="3">Gonzalo Bergessio</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1984</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>178 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2011–2014</td>
+        <td colspan="3">2011–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>113</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>37</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>14</td>
+        <th>Goal / Assist</th>
+        <td>37 / 14</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Gonzalo Rubén Bergessio**, soprannominato **"El Lavandina"** o **"El Toro"** (Córdoba, 20 luglio 1984), è un ex calciatore argentino, di ruolo centravanti. È il **primatista assoluto di reti con la maglia del Catania in Serie A con 35 gol in massima serie** (e **37 reti complessive** in **113 presenze ufficiali** includendo la Coppa Italia), primato stabilito tra il gennaio **2011** e il maggio **2014** durante l'apogeo del *"Catania degli Argentini"* nell'[[societa/2004-era-pulvirenti|Era Pulvirenti]].
 

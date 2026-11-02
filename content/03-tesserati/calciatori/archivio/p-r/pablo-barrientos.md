@@ -86,52 +86,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Pablo Barrientos
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/pablo-barrientos.jpg" alt="Pablo Barrientos" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/pablo-barrientos.jpg" alt="Pablo Barrientos" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Pablo Barrientos</td>
+        <td colspan="3">Pablo Barrientos</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1985</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>173 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2009–2014</td>
+        <td colspan="3">2009–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>93</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>14</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>14</td>
+        <th>Goal / Assist</th>
+        <td>14 / 14</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Pablo Barrientos — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Pablo César Barrientos**, affettuosamente soprannominato **"El Pitu"** (Comodoro Rivadavia, 17 gennaio 1985), è un ex calciatore argentino, di ruolo centrocampista offensivo, mezzala o ala. Mancino purissimo dal tocco vellutato, dotato di visione periferica eccezionale e balistica sopraffina da fuori area, ha vestito la maglia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] in due fasi tra il **2009** e il **2014**, totalizzando **93 presenze ufficiali e 15 reti** (86 presenze e 14 gol in Serie A, oltre a 7 gare e 1 rete in Coppa Italia). Assieme ad [[tesserati/calciatori/alejandro-gomez|Alejandro Gómez]] e [[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]], ha formato il triangolo di pura fantasia che ha trascinato il club al vertice assoluto della sua storia in massima serie.
 

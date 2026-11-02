@@ -57,52 +57,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Michele Fini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/131_michele-fini.jpg" alt="Michele Fini" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Michele Fini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/131_michele-fini.jpg" alt="Michele Fini" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Michele Fini</td>
+        <td colspan="3">Michele Fini</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1974</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2000–2003</td>
+        <td colspan="3">2000–2003</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>105</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>9</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>3</td>
+        <th>Goal / Assist</th>
+        <td>9 / 3</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Michele Fini — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Michele Fini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 

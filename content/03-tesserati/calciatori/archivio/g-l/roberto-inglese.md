@@ -65,51 +65,41 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 ![Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp)
-*Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
 # Roberto Inglese
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp" alt="Roberto Inglese" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp" alt="Roberto Inglese" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Roberto Inglese</td>
+        <td colspan="3">Roberto Inglese</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1991</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–2026</td>
+        <td colspan="3">2024–2026</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>31</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>14</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>14 / 1</td>
       </tr>
     </tbody>
   </table>

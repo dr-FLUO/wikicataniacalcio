@@ -61,46 +61,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Gabriel Lunetta — Centrocampista e Cursore di Fascia del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp" alt="Gabriel Lunetta" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp" alt="Gabriel Lunetta" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Gabriel Lunetta</td>
+        <td colspan="3">Gabriel Lunetta</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1996</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>186 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–</td>
+        <td colspan="3">2024–</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>76</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>16</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>9</td>
+        <th>Goal / Assist</th>
+        <td>16 / 9</td>
       </tr>
     </tbody>
   </table>

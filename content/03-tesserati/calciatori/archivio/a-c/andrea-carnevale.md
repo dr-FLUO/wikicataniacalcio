@@ -56,46 +56,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Andrea Carnevale — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/468_andrea-carnevale.jpg" alt="Andrea Carnevale" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/468_andrea-carnevale.jpg" alt="Andrea Carnevale" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Andrea Carnevale</td>
+        <td colspan="3">Andrea Carnevale</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1961</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1982–1983</td>
+        <td colspan="3">1982–1983</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>23</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>3</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>0</td>
+        <th>Goal / Assist</th>
+        <td>3 / 0</td>
       </tr>
     </tbody>
   </table>

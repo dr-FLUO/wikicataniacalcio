@@ -81,52 +81,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Gionatha Spinesi
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/mascara-spinesi.jpg" alt="Gionatha Spinesi" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/mascara-spinesi.jpg" alt="Gionatha Spinesi" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Gionatha Spinesi</td>
+        <td colspan="3">Gionatha Spinesi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1978</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>184 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2005–2009</td>
+        <td colspan="3">2005–2009</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>117</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>49</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>2</td>
+        <th>Goal / Assist</th>
+        <td>49 / 2</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Gionatha Spinesi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Gionatha Spinesi**, soprannominato **"Il Gabbiano"** per la caratteristica esultanza a braccia spalancate (Pisa, 9 marzo 1978), è un ex calciatore italiano, di ruolo centravanti. Con **49 reti ufficiali in 143 presenze** tra il **2004 e il 2009**, occupa il **quarto posto assoluto nella classifica dei marcatori della storia del Catania** (alle spalle di [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]], [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e [[tesserati/calciatori/francesco-lodi|Francesco Lodi]]). I suoi **23 gol realizzati nella [[stagioni/2005-2006|Stagione 2005-2006]]** rappresentano il record per un singolo campionato cadetto nella storia rossazzurra e il pilastro della promozione in Serie A firmata da [[tesserati/allenatori/pasquale-marino|Pasquale Marino]].
 

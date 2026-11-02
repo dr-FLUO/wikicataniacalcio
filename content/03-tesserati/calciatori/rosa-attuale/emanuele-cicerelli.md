@@ -50,46 +50,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Emmanuele Pio Cicerelli — Attaccante Esterno e Uomo Fantasia del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp" alt="Emmanuele Pio Cicerelli" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto in divisa da gara dell'attaccante del Catania Emmanuele Pio Cicerelli</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp" alt="Emmanuele Pio Cicerelli" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Emmanuele Pio Cicerelli</td>
+        <td colspan="3">Emmanuele Pio Cicerelli</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1994</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>176 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–</td>
+        <td colspan="3">2024–</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>66</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>14</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>8</td>
+        <th>Goal / Assist</th>
+        <td>14 / 8</td>
       </tr>
     </tbody>
   </table>

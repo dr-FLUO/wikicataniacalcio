@@ -49,46 +49,37 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp" alt="Alessandro Quaini" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Fototessera ufficiale del centrocampista del Catania Alessandro Quaini</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp" alt="Alessandro Quaini" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Alessandro Quaini</td>
+        <td colspan="3">Alessandro Quaini</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1998</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>184 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2023–</td>
+        <td colspan="3">2023–</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>125</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>1</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>1 / 1</td>
       </tr>
     </tbody>
   </table>

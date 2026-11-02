@@ -78,52 +78,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Marco Biagianti
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/marco-biagianti.jpg" alt="Marco Biagianti" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/marco-biagianti.jpg" alt="Marco Biagianti" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Marco Biagianti</td>
+        <td colspan="3">Marco Biagianti</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1984</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>179 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2007–2013, 2016–2020</td>
+        <td colspan="3">2007–2013, 2016–2020</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>284</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>12</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>11</td>
+        <th>Goal / Assist</th>
+        <td>12 / 11</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[societa/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **258 in campionato** e **153 in Serie A**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
 

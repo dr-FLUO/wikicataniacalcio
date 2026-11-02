@@ -74,51 +74,41 @@ locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
 ![Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania](/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp)
-*Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 # Aldo Cantarutti
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp" alt="Aldo Cantarutti" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Aldo Cantarutti, bomber degli spareggi promozione del 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/figurine/aldo-cantarutti-calcio-catania-figurina-panini-1982-1983.webp" alt="Aldo Cantarutti" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Aldo Cantarutti</td>
+        <td colspan="3">Aldo Cantarutti</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1958</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1981–1984</td>
+        <td colspan="3">1981–1984</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>108</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>27</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>27 / 1</td>
       </tr>
     </tbody>
   </table>

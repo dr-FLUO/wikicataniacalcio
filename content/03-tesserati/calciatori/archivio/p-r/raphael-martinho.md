@@ -45,49 +45,39 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Raphael Martinho — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Raphael Martinho</td>
+        <td colspan="3">Raphael Martinho</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1988</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Brasile</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2009–2014</td>
+        <td colspan="3">2009–2014</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>36</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>5</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>5</td>
+        <th>Goal / Assist</th>
+        <td>5 / 5</td>
       </tr>
     </tbody>
   </table>

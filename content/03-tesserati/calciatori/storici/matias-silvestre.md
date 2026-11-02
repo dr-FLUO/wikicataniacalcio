@@ -76,52 +76,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Matías Silvestre
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/matias-silvestre.jpg" alt="Matías Silvestre" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/matias-silvestre.jpg" alt="Matías Silvestre" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Matías Silvestre</td>
+        <td colspan="3">Matías Silvestre</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1984</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>185 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2008–2011</td>
+        <td colspan="3">2008–2011</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>126</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>7</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>1</td>
+        <th>Goal / Assist</th>
+        <td>7 / 1</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Matías Agustín Silvestre** (Mercedes, 25 settembre 1984) è un calciatore argentino con passaporto italiano, nel ruolo di difensore centrale. Prelevato dal Boca Juniors da [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] nel gennaio **2008**, ha vestito la maglia rossazzurra per tre stagioni e mezzo fino al 2011, affermandosi come uno dei migliori centrali del campionato italiano di Serie A e indossando la fascia di capitano del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]].
 

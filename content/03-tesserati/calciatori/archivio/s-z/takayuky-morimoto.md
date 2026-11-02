@@ -48,46 +48,43 @@ locked_by: quadratura_riconciliazione_alias_dataset
 # Takayuky Morimoto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/players/54_takayuky-morimoto.jpg" alt="Takayuky Morimoto" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+
+---
+
+## Fonti e Bibliografia
+
+1.</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/players/54_takayuky-morimoto.jpg" alt="Takayuky Morimoto" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Takayuky Morimoto</td>
+        <td colspan="3">Takayuky Morimoto</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2005–2012</td>
+        <td colspan="3">2005–2012</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>98</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>20</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>8</td>
+        <th>Goal / Assist</th>
+        <td>20 / 8</td>
       </tr>
     </tbody>
   </table>

@@ -65,49 +65,39 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Ercole Bodini
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Ercole Bodini</td>
+        <td colspan="3">Ercole Bodini</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1904</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1930–1935</td>
+        <td colspan="3">1930–1935</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>110</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>37</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>37 / ND</td>
       </tr>
     </tbody>
   </table>

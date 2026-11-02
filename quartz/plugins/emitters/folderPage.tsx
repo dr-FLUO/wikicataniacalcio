@@ -65,9 +65,30 @@ function computeFolderInfo(
   content: ProcessedContent[],
   locale: keyof typeof TRANSLATIONS,
 ): Record<SimpleSlug, ProcessedContent> {
-  // Create default folder descriptions using curated editorial info
+  // First, map any real index.md file to its folder
+  const realFolderFiles: Record<string, ProcessedContent> = {}
+  for (const [tree, file] of content) {
+    const rawSlug = file.data.slug ?? ""
+    const filePath = (file.data.filePath ?? "").replace(/\\/g, "/")
+
+    // Check if this file is an index.md
+    if (filePath.endsWith("index.md") || rawSlug.endsWith("/index") || rawSlug === "index") {
+      let folderKey = stripSlashes(simplifySlug(rawSlug)) as SimpleSlug
+      const match = filePath.match(/content\/(.*?)\/index\.md$/)
+      if (match) {
+        folderKey = match[1] as SimpleSlug
+      }
+      realFolderFiles[folderKey] = [tree, file]
+      folders.add(folderKey)
+    }
+  }
+
+  // Create default folder descriptions using curated editorial info or real file content
   const folderInfo: Record<SimpleSlug, ProcessedContent> = Object.fromEntries(
     [...folders].map((folder) => {
+      if (realFolderFiles[folder]) {
+        return [folder, realFolderFiles[folder]]
+      }
       const editorial = getEditorialFolderInfo(folder)
       return [
         folder,
@@ -83,10 +104,10 @@ function computeFolderInfo(
     }),
   )
 
-  // Update with actual content if available
+  // Secondary check with any remaining content
   for (const [tree, file] of content) {
     const slug = stripSlashes(simplifySlug(file.data.slug!)) as SimpleSlug
-    if (folders.has(slug)) {
+    if (folders.has(slug) && !realFolderFiles[slug]) {
       folderInfo[slug] = [tree, file]
     }
   }
@@ -141,11 +162,18 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
 
       const folders: Set<SimpleSlug> = new Set(
         allFiles.flatMap((data) => {
-          return data.slug
-            ? _getFolders(data.slug).filter(
-                (folderName) => folderName !== "." && folderName !== "tags",
-              )
-            : []
+          const res: SimpleSlug[] = []
+          if (data.slug) {
+            res.push(..._getFolders(data.slug).filter((folderName) => folderName !== "." && folderName !== "tags"))
+          }
+          const fp = data.filePath?.replace(/\\/g, "/")
+          if (fp && fp.endsWith("index.md")) {
+            const m = fp.match(/content\/(.*?)\/index\.md$/)
+            if (m && m[1]) {
+              res.push(m[1] as SimpleSlug)
+            }
+          }
+          return res
         }),
       )
 
@@ -165,6 +193,13 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
           (folderName) => folderName !== "." && folderName !== "tags",
         )
         folders.forEach((folder) => affectedFolders.add(folder))
+        const fp = changeEvent.file.data.filePath?.replace(/\\/g, "/")
+        if (fp && fp.endsWith("index.md")) {
+          const m = fp.match(/content\/(.*?)\/index\.md$/)
+          if (m && m[1]) {
+            affectedFolders.add(m[1] as SimpleSlug)
+          }
+        }
       }
 
       // If there are affected folders, rebuild their pages

@@ -50,52 +50,41 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 # Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania FC
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp" alt="Stefano Sturaro" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/assets/images/calciatori/rosa-attuale/stefano-sturaro-calcio-catania-centrocampista-leader-2026-2027.webp" alt="Stefano Sturaro" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Stefano Sturaro</td>
+        <td colspan="3">Stefano Sturaro</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1993</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2024–2026</td>
+        <td colspan="3">2024–2026</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>27</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>0</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>3</td>
+        <th>Goal / Assist</th>
+        <td>0 / 3</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Stefano Sturaro — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 Nato a Sanremo il **9 marzo 1993**, **Stefano Sturaro** è un centrocampista di caratura internazionale approdato al Catania Football Club nel gennaio del **2024** per apportare esperienza, carisma e solidità agonistica al progetto di rinascita intrapreso dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]].
 

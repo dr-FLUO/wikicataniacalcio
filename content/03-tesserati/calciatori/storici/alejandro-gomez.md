@@ -83,52 +83,41 @@ locked_by: quadratura_riconciliazione_alias_dataset
 # Alejandro Gómez
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <img src="/assets/images/papu-gomez.jpg" alt="Alejandro Gómez" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit">Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <img src="/papu-gomez.jpg" alt="Alejandro Gómez" class="nfc-player-photo" />
-        </td>
         <th>Nome e cognome</th>
-        <td>Alejandro Gómez</td>
+        <td colspan="3">Alejandro Gómez</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1988</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Argentina</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>167 cm</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>2010–2013</td>
+        <td colspan="3">2010–2013</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>111</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>18</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>18</td>
+        <th>Goal / Assist</th>
+        <td>18 / 18</td>
       </tr>
     </tbody>
   </table>
 </div>
-
-*Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Alejandro Darío Gómez**, universalmente noto come **"El Papu"** (Buenos Aires, 15 febbraio 1988), è un calciatore argentino naturalizzato italiano, di ruolo attaccante, ala sinistra o trequartista. Dotato di un baricentro basso, accelerazione bruciante e di un dribbling nello stretto pressoché immarcabile, ha vestito la maglia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] per tre stagioni consecutive in Serie A tra il **2010** e il **2013**, collezionando **111 presenze ufficiali e 18 reti** (106 gare e 16 gol in massima divisione). È stato uno degli interpreti più spettacolari e determinanti del leggendario *"Catania degli Argentini"*, culminato con lo storico **8º posto a 56 punti** nella [[stagioni/2012-2013|Stagione 2012-2013]].
 

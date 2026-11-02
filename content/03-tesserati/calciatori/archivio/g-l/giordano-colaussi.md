@@ -43,49 +43,39 @@ locked_by: certificazione_archivio_storico_ufficiale
 # Giordano Colaussi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
+  <div class="nfc-player-photo-block">
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
+  </div>
   <table class="nfc-player-table">
     <tbody>
       <tr>
-        <td class="nfc-player-photo-cell" rowspan="9">
-          <div class="nfc-player-no-photo">
-        <span class="nfc-no-photo-badge">ND</span>
-        <span class="nfc-no-photo-label">Nessuna foto</span>
-      </div>
-        </td>
         <th>Nome e cognome</th>
-        <td>Giordano Colaussi</td>
+        <td colspan="3">Giordano Colaussi</td>
       </tr>
       <tr>
         <th>Anno</th>
         <td>1911</td>
-      </tr>
-      <tr>
         <th>Nazionalità</th>
         <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
         <td>ND</td>
-      </tr>
-      <tr>
         <th>Piede</th>
         <td>ND</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td>1911</td>
+        <td colspan="3">1911</td>
       </tr>
-      <tr>
-        <th>Presenze totali</th>
+      <tr class="nfc-stats-row">
+        <th>Presenze</th>
         <td>10</td>
-      </tr>
-      <tr>
-        <th>Goal totali</th>
-        <td>ND</td>
-      </tr>
-      <tr>
-        <th>Assist totali</th>
-        <td>ND</td>
+        <th>Goal / Assist</th>
+        <td>ND / ND</td>
       </tr>
     </tbody>
   </table>
