@@ -11,6 +11,7 @@ birth_place: Buenos Aires, Argentina
 nationality: Argentina
 role: Attaccante (Centravanti)
 shirt_number: 11
+image: assets/images/calciatori/maxi-lopez.jpg
 catania_periods:
 - 2010-2012
 - 2013-2014
@@ -69,6 +70,16 @@ aliases:
 - tesserati/maxi-lopez
 - calciatori/maxi-lopez
 image_credits:
+- image_path: assets/images/calciatori/maxi-lopez.jpg
+  alt_text: Ritratto ufficiale di Maxi López in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/maxi-lopez.jpg
+  alt_text: Ritratto ufficiale di Maxi López in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/maxi-lopez.jpg
   alt_text: 'Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -89,8 +100,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/maxi-lopez.jpg" alt="Maxi López" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Maxi López — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/maxi-lopez.jpg" alt="Maxi López" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

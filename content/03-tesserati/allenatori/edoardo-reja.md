@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/edoardo-reja.jpg
 image_credits:
 - image_path: assets/images/allenatori/edoardo-reja.jpg
+  alt_text: Ritratto ufficiale di Edoardo Reja in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/edoardo-reja.jpg
+  alt_text: Ritratto ufficiale di Edoardo Reja in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/edoardo-reja.jpg
   alt_text: Ritratto fotografico di Edoardo Reja allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -62,8 +72,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Edoardo Reja
 
-![Ritratto ufficiale di Edoardo Reja sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/edoardo-reja.jpg)
-*Ritratto ufficiale di Edoardo Reja sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Edoardo Reja, guida tecnica del Calcio Catania](/assets/images/allenatori/edoardo-reja.jpg)
+*Edoardo Reja, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Edoardo Reja** (Lucinico (GO), Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).

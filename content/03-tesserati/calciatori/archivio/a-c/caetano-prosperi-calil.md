@@ -31,8 +31,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/867_caetano-prosperi-calil.jpg
+image: assets/images/calciatori/caetano-prosperi-calil.jpg
 image_credits:
+- image_path: assets/images/calciatori/caetano-prosperi-calil.jpg
+  alt_text: Ritratto ufficiale di Caetano Calil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/caetano-prosperi-calil.jpg
+  alt_text: Ritratto ufficiale di Caetano Calil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/caetano-prosperi-calil.jpg
   alt_text: 'Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio
     (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Calcio Catania'
@@ -58,8 +68,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/867_caetano-prosperi-calil.jpg" alt="Caetano Prosperi Calil" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Caetano Prósperi Calil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/caetano-prosperi-calil.jpg" alt="Caetano Calil" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

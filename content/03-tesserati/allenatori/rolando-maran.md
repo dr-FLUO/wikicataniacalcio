@@ -19,10 +19,10 @@ club_entities:
 image: assets/images/allenatori/rolando-maran.jpg
 image_credits:
 - image_path: assets/images/allenatori/rolando-maran.jpg
-  alt_text: Ritratto fotografico di Rolando Maran allenatore del Calcio Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
+  alt_text: Ritratto fotografico di Rolando Maran, allenatore del record di 56 punti in Serie A
+  author_or_archive: Pottercomuneo (Wikimedia Commons)
+  year: 2015
+  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - allenatori
 - serie-a
@@ -70,8 +70,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Rolando Maran
 
-![Ritratto ufficiale di Rolando Maran sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/rolando-maran.jpg)
-*Ritratto ufficiale di Rolando Maran sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Rolando Maran, guida tecnica del Calcio Catania](/assets/images/allenatori/rolando-maran.jpg)
+*Rolando Maran, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Rolando Maran** (Trento, 14 luglio 1963) è un allenatore di calcio ed ex calciatore italiano. È il tecnico che ha condotto il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] al **punto più alto della sua storia statistica e agonistica in Serie A**: nella memorabile [[stagioni/2012-2013|Stagione 2012-2013]], la formazione rossazzurra da lui guidata ha conquistato l'**8º posto in classifica** (eguagliando il miglior piazzamento di sempre stabilito da [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta) e ha fissato il **record assoluto di punti (56)**, di **vittorie complessive (15)**, di **vittorie interne (12 su 19)** e di **reti segnate (50)** nella Serie A moderna a 20 squadre, sfiorando per un solo punto la qualificazione alla UEFA Europa League.

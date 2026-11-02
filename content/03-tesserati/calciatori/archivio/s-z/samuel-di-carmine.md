@@ -10,6 +10,7 @@ birth_date: 1988-09-29
 birth_place: Firenze, Italia
 nationality: Italia
 role: Attaccante / Centravanti
+image: assets/images/calciatori/samuel-di-carmine.jpg
 catania_periods:
 - 2023-2024
 total_appearances: 36
@@ -18,6 +19,17 @@ total_goals: 10
 league_goals: 8
 club_entities:
 - '[[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
+image_credits:
+- image_path: assets/images/calciatori/samuel-di-carmine.jpg
+  alt_text: Ritratto ufficiale di Samuel Di Carmine in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/samuel-di-carmine.jpg
+  alt_text: Ritratto ufficiale di Samuel Di Carmine in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - attaccanti
@@ -58,10 +70,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/samuel-di-carmine.jpg" alt="Samuel Di Carmine" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

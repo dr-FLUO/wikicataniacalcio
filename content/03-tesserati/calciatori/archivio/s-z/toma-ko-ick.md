@@ -33,6 +33,21 @@ sources:
 image: assets/images/calciatori/toma-ko-ick.jpg
 image_credits:
 - image_path: assets/images/calciatori/toma-ko-ick.jpg
+  alt_text: Ritratto ufficiale di Tomas Kosicky in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/toma-ko-ick.jpg
+  alt_text: Ritratto ufficiale di Tom in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/toma-ko-ick.jpg
+  alt_text: Ritratto ufficiale di Tomas Kosicky in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/toma-ko-ick.jpg
   alt_text: Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -54,8 +69,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/toma-ko-ick.jpg" alt="Tomáš Košický" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania</div>
+    <img src="/assets/images/calciatori/toma-ko-ick.jpg" alt="Tomas Kosicky" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

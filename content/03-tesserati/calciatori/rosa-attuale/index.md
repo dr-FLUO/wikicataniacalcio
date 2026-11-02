@@ -48,7 +48,7 @@ Benvenuti nella sezione ufficiale dedicata alla **Prima Squadra del Catania Foot
 * **Presidente**: [[01-societa/presidenti/ross-pelligra|Rosario (Ross) Pelligra]]
 * **Vice Presidente e Amministratore Delegato**: [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]]
 * **Direttore Generale**: Alessandro Zarbano
-* **Direttore Sportivo**: Fortunato Varrà
+* **Direttore Sportivo**: [[01-societa/dirigenti/fortunato-varra|Fortunato Varrà]]
 * **Allenatore Responsabile**: Emilio Longo
 * **Capitano**: [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]]
 * **Allenatore in Seconda**: Vincenzo Migliaccio

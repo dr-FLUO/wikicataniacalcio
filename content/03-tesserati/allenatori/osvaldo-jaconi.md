@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/osvaldo-jaconi.jpg
 image_credits:
 - image_path: assets/images/allenatori/osvaldo-jaconi.jpg
+  alt_text: Ritratto ufficiale di Osvaldo Jaconi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/osvaldo-jaconi.jpg
+  alt_text: Ritratto ufficiale di Osvaldo Jaconi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/osvaldo-jaconi.jpg
   alt_text: Ritratto fotografico di Osvaldo Jaconi allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Osvaldo Jaconi
 
-![Ritratto ufficiale di Osvaldo Jaconi sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/osvaldo-jaconi.jpg)
-*Ritratto ufficiale di Osvaldo Jaconi sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Osvaldo Jaconi, guida tecnica del Calcio Catania](/assets/images/allenatori/osvaldo-jaconi.jpg)
+*Osvaldo Jaconi, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Osvaldo Jaconi** (Mandello del Lario (LC), Italia, 1947) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1987-1988**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).

@@ -25,8 +25,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/797_lucas-nahuel-castro.jpg
+image: assets/images/calciatori/lucas-nahuel-castro.jpg
 image_credits:
+- image_path: assets/images/calciatori/lucas-nahuel-castro.jpg
+  alt_text: Ritratto ufficiale di Lucas Castro in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/lucas-nahuel-castro.jpg
+  alt_text: Ritratto ufficiale di Lucas Castro in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/797_lucas-nahuel-castro.jpg
   alt_text: Ritratto del calciatore Lucas Nahuel Castro in maglia rossazzurra del
     Calcio Catania
@@ -49,14 +59,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/797_lucas-nahuel-castro.jpg" alt="Lucas Nahuel Castro" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <img src="/assets/images/calciatori/lucas-nahuel-castro.jpg" alt="Lucas Castro" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

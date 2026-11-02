@@ -19,6 +19,16 @@ club_entities:
 image: assets/images/allenatori/gianni-di-marzio.jpg
 image_credits:
 - image_path: assets/images/allenatori/gianni-di-marzio.jpg
+  alt_text: Ritratto ufficiale di Gianni Di Marzio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/gianni-di-marzio.jpg
+  alt_text: Ritratto ufficiale di Gianni Di Marzio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/gianni-di-marzio.jpg
   alt_text: Ritratto fotografico di Gianni Di Marzio allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -71,8 +81,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Gianni Di Marzio
 
-![Ritratto ufficiale di Gianni Di Marzio sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/gianni-di-marzio.jpg)
-*Ritratto ufficiale di Gianni Di Marzio sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Gianni Di Marzio, guida tecnica del Calcio Catania](/assets/images/allenatori/gianni-di-marzio.jpg)
+*Gianni Di Marzio, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Gianni Di Marzio** (Napoli, 8 gennaio 1940 – Padova, 22 gennaio 2022) è stato un allenatore di calcio e dirigente sportivo italiano. Tecnico carismatico e profondo conoscitore di calcio (celebre per aver scoperto un giovanissimo Diego Armando Maradona in Argentina nel 1978), è entrato nel mito della storia rossazzurra guidando il [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] alla **quarta promozione in Serie A nella [[stagioni/1982-1983|Stagione 1982-1983]]**, trionfando negli **spareggi dello Stadio Olimpico di Roma del 18 e 25 giugno 1983** davanti al leggendario [[tifoseria/eventi/esodo-roma-1983|esodo di 40.000 tifosi catanesi]].

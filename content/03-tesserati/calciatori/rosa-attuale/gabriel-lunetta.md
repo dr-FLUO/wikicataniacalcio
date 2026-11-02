@@ -19,8 +19,18 @@ total_goals: 16
 league_goals: 4
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp
+image: assets/images/calciatori/gabriel-lunetta.jpg
 image_credits:
+- image_path: assets/images/calciatori/gabriel-lunetta.jpg
+  alt_text: Ritratto ufficiale di Gabriel Lunetta in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/gabriel-lunetta.jpg
+  alt_text: Ritratto ufficiale di Gabriel Lunetta in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp
   alt_text: Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del Catania
   author_or_archive: Archivio Storico Calcio Catania
@@ -62,8 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/gabriel-lunetta-calcio-catania-centrocampista-2026-2027.webp" alt="Gabriel Lunetta" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Fototessera ufficiale di Gabriel Lunetta con la maglia rossazzurra del Catania</div>
+    <img src="/assets/images/calciatori/gabriel-lunetta.jpg" alt="Gabriel Lunetta" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

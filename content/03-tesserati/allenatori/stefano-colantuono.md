@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/stefano-colantuono.jpg
 image_credits:
 - image_path: assets/images/allenatori/stefano-colantuono.jpg
+  alt_text: Ritratto ufficiale di Stefano Colantuono in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/stefano-colantuono.jpg
+  alt_text: Ritratto ufficiale di Stefano Colantuono in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/stefano-colantuono.jpg
   alt_text: Ritratto fotografico di Stefano Colantuono allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Stefano Colantuono
 
-![Ritratto ufficiale di Stefano Colantuono sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/stefano-colantuono.jpg)
-*Ritratto ufficiale di Stefano Colantuono sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Stefano Colantuono, guida tecnica del Calcio Catania](/assets/images/allenatori/stefano-colantuono.jpg)
+*Stefano Colantuono, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Stefano Colantuono** (Roma, Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).

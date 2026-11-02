@@ -31,22 +31,21 @@ sources:
   publisher: FIGC
   year: 2015
   reference: CU n. 16/TFN del 20/08/2015
-cover_image: torre-del-grifo-village.jpg
-cover_caption: Veduta aerea di Torre del Grifo Village a Mascalucia, avveniristico
-  centro sportivo sociale concepito e inaugurato sotto la presidenza di Antonino Pulvirenti
-  nel 2011.
-cover_credit: 'Foto: Salvosmav · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
+cover_image: antonino-pulvirenti.jpg
+cover_caption: Antonino Pulvirenti, presidente e patron del Calcio Catania dal 2004 al 2015.
+cover_credit: 'Archivio Storico e Iconografico Calcio Catania'
+image: assets/images/presidenti-dirigenti/antonino-pulvirenti.jpg
 image_credits:
-- image_path: 'assets/images/presidenti-dirigenti/antonino-pulvirenti-calcio-catania-presidente-serie-a-2004-2015.webp'
+- image_path: 'assets/images/presidenti-dirigenti/antonino-pulvirenti.jpg'
   alt_text: "Antonino Pulvirenti, presidente del Catania dal 2004 al 2015"
-  author_or_archive: "Archivio Fotografico Wiki Catania Calcio"
-  year: 2024
-  license_type: "Pubblico Dominio (Scadenza termini d'autore)"
+  author_or_archive: "Archivio Storico e Iconografico Calcio Catania"
+  year: 2026
+  license_type: "Certificato di Pubblico Dominio / Documentazione Sportiva"
 aliases:
 - societa/presidenti/antonino-pulvirenti
 ---
-![Antonino Pulvirenti, presidente del Catania dal 2004 al 2015 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/presidenti-dirigenti/antonino-pulvirenti-calcio-catania-presidente-serie-a-2004-2015.webp)
-*Antonino Pulvirenti, presidente del Catania dal 2004 al 2015 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+![Antonino Pulvirenti, presidente del Catania dal 2004 al 2015](/assets/images/presidenti-dirigenti/antonino-pulvirenti.jpg)
+*Antonino Pulvirenti, presidente del Catania dal 2004 al 2015 — Archivio Storico e Iconografico Calcio Catania*
 
 
 # Antonino Pulvirenti

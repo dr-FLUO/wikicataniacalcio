@@ -42,8 +42,18 @@ sources:
   year: 2026
   reference: 'ID 1087: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Inglese-1087
-image: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
+image: assets/images/calciatori/roberto-inglese.jpg
 image_credits:
+- image_path: assets/images/calciatori/roberto-inglese.jpg
+  alt_text: Ritratto ufficiale di Roberto Inglese in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/roberto-inglese.jpg
+  alt_text: Ritratto ufficiale di Roberto Inglese in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp
   alt_text: Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC
   author_or_archive: Archivio Storico Calcio Catania
@@ -70,8 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/roberto-inglese-calcio-catania-attaccante-bomber-2026-2027.webp" alt="Roberto Inglese" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Roberto Inglese, centravanti e punto di riferimento offensivo del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania</div>
+    <img src="/assets/images/calciatori/roberto-inglese.jpg" alt="Roberto Inglese" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

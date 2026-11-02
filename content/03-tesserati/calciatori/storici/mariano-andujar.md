@@ -11,6 +11,7 @@ birth_place: Buenos Aires, Argentina
 nationality: Argentina
 role: Portiere
 shirt_number: 21
+image: assets/images/calciatori/mariano-andujar.jpg
 catania_periods:
 - 2009-2014
 total_appearances: 149
@@ -57,6 +58,16 @@ aliases:
 - tesserati/mariano-andujar
 - calciatori/mariano-andujar
 image_credits:
+- image_path: assets/images/calciatori/mariano-andujar.jpg
+  alt_text: Ritratto ufficiale di Mariano Andújar in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/mariano-andujar.jpg
+  alt_text: Ritratto ufficiale di Mariano Andújar in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/mariano-andujar.jpg
   alt_text: 'Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -78,7 +89,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/mariano-andujar.jpg" alt="Mariano Andújar" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Mariano Andújar — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

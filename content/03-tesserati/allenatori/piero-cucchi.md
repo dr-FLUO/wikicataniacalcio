@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/piero-cucchi.jpg
 image_credits:
 - image_path: assets/images/allenatori/piero-cucchi.jpg
+  alt_text: Ritratto ufficiale di Piero Cucchi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/piero-cucchi.jpg
+  alt_text: Ritratto ufficiale di Piero Cucchi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/piero-cucchi.jpg
   alt_text: Ritratto fotografico di Piero Cucchi allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -63,8 +73,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Piero Cucchi
 
-![Ritratto ufficiale di Piero Cucchi sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/piero-cucchi.jpg)
-*Ritratto ufficiale di Piero Cucchi sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Piero Cucchi, guida tecnica del Calcio Catania](/assets/images/allenatori/piero-cucchi.jpg)
+*Piero Cucchi, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Piero Cucchi** (Boffalora sopra Ticino (MI), Italia, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1998-1999**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).

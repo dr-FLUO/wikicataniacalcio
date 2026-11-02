@@ -70,8 +70,18 @@ sources:
 cover_image: orazio-russo.jpg
 cover_caption: 'Orazio Russo con la divisa sociale del Calcio Catania: bandiera, tecnico del vivaio e dirigente storico etneo.'
 cover_credit: Archivio Storico Calcio Catania (Pubblico Dominio)
-image: assets/images/calciatori/archivio-calciocatania/orazio-russo-calcio-catania-attaccante-1991-2010.webp
+image: assets/images/calciatori/orazio-russo.jpg
 image_credits:
+- image_path: assets/images/calciatori/orazio-russo.jpg
+  alt_text: Ritratto ufficiale di Orazio Russo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/orazio-russo.jpg
+  alt_text: Ritratto ufficiale di Orazio Russo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/orazio-russo.jpg
   alt_text: 'Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -91,7 +101,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/orazio-russo.jpg" alt="Orazio Russo" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Orazio Russo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

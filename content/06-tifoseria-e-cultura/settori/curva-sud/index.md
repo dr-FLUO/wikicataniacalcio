@@ -6,7 +6,7 @@ description: 'Dossier sulla Curva Sud dello Stadio Cibali / Angelo Massimino: da
 slug: 06-tifoseria-e-cultura/settori/curva-sud
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-02
 tags:
 - curva-sud
 - massimino
@@ -14,6 +14,7 @@ tags:
 - falange-dassalto
 - estrema-appartenenza
 - catania-raiders
+- i-pazzi
 - ultras
 sources:
 - author: Antonio Buemi et al.
@@ -26,6 +27,11 @@ sources:
   publisher: italiani.it
   year: 2021
   reference: I gruppi e la svolta del 2015 in Curva Sud
+- author: Redazione Tifo e Cronache Rossazzurre
+  title: Organizzazione e assetto del tifo al Massimino nella stagione 2026
+  publisher: archiviocalciocatania.it
+  year: 2026
+  reference: Trasferimento de I Pazzi nell'anello centrale superiore della Curva Sud
 aliases:
 - tifoseria/curva-sud
 - tifoseria/curva-sud/index
@@ -42,6 +48,7 @@ La **Curva Sud** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] rappr
 - **I Pionieri degli Anni Ottanta:** Nella stagione 1982-1983 compaiono i [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], seguiti da una costellazione di formazioni giovanili (*Onda d'Urto*, *Teddy Boys*, *Panthers*, *Hells Angels*, *Brigate Ultrà*, *Indians*, *Eagles*, *Gioventù Rossazzurra*).
 - **L'Avvento degli Irriducibili (1991):** Nel 1991 un nucleo proveniente dalla Nord fonda *Primo Amore*, trasformandosi poi in [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (I.R.A.)]], che assumono la leadership indiscussa del settore per oltre vent'anni.
 - **La Frattura del 2015 ed "Estrema Appartenenza":** Nel 2015, di fronte al declassamento in Serie C, la Sud sceglie di sottoscrivere la Tessera del Tifoso per non lasciare sola la squadra in trasferta. La storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] trasloca dalla Nord e si unisce agli Irriducibili sotto lo striscione unitario da trasferta [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
+- **L'Arrivo de "I Pazzi" (Stagione 2026):** Dall'avvio della stagione 2026, lo storico gruppo [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]] (nato nel 1999 a San Leone e per oltre venticinque anni colonna della Nord) si stabilisce nell'anello centrale superiore della Curva Sud, conferendo ulteriore vigore e compattezza al tifo del settore meridionale.
 
 ---
 
@@ -51,6 +58,7 @@ La **Curva Sud** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] rappr
 * **[[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili 1991 (I.R.A.)]]**: Gruppo portante della Curva Sud per oltre un trentennio.
 * **[[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]]**: La sigla unitaria delle trasferte dal 2015.
 * **[[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]]**: Il gruppo pioniere del settore meridionale (1982-1983).
+* **[[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]]**: Storico gruppo di San Leone (1999), trasferitosi stabilmente nell'anello centrale superiore della Curva Sud dall'inizio della stagione 2026.
 
 ---
 
@@ -58,3 +66,4 @@ La **Curva Sud** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] rappr
 
 1. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
 2. **Redazione Cronaca e Tifo**, *Calcio Catania, l'indissolubile legame tra tifoso e la sua squadra*, italiani.it, 2021.
+3. **Redazione Tifo e Cronache Rossazzurre**, *Organizzazione e assetto del tifo al Massimino nella stagione 2026*, archiviocalciocatania.it, 2026.

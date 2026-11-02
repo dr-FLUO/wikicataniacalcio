@@ -21,6 +21,16 @@ club_entities:
 image: assets/images/allenatori/sinisa-mihajlovic.jpg
 image_credits:
 - image_path: assets/images/allenatori/sinisa-mihajlovic.jpg
+  alt_text: Ritratto ufficiale di Sinisa Mihajlovic in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/sinisa-mihajlovic.jpg
+  alt_text: Ritratto ufficiale di Sinisa Mihajlovic in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/sinisa-mihajlovic.jpg
   alt_text: Ritratto fotografico di Siniša Mihajlović allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -77,8 +87,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Siniša Mihajlović
 
-![Ritratto ufficiale di Siniša Mihajlović sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/sinisa-mihajlovic.jpg)
-*Ritratto ufficiale di Siniša Mihajlović sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Sinisa Mihajlovic, guida tecnica del Calcio Catania](/assets/images/allenatori/sinisa-mihajlovic.jpg)
+*Sinisa Mihajlovic, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Siniša Mihajlović** (Vukovar, 20 febbraio 1969 – Roma, 16 dicembre 2022) è stato un allenatore di calcio e calciatore serbo, di ruolo difensore o centrocampista. Personalità magnetica, carisma d'acciaio e maestro tattico nella cura dei dettagli difensivi e delle palle inattive, ha legato il proprio nome a una delle stagioni più esaltanti della storia del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]: subentrato all'indomani della 15ª giornata della **Serie A 2009-2010** con la squadra all'ultimo posto a quota 9 punti, ha guidato gli etnei a una travolgente rimonta salvezza, chiudendo al **13º posto con il record societario dell'epoca di 45 punti** (conquistandone **36 in 23 panchine**, di cui 30 nel solo girone di ritorno). La sua gestione è passata alla storia per le leggendarie vittorie contro la Juventus a Torino (1-2) e contro l'[[partite/precedenti/inter|Inter]] di José Mourinho al Cibali (3-1).

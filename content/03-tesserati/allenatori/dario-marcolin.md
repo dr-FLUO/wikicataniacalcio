@@ -17,6 +17,26 @@ club_entities:
 image: assets/images/allenatori/dario-marcolin.jpg
 image_credits:
 - image_path: assets/images/allenatori/dario-marcolin.jpg
+  alt_text: Ritratto ufficiale di Dario Marcolin in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/dario-marcolin.jpg
+  alt_text: Ritratto ufficiale di Dario Marcolin in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/dario-marcolin.jpg
+  alt_text: Ritratto ufficiale di Dario Marcolin in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/dario-marcolin.jpg
+  alt_text: Ritratto ufficiale di Dario Marcolin in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/dario-marcolin.jpg
   alt_text: Ritratto fotografico di Dario Marcolin allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +81,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Dario Marcolin
 
-![Ritratto ufficiale di Dario Marcolin sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/dario-marcolin.jpg)
-*Ritratto ufficiale di Dario Marcolin sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Dario Marcolin, guida tecnica del Calcio Catania](/assets/images/allenatori/dario-marcolin.jpg)
+*Dario Marcolin, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Dario Marcolin** (Poncarale (BS), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2014-2015**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

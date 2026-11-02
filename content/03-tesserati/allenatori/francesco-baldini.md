@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/francesco-baldini.jpg
 image_credits:
 - image_path: assets/images/allenatori/francesco-baldini.jpg
+  alt_text: Ritratto ufficiale di Francesco Baldini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/francesco-baldini.jpg
+  alt_text: Ritratto ufficiale di Francesco Baldini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/francesco-baldini.jpg
   alt_text: Ritratto fotografico di Francesco Baldini allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -63,8 +73,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Francesco Baldini
 
-![Ritratto ufficiale di Francesco Baldini sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/francesco-baldini.jpg)
-*Ritratto ufficiale di Francesco Baldini sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Francesco Baldini, guida tecnica del Calcio Catania](/assets/images/allenatori/francesco-baldini.jpg)
+*Francesco Baldini, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Francesco Baldini** (Massa, Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2022**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione SIGI).

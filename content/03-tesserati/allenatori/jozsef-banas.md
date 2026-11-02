@@ -15,8 +15,13 @@ catania_periods:
 - 1948-1949
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: assets/images/allenatori/jozsef-banas.jpg
+image: assets/images/calciatori/jozsef-banas.jpg
 image_credits:
+- image_path: assets/images/calciatori/jozsef-banas.jpg
+  alt_text: Ritratto ufficiale di Tom in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/jozsef-banas.jpg
   alt_text: Ritratto fotografico di József Bánás allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors

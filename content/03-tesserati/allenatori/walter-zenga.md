@@ -10,6 +10,7 @@ birth_date: 1960-04-28
 birth_place: Milano, Italia
 nationality: Italia
 role: Allenatore di Calcio ed Ex Portiere
+image: assets/images/allenatori/walter-zenga.jpg
 catania_periods:
 - 2007-2008
 - 2008-2009
@@ -44,6 +45,16 @@ cover_caption: Walter Zenga, allenatore del Catania nel 2008-2009, protagonista 
   salvezza e dello storico 4-0 al Barbera di Palermo.
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 image_credits:
+- image_path: assets/images/allenatori/walter-zenga.jpg
+  alt_text: Ritratto ufficiale di Walter Zenga in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/walter-zenga.jpg
+  alt_text: Ritratto ufficiale di Walter Zenga in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp
   alt_text: Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo
   author_or_archive: Archivio Fotografico Wiki Catania Calcio
@@ -62,8 +73,8 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/walter-zenga-calcio-catania-allenatore-serie-a-2008-2009.webp)
-*Walter Zenga, protagonista delle storiche salvezze e del derby di Palermo — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+![Walter Zenga, guida tecnica del Calcio Catania](/assets/images/allenatori/walter-zenga.jpg)
+*Walter Zenga, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 # Walter Zenga

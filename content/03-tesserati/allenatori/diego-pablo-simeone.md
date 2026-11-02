@@ -11,6 +11,7 @@ birth_date: 1970-04-28
 birth_place: Buenos Aires, Argentina
 nationality: Argentina / Spagna
 role: Allenatore (ex Centrocampista)
+image: assets/images/allenatori/diego-pablo-simeone.jpg
 catania_periods:
 - 2011 (Gennaio - Giugno)
 club_entities:
@@ -47,6 +48,16 @@ cover_caption: Diego Pablo Simeone («El Cholo»), artefice della salvezza recor
   46 punti nella stagione di Serie A 2010-2011.
 cover_credit: 'Foto: Carlos Delgado · Licenza: CC BY-SA 3.0'
 image_credits:
+- image_path: assets/images/allenatori/diego-pablo-simeone.jpg
+  alt_text: Ritratto ufficiale di Diego Pablo Simeone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/diego-pablo-simeone.jpg
+  alt_text: Ritratto ufficiale di Diego Pablo Simeone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp
   alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel
   author_or_archive: Archivio Storico Calcio Catania
@@ -64,6 +75,10 @@ aliases:
 - tesserati/diego-pablo-simeone
 - allenatori/diego-pablo-simeone
 ---
+
+
+![Diego Pablo Simeone, guida tecnica del Calcio Catania](/assets/images/allenatori/diego-pablo-simeone.jpg)
+*Diego Pablo Simeone, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 ![Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](../../assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp)
 *Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*

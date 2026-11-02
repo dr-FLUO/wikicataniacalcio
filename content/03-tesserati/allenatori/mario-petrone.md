@@ -10,10 +10,32 @@ role: Allenatore
 birth_date: 1973-03-20
 birth_place: Napoli, Italia
 nationality: Italia
+image: assets/images/allenatori/mario-petrone.jpg
 catania_periods:
 - 2016-2017
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+image_credits:
+- image_path: assets/images/allenatori/mario-petrone.jpg
+  alt_text: Ritratto ufficiale di Mario Petrone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/mario-petrone.jpg
+  alt_text: Ritratto ufficiale di Mario Petrone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/mario-petrone.jpg
+  alt_text: Ritratto ufficiale di Mario Petrone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/mario-petrone.jpg
+  alt_text: Ritratto ufficiale di Mario Petrone in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - anni-duemiladieci
@@ -52,6 +74,10 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
+
+
+![Mario Petrone, guida tecnica del Calcio Catania](/assets/images/allenatori/mario-petrone.jpg)
+*Mario Petrone, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 # Mario Petrone
 

@@ -15,8 +15,18 @@ catania_periods:
 - 1946-1947
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-image: assets/images/allenatori/cesare-goffi.jpg
+image: assets/images/calciatori/cesare-goffi.jpg
 image_credits:
+- image_path: assets/images/calciatori/cesare-goffi.jpg
+  alt_text: Ritratto ufficiale di César in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/cesare-goffi.jpg
+  alt_text: Ritratto ufficiale di César in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/cesare-goffi.jpg
   alt_text: Ritratto fotografico di Cesare Goffi allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors

@@ -10,6 +10,7 @@ birth_date: 1974-06-18
 birth_place: Pomigliano d'Arco (NA), Italia
 nationality: Italia
 role: Allenatore di Calcio ed Ex Calciatore
+image: assets/images/allenatori/vincenzo-montella.jpg
 catania_periods:
 - 2011-2012
 club_entities:
@@ -50,6 +51,16 @@ cover_caption: Vincenzo Montella, allenatore del Calcio Catania nella stagione r
   di Serie A 2011-2012 (48 punti).
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 image_credits:
+- image_path: assets/images/allenatori/vincenzo-montella.jpg
+  alt_text: Ritratto ufficiale di Vincenzo Montella in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/vincenzo-montella.jpg
+  alt_text: Ritratto ufficiale di Vincenzo Montella in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp
   alt_text: Vincenzo Montella, autore del record di punti in Serie A 2011-2012
   author_or_archive: Archivio Fotografico Wiki Catania Calcio
@@ -68,8 +79,8 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Vincenzo Montella, autore del record di punti in Serie A 2011-2012 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/vincenzo-montella-calcio-catania-allenatore-serie-a-2011-2012.webp)
-*Vincenzo Montella, autore del record di punti in Serie A 2011-2012 — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+![Vincenzo Montella, guida tecnica del Calcio Catania](/assets/images/allenatori/vincenzo-montella.jpg)
+*Vincenzo Montella, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 # Vincenzo Montella

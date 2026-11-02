@@ -11,6 +11,7 @@ birth_place: Mercedes, Argentina
 nationality: Argentina
 role: Difensore centrale / Capitano
 shirt_number: 6
+image: assets/images/calciatori/matias-silvestre.jpg
 catania_periods:
 - 2008-2011
 total_appearances: 126
@@ -57,6 +58,16 @@ aliases:
 - tesserati/matias-silvestre
 - calciatori/matias-silvestre
 image_credits:
+- image_path: assets/images/calciatori/matias-silvestre.jpg
+  alt_text: Ritratto ufficiale di Matías Silvestre in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/matias-silvestre.jpg
+  alt_text: Ritratto ufficiale di Matías Silvestre in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/matias-silvestre.jpg
   alt_text: 'Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -78,7 +89,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/matias-silvestre.jpg" alt="Matías Silvestre" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Matías Silvestre — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

@@ -9,6 +9,7 @@ last_verified_date: '2026-10-30'
 role: Attaccante
 total_appearances: 22
 seasons_count: 2
+image: assets/images/calciatori/riccardo-maniero.jpg
 tags:
 - calciatori
 - riccardo-maniero
@@ -37,6 +38,16 @@ aliases:
 - tesserati/riccardo-maniero
 - calciatori/riccardo-maniero
 image_credits:
+- image_path: assets/images/calciatori/riccardo-maniero.jpg
+  alt_text: Ritratto ufficiale di Riccardo Maniero in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/riccardo-maniero.jpg
+  alt_text: Ritratto ufficiale di Riccardo Maniero in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/riccardo-maniero.jpg
   alt_text: 'Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -58,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/riccardo-maniero.jpg" alt="Riccardo Maniero" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Riccardo Maniero — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

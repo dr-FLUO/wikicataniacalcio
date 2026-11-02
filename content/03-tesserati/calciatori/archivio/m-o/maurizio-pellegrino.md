@@ -31,8 +31,28 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/293_maurizio-pellegrino.jpg
+image: assets/images/allenatori/maurizio-pellegrino.jpg
 image_credits:
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/293_maurizio-pellegrino.jpg
   alt_text: Ritratto del calciatore Maurizio Pellegrino in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
@@ -53,6 +73,10 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
+
+![Maurizio Pellegrino, guida tecnica del Calcio Catania](/assets/images/allenatori/maurizio-pellegrino.jpg)
+*Maurizio Pellegrino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+
 # Maurizio Pellegrino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">

@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/nedo-sonetti.jpg
 image_credits:
 - image_path: assets/images/allenatori/nedo-sonetti.jpg
+  alt_text: Ritratto ufficiale di Nedo Sonetti in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/nedo-sonetti.jpg
+  alt_text: Ritratto ufficiale di Nedo Sonetti in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/nedo-sonetti.jpg
   alt_text: Ritratto fotografico di Nedo Sonetti allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -62,8 +72,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Nedo Sonetti
 
-![Ritratto ufficiale di Nedo Sonetti sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/nedo-sonetti.jpg)
-*Ritratto ufficiale di Nedo Sonetti sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Nedo Sonetti, guida tecnica del Calcio Catania](/assets/images/allenatori/nedo-sonetti.jpg)
+*Nedo Sonetti, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Nedo Sonetti** (Piombino (LI), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

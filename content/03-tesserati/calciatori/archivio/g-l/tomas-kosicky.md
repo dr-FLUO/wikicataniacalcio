@@ -35,8 +35,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp
+image: assets/images/calciatori/tomas-kosicky.jpg
 image_credits:
+- image_path: assets/images/calciatori/tomas-kosicky.jpg
+  alt_text: Ritratto ufficiale di Tomas Kosicky in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/tomas-kosicky.jpg
+  alt_text: Ritratto ufficiale di Tom in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/tomas-kosicky.jpg
+  alt_text: Ritratto ufficiale di Tomas Kosicky in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp
   alt_text: Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
@@ -64,8 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/tomas-kosicky-calcio-catania-portiere-2008-2012.webp" alt="Tomáš Košický" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Tomáš Košický calciatore del Calcio Catania</div>
+    <img src="/assets/images/calciatori/tomas-kosicky.jpg" alt="Tomas Kosicky" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

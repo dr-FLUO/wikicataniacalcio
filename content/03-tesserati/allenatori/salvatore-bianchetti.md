@@ -11,11 +11,23 @@ role: Allenatore
 birth_date: 1950-10-18
 birth_place: Catania, Italia
 nationality: Italia
+image: assets/images/allenatori/salvatore-bianchetti.jpg
 catania_periods:
 - 1985-1986
 - 1992-1993
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+image_credits:
+- image_path: assets/images/allenatori/salvatore-bianchetti.jpg
+  alt_text: Ritratto ufficiale di Salvatore Bianchetti in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/salvatore-bianchetti.jpg
+  alt_text: Ritratto ufficiale di Salvatore Bianchetti in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - anni-ottanta
@@ -55,6 +67,10 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
+
+
+![Salvatore Bianchetti, guida tecnica del Calcio Catania](/assets/images/allenatori/salvatore-bianchetti.jpg)
+*Salvatore Bianchetti, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 # Salvatore Bianchetti
 

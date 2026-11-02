@@ -43,8 +43,18 @@ sources:
   publisher: Panini / Rizzoli
   year: 2026
   reference: Cronistoria ufficiale delle panchine e degli organici
-image: assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp
+image: assets/images/allenatori/cristiano-lucarelli.jpg
 image_credits:
+- image_path: assets/images/allenatori/cristiano-lucarelli.jpg
+  alt_text: Ritratto ufficiale di Cristiano Lucarelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/cristiano-lucarelli.jpg
+  alt_text: Ritratto ufficiale di Cristiano Lucarelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp
   alt_text: Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia
     Serie C
@@ -64,8 +74,8 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/cristiano-lucarelli-calcio-catania-allenatore-coppa-italia-serie-c-2017-2024.webp)
-*Cristiano Lucarelli, tecnico rossazzurro vincitore della Coppa Italia Serie C — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+![Cristiano Lucarelli, guida tecnica del Calcio Catania](/assets/images/allenatori/cristiano-lucarelli.jpg)
+*Cristiano Lucarelli, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 # Cristiano Lucarelli

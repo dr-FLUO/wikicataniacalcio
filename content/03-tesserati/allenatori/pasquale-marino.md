@@ -11,6 +11,7 @@ birth_date: 1962-07-13
 birth_place: Marsala (TP), Italia
 nationality: Italia
 role: Allenatore (ex Centrocampista)
+image: assets/images/allenatori/pasquale-marino.jpg
 catania_periods:
 - 2005-2007
 club_entities:
@@ -46,6 +47,16 @@ cover_caption: Pasquale Marino, allenatore dell'indimenticabile ritorno in Serie
   nel 2005-2006 e della salvezza a Bologna nel 2007.
 cover_credit: 'Foto: Roberto Vicario · Licenza: CC BY-SA 3.0'
 image_credits:
+- image_path: assets/images/allenatori/pasquale-marino.jpg
+  alt_text: Ritratto ufficiale di Pasquale Marino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/pasquale-marino.jpg
+  alt_text: Ritratto ufficiale di Pasquale Marino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/pasquale-marino.jpg
   alt_text: 'Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza
     termini dautore) — Crediti: Wikimedia Commons Contributors'
@@ -68,8 +79,8 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/pasquale-marino.jpg)
-*Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Pasquale Marino, guida tecnica del Calcio Catania](/assets/images/allenatori/pasquale-marino.jpg)
+*Pasquale Marino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 *Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 

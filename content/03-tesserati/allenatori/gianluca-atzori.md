@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/gianluca-atzori.jpg
 image_credits:
 - image_path: assets/images/allenatori/gianluca-atzori.jpg
+  alt_text: Ritratto ufficiale di Gianluca Atzori in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/gianluca-atzori.jpg
+  alt_text: Ritratto ufficiale di Gianluca Atzori in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/gianluca-atzori.jpg
   alt_text: Ritratto fotografico di Gianluca Atzori allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Gianluca Atzori
 
-![Ritratto ufficiale di Gianluca Atzori sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/gianluca-atzori.jpg)
-*Ritratto ufficiale di Gianluca Atzori sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Gianluca Atzori, guida tecnica del Calcio Catania](/assets/images/allenatori/gianluca-atzori.jpg)
+*Gianluca Atzori, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Gianluca Atzori** (Collepardo (FR), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2009-2010**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

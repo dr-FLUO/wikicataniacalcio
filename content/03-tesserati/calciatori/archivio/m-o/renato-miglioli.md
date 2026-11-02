@@ -33,6 +33,11 @@ sources:
 image: assets/images/calciatori/renato-miglioli.jpg
 image_credits:
 - image_path: assets/images/calciatori/renato-miglioli.jpg
+  alt_text: Ritratto ufficiale di Tom in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/renato-miglioli.jpg
   alt_text: Ritratto fotografico di Renato Miglioli calciatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -51,8 +56,7 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/renato-miglioli.jpg" alt="Renato Miglioli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Renato Miglioli calciatore del Calcio Catania</div>
+    <img src="/assets/images/calciatori/renato-miglioli.jpg" alt="Tom" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

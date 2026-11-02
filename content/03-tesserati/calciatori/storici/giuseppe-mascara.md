@@ -11,6 +11,7 @@ birth_place: Caltagirone (CT), Italia
 nationality: Italia
 role: Attaccante / Seconda punta / Fantasista
 shirt_number: 7
+image: assets/images/calciatori/giuseppe-mascara.jpg
 catania_periods:
 - 2003-2004
 - 2005-2011
@@ -64,6 +65,26 @@ aliases:
 - calciatori/giuseppe-mascara
 - 03-tesserati/calciatori/giuseppe-mascara
 image_credits:
+- image_path: assets/images/calciatori/giuseppe-mascara.jpg
+  alt_text: Ritratto ufficiale di Giuseppe Mascara in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/giuseppe-mascara.jpg
+  alt_text: Ritratto ufficiale di Giuseppe Mascara in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/giuseppe-mascara.jpg
+  alt_text: Ritratto ufficiale di Giuseppe Mascara in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/giuseppe-mascara.jpg
+  alt_text: Ritratto ufficiale di Giuseppe Mascara in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/giuseppe-mascara.jpg
   alt_text: 'Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -84,8 +105,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/mascara-tifosi.jpg" alt="Giuseppe Mascara" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Giuseppe Mascara — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/giuseppe-mascara.jpg" alt="Giuseppe Mascara" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

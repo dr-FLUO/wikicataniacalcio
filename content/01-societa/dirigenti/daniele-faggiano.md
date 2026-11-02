@@ -1,13 +1,16 @@
 ---
-title: "Daniele Faggiano (Direttore Sportivo Catania Football Club)"
-description: "Profilo e carriera dirigenziale di Daniele Faggiano, Direttore Sportivo del Catania FC dall'estate 2024 per il progetto di rilancio del gruppo Pelligra."
+title: "Daniele Faggiano (Ex Direttore Sportivo Catania Football Club 2024–2025)"
+description: "Profilo e carriera dirigenziale di Daniele Faggiano, Direttore Sportivo del Catania FC nella stagione 2024-2025 per il progetto di rilancio del gruppo Pelligra."
 slug: "01-societa/dirigenti/daniele-faggiano"
 entity_type: "dirigente"
 date_start: 2024-05-30
+date_end: 2025-06-30
+catania_periods:
+  - 2024-2025
 club_entity: "[[societa/2022-pelligra-catania-fc|Catania Football Club]]"
 figc_matricola: "955013"
 status: "verified"
-last_verified_date: 2026-10-28
+last_verified_date: 2026-11-02
 tags:
   - daniele-faggiano
   - dirigenti
@@ -27,13 +30,14 @@ sources:
   reference: "Organigramma societario e dirigenziale Serie C"
 aliases:
   - "societa/dirigenti/daniele-faggiano"
+  - "dirigenti/daniele-faggiano"
 ---
-# Daniele Faggiano (Direttore Sportivo)
+# Daniele Faggiano (Direttore Sportivo 2024–2025)
 
-**Daniele Faggiano** (Copertino, 10 gennaio 1978) è un dirigente sportivo italiano, **Direttore Sportivo del [[societa/2022-pelligra-catania-fc|Catania Football Club]]** a partire dal 30 maggio 2024.
+**Daniele Faggiano** (Copertino, 10 gennaio 1978) è un dirigente sportivo italiano, **Direttore Sportivo del [[societa/2022-pelligra-catania-fc|Catania Football Club]]** nel corso della stagione agonistica 2024-2025.
 
 > [!abstract] Esperienza e Ricostruzione Tecnica Rossazzurra
-> Con un passato da protagonista in piazze importanti del calcio italiano — tra cui la storica scalata del Parma dalla Serie C alla Serie A (tre promozioni consecutive), il Trapani portato alla finale playoff di Serie B, e le esperienze in massima serie con Genoa e Sampdoria —, Faggiano è stato ingaggiato dalla presidenza di [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] per guidare l'ambizioso piano di rilancio tecnico del Catania.
+> Con un passato da protagonista in piazze importanti del calcio italiano — tra cui la storica scalata del Parma dalla Serie C alla Serie A (tre promozioni consecutive), il Trapani portato alla finale playoff di Serie B, e le esperienze in massima serie con Genoa e Sampdoria —, Faggiano è stato ingaggiato dalla presidenza di [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] nel maggio 2024 per guidare l'ambizioso piano di rilancio tecnico del Catania. Il testimone della direzione sportiva etnea è successivamente passato a [[01-societa/dirigenti/fortunato-varra|Fortunato Varrà]].
 
 ---
 
@@ -48,12 +52,12 @@ aliases:
 
 ---
 
-## 2. L'Approdo al Catania (2024–Oggi)
+## 2. L'Esperienza al Catania (2024–2025)
 
-Assunta la direzione tecnica dei rossazzurri nel maggio 2024, Faggiano ha impostato una profonda ristrutturazione della rosa:
+Assunta la direzione tecnica dei rossazzurri il 30 maggio 2024, Faggiano ha impostato una profonda ristrutturazione della rosa:
 1. Ha affidato la guida tecnica a **Domenico Toscano**, specialista plurivincitore di campionati di Serie C.
-2. Ha rimodellato l'organico con innesti mirati d'esperienza e giovani di prospettiva per competere ai vertici della Lega Pro.
-3. Ha rafforzato lo scouting e le infrastrutture sportive del club in sinergia con la dirigenza italo-australiana.
+2. Ha rimodellato l'organico con innesti d'esperienza (tra cui l'attaccante [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]]) e giovani di prospettiva.
+3. Ha rafforzato lo scouting e le infrastrutture sportive del club in sinergia con la dirigenza italo-australiana, prima della conclusione del rapporto e della successiva nomina di [[01-societa/dirigenti/fortunato-varra|Fortunato Varrà]] come nuovo Direttore Sportivo.
 
 ---
 

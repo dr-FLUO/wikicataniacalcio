@@ -5,7 +5,7 @@ description: Hub enciclopedico del movimento ultras, della cultura di gradinata,
 slug: 06-tifoseria-e-cultura
 entity_type: thematic_hub
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-02
 tags:
 - tifoseria
 - cultura
@@ -60,8 +60,8 @@ graph TD
 ## 1. I Settori del Massimino e i Gruppi Organizzati
 
 Lo stadio Massimino si articola su tre poli indipendenti:
-* **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]**: Sede fondativa della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] (1979-2015), guidata dal 1993 da [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e animata da storici gruppi come [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]], [[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]], [[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]] e la rete dei [[06-tifoseria-e-cultura/settori/curva-nord/mecha-katane|clan rionali]].
-* **[[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]**: Il settore popolare meridionale, avviato dai [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]] nel 1982 e guidato dagli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (1991)]]. Nel 2015 ha accolto la Falange d'Assalto dando vita allo striscione unitario [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]].
+* **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]**: Sede fondativa della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] (1979-2015), guidata dal 1993 da [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e animata da storici gruppi come [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] (fino al 2025), [[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]], [[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]] e la rete dei [[06-tifoseria-e-cultura/settori/curva-nord/mecha-katane|clan rionali]].
+* **[[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]**: Il settore popolare meridionale, avviato dai [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]] nel 1982 e guidato dagli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (1991)]]. Nel 2015 ha accolto la Falange d'Assalto dando vita allo striscione unitario [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]], a cui si è aggiunto dall'inizio della stagione 2026 lo storico gruppo de [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] nell'anello centrale superiore.
 * **[[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B (Gradinata)]]**: Il terzo polo autonomo, custode delle iniziative del [[06-tifoseria-e-cultura/settori/tribuna-b/index|Gruppo Tattaresu]], culla dell'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R.]] nel 2000 e dal 2015 sede dell'[[06-tifoseria-e-cultura/settori/tribuna-b/index|Ultras Mecha Klan Catania (MCK)]].
 
 ---

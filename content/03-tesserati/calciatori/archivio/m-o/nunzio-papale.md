@@ -25,8 +25,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/512_nunzio-papale.jpg
+image: assets/images/presidenti-dirigenti/nunzio-papale.jpg
 image_credits:
+- image_path: assets/images/presidenti-dirigenti/nunzio-papale.jpg
+  alt_text: Ritratto ufficiale di Nunzio Papale in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/presidenti-dirigenti/nunzio-papale.jpg
+  alt_text: Ritratto ufficiale di Nunzio Papale in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/512_nunzio-papale.jpg
   alt_text: Ritratto del calciatore Nunzio Papale in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania

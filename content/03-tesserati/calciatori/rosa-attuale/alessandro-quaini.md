@@ -19,8 +19,18 @@ total_goals: 1
 league_goals: 2
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp
+image: assets/images/calciatori/alessandro-quaini.jpg
 image_credits:
+- image_path: assets/images/calciatori/alessandro-quaini.jpg
+  alt_text: Ritratto ufficiale di Alessandro Quaini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/alessandro-quaini.jpg
+  alt_text: Ritratto ufficiale di Alessandro Quaini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp
   alt_text: Fototessera ufficiale del centrocampista del Catania Alessandro Quaini
   author_or_archive: Ufficio Stampa Catania FC
@@ -50,8 +60,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/alessandro-quaini-calcio-catania-centrocampista-2026-2027.webp" alt="Alessandro Quaini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Fototessera ufficiale del centrocampista del Catania Alessandro Quaini</div>
+    <img src="/assets/images/calciatori/alessandro-quaini.jpg" alt="Alessandro Quaini" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

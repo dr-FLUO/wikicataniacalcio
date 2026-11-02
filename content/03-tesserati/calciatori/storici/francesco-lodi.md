@@ -11,6 +11,7 @@ birth_place: Napoli, Italia
 nationality: Italia
 role: Centrocampista (Regista / Metodista)
 shirt_number: 10
+image: assets/images/calciatori/francesco-lodi.jpg
 catania_periods:
 - 2011-2013
 - '2014'
@@ -67,6 +68,16 @@ aliases:
 - tesserati/francesco-lodi
 - calciatori/francesco-lodi
 image_credits:
+- image_path: assets/images/calciatori/francesco-lodi.jpg
+  alt_text: Ritratto ufficiale di Francesco Lodi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/francesco-lodi.jpg
+  alt_text: Ritratto ufficiale di Francesco Lodi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/francesco-lodi.jpg
   alt_text: 'Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -87,8 +98,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/francesco-lodi.jpg" alt="Francesco Lodi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/francesco-lodi.jpg" alt="Francesco Lodi" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

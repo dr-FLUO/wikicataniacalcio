@@ -10,10 +10,22 @@ role: Allenatore e Ala
 birth_date: 1979-02-13
 birth_place: Genova, Italia
 nationality: Italia
+image: assets/images/allenatori/luca-tabbiani.jpg
 catania_periods:
 - 2023-2024
 club_entities:
 - '[[societa/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
+image_credits:
+- image_path: assets/images/allenatori/luca-tabbiani.jpg
+  alt_text: Ritratto ufficiale di Luca Tabbiani in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/luca-tabbiani.jpg
+  alt_text: Ritratto ufficiale di Luca Tabbiani in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - anni-duemilaventi
@@ -52,6 +64,10 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
+
+
+![Luca Tabbiani, guida tecnica del Calcio Catania](/assets/images/allenatori/luca-tabbiani.jpg)
+*Luca Tabbiani, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 # Luca Tabbiani
 

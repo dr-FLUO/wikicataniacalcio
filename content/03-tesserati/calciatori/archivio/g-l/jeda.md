@@ -10,6 +10,7 @@ birth_date: 1979-04-15
 birth_place: Santarém, Brasile
 nationality: Brasile
 role: Attaccante / Seconda punta
+image: assets/images/calciatori/jeda.jpg
 catania_periods:
 - '2005'
 total_appearances: 19
@@ -49,6 +50,16 @@ aliases:
 - tesserati/jeda
 - calciatori/jeda
 image_credits:
+- image_path: assets/images/calciatori/jeda.jpg
+  alt_text: Ritratto ufficiale di Jeda in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/jeda.jpg
+  alt_text: Ritratto ufficiale di Jeda in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/jeda.jpg
   alt_text: 'Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia Commons
     Contributors'
@@ -68,7 +79,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/jeda.jpg" alt="Jeda" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Jeda — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

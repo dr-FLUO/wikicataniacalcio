@@ -9,6 +9,7 @@ last_verified_date: '2026-10-30'
 role: Portiere
 total_appearances: 14
 seasons_count: 1
+image: assets/images/calciatori/juan-pablo-carrizo.jpg
 tags:
 - calciatori
 - juan-pablo-carrizo
@@ -37,6 +38,16 @@ aliases:
 - tesserati/juan-pablo-carrizo
 - calciatori/juan-pablo-carrizo
 image_credits:
+- image_path: assets/images/calciatori/juan-pablo-carrizo.jpg
+  alt_text: Ritratto ufficiale di Juan Pablo Carrizo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/juan-pablo-carrizo.jpg
+  alt_text: Ritratto ufficiale di Juan Pablo Carrizo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/juan-pablo-carrizo.jpg
   alt_text: 'Ritratto ufficiale di Juan Pablo Carrizo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -58,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/juan-pablo-carrizo.jpg" alt="Juan Pablo Carrizo" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Juan Pablo Carrizo — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

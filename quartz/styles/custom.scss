@@ -3941,19 +3941,42 @@ nav.breadcrumb-container,
     }
   }
 
-  // Blocco Destro: Tabella Dati Anagrafici & Statistiche
+  // Se Quartz racchiude la tabella in .table-container, lo espandiamo a tutto spazio senza bordi né margini
+  .table-container {
+    flex: 1 1 auto !important;
+    width: 100% !important;
+    height: auto !important;
+    min-height: 100% !important;
+    max-height: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    overflow: visible !important;
+    display: flex !important;
+  }
+
+  // Blocco Destro: Tabella Dati Anagrafici & Statistiche a Tutto Schermo
   .nfc-player-table {
     flex: 1 1 auto;
     width: 100% !important;
     min-width: 0 !important;
+    height: 100% !important;
     border-collapse: collapse !important;
     border-spacing: 0 !important;
     margin: 0 !important;
-    font-size: 0.88rem !important;
+    font-size: 0.92rem !important;
     line-height: 1.35 !important;
     border: none !important;
 
+    tbody {
+      height: 100%;
+      display: table-row-group;
+    }
+
     tbody tr {
+      height: 20%; // 5 righe divise equamente in altezza per riempire al 100% l'area verticale
       border-bottom: 1px solid var(--wiki-border-subtle, #e5e5e5) !important;
       border-top: none !important;
       border-left: none !important;
@@ -3969,15 +3992,15 @@ nav.breadcrumb-container,
     }
 
     th {
-      width: 18%;
+      width: 16%;
       min-width: 85px;
       font-family: var(--font-display, "Big Shoulders Display", sans-serif) !important;
-      font-size: 0.86rem !important;
+      font-size: 0.90rem !important;
       font-weight: 800 !important;
       letter-spacing: 0.04em !important;
       text-transform: uppercase !important;
       color: #444444 !important;
-      padding: 0.45rem 0.65rem !important;
+      padding: 0.65rem 0.85rem !important;
       vertical-align: middle !important;
       border: none !important;
       border-right: 1px solid var(--wiki-border-subtle, #e5e5e5) !important;
@@ -3985,7 +4008,7 @@ nav.breadcrumb-container,
     }
 
     td {
-      padding: 0.45rem 0.75rem !important;
+      padding: 0.65rem 0.95rem !important;
       color: #111111 !important;
       font-weight: 600 !important;
       vertical-align: middle !important;
@@ -4026,18 +4049,30 @@ nav.breadcrumb-container,
       }
     }
 
+    .table-container {
+      display: block !important;
+      width: 100% !important;
+      height: auto !important;
+      min-height: auto !important;
+    }
+
     .nfc-player-table {
+      height: auto !important;
+
       tbody tr {
+        height: auto !important;
         display: grid;
         grid-template-columns: 105px 1fr;
         border-bottom: 1px solid var(--wiki-border-subtle);
 
         th {
           border-right: 1px solid var(--wiki-border-subtle);
+          padding: 0.45rem 0.65rem !important;
         }
 
         td {
           border-right: none;
+          padding: 0.45rem 0.65rem !important;
         }
       }
     }
@@ -4062,6 +4097,11 @@ nav.breadcrumb-container,
         border-color: #404040;
         color: #94a3b8;
       }
+    }
+
+    .table-container {
+      background: transparent !important;
+      border-color: transparent !important;
     }
 
     .nfc-player-table {
@@ -4092,7 +4132,6 @@ nav.breadcrumb-container,
       }
     }
   }
-}
 
   .nfc-sources-and-links-grid {
     border-top-color: #444444;

@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/luigi-de-canio.jpg
 image_credits:
 - image_path: assets/images/allenatori/luigi-de-canio.jpg
+  alt_text: Ritratto ufficiale di Luigi De Canio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/luigi-de-canio.jpg
+  alt_text: Ritratto ufficiale di Luigi De Canio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/luigi-de-canio.jpg
   alt_text: Ritratto fotografico di Luigi De Canio allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Luigi De Canio
 
-![Ritratto ufficiale di Luigi De Canio sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/luigi-de-canio.jpg)
-*Ritratto ufficiale di Luigi De Canio sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Luigi De Canio, guida tecnica del Calcio Catania](/assets/images/allenatori/luigi-de-canio.jpg)
+*Luigi De Canio, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Luigi De Canio** (Matera, Italia, 1957) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2013-2014**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

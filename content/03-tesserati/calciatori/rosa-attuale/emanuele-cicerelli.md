@@ -19,8 +19,18 @@ total_goals: 14
 league_goals: 8
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp
+image: assets/images/calciatori/emanuele-cicerelli.jpg
 image_credits:
+- image_path: assets/images/calciatori/emanuele-cicerelli.jpg
+  alt_text: Ritratto ufficiale di Emanuele Cicerelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/emanuele-cicerelli.jpg
+  alt_text: Ritratto ufficiale di Emanuele Cicerelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp
   alt_text: Ritratto in divisa da gara dell'attaccante del Catania Emmanuele Pio Cicerelli
   author_or_archive: Ufficio Stampa Catania FC
@@ -51,8 +61,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/emmanuele-pio-cicerelli-calcio-catania-attaccante-2026-2027.webp" alt="Emmanuele Pio Cicerelli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto in divisa da gara dell'attaccante del Catania Emmanuele Pio Cicerelli</div>
+    <img src="/assets/images/calciatori/emanuele-cicerelli.jpg" alt="Emanuele Cicerelli" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

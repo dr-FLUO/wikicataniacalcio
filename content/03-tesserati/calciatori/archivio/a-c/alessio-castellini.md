@@ -19,8 +19,18 @@ total_goals: 6
 league_goals: 7
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp
+image: assets/images/calciatori/alessio-castellini.jpg
 image_credits:
+- image_path: assets/images/calciatori/alessio-castellini.jpg
+  alt_text: Ritratto ufficiale di Alessio Castellini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/alessio-castellini.jpg
+  alt_text: Ritratto ufficiale di Alessio Castellini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp
   alt_text: Ritratto ufficiale del difensore e capitano del Catania Alessio Castellini
   author_or_archive: Archivio Storico Calcio Catania
@@ -64,8 +74,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/alessio-castellini-calcio-catania-difensore-capitano-2026-2027.webp" alt="Alessio Castellini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale del difensore e capitano del Catania Alessio Castellini</div>
+    <img src="/assets/images/calciatori/alessio-castellini.jpg" alt="Alessio Castellini" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

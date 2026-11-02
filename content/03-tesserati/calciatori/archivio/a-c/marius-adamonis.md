@@ -19,8 +19,18 @@ total_goals: 0
 league_goals: 0
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp
+image: assets/images/calciatori/marius-adamonis.jpg
 image_credits:
+- image_path: assets/images/calciatori/marius-adamonis.jpg
+  alt_text: Ritratto ufficiale di Marius Adamonis in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/marius-adamonis.jpg
+  alt_text: Ritratto ufficiale di Marius Adamonis in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp
   alt_text: Fototessera ufficiale del portiere lituano del Catania Marius Adamonis
   author_or_archive: Ufficio Stampa Catania FC
@@ -47,8 +57,7 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/marius-adamonis-calcio-catania-portiere-2026-2027.webp" alt="Marius Adamonis" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Fototessera ufficiale del portiere lituano del Catania Marius Adamonis</div>
+    <img src="/assets/images/calciatori/marius-adamonis.jpg" alt="Marius Adamonis" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

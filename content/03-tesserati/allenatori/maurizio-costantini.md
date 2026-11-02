@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/maurizio-costantini.jpg
 image_credits:
 - image_path: assets/images/allenatori/maurizio-costantini.jpg
+  alt_text: Ritratto ufficiale di Maurizio Costantini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-costantini.jpg
+  alt_text: Ritratto ufficiale di Maurizio Costantini in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-costantini.jpg
   alt_text: Ritratto fotografico di Maurizio Costantini allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Maurizio Costantini
 
-![Ritratto ufficiale di Maurizio Costantini sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/maurizio-costantini.jpg)
-*Ritratto ufficiale di Maurizio Costantini sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Maurizio Costantini, guida tecnica del Calcio Catania](/assets/images/allenatori/maurizio-costantini.jpg)
+*Maurizio Costantini, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

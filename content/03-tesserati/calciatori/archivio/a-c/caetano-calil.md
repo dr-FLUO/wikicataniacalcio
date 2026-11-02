@@ -10,6 +10,7 @@ birth_date: 1984-05-20
 birth_place: Guaxupé, Brasile
 nationality: Brasile
 role: Attaccante / Trequartista
+image: assets/images/calciatori/caetano-calil.jpg
 catania_periods:
 - 2015-2017
 total_appearances: 46
@@ -18,6 +19,17 @@ total_goals: 13
 league_goals: 12
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+image_credits:
+- image_path: assets/images/calciatori/caetano-calil.jpg
+  alt_text: Ritratto ufficiale di Caetano Calil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/caetano-calil.jpg
+  alt_text: Ritratto ufficiale di Caetano Calil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - attaccanti
@@ -64,10 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/caetano-calil.jpg" alt="Caetano Calil" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

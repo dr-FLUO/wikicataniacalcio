@@ -10,6 +10,7 @@ role: Allenatore e Difensore Centrale
 birth_date: 1974-01-04
 birth_place: Venaria Reale (TO), Italia
 nationality: Italia
+image: assets/images/calciatori/andrea-sottil.jpg
 catania_periods:
 - 2018-2019
 club_entities:
@@ -46,6 +47,26 @@ aliases:
 - tesserati/andrea-sottil
 - allenatori/andrea-sottil
 image_credits:
+- image_path: assets/images/calciatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/andrea-sottil.jpg
   alt_text: 'Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza
     termini dautore) — Crediti: Wikimedia Commons Contributors'
@@ -65,8 +86,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Andrea Sottil
 
-![Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/calciatori/andrea-sottil.jpg)
-*Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Andrea Sottil, guida tecnica del Calcio Catania](/assets/images/allenatori/andrea-sottil.jpg)
+*Andrea Sottil, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 *Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Andrea Sottil** (Venaria Reale (TO), Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

@@ -30,14 +30,23 @@ sources:
   publisher: La Sicilia, Catania
   year: 2026
   reference: Edizioni febbraio e ottobre 2026
-cover_image: dirigenza-catania-ssd.jpg
-cover_caption: Vincenzo Grella (Vicepresidente e AD) insieme al Presidente Ross Pelligra
-  alla conferenza stampa inaugurale del Catania SSD (2022).
-cover_credit: 'Foto: Devis Parker · Licenza: CC BY-SA 4.0 (Wikimedia Commons)'
+image: assets/images/presidenti-dirigenti/vincenzo-grella.jpg
+cover_image: vincenzo-grella.jpg
+cover_caption: Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club.
+cover_credit: 'Foto: AusAID · Licenza: CC BY 2.0 (Wikimedia Commons)'
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/vincenzo-grella.jpg
+  alt_text: "Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club"
+  author_or_archive: "AusAID (Wikimedia Commons)"
+  year: 2009
+  license_type: "Creative Commons CC BY 2.0"
 aliases:
 - societa/presidenti/vincenzo-grella
+- dirigenti/vincenzo-grella
 ---
 
+![Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club](/assets/images/presidenti-dirigenti/vincenzo-grella.jpg)
+*Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club — Foto: AusAID (CC BY 2.0)*
 
 # Vincenzo Grella (Vicepresidente e AD Catania FC)
 

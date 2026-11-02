@@ -9,6 +9,7 @@ last_verified_date: '2026-10-30'
 role: Centrocampista
 total_appearances: 13
 seasons_count: 2
+image: assets/images/calciatori/manuel-coppola.jpg
 tags:
 - calciatori
 - manuel-coppola
@@ -37,6 +38,16 @@ aliases:
 - tesserati/manuel-coppola
 - calciatori/manuel-coppola
 image_credits:
+- image_path: assets/images/calciatori/manuel-coppola.jpg
+  alt_text: Ritratto ufficiale di Manuel Coppola in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/manuel-coppola.jpg
+  alt_text: Ritratto ufficiale di Manuel Coppola in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/manuel-coppola.jpg
   alt_text: 'Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -58,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/manuel-coppola.jpg" alt="Manuel Coppola" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Manuel Coppola — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

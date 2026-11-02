@@ -31,8 +31,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/32_gennaro-delvecchio.jpg
+image: assets/images/calciatori/gennaro-delvecchio.jpg
 image_credits:
+- image_path: assets/images/calciatori/gennaro-delvecchio.jpg
+  alt_text: Ritratto ufficiale di Gennaro Delvecchio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/gennaro-delvecchio.jpg
+  alt_text: Ritratto ufficiale di Gennaro Delvecchio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/gennaro-delvecchio.jpg
   alt_text: 'Ritratto ufficiale di Gennaro Delvecchio — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors Catania'
@@ -58,8 +68,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/32_gennaro-delvecchio.jpg" alt="Gennaro Delvecchio" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Gennaro Delvecchio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/gennaro-delvecchio.jpg" alt="Gennaro Delvecchio" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

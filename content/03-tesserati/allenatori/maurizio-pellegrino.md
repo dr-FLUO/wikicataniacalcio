@@ -11,12 +11,34 @@ role: Allenatore, Dirigente Sportivo e Centrocampista
 birth_date: 1966-03-01
 birth_place: Siracusa, Italia
 nationality: Italia
+image: assets/images/allenatori/maurizio-pellegrino.jpg
 catania_periods:
 - 2001-2003
 - 2013-2015
 club_entities:
 - '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+image_credits:
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/maurizio-pellegrino.jpg
+  alt_text: Ritratto ufficiale di Maurizio Pellegrino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - calciatori
@@ -63,6 +85,10 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
+
+
+![Maurizio Pellegrino, guida tecnica del Calcio Catania](/assets/images/allenatori/maurizio-pellegrino.jpg)
+*Maurizio Pellegrino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 # Maurizio Pellegrino
 

@@ -25,8 +25,13 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/639_sidney-cunha-cinesinho.jpg
+image: assets/images/calciatori/sidney-cunha-cinesinho.jpg
 image_credits:
+- image_path: assets/images/calciatori/sidney-cunha-cinesinho.jpg
+  alt_text: Ritratto ufficiale di Chinesinho in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/figurine/cinesinho-calcio-catania-figurina-panini-1963-1965.webp
   alt_text: Figurina Panini del fuoriclasse brasiliano Cinesinho in maglia rossazzurra
   author_or_archive: Archivio Storico Calcio Catania
@@ -53,14 +58,7 @@ minutes_played: 5310
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/639_sidney-cunha-cinesinho.jpg" alt="Sidney Cunha Cinesinho" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <img src="/assets/images/calciatori/sidney-cunha-cinesinho.jpg" alt="Chinesinho" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

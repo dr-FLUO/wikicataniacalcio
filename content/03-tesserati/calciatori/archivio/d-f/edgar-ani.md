@@ -13,6 +13,18 @@ death_date: ''
 nationality: Albania
 total_appearances: 19
 seasons_count: 1
+image: assets/images/calciatori/edgar-ani.jpg
+image_credits:
+- image_path: assets/images/calciatori/edgar-ani.jpg
+  alt_text: Ritratto ufficiale di Edgar Cani in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/edgar-ani.jpg
+  alt_text: Ritratto ufficiale di Edgar Cani in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - edgar-ani
@@ -47,10 +59,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/edgar-ani.jpg" alt="Edgar Cani" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

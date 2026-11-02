@@ -4,7 +4,7 @@ description: "Mappa storico-sociologica dei settori del tifo organizzato allo St
 slug: 06-tifoseria-e-cultura/settori
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-30
+last_verified_date: 2026-11-02
 tags:
 - settori
 - curve
@@ -47,9 +47,9 @@ Lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cib
 [ CURVA NORD ]                      [ RETTANGOLO VERDE ]                     [ CURVA SUD ]
 • A Sostegno di una Fede            (Stadio Angelo Massimino)                 • Falange d'Assalto (1979-2015)
 • Nord Kaos (1995)                                                            • Irriducibili 1991 (I.R.A.)
-• I Pazzi (1996)                            ▲                                 • Estrema Appartenenza (2015)
-• Skizzati Passarello                       │                                 • Catania Raiders (1980)
-• I Decisi / Mecha Katane                   │
+• I Pazzi (1999, fino al 2025)                                                • Estrema Appartenenza (2015)
+• Skizzati Passarello                       ▲                                 • Catania Raiders (1980)
+• I Decisi / Mecha Katane                   │                                 • I Pazzi (dal 2026, anello sup.)
                                             │
                                     [ TRIBUNA B ]
                             • Ultras Mecha Klan (MCK 2015)
@@ -67,7 +67,7 @@ Il settore nord dello stadio accoglie il blocco numericamente più imponente del
 
 - [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede (1993)]]: La colonna portante della gradinata nord.
 - [[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos (1995)]]: Voce identitaria e militante della curva.
-- [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi (1996)]]: Formazione storica rionale e d'aggregazione giovanile.
+- [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi (1999)]]: Formazione storica rionale (San Leone e Corso Indipendenza), militante in Curva Nord fino al 2025 e dal 2026 trasferitasi stabilmente nell'anello centrale superiore della Sud.
 - [[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]]: Il presidio del quartiere San Cristoforo.
 - [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]]: Il nucleo d'azione coordinata.
 - [[06-tifoseria-e-cultura/settori/curva-nord/mecha-katane|Mecha Katane]]: Il legame viscerale con la pietra lavica cittadina.
@@ -85,6 +85,7 @@ La curva meridionale incarna l'anima più verace e passionale, baluardo storico 
 - [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili 1991 (I.R.A.)]]: Vent'anni di presidio e mentalità oltranzista.
 - [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza (2015)]]: La sigla unitaria per il coordinamento delle trasferte.
 - [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]]: La pionieristica sigla degli anni Ottanta.
+- [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi (1999)]]: Gruppo storico di San Leone trasferitosi stabilmente nell'anello centrale superiore della Curva Sud dall'inizio della stagione 2026.
 
 ---
 

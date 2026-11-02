@@ -10,10 +10,22 @@ role: Allenatore
 birth_date: 1943-02-07
 birth_place: Reggio Calabria, Italia
 nationality: Italia
+image: assets/images/allenatori/franco-gagliardi.jpg
 catania_periods:
 - 1997-1998
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+image_credits:
+- image_path: assets/images/allenatori/franco-gagliardi.jpg
+  alt_text: Ritratto ufficiale di Franco Gagliardi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/franco-gagliardi.jpg
+  alt_text: Ritratto ufficiale di Franco Gagliardi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - anni-novanta
@@ -44,6 +56,10 @@ aliases:
 ---
 
 
+
+
+![Franco Gagliardi, guida tecnica del Calcio Catania](/assets/images/allenatori/franco-gagliardi.jpg)
+*Franco Gagliardi, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 # Franco Gagliardi
 

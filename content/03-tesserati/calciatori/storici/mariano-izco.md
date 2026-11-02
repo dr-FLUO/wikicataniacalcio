@@ -11,6 +11,7 @@ birth_place: Buenos Aires, Argentina
 nationality: Argentina
 role: Centrocampista / Esterno destro
 shirt_number: 13
+image: assets/images/calciatori/mariano-izco.jpg
 catania_periods:
 - 2006-2014
 - 2020-2022
@@ -60,6 +61,16 @@ aliases:
 - tesserati/mariano-izco
 - calciatori/mariano-izco
 image_credits:
+- image_path: assets/images/calciatori/mariano-izco.jpg
+  alt_text: Ritratto ufficiale di Mariano Izco in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/mariano-izco.jpg
+  alt_text: Ritratto ufficiale di Mariano Izco in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/mariano-izco.jpg
   alt_text: 'Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -80,8 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/mariano-izco.jpg" alt="Mariano Izco" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Mariano Izco — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/mariano-izco.jpg" alt="Mariano Izco" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

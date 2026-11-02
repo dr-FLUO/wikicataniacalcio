@@ -17,6 +17,16 @@ club_entities:
 image: assets/images/allenatori/marco-giampaolo.jpg
 image_credits:
 - image_path: assets/images/allenatori/marco-giampaolo.jpg
+  alt_text: Ritratto ufficiale di Marco Giampaolo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/marco-giampaolo.jpg
+  alt_text: Ritratto ufficiale di Marco Giampaolo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/marco-giampaolo.jpg
   alt_text: Ritratto fotografico di Marco Giampaolo allenatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -61,8 +71,8 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 # Marco Giampaolo
 
-![Ritratto ufficiale di Marco Giampaolo sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors](/assets/images/allenatori/marco-giampaolo.jpg)
-*Ritratto ufficiale di Marco Giampaolo sulla panchina del Catania — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+![Marco Giampaolo, guida tecnica del Calcio Catania](/assets/images/allenatori/marco-giampaolo.jpg)
+*Marco Giampaolo, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 **Marco Giampaolo** (Bellinzona, Svizzera, 1967) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2010-2011**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).

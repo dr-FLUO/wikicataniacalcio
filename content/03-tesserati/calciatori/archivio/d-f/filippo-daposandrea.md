@@ -9,6 +9,18 @@ last_verified_date: '2026-10-28'
 role: Attaccante
 total_appearances: 15
 seasons_count: 1
+image: assets/images/calciatori/filippo-daposandrea.jpg
+image_credits:
+- image_path: assets/images/calciatori/filippo-daposandrea.jpg
+  alt_text: Ritratto ufficiale di Filippo D'Andrea in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/filippo-daposandrea.jpg
+  alt_text: Ritratto ufficiale di Filippo D'Andrea in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - filippo-daposandrea
@@ -39,10 +51,7 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/filippo-daposandrea.jpg" alt="Filippo D'Andrea" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

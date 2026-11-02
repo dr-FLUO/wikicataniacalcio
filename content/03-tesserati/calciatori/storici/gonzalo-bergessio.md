@@ -11,6 +11,7 @@ birth_place: Córdoba, Argentina
 nationality: Argentina
 role: Attaccante (Centravanti)
 shirt_number: 9
+image: assets/images/calciatori/gonzalo-bergessio.jpg
 catania_periods:
 - 2011-2014
 total_appearances: 113
@@ -61,6 +62,16 @@ aliases:
 - tesserati/gonzalo-bergessio
 - calciatori/gonzalo-bergessio
 image_credits:
+- image_path: assets/images/calciatori/gonzalo-bergessio.jpg
+  alt_text: Ritratto ufficiale di Gonzalo Bergessio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/gonzalo-bergessio.jpg
+  alt_text: Ritratto ufficiale di Gonzalo Bergessio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/gonzalo-bergessio.jpg
   alt_text: 'Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -81,8 +92,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/gonzalo-bergessio.jpg" alt="Gonzalo Bergessio" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/gonzalo-bergessio.jpg" alt="Gonzalo Bergessio" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

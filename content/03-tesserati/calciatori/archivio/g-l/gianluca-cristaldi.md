@@ -9,6 +9,18 @@ last_verified_date: '2026-10-28'
 role: Centrocampista
 total_appearances: 12
 seasons_count: 2
+image: assets/images/presidenti-dirigenti/gianluca-cristaldi.jpg
+image_credits:
+- image_path: assets/images/presidenti-dirigenti/gianluca-cristaldi.jpg
+  alt_text: Ritratto ufficiale di Gianluca Cristaldi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/presidenti-dirigenti/gianluca-cristaldi.jpg
+  alt_text: Ritratto ufficiale di Gianluca Cristaldi in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - gianluca-cristaldi

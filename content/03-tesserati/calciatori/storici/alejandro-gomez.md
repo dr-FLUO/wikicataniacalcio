@@ -12,6 +12,7 @@ birth_place: Buenos Aires, Argentina
 nationality: Argentina
 role: Attaccante (Ala sinistra / Seconda punta / Fantasista)
 shirt_number: 17
+image: assets/images/calciatori/alejandro-gomez.jpg
 catania_periods:
 - 2010-2013
 total_appearances: 111
@@ -64,6 +65,16 @@ aliases:
 - tesserati/alejandro-gomez
 - calciatori/alejandro-gomez
 image_credits:
+- image_path: assets/images/calciatori/alejandro-gomez.jpg
+  alt_text: Ritratto ufficiale di Papu Gómez in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/alejandro-gomez.jpg
+  alt_text: Ritratto ufficiale di Papu Gómez in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/alejandro-gomez.jpg
   alt_text: 'Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza
     termini dautore) — Crediti: Wikimedia Commons Contributors'
@@ -84,8 +95,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/papu-gomez.jpg" alt="Alejandro Gómez" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/alejandro-gomez.jpg" alt="Papu Gómez" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

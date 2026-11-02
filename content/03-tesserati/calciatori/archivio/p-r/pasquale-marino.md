@@ -31,8 +31,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/289_pasquale-marino.jpg
+image: assets/images/allenatori/pasquale-marino.jpg
 image_credits:
+- image_path: assets/images/allenatori/pasquale-marino.jpg
+  alt_text: Ritratto ufficiale di Pasquale Marino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/pasquale-marino.jpg
+  alt_text: Ritratto ufficiale di Pasquale Marino in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/pasquale-marino.jpg
   alt_text: 'Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors Catania'
@@ -54,6 +64,10 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
+
+![Pasquale Marino, guida tecnica del Calcio Catania](/assets/images/allenatori/pasquale-marino.jpg)
+*Pasquale Marino, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+
 # Pasquale Marino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">

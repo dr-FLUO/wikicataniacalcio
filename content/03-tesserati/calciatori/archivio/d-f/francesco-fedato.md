@@ -9,6 +9,7 @@ last_verified_date: '2026-10-30'
 role: Attaccante
 total_appearances: 9
 seasons_count: 1
+image: assets/images/calciatori/francesco-fedato.jpg
 tags:
 - calciatori
 - francesco-fedato
@@ -37,6 +38,16 @@ aliases:
 - tesserati/francesco-fedato
 - calciatori/francesco-fedato
 image_credits:
+- image_path: assets/images/calciatori/francesco-fedato.jpg
+  alt_text: Ritratto ufficiale di Francesco Fedato in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/francesco-fedato.jpg
+  alt_text: Ritratto ufficiale di Francesco Fedato in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/francesco-fedato.jpg
   alt_text: 'Ritratto ufficiale di Francesco Fedato — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -58,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/francesco-fedato.jpg" alt="Francesco Fedato" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Francesco Fedato — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

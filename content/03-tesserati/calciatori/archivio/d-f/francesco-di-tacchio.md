@@ -25,8 +25,18 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/1080_francesco-di-tacchio.png
+image: assets/images/calciatori/francesco-di-tacchio.jpg
 image_credits:
+- image_path: assets/images/calciatori/francesco-di-tacchio.jpg
+  alt_text: Ritratto ufficiale di Francesco Di Tacchio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/francesco-di-tacchio.jpg
+  alt_text: Ritratto ufficiale di Francesco Di Tacchio in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/1080_francesco-di-tacchio.png
   alt_text: Ritratto del calciatore Francesco Di Tacchio in maglia rossazzurra del
     Calcio Catania
@@ -51,14 +61,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/1080_francesco-di-tacchio.png" alt="Francesco Di Tacchio" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <img src="/assets/images/calciatori/francesco-di-tacchio.jpg" alt="Francesco Di Tacchio" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

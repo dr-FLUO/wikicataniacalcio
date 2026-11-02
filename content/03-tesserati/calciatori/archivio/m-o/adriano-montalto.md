@@ -19,8 +19,18 @@ total_goals: 3
 league_goals: 7
 club_entities:
 - '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
-image: assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp
+image: assets/images/calciatori/adriano-montalto.jpg
 image_credits:
+- image_path: assets/images/calciatori/adriano-montalto.jpg
+  alt_text: Ritratto ufficiale di Adriano Montalto in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/adriano-montalto.jpg
+  alt_text: Ritratto ufficiale di Adriano Montalto in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp
   alt_text: Fototessera del centravanti Adriano Montalto con la divisa ufficiale del
   author_or_archive: Archivio Storico Calcio Catania
@@ -61,8 +71,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/rosa-attuale/adriano-montalto-calcio-catania-attaccante-2026-2027.webp" alt="Adriano Montalto" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Fototessera del centravanti Adriano Montalto con la divisa ufficiale del</div>
+    <img src="/assets/images/calciatori/adriano-montalto.jpg" alt="Adriano Montalto" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

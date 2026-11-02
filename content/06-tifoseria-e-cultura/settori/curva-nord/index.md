@@ -6,7 +6,7 @@ description: 'Dossier completo sulla Curva Nord dello Stadio Cibali / Angelo Mas
 slug: 06-tifoseria-e-cultura/settori/curva-nord
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-02
 tags:
 - curva-nord
 - massimino
@@ -43,7 +43,7 @@ La **Curva Nord** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] è i
 
 - **L'Epoca della Falange (1979–1993):** Per oltre un decennio la Curva Nord si è identificata nella guida carismatica di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], introducendo al Cibali il megafono, gli striscioni da trasferta e la militanza continua.
 - **La Rinascita del 1993 e "A Sostegno di una Fede":** Il 31 luglio 1993, nel pieno dello sdegno per la cancellazione del club da parte della FIGC, nasce in via Belfiore a San Cristoforo il gruppo guida [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], coordinato da [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]], che riorganizza il settore su basi rigorosamente ultras.
-- **La Federazione dei Clan Rionali (Anni 2000):** Accanto al gruppo guida fioriscono sigle storiche: [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] (1999, San Leone), [[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]] (Valverde), [[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]], [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]] e la rete dei quartieri popolari ([[06-tifoseria-e-cultura/settori/curva-nord/mecha-katane|Monte Po', Librino, San Giorgio, Fortino, Stazione]]).
+- **La Federazione dei Clan Rionali (Anni 2000):** Accanto al gruppo guida fioriscono sigle storiche: [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] (1999, San Leone; trasferitisi stabilmente in Curva Sud dalla stagione 2026), [[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]] (Valverde), [[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]], [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]] e la rete dei quartieri popolari ([[06-tifoseria-e-cultura/settori/curva-nord/mecha-katane|Monte Po', Librino, San Giorgio, Fortino, Stazione]]).
 - **L'Intransigenza No-Tessera (2015):** Di fronte all'imposizione ministeriale della Tessera del Tifoso, la Curva Nord ha mantenuto una linea inflessibile di rifiuto della fidelizzazione, separando il proprio destino dalla Curva Sud.
 
 ---
@@ -51,7 +51,7 @@ La **Curva Nord** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] è i
 ## 2. Gruppi e Documenti Correlati
 
 * **[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]**: Gruppo guida dal 1993.
-* **[[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]]**: Nucleo storico di Corso Indipendenza e San Leone.
+* **[[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]]**: Nucleo storico di Corso Indipendenza e San Leone (1999–2025 in Curva Nord; dall'inizio della stagione 2026 trasferitosi nell'anello centrale superiore della Curva Sud).
 * **[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]**: Il presidio di Valverde e dell'hinterland etneo.
 * **[[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]]**: L'identità rionale tra Picanello e il centro.
 * **[[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]]**: Gruppo d'urto degli anni Novanta.
@@ -64,6 +64,5 @@ La **Curva Nord** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] è i
 
 1. **Luigi Pulvirenti, Michele Spampinato**, *Quando saremo tutti nella Nord*, Euno Edizioni / Eclettica, 2014.
 2. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
-
 
 - [[06-tifoseria-e-cultura/settori/curva-nord/festa-curva-nord-famiglie-bambini-2026|Festa Curva Nord Famiglie e Bambini (2026)]]

@@ -32,6 +32,16 @@ sources:
 image: assets/images/calciatori/takayuki-morimoto.jpg
 image_credits:
 - image_path: assets/images/calciatori/takayuki-morimoto.jpg
+  alt_text: Ritratto ufficiale di Takayuki Morimoto in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/takayuki-morimoto.jpg
+  alt_text: Ritratto ufficiale di Takayuki Morimoto in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/takayuki-morimoto.jpg
   alt_text: Ritratto fotografico di Takayuki Morimoto calciatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
@@ -59,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/takayuki-morimoto.jpg" alt="Takayuki Morimoto" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Takayuki Morimoto calciatore del Calcio Catania</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

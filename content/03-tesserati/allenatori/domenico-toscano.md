@@ -39,8 +39,18 @@ sources:
   publisher: Panini / Rizzoli
   year: 2026
   reference: Cronistoria ufficiale delle panchine e degli organici
-image: assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp
+image: assets/images/allenatori/domenico-toscano.jpg
 image_credits:
+- image_path: assets/images/allenatori/domenico-toscano.jpg
+  alt_text: Ritratto ufficiale di Domenico Toscano in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/domenico-toscano.jpg
+  alt_text: Ritratto ufficiale di Domenico Toscano in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp
   alt_text: Domenico Toscano, allenatore del Catania FC
   author_or_archive: Archivio Fotografico Wiki Catania Calcio
@@ -59,8 +69,8 @@ locked_date: '2026-10-30'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
-![Domenico Toscano, allenatore del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/allenatori/domenico-toscano-calcio-catania-allenatore-serie-c-2024-2027.webp)
-*Domenico Toscano, allenatore del Catania FC — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+![Domenico Toscano, guida tecnica del Calcio Catania](/assets/images/allenatori/domenico-toscano.jpg)
+*Domenico Toscano, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
 
 
 # Domenico Toscano

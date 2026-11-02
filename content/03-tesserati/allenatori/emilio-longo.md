@@ -10,10 +10,22 @@ role: Allenatore
 birth_date: '1973-05-18'
 birth_place: Salerno, Italia
 nationality: Italia
+image: assets/images/allenatori/emilio-longo.jpg
 catania_periods:
 - 2026-2027
 club_entities:
 - '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]'
+image_credits:
+- image_path: assets/images/allenatori/emilio-longo.jpg
+  alt_text: Ritratto ufficiale di Emilio Longo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/emilio-longo.jpg
+  alt_text: Ritratto ufficiale di Emilio Longo in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - allenatori
 - emilio-longo
@@ -52,6 +64,10 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
 
+
+![Emilio Longo, guida tecnica del Calcio Catania](/assets/images/allenatori/emilio-longo.jpg)
+*Emilio Longo, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+
 # Emilio Longo — Allenatore del Catania FC (2026–2027)
 
 **Emilio Longo** (Salerno, 18 maggio 1973) è l'allenatore responsabile della prima squadra del **Catania Football Club** per la [[02-cronistoria/stagioni/2026-2027|stagione sportiva 2026-2027]] nel campionato di **Serie C (Girone C)**.
@@ -62,7 +78,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 Tecnico pragmatico, profondo conoscitore delle dinamiche tattiche del girone meridionale di Serie C e fautore di un calcio propositivo basato su intensità di pressing e verticalizzazioni rapide:
 * Prima dell'approdo a Catania, Longo si è distinto alla guida di formazioni come il San Severo, la Folgore Caratese, l'AZ Picerno (condotto a piazzamenti playoff storici) e il Crotone.
-* Il **3 luglio 2026**, il presidente [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]], il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] e il nuovo direttore sportivo Fortunato Varrà lo hanno scelto per guidare il nuovo corso tecnico del club etneo.
+* Il **3 luglio 2026**, il presidente [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]], il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] e il nuovo direttore sportivo [[01-societa/dirigenti/fortunato-varra|Fortunato Varrà]] lo hanno scelto per guidare il nuovo corso tecnico del club etneo.
 
 ---
 

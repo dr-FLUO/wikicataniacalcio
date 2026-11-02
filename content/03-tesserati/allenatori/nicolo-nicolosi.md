@@ -12,6 +12,7 @@ birth_date: 1912-08-09
 death_date: 1986-05-03
 birth_place: Lercara Friddi (PA), Italia
 nationality: Italia
+image: assets/images/calciatori/nicolo-nicolosi.jpg
 catania_periods:
 - 1947-1948
 - 1957-1958
@@ -49,6 +50,11 @@ aliases:
 - tesserati/nicolo-nicolosi
 - allenatori/nicolo-nicolosi
 image_credits:
+- image_path: assets/images/calciatori/nicolo-nicolosi.jpg
+  alt_text: Ritratto ufficiale di Piá in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/nicolo-nicolosi.jpg
   alt_text: 'Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza
     termini dautore) — Crediti: Wikimedia Commons Contributors'

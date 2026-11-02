@@ -9,6 +9,18 @@ last_verified_date: '2026-10-30'
 role: Centrocampista
 total_appearances: 22
 seasons_count: 2
+image: assets/images/calciatori/francesco-de-rose.jpg
+image_credits:
+- image_path: assets/images/calciatori/francesco-de-rose.jpg
+  alt_text: Ritratto ufficiale di Francesco De Rose in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/francesco-de-rose.jpg
+  alt_text: Ritratto ufficiale di Francesco De Rose in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 tags:
 - calciatori
 - francesco-de-rose
@@ -44,10 +56,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/francesco-de-rose.jpg" alt="Francesco De Rose" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>

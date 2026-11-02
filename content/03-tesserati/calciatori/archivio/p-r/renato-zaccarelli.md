@@ -9,6 +9,7 @@ last_verified_date: '2026-10-30'
 role: Centrocampista
 total_appearances: 3
 seasons_count: 1
+image: assets/images/calciatori/renato-zaccarelli.jpg
 tags:
 - calciatori
 - renato-zaccarelli
@@ -37,6 +38,16 @@ aliases:
 - tesserati/renato-zaccarelli
 - calciatori/renato-zaccarelli
 image_credits:
+- image_path: assets/images/calciatori/renato-zaccarelli.jpg
+  alt_text: Ritratto ufficiale di Renato Zaccarelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/renato-zaccarelli.jpg
+  alt_text: Ritratto ufficiale di Renato Zaccarelli in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/renato-zaccarelli.jpg
   alt_text: 'Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -58,7 +69,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/renato-zaccarelli.jpg" alt="Renato Zaccarelli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Renato Zaccarelli — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
   </div>
   <table class="nfc-player-table">
     <tbody>

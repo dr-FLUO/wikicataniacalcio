@@ -31,8 +31,28 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/players/62_andrea-sottil.jpg
+image: assets/images/calciatori/andrea-sottil.jpg
 image_credits:
+- image_path: assets/images/calciatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/calciatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
+- image_path: assets/images/allenatori/andrea-sottil.jpg
+  alt_text: Ritratto ufficiale di Andrea Sottil in maglia rossazzurra
+  author_or_archive: Archivio Storico e Iconografico Calcio Catania
+  year: 2026
+  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/andrea-sottil.jpg
   alt_text: 'Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors Catania'
@@ -54,12 +74,15 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 ---
+
+![Andrea Sottil, guida tecnica del Calcio Catania](/assets/images/allenatori/andrea-sottil.jpg)
+*Andrea Sottil, guida tecnica del Calcio Catania — Archivio Storico Wiki Catania Calcio*
+
 # Andrea Sottil — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/players/62_andrea-sottil.jpg" alt="Andrea Sottil" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto ufficiale di Andrea Sottil — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors</div>
+    <img src="/assets/images/calciatori/andrea-sottil.jpg" alt="Andrea Sottil" class="nfc-player-photo" />
   </div>
   <table class="nfc-player-table">
     <tbody>
