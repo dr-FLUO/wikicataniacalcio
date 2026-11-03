@@ -43,19 +43,14 @@ minutes_played: 1713
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 309678
 ---
 # Gaetano Calà Campana — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/268_gaetano-cal-campana.jpg" alt="Gaetano Calà Campana" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1979</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1995–1998</td>
+        <td colspan="3">1996–1999</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,13 +92,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1995-1996** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 2' |
-| **1996-1997** | Centrocampo | 14 | 0 | 0 | 0 | 0 | 911' |
-| **1997-1998** | Centrocampo | 13 | 0 | 0 | 0 | 0 | 800' |
+| **1996-1997** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 2' |
+| **1997-1998** | Centrocampo | 14 | 0 | 0 | 0 | 0 | 911' |
+| **1998-1999** | Centrocampo | 13 | 0 | 0 | 0 | 0 | 800' |
 | **TOTALE** | — | **29** | **0** | **0** | **0** | **0** | **1713'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gaetano Calà Campana** ha collezionato complessivamente **29 presenze ufficiali**, disputando **1713 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **29 presenze ufficiali**, disputando **1713 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -123,5 +118,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gaetano Calà Campana*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cala-Campana-268](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cala-Campana-268), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gaetano Calà Campana*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cala-Campana-268), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

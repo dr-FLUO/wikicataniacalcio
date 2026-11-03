@@ -36,6 +36,7 @@ minutes_played: 71
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480771
 ---
 # Rosario Fichera — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1952</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1969–1971</td>
+        <td colspan="3">1970–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,12 +87,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1969-1970** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 25' |
-| **1970-1971** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 46' |
+| **1970-1971** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 25' |
+| **1971-1972** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 46' |
 | **TOTALE** | — | **2** | **0** | **0** | **0** | **0** | **71'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Rosario Fichera** ha collezionato complessivamente **2 presenze ufficiali**, disputando **71 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **71 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -111,5 +112,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rosario Fichera*, in [https://www.calciocatania.com/giocatori/giocatori.php?Fichera-1121](https://www.calciocatania.com/giocatori/giocatori.php?Fichera-1121), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rosario Fichera*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Fichera-1121), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

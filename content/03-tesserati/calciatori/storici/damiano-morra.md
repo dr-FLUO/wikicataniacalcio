@@ -1,7 +1,7 @@
 ---
-title: Damiano Morra — La Bandiera degli Anni Settanta e Ottanta (281 Presenze)
+title: Damiano Morra — La Bandiera degli Anni Settanta e Ottanta (281 Presenze in Campionato, 321 Totali)
 description: Biografia, presenze e statistiche ufficiali di Damiano Morra, centrocampista / mediano del Calcio Catania con
-  308 presenze e 26 gol registrati in maglia rossazzurra.
+  321 presenze ufficiali (281 in campionato) e 28 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/damiano-morra
 entity_type: calciatore
 status: verified
@@ -12,10 +12,11 @@ nationality: Italia
 role: Centrocampista / Mediano
 catania_periods:
 - 1975-1984
-total_appearances: 308
-league_appearances: 250
+total_appearances: 321
+league_appearances: 281
 serie_a_appearances: 25
-total_goals: 26
+total_goals: 28
+league_goals: 27
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
@@ -68,8 +69,8 @@ minutes_played: 26476
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 335143
 ---
-
 # Damiano Morra
 
 <div class="nfc-player-hero-card">
@@ -101,15 +102,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>308</td>
+        <td>321</td>
         <th>Goal / Assist</th>
-        <td>26 / 2</td>
+        <td>28 / 2</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**Damiano Morra** (Savignano Irpino, 22 marzo 1955) è un ex calciatore e allenatore di calcio italiano, di ruolo mediano e centrocampista. Storica bandiera e capitano del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] sotto la presidenza di [[societa/presidenti/angelo-massimino|Angelo Massimino]], ha vestito ininterrottamente la maglia rossazzurra per **nove stagioni consecutive dal 1975 al 1984**, totalizzando **281 presenze ufficiali** (250 di campionato più 3 spareggi e 28 gare di coppa), record assoluto del club rimasto imbattuto per 35 anni fino al sorpasso di [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] nel novembre 2019.
+**Damiano Morra** (Savignano Irpino, 22 marzo 1955) è un ex calciatore e allenatore di calcio italiano, di ruolo mediano e centrocampista. Storica bandiera e capitano del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] sotto la presidenza di [[societa/presidenti/angelo-massimino|Angelo Massimino]], ha vestito ininterrottamente la maglia rossazzurra per **nove stagioni consecutive dal 1975 al 1984**, totalizzando **281 presenze in campionato** (284 con i 3 spareggi promozione) e **321 presenze ufficiali complessive** con 28 reti (di cui 37 gare e 1 rete nelle coppe), record assoluto del club rimasto imbattuto per 35 anni fino al sorpasso di [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] nel novembre 2019.
 
 ## Nove Stagioni da Leader al Cibali (1975–1984)
 
@@ -145,8 +146,8 @@ Nella successiva [[stagioni/1983-1984|Stagione 1983-1984]], corona il sogno di g
 <details class="nfc-stat-accordion">
 <summary><strong>Sintesi Statistica e Primato di Fedeltà</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
-- **Presenze Ufficiali Totali:** **281** (2º posto assoluto nella storia del Catania; **primatista per stagioni consecutive da titolare** nel dopoguerra).
-- **Dettaglio Competizioni:** 25 presenze in [[stagioni/1983-1984|Serie A]], 155 in Serie B (più i 2 [[partite/1982-1983/spareggio-catania-como-1-0|[[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] del 1983]]), 70 in Serie C / C1 (più 1 spareggio nel 1978), 28 tra Coppa Italia e Coppa Italia Semiprofessionisti.
+- **Presenze Ufficiali Totali:** **321** (2º posto assoluto per gare ufficiali, 1º posto per presenze in campionati regolari con **281 presenze**; **primatista per stagioni consecutive da titolare** nel dopoguerra).
+- **Dettaglio Competizioni:** 25 presenze in [[stagioni/1983-1984|Serie A]], 155 in Serie B (più i 2 [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma del 1983]]), 70 in Serie C / C1 (più 1 spareggio nel 1978), 28 tra Coppa Italia e Coppa Italia Semiprofessionisti.
 - **Palmarès in Rossazzurro:** Promozione dalla Serie C1 alla Serie B nella [[stagioni/1979-1980|Stagione 1979-1980]] e promozione in Serie A nella [[stagioni/1982-1983|Stagione 1982-1983]].
 
 </details>
@@ -155,25 +156,25 @@ Nella successiva [[stagioni/1983-1984|Stagione 1983-1984]], corona il sogno di g
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1974-1975** | Esterno di destra | 25 | 1 | 0 | 0 | 0 | 2038' |
-| **1975-1976** | Esterno di destra | 28 | 2 | 1 | 0 | 0 | 2281' |
-| **1976-1977** | Esterno di destra | 38 | 5 | 0 | 0 | 0 | 3420' |
-| **1977-1978** | Esterno di destra | 30 | 6 | 0 | 0 | 0 | 2608' |
-| **1978-1979** | Esterno di destra | 33 | 5 | 0 | 0 | 0 | 2968' |
-| **1979-1980** | Esterno di destra | 42 | 4 | 1 | 0 | 0 | 3730' |
-| **1980-1981** | Esterno di destra | 40 | 3 | 0 | 0 | 0 | 3600' |
-| **1981-1982** | Esterno di destra | 41 | 0 | 0 | 0 | 0 | 3132' |
-| **1982-1983** | Esterno di destra | 31 | 0 | 0 | 0 | 0 | 2699' |
+| **1975-1976** | Esterno di destra | 25 | 1 | 0 | 0 | 0 | 2038' |
+| **1976-1977** | Esterno di destra | 28 | 2 | 1 | 0 | 0 | 2281' |
+| **1977-1978** | Esterno di destra | 38 | 5 | 0 | 0 | 0 | 3420' |
+| **1978-1979** | Esterno di destra | 30 | 6 | 0 | 0 | 0 | 2608' |
+| **1979-1980** | Esterno di destra | 33 | 5 | 0 | 0 | 0 | 2968' |
+| **1980-1981** | Esterno di destra | 42 | 4 | 1 | 0 | 0 | 3730' |
+| **1981-1982** | Esterno di destra | 40 | 3 | 0 | 0 | 0 | 3600' |
+| **1982-1983** | Esterno di destra | 41 | 0 | 0 | 0 | 0 | 3132' |
+| **1983-1984** | Esterno di destra | 31 | 0 | 0 | 0 | 0 | 2699' |
 | **TOTALE** | — | **308** | **26** | **2** | **0** | **0** | **26476'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Damiano Morra** ha collezionato complessivamente **308 presenze ufficiali**, disputando **26476 minuti** di gioco effettivo, siglando **26 gol** e servendo **2 assist** distribuiti su **9 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **321 presenze ufficiali** (281 in campionato, 3 spareggi e 37 nelle coppe), siglando **28 gol** e servendo **2 assist** distribuiti su **9 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Damiano Morra](https://it.wikipedia.org/wiki/Damiano_Morra)*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 270–322.
-2. **Archivio Storico Mimmo Rapisarda**, *I grandi protagonisti rossazzurri: Damiano Morra*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/).
+2. **Archivio Storico Mimmo Rapisarda**, *I grandi protagonisti rossazzurri: Damiano Morra*, [mimmorapisarda.it](https://www.mimmorapisarda.it/).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Damiano Morra*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Morra-477).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Damiano Morra*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Morra-477).

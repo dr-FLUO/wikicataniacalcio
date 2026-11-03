@@ -56,6 +56,7 @@ minutes_played: 4
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 183029
 ---
 # Fabio Aveni — Scheda Giocatore nel Calcio Catania
 
@@ -83,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2014</td>
+        <td colspan="3">2012–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -103,13 +104,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2012-2013** | Ala sinistra | 1 | 0 | 0 | 0 | 0 | 4' |
-| **2013-2014** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2012-2013** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2013-2014** | Ala sinistra | 1 | 0 | 0 | 0 | 0 | 4' |
+| **2014-2015** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **1** | **0** | **0** | **0** | **0** | **4'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabio Aveni** ha collezionato complessivamente **1 presenze ufficiali**, disputando **4 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **1 presenze ufficiali**, disputando **4 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Aveni*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Aveni-845](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Aveni-845), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Aveni*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Aveni-845)/giocatori/giocatori.php?Aveni-845), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -73,6 +73,7 @@ minutes_played: 4725
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 30654
 ---
 # Adrián Ricchiuti — Scheda Giocatore nel Calcio Catania
 
@@ -124,11 +125,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Seconda punta | 29 | 3 | 3 | 3 | 0 | 1878' |
-| **2009-2010** | Seconda punta | 31 | 1 | 3 | 0 | 0 | 1872' |
-| **2010-2011** | Seconda punta | 21 | 0 | 2 | 1 | 0 | 859' |
-| **2011-2012** | Seconda punta | 10 | 0 | 0 | 0 | 0 | 116' |
+| **2009-2010** | Seconda punta | 29 | 3 | 3 | 3 | 0 | 1878' |
+| **2010-2011** | Seconda punta | 31 | 1 | 3 | 0 | 0 | 1872' |
+| **2011-2012** | Seconda punta | 21 | 0 | 2 | 1 | 0 | 859' |
+| **2012-2013** | Seconda punta | 10 | 0 | 0 | 0 | 0 | 116' |
 | **TOTALE** | — | **91** | **4** | **8** | **4** | **0** | **4725'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adrián Ricchiuti** ha collezionato complessivamente **91 presenze ufficiali**, disputando **4725 minuti** di gioco effettivo, siglando **4 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **91 presenze ufficiali**, disputando **4725 minuti** di gioco effettivo, siglando **4 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.

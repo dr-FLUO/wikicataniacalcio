@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Maurizio Giovanelli
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Giovanelli-464
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 464
 aliases:
 - tesserati/calciatori/maurizio-giovannelli
 - maurizio-giovannelli
 - tesserati/maurizio-giovannelli
 - calciatori/maurizio-giovannelli
+- tesserati/calciatori/maurizio-giovanelli
+- maurizio-giovanelli
+- tesserati/maurizio-giovanelli
+- calciatori/maurizio-giovanelli
+- 03-tesserati/calciatori/archivio/m-o/maurizio-giovanelli
+- Maurizio Giovanelli
 citizenship: Italia
 total_goals: 2
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 8056
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/464_maurizio-giovanelli.jpg
+tm_id: 227402
 ---
 # Maurizio Giovannelli — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1981–1984</td>
+        <td colspan="3">1982–1985</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,10 +109,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1981-1982** | Centrocampo | 38 | 1 | 0 | 1 | 0 | 3351' |
-| **1982-1983** | Centrocampo | 27 | 0 | 0 | 1 | 1 | 2196' |
-| **1983-1984** | Centrocampo | 30 | 1 | 0 | 0 | 0 | 2509' |
+| **1982-1983** | Centrocampo | 38 | 1 | 0 | 1 | 0 | 3351' |
+| **1983-1984** | Centrocampo | 27 | 0 | 0 | 1 | 1 | 2196' |
+| **1984-1985** | Centrocampo | 30 | 1 | 0 | 0 | 0 | 2509' |
 | **TOTALE** | — | **95** | **2** | **0** | **2** | **1** | **8056'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Maurizio Giovannelli** ha collezionato complessivamente **95 presenze ufficiali**, disputando **8056 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **95 presenze ufficiali**, disputando **8056 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

@@ -65,8 +65,8 @@ minutes_played: 5220
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 245253
 ---
-
 # Giancarlo Danova
 
 <div class="nfc-player-hero-card">
@@ -94,7 +94,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1964–1966</td>
+        <td colspan="3">1963–1965</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -129,12 +129,12 @@ Nella stagione d'esordio 1964-1965 realizzò 6 reti fondamentali, tra cui il gol
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1962-1963** | Punta centrale | 31 | 6 | 1 | 0 | 0 | 2790' |
-| **1963-1964** | Punta centrale | 27 | 15 | 0 | 0 | 0 | 2430' |
+| **1963-1964** | Punta centrale | 31 | 6 | 1 | 0 | 0 | 2790' |
+| **1964-1965** | Punta centrale | 27 | 15 | 0 | 0 | 0 | 2430' |
 | **TOTALE** | — | **58** | **21** | **1** | **0** | **0** | **5220'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giancarlo Danova** ha collezionato complessivamente **58 presenze ufficiali**, disputando **5220 minuti** di gioco effettivo, siglando **21 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **58 presenze ufficiali**, disputando **5220 minuti** di gioco effettivo, siglando **21 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -142,4 +142,4 @@ Nella stagione d'esordio 1964-1965 realizzò 6 reti fondamentali, tra cui il gol
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 218-228 (Stagioni 1964-1965 e 1965-1966).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Giancarlo Danova*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Danova-642).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Giancarlo Danova*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Danova-642).

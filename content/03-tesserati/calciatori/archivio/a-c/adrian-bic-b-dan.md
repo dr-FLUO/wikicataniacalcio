@@ -11,7 +11,7 @@ birth_date: '1988-12-11'
 birth_place: Costanza
 death_date: ''
 nationality: Romania
-total_appearances: 35
+total_appearances: 0
 seasons_count: 1
 tags:
 - calciatori
@@ -36,9 +36,9 @@ aliases:
 - tesserati/adrian-bic-b-dan
 - calciatori/adrian-bic-b-dan
 citizenship: Romania
-total_goals: 2
+total_goals: 0
 total_assists: 0
-minutes_played: 3071
+minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -72,13 +72,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2016–2017</td>
+        <td colspan="3">2006–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>35</td>
+        <td>0</td>
         <th>Goal / Assist</th>
-        <td>2 / 0</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -91,11 +91,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Nato a Costanza (1988-12-11), Adrian Bică Bădan ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2016-2017 | Difensore centrale | 35 | 2 | 0 | 7 | 0 | 3071' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 35 presenze e 2 reti complessive.*

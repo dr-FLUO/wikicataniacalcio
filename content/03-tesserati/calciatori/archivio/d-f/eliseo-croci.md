@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Eliso Croci
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Croci-508
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 508
 aliases:
 - tesserati/calciatori/eliseo-croci
 - eliseo-croci
 - tesserati/eliseo-croci
 - calciatori/eliseo-croci
+- tesserati/calciatori/eliso-croci
+- eliso-croci
+- tesserati/eliso-croci
+- calciatori/eliso-croci
+- 03-tesserati/calciatori/archivio/d-f/eliso-croci
+- Eliso Croci
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 5116
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/508_eliso-croci.jpg
+tm_id: 511542
 ---
 # Eliseo Croci — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1978–1980</td>
+        <td colspan="3">1979–1981</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +109,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1978-1979** | Terzino sinistro | 24 | 0 | 0 | 0 | 0 | 1981' |
-| **1979-1980** | Terzino sinistro | 35 | 0 | 0 | 0 | 0 | 3135' |
+| **1979-1980** | Terzino sinistro | 24 | 0 | 0 | 0 | 0 | 1981' |
+| **1980-1981** | Terzino sinistro | 35 | 0 | 0 | 0 | 0 | 3135' |
 | **TOTALE** | — | **59** | **0** | **0** | **0** | **0** | **5116'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Eliseo Croci** ha collezionato complessivamente **59 presenze ufficiali**, disputando **5116 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **59 presenze ufficiali**, disputando **5116 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

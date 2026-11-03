@@ -31,10 +31,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/juan-turchi
-- juan-turchi
-- tesserati/juan-turchi
+- 03-tesserati/calciatori/archivio/g-l/juan-martin-turchi
+- 03-tesserati/calciatori/juan-martin-turchi
+- calciatori/juan-martin-turchi
 - calciatori/juan-turchi
+- juan-martin-turchi
+- tesserati/calciatori/juan-martin-turchi
+- tesserati/calciatori/juan-turchi
+- tesserati/juan-martin-turchi
+- tesserati/juan-turchi
 citizenship: Argentina
 total_goals: 2
 total_assists: 4
@@ -42,6 +47,7 @@ minutes_played: 961
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 102399
 ---
 # Juan Turchi — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +78,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2000</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,10 +98,12 @@ Nato a La Plata (1976-04-03), Juan Turchi ha militato tra le file della formazio
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1999-2000 | Punta centrale | 17 | 2 | 4 | 0 | 0 | 961' |
+| **2000-2001** | Punta centrale | 17 | 2 | 4 | 0 | 0 | 961' |
+| **TOTALE** | — | **17** | **2** | **4** | **0** | **0** | **961'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 17 presenze e 2 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **961 minuti** di gioco effettivo, siglando **2 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.

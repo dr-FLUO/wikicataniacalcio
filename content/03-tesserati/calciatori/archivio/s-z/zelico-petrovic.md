@@ -53,6 +53,7 @@ minutes_played: 13731
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 489532
 ---
 # Zelico Petrovic — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1972–1976</td>
+        <td colspan="3">1973–1977</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,14 +102,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1972-1973** | Portiere | 40 | 0 | 0 | 0 | 0 | 3484' |
-| **1973-1974** | Portiere | 38 | 0 | 0 | 1 | 0 | 3379' |
-| **1974-1975** | Portiere | 40 | 0 | 0 | 0 | 1 | 3589' |
-| **1975-1976** | Portiere | 37 | 0 | 0 | 0 | 0 | 3279' |
+| **1973-1974** | Portiere | 40 | 0 | 0 | 0 | 0 | 3484' |
+| **1974-1975** | Portiere | 38 | 0 | 0 | 1 | 0 | 3379' |
+| **1975-1976** | Portiere | 40 | 0 | 0 | 0 | 1 | 3589' |
+| **1976-1977** | Portiere | 37 | 0 | 0 | 0 | 0 | 3279' |
 | **TOTALE** | — | **155** | **0** | **0** | **1** | **1** | **13731'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Zelico Petrovic** ha collezionato complessivamente **155 presenze ufficiali**, disputando **13731 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **155 presenze ufficiali**, disputando **13731 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Zelico Petrovic](https://it.wikipedia.org/wiki/Zelico_Petrovic)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Zelico Petrovic*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Petrovic-541](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Petrovic-541), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Zelico Petrovic*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Petrovic-541)/giocatori/giocatori.php?Petrovic-541), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

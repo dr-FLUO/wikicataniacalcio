@@ -45,6 +45,7 @@ minutes_played: 720
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 306927
 ---
 # Kurt Christensen — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1964–1966</td>
+        <td colspan="3">1965–1967</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1964-1965** | Esterno di sinistra | 6 | 0 | 1 | 0 | 0 | 540' |
-| **1965-1966** | Esterno di sinistra | 2 | 1 | 0 | 0 | 0 | 180' |
+| **1965-1966** | Esterno di sinistra | 6 | 0 | 1 | 0 | 0 | 540' |
+| **1966-1967** | Esterno di sinistra | 2 | 1 | 0 | 0 | 0 | 180' |
 | **TOTALE** | — | **8** | **1** | **1** | **0** | **0** | **720'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Kurt Christensen** ha collezionato complessivamente **8 presenze ufficiali**, disputando **720 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **720 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Kurt Christensen](https://it.wikipedia.org/wiki/Kurt_Christensen)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kurt Christensen*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Christensen-624](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Christensen-624), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kurt Christensen*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Christensen-624)/giocatori/giocatori.php?Christensen-624), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

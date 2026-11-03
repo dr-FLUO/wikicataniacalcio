@@ -10,7 +10,7 @@ season_ref: '[[stagioni/2014-2015|Stagione 2014-2015]]'
 club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
 figc_matricola: '11700'
 protagonists:
-- '[[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti (Presidente Calcio
+- '[[societa/presidenti/antonino-pulvirenti]] |Antonino Pulvirenti (Presidente Calcio
   Catania S.p.A.)]]'
 - Pablo Gustavo Cosentino (Amministratore Delegato Calcio Catania S.p.A.)
 - Daniele Delli Carri (Ex Direttore Sportivo Calcio Catania S.p.A.)

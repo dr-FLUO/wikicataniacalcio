@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Pietro Terraciano
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Terraciano-35
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 35
 image: assets/images/calciatori/pietro-terracciano.jpg
 image_credits:
 - image_path: assets/images/calciatori/pietro-terracciano.jpg
@@ -51,6 +57,12 @@ aliases:
 - pietro-terracciano
 - tesserati/pietro-terracciano
 - calciatori/pietro-terracciano
+- tesserati/calciatori/pietro-terraciano
+- pietro-terraciano
+- tesserati/pietro-terraciano
+- calciatori/pietro-terraciano
+- 03-tesserati/calciatori/archivio/p-r/pietro-terraciano
+- Pietro Terraciano
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -58,6 +70,7 @@ minutes_played: 900
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 96254
 ---
 # Pietro Terracciano — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +98,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2016</td>
+        <td colspan="3">2011–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +122,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
-| **2011-2012** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2011-2012** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
 | **2012-2013** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2013-2014** | Portiere | 8 | 0 | 0 | 1 | 0 | 720' |
-| **2014-2015** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2013-2014** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2014-2015** | Portiere | 8 | 0 | 0 | 1 | 0 | 720' |
 | **2015-2016** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2016-2017** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **10** | **0** | **0** | **1** | **0** | **900'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pietro Terracciano** ha collezionato complessivamente **10 presenze ufficiali**, disputando **900 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **900 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.

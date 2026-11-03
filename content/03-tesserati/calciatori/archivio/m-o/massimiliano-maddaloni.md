@@ -43,19 +43,14 @@ minutes_played: 3286
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 484962
 ---
 # Massimiliano Maddaloni — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/418_massimiliano-maddaloni.jpg" alt="Massimiliano Maddaloni" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1966</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1986–1988</td>
+        <td colspan="3">1987–1989</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,12 +92,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1986-1987** | Centrocampo | 27 | 2 | 0 | 0 | 0 | 2043' |
-| **1987-1988** | Centrocampo | 22 | 0 | 0 | 1 | 0 | 1243' |
+| **1987-1988** | Centrocampo | 27 | 2 | 0 | 0 | 0 | 2043' |
+| **1988-1989** | Centrocampo | 22 | 0 | 0 | 1 | 0 | 1243' |
 | **TOTALE** | — | **49** | **2** | **0** | **1** | **0** | **3286'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Massimiliano Maddaloni** ha collezionato complessivamente **49 presenze ufficiali**, disputando **3286 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **49 presenze ufficiali**, disputando **3286 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -122,5 +117,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimiliano Maddaloni*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Maddaloni-418](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Maddaloni-418), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimiliano Maddaloni*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Maddaloni-418), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

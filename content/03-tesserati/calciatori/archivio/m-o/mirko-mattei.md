@@ -43,19 +43,14 @@ minutes_played: 8738
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 553394
 ---
 # Mirko Mattei — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/383_mirko-mattei.jpg" alt="Mirko Mattei" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1967</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1986–1991</td>
+        <td colspan="3">1987–1992</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,15 +92,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1986-1987** | Centrocampo | 37 | 0 | 0 | 0 | 0 | 3081' |
-| **1987-1988** | Centrocampo | 25 | 0 | 0 | 1 | 0 | 2103' |
-| **1988-1989** | Centrocampo | 23 | 0 | 0 | 0 | 0 | 1405' |
-| **1989-1990** | Centrocampo | 21 | 0 | 0 | 0 | 0 | 1682' |
-| **1990-1991** | Centrocampo | 7 | 0 | 0 | 0 | 0 | 467' |
+| **1987-1988** | Centrocampo | 37 | 0 | 0 | 0 | 0 | 3081' |
+| **1988-1989** | Centrocampo | 25 | 0 | 0 | 1 | 0 | 2103' |
+| **1989-1990** | Centrocampo | 23 | 0 | 0 | 0 | 0 | 1405' |
+| **1990-1991** | Centrocampo | 21 | 0 | 0 | 0 | 0 | 1682' |
+| **1991-1992** | Centrocampo | 7 | 0 | 0 | 0 | 0 | 467' |
 | **TOTALE** | — | **113** | **0** | **0** | **1** | **0** | **8738'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mirko Mattei** ha collezionato complessivamente **113 presenze ufficiali**, disputando **8738 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **113 presenze ufficiali**, disputando **8738 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +120,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mirko Mattei*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mattei-383](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mattei-383), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mirko Mattei*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Mattei-383), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

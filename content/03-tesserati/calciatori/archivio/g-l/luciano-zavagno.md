@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/luciano-zavagno
-- luciano-zavagno
-- tesserati/luciano-zavagno
+- 03-tesserati/calciatori/archivio/g-l/luciano-german-zavagno
+- 03-tesserati/calciatori/luciano-german-zavagno
+- calciatori/luciano-german-zavagno
 - calciatori/luciano-zavagno
+- luciano-german-zavagno
+- tesserati/calciatori/luciano-german-zavagno
+- tesserati/calciatori/luciano-zavagno
+- tesserati/luciano-german-zavagno
+- tesserati/luciano-zavagno
 citizenship: Argentina
 total_goals: 0
 total_assists: 0
@@ -53,6 +58,7 @@ minutes_played: 1066
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 13502
 ---
 # Luciano Zavagno — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2005</td>
+        <td colspan="3">2005–2006</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +110,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Terzino sinistro | 15 | 0 | 0 | 2 | 1 | 1066' |
+| **2005-2006** | Terzino sinistro | 15 | 0 | 0 | 2 | 1 | 1066' |
 | **TOTALE** | — | **15** | **0** | **0** | **2** | **1** | **1066'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luciano Zavagno** ha collezionato complessivamente **15 presenze ufficiali**, disputando **1066 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **15 presenze ufficiali**, disputando **1066 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

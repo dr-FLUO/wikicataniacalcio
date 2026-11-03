@@ -1,5 +1,5 @@
 import { FileTrieNode } from "../../util/fileTrie"
-import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, simplifySlug } from "../../util/path"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 
 type MaybeHTMLElement = HTMLElement | undefined
@@ -20,6 +20,7 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -30,7 +31,6 @@ function toggleExplorer(this: HTMLElement) {
   )
 
   if (!explorerCollapsed) {
-    // Stop <html> from being scrollable when mobile explorer is open
     document.documentElement.classList.add("mobile-no-scroll")
   } else {
     document.documentElement.classList.remove("mobile-no-scroll")
@@ -38,28 +38,21 @@ function toggleExplorer(this: HTMLElement) {
 }
 
 function toggleFolder(evt: MouseEvent) {
-  evt.stopPropagation()
   const target = evt.target as MaybeHTMLElement
   if (!target) return
+  // If user clicked the direct link icon '↗', let the browser navigate normally
+  if (target.closest(".folder-direct-link")) {
+    return
+  }
 
-  // Check if target was svg icon or button
-  const isSvg = target.nodeName === "svg"
-
-  // corresponding <ul> element relative to clicked button/folder
-  const folderContainer = (
-    isSvg
-      ? // svg -> div.folder-container
-        target.parentElement
-      : // button.folder-button -> div -> div.folder-container
-        target.parentElement?.parentElement
-  ) as MaybeHTMLElement
+  evt.stopPropagation()
+  const folderContainer = target.closest(".folder-container") as MaybeHTMLElement
   if (!folderContainer) return
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
   if (!childFolderContainer) return
 
   childFolderContainer.classList.toggle("open")
 
-  // Collapse folder container
   const isCollapsed = !childFolderContainer.classList.contains("open")
   setFolderState(childFolderContainer, isCollapsed)
 
@@ -79,7 +72,7 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
-function getExplorerNodeHref(currentSlug: FullSlug, targetSlug: FullSlug): string {
+function getExplorerNodeHref(_currentSlug: FullSlug, targetSlug: FullSlug): string {
   const isGh = typeof window !== "undefined" && window.location.hostname.endsWith(".github.io")
   const base = isGh ? "/wikicataniacalcio" : ""
 
@@ -101,7 +94,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   a.dataset.for = node.slug
   a.textContent = node.displayName
 
-  if (currentSlug === node.slug) {
+  if (currentSlug === node.slug || simplifySlug(currentSlug) === simplifySlug(node.slug)) {
     a.classList.add("active")
   }
 
@@ -118,18 +111,23 @@ function createFolderNode(
   const li = clone.querySelector("li") as HTMLLIElement
   const folderContainer = li.querySelector(".folder-container") as HTMLElement
   const titleContainer = folderContainer.querySelector("div") as HTMLElement
+  const directLink = folderContainer.querySelector(".folder-direct-link") as HTMLAnchorElement | null
   const folderOuter = li.querySelector(".folder-outer") as HTMLElement
   const ul = folderOuter.querySelector("ul") as HTMLUListElement
 
   const folderPath = node.slug
   folderContainer.dataset.folderpath = folderPath
 
-  if (currentSlug === folderPath) {
+  if (currentSlug === folderPath || simplifySlug(currentSlug) === simplifySlug(folderPath)) {
     folderContainer.classList.add("active")
   }
 
+  if (directLink) {
+    directLink.href = getExplorerNodeHref(currentSlug, folderPath)
+    directLink.title = `Apri indice: ${node.displayName}`
+  }
+
   if (opts.folderClickBehavior === "link") {
-    // Replace button with link for link behavior
     const button = titleContainer.querySelector(".folder-button") as HTMLElement
     const a = document.createElement("a")
     a.href = getExplorerNodeHref(currentSlug, folderPath)
@@ -142,34 +140,16 @@ function createFolderNode(
     span.textContent = node.displayName
   }
 
-  // if the saved state is collapsed or the default state is collapsed
   const isCollapsed =
     currentExplorerState.find((item) => item.path === folderPath)?.collapsed ??
     opts.folderDefaultState === "collapsed"
 
-  // if this folder is a prefix of the current path we
-  // want to open it anyways
   const simpleFolderPath = simplifySlug(folderPath)
   const folderIsPrefixOfCurrentSlug =
-    simpleFolderPath === currentSlug.slice(0, simpleFolderPath.length)
+    simpleFolderPath.length > 0 && currentSlug.startsWith(simpleFolderPath)
 
   if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
     folderOuter.classList.add("open")
-  }
-
-  if (node.data) {
-    const template = document.getElementById("template-file") as HTMLTemplateElement
-    const clone = template.content.cloneNode(true) as DocumentFragment
-    const overviewLi = clone.querySelector("li") as HTMLLIElement
-    const a = overviewLi.querySelector("a") as HTMLAnchorElement
-    a.href = getExplorerNodeHref(currentSlug, folderPath)
-    a.dataset.for = folderPath
-    a.className = "folder-overview-link"
-    a.textContent = "Panoramica Dossier"
-    if (currentSlug === folderPath || currentSlug === simplifySlug(folderPath)) {
-      a.classList.add("active")
-    }
-    ul.appendChild(overviewLi)
   }
 
   for (const child of node.children) {
@@ -181,6 +161,117 @@ function createFolderNode(
   }
 
   return li
+}
+
+/**
+ * Restructures the FileTrieNode tree according to the "Max 2 Levels" Information Architecture
+ * (Section 7.3) without modifying any underlying page slugs or URLs.
+ */
+function restructureEditorialTrie(trie: FileTrieNode, currentSlug: FullSlug) {
+  const collectLeaves = (folder: FileTrieNode, prefixYear: boolean = false): FileTrieNode[] => {
+    const out: FileTrieNode[] = []
+    for (const ch of folder.children) {
+      if (!ch.isFolder) {
+        if (prefixYear) {
+          const m = ch.slug.match(/\/(\d{4})-(\d{4})\//)
+          if (m && !ch.displayName.startsWith(m[1]) && !ch.displayName.startsWith(m[2])) {
+            ch.displayName = `${m[2]} · ${ch.displayName}`
+          }
+        }
+        out.push(ch)
+      } else {
+        const subLeaves = collectLeaves(ch, prefixYear)
+        if (subLeaves.length === 0) {
+          // Se la sotto-cartella non ha file annidati (es. ha solo il proprio index.md),
+          // la preserviamo come nodo foglia di 2° livello invece di scartarla!
+          out.push(ch)
+        } else {
+          out.push(...subLeaves)
+        }
+      }
+    }
+    return out
+  }
+
+  for (const topNode of trie.children) {
+    if (!topNode.isFolder) continue
+    const seg = topNode.slugSegment
+
+    // 1. 02-cronistoria: promote 'precedenti' to level 2 & flatten single-year subfolders inside 'partite-storiche'
+    if (seg === "02-cronistoria") {
+      const partiteNode = topNode.children.find((c) => c.slugSegment === "partite-storiche")
+      if (partiteNode && partiteNode.isFolder) {
+        const precIdx = partiteNode.children.findIndex((c) => c.slugSegment === "precedenti")
+        if (precIdx !== -1) {
+          const [precNode] = partiteNode.children.splice(precIdx, 1)
+          precNode.displayName = "Precedenti & Derby"
+          topNode.children.push(precNode)
+        }
+        // Flatten year folders inside partite-storiche
+        partiteNode.children = collectLeaves(partiteNode, true)
+      }
+    }
+
+    // 2. 03-tesserati: unwrap intermediate 'calciatori' container & convert 'archivio' into a direct 1-click portal link
+    if (seg === "03-tesserati") {
+      const calcIdx = topNode.children.findIndex((c) => c.slugSegment === "calciatori")
+      if (calcIdx !== -1) {
+        const [calcNode] = topNode.children.splice(calcIdx, 1)
+        for (const sub of calcNode.children) {
+          if (sub.slugSegment === "archivio") {
+            // Make 'Archivio Calciatori (Filtri A–Z)' a 1-click portal leaf
+            sub.children = []
+            sub.displayName = "Archivio Calciatori (A–Z)"
+          } else if (sub.slugSegment === "storici") {
+            sub.displayName = "Leggende & Storici"
+          } else if (sub.slugSegment === "rosa-attuale") {
+            sub.displayName = "Rosa Attuale"
+          }
+          topNode.children.unshift(sub)
+        }
+      }
+    }
+
+    // 3. 04-strutture, 05-identita-e-simboli, 08-settori-paralleli: flatten single-item subfolders to level 2
+    if (seg === "04-strutture" || seg === "05-identita-e-simboli" || seg === "08-settori-paralleli") {
+      topNode.children = collectLeaves(topNode, false)
+    }
+
+    // 4. 06-tifoseria-e-cultura: unwrap intermediate 'settori' and 'relazioni' wrappers
+    if (seg === "06-tifoseria-e-cultura") {
+      const nextChildren: FileTrieNode[] = []
+      for (const ch of topNode.children) {
+        if (ch.isFolder && (ch.slugSegment === "settori" || ch.slugSegment === "relazioni")) {
+          nextChildren.push(...ch.children)
+        } else {
+          nextChildren.push(ch)
+        }
+      }
+      topNode.children = nextChildren
+    }
+
+    // 5. 07-media-e-comunicazione: unwrap single-file 'letteratura' & 'cinema-e-tv' if <= 2 items
+    if (seg === "07-media-e-comunicazione") {
+      const nextChildren: FileTrieNode[] = []
+      for (const ch of topNode.children) {
+        if (ch.isFolder && ch.children.length <= 2) {
+          nextChildren.push(...collectLeaves(ch, false))
+        } else {
+          nextChildren.push(ch)
+        }
+      }
+      topNode.children = nextChildren
+    }
+  }
+
+  // Contextual Focus: move the active top-level rubric to the first position when inside a rubric
+  const activeTopIdx = trie.children.findIndex(
+    (c) => c.isFolder && c.slugSegment && currentSlug.startsWith(c.slugSegment),
+  )
+  if (activeTopIdx > 0) {
+    const [activeTop] = trie.children.splice(activeTopIdx, 1)
+    trie.children.unshift(activeTop)
+  }
 }
 
 async function setupExplorer(currentSlug: FullSlug) {
@@ -198,7 +289,6 @@ async function setupExplorer(currentSlug: FullSlug) {
       mapFn: new Function("return " + (dataFns.mapFn || "undefined"))(),
     }
 
-    // Get folder state from local storage
     const storageTree = localStorage.getItem("fileTree")
     const serializedExplorerState = storageTree && opts.useSavedState ? JSON.parse(storageTree) : []
     const oldIndex = new Map<string, boolean>(
@@ -209,7 +299,6 @@ async function setupExplorer(currentSlug: FullSlug) {
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
-    // Apply functions in order
     for (const fn of opts.order) {
       switch (fn) {
         case "filter":
@@ -224,7 +313,8 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     }
 
-    // Get folder paths for state management
+    restructureEditorialTrie(trie, currentSlug)
+
     const folderPaths = trie.getFolderPaths()
     currentExplorerState = folderPaths.map((path) => {
       const previousState = oldIndex.get(path)
@@ -235,34 +325,29 @@ async function setupExplorer(currentSlug: FullSlug) {
       }
     })
 
-    const explorerUl = explorer.querySelector(".explorer-ul")
+    const explorerUl = explorer.querySelector(".explorer-ul") as HTMLElement | null
     if (!explorerUl) continue
 
-    // Create and insert new content
     const fragment = document.createDocumentFragment()
     for (const child of trie.children) {
-      const node =
-        child.isFolder && child.children.length > 0
-          ? createFolderNode(currentSlug, child, opts)
-          : createFileNode(currentSlug, child)
+      const node = child.isFolder
+        ? createFolderNode(currentSlug, child, opts)
+        : createFileNode(currentSlug, child)
 
       fragment.appendChild(node)
     }
     explorerUl.insertBefore(fragment, explorerUl.firstChild)
 
-    // restore explorer scrollTop position if it exists
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
     if (scrollTop) {
       explorerUl.scrollTop = parseInt(scrollTop)
     } else {
-      // try to scroll to the active element if it exists
       const activeElement = explorerUl.querySelector(".active")
       if (activeElement) {
-        activeElement.scrollIntoView({ behavior: "smooth" })
+        activeElement.scrollIntoView({ behavior: "smooth", block: "nearest" })
       }
     }
 
-    // Set up event handlers
     const explorerButtons = explorer.getElementsByClassName(
       "explorer-toggle",
     ) as HTMLCollectionOf<HTMLElement>
@@ -271,29 +356,44 @@ async function setupExplorer(currentSlug: FullSlug) {
       window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
     }
 
-    // Set up folder click handlers
-    if (opts.folderClickBehavior === "collapse") {
-      const folderButtons = explorer.getElementsByClassName(
-        "folder-button",
-      ) as HTMLCollectionOf<HTMLElement>
-      for (const button of folderButtons) {
-        button.addEventListener("click", toggleFolder)
-        window.addCleanup(() => button.removeEventListener("click", toggleFolder))
-      }
+    // Make the entire .folder-container clickable to expand/collapse immediately (Fitts's Law fix)
+    const folderContainers = explorer.getElementsByClassName(
+      "folder-container",
+    ) as HTMLCollectionOf<HTMLElement>
+    for (const fc of folderContainers) {
+      fc.addEventListener("click", toggleFolder)
+      window.addCleanup(() => fc.removeEventListener("click", toggleFolder))
     }
 
-    const folderIcons = explorer.getElementsByClassName(
-      "folder-icon",
-    ) as HTMLCollectionOf<HTMLElement>
-    for (const icon of folderIcons) {
-      icon.addEventListener("click", toggleFolder)
-      window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
+    // Wire up instant text filter inside the sidebar
+    const filterInput = explorer.querySelector(".explorer-filter-input") as HTMLInputElement | null
+    if (filterInput) {
+      const handleFilter = () => {
+        const q = filterInput.value.trim().toLowerCase()
+        const allItems = explorerUl.querySelectorAll("li") as NodeListOf<HTMLLIElement>
+        if (!q) {
+          allItems.forEach((li) => {
+            li.style.display = ""
+          })
+          return
+        }
+        allItems.forEach((li) => {
+          const text = (li.textContent || "").toLowerCase()
+          const matches = text.includes(q)
+          li.style.display = matches ? "" : "none"
+          if (matches) {
+            const outer = li.querySelector(":scope > .folder-outer") as HTMLElement | null
+            if (outer) outer.classList.add("open")
+          }
+        })
+      }
+      filterInput.addEventListener("input", handleFilter)
+      window.addCleanup(() => filterInput.removeEventListener("input", handleFilter))
     }
   }
 }
 
 document.addEventListener("prenav", async () => {
-  // save explorer scrollTop position
   const explorer = document.querySelector(".explorer-ul")
   if (!explorer) return
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
@@ -303,7 +403,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
   await setupExplorer(currentSlug)
 
-  // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return
@@ -311,8 +410,6 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
-
-      // Allow <html> to be scrollable when mobile explorer is collapsed
       document.documentElement.classList.remove("mobile-no-scroll")
     }
 
@@ -321,27 +418,15 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 })
 
 window.addEventListener("resize", function () {
-  // Desktop explorer opens by default, and it stays open when the window is resized
-  // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
   const explorer = document.querySelector(".explorer")
   if (explorer && !explorer.classList.contains("collapsed")) {
-    document.documentElement.classList.add("mobile-no-scroll")
-    return
-  }
-})
-
-// Chiudi mobile explorer drawer premendo tasto Escape
-document.addEventListener("keydown", (e: KeyboardEvent) => {
-  if (e.key === "Escape") {
-    const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
-    for (const explorer of allExplorers) {
-      if (!explorer.classList.contains("collapsed")) {
-        explorer.classList.add("collapsed")
-        explorer.setAttribute("aria-expanded", "false")
-        document.documentElement.classList.remove("mobile-no-scroll")
-      }
+    const mobileExplorer = explorer.querySelector(".mobile-explorer")
+    if (mobileExplorer?.checkVisibility()) {
+      document.documentElement.classList.add("mobile-no-scroll")
+      return
     }
   }
+  document.documentElement.classList.remove("mobile-no-scroll")
 })
 
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {

@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
-total_appearances: 56
-seasons_count: 4
+total_appearances: 5
+seasons_count: 1
 tags:
 - calciatori
 - giuseppe-sciuto
@@ -40,7 +40,7 @@ aliases:
 - calciatori/giuseppe-sciuto
 total_goals: 0
 total_assists: 0
-minutes_played: 4071
+minutes_played: 450
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -50,13 +50,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/327_giuseppe-sciuto.jpg" alt="Giuseppe Sciuto" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -78,11 +72,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1988–1995</td>
+        <td colspan="3">1993–1994</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>56</td>
+        <td>5</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -111,16 +105,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Sciuto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sciuto-327](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sciuto-327), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Sciuto*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Sciuto-327), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1988-1989 | Centrocampo | 22 | 0 | 0 | 0 | 0 | 1672' |
-| 1989-1990 | Centrocampo | 22 | 0 | 0 | 1 | 0 | 1740' |
-| 1990-1991 | Centrocampo | 9 | 0 | 0 | 0 | 0 | 389' |
-| 1994-1995 | Centrocampo | 3 | 0 | 0 | 0 | 0 | 270' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 56 presenze e 0 reti complessive.*

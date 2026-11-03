@@ -62,6 +62,7 @@ minutes_played: 1126
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 7108
 ---
 # Salvatore Bruno — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2004</td>
+        <td colspan="3">2004–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,11 +110,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Punta centrale | 18 | 4 | 0 | 1 | 1 | 1126' |
+| **2004-2005** | Punta centrale | 18 | 4 | 0 | 1 | 1 | 1126' |
 | **TOTALE** | — | **18** | **4** | **0** | **1** | **1** | **1126'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Salvatore Bruno** ha collezionato complessivamente **18 presenze ufficiali**, disputando **1126 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **18 presenze ufficiali**, disputando **1126 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Salvatore Bruno](https://it.wikipedia.org/wiki/Salvatore_Bruno)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Bruno*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bruno-100](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bruno-100), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Bruno*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bruno-100)/giocatori/giocatori.php?Bruno-100), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

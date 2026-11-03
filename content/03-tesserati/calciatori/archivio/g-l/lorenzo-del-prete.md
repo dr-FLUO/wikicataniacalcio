@@ -57,6 +57,7 @@ minutes_played: 745
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 78615
 ---
 # Lorenzo Del Prete — Scheda Giocatore nel Calcio Catania
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,11 +105,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Terzino destro | 9 | 0 | 1 | 4 | 0 | 745' |
+| **2014-2015** | Terzino destro | 9 | 0 | 1 | 4 | 0 | 745' |
 | **TOTALE** | — | **9** | **0** | **1** | **4** | **0** | **745'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lorenzo Del Prete** ha collezionato complessivamente **9 presenze ufficiali**, disputando **745 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **745 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Lorenzo Del Prete](https://it.wikipedia.org/wiki/Lorenzo_Del_Prete)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Del Prete*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Prete-866](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Prete-866), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Del Prete*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Del-Prete-866)/giocatori/giocatori.php?Del-Prete-866), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

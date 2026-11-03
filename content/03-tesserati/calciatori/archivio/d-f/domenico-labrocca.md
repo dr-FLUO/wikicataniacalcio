@@ -52,17 +52,14 @@ minutes_played: 18113
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 505986
 ---
 # Domenico Labrocca — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/484_domenico-labrocca.jpg" alt="Domenico Labrocca" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1974–1982</td>
+        <td colspan="3">1975–1983</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,17 +101,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1974-1975** | Terzino destro | 40 | 1 | 0 | 1 | 0 | 3600' |
-| **1975-1976** | Terzino destro | 41 | 1 | 0 | 0 | 0 | 3690' |
-| **1976-1977** | Terzino destro | 35 | 1 | 0 | 0 | 0 | 3134' |
-| **1977-1978** | Terzino destro | 30 | 1 | 0 | 0 | 0 | 2700' |
-| **1978-1979** | Terzino destro | 29 | 1 | 0 | 0 | 0 | 2565' |
-| **1979-1980** | Terzino destro | 24 | 1 | 0 | 0 | 0 | 2089' |
-| **1981-1982** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 335' |
+| **1975-1976** | Terzino destro | 40 | 1 | 0 | 1 | 0 | 3600' |
+| **1976-1977** | Terzino destro | 41 | 1 | 0 | 0 | 0 | 3690' |
+| **1977-1978** | Terzino destro | 35 | 1 | 0 | 0 | 0 | 3134' |
+| **1978-1979** | Terzino destro | 30 | 1 | 0 | 0 | 0 | 2700' |
+| **1979-1980** | Terzino destro | 29 | 1 | 0 | 0 | 0 | 2565' |
+| **1980-1981** | Terzino destro | 24 | 1 | 0 | 0 | 0 | 2089' |
+| **1982-1983** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 335' |
 | **TOTALE** | — | **206** | **6** | **0** | **1** | **0** | **18113'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Domenico Labrocca** ha collezionato complessivamente **206 presenze ufficiali**, disputando **18113 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **206 presenze ufficiali**, disputando **18113 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Domenico Labrocca](https://it.wikipedia.org/wiki/Domenico_Labrocca)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Labrocca*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Labrocca-484](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Labrocca-484), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Labrocca*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Labrocca-484)/giocatori/giocatori.php?Labrocca-484), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

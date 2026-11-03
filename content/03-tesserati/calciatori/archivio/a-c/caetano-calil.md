@@ -61,16 +61,22 @@ sources:
   reference: 'ID 867: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Calil-867
 aliases:
-- tesserati/calciatori/caetano-calil
-- caetano-calil
-- tesserati/caetano-calil
+- 03-tesserati/calciatori/archivio/a-c/caetano-prosperi-calil
+- 03-tesserati/calciatori/caetano-prosperi-calil
+- caetano-prosperi-calil
 - calciatori/caetano-calil
+- calciatori/caetano-prosperi-calil
+- tesserati/caetano-calil
+- tesserati/caetano-prosperi-calil
+- tesserati/calciatori/caetano-calil
+- tesserati/calciatori/caetano-prosperi-calil
 total_assists: 3
 minutes_played: 3659
 seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 56723
 ---
 # Caetano Calil
 
@@ -133,12 +139,12 @@ Con doppiette memorabili contro Catanzaro e Ischia Isolaverde e prodezze al Mass
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Punta centrale | 32 | 11 | 2 | 6 | 0 | 2725' |
-| **2015-2016** | Punta centrale | 14 | 2 | 1 | 1 | 0 | 934' |
+| **2015-2016** | Punta centrale | 32 | 11 | 2 | 6 | 0 | 2725' |
+| **2016-2017** | Punta centrale | 14 | 2 | 1 | 1 | 0 | 934' |
 | **TOTALE** | — | **46** | **13** | **3** | **7** | **0** | **3659'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Caetano Calil** ha collezionato complessivamente **46 presenze ufficiali**, disputando **3659 minuti** di gioco effettivo, siglando **13 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **46 presenze ufficiali**, disputando **3659 minuti** di gioco effettivo, siglando **13 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -147,4 +153,4 @@ Con doppiette memorabili contro Catanzaro e Ischia Isolaverde e prodezze al Mass
 1. **Lega Italiana Calcio Professionistico**, *Almanacco Ufficiale Lega Pro 2015-2016*, Lega Pro - Firenze, 2016, Statistiche e tabellini ufficiali Calcio Catania.
 2. **La Sicilia**, *Calil trascina il Catania alla salvezza: cancellata la penalizzazione*, La Sicilia, 2016, Cronaca sportiva 8 maggio 2016.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Caetano Prosperi Calil*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Calil-867).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Caetano Prosperi Calil*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Calil-867).

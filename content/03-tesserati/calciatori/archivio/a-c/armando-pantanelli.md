@@ -72,6 +72,7 @@ minutes_played: 10830
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20745
 ---
 # Armando Pantanelli — Scheda Giocatore nel Calcio Catania
 
@@ -99,7 +100,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2007</td>
+        <td colspan="3">2004–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -119,14 +120,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Portiere | 41 | 0 | 0 | 7 | 0 | 3690' |
-| **2004-2005** | Portiere | 42 | 0 | 0 | 7 | 0 | 3810' |
-| **2005-2006** | Portiere | 37 | 0 | 0 | 4 | 0 | 3330' |
-| **2006-2007** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2004-2005** | Portiere | 41 | 0 | 0 | 7 | 0 | 3690' |
+| **2005-2006** | Portiere | 42 | 0 | 0 | 7 | 0 | 3810' |
+| **2006-2007** | Portiere | 37 | 0 | 0 | 4 | 0 | 3330' |
+| **2007-2008** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **120** | **0** | **0** | **18** | **0** | **10830'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Armando Pantanelli** ha collezionato complessivamente **120 presenze ufficiali**, disputando **10830 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **120 presenze ufficiali**, disputando **10830 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -147,5 +148,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Armando Pantanelli](https://it.wikipedia.org/wiki/Armando_Pantanelli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Armando Pantanelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pantanelli-55](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pantanelli-55), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Armando Pantanelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pantanelli-55)/giocatori/giocatori.php?Pantanelli-55), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -11,8 +11,8 @@ birth_date: '1910-09-19'
 birth_place: Como, Italia
 death_date: '1952-09-16'
 nationality: Regno d'Italia
-total_appearances: 0
-seasons_count: 2
+total_appearances: 45
+seasons_count: 4
 tags:
 - calciatori
 - marco-romano
@@ -43,9 +43,9 @@ aliases:
 - tesserati/marco-romano
 - calciatori/marco-romano
 citizenship: Regno d'Italia
-total_goals: 0
+total_goals: 39
 total_assists: 0
-minutes_played: 0
+minutes_played: 4050
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -77,13 +77,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1940–2004</td>
+        <td colspan="3">1934–1936, 1941–1943</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>0</td>
+        <td>45</td>
         <th>Goal / Assist</th>
-        <td>0 / 0</td>
+        <td>39 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -96,12 +96,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Celebre centravanti comasco, micidiale finalizzatore degli anni Trenta e Quaranta. Veste la maglia dell'Associazione Fascista Calcio Catania in Serie B tra il 1940 e il 1942, totalizzando 28 gol in 45 presenze ufficiali a Piazza Verga e al Cibali.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1940-1942, totalizzando **45 presenze ufficiali** tra campionati e coppe nazionali.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2002-2003 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| 2003-2004 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*

@@ -52,17 +52,14 @@ minutes_played: 2700
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 290223
 ---
 # Luigi Zannier — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/670_luigi-zannier.jpg" alt="Luigi Zannier" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1959–1961</td>
+        <td colspan="3">1960–1962</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1959-1960** | Difensore centrale | 10 | 0 | 0 | 0 | 0 | 900' |
-| **1960-1961** | Difensore centrale | 20 | 1 | 0 | 0 | 0 | 1800' |
+| **1960-1961** | Difensore centrale | 10 | 0 | 0 | 0 | 0 | 900' |
+| **1961-1962** | Difensore centrale | 20 | 1 | 0 | 0 | 0 | 1800' |
 | **TOTALE** | — | **30** | **1** | **0** | **0** | **0** | **2700'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Zannier** ha collezionato complessivamente **30 presenze ufficiali**, disputando **2700 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **2700 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luigi Zannier](https://it.wikipedia.org/wiki/Luigi_Zannier)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Zannier*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Zannier-670](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Zannier-670), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Zannier*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Zannier-670)/giocatori/giocatori.php?Zannier-670), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

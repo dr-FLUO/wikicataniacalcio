@@ -62,6 +62,7 @@ minutes_played: 6258
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 430421
 ---
 # Fulvio Francesconi
 
@@ -125,12 +126,12 @@ Nel campionato 1971-1972 decise sfide caldissime contro Genoa, Bari e Reggina; n
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1970-1971** | Ala sinistra | 34 | 10 | 0 | 0 | 0 | 2703' |
-| **1971-1972** | Ala sinistra | 40 | 9 | 0 | 1 | 0 | 3555' |
+| **1971-1972** | Ala sinistra | 34 | 10 | 0 | 0 | 0 | 2703' |
+| **1972-1973** | Ala sinistra | 40 | 9 | 0 | 1 | 0 | 3555' |
 | **TOTALE** | — | **74** | **19** | **0** | **1** | **0** | **6258'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fulvio Francesconi** ha collezionato complessivamente **74 presenze ufficiali**, disputando **6258 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **74 presenze ufficiali**, disputando **6258 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -138,4 +139,4 @@ Nel campionato 1971-1972 decise sfide caldissime contro Genoa, Bari e Reggina; n
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 256-265 (Stagioni 1971-1972 e 1972-1973).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Fulvio Francesconi*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Francesconi-571).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Fulvio Francesconi*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Francesconi-571).

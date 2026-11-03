@@ -13,9 +13,9 @@ legal_form: S.S.D. a r.l. (2022-2023) ➔ Società a responsabilità limitata sp
   (dal 2023)
 figc_matricola: '955013'
 presidents_refs:
-- '[[societa/presidenti/ross-pelligra|Ross Pelligra (Presidente Pelligra Group e Catania
+- '[[societa/presidenti/ross-pelligra]] |Ross Pelligra (Presidente Pelligra Group e Catania
   FC)]]'
-- '[[societa/presidenti/vincenzo-grella|Vincenzo Grella (Vicepresidente e Amministratore
+- '[[societa/presidenti/vincenzo-grella]] |Vincenzo Grella (Vicepresidente e Amministratore
   Delegato)]]'
 - Mark Bresciano (Consigliere d'Amministrazione)
 coaches_refs:
@@ -25,7 +25,7 @@ coaches_refs:
 - Domenico Toscano (dal 2024)
 stadium_refs:
 - '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
-prev_era: '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. — Gestione SIGI
+prev_era: '[[societa/2020-sigi-e-fallimento]] |Calcio Catania S.p.A. — Gestione SIGI
   e Fallimento (2020-2022)]]'
 tags:
 - catania-fc

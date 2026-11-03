@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 56
-seasons_count: 2
+total_appearances: 1
+seasons_count: 1
 tags:
 - calciatori
 - dario-pellegrino
@@ -31,9 +31,9 @@ aliases:
 - dario-pellegrino
 - tesserati/dario-pellegrino
 - calciatori/dario-pellegrino
-total_goals: 1
+total_goals: 0
 total_assists: 0
-minutes_played: 4041
+minutes_played: 45
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -67,13 +67,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1994–1996</td>
+        <td colspan="3">1994–1995</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>56</td>
+        <td>1</td>
         <th>Goal / Assist</th>
-        <td>1 / 0</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -100,14 +100,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dario Pellegrino*, in [https://www.calciocatania.com/giocatori/giocatori.php?Pellegrino-323](https://www.calciocatania.com/giocatori/giocatori.php?Pellegrino-323), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dario Pellegrino*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pellegrino-323), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1994-1995 | Centrocampo | 29 | 1 | 0 | 0 | 0 | 2128' |
-| 1995-1996 | Centrocampo | 27 | 0 | 0 | 0 | 0 | 1913' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 56 presenze e 1 reti complessive.*

@@ -56,6 +56,7 @@ minutes_played: 12150
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 532722
 ---
 # Guido Klein
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1950–1953</td>
+        <td colspan="3">1950–1956</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,16 +122,16 @@ Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1949-1950** | Attacco | 31 | 15 | 0 | 0 | 0 | 2790' |
-| **1950-1951** | Attacco | 36 | 13 | 0 | 0 | 0 | 3240' |
-| **1951-1952** | Attacco | 32 | 7 | 0 | 0 | 0 | 2880' |
-| **1952-1953** | Attacco | 19 | 6 | 0 | 0 | 0 | 1710' |
-| **1953-1954** | Attacco | 5 | 1 | 0 | 0 | 0 | 450' |
-| **1954-1955** | Attacco | 12 | 3 | 0 | 0 | 0 | 1080' |
+| **1950-1951** | Attacco | 31 | 15 | 0 | 0 | 0 | 2790' |
+| **1951-1952** | Attacco | 36 | 13 | 0 | 0 | 0 | 3240' |
+| **1952-1953** | Attacco | 32 | 7 | 0 | 0 | 0 | 2880' |
+| **1953-1954** | Attacco | 19 | 6 | 0 | 0 | 0 | 1710' |
+| **1954-1955** | Attacco | 5 | 1 | 0 | 0 | 0 | 450' |
+| **1955-1956** | Attacco | 12 | 3 | 0 | 0 | 0 | 1080' |
 | **TOTALE** | — | **135** | **45** | **0** | **0** | **0** | **12150'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Guido Klein** ha collezionato complessivamente **135 presenze ufficiali**, disputando **12150 minuti** di gioco effettivo, siglando **45 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **135 presenze ufficiali**, disputando **12150 minuti** di gioco effettivo, siglando **45 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -138,4 +139,4 @@ Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 132-148 (Stagioni dal 1950-1951 al 1952-1953).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Guido Klein*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Klein-720).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Guido Klein*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Klein-720).

@@ -1,7 +1,7 @@
 ---
-title: Catania-Roma 1-1 (18 Maggio 2008) — Il Miracolo Salvezza di Jorge Martnez
+title: Catania-Roma 1-1 (18 Maggio 2008) — Il Miracolo Salvezza di Jorge Martínez
 description: 'Dossier storico della memorabile ultima giornata di Serie A 2007-2008:
-  al Massimino il gol di Jorge Martnez all''85'' regala la salvezza al Catania di
+  al Massimino il gol di Jorge Martínez all''85'' regala la salvezza al Catania di
   Walter Zenga.'
 slug: 02-cronistoria/partite-storiche/2007-2008/catania-roma-1-1
 entity_type: partita

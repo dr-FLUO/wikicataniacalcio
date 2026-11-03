@@ -25,17 +25,30 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Conti
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Conti-790
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 790
 aliases:
 - tesserati/calciatori/angelo-conticelli
 - angelo-conticelli
 - tesserati/angelo-conticelli
 - calciatori/angelo-conticelli
+- tesserati/calciatori/conti
+- conti
+- tesserati/conti
+- calciatori/conti
+- 03-tesserati/calciatori/archivio/a-c/conti
+- Conti
 total_goals: 0
 total_assists: 0
 minutes_played: 1819
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 563002
 ---
 # Angelo Conticelli — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +67,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1959</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1990–1991</td>
+        <td colspan="3">1991–1992</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,11 +99,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1990-1991** | Portiere | 21 | 0 | 0 | 0 | 0 | 1819' |
+| **1991-1992** | Portiere | 21 | 0 | 0 | 0 | 0 | 1819' |
 | **TOTALE** | — | **21** | **0** | **0** | **0** | **0** | **1819'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Angelo Conticelli** ha collezionato complessivamente **21 presenze ufficiali**, disputando **1819 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1819 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -110,5 +123,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Angelo Conticelli*, in [https://www.calciocatania.com/giocatori/giocatori.php?Conticelli-376](https://www.calciocatania.com/giocatori/giocatori.php?Conticelli-376), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Angelo Conticelli*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Conticelli-376), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

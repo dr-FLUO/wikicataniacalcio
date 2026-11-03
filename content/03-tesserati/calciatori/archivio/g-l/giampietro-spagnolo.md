@@ -56,6 +56,7 @@ minutes_played: 11846
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 500108
 ---
 # Giampietro Spagnolo
 
@@ -74,7 +75,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1947</td>
+        <td>1949</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1973–1977</td>
+        <td colspan="3">1973–1978</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -122,15 +123,15 @@ Nella stagione cadetta [[stagioni/1973-1974|1973-1974]] Spagnolo fu il capocanno
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1972-1973** | Attacco | 34 | 11 | 0 | 0 | 0 | 2996' |
-| **1973-1974** | Attacco | 34 | 20 | 0 | 0 | 0 | 3011' |
-| **1974-1975** | Attacco | 35 | 6 | 0 | 0 | 0 | 3122' |
-| **1975-1976** | Attacco | 19 | 4 | 0 | 0 | 0 | 1570' |
-| **1976-1977** | Attacco | 16 | 2 | 0 | 0 | 0 | 1147' |
+| **1973-1974** | Attacco | 34 | 11 | 0 | 0 | 0 | 2996' |
+| **1974-1975** | Attacco | 34 | 20 | 0 | 0 | 0 | 3011' |
+| **1975-1976** | Attacco | 35 | 6 | 0 | 0 | 0 | 3122' |
+| **1976-1977** | Attacco | 19 | 4 | 0 | 0 | 0 | 1570' |
+| **1977-1978** | Attacco | 16 | 2 | 0 | 0 | 0 | 1147' |
 | **TOTALE** | — | **138** | **43** | **0** | **0** | **0** | **11846'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giampietro Spagnolo** ha collezionato complessivamente **138 presenze ufficiali**, disputando **11846 minuti** di gioco effettivo, siglando **43 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **138 presenze ufficiali**, disputando **11846 minuti** di gioco effettivo, siglando **43 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -138,4 +139,4 @@ Nella stagione cadetta [[stagioni/1973-1974|1973-1974]] Spagnolo fu il capocanno
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 266-285 (Stagioni dal 1973-1974 al 1976-1977).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Giampietro Spagnolo*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Spagnolo-534).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Giampietro Spagnolo*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Spagnolo-534).

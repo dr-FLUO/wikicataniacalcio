@@ -53,6 +53,7 @@ minutes_played: 737
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 524406
 ---
 # Mario Noce — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2000</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2017–2020</td>
+        <td colspan="3">2018–2021</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2017-2018** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 75' |
-| **2018-2019** | Difensore centrale | 5 | 0 | 0 | 0 | 0 | 332' |
-| **2019-2020** | Difensore centrale | 7 | 0 | 0 | 1 | 0 | 330' |
+| **2018-2019** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 75' |
+| **2019-2020** | Difensore centrale | 5 | 0 | 0 | 0 | 0 | 332' |
+| **2020-2021** | Difensore centrale | 7 | 0 | 0 | 1 | 0 | 330' |
 | **TOTALE** | — | **13** | **0** | **0** | **1** | **0** | **737'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mario Noce** ha collezionato complessivamente **13 presenze ufficiali**, disputando **737 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **13 presenze ufficiali**, disputando **737 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mario Noce*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Noce-933](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Noce-933), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mario Noce*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Noce-933), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

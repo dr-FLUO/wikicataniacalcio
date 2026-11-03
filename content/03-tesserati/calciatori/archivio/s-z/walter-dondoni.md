@@ -45,6 +45,7 @@ minutes_played: 4763
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 362519
 ---
 # Walter Dondoni — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1990–1992</td>
+        <td colspan="3">1991–1993</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1990-1991** | Libero | 23 | 1 | 0 | 0 | 0 | 2056' |
-| **1991-1992** | Libero | 31 | 0 | 0 | 1 | 0 | 2707' |
+| **1991-1992** | Libero | 23 | 1 | 0 | 0 | 0 | 2056' |
+| **1992-1993** | Libero | 31 | 0 | 0 | 1 | 0 | 2707' |
 | **TOTALE** | — | **54** | **1** | **0** | **1** | **0** | **4763'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Walter Dondoni** ha collezionato complessivamente **54 presenze ufficiali**, disputando **4763 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **54 presenze ufficiali**, disputando **4763 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Walter Dondoni](https://it.wikipedia.org/wiki/Walter_Dondoni)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Walter Dondoni*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Dondoni-358](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Dondoni-358), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Walter Dondoni*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Dondoni-358)/giocatori/giocatori.php?Dondoni-358), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -62,6 +62,7 @@ minutes_played: 3630
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22123
 ---
 # Ciro Polito — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2008</td>
+        <td colspan="3">2004–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,15 +110,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Portiere | 4 | 0 | 0 | 1 | 0 | 360' |
-| **2004-2005** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
-| **2005-2006** | Portiere | 2 | 0 | 0 | 0 | 1 | 180' |
-| **2006-2007** | Portiere | 33 | 0 | 0 | 1 | 0 | 3000' |
-| **2007-2008** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2004-2005** | Portiere | 4 | 0 | 0 | 1 | 0 | 360' |
+| **2005-2006** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
+| **2006-2007** | Portiere | 2 | 0 | 0 | 0 | 1 | 180' |
+| **2007-2008** | Portiere | 33 | 0 | 0 | 1 | 0 | 3000' |
+| **2008-2009** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **40** | **0** | **0** | **2** | **1** | **3630'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ciro Polito** ha collezionato complessivamente **40 presenze ufficiali**, disputando **3630 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **40 presenze ufficiali**, disputando **3630 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -138,5 +139,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ciro Polito](https://it.wikipedia.org/wiki/Ciro_Polito)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ciro Polito*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Polito-57](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Polito-57), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ciro Polito*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Polito-57)/giocatori/giocatori.php?Polito-57), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

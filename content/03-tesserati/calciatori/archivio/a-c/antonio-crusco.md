@@ -52,17 +52,14 @@ minutes_played: 2994
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 337413
 ---
 # Antonio Crusco — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/475_antonio-crusco.jpg" alt="Antonio Crusco" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1981–1983</td>
+        <td colspan="3">1982–1984</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1981-1982** | Ala sinistra | 39 | 2 | 0 | 0 | 0 | 2923' |
-| **1982-1983** | Ala sinistra | 4 | 0 | 0 | 0 | 0 | 71' |
+| **1982-1983** | Ala sinistra | 39 | 2 | 0 | 0 | 0 | 2923' |
+| **1983-1984** | Ala sinistra | 4 | 0 | 0 | 0 | 0 | 71' |
 | **TOTALE** | — | **43** | **2** | **0** | **0** | **0** | **2994'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Antonio Crusco** ha collezionato complessivamente **43 presenze ufficiali**, disputando **2994 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **43 presenze ufficiali**, disputando **2994 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Antonio Crusco](https://it.wikipedia.org/wiki/Antonio_Crusco)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Crusco*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Crusco-475](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Crusco-475), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Crusco*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Crusco-475)/giocatori/giocatori.php?Crusco-475), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

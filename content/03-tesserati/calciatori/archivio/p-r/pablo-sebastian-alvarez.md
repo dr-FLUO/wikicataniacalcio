@@ -1,7 +1,6 @@
 ---
 title: Pablo Sebastián Álvarez — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pablo Sebastián Álvarez,
-  difensore del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Pablo Sebastián Álvarez, difensore del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/p-r/pablo-sebastian-alvarez
 entity_type: calciatore
 status: verified
@@ -24,8 +23,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pablo_Sebasti%C3%A1n_%C3%81lvarez
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,16 +41,20 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/calciatori/pablo-sebastian-alvarez.jpg
-  alt_text: Ritratto fotografico di Pablo Sebastián Álvarez calciatore del Calcio
-    Catania
+  alt_text: Ritratto fotografico di Pablo Sebastián Álvarez calciatore del Calcio Catania
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/pablo-sebastian-alvarez
-- pablo-sebastian-alvarez
-- tesserati/pablo-sebastian-alvarez
+- 03-tesserati/calciatori/archivio/p-r/pablo-sebastian-valeira-alvarez
+- 03-tesserati/calciatori/pablo-sebastian-valeira-alvarez
 - calciatori/pablo-sebastian-alvarez
+- calciatori/pablo-sebastian-valeira-alvarez
+- pablo-sebastian-valeira-alvarez
+- tesserati/calciatori/pablo-sebastian-alvarez
+- tesserati/calciatori/pablo-sebastian-valeira-alvarez
+- tesserati/pablo-sebastian-alvarez
+- tesserati/pablo-sebastian-valeira-alvarez
 citizenship: Argentina
 total_goals: 0
 total_assists: 2
@@ -60,6 +62,7 @@ minutes_played: 9551
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 55993
 ---
 # Pablo Sebastián Álvarez — Scheda Giocatore nel Calcio Catania
 
@@ -107,16 +110,18 @@ Nato a Ciudad del Libertador General San Martín (1984-04-17), Pablo Sebastián 
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2006-2007 | Terzino destro | 8 | 0 | 0 | 0 | 0 | 382' |
-| 2007-2008 | Terzino destro | 7 | 0 | 0 | 1 | 0 | 508' |
-| 2008-2009 | Terzino destro | 26 | 0 | 1 | 4 | 0 | 2158' |
-| 2009-2010 | Terzino destro | 25 | 0 | 1 | 4 | 1 | 1905' |
-| 2010-2011 | Terzino destro | 9 | 0 | 0 | 2 | 0 | 691' |
-| 2011-2012 | Terzino destro | 30 | 0 | 0 | 7 | 1 | 2525' |
-| 2012-2013 | Terzino destro | 18 | 0 | 0 | 6 | 0 | 1382' |
+| **2007-2008** | Terzino destro | 8 | 0 | 0 | 0 | 0 | 382' |
+| **2008-2009** | Terzino destro | 7 | 0 | 0 | 1 | 0 | 508' |
+| **2009-2010** | Terzino destro | 26 | 0 | 1 | 4 | 0 | 2158' |
+| **2010-2011** | Terzino destro | 25 | 0 | 1 | 4 | 1 | 1905' |
+| **2011-2012** | Terzino destro | 9 | 0 | 0 | 2 | 0 | 691' |
+| **2012-2013** | Terzino destro | 30 | 0 | 0 | 7 | 1 | 2525' |
+| **2013-2014** | Terzino destro | 18 | 0 | 0 | 6 | 0 | 1382' |
+| **TOTALE** | — | **123** | **0** | **2** | **24** | **2** | **9551'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 123 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Pablo Álvarez** ha collezionato complessivamente **123 presenze ufficiali**, disputando **9551 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **7 stagioni sportive**.

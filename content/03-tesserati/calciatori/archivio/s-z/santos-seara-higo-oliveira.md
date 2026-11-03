@@ -42,6 +42,7 @@ minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 29590
 ---
 # Santos Seara Higo Oliveira — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +73,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2004</td>
+        <td colspan="3">2004–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,10 +93,12 @@ Nato a Italia (1986-05-01), Santos Seara Higo Oliveira ha militato tra le file d
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Esterno di sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2004-2005** | Esterno di sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

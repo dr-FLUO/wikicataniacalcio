@@ -14,7 +14,7 @@
 .nfc-panoramica-stripe {
   height: 4px;
   width: 100%;
-  background: linear-gradient(90deg, #d11a2a 0%, #d11a2a 50%, #004b87 50%, #004b87 100%);
+  background: linear-gradient(90deg, #d11317 0%, #d11317 50%, #0cb2d9 50%, #0cb2d9 100%);
   margin-bottom: 1.25rem;
   border-radius: 2px;
 }
@@ -52,7 +52,7 @@
   flex-wrap: wrap;
   gap: 1rem;
   padding: 0.6rem 0.9rem;
-  background: rgba(0, 75, 135, 0.04);
+  background: rgba(12, 178, 217, 0.06);
   border: 1px solid var(--lightgray);
   border-radius: 6px;
   font-size: 0.8rem;
@@ -90,7 +90,7 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--dark);
-  border-left: 4px solid #d11a2a;
+  border-left: 4px solid #d11317;
   padding-left: 0.75rem;
   margin: 2.25rem 0 1.25rem 0;
 }
@@ -118,9 +118,9 @@
   transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
 
   &:hover {
-    border-color: #004b87;
+    border-color: #0cb2d9;
     transform: translateY(-2px);
-    box-shadow: 0 6px 16px rgba(0, 75, 135, 0.08);
+    box-shadow: 0 6px 16px rgba(12, 178, 217, 0.12);
     text-decoration: none;
   }
 }
@@ -130,8 +130,8 @@
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: #004b87;
-  background: rgba(0, 75, 135, 0.08);
+  color: #0cb2d9;
+  background: rgba(12, 178, 217, 0.1);
   padding: 0.2rem 0.5rem;
   border-radius: 3px;
   align-self: flex-start;
@@ -175,7 +175,7 @@
 }
 
 .nfc-subfolder-card__arrow {
-  color: #004b87;
+  color: #0cb2d9;
 }
 
 /* Griglia Schede Editoriali */
@@ -201,9 +201,9 @@
   position: relative;
 
   &:hover {
-    border-color: #d11a2a;
+    border-color: #d11317;
     transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(209, 26, 42, 0.08);
+    box-shadow: 0 8px 20px rgba(209, 19, 23, 0.08);
   }
 }
 
@@ -221,20 +221,20 @@
   text-transform: uppercase;
   padding: 0.22rem 0.55rem;
   border-radius: 4px;
-  background: rgba(0, 75, 135, 0.08);
-  color: #004b87;
+  background: rgba(12, 178, 217, 0.1);
+  color: #0cb2d9;
 
   &.is-dirigente,
   &.is-presidente {
-    background: rgba(0, 75, 135, 0.1);
-    color: #004b87;
+    background: rgba(12, 178, 217, 0.12);
+    color: #0cb2d9;
   }
 
   &.is-partita,
   &.is-match,
   &.is-spareggio {
-    background: rgba(209, 26, 42, 0.1);
-    color: #d11a2a;
+    background: rgba(209, 19, 23, 0.1);
+    color: #d11317;
   }
 
   &.is-calciatore,
@@ -270,7 +270,7 @@
     transition: color 0.15s ease;
 
     &:hover {
-      color: #d11a2a;
+      color: #d11317;
       text-decoration: none;
     }
   }
@@ -316,7 +316,7 @@
 .nfc-card__action {
   font-size: 0.82rem;
   font-weight: 700;
-  color: #d11a2a;
+  color: #d11317;
   text-decoration: none;
   display: inline-flex;
   align-items: center;
@@ -324,7 +324,7 @@
   transition: color 0.15s ease, transform 0.15s ease;
 
   &:hover {
-    color: #004b87;
+    color: #0cb2d9;
     transform: translateX(2px);
     text-decoration: none;
   }

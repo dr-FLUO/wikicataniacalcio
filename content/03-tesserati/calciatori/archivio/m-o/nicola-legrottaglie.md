@@ -68,6 +68,7 @@ minutes_played: 6736
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 5925
 ---
 # Nicola Legrottaglie — Scheda Giocatore nel Calcio Catania
 
@@ -115,13 +116,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Difensore centrale | 31 | 5 | 1 | 9 | 0 | 2785' |
-| **2011-2012** | Difensore centrale | 30 | 3 | 0 | 11 | 1 | 2580' |
-| **2012-2013** | Difensore centrale | 18 | 0 | 1 | 3 | 1 | 1371' |
+| **2011-2012** | Difensore centrale | 31 | 5 | 1 | 9 | 0 | 2785' |
+| **2012-2013** | Difensore centrale | 30 | 3 | 0 | 11 | 1 | 2580' |
+| **2013-2014** | Difensore centrale | 18 | 0 | 1 | 3 | 1 | 1371' |
 | **TOTALE** | — | **79** | **8** | **2** | **23** | **2** | **6736'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nicola Legrottaglie** ha collezionato complessivamente **79 presenze ufficiali**, disputando **6736 minuti** di gioco effettivo, siglando **8 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **79 presenze ufficiali**, disputando **6736 minuti** di gioco effettivo, siglando **8 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -142,5 +143,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Nicola Legrottaglie](https://it.wikipedia.org/wiki/Nicola_Legrottaglie)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicola Legrottaglie*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Legrottaglie-36](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Legrottaglie-36), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicola Legrottaglie*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Legrottaglie-36)/giocatori/giocatori.php?Legrottaglie-36), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

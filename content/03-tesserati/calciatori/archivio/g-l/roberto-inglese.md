@@ -73,8 +73,8 @@ minutes_played: 2198
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 159337
 ---
-
 # Roberto Inglese
 
 <div class="nfc-player-hero-card">
@@ -90,9 +90,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1991</td>
+        <td>1992</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -102,7 +102,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–2026</td>
+        <td colspan="3">2024–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -137,11 +137,11 @@ Nel campionato 2024-2025 decise big match contro Benevento, Trapani e Avellino, 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Punta centrale | 31 | 14 | 1 | 1 | 0 | 2198' |
+| **2024-2025** | Punta centrale | 31 | 14 | 1 | 1 | 0 | 2198' |
 | **TOTALE** | — | **31** | **14** | **1** | **1** | **0** | **2198'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Roberto Inglese** ha collezionato complessivamente **31 presenze ufficiali**, disputando **2198 minuti** di gioco effettivo, siglando **14 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **31 presenze ufficiali**, disputando **2198 minuti** di gioco effettivo, siglando **14 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -149,4 +149,4 @@ Nel campionato 2024-2025 decise big match contro Benevento, Trapani e Avellino, 
 1. **Lega Italiana Calcio Professionistico**, *Archivio Ufficiale Statistiche Serie C NOW 2024-2025 e 2025-2026*, Lega Pro - Firenze, 2026, Ruolino e tabellini ufficiali Roberto Inglese (Catania FC).
 2. **La Sicilia**, *Inglese, il gigante che infiamma il Massimino: gol e carisma da Serie A*, La Sicilia, 2025, Approfondimento sportivo 15 novembre 2025.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Roberto Inglese*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Inglese-1087).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Roberto Inglese*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Inglese-1087).

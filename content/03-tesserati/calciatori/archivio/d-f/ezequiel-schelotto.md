@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/ezequiel-schelotto
-- ezequiel-schelotto
-- tesserati/ezequiel-schelotto
+- 03-tesserati/calciatori/archivio/d-f/ezequiel-matias-schelotto
+- 03-tesserati/calciatori/ezequiel-matias-schelotto
+- calciatori/ezequiel-matias-schelotto
 - calciatori/ezequiel-schelotto
+- ezequiel-matias-schelotto
+- tesserati/calciatori/ezequiel-matias-schelotto
+- tesserati/calciatori/ezequiel-schelotto
+- tesserati/ezequiel-matias-schelotto
+- tesserati/ezequiel-schelotto
 citizenship: Argentina
 total_goals: 1
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 825
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 119164
 ---
 # Ezequiel Schelotto — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2009–2010</td>
+        <td colspan="3">2010–2011</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +115,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2009-2010** | Esterno di destra | 14 | 1 | 0 | 1 | 0 | 825' |
+| **2010-2011** | Esterno di destra | 14 | 1 | 0 | 1 | 0 | 825' |
 | **TOTALE** | — | **14** | **1** | **0** | **1** | **0** | **825'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ezequiel Schelotto** ha collezionato complessivamente **14 presenze ufficiali**, disputando **825 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **14 presenze ufficiali**, disputando **825 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

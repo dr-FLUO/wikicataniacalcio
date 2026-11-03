@@ -62,6 +62,7 @@ minutes_played: 4943
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 177188
 ---
 # Matteo Di Gennaro — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1994</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Difensore centrale | 28 | 2 | 2 | 7 | 0 | 2550' |
-| **2024-2025** | Difensore centrale | 21 | 2 | 1 | 6 | 0 | 1837' |
-| **2025-2026** | Difensore centrale | 7 | 0 | 0 | 2 | 0 | 556' |
+| **2024-2025** | Difensore centrale | 28 | 2 | 2 | 7 | 0 | 2550' |
+| **2025-2026** | Difensore centrale | 21 | 2 | 1 | 6 | 0 | 1837' |
+| **2026-2027** | Difensore centrale | 7 | 0 | 0 | 2 | 0 | 556' |
 | **TOTALE** | — | **56** | **4** | **3** | **15** | **0** | **4943'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Matteo Di Gennaro** ha collezionato complessivamente **56 presenze ufficiali**, disputando **4943 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4943 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Di Gennaro*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Di-Gennaro-1081](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Di-Gennaro-1081), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Di Gennaro*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Di-Gennaro-1081), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

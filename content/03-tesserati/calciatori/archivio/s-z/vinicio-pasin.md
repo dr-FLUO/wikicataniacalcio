@@ -36,6 +36,7 @@ minutes_played: 4518
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 590336
 ---
 # Vinicio Pasin — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1955</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1973–1978</td>
+        <td colspan="3">1974–1979</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,15 +87,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1973-1974** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 15' |
-| **1974-1975** | Difensore centrale | 16 | 0 | 0 | 1 | 0 | 1368' |
-| **1975-1976** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 822' |
-| **1976-1977** | Difensore centrale | 9 | 0 | 0 | 0 | 0 | 810' |
-| **1977-1978** | Difensore centrale | 17 | 0 | 0 | 0 | 0 | 1503' |
+| **1974-1975** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 15' |
+| **1975-1976** | Difensore centrale | 16 | 0 | 0 | 1 | 0 | 1368' |
+| **1976-1977** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 822' |
+| **1977-1978** | Difensore centrale | 9 | 0 | 0 | 0 | 0 | 810' |
+| **1978-1979** | Difensore centrale | 17 | 0 | 0 | 0 | 0 | 1503' |
 | **TOTALE** | — | **56** | **0** | **0** | **1** | **0** | **4518'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Vinicio Pasin** ha collezionato complessivamente **56 presenze ufficiali**, disputando **4518 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4518 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -114,5 +115,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vinicio Pasin*, in [https://www.calciocatania.com/giocatori/giocatori.php?Pasin-530](https://www.calciocatania.com/giocatori/giocatori.php?Pasin-530), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vinicio Pasin*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pasin-530), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

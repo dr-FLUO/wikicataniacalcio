@@ -18,7 +18,7 @@ league_appearances: 56
 total_goals: 37
 league_goals: 37
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza
+- '[[societa/1967-calcio-catania-spa-massimino]] |Calcio Catania S.p.A. — Risalita dall''Eccellenza
   (1993-2000)]]'
 tags:
 - calciatori
@@ -41,10 +41,15 @@ sources:
   reference: 'ID 320: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Mosca-320
 aliases:
-- tesserati/calciatori/giuseppe-mosca
-- giuseppe-mosca
-- tesserati/giuseppe-mosca
+- 03-tesserati/calciatori/archivio/g-l/giuseppe-pietro-mosca
+- 03-tesserati/calciatori/giuseppe-pietro-mosca
 - calciatori/giuseppe-mosca
+- calciatori/giuseppe-pietro-mosca
+- giuseppe-pietro-mosca
+- tesserati/calciatori/giuseppe-mosca
+- tesserati/calciatori/giuseppe-pietro-mosca
+- tesserati/giuseppe-mosca
+- tesserati/giuseppe-pietro-mosca
 locked: true
 locked_date: '2026-10-30'
 locked_by: certificazione_archivio_storico_ufficiale

@@ -43,10 +43,15 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/bruno-petkovic
-- bruno-petkovic
-- tesserati/bruno-petkovic
+- 03-tesserati/calciatori/archivio/a-c/bruno-petkovi
+- 03-tesserati/calciatori/bruno-petkovi
+- bruno-petkovi
+- calciatori/bruno-petkovi
 - calciatori/bruno-petkovic
+- tesserati/bruno-petkovi
+- tesserati/bruno-petkovic
+- tesserati/calciatori/bruno-petkovi
+- tesserati/calciatori/bruno-petkovic
 birth_date: '1994-09-16'
 birth_place: Metković
 citizenship: Croazia
@@ -56,6 +61,7 @@ minutes_played: 189
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 256358
 ---
 # Bruno Petkovic — Scheda Giocatore nel Calcio Catania
 
@@ -83,7 +89,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2013</td>
+        <td colspan="3">2012–2014</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -103,12 +109,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 1' |
-| **2012-2013** | Punta centrale | 4 | 0 | 0 | 0 | 0 | 188' |
+| **2012-2013** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 1' |
+| **2013-2014** | Punta centrale | 4 | 0 | 0 | 0 | 0 | 188' |
 | **TOTALE** | — | **5** | **0** | **0** | **0** | **0** | **189'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Bruno Petkovic** ha collezionato complessivamente **5 presenze ufficiali**, disputando **189 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **189 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +134,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Bruno Petkovic*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Petkovic-799](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Petkovic-799), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Bruno Petkovic*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Petkovic-799), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

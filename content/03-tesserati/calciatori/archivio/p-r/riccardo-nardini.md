@@ -63,6 +63,7 @@ minutes_played: 505
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 38600
 ---
 # Riccardo Nardini — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2007</td>
+        <td colspan="3">2005–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Centrocampista | 6 | 1 | 0 | 1 | 0 | 337' |
-| **2005-2006** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2006-2007** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 168' |
+| **2005-2006** | Centrocampista | 6 | 1 | 0 | 1 | 0 | 337' |
+| **2006-2007** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2007-2008** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 168' |
 | **TOTALE** | — | **10** | **1** | **0** | **1** | **0** | **505'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Riccardo Nardini** ha collezionato complessivamente **10 presenze ufficiali**, disputando **505 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **505 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Riccardo Nardini](https://it.wikipedia.org/wiki/Riccardo_Nardini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Riccardo Nardini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Nardini-71](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Nardini-71), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Riccardo Nardini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Nardini-71)/giocatori/giocatori.php?Nardini-71), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

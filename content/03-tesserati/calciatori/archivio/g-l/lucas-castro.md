@@ -64,10 +64,15 @@ sources:
   reference: 'ID 797: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Castro-797
 aliases:
-- tesserati/calciatori/lucas-castro
-- lucas-castro
-- tesserati/lucas-castro
+- 03-tesserati/calciatori/archivio/g-l/lucas-nahuel-castro
+- 03-tesserati/calciatori/lucas-nahuel-castro
 - calciatori/lucas-castro
+- calciatori/lucas-nahuel-castro
+- lucas-nahuel-castro
+- tesserati/calciatori/lucas-castro
+- tesserati/calciatori/lucas-nahuel-castro
+- tesserati/lucas-castro
+- tesserati/lucas-nahuel-castro
 citizenship: Argentina
 total_assists: 10
 minutes_played: 6055
@@ -75,6 +80,7 @@ seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 105892
 ---
 # Lucas Castro
 
@@ -127,13 +133,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Trequartista | 39 | 4 | 6 | 5 | 0 | 2200' |
-| **2012-2013** | Trequartista | 29 | 3 | 2 | 3 | 0 | 1979' |
-| **2013-2014** | Trequartista | 26 | 6 | 2 | 7 | 0 | 1876' |
+| **2012-2013** | Trequartista | 39 | 4 | 6 | 5 | 0 | 2200' |
+| **2013-2014** | Trequartista | 29 | 3 | 2 | 3 | 0 | 1979' |
+| **2014-2015** | Trequartista | 26 | 6 | 2 | 7 | 0 | 1876' |
 | **TOTALE** | — | **94** | **13** | **10** | **15** | **0** | **6055'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lucas Castro** ha collezionato complessivamente **94 presenze ufficiali**, disputando **6055 minuti** di gioco effettivo, siglando **13 gol** e servendo **10 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **94 presenze ufficiali**, disputando **6055 minuti** di gioco effettivo, siglando **13 gol** e servendo **10 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -141,6 +147,6 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 1. **Lega Nazionale Professionisti Serie A**, *Statistiche Ufficiali Serie A TIM 2012-2014*, Milano.
 2. **La Sicilia**, *El Pata Castro: musica, tango e gol nel cuore di Catania*, Cronaca Sportiva, 2013.
-3. **Archivio Storico Calcio Catania**, *Lucas Castro: ruolino e marcature in maglia rossazzurra*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/).
+3. **Archivio Storico Calcio Catania**, *Lucas Castro: ruolino e marcature in maglia rossazzurra*, [mimmorapisarda.it](https://www.mimmorapisarda.it/).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Lucas Nahuel Castro*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Castro-797).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Lucas Nahuel Castro*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Castro-797).

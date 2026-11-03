@@ -66,6 +66,7 @@ minutes_played: 4860
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 430429
 ---
 # Michele Manenti
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1928</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -129,12 +130,12 @@ Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patr
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1952-1953** | Centrocampo | 29 | 16 | 0 | 0 | 0 | 2610' |
-| **1953-1954** | Centrocampo | 25 | 3 | 0 | 0 | 0 | 2250' |
+| **1953-1954** | Centrocampo | 29 | 16 | 0 | 0 | 0 | 2610' |
+| **1954-1955** | Centrocampo | 25 | 3 | 0 | 0 | 0 | 2250' |
 | **TOTALE** | — | **54** | **19** | **0** | **0** | **0** | **4860'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Michele Manenti** ha collezionato complessivamente **54 presenze ufficiali**, disputando **4860 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **54 presenze ufficiali**, disputando **4860 minuti** di gioco effettivo, siglando **19 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -142,4 +143,4 @@ Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patr
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 150-162 (Stagioni 1953-1954 e 1954-1955).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Michele Manenti*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Manenti-727).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Michele Manenti*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Manenti-727).

@@ -1,7 +1,7 @@
 ---
 title: Guido Spikofski — L'Ala Danubiana e Capocannoniere Etneo (1955-1957)
-description: Biografia e statistiche di Guido Spikofski, ungherese dal dribbling magico
-  e capocannoniere del Catania nella Serie B 1955-1956 con 10 reti.
+description: Biografia e statistiche di Guido Spikofski, ungherese dal dribbling magico e capocannoniere del Catania nella
+  Serie B 1955-1956 con 10 reti.
 slug: 03-tesserati/calciatori/archivio/g-l/guido-spikofski
 entity_type: calciatore
 status: verified
@@ -28,8 +28,7 @@ tags:
 - ungheria
 - enzo-bellini
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -39,17 +38,30 @@ sources:
   publisher: calciocatania.com
   year: 2026
   url: https://www.calciocatania.com/giocatori/
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Karl-Heinz Spikofski
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Karl-Heinz_Spikofski
+  reference: Dati anagrafici, carriera e presenze verificate
 aliases:
 - tesserati/calciatori/guido-spikofski
 - guido-spikofski
 - tesserati/guido-spikofski
 - calciatori/guido-spikofski
+- tesserati/calciatori/karl-heinz-spikofski
+- karl-heinz-spikofski
+- tesserati/karl-heinz-spikofski
+- calciatori/karl-heinz-spikofski
+- 03-tesserati/calciatori/archivio/g-l/karl-heinz-spikofski
+- Karl-Heinz Spikofski
 total_assists: 0
 minutes_played: 6480
 seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/calciatori/karl-heinz-spikofski.jpg
 ---
 # Guido Spikofski
 
@@ -113,17 +125,19 @@ Capace di saltare l'avversario con finte fulminee e di crossare con precisione m
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.calciocatania.com/giocatori/](https://www.calciocatania.com/giocatori/).
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 164-173 (Stagioni 1955-1956 e 1956-1957).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1953-1954 | Trequartista | 27 | 6 | 0 | 0 | 0 | 2430' |
-| 1954-1955 | Trequartista | 29 | 7 | 0 | 0 | 0 | 2610' |
-| 1955-1956 | Trequartista | 16 | 2 | 0 | 0 | 0 | 1440' |
+| **1954-1955** | Trequartista | 27 | 6 | 0 | 0 | 0 | 2430' |
+| **1955-1956** | Trequartista | 29 | 7 | 0 | 0 | 0 | 2610' |
+| **1956-1957** | Trequartista | 16 | 2 | 0 | 0 | 0 | 1440' |
+| **TOTALE** | — | **72** | **15** | **0** | **0** | **0** | **6480'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 72 presenze e 15 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **72 presenze ufficiali**, disputando **6480 minuti** di gioco effettivo, siglando **15 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

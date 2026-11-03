@@ -53,6 +53,7 @@ minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 122637
 ---
 # Ameth Fall — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2013</td>
+        <td colspan="3">2013–2014</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +105,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2013-2014** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ameth Fall** ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

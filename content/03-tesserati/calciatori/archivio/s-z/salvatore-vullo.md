@@ -45,6 +45,7 @@ minutes_played: 1951
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 262472
 ---
 # Salvatore Vullo — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1985–1986</td>
+        <td colspan="3">1986–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,11 +96,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1985-1986** | Terzino sinistro | 29 | 0 | 0 | 0 | 1 | 1951' |
+| **1986-1987** | Terzino sinistro | 29 | 0 | 0 | 0 | 1 | 1951' |
 | **TOTALE** | — | **29** | **0** | **0** | **0** | **1** | **1951'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Salvatore Vullo** ha collezionato complessivamente **29 presenze ufficiali**, disputando **1951 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **29 presenze ufficiali**, disputando **1951 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -120,5 +121,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Salvatore Vullo](https://it.wikipedia.org/wiki/Salvatore_Vullo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Vullo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Vullo-450](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Vullo-450), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Vullo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Vullo-450)/giocatori/giocatori.php?Vullo-450), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -45,6 +45,7 @@ minutes_played: 4140
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 591793
 ---
 # Enzo Garavoglia — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1948–1950</td>
+        <td colspan="3">1949–1951</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1948-1949** | Attacco | 22 | 5 | 0 | 0 | 0 | 1980' |
-| **1949-1950** | Attacco | 24 | 6 | 0 | 0 | 0 | 2160' |
+| **1949-1950** | Attacco | 22 | 5 | 0 | 0 | 0 | 1980' |
+| **1950-1951** | Attacco | 24 | 6 | 0 | 0 | 0 | 2160' |
 | **TOTALE** | — | **46** | **11** | **0** | **0** | **0** | **4140'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Enzo Garavoglia** ha collezionato complessivamente **46 presenze ufficiali**, disputando **4140 minuti** di gioco effettivo, siglando **11 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **46 presenze ufficiali**, disputando **4140 minuti** di gioco effettivo, siglando **11 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Enzo Garavoglia](https://it.wikipedia.org/wiki/Enzo_Garavoglia)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Enzo Garavoglia*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Garavoglia-758](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Garavoglia-758), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Enzo Garavoglia*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Garavoglia-758)/giocatori/giocatori.php?Garavoglia-758), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

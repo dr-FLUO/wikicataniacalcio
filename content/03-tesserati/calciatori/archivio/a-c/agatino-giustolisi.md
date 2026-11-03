@@ -36,6 +36,7 @@ minutes_played: 604
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 591894
 ---
 # Agatino Giustolisi — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1955</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1972–1977</td>
+        <td colspan="3">1973–1978</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,12 +87,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1972-1973** | Attacco | 2 | 0 | 0 | 0 | 0 | 155' |
-| **1976-1977** | Attacco | 8 | 0 | 0 | 0 | 0 | 449' |
+| **1973-1974** | Attacco | 2 | 0 | 0 | 0 | 0 | 155' |
+| **1977-1978** | Attacco | 8 | 0 | 0 | 0 | 0 | 449' |
 | **TOTALE** | — | **10** | **0** | **0** | **0** | **0** | **604'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Agatino Giustolisi** ha collezionato complessivamente **10 presenze ufficiali**, disputando **604 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **604 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -111,5 +112,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Agatino Giustolisi*, in [https://www.calciocatania.com/giocatori/giocatori.php?Giustolisi-526](https://www.calciocatania.com/giocatori/giocatori.php?Giustolisi-526), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Agatino Giustolisi*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Giustolisi-526), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

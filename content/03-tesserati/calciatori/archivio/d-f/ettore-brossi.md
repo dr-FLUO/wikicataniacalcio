@@ -56,6 +56,7 @@ seasons_count: 1
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 407777
 ---
 # Ettore Brossi
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1936–1938</td>
+        <td colspan="3">1936–1937</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -119,7 +120,7 @@ Con la partenza di Nicolosi al Napoli, nella [[stagioni/1937-1938|Stagione 1937-
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/).
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 68-78 (Stagioni 1936-1937 e 1937-1938).
@@ -128,8 +129,8 @@ Con la partenza di Nicolosi al Napoli, nella [[stagioni/1937-1938|Stagione 1937-
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1935-1936** | Attacco | 3 | 1 | 0 | 0 | 0 | 270' |
+| **1936-1937** | Attacco | 3 | 1 | 0 | 0 | 0 | 270' |
 | **TOTALE** | — | **3** | **1** | **0** | **0** | **0** | **270'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ettore Brossi** ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

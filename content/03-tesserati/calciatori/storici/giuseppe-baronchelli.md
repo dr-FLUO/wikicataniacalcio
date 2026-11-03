@@ -52,17 +52,14 @@ minutes_played: 5145
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 30264
 ---
 # Giuseppe Baronchelli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/152_giuseppe-baronchelli.jpg" alt="Giuseppe Baronchelli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2002</td>
+        <td colspan="3">2000–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Difensore centrale | 25 | 2 | 1 | 4 | 1 | 2205' |
-| **2000-2001** | Difensore centrale | 31 | 1 | 1 | 5 | 1 | 2603' |
-| **2001-2002** | Difensore centrale | 5 | 0 | 0 | 1 | 0 | 337' |
+| **2000-2001** | Difensore centrale | 25 | 2 | 1 | 4 | 1 | 2205' |
+| **2001-2002** | Difensore centrale | 31 | 1 | 1 | 5 | 1 | 2603' |
+| **2002-2003** | Difensore centrale | 5 | 0 | 0 | 1 | 0 | 337' |
 | **TOTALE** | — | **61** | **3** | **2** | **10** | **2** | **5145'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Baronchelli** ha collezionato complessivamente **61 presenze ufficiali**, disputando **5145 minuti** di gioco effettivo, siglando **3 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **61 presenze ufficiali**, disputando **5145 minuti** di gioco effettivo, siglando **3 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giuseppe Baronchelli](https://it.wikipedia.org/wiki/Giuseppe_Baronchelli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Baronchelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baronchelli-152](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baronchelli-152), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Baronchelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baronchelli-152)/giocatori/giocatori.php?Baronchelli-152), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

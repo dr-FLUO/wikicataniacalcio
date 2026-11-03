@@ -58,6 +58,7 @@ minutes_played: 14445
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 293887
 ---
 # Giuseppe Vavassori — Scheda Giocatore nel Calcio Catania
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1960–1966</td>
+        <td colspan="3">1961–1967</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -106,16 +107,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1960-1961** | Portiere | 34 | 0 | 0 | 0 | 0 | 3060' |
 | **1961-1962** | Portiere | 34 | 0 | 0 | 0 | 0 | 3060' |
-| **1962-1963** | Portiere | 24 | 0 | 0 | 0 | 0 | 2160' |
-| **1963-1964** | Portiere | 34 | 0 | 0 | 0 | 0 | 3060' |
-| **1964-1965** | Portiere | 26 | 0 | 0 | 0 | 0 | 2295' |
-| **1965-1966** | Portiere | 9 | 0 | 0 | 0 | 0 | 810' |
+| **1962-1963** | Portiere | 34 | 0 | 0 | 0 | 0 | 3060' |
+| **1963-1964** | Portiere | 24 | 0 | 0 | 0 | 0 | 2160' |
+| **1964-1965** | Portiere | 34 | 0 | 0 | 0 | 0 | 3060' |
+| **1965-1966** | Portiere | 26 | 0 | 0 | 0 | 0 | 2295' |
+| **1966-1967** | Portiere | 9 | 0 | 0 | 0 | 0 | 810' |
 | **TOTALE** | — | **161** | **0** | **0** | **0** | **0** | **14445'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Vavassori** ha collezionato complessivamente **161 presenze ufficiali**, disputando **14445 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **161 presenze ufficiali**, disputando **14445 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giuseppe Vavassori](https://it.wikipedia.org/wiki/Giuseppe_Vavassori_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Vavassori*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Vavassori-621](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Vavassori-621), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Vavassori*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Vavassori-621)/giocatori/giocatori.php?Vavassori-621), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

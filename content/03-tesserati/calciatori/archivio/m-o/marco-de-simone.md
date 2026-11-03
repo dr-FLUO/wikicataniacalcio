@@ -52,17 +52,14 @@ minutes_played: 6984
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 337213
 ---
 # Marco De Simone — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/434_marco-de-simone.jpg" alt="Marco De Simone" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1984–1987</td>
+        <td colspan="3">1985–1988</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1984-1985** | Terzino sinistro | 36 | 0 | 0 | 0 | 2 | 3009' |
-| **1985-1986** | Terzino sinistro | 36 | 1 | 0 | 0 | 4 | 2994' |
-| **1986-1987** | Terzino sinistro | 11 | 0 | 0 | 0 | 0 | 981' |
+| **1985-1986** | Terzino sinistro | 36 | 0 | 0 | 0 | 2 | 3009' |
+| **1986-1987** | Terzino sinistro | 36 | 1 | 0 | 0 | 4 | 2994' |
+| **1987-1988** | Terzino sinistro | 11 | 0 | 0 | 0 | 0 | 981' |
 | **TOTALE** | — | **83** | **1** | **0** | **0** | **6** | **6984'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marco De Simone** ha collezionato complessivamente **83 presenze ufficiali**, disputando **6984 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **83 presenze ufficiali**, disputando **6984 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Marco De Simone](https://it.wikipedia.org/wiki/Marco_De_Simone)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco De Simone*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?De-Simone-434](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?De-Simone-434), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco De Simone*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?De-Simone-434)/giocatori/giocatori.php?De-Simone-434), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -41,11 +41,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Marcello Gazzolla
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Gazzolla-69
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 69
 aliases:
 - tesserati/calciatori/marcello-gazzola
 - marcello-gazzola
 - tesserati/marcello-gazzola
 - calciatori/marcello-gazzola
+- tesserati/calciatori/marcello-gazzolla
+- marcello-gazzolla
+- tesserati/marcello-gazzolla
+- calciatori/marcello-gazzolla
+- 03-tesserati/calciatori/archivio/m-o/marcello-gazzolla
+- Marcello Gazzolla
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -53,6 +65,7 @@ minutes_played: 395
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 57643
 ---
 # Marcello Gazzola — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +93,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2007</td>
+        <td colspan="3">2007–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +117,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Terzino destro | 7 | 0 | 0 | 1 | 0 | 395' |
+| **2007-2008** | Terzino destro | 7 | 0 | 0 | 1 | 0 | 395' |
 | **TOTALE** | — | **7** | **0** | **0** | **1** | **0** | **395'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marcello Gazzola** ha collezionato complessivamente **7 presenze ufficiali**, disputando **395 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **395 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

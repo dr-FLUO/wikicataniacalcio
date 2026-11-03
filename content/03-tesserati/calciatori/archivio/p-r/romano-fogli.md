@@ -53,6 +53,7 @@ minutes_played: 11364
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 235932
 ---
 # Romano Fogli — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1969–1973</td>
+        <td colspan="3">1970–1974</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,14 +102,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1969-1970** | Mediano | 29 | 2 | 0 | 0 | 0 | 2610' |
-| **1970-1971** | Mediano | 34 | 3 | 0 | 0 | 0 | 3032' |
-| **1971-1972** | Mediano | 38 | 0 | 0 | 0 | 0 | 3403' |
-| **1972-1973** | Mediano | 27 | 0 | 0 | 0 | 0 | 2319' |
+| **1970-1971** | Mediano | 29 | 2 | 0 | 0 | 0 | 2610' |
+| **1971-1972** | Mediano | 34 | 3 | 0 | 0 | 0 | 3032' |
+| **1972-1973** | Mediano | 38 | 0 | 0 | 0 | 0 | 3403' |
+| **1973-1974** | Mediano | 27 | 0 | 0 | 0 | 0 | 2319' |
 | **TOTALE** | — | **128** | **5** | **0** | **0** | **0** | **11364'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Romano Fogli** ha collezionato complessivamente **128 presenze ufficiali**, disputando **11364 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **128 presenze ufficiali**, disputando **11364 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Romano Fogli](https://it.wikipedia.org/wiki/Romano_Fogli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Romano Fogli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fogli-559](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fogli-559), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Romano Fogli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Fogli-559)/giocatori/giocatori.php?Fogli-559), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

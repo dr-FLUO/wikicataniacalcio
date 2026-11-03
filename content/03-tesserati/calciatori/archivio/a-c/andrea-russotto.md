@@ -63,6 +63,7 @@ minutes_played: 8348
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20590
 ---
 # Andrea Russotto — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2022</td>
+        <td colspan="3">2015–2023</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,16 +111,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Trequartista | 26 | 6 | 2 | 7 | 1 | 1812' |
-| **2015-2016** | Trequartista | 33 | 2 | 4 | 3 | 0 | 2123' |
-| **2016-2017** | Trequartista | 32 | 8 | 7 | 5 | 0 | 1940' |
-| **2019-2020** | Trequartista | 13 | 4 | 2 | 1 | 0 | 946' |
-| **2020-2021** | Trequartista | 1 | 0 | 0 | 1 | 0 | 102' |
-| **2021-2022** | Trequartista | 29 | 8 | 6 | 4 | 0 | 1425' |
+| **2015-2016** | Trequartista | 26 | 6 | 2 | 7 | 1 | 1812' |
+| **2016-2017** | Trequartista | 33 | 2 | 4 | 3 | 0 | 2123' |
+| **2017-2018** | Trequartista | 32 | 8 | 7 | 5 | 0 | 1940' |
+| **2020-2021** | Trequartista | 13 | 4 | 2 | 1 | 0 | 946' |
+| **2021-2022** | Trequartista | 1 | 0 | 0 | 1 | 0 | 102' |
+| **2022-2023** | Trequartista | 29 | 8 | 6 | 4 | 0 | 1425' |
 | **TOTALE** | — | **134** | **28** | **21** | **21** | **1** | **8348'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Russotto** ha collezionato complessivamente **134 presenze ufficiali**, disputando **8348 minuti** di gioco effettivo, siglando **28 gol** e servendo **21 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **134 presenze ufficiali**, disputando **8348 minuti** di gioco effettivo, siglando **28 gol** e servendo **21 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -140,5 +141,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Andrea Russotto](https://it.wikipedia.org/wiki/Andrea_Russotto)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Russotto*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Russotto-868](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Russotto-868), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Russotto*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Russotto-868)/giocatori/giocatori.php?Russotto-868), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

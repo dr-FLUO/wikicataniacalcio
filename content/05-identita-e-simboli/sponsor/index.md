@@ -69,6 +69,9 @@ sources:
   year: 2026
   reference: Schede societarie, fornitori tecnici e sponsorizzazioni ufficiali
 aliases:
+- 05-identita-e-simboli/sponsor/storia-sponsor-tecnici-e-ufficiali
+- sponsor/storia-sponsor-tecnici-e-ufficiali
+- storia-sponsor-tecnici-e-ufficiali
 - simboli/sponsor
 - maglie/sponsor
 - 05-identita-e-simboli/sponsor/sponsor-tecnici

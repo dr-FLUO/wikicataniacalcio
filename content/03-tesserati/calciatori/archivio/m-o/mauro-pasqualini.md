@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Mario Pasqualini
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Pasqualini-609
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 609
 aliases:
 - tesserati/calciatori/mauro-pasqualini
 - mauro-pasqualini
 - tesserati/mauro-pasqualini
 - calciatori/mauro-pasqualini
+- tesserati/calciatori/mario-pasqualini
+- mario-pasqualini
+- tesserati/mario-pasqualini
+- calciatori/mario-pasqualini
+- 03-tesserati/calciatori/archivio/m-o/mario-pasqualini
+- Mario Pasqualini
 citizenship: Italia
 total_goals: 2
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 1080
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 483277
 ---
 # Mauro Pasqualini — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1966–1967</td>
+        <td colspan="3">1967–1968</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +108,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1966-1967** | Ala sinistra | 12 | 2 | 0 | 0 | 0 | 1080' |
+| **1967-1968** | Ala sinistra | 12 | 2 | 0 | 0 | 0 | 1080' |
 | **TOTALE** | — | **12** | **2** | **0** | **0** | **0** | **1080'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mauro Pasqualini** ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

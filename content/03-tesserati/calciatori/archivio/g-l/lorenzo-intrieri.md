@@ -36,6 +36,7 @@ minutes_played: 5496
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 726064
 ---
 # Lorenzo Intrieri — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1969</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1994–1997</td>
+        <td colspan="3">1995–1998</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,13 +87,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1994-1995** | Attacco | 23 | 4 | 0 | 0 | 0 | 1679' |
-| **1995-1996** | Attacco | 29 | 2 | 0 | 0 | 0 | 1575' |
-| **1996-1997** | Attacco | 32 | 3 | 0 | 0 | 0 | 2242' |
+| **1995-1996** | Attacco | 23 | 4 | 0 | 0 | 0 | 1679' |
+| **1996-1997** | Attacco | 29 | 2 | 0 | 0 | 0 | 1575' |
+| **1997-1998** | Attacco | 32 | 3 | 0 | 0 | 0 | 2242' |
 | **TOTALE** | — | **84** | **9** | **0** | **0** | **0** | **5496'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lorenzo Intrieri** ha collezionato complessivamente **84 presenze ufficiali**, disputando **5496 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **5496 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -112,5 +113,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Intrieri*, in [https://www.calciocatania.com/giocatori/giocatori.php?Intrieri-273](https://www.calciocatania.com/giocatori/giocatori.php?Intrieri-273), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Intrieri*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Intrieri-273), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

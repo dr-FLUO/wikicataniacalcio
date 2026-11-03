@@ -41,6 +41,11 @@ aliases:
 - nicola-d-ottavio
 - tesserati/nicola-d-ottavio
 - calciatori/nicola-d-ottavio
+- 03-tesserati/calciatori/archivio/m-o/nicola-daposottavio
+- nicola-daposottavio
+- tesserati/calciatori/nicola-daposottavio
+- calciatori/nicola-daposottavio
+- 03-tesserati/calciatori/archivio/m-o/nicola-d-ottavio
 citizenship: Italia
 total_goals: 10
 total_assists: 0
@@ -48,6 +53,7 @@ minutes_played: 4039
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 394030
 ---
 # Nicola D'Ottavio — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1987–1990</td>
+        <td colspan="3">1988–1990</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,9 +106,9 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1988-1990, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1987-1988** | Punta centrale | 22 | 4 | 0 | 1 | 0 | 1731' |
-| **1988-1989** | Punta centrale | 29 | 6 | 0 | 0 | 0 | 2308' |
+| **1988-1989** | Punta centrale | 22 | 4 | 0 | 1 | 0 | 1731' |
+| **1989-1990** | Punta centrale | 29 | 6 | 0 | 0 | 0 | 2308' |
 | **TOTALE** | — | **51** | **10** | **0** | **1** | **0** | **4039'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nicola D'Ottavio** ha collezionato complessivamente **51 presenze ufficiali**, disputando **4039 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **51 presenze ufficiali**, disputando **4039 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

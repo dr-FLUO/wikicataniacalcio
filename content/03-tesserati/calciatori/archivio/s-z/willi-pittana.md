@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Willy Pittana
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Pittana-366
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 366
 aliases:
 - tesserati/calciatori/willi-pittana
 - willi-pittana
 - tesserati/willi-pittana
 - calciatori/willi-pittana
+- tesserati/calciatori/willy-pittana
+- willy-pittana
+- tesserati/willy-pittana
+- calciatori/willy-pittana
+- 03-tesserati/calciatori/archivio/s-z/willy-pittana
+- Willy Pittana
 citizenship: Italia
 total_goals: 2
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 1985
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 224589
 ---
 # Willi Pittana — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1991–1992</td>
+        <td colspan="3">1992–1993</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +108,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1991-1992** | Centrocampo | 26 | 2 | 0 | 1 | 0 | 1985' |
+| **1992-1993** | Centrocampo | 26 | 2 | 0 | 1 | 0 | 1985' |
 | **TOTALE** | — | **26** | **2** | **0** | **1** | **0** | **1985'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Willi Pittana** ha collezionato complessivamente **26 presenze ufficiali**, disputando **1985 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **1985 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

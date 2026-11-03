@@ -35,17 +35,30 @@ sources:
   publisher: calciocatania.com
   year: 2026
   url: https://www.calciocatania.com/giocatori/
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Tiziano D&apos;Isidoro
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?D-Isidoro-283
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 283
 aliases:
 - tesserati/calciatori/tiziano-disidoro
 - tiziano-disidoro
 - tesserati/tiziano-disidoro
 - calciatori/tiziano-disidoro
+- tesserati/calciatori/tiziano-daposisidoro
+- tiziano-daposisidoro
+- tesserati/tiziano-daposisidoro
+- calciatori/tiziano-daposisidoro
+- 03-tesserati/calciatori/archivio/s-z/tiziano-daposisidoro
+- Tiziano D'Isidoro
 total_assists: 0
 minutes_played: 4330
 seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 700890
 ---
 # Tiziano D'Isidoro
 
@@ -64,9 +77,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1969</td>
+        <td>1967</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -109,7 +122,7 @@ Dopo aver segnato 8 reti nel 1995-1996 e 3 in Coppa Italia, nel 1996-1997 D'Isid
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.calciocatania.com/giocatori/](https://www.calciocatania.com/giocatori/).
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 386-394 (Stagioni 1995-1996 e 1996-1997).
@@ -118,9 +131,9 @@ Dopo aver segnato 8 reti nel 1995-1996 e 3 in Coppa Italia, nel 1996-1997 D'Isid
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1994-1995** | Attacco | 31 | 9 | 0 | 0 | 0 | 2048' |
-| **1995-1996** | Attacco | 31 | 13 | 0 | 0 | 0 | 2282' |
+| **1995-1996** | Attacco | 31 | 9 | 0 | 0 | 0 | 2048' |
+| **1996-1997** | Attacco | 31 | 13 | 0 | 0 | 0 | 2282' |
 | **TOTALE** | — | **62** | **22** | **0** | **0** | **0** | **4330'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Tiziano D'Isidoro** ha collezionato complessivamente **62 presenze ufficiali**, disputando **4330 minuti** di gioco effettivo, siglando **22 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **62 presenze ufficiali**, disputando **4330 minuti** di gioco effettivo, siglando **22 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

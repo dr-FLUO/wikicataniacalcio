@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Mirko Antenucci
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Antenucci-79
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 79
 image: assets/images/calciatori/mirco-antenucci.jpg
 image_credits:
 - image_path: assets/images/calciatori/mirco-antenucci.jpg
@@ -51,6 +57,12 @@ aliases:
 - mirco-antenucci
 - tesserati/mirco-antenucci
 - calciatori/mirco-antenucci
+- tesserati/calciatori/mirko-antenucci
+- mirko-antenucci
+- tesserati/mirko-antenucci
+- calciatori/mirko-antenucci
+- 03-tesserati/calciatori/archivio/m-o/mirko-antenucci
+- Mirko Antenucci
 citizenship: Italia
 total_goals: 3
 total_assists: 2
@@ -58,6 +70,7 @@ minutes_played: 858
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 83458
 ---
 # Mirco Antenucci — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +98,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2013</td>
+        <td colspan="3">2007–2014</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,12 +122,12 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2007-2008** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 196' |
-| **2009-2010** | Punta centrale | 17 | 3 | 2 | 0 | 0 | 648' |
-| **2011-2012** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 14' |
-| **2012-2013** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2007-2008** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2008-2009** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 196' |
+| **2010-2011** | Punta centrale | 17 | 3 | 2 | 0 | 0 | 648' |
+| **2012-2013** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 14' |
+| **2013-2014** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **24** | **3** | **2** | **0** | **0** | **858'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mirco Antenucci** ha collezionato complessivamente **24 presenze ufficiali**, disputando **858 minuti** di gioco effettivo, siglando **3 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **24 presenze ufficiali**, disputando **858 minuti** di gioco effettivo, siglando **3 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.

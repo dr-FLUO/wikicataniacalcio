@@ -43,10 +43,15 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/filip-jankovic
-- filip-jankovic
-- tesserati/filip-jankovic
+- 03-tesserati/calciatori/archivio/d-f/filip-jankovi
+- 03-tesserati/calciatori/filip-jankovi
+- calciatori/filip-jankovi
 - calciatori/filip-jankovic
+- filip-jankovi
+- tesserati/calciatori/filip-jankovi
+- tesserati/calciatori/filip-jankovic
+- tesserati/filip-jankovi
+- tesserati/filip-jankovic
 birth_date: '1995-01-17'
 birth_place: Belgrado
 citizenship: Serbia
@@ -56,6 +61,7 @@ minutes_played: 320
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 168951
 ---
 # Filip Jankovic — Scheda Giocatore nel Calcio Catania
 
@@ -83,7 +89,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -103,11 +109,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Centrocampista | 8 | 0 | 1 | 1 | 0 | 320' |
+| **2014-2015** | Centrocampista | 8 | 0 | 1 | 1 | 0 | 320' |
 | **TOTALE** | — | **8** | **0** | **1** | **1** | **0** | **320'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Filip Jankovic** ha collezionato complessivamente **8 presenze ufficiali**, disputando **320 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **320 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +133,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Filip Jankovic*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Jankovic-849](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Jankovic-849), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Filip Jankovic*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Jankovic-849), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

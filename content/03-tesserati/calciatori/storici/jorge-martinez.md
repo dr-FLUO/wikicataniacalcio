@@ -65,16 +65,28 @@ sources:
   reference: 'ID 74: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Martinez-74
 aliases:
-- tesserati/calciatori/jorge-martinez
-- jorge-martinez
-- tesserati/jorge-martinez
+- 03-tesserati/calciatori/archivio/g-l/jorge-andres-barrios-martinez
+- 03-tesserati/calciatori/archivio/g-l/jorge-andres-martinez
+- 03-tesserati/calciatori/jorge-andres-barrios-martinez
+- 03-tesserati/calciatori/jorge-andres-martinez
+- calciatori/jorge-andres-barrios-martinez
+- calciatori/jorge-andres-martinez
 - calciatori/jorge-martinez
+- jorge-andres-barrios-martinez
+- jorge-andres-martinez
+- tesserati/calciatori/jorge-andres-barrios-martinez
+- tesserati/calciatori/jorge-andres-martinez
+- tesserati/calciatori/jorge-martinez
+- tesserati/jorge-andres-barrios-martinez
+- tesserati/jorge-andres-martinez
+- tesserati/jorge-martinez
 total_assists: 5
 minutes_played: 6287
 seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 55800
 ---
 # Jorge Martínez
 
@@ -96,9 +108,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>ND</td>
+        <td>178 cm</td>
         <th>Piede</th>
-        <td>ND</td>
+        <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
@@ -179,13 +191,13 @@ Il **1º luglio 2010**, la Juventus acquista Jorge Martínez a titolo definitivo
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Ala destra | 36 | 9 | 2 | 9 | 0 | 2309' |
-| **2007-2008** | Ala destra | 32 | 5 | 0 | 5 | 0 | 2142' |
-| **2008-2009** | Ala destra | 26 | 9 | 3 | 4 | 0 | 1836' |
+| **2007-2008** | Ala destra | 36 | 9 | 2 | 9 | 0 | 2309' |
+| **2008-2009** | Ala destra | 32 | 5 | 0 | 5 | 0 | 2142' |
+| **2009-2010** | Ala destra | 26 | 9 | 3 | 4 | 0 | 1836' |
 | **TOTALE** | — | **94** | **23** | **5** | **18** | **0** | **6287'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Jorge Martínez** ha collezionato complessivamente **94 presenze ufficiali**, disputando **6287 minuti** di gioco effettivo, siglando **23 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **94 presenze ufficiali**, disputando **6287 minuti** di gioco effettivo, siglando **23 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia

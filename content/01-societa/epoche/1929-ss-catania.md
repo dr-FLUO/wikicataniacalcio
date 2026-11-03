@@ -13,7 +13,7 @@ figc_matricola: N/A (Pre-1946)
 presidents_refs:
 - Santi Quasimodo (1929-1930)
 - Giuseppe 'Geppino' Fusco (1930-1931)
-- '[[societa/presidenti/vespasiano-trigona|Vespasiano Trigona, Duca di Misterbianco
+- '[[societa/presidenti/vespasiano-trigona]] |Vespasiano Trigona, Duca di Misterbianco
   (1932-1936)]]'
 - Vittorio Emanuele Brusca e Filippo Cusmano
 coaches_refs:

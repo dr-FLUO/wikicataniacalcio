@@ -53,6 +53,7 @@ minutes_played: 13608
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 388629
 ---
 # Giorgio Bernardis — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1967–1972</td>
+        <td colspan="3">1968–1973</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,15 +102,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1967-1968** | Mediano | 6 | 0 | 0 | 0 | 0 | 463' |
-| **1968-1969** | Mediano | 34 | 1 | 0 | 0 | 0 | 2885' |
-| **1969-1970** | Mediano | 33 | 2 | 0 | 0 | 0 | 2970' |
-| **1970-1971** | Mediano | 41 | 3 | 0 | 0 | 0 | 3690' |
-| **1971-1972** | Mediano | 40 | 2 | 0 | 0 | 0 | 3600' |
+| **1968-1969** | Mediano | 6 | 0 | 0 | 0 | 0 | 463' |
+| **1969-1970** | Mediano | 34 | 1 | 0 | 0 | 0 | 2885' |
+| **1970-1971** | Mediano | 33 | 2 | 0 | 0 | 0 | 2970' |
+| **1971-1972** | Mediano | 41 | 3 | 0 | 0 | 0 | 3690' |
+| **1972-1973** | Mediano | 40 | 2 | 0 | 0 | 0 | 3600' |
 | **TOTALE** | — | **154** | **8** | **0** | **0** | **0** | **13608'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giorgio Bernardis** ha collezionato complessivamente **154 presenze ufficiali**, disputando **13608 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **154 presenze ufficiali**, disputando **13608 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giorgio Bernardis](https://it.wikipedia.org/wiki/Giorgio_Bernardis)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Bernardis*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bernardis-569](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bernardis-569), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Bernardis*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bernardis-569)/giocatori/giocatori.php?Bernardis-569), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

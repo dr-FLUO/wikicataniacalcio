@@ -63,6 +63,7 @@ minutes_played: 1357
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 102368
 ---
 # Daniele Sciaudone — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,11 +111,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Centrocampista | 18 | 2 | 3 | 5 | 0 | 1357' |
+| **2014-2015** | Centrocampista | 18 | 2 | 3 | 5 | 0 | 1357' |
 | **TOTALE** | — | **18** | **2** | **3** | **5** | **0** | **1357'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Daniele Sciaudone** ha collezionato complessivamente **18 presenze ufficiali**, disputando **1357 minuti** di gioco effettivo, siglando **2 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **18 presenze ufficiali**, disputando **1357 minuti** di gioco effettivo, siglando **2 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Daniele Sciaudone](https://it.wikipedia.org/wiki/Daniele_Sciaudone)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Daniele Sciaudone*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Sciaudone-862](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Sciaudone-862), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Daniele Sciaudone*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sciaudone-862)/giocatori/giocatori.php?Sciaudone-862), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

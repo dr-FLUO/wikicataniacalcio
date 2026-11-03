@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/albano-bizzarri
-- albano-bizzarri
-- tesserati/albano-bizzarri
+- 03-tesserati/calciatori/albano-benjamin-bizzarri
+- 03-tesserati/calciatori/archivio/a-c/albano-benjamin-bizzarri
+- albano-benjamin-bizzarri
+- calciatori/albano-benjamin-bizzarri
 - calciatori/albano-bizzarri
+- tesserati/albano-benjamin-bizzarri
+- tesserati/albano-bizzarri
+- tesserati/calciatori/albano-benjamin-bizzarri
+- tesserati/calciatori/albano-bizzarri
 citizenship: Argentina
 total_goals: 0
 total_assists: 1
@@ -58,6 +63,7 @@ minutes_played: 4170
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 7797
 ---
 # Albano Bizzarri — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2008</td>
+        <td colspan="3">2007–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,9 +115,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Portiere | 12 | 0 | 0 | 0 | 0 | 1080' |
-| **2007-2008** | Portiere | 34 | 0 | 1 | 3 | 0 | 3090' |
+| **2007-2008** | Portiere | 12 | 0 | 0 | 0 | 0 | 1080' |
+| **2008-2009** | Portiere | 34 | 0 | 1 | 3 | 0 | 3090' |
 | **TOTALE** | — | **46** | **0** | **1** | **3** | **0** | **4170'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Albano Bizzarri** ha collezionato complessivamente **46 presenze ufficiali**, disputando **4170 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **46 presenze ufficiali**, disputando **4170 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.

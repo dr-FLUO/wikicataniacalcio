@@ -67,11 +67,6 @@ image_credits:
   author_or_archive: Archivio Storico e Iconografico Calcio Catania
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
-- image_path: assets/images/calciatori/gonzalo-bergessio.jpg
-  alt_text: Ritratto ufficiale di Gonzalo Bergessio in maglia rossazzurra
-  author_or_archive: Archivio Storico e Iconografico Calcio Catania
-  year: 2026
-  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/gonzalo-bergessio.jpg
   alt_text: 'Ritratto ufficiale di Gonzalo Bergessio — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -87,6 +82,7 @@ seasons_count: 4
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 52328
 ---
 # Gonzalo Bergessio
 
@@ -169,14 +165,14 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2009-2010** | Punta centrale | 13 | 5 | 2 | 2 | 0 | 1058' |
-| **2010-2011** | Punta centrale | 34 | 7 | 4 | 2 | 0 | 2568' |
-| **2011-2012** | Punta centrale | 36 | 15 | 5 | 9 | 0 | 2942' |
-| **2012-2013** | Punta centrale | 30 | 10 | 3 | 7 | 0 | 2424' |
+| **2010-2011** | Punta centrale | 13 | 5 | 2 | 2 | 0 | 1058' |
+| **2011-2012** | Punta centrale | 34 | 7 | 4 | 2 | 0 | 2568' |
+| **2012-2013** | Punta centrale | 36 | 15 | 5 | 9 | 0 | 2942' |
+| **2013-2014** | Punta centrale | 30 | 10 | 3 | 7 | 0 | 2424' |
 | **TOTALE** | — | **113** | **37** | **14** | **20** | **0** | **8992'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gonzalo Bergessio** ha collezionato complessivamente **113 presenze ufficiali**, disputando **8992 minuti** di gioco effettivo, siglando **37 gol** e servendo **14 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **113 presenze ufficiali**, disputando **8992 minuti** di gioco effettivo, siglando **37 gol** e servendo **14 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -185,4 +181,4 @@ Nella travagliata [[stagioni/2013-2014|Stagione 2013-2014]], pur condizionato da
 1. **Lega Nazionale Professionisti Serie A**, *Archivio Statistico Ufficiale Serie A TIM (2010–2014) — Scheda Gonzalo Rubén Bergessio*, 109 presenze e 35 reti in Serie A.
 2. **Roberto Quartarone, Alessandro Russo**, *Gonzalo Bergessio nella storia: 35 volte "El Lavandina" in Serie A*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2014.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Gonzalo  Bergessio*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bergessio-16).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Gonzalo  Bergessio*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Bergessio-16).

@@ -56,6 +56,7 @@ minutes_played: 14921
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 521826
 ---
 # Adriano Polenta
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1986–1988</td>
+        <td colspan="3">1984–1989</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,15 +122,15 @@ Dotato di un senso della posizione impeccabile e di grande personalità nell'imp
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1983-1984** | Libero | 31 | 1 | 0 | 0 | 0 | 2790' |
-| **1984-1985** | Libero | 36 | 2 | 0 | 0 | 0 | 3074' |
-| **1985-1986** | Libero | 40 | 2 | 0 | 0 | 1 | 3560' |
-| **1986-1987** | Libero | 34 | 6 | 0 | 0 | 0 | 2977' |
-| **1987-1988** | Libero | 28 | 3 | 0 | 1 | 0 | 2520' |
+| **1984-1985** | Libero | 31 | 1 | 0 | 0 | 0 | 2790' |
+| **1985-1986** | Libero | 36 | 2 | 0 | 0 | 0 | 3074' |
+| **1986-1987** | Libero | 40 | 2 | 0 | 0 | 1 | 3560' |
+| **1987-1988** | Libero | 34 | 6 | 0 | 0 | 0 | 2977' |
+| **1988-1989** | Libero | 28 | 3 | 0 | 1 | 0 | 2520' |
 | **TOTALE** | — | **169** | **14** | **0** | **1** | **1** | **14921'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adriano Polenta** ha collezionato complessivamente **169 presenze ufficiali**, disputando **14921 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **169 presenze ufficiali**, disputando **14921 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -137,4 +138,4 @@ Dotato di un senso della posizione impeccabile e di grande personalità nell'imp
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 340-346 (Stagione 1987-1988 e spareggio di Cosenza).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Adriano Polenta*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Polenta-424).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Adriano Polenta*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Polenta-424).

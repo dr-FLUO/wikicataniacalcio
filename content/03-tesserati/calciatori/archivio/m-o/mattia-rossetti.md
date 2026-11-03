@@ -56,6 +56,7 @@ minutes_played: 951
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 287337
 ---
 # Mattia Rossetti — Scheda Giocatore nel Calcio Catania
 
@@ -83,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2019</td>
+        <td colspan="3">2014–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -103,16 +104,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Punta centrale | 7 | 1 | 0 | 0 | 0 | 147' |
-| **2014-2015** | Punta centrale | 7 | 0 | 0 | 0 | 0 | 388' |
-| **2015-2016** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2016-2017** | Punta centrale | 5 | 1 | 0 | 0 | 0 | 122' |
-| **2017-2018** | Punta centrale | 2 | 3 | 0 | 0 | 0 | 158' |
-| **2018-2019** | Punta centrale | 4 | 0 | 0 | 0 | 0 | 136' |
+| **2014-2015** | Punta centrale | 7 | 1 | 0 | 0 | 0 | 147' |
+| **2015-2016** | Punta centrale | 7 | 0 | 0 | 0 | 0 | 388' |
+| **2016-2017** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2017-2018** | Punta centrale | 5 | 1 | 0 | 0 | 0 | 122' |
+| **2018-2019** | Punta centrale | 2 | 3 | 0 | 0 | 0 | 158' |
+| **2019-2020** | Punta centrale | 4 | 0 | 0 | 0 | 0 | 136' |
 | **TOTALE** | — | **25** | **5** | **0** | **0** | **0** | **951'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mattia Rossetti** ha collezionato complessivamente **25 presenze ufficiali**, disputando **951 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **951 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +133,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mattia Rossetti*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rossetti-854](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rossetti-854), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mattia Rossetti*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Rossetti-854)/giocatori/giocatori.php?Rossetti-854), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Georgios Kiriazis
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Kiriazis-166
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 166
 image: assets/images/calciatori/georgios-kyriazis.jpg
 image_credits:
 - image_path: assets/images/calciatori/georgios-kyriazis.jpg
@@ -51,6 +57,12 @@ aliases:
 - georgios-kyriazis
 - tesserati/georgios-kyriazis
 - calciatori/georgios-kyriazis
+- tesserati/calciatori/georgios-kiriazis
+- georgios-kiriazis
+- tesserati/georgios-kiriazis
+- calciatori/georgios-kiriazis
+- 03-tesserati/calciatori/archivio/g-l/georgios-kiriazis
+- Georgios Kiriazis
 citizenship: Grecia
 total_goals: 1
 total_assists: 0
@@ -58,6 +70,7 @@ minutes_played: 1080
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 23246
 ---
 # Georgios Kyriazis — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +98,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2002</td>
+        <td colspan="3">2002–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +122,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Difensore centrale | 12 | 1 | 0 | 1 | 0 | 1080' |
+| **2002-2003** | Difensore centrale | 12 | 1 | 0 | 1 | 0 | 1080' |
 | **TOTALE** | — | **12** | **1** | **0** | **1** | **0** | **1080'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Georgios Kyriazis** ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

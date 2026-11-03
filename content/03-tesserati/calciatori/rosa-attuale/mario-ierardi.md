@@ -62,6 +62,7 @@ minutes_played: 5113
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 370704
 ---
 # Mario Ierardi — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1998</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Difensore centrale | 28 | 2 | 0 | 11 | 0 | 2238' |
-| **2024-2025** | Difensore centrale | 27 | 4 | 1 | 1 | 1 | 1954' |
-| **2025-2026** | Difensore centrale | 11 | 2 | 0 | 1 | 0 | 921' |
+| **2024-2025** | Difensore centrale | 28 | 2 | 0 | 11 | 0 | 2238' |
+| **2025-2026** | Difensore centrale | 27 | 4 | 1 | 1 | 1 | 1954' |
+| **2026-2027** | Difensore centrale | 11 | 2 | 0 | 1 | 0 | 921' |
 | **TOTALE** | — | **66** | **8** | **1** | **13** | **1** | **5113'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mario Ierardi** ha collezionato complessivamente **66 presenze ufficiali**, disputando **5113 minuti** di gioco effettivo, siglando **8 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **66 presenze ufficiali**, disputando **5113 minuti** di gioco effettivo, siglando **8 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mario Ierardi*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ierardi-1076](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ierardi-1076), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mario Ierardi*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ierardi-1076), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

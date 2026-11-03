@@ -23,7 +23,7 @@ coaches_refs:
 stadium_refs:
 - '[[stadio/angelo-massimino|Stadio Cibali]]'
 prev_era: '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-next_era: '[[societa/2000-era-gaucci|Calcio Catania S.p.A. — Risalita dall''Eccellenza
+next_era: '[[societa/2000-era-gaucci]] |Calcio Catania S.p.A. — Risalita dall''Eccellenza
   e Gestione Gaucci (1993-2004)]]'
 tags:
 - calcio-catania-spa

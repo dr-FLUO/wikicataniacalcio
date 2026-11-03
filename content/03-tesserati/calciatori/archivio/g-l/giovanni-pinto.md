@@ -53,6 +53,7 @@ minutes_played: 4986
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 397797
 ---
 # Giovanni Pinto — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1992</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2018–2021</td>
+        <td colspan="3">2019–2022</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2018-2019** | Terzino sinistro | 33 | 1 | 3 | 6 | 0 | 2829' |
-| **2019-2020** | Terzino sinistro | 27 | 0 | 2 | 6 | 0 | 2022' |
-| **2020-2021** | Terzino sinistro | 2 | 0 | 0 | 2 | 0 | 135' |
+| **2019-2020** | Terzino sinistro | 33 | 1 | 3 | 6 | 0 | 2829' |
+| **2020-2021** | Terzino sinistro | 27 | 0 | 2 | 6 | 0 | 2022' |
+| **2021-2022** | Terzino sinistro | 2 | 0 | 0 | 2 | 0 | 135' |
 | **TOTALE** | — | **62** | **1** | **5** | **14** | **0** | **4986'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Pinto** ha collezionato complessivamente **62 presenze ufficiali**, disputando **4986 minuti** di gioco effettivo, siglando **1 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **62 presenze ufficiali**, disputando **4986 minuti** di gioco effettivo, siglando **1 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Pinto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pinto-934](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pinto-934), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Pinto*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pinto-934), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

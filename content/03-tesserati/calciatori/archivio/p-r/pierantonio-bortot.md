@@ -52,17 +52,14 @@ minutes_played: 2876
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 401428
 ---
 # Pierantonio Bortot — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/522_pierantonio-bortot.jpg" alt="Pierantonio Bortot" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1977</td>
+        <td colspan="3">1976–1978</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Ala destra | 11 | 1 | 0 | 0 | 0 | 671' |
-| **1976-1977** | Ala destra | 25 | 7 | 0 | 0 | 0 | 2205' |
+| **1976-1977** | Ala destra | 11 | 1 | 0 | 0 | 0 | 671' |
+| **1977-1978** | Ala destra | 25 | 7 | 0 | 0 | 0 | 2205' |
 | **TOTALE** | — | **36** | **8** | **0** | **0** | **0** | **2876'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pierantonio Bortot** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pierantonio Bortot](https://it.wikipedia.org/wiki/Pierantonio_Bortot)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pierantonio Bortot*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bortot-522](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bortot-522), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pierantonio Bortot*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bortot-522)/giocatori/giocatori.php?Bortot-522), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

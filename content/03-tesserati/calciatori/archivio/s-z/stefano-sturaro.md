@@ -56,6 +56,7 @@ minutes_played: 1370
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 167859
 ---
 # Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania FC
 
@@ -83,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–2026</td>
+        <td colspan="3">2023–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -120,12 +121,12 @@ Ingaggiato per fungere da guida dentro e fuori dal campo:
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2022-2023** | Centrocampista | 10 | 0 | 1 | 1 | 0 | 507' |
-| **2023-2024** | Centrocampista | 17 | 0 | 2 | 4 | 0 | 863' |
+| **2023-2024** | Centrocampista | 10 | 0 | 1 | 1 | 0 | 507' |
+| **2024-2025** | Centrocampista | 17 | 0 | 2 | 4 | 0 | 863' |
 | **TOTALE** | — | **27** | **0** | **3** | **5** | **0** | **1370'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Stefano Sturaro** ha collezionato complessivamente **27 presenze ufficiali**, disputando **1370 minuti** di gioco effettivo, siglando **0 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **27 presenze ufficiali**, disputando **1370 minuti** di gioco effettivo, siglando **0 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

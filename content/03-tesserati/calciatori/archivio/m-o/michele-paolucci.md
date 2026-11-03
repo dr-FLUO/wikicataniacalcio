@@ -63,6 +63,7 @@ minutes_played: 2892
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 41311
 ---
 # Michele Paolucci — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2016</td>
+        <td colspan="3">2008–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,12 +111,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Punta centrale | 28 | 9 | 2 | 3 | 0 | 1753' |
-| **2015-2016** | Punta centrale | 20 | 5 | 0 | 2 | 0 | 1139' |
+| **2008-2009** | Punta centrale | 28 | 9 | 2 | 3 | 0 | 1753' |
+| **2016-2017** | Punta centrale | 20 | 5 | 0 | 2 | 0 | 1139' |
 | **TOTALE** | — | **48** | **14** | **2** | **5** | **0** | **2892'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Michele Paolucci** ha collezionato complessivamente **48 presenze ufficiali**, disputando **2892 minuti** di gioco effettivo, siglando **14 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **48 presenze ufficiali**, disputando **2892 minuti** di gioco effettivo, siglando **14 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michele Paolucci](https://it.wikipedia.org/wiki/Michele_Paolucci)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Paolucci*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Paolucci-83](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Paolucci-83), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Paolucci*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Paolucci-83)/giocatori/giocatori.php?Paolucci-83), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -52,17 +52,14 @@ minutes_played: 9775
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 492334
 ---
 # Giovanni Simonini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/549_giovanni-simonini.jpg" alt="Giovanni Simonini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1971–1975</td>
+        <td colspan="3">1972–1976</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1971-1972** | Terzino destro | 40 | 0 | 0 | 0 | 0 | 3600' |
-| **1972-1973** | Terzino destro | 25 | 0 | 0 | 0 | 0 | 2096' |
-| **1973-1974** | Terzino destro | 24 | 0 | 0 | 0 | 0 | 1997' |
-| **1974-1975** | Terzino destro | 24 | 1 | 0 | 1 | 2 | 2082' |
+| **1972-1973** | Terzino destro | 40 | 0 | 0 | 0 | 0 | 3600' |
+| **1973-1974** | Terzino destro | 25 | 0 | 0 | 0 | 0 | 2096' |
+| **1974-1975** | Terzino destro | 24 | 0 | 0 | 0 | 0 | 1997' |
+| **1975-1976** | Terzino destro | 24 | 1 | 0 | 1 | 2 | 2082' |
 | **TOTALE** | — | **113** | **1** | **0** | **1** | **2** | **9775'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Simonini** ha collezionato complessivamente **113 presenze ufficiali**, disputando **9775 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **113 presenze ufficiali**, disputando **9775 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giovanni Simonini](https://it.wikipedia.org/wiki/Giovanni_Simonini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Simonini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Simonini-549](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Simonini-549), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Simonini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Simonini-549)/giocatori/giocatori.php?Simonini-549), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

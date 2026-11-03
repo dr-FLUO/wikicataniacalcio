@@ -1,7 +1,7 @@
 ---
 title: Igor Marziano — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Igor Marziano, centrocampista
-  del Calcio Catania con 67 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Igor Marziano, centrocampista del Calcio Catania con 67 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/igor-marziano
 entity_type: calciatore
 status: verified
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/209_igor-marziano.jpg
 image_credits:
 - image_path: assets/images/players/209_igor-marziano.jpg
-  alt_text: Ritratto del calciatore Igor Marziano in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Igor Marziano in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -44,19 +43,14 @@ minutes_played: 5810
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 22279
 ---
 # Igor Marziano — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/209_igor-marziano.jpg" alt="Igor Marziano" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -66,9 +60,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1972</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -78,7 +72,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1997–2000</td>
+        <td colspan="3">1998–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -111,15 +105,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Igor Marziano*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marziano-209](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marziano-209), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Igor Marziano*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Marziano-209), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1997-1998 | Esterno di sinistra | 28 | 4 | 0 | 0 | 0 | 2210' |
-| 1998-1999 | Esterno di sinistra | 28 | 6 | 0 | 8 | 0 | 2430' |
-| 1999-2000 | Esterno di sinistra | 13 | 0 | 1 | 4 | 0 | 1170' |
+| **1998-1999** | Esterno di sinistra | 28 | 4 | 0 | 0 | 0 | 2210' |
+| **1999-2000** | Esterno di sinistra | 28 | 6 | 0 | 8 | 0 | 2430' |
+| **2000-2001** | Esterno di sinistra | 13 | 0 | 1 | 4 | 0 | 1170' |
+| **TOTALE** | — | **69** | **10** | **1** | **12** | **0** | **5810'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 69 presenze e 10 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **5810 minuti** di gioco effettivo, siglando **10 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.

@@ -56,16 +56,22 @@ sources:
   reference: 'ID 141: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Oliveira-141
 aliases:
-- tesserati/calciatori/luis-oliveira
-- luis-oliveira
-- tesserati/luis-oliveira
+- 03-tesserati/calciatori/archivio/g-l/luis-airton-barroso-oliveira
+- 03-tesserati/calciatori/luis-airton-barroso-oliveira
+- calciatori/luis-airton-barroso-oliveira
 - calciatori/luis-oliveira
+- luis-airton-barroso-oliveira
+- tesserati/calciatori/luis-airton-barroso-oliveira
+- tesserati/calciatori/luis-oliveira
+- tesserati/luis-airton-barroso-oliveira
+- tesserati/luis-oliveira
 total_assists: 1
 minutes_played: 6362
 seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22087
 ---
 # Luís Oliveira
 
@@ -128,12 +134,12 @@ In mezzo alla tempesta giudiziaria del Caso Catania nel 2003, Oliveira rimase il
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Punta centrale | 35 | 13 | 0 | 4 | 0 | 3058' |
-| **2002-2003** | Punta centrale | 39 | 14 | 1 | 3 | 0 | 3304' |
+| **2002-2003** | Punta centrale | 35 | 13 | 0 | 4 | 0 | 3058' |
+| **2003-2004** | Punta centrale | 39 | 14 | 1 | 3 | 0 | 3304' |
 | **TOTALE** | — | **74** | **27** | **1** | **7** | **0** | **6362'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luis Oliveira** ha collezionato complessivamente **74 presenze ufficiali**, disputando **6362 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **74 presenze ufficiali**, disputando **6362 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -141,4 +147,4 @@ In mezzo alla tempesta giudiziaria del Caso Catania nel 2003, Oliveira rimase il
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 420-435 (Stagioni 2002-2003 e 2003-2004).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Luis Airton Barroso Oliveira*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Oliveira-141).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Luis Airton Barroso Oliveira*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Oliveira-141).

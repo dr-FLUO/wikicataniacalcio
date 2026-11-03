@@ -60,6 +60,7 @@ minutes_played: 13958
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 21887
 ---
 # Giovanni  Marchese — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1984</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
@@ -87,7 +88,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2019</td>
+        <td colspan="3">2005–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -107,19 +108,19 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Terzino sinistro | 14 | 0 | 0 | 6 | 0 | 1029' |
-| **2008-2009** | Terzino sinistro | 4 | 0 | 0 | 1 | 0 | 220' |
-| **2009-2010** | Terzino sinistro | 15 | 0 | 3 | 3 | 0 | 1301' |
-| **2010-2011** | Terzino sinistro | 33 | 3 | 2 | 6 | 0 | 2810' |
-| **2011-2012** | Terzino sinistro | 32 | 2 | 2 | 5 | 0 | 2767' |
-| **2015-2016** | Terzino sinistro | 16 | 1 | 1 | 3 | 0 | 1440' |
-| **2016-2017** | Terzino sinistro | 36 | 1 | 5 | 2 | 0 | 2609' |
-| **2017-2018** | Terzino sinistro | 16 | 0 | 0 | 2 | 0 | 1172' |
-| **2018-2019** | Terzino sinistro | 10 | 0 | 1 | 1 | 0 | 610' |
+| **2005-2006** | Terzino sinistro | 14 | 0 | 0 | 6 | 0 | 1029' |
+| **2009-2010** | Terzino sinistro | 4 | 0 | 0 | 1 | 0 | 220' |
+| **2010-2011** | Terzino sinistro | 15 | 0 | 3 | 3 | 0 | 1301' |
+| **2011-2012** | Terzino sinistro | 33 | 3 | 2 | 6 | 0 | 2810' |
+| **2012-2013** | Terzino sinistro | 32 | 2 | 2 | 5 | 0 | 2767' |
+| **2016-2017** | Terzino sinistro | 16 | 1 | 1 | 3 | 0 | 1440' |
+| **2017-2018** | Terzino sinistro | 36 | 1 | 5 | 2 | 0 | 2609' |
+| **2018-2019** | Terzino sinistro | 16 | 0 | 0 | 2 | 0 | 1172' |
+| **2019-2020** | Terzino sinistro | 10 | 0 | 1 | 1 | 0 | 610' |
 | **TOTALE** | — | **176** | **7** | **14** | **29** | **0** | **13958'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Marchese** ha collezionato complessivamente **176 presenze ufficiali**, disputando **13958 minuti** di gioco effettivo, siglando **7 gol** e servendo **14 assist** distribuiti su **9 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **176 presenze ufficiali**, disputando **13958 minuti** di gioco effettivo, siglando **7 gol** e servendo **14 assist** distribuiti su **9 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -140,5 +141,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giovanni Marchese](https://it.wikipedia.org/wiki/Giovanni_Marchese_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni  Marchese*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Marchese-6](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Marchese-6), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni  Marchese*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marchese-6)/giocatori/giocatori.php?Marchese-6), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

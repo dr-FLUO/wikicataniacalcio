@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/nicolas-spolli
-- nicolas-spolli
-- tesserati/nicolas-spolli
+- 03-tesserati/calciatori/archivio/m-o/nicolàs-federico-spolli
+- 03-tesserati/calciatori/nicolàs-federico-spolli
 - calciatori/nicolas-spolli
+- calciatori/nicolàs-federico-spolli
+- nicolàs-federico-spolli
+- tesserati/calciatori/nicolas-spolli
+- tesserati/calciatori/nicolàs-federico-spolli
+- tesserati/nicolas-spolli
+- tesserati/nicolàs-federico-spolli
 citizenship: Argentina
 height: 192 cm
 foot: Destro
@@ -62,6 +67,7 @@ minutes_played: 12607
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 51186
 ---
 # Nicolás Spolli — Scheda Giocatore nel Calcio Catania
 
@@ -113,13 +119,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2095' |
-| **2009-2010** | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2236' |
-| **2010-2011** | Difensore centrale | 33 | 2 | 0 | 9 | 1 | 2682' |
-| **2011-2012** | Difensore centrale | 29 | 2 | 1 | 9 | 0 | 2536' |
-| **2012-2013** | Difensore centrale | 21 | 1 | 0 | 6 | 0 | 1772' |
-| **2013-2014** | Difensore centrale | 17 | 0 | 0 | 9 | 1 | 1286' |
+| **2009-2010** | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2095' |
+| **2010-2011** | Difensore centrale | 27 | 1 | 1 | 7 | 0 | 2236' |
+| **2011-2012** | Difensore centrale | 33 | 2 | 0 | 9 | 1 | 2682' |
+| **2012-2013** | Difensore centrale | 29 | 2 | 1 | 9 | 0 | 2536' |
+| **2013-2014** | Difensore centrale | 21 | 1 | 0 | 6 | 0 | 1772' |
+| **2014-2015** | Difensore centrale | 17 | 0 | 0 | 9 | 1 | 1286' |
 | **TOTALE** | — | **154** | **7** | **3** | **47** | **2** | **12607'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nicolás Spolli** ha collezionato complessivamente **154 presenze ufficiali**, disputando **12607 minuti** di gioco effettivo, siglando **7 gol** e servendo **3 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **154 presenze ufficiali**, disputando **12607 minuti** di gioco effettivo, siglando **7 gol** e servendo **3 assist** distribuiti su **6 stagioni sportive**.

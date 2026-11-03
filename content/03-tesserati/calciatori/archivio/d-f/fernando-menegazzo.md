@@ -1,7 +1,7 @@
 ---
 title: Fernando Menegazzo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fernando Menegazzo, centrocampista
-  del Calcio Catania con 18 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Fernando Menegazzo, centrocampista del Calcio Catania con 18 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fernando-menegazzo
 entity_type: calciatore
 status: verified
@@ -44,8 +44,8 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/fernando-menegazzo.jpg
-  alt_text: 'Ritratto ufficiale di Fernando Menegazzo — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors Catania'
+  alt_text: 'Ritratto ufficiale di Fernando Menegazzo — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -63,6 +63,7 @@ minutes_played: 1538
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 15338
 ---
 # Fernando Menegazzo — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2004</td>
+        <td colspan="3">2004–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -124,13 +125,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fernando Menegazzo](https://it.wikipedia.org/wiki/Fernando_Menegazzo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fernando Menegazzo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Menegazzo-111](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Menegazzo-111), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fernando Menegazzo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Menegazzo-111)/giocatori/giocatori.php?Menegazzo-111), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Mediano | 18 | 0 | 0 | 6 | 1 | 1538' |
+| **2004-2005** | Mediano | 18 | 0 | 0 | 6 | 1 | 1538' |
+| **TOTALE** | — | **18** | **0** | **0** | **6** | **1** | **1538'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 18 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **18 presenze ufficiali**, disputando **1538 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

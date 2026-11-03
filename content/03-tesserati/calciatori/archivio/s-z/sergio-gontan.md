@@ -1,7 +1,6 @@
 ---
 title: Sergio Gontán — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Sergio Gontán, attaccante
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Sergio Gontán, attaccante del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/s-z/sergio-gontan
 entity_type: calciatore
 status: verified
@@ -24,8 +23,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Keko_(calciatore)
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,10 +41,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/sergio-gontan
-- sergio-gontan
-- tesserati/sergio-gontan
+- 03-tesserati/calciatori/archivio/s-z/sergio-gontan-keko
+- 03-tesserati/calciatori/sergio-gontan-keko
 - calciatori/sergio-gontan
+- calciatori/sergio-gontan-keko
+- sergio-gontan-keko
+- tesserati/calciatori/sergio-gontan
+- tesserati/calciatori/sergio-gontan-keko
+- tesserati/sergio-gontan
+- tesserati/sergio-gontan-keko
 citizenship: Spagna
 total_goals: 1
 total_assists: 1
@@ -54,6 +57,7 @@ minutes_played: 1177
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 66112
 ---
 # Sergio Gontán — Scheda Giocatore nel Calcio Catania
 
@@ -101,12 +105,14 @@ Nato a Brunete (1991-12-28), Sergio Gontán ha militato tra le file della formaz
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2010-2011 | Ala destra | 1 | 0 | 0 | 0 | 0 | 1' |
-| 2011-2012 | Ala destra | 5 | 1 | 0 | 1 | 0 | 194' |
-| 2012-2013 | Ala destra | 20 | 0 | 1 | 3 | 0 | 982' |
+| **2011-2012** | Ala destra | 1 | 0 | 0 | 0 | 0 | 1' |
+| **2012-2013** | Ala destra | 5 | 1 | 0 | 1 | 0 | 194' |
+| **2013-2014** | Ala destra | 20 | 0 | 1 | 3 | 0 | 982' |
+| **TOTALE** | — | **26** | **1** | **1** | **4** | **0** | **1177'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 26 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Keko Gontán** ha collezionato complessivamente **26 presenze ufficiali**, disputando **1177 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.

@@ -63,6 +63,7 @@ minutes_played: 3778
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22093
 ---
 # Guglielmo Stendardo — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2003</td>
+        <td colspan="3">2003–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,11 +111,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2002-2003** | Difensore centrale | 43 | 0 | 0 | 14 | 1 | 3778' |
+| **2003-2004** | Difensore centrale | 43 | 0 | 0 | 14 | 1 | 3778' |
 | **TOTALE** | — | **43** | **0** | **0** | **14** | **1** | **3778'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Guglielmo Stendardo** ha collezionato complessivamente **43 presenze ufficiali**, disputando **3778 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **43 presenze ufficiali**, disputando **3778 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Guglielmo Stendardo](https://it.wikipedia.org/wiki/Guglielmo_Stendardo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guglielmo Stendardo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Stendardo-147](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Stendardo-147), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guglielmo Stendardo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Stendardo-147)/giocatori/giocatori.php?Stendardo-147), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

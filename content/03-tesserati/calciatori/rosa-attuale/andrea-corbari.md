@@ -62,6 +62,7 @@ minutes_played: 2093
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 598098
 ---
 # Andrea Corbari — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1994</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–</td>
+        <td colspan="3">2025–</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,12 +110,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2024-2025** | Centrocampista | 33 | 1 | 0 | 5 | 0 | 1699' |
-| **2025-2026** | Centrocampista | 8 | 0 | 1 | 0 | 0 | 394' |
+| **2025-2026** | Centrocampista | 33 | 1 | 0 | 5 | 0 | 1699' |
+| **2026-2027** | Centrocampista | 8 | 0 | 1 | 0 | 0 | 394' |
 | **TOTALE** | — | **41** | **1** | **1** | **5** | **0** | **2093'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Corbari** ha collezionato complessivamente **41 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Corbari*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Corbari-1084](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Corbari-1084), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Corbari*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Corbari-1084), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

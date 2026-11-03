@@ -69,6 +69,7 @@ minutes_played: 10530
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 5761
 ---
 # Davide Baiocco — Scheda Giocatore nel Calcio Catania
 
@@ -116,14 +117,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Mediano | 36 | 0 | 0 | 11 | 0 | 3165' |
-| **2005-2006** | Mediano | 34 | 0 | 5 | 7 | 0 | 3036' |
-| **2006-2007** | Mediano | 39 | 1 | 1 | 12 | 1 | 2956' |
-| **2007-2008** | Mediano | 22 | 1 | 1 | 7 | 0 | 1373' |
+| **2005-2006** | Mediano | 36 | 0 | 0 | 11 | 0 | 3165' |
+| **2006-2007** | Mediano | 34 | 0 | 5 | 7 | 0 | 3036' |
+| **2007-2008** | Mediano | 39 | 1 | 1 | 12 | 1 | 2956' |
+| **2008-2009** | Mediano | 22 | 1 | 1 | 7 | 0 | 1373' |
 | **TOTALE** | — | **131** | **2** | **7** | **37** | **1** | **10530'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Davide Baiocco** ha collezionato complessivamente **131 presenze ufficiali**, disputando **10530 minuti** di gioco effettivo, siglando **2 gol** e servendo **7 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **131 presenze ufficiali**, disputando **10530 minuti** di gioco effettivo, siglando **2 gol** e servendo **7 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -144,5 +145,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Davide Baiocco](https://it.wikipedia.org/wiki/Davide_Baiocco)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Davide Baiocco*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baiocco-40](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baiocco-40), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Davide Baiocco*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baiocco-40)/giocatori/giocatori.php?Baiocco-40), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

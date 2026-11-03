@@ -7,8 +7,8 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 36
-seasons_count: 2
+total_appearances: 0
+seasons_count: 1
 tags:
 - calciatori
 - graziano-la-terra
@@ -31,9 +31,9 @@ aliases:
 - graziano-la-terra
 - tesserati/graziano-la-terra
 - calciatori/graziano-la-terra
-total_goals: 3
+total_goals: 0
 total_assists: 0
-minutes_played: 2683
+minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -67,13 +67,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2004</td>
+        <td colspan="3">1998–1999</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>36</td>
+        <td>0</td>
         <th>Goal / Assist</th>
-        <td>3 / 0</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -100,14 +100,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Graziano La Terra*, in [https://www.calciocatania.com/giocatori/giocatori.php?La-Terra-206](https://www.calciocatania.com/giocatori/giocatori.php?La-Terra-206), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Graziano La Terra*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?La-Terra-206), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2002-2003 | Difensore centrale | 34 | 3 | 0 | 7 | 0 | 2503' |
-| 2003-2004 | Difensore centrale | 2 | 0 | 0 | 1 | 0 | 180' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 36 presenze e 3 reti complessive.*

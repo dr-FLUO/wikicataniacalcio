@@ -36,6 +36,7 @@ minutes_played: 362
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 525415
 ---
 # Claudio Galletta — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1968</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1984–1986</td>
+        <td colspan="3">1985–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,12 +87,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1984-1985** | Mediano | 1 | 0 | 0 | 0 | 0 | 23' |
-| **1985-1986** | Mediano | 6 | 0 | 0 | 0 | 0 | 339' |
+| **1985-1986** | Mediano | 1 | 0 | 0 | 0 | 0 | 23' |
+| **1986-1987** | Mediano | 6 | 0 | 0 | 0 | 0 | 339' |
 | **TOTALE** | — | **7** | **0** | **0** | **0** | **0** | **362'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Claudio Galletta** ha collezionato complessivamente **7 presenze ufficiali**, disputando **362 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **362 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -111,5 +112,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Galletta*, in [https://www.calciocatania.com/giocatori/giocatori.php?Galletta-447](https://www.calciocatania.com/giocatori/giocatori.php?Galletta-447), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Galletta*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Galletta-447), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

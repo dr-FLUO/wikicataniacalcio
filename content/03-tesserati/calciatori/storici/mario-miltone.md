@@ -117,4 +117,4 @@ locked_by: certificazione_archivio_storico_ufficiale
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mario Miltone](https://it.wikipedia.org/wiki/Mario_Miltone)*.
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 * *Almanacco Illustrato del Calcio*, Panini Edizioni, Modena.
-* [CalcioCatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/) — Archivio storico e statistiche ufficiali.
+* [CalcioCatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.

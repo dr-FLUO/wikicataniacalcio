@@ -49,6 +49,12 @@ aliases:
 - jeda
 - tesserati/jeda
 - calciatori/jeda
+- tesserati/calciatori/jedaias-capucho-neves-jeda
+- jedaias-capucho-neves-jeda
+- tesserati/jedaias-capucho-neves-jeda
+- calciatori/jedaias-capucho-neves-jeda
+- 03-tesserati/calciatori/archivio/g-l/jedaias-capucho-neves-jeda
+- Jedaias Capucho Neves Jeda
 image_credits:
 - image_path: assets/images/calciatori/jeda.jpg
   alt_text: Ritratto ufficiale di Jeda in maglia rossazzurra
@@ -100,7 +106,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2005</td>
+        <td colspan="3">2004–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -135,11 +141,11 @@ Con la maglia numero 11, Jeda conquistò i tifosi del Massimino per la sua rapid
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Seconda punta | 19 | 6 | 0 | 1 | 0 | 1628' |
+| **2004-2005** | Seconda punta | 19 | 6 | 0 | 1 | 0 | 1628' |
 | **TOTALE** | — | **19** | **6** | **0** | **1** | **0** | **1628'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Jeda** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1628 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1628 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -147,4 +153,4 @@ Con la maglia numero 11, Jeda conquistò i tifosi del Massimino per la sua rapid
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 436-442 (Stagione 2004-2005).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Jedaias Capucho Neves Jeda*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Jeda-106).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Jedaias Capucho Neves Jeda*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Jeda-106).

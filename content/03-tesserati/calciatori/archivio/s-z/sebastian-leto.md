@@ -69,6 +69,7 @@ minutes_played: 2151
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 39256
 ---
 # Sebastián Leto — Scheda Giocatore nel Calcio Catania
 
@@ -96,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2014</td>
+        <td colspan="3">2013–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -120,9 +121,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Ala sinistra | 28 | 4 | 2 | 3 | 0 | 1327' |
-| **2013-2014** | Ala sinistra | 14 | 2 | 0 | 3 | 2 | 824' |
+| **2013-2014** | Ala sinistra | 28 | 4 | 2 | 3 | 0 | 1327' |
+| **2014-2015** | Ala sinistra | 14 | 2 | 0 | 3 | 2 | 824' |
 | **TOTALE** | — | **42** | **6** | **2** | **6** | **2** | **2151'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Sebastián Leto** ha collezionato complessivamente **42 presenze ufficiali**, disputando **2151 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **2151 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.

@@ -53,6 +53,7 @@ minutes_played: 4410
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 361465
 ---
 # Renato Alberti — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1960–1964</td>
+        <td colspan="3">1961–1965</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,14 +102,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1960-1961** | Difesa | 27 | 0 | 0 | 0 | 0 | 2430' |
-| **1961-1962** | Difesa | 4 | 0 | 0 | 0 | 0 | 360' |
-| **1962-1963** | Difesa | 16 | 0 | 0 | 0 | 0 | 1440' |
-| **1963-1964** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1961-1962** | Difesa | 27 | 0 | 0 | 0 | 0 | 2430' |
+| **1962-1963** | Difesa | 4 | 0 | 0 | 0 | 0 | 360' |
+| **1963-1964** | Difesa | 16 | 0 | 0 | 0 | 0 | 1440' |
+| **1964-1965** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
 | **TOTALE** | — | **49** | **0** | **0** | **0** | **0** | **4410'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Renato Alberti** ha collezionato complessivamente **49 presenze ufficiali**, disputando **4410 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **49 presenze ufficiali**, disputando **4410 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Renato Alberti](https://it.wikipedia.org/wiki/Renato_Alberti)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Alberti*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Alberti-637](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Alberti-637), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Alberti*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Alberti-637)/giocatori/giocatori.php?Alberti-637), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

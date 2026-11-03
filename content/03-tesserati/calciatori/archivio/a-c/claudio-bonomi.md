@@ -52,17 +52,14 @@ minutes_played: 1626
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 226059
 ---
 # Claudio Bonomi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/174_claudio-bonomi.jpg" alt="Claudio Bonomi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2001</td>
+        <td colspan="3">2001–2002</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,11 +101,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Esterno di sinistra | 19 | 1 | 1 | 1 | 0 | 1626' |
+| **2001-2002** | Esterno di sinistra | 19 | 1 | 1 | 1 | 0 | 1626' |
 | **TOTALE** | — | **19** | **1** | **1** | **1** | **0** | **1626'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Claudio Bonomi** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1626 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1626 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -129,5 +126,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Claudio Bonomi](https://it.wikipedia.org/wiki/Claudio_Bonomi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Bonomi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bonomi-174](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bonomi-174), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Bonomi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bonomi-174)/giocatori/giocatori.php?Bonomi-174), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

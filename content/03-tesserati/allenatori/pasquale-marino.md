@@ -1,8 +1,7 @@
 ---
-title: Pasquale Marino — L'Artefice della Promozione 2006 e della Salvezza Eroica
-  in Serie A
-description: Biografia e statistiche di Pasquale Marino, allenatore della promozione
-  in Serie A del Catania nel 2005-06 e della storica salvezza nel 2006-07.
+title: Pasquale Marino — L'Artefice della Promozione 2006 e della Salvezza Eroica in Serie A
+description: Biografia e statistiche di Pasquale Marino, allenatore della promozione in Serie A del Catania nel 2005-06 e
+  della storica salvezza nel 2006-07.
 slug: 03-tesserati/allenatori/pasquale-marino
 entity_type: allenatore
 status: verified
@@ -31,8 +30,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pasquale_Marino
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,8 +41,8 @@ sources:
   year: 2007
   reference: 82 panchine ufficiali complessive alla guida del Calcio Catania
 cover_image: pasquale-marino.jpg
-cover_caption: Pasquale Marino, allenatore dell'indimenticabile ritorno in Serie A
-  nel 2005-2006 e della salvezza a Bologna nel 2007.
+cover_caption: Pasquale Marino, allenatore dell'indimenticabile ritorno in Serie A nel 2005-2006 e della salvezza a Bologna
+  nel 2007.
 cover_credit: 'Foto: Roberto Vicario · Licenza: CC BY-SA 3.0'
 image_credits:
 - image_path: assets/images/allenatori/pasquale-marino.jpg
@@ -58,8 +56,8 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/pasquale-marino.jpg
-  alt_text: 'Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Pasquale Marino — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -71,14 +69,12 @@ aliases:
 citizenship: Italia
 total_appearances: 17
 seasons_count: 3
-
 total_matches: 82
-
 locked: true
 locked_date: '2026-10-30'
-locked_by: 'quadratura_storico_allenatori_dataset'
+locked_by: quadratura_storico_allenatori_dataset
+tm_id: 3776
 ---
-
 # Pasquale Marino
 
 <div class="nfc-player-hero-card nfc-coach-hero-card">

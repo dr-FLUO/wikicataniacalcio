@@ -26,10 +26,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/theofilos-karasavvidis
-- theofilos-karasavvidis
-- tesserati/theofilos-karasavvidis
+- 03-tesserati/calciatori/archivio/s-z/theofilos-karasavvid-s
+- 03-tesserati/calciatori/theofilos-karasavvid-s
+- calciatori/theofilos-karasavvid-s
 - calciatori/theofilos-karasavvidis
+- tesserati/calciatori/theofilos-karasavvid-s
+- tesserati/calciatori/theofilos-karasavvidis
+- tesserati/theofilos-karasavvid-s
+- tesserati/theofilos-karasavvidis
+- theofilos-karasavvid-s
 birth_date: '1971-04-27'
 birth_place: Giannitsa
 citizenship: Grecia
@@ -39,6 +44,7 @@ minutes_played: 273
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 173886
 ---
 # Theofilos Karasavvidis — Scheda Giocatore nel Calcio Catania
 
@@ -69,7 +75,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2000</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -89,11 +95,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Seconda punta | 7 | 0 | 0 | 1 | 1 | 273' |
+| **2000-2001** | Seconda punta | 7 | 0 | 0 | 1 | 1 | 273' |
 | **TOTALE** | — | **7** | **0** | **0** | **1** | **1** | **273'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Theofilos Karasavvidis** ha collezionato complessivamente **7 presenze ufficiali**, disputando **273 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **273 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -113,5 +119,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Theofilos Karasavvidis*, in [https://www.calciocatania.com/giocatori/giocatori.php?Karasavvidis-205](https://www.calciocatania.com/giocatori/giocatori.php?Karasavvidis-205), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Theofilos Karasavvidis*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Karasavvidis-205), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

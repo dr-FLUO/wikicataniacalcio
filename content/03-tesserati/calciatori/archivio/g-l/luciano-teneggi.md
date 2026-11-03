@@ -53,6 +53,7 @@ minutes_played: 4950
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 490694
 ---
 # Luciano Teneggi — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1967</td>
+        <td colspan="3">1966–1968</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,12 +102,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Difensore centrale | 17 | 0 | 0 | 0 | 0 | 1530' |
-| **1966-1967** | Difensore centrale | 38 | 1 | 0 | 0 | 0 | 3420' |
+| **1966-1967** | Difensore centrale | 17 | 0 | 0 | 0 | 0 | 1530' |
+| **1967-1968** | Difensore centrale | 38 | 1 | 0 | 0 | 0 | 3420' |
 | **TOTALE** | — | **55** | **1** | **0** | **0** | **0** | **4950'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luciano Teneggi** ha collezionato complessivamente **55 presenze ufficiali**, disputando **4950 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **4950 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luciano Teneggi](https://it.wikipedia.org/wiki/Luciano_Teneggi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luciano Teneggi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Teneggi-611](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Teneggi-611), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luciano Teneggi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Teneggi-611)/giocatori/giocatori.php?Teneggi-611), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -52,6 +52,7 @@ minutes_played: 1541
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 226491
 ---
 # Tommaso Napoli — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1987–1996</td>
+        <td colspan="3">1988–1997</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -99,12 +100,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1987-1988** | Difensore centrale | 12 | 0 | 0 | 0 | 0 | 1003' |
-| **1995-1996** | Difensore centrale | 7 | 0 | 0 | 0 | 0 | 538' |
+| **1988-1989** | Difensore centrale | 12 | 0 | 0 | 0 | 0 | 1003' |
+| **1996-1997** | Difensore centrale | 7 | 0 | 0 | 0 | 0 | 538' |
 | **TOTALE** | — | **19** | **0** | **0** | **0** | **0** | **1541'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Tommaso Napoli** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1541 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1541 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +126,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Tommaso Napoli](https://it.wikipedia.org/wiki/Tommaso_Napoli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Tommaso Napoli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Napoli-291](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Napoli-291), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Tommaso Napoli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Napoli-291)/giocatori/giocatori.php?Napoli-291), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -69,6 +69,7 @@ minutes_played: 6830
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 704283
 ---
 # Alessio Castellini — Difensore e Capitano Bandiera del Catania FC (2022-2027)
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>2003</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -96,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2022–</td>
+        <td colspan="3">2022–2024</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -132,12 +133,12 @@ Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2021-2022** | Difensore centrale | 36 | 0 | 3 | 2 | 0 | 3153' |
-| **2022-2023** | Difensore centrale | 48 | 6 | 1 | 4 | 0 | 3677' |
+| **2022-2023** | Difensore centrale | 36 | 0 | 3 | 2 | 0 | 3153' |
+| **2023-2024** | Difensore centrale | 48 | 6 | 1 | 4 | 0 | 3677' |
 | **TOTALE** | — | **84** | **6** | **4** | **6** | **0** | **6830'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessio Castellini** ha collezionato complessivamente **84 presenze ufficiali**, disputando **6830 minuti** di gioco effettivo, siglando **6 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **6830 minuti** di gioco effettivo, siglando **6 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

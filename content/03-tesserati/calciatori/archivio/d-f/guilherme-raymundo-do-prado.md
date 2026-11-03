@@ -12,7 +12,7 @@ birth_date: '1981-12-31'
 birth_place: Campinas, Brasile
 death_date: ''
 nationality: Brasile
-total_appearances: 20
+total_appearances: 6
 seasons_count: 1
 tags:
 - calciatori
@@ -80,9 +80,9 @@ locked_by: certificazione_archivio_storico_ufficiale
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>20</td>
+        <td>6</td>
         <th>Goal / Assist</th>
-        <td>ND / ND</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -95,4 +95,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Trequartista brasiliano di grande eleganza e visione di gioco (Guly do Prado). Arriva a Catania nell'estate 2002 durante la gestione Gaucci, segnando reti pesantissime nella combattutissima stagione di Serie B 2002-2003.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2002-2003, totalizzando **20 presenze ufficiali** tra campionati e coppe nazionali.
-

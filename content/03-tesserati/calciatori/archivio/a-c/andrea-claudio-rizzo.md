@@ -43,19 +43,14 @@ minutes_played: 1329
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 1090545
 ---
 # Andrea Claudio Rizzo — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/367_andrea-claudio-rizzo.jpg" alt="Andrea Claudio Rizzo" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1971</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1986–1992</td>
+        <td colspan="3">1987–1993</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,15 +92,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1986-1987** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **1987-1988** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **1988-1989** | Portiere | 5 | 0 | 0 | 0 | 0 | 450' |
-| **1989-1990** | Portiere | 7 | 0 | 0 | 0 | 0 | 519' |
-| **1991-1992** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
+| **1988-1989** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1989-1990** | Portiere | 5 | 0 | 0 | 0 | 0 | 450' |
+| **1990-1991** | Portiere | 7 | 0 | 0 | 0 | 0 | 519' |
+| **1992-1993** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
 | **TOTALE** | — | **16** | **0** | **0** | **0** | **0** | **1329'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Claudio Rizzo** ha collezionato complessivamente **16 presenze ufficiali**, disputando **1329 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1329 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +120,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Claudio Rizzo*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Rizzo-367](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Rizzo-367), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Claudio Rizzo*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Rizzo-367), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

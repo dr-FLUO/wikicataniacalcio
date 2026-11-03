@@ -49,10 +49,15 @@ image_credits:
   year: 2010
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/edgar-çani
-- edgar-çani
-- tesserati/edgar-çani
+- 03-tesserati/calciatori/archivio/d-f/edgar-ani
+- 03-tesserati/calciatori/edgar-ani
+- calciatori/edgar-ani
 - calciatori/edgar-çani
+- edgar-ani
+- tesserati/calciatori/edgar-ani
+- tesserati/calciatori/edgar-çani
+- tesserati/edgar-ani
+- tesserati/edgar-çani
 birth_date: '1989-07-22'
 birth_place: Tirana
 citizenship: Albania
@@ -62,6 +67,7 @@ minutes_played: 678
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 61863
 ---
 # Edgar Çani — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +95,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2014</td>
+        <td colspan="3">2012–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +115,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Punta centrale | 4 | 0 | 0 | 1 | 0 | 30' |
-| **2012-2013** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2013-2014** | Punta centrale | 15 | 3 | 4 | 2 | 1 | 648' |
+| **2012-2013** | Punta centrale | 4 | 0 | 0 | 1 | 0 | 30' |
+| **2013-2014** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2014-2015** | Punta centrale | 15 | 3 | 4 | 2 | 1 | 648' |
 | **TOTALE** | — | **19** | **3** | **4** | **3** | **1** | **678'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Edgar Cani** ha collezionato complessivamente **19 presenze ufficiali**, disputando **678 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **678 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +142,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Edgar Çani](https://it.wikipedia.org/wiki/Edgar_%C3%87ani)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Edgar Çani*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cani-844](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cani-844), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Edgar Çani*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cani-844)/giocatori/giocatori.php?Cani-844), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

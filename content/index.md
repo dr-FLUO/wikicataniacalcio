@@ -5,7 +5,7 @@ description: 'Enciclopedia digitale, giuridica, statistica e sociale sul Calcio 
 slug: index
 entity_type: home_portal
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: 2026-11-03
 tags:
 - home
 - calcio-catania
@@ -34,7 +34,7 @@ Benvenuti nella **Wiki Calcio Catania**, l'enciclopedia digitale ad accesso aper
 | Area Tematica | Descrizione e Contenuti del Cluster | Voci Principali in Evidenza |
 | :--- | :--- | :--- |
 | **1. [[societa/index\|Storia Societaria & Presidenti]]** | Ragioni sociali dal 1929 a oggi, passaggio dalla storica **Matricola FIGC 11700** (1946–2022) alla **Matricola 955013** (2022–oggi) e profili presidenziali. | [[societa/presidenti/angelo-massimino\|Angelo Massimino]], [[societa/1946-club-calcio-catania\|Club Calcio Catania (1946)]], [[societa/2022-pelligra-catania-fc\|Catania FC (Pelligra)]] |
-| **2. [[stagioni/index\|Stagioni Agonistiche (1929–Oggi)]]** | Tutti i campionati disputati tra Serie A (17 tornei), Serie B, Serie C e dilettanti, con rose, classifiche e statistiche verificate. | [[stagioni/1953-1954\|1953-54 (1ª A)]], [[stagioni/1960-1961\|1960-61 (8° posto)]], [[stagioni/1982-1983\|1982-83 (Roma)]], [[stagioni/2012-2013\|2012-13 (56 pt)]] |
+| **2. [[02-cronistoria/stagioni/index\|Stagioni Agonistiche (1929–Oggi)]]** | Tutti i campionati disputati tra Serie A (17 tornei), Serie B, Serie C e dilettanti, con rose, classifiche e statistiche verificate. | [[stagioni/1953-1954\|1953-54 (1ª A)]], [[stagioni/1960-1961\|1960-61 (8° posto)]], [[stagioni/1982-1983\|1982-83 (Roma)]], [[stagioni/2012-2013\|2012-13 (56 pt)]] |
 | **3. [[partite/index\|Tabellini Storici & Archivio Precedenti]]** | Cronache e tabellini ufficiali delle gare che hanno segnato un'epoca e bilancio perpetuo contro tutte le avversarie. | [[partite/1960-1961/catania-inter-2-0\|Catania-Inter 2-0]], [[partite/1982-1983/spareggio-catania-cremonese-0-0\|Spareggi Roma 1983]], [[partite/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia C 2024]] |
 | **4. [[vicende-legali/index\|Dossier Giudiziari & Diritto Sportivo]]** | I grandi processi sportivi e amministrativi che hanno riscritto la giurisprudenza italiana (TAR, CGA, CAF, TFN). | [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella (1955)]], [[vicende-legali/caso-catania-1993-eccellenza\|Caso 1993]], [[vicende-legali/caso-catania-2003\|Caso Catania (2003)]] |
 | **5. [[tesserati/index\|Tesserati: Calciatori & Allenatori]]** | Biografie, carriere e Hall of Fame statistica dei primatisti di presenze e reti in maglia rossazzurra. | [[tesserati/calciatori/marco-biagianti\|M. Biagianti]], [[tesserati/calciatori/giuseppe-mascara\|G. Mascara]], [[tesserati/allenatori/carmelo-di-bella\|C. Di Bella]], [[tesserati/allenatori/rolando-maran\|R. Maran]] |
@@ -54,7 +54,7 @@ Benvenuti nella **Wiki Calcio Catania**, l'enciclopedia digitale ad accesso aper
 | **1993–2004** | [[societa/2000-era-gaucci\|Calcio Catania S.p.A. (Risalita ed Era Gaucci)]] | **11700** | [[societa/presidenti/angelo-massimino\|A. Massimino]], R. Gaucci | [[vicende-legali/caso-catania-1993-eccellenza\|Salvataggio matricola al TAR (1993)]], [[stagioni/2001-2002\|Taranto 2002]] e [[vicende-legali/caso-catania-2003\|Caso Catania (2003)]]. |
 | **2004–2020** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A. (Era Pulvirenti)]] | **11700** | A. Pulvirenti, P. Lo Monaco, [[tesserati/allenatori/rolando-maran\|R. Maran]] | [[stagioni/2005-2006\|Promozione 2005-06]], 8 stagioni consecutive in A e [[stagioni/2012-2013\|record di 56 punti (2012-13)]]. |
 | **2020–2022** | [[societa/2020-sigi-e-fallimento\|Calcio Catania S.p.A. (Gestione SIGI)]] | **11700** | SIGI S.p.A., F. Baldini | [[vicende-legali/fallimento-2021-art52-noif\|Sentenza di fallimento n. 158/2021 (22/12/2021)]] e revoca esercizio provvisorio (09/04/2022). |
-| **2022–Oggi** | [[societa/2022-pelligra-catania-fc\|Catania SSD ➔ Catania Football Club]] | **955013** | [[01-societa/presidenti/ross-pelligra\|R. Pelligra]], [[01-societa/dirigenti/vincenzo-grella\|V. Grella]], [[01-societa/dirigenti/fortunato-varra\|F. Varrà (DS)]], [[03-tesserati/allenatori/emilio-longo\|E. Longo (All.)]] | Vittoria Serie D 2022-23 (record 88 pt), [[stagioni/2023-2024\|1ª Coppa Italia Serie C (2023-24)]], [[maglie/loghi-storici-liotru\|riacquisto logo storico]] e acquisizione Torre del Grifo (2025-2026). |
+| **2022–Oggi** | [[societa/2022-pelligra-catania-fc\|Catania SSD ➔ Catania Football Club]] | **955013** | [[01-societa/presidenti/ross-pelligra\|R. Pelligra]], [[01-societa/dirigenti/vincenzo-grella\|V. Grella]], [[01-societa/dirigenti/daniele-faggiano\|D. Faggiano (DS)]], [[03-tesserati/allenatori/domenico-toscano\|D. Toscano (All.)]] | Vittoria Serie D 2022-23 (record 88 pt), [[stagioni/2023-2024\|1ª Coppa Italia Serie C (2023-24)]], [[maglie/loghi-storici-liotru\|riacquisto logo storico]] e acquisizione Torre del Grifo (2025-2026). |
 
 ---
 

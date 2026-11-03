@@ -48,6 +48,7 @@ minutes_played: 1424
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 336948
 ---
 # Franco De Falco — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1979–1980</td>
+        <td colspan="3">1980–1981</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,8 +101,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1979-1980** | Attacco | 23 | 2 | 0 | 0 | 0 | 1424' |
+| **1980-1981** | Attacco | 23 | 2 | 0 | 0 | 0 | 1424' |
 | **TOTALE** | — | **23** | **2** | **0** | **0** | **0** | **1424'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Franco De Falco** ha collezionato complessivamente **23 presenze ufficiali**, disputando **1424 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **23 presenze ufficiali**, disputando **1424 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

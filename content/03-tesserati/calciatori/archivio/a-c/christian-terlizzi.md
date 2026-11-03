@@ -62,6 +62,7 @@ minutes_played: 6218
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20941
 ---
 # Christian Terlizzi — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2010</td>
+        <td colspan="3">2007–2011</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,14 +110,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Difensore centrale | 27 | 1 | 0 | 11 | 1 | 2201' |
-| **2007-2008** | Difensore centrale | 20 | 0 | 0 | 4 | 0 | 1420' |
-| **2008-2009** | Difensore centrale | 19 | 0 | 0 | 2 | 0 | 1500' |
-| **2009-2010** | Difensore centrale | 14 | 2 | 0 | 2 | 0 | 1097' |
+| **2007-2008** | Difensore centrale | 27 | 1 | 0 | 11 | 1 | 2201' |
+| **2008-2009** | Difensore centrale | 20 | 0 | 0 | 4 | 0 | 1420' |
+| **2009-2010** | Difensore centrale | 19 | 0 | 0 | 2 | 0 | 1500' |
+| **2010-2011** | Difensore centrale | 14 | 2 | 0 | 2 | 0 | 1097' |
 | **TOTALE** | — | **80** | **3** | **0** | **19** | **1** | **6218'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Christian Terlizzi** ha collezionato complessivamente **80 presenze ufficiali**, disputando **6218 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **80 presenze ufficiali**, disputando **6218 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Christian Terlizzi](https://it.wikipedia.org/wiki/Christian_Terlizzi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian Terlizzi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Terlizzi-76](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Terlizzi-76), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian Terlizzi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Terlizzi-76)/giocatori/giocatori.php?Terlizzi-76), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

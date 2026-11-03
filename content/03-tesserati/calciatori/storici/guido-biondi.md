@@ -57,17 +57,14 @@ minutes_played: 9011
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 395839
 ---
 # Guido Biondi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/545_guido-biondi.jpg" alt="Guido Biondi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -89,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1969–1975</td>
+        <td colspan="3">1970–1976</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,15 +106,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1969-1970** | Centrocampo | 12 | 1 | 1 | 0 | 0 | 1080' |
-| **1970-1971** | Centrocampo | 16 | 0 | 1 | 0 | 0 | 1255' |
-| **1972-1973** | Centrocampo | 35 | 0 | 0 | 0 | 0 | 2857' |
-| **1973-1974** | Centrocampo | 19 | 2 | 0 | 0 | 0 | 1525' |
-| **1974-1975** | Centrocampo | 26 | 3 | 0 | 0 | 2 | 2294' |
+| **1970-1971** | Centrocampo | 12 | 1 | 1 | 0 | 0 | 1080' |
+| **1971-1972** | Centrocampo | 16 | 0 | 1 | 0 | 0 | 1255' |
+| **1973-1974** | Centrocampo | 35 | 0 | 0 | 0 | 0 | 2857' |
+| **1974-1975** | Centrocampo | 19 | 2 | 0 | 0 | 0 | 1525' |
+| **1975-1976** | Centrocampo | 26 | 3 | 0 | 0 | 2 | 2294' |
 | **TOTALE** | — | **108** | **6** | **2** | **0** | **2** | **9011'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Guido Biondi** ha collezionato complessivamente **108 presenze ufficiali**, disputando **9011 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **108 presenze ufficiali**, disputando **9011 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -138,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Guido Biondi](https://it.wikipedia.org/wiki/Guido_Biondi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Biondi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biondi-545](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biondi-545), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Biondi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Biondi-545)/giocatori/giocatori.php?Biondi-545), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

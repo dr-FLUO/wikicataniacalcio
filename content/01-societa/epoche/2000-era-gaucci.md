@@ -23,9 +23,9 @@ coaches_refs:
 - Francesco 'Ciccio' Graziani e Maurizio Pellegrino
 - John Toshack, Edoardo Reja, Stefano Colantuono
 stadium_refs:
-- '[[stadio/angelo-massimino|Stadio Cibali / Stadio Angelo Massimino (intitolato il
+- '[[stadio/angelo-massimino]] |Stadio Cibali / Stadio Angelo Massimino (intitolato il
   16 giugno 2002)]]'
-prev_era: '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Era
+prev_era: '[[societa/1967-calcio-catania-spa-massimino]] |Calcio Catania S.p.A. — Era
   Massimino (1967-1993)]]'
 next_era: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti (2004-2020)]]'
 tags:
@@ -76,7 +76,7 @@ La sera del **4 marzo 1996**, di ritorno da un'udienza a Palermo, il presidente 
 
 Nel **maggio 2000** la famiglia Massimino cedette il 100% del pacchetto azionario a [[societa/presidenti/luciano-gaucci|Luciano Gaucci]] (allora patron del Perugia in Serie A), che affidò la presidenza del club al figlio ventiduenne [[societa/presidenti/riccardo-gaucci|Riccardo Gaucci]]:
 - Dopo la finale playoff del 2000-2001 persa contro il [[tifoseria/rivalita/messina|Messina]], nella [[stagioni/2001-2002|Stagione 2001-2002]] la squadra guidata dal tandem tecnico **Francesco "Ciccio" Graziani – Maurizio Pellegrino** (con i 18 gol di Eddy Baggio e le parate di Gennaro Iezzo) conquistò la **promozione in Serie B il 9 giugno 2002** espugnando la finale playoff contro il Taranto (1-0 all'andata al Cibali con rete di Michele Fini e 0-0 al ritorno allo Iacovone).
-- La turbolenta [[stagioni/2002-2003|Stagione 2002-2003]] (con quattro cambi di panchina tra Osvaldo Jaconi, Maurizio Pellegrino, John Toshack, Edoardo Reja e [[tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]]) sfociò nel celebre **[[vicende-legali/caso-catania-2003|Caso Catania ([[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]])]]**: il ricorso di [[societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] al TAR Sicilia per la gara [[partite/2002-2003/catania-siena-1-1|Catania-Siena 1-1]] scardinò il vincolo di giustizia sportiva, portando alla **Legge n. 280/2003** e alla permanenza in una Serie B allargata a 24 squadre.
+- La turbolenta [[stagioni/2002-2003|Stagione 2002-2003]] (con quattro cambi di panchina tra Osvaldo Jaconi, Maurizio Pellegrino, John Toshack, Edoardo Reja e [[tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]]) sfociò nel celebre **[[01-societa/vicende-legali/caso-martinelli-2003|Caso Catania (Caso Martinelli)]]**: il ricorso di [[societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] al TAR Sicilia per la gara [[partite/2002-2003/catania-siena-1-1|Catania-Siena 1-1]] scardinò il vincolo di giustizia sportiva, portando alla **Legge n. 280/2003** e alla permanenza in una Serie B allargata a 24 squadre.
 - Nella [[stagioni/2003-2004|Stagione 2003-2004]], con **Stefano Colantuono** in panchina e la spettacolare coppia d'attacco composta dal giovane [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e da **Luís Oliveira**, il Catania disputò un grande torneo chiudendo al **9º posto con 67 punti**. Nell'estate **2004**, travolto il gruppo Gaucci dalla crisi finanziaria, la società venne ceduta all'imprenditore catanese [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]].
 
 ---

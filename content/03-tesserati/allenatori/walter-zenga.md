@@ -1,7 +1,7 @@
 ---
 title: Walter Zenga — L'Uomo Ragno della Salvezza Rossazzurra
-description: 'Biografia e statistiche di Walter Zenga, allenatore del Catania dal
-  2008 al 2009: la semifinale di Coppa Italia, la salvezza e lo storico 4-0 di Palermo.'
+description: 'Biografia e statistiche di Walter Zenga, allenatore del Catania dal 2008 al 2009: la semifinale di Coppa Italia,
+  la salvezza e lo storico 4-0 di Palermo.'
 slug: 03-tesserati/allenatori/walter-zenga
 entity_type: allenatore
 status: verified
@@ -29,8 +29,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Walter_Zenga
   reference: Dati anagrafici, carriera e statistiche tecniche
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -41,8 +40,8 @@ sources:
   year: 2009
   reference: 45 panchine ufficiali in Serie A
 cover_image: walter-zenga.jpg
-cover_caption: Walter Zenga, allenatore del Catania nel 2008-2009, protagonista della
-  salvezza e dello storico 4-0 al Barbera di Palermo.
+cover_caption: Walter Zenga, allenatore del Catania nel 2008-2009, protagonista della salvezza e dello storico 4-0 al Barbera
+  di Palermo.
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 image_credits:
 - image_path: assets/images/allenatori/walter-zenga.jpg
@@ -65,14 +64,12 @@ aliases:
 - walter-zenga
 - tesserati/walter-zenga
 - allenatori/walter-zenga
-
 total_matches: 50
-
 locked: true
 locked_date: '2026-10-30'
-locked_by: 'quadratura_storico_allenatori_dataset'
+locked_by: quadratura_storico_allenatori_dataset
+tm_id: 1799
 ---
-
 # Walter Zenga
 
 <div class="nfc-player-hero-card nfc-coach-hero-card">

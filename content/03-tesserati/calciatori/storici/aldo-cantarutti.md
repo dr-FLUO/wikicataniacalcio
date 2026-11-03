@@ -72,8 +72,8 @@ minutes_played: 9557
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 222973
 ---
-
 # Aldo Cantarutti
 
 <div class="nfc-player-hero-card">
@@ -135,20 +135,20 @@ Negli spareggi dell'Olimpico del 18 e 25 giugno 1983, lottò come un leone contr
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1980-1981** | Punta centrale | 40 | 10 | 0 | 0 | 0 | 3600' |
-| **1981-1982** | Punta centrale | 41 | 12 | 1 | 0 | 1 | 3600' |
-| **1982-1983** | Punta centrale | 27 | 5 | 0 | 0 | 0 | 2357' |
+| **1981-1982** | Punta centrale | 40 | 10 | 0 | 0 | 0 | 3600' |
+| **1982-1983** | Punta centrale | 41 | 12 | 1 | 0 | 1 | 3600' |
+| **1983-1984** | Punta centrale | 27 | 5 | 0 | 0 | 0 | 2357' |
 | **TOTALE** | — | **108** | **27** | **1** | **0** | **1** | **9557'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Aldo Cantarutti** ha collezionato complessivamente **108 presenze ufficiali**, disputando **9557 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **108 presenze ufficiali**, disputando **9557 minuti** di gioco effettivo, siglando **27 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Aldo Cantarutti](https://it.wikipedia.org/wiki/Aldo_Cantarutti)*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
-2. **Archivio Storico Mimmo Rapisarda**, *Aldo Cantarutti: il centravanti dell'esodo di Roma*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/).
+2. **Archivio Storico Mimmo Rapisarda**, *Aldo Cantarutti: il centravanti dell'esodo di Roma*, [mimmorapisarda.it](https://www.mimmorapisarda.it/).
 3. **La Sicilia**, *Catania in Serie A: Cantarutti e compagni nell'olimpo del calcio*, 26 giugno 1983.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Aldo Cantarutti*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cantarutti-467).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Aldo Cantarutti*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cantarutti-467).

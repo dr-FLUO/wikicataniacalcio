@@ -62,6 +62,7 @@ minutes_played: 1282
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 21940
 ---
 # Michelangelo Minieri — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2001</td>
+        <td colspan="3">2001–2002</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,11 +110,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Difensore centrale | 24 | 0 | 0 | 6 | 0 | 1282' |
+| **2001-2002** | Difensore centrale | 24 | 0 | 0 | 6 | 0 | 1282' |
 | **TOTALE** | — | **24** | **0** | **0** | **6** | **0** | **1282'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Michelangelo Minieri** ha collezionato complessivamente **24 presenze ufficiali**, disputando **1282 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **24 presenze ufficiali**, disputando **1282 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michelangelo Minieri](https://it.wikipedia.org/wiki/Michelangelo_Minieri)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michelangelo Minieri*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Minieri-187](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Minieri-187), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michelangelo Minieri*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Minieri-187)/giocatori/giocatori.php?Minieri-187), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -41,6 +41,7 @@ minutes_played: 450
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 655535
 ---
 # Ferruccio Bedendo — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1934–1936</td>
+        <td colspan="3">1935–1937</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +96,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1934-1935** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
-| **1935-1936** | Difesa | 3 | 0 | 0 | 0 | 0 | 270' |
+| **1935-1936** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1936-1937** | Difesa | 3 | 0 | 0 | 0 | 0 | 270' |
 | **TOTALE** | — | **5** | **0** | **0** | **0** | **0** | **450'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ferruccio Bedendo** ha collezionato complessivamente **5 presenze ufficiali**, disputando **450 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **450 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

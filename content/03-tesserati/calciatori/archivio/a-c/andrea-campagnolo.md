@@ -63,6 +63,7 @@ minutes_played: 1447
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 21913
 ---
 # Andrea Campagnolo — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2008–2011</td>
+        <td colspan="3">2009–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Portiere | 7 | 0 | 0 | 0 | 0 | 630' |
-| **2009-2010** | Portiere | 4 | 0 | 0 | 0 | 0 | 390' |
-| **2010-2011** | Portiere | 5 | 0 | 0 | 0 | 0 | 427' |
+| **2009-2010** | Portiere | 7 | 0 | 0 | 0 | 0 | 630' |
+| **2010-2011** | Portiere | 4 | 0 | 0 | 0 | 0 | 390' |
+| **2011-2012** | Portiere | 5 | 0 | 0 | 0 | 0 | 427' |
 | **TOTALE** | — | **16** | **0** | **0** | **0** | **0** | **1447'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Campagnolo** ha collezionato complessivamente **16 presenze ufficiali**, disputando **1447 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1447 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Andrea Campagnolo](https://it.wikipedia.org/wiki/Andrea_Campagnolo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Campagnolo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Campagnolo-772](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Campagnolo-772), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Campagnolo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Campagnolo-772)/giocatori/giocatori.php?Campagnolo-772), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

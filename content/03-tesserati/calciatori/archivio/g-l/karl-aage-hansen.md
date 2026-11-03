@@ -53,6 +53,12 @@ aliases:
 - karl-aage-hansen
 - tesserati/karl-aage-hansen
 - calciatori/karl-aage-hansen
+- 03-tesserati/calciatori/archivio/g-l/karl-age-hansen
+- karl-age-hansen
+- tesserati/calciatori/karl-age-hansen
+- calciatori/karl-age-hansen
+- 03-tesserati/calciatori/storici/karl-aage-hansen
+- calciatori/storici/karl-aage-hansen
 image_credits:
 - image_path: /assets/images/calciatori/karl-aage-hansen.jpg
   alt_text: 'Ritratto ufficiale di Karl Aage Hansen — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
@@ -67,6 +73,7 @@ seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 519640
 ---
 # Karl Aage Hansen
 
@@ -85,7 +92,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1921</td>
         <th>Nazionalità</th>
-        <td>Danimarca</td>
+        <td>Regno di Danimarca</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -130,18 +137,17 @@ Dopo la controversa retrocessione a tavolino del 1955 per il [[01-societa/vicend
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1953-1954** | Centrocampista | 31 | 2 | 0 | 0 | 0 | 2790' |
 | **1954-1955** | Centrocampista | 31 | 2 | 0 | 0 | 0 | 2790' |
-| **1955-1956** | Centrocampista | 17 | 2 | 0 | 0 | 0 | 1530' |
+| **1955-1956** | Centrocampista | 31 | 2 | 0 | 0 | 0 | 2790' |
+| **1956-1957** | Centrocampista | 17 | 2 | 0 | 0 | 0 | 1530' |
 | **TOTALE** | — | **79** | **6** | **0** | **0** | **0** | **7110'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Karl Aage Hansen** ha collezionato complessivamente **79 presenze ufficiali**, disputando **7110 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
-
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **79 presenze ufficiali**, disputando **7110 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Karl Aage Hansen](https://it.wikipedia.org/wiki/Karl_Aage_Hansen)*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 156-172 (Stagioni dal 1954-1955 al 1956-1957).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Karl Age Hansen*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Hansen-709).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Karl Age Hansen*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Hansen-709).

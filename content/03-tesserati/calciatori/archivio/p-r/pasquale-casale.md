@@ -52,17 +52,14 @@ minutes_played: 5877
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 227544
 ---
 # Pasquale Casale — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/506_pasquale-casale.jpg" alt="Pasquale Casale" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1978–1980</td>
+        <td colspan="3">1979–1981</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1978-1979** | Centrocampista | 27 | 2 | 0 | 0 | 0 | 2401' |
-| **1979-1980** | Centrocampista | 40 | 3 | 2 | 0 | 0 | 3476' |
+| **1979-1980** | Centrocampista | 27 | 2 | 0 | 0 | 0 | 2401' |
+| **1980-1981** | Centrocampista | 40 | 3 | 2 | 0 | 0 | 3476' |
 | **TOTALE** | — | **67** | **5** | **2** | **0** | **0** | **5877'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pasquale Casale** ha collezionato complessivamente **67 presenze ufficiali**, disputando **5877 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5877 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pasquale Casale](https://it.wikipedia.org/wiki/Pasquale_Casale)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pasquale Casale*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Casale-506](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Casale-506), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pasquale Casale*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Casale-506)/giocatori/giocatori.php?Casale-506), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

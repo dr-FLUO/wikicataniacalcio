@@ -53,6 +53,7 @@ minutes_played: 3877
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 485083
 ---
 # Kalifa Manneh — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1999</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2015–2020</td>
+        <td colspan="3">2016–2021</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,15 +101,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2015-2016** | Ala sinistra | 5 | 0 | 0 | 0 | 0 | 340' |
-| **2016-2017** | Ala sinistra | 19 | 1 | 2 | 0 | 0 | 835' |
-| **2017-2018** | Ala sinistra | 37 | 3 | 8 | 1 | 0 | 1865' |
-| **2018-2019** | Ala sinistra | 10 | 0 | 0 | 1 | 0 | 219' |
-| **2019-2020** | Ala sinistra | 21 | 2 | 1 | 0 | 0 | 618' |
+| **2016-2017** | Ala sinistra | 5 | 0 | 0 | 0 | 0 | 340' |
+| **2017-2018** | Ala sinistra | 19 | 1 | 2 | 0 | 0 | 835' |
+| **2018-2019** | Ala sinistra | 37 | 3 | 8 | 1 | 0 | 1865' |
+| **2019-2020** | Ala sinistra | 10 | 0 | 0 | 1 | 0 | 219' |
+| **2020-2021** | Ala sinistra | 21 | 2 | 1 | 0 | 0 | 618' |
 | **TOTALE** | — | **92** | **6** | **11** | **2** | **0** | **3877'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Kalifa Manneh** ha collezionato complessivamente **92 presenze ufficiali**, disputando **3877 minuti** di gioco effettivo, siglando **6 gol** e servendo **11 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **92 presenze ufficiali**, disputando **3877 minuti** di gioco effettivo, siglando **6 gol** e servendo **11 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kalifa Manneh*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Manneh-908](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Manneh-908), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kalifa Manneh*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Manneh-908), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

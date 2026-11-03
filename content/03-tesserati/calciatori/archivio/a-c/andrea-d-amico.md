@@ -41,11 +41,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Andrea D&apos;amico
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?D-amico-80
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 80
 aliases:
 - tesserati/calciatori/andrea-d-amico
 - andrea-d-amico
 - tesserati/andrea-d-amico
 - calciatori/andrea-d-amico
+- tesserati/calciatori/andrea-daposamico
+- andrea-daposamico
+- tesserati/andrea-daposamico
+- calciatori/andrea-daposamico
+- 03-tesserati/calciatori/archivio/a-c/andrea-daposamico
+- Andrea D'amico
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -53,6 +65,7 @@ minutes_played: 16
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 100685
 ---
 # Andrea D'amico — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +93,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2008</td>
+        <td colspan="3">2008–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +117,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Centrocampista | 2 | 0 | 0 | 1 | 0 | 16' |
+| **2008-2009** | Centrocampista | 2 | 0 | 0 | 1 | 0 | 16' |
 | **TOTALE** | — | **2** | **0** | **0** | **1** | **0** | **16'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea D'Amico** ha collezionato complessivamente **2 presenze ufficiali**, disputando **16 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **16 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

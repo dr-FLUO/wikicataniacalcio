@@ -64,7 +64,7 @@ locked_by: certificazione_archivio_storico_ufficiale
         <th>Anno</th>
         <td>1908</td>
         <th>Nazionalità</th>
-        <td>Romania / Ungheria</td>
+        <td>Romania</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -93,4 +93,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Centrocampista della scuola mitteleuropea danubiana. Arrivato in Italia negli anni Trenta, orchestra la manovra dell'Associazione Fascista Calcio Catania in cadetteria con magistrale visione geometrica e sapienza tattica.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1936-1938, totalizzando **48 presenze ufficiali** tra campionati e coppe nazionali.
-

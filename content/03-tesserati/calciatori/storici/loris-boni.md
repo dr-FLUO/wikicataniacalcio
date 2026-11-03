@@ -13,10 +13,10 @@ role: Centrocampista / Mediano
 shirt_number: 4
 catania_periods:
 - 1979–1980
-total_appearances: 0
+total_appearances: 32
 league_appearances: 32
 serie_a_appearances: 0
-total_goals: 0
+total_goals: 1
 club_entities:
 - '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
 image_credits:
@@ -58,7 +58,7 @@ aliases:
 - tesserati/loris-boni
 - calciatori/loris-boni
 total_assists: 0
-minutes_played: 0
+minutes_played: 2880
 seasons_count: 1
 locked: true
 locked_date: '2026-10-30'
@@ -69,13 +69,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/calciatori/figurine/loris-boni-calcio-catania-figurina-panini-1979-1980.webp" alt="Loris Boni" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[CalcioCatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2018-2019 | Terzino sinistro | 0 | 0 | 0 | 0 | 0 | 0' |</div>
+    <div class="nfc-player-photo-credit">Foto: Edizioni Panini / Archivio Storico Calcio Catania</div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -103,13 +97,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
         <th>Presenze</th>
         <td>32</td>
         <th>Goal / Assist</th>
-        <td>0 / 0</td>
+        <td>1 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**Loris Boni** (Remedello, 14 gennaio 1953)  stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore Lino De Petrillo. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
+**Loris Boni** (Remedello, 14 gennaio 1953) è stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore Lino De Petrillo. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
 
 ## Collegamenti Correlati
 * [[stagioni/1979-1980|Stagione 1979-1980 — Promozione in Serie B]]
@@ -118,12 +112,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
 ## Fonti e Bibliografia
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 * *Almanacco Illustrato del Calcio*, Panini Edizioni, Modena.
-* [CalcioCatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.
+* [CalcioCatania.com](https://www.calciocatania.com/) — Archivio storico e statistiche ufficiali.
 
 ## Rendimento e Presenze Ufficiali per Stagione
 
 | Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2018-2019 | Terzino sinistro | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1979-1980** | Mediano | 32 | 1 | 0 | 0 | 0 | 2880' |
+| **TOTALE** | — | **32** | **1** | **0** | **0** | **0** | **2880'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 32 presenze e 1 reti complessive.*

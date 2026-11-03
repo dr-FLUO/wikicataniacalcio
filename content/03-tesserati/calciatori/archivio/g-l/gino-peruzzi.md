@@ -62,6 +62,7 @@ minutes_played: 2627
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 138110
 ---
 # Gino Peruzzi — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2014</td>
+        <td colspan="3">2013–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,12 +110,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Terzino destro | 23 | 1 | 1 | 8 | 0 | 1617' |
-| **2013-2014** | Terzino destro | 12 | 0 | 0 | 5 | 0 | 1010' |
+| **2013-2014** | Terzino destro | 23 | 1 | 1 | 8 | 0 | 1617' |
+| **2014-2015** | Terzino destro | 12 | 0 | 0 | 5 | 0 | 1010' |
 | **TOTALE** | — | **35** | **1** | **1** | **13** | **0** | **2627'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gino Peruzzi** ha collezionato complessivamente **35 presenze ufficiali**, disputando **2627 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **2627 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Gino Peruzzi](https://it.wikipedia.org/wiki/Gino_Peruzzi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gino Peruzzi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Peruzzi-801](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Peruzzi-801), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gino Peruzzi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Peruzzi-801)/giocatori/giocatori.php?Peruzzi-801), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -6,7 +6,7 @@ description: 'Tabellino e storia di Catania-Inter 2-0 del 4 giugno 1961 (34ª gi
 slug: 02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0
 entity_type: tabellino_gara
 match_date: 1961-06-04
-season_ref: '[[stagioni/index|Stagione 1960-1961]]'
+season_ref: '[[02-cronistoria/stagioni/index|Stagione 1960-1961]]'
 competition: Serie A
 matchday: 34ª Giornata (Ultima di ritorno)
 stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali]]'

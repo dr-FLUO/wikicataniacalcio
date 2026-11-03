@@ -57,17 +57,14 @@ minutes_played: 5047
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 475917
 ---
 # Nicola Fusaro — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/525_nicola-fusaro.jpg" alt="Nicola Fusaro" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -89,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1978</td>
+        <td colspan="3">1976–1979</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +106,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Ala destra | 26 | 4 | 0 | 0 | 0 | 2235' |
-| **1976-1977** | Ala destra | 28 | 3 | 0 | 0 | 0 | 2317' |
-| **1977-1978** | Ala destra | 10 | 0 | 0 | 0 | 0 | 495' |
+| **1976-1977** | Ala destra | 26 | 4 | 0 | 0 | 0 | 2235' |
+| **1977-1978** | Ala destra | 28 | 3 | 0 | 0 | 0 | 2317' |
+| **1978-1979** | Ala destra | 10 | 0 | 0 | 0 | 0 | 495' |
 | **TOTALE** | — | **64** | **7** | **0** | **0** | **0** | **5047'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nicola Fusaro** ha collezionato complessivamente **64 presenze ufficiali**, disputando **5047 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **64 presenze ufficiali**, disputando **5047 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +133,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Nicola Fusaro](https://it.wikipedia.org/wiki/Nicola_Fusaro)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicola Fusaro*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fusaro-525](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fusaro-525), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nicola Fusaro*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Fusaro-525)/giocatori/giocatori.php?Fusaro-525), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

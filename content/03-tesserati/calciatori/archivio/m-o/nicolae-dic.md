@@ -1,7 +1,6 @@
 ---
 title: Nicolae Dică — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nicolae Dică, centrocampista
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Nicolae Dică, centrocampista del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/m-o/nicolae-dic
 entity_type: calciatore
 status: verified
@@ -24,8 +23,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Nicolae_Dic%C4%83
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -48,10 +46,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/nicolae-dic
-- nicolae-dic
-- tesserati/nicolae-dic
+- 03-tesserati/calciatori/archivio/m-o/nicolae-costantin-dica
+- 03-tesserati/calciatori/nicolae-costantin-dica
+- calciatori/nicolae-costantin-dica
 - calciatori/nicolae-dic
+- nicolae-costantin-dica
+- tesserati/calciatori/nicolae-costantin-dica
+- tesserati/calciatori/nicolae-dic
+- tesserati/nicolae-costantin-dica
+- tesserati/nicolae-dic
 citizenship: Romania
 total_goals: 1
 total_assists: 1
@@ -59,6 +62,7 @@ minutes_played: 320
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 15004
 ---
 # Nicolae Dică — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +80,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
         <th>Anno</th>
         <td>1980</td>
         <th>Nazionalità</th>
-        <td>Romania</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -86,7 +90,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2008</td>
+        <td colspan="3">2008–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -106,10 +110,12 @@ Nato a Pitești (1980-05-09), Nicolae Dică ha militato tra le file della formaz
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2007-2008 | Seconda punta | 6 | 1 | 1 | 1 | 0 | 320' |
+| **2008-2009** | Seconda punta | 6 | 1 | 1 | 1 | 0 | 320' |
+| **TOTALE** | — | **6** | **1** | **1** | **1** | **0** | **320'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 6 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **320 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.

@@ -144,7 +144,7 @@ Dopo aver iniziato anche il torneo cadetto 1975-1976 (lanciando titolare un giov
 - [Voce Enciclopedica Ufficiale — Egizio Rubino](https://it.wikipedia.org/wiki/Egizio_Rubino) su *Wikipedia, L'enciclopedia libera*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 235–250, 266–275, 294–298.
-2. **Archivio Storico Mimmo Rapisarda**, *Addio a Egizio Rubino, l'allenatore gentiluomo di due promozioni rossazzurre*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/), 2008.
+2. **Archivio Storico Mimmo Rapisarda**, *Addio a Egizio Rubino, l'allenatore gentiluomo di due promozioni rossazzurre*, [mimmorapisarda.it](https://www.mimmorapisarda.it/), 2008.
 
 
 ## Cronistoria Incarichi e Rendimento Tecnico Ufficiale

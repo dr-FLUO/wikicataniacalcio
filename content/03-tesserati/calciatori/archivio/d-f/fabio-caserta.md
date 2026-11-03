@@ -62,6 +62,7 @@ minutes_played: 8483
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 28832
 ---
 # Fabio Caserta — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2007</td>
+        <td colspan="3">2004–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,14 +110,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Centrocampista | 33 | 2 | 0 | 7 | 0 | 2414' |
-| **2004-2005** | Centrocampista | 36 | 5 | 0 | 9 | 0 | 2911' |
-| **2005-2006** | Centrocampista | 36 | 6 | 1 | 8 | 0 | 3105' |
-| **2006-2007** | Centrocampista | 2 | 0 | 0 | 0 | 0 | 53' |
+| **2004-2005** | Centrocampista | 33 | 2 | 0 | 7 | 0 | 2414' |
+| **2005-2006** | Centrocampista | 36 | 5 | 0 | 9 | 0 | 2911' |
+| **2006-2007** | Centrocampista | 36 | 6 | 1 | 8 | 0 | 3105' |
+| **2007-2008** | Centrocampista | 2 | 0 | 0 | 0 | 0 | 53' |
 | **TOTALE** | — | **107** | **13** | **1** | **24** | **0** | **8483'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabio Caserta** ha collezionato complessivamente **107 presenze ufficiali**, disputando **8483 minuti** di gioco effettivo, siglando **13 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **107 presenze ufficiali**, disputando **8483 minuti** di gioco effettivo, siglando **13 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fabio Caserta](https://it.wikipedia.org/wiki/Fabio_Caserta)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Caserta*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Caserta-43](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Caserta-43), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Caserta*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Caserta-43)/giocatori/giocatori.php?Caserta-43), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

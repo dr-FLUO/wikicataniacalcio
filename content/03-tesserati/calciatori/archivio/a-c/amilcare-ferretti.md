@@ -52,17 +52,14 @@ minutes_played: 5940
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 251080
 ---
 # Amilcare Ferretti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/673_amilcare-ferretti.jpg" alt="Amilcare Ferretti" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1958–1960</td>
+        <td colspan="3">1959–1961</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1958-1959** | Mediano | 35 | 4 | 0 | 0 | 0 | 3150' |
-| **1959-1960** | Mediano | 32 | 4 | 0 | 0 | 1 | 2790' |
+| **1959-1960** | Mediano | 35 | 4 | 0 | 0 | 0 | 3150' |
+| **1960-1961** | Mediano | 32 | 4 | 0 | 0 | 1 | 2790' |
 | **TOTALE** | — | **67** | **8** | **0** | **0** | **1** | **5940'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Amilcare Ferretti** ha collezionato complessivamente **67 presenze ufficiali**, disputando **5940 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5940 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Amilcare Ferretti](https://it.wikipedia.org/wiki/Amilcare_Ferretti)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Amilcare Ferretti*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ferretti-673](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ferretti-673), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Amilcare Ferretti*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ferretti-673)/giocatori/giocatori.php?Ferretti-673), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

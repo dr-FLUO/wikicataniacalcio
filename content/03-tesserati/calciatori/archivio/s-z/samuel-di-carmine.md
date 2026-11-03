@@ -65,6 +65,7 @@ minutes_played: 2343
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 45389
 ---
 # Samuel Di Carmine
 
@@ -80,9 +81,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1988</td>
+        <td>1989</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -127,11 +128,11 @@ Tra i momenti più alti della sua stagione si ricordano la doppietta nel derby v
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2022-2023** | Punta centrale | 36 | 10 | 0 | 3 | 0 | 2343' |
+| **2023-2024** | Punta centrale | 36 | 10 | 0 | 3 | 0 | 2343' |
 | **TOTALE** | — | **36** | **10** | **0** | **3** | **0** | **2343'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Samuel Di Carmine** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2343 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2343 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia

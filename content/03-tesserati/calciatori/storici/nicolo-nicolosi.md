@@ -1,7 +1,7 @@
 ---
 title: Nicolò «Cocò» Nicolosi — Il Miglior Marcatore Assoluto della Storia del Catania (78 Reti)
 description: Biografia, presenze e statistiche ufficiali di Nicolò Nicolosi, attaccante (centravanti / ala) del Calcio Catania
-  con 7 presenze e 7 gol registrati in maglia rossazzurra.
+  con 156 presenze ufficiali (149 in campionato) e 78 reti registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/nicolo-nicolosi
 entity_type: calciatore
 status: verified
@@ -17,8 +17,9 @@ catania_periods:
 - 1939-1940
 - 1942-1943
 - 1947-1949
-total_appearances: 7
-total_goals: 7
+total_appearances: 156
+league_appearances: 149
+total_goals: 78
 league_goals: 71
 club_entities:
 - '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania]]'
@@ -72,10 +73,11 @@ aliases:
 - calciatori/nicolo-nicolosi
 total_assists: 0
 minutes_played: 660
-seasons_count: 2
+seasons_count: 8
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 545718
 ---
 # Nicolò «Cocò» Nicolosi
 
@@ -94,7 +96,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1912</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -108,15 +110,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>7</td>
+        <td>156</td>
         <th>Goal / Assist</th>
-        <td>7 / 0</td>
+        <td>78 / 0</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**Nicolò Nicolosi**, universalmente conosciuto come **"Cocò" Nicolosi** (Lercara Friddi, 9 agosto 1912 – Catania, 3 maggio 1986), è stato un calciatore e allenatore di calcio italiano, di ruolo attaccante (centravanti e ala). È il **miglior marcatore assoluto della storia ultranovantennale del Catania con 78 reti ufficiali** (di cui **71 nei campionati nazionali** e **7 nelle coppe e nei gironi finali promozione**), messe a segno in **149 presenze complessive** attraverso quattro distinti cicli (1932–1937, 1939–1940, 1942–1943 e 1947–1949), rappresentando l'anello di congiunzione vivo tra la pionieristica [[societa/1929-ss-catania|Società Sportiva Catania]] anteguerra e il [[societa/1946-club-calcio-catania|Club Calcio Catania]] della rifondazione post-bellica.
+**Nicolò Nicolosi**, universalmente conosciuto come **"Cocò" Nicolosi** (Lercara Friddi, 9 agosto 1912 – Catania, 3 maggio 1986), è stato un calciatore e allenatore di calcio italiano, di ruolo attaccante (centravanti e ala). È il **miglior marcatore assoluto della storia ultranovantennale del Catania con 78 reti ufficiali** (di cui **71 nei campionati nazionali** e **7 nelle coppe e nei gironi finali promozione**), messe a segno in **156 presenze complessive** (di cui 149 in campionato tra regular season, gironi finali e spareggi, e 7 in Coppa Italia) attraverso quattro distinti cicli (1932–1937, 1939–1940, 1942–1943 e 1947–1949), rappresentando l'anello di congiunzione vivo tra la pionieristica [[societa/1929-ss-catania|Società Sportiva Catania]] anteguerra e il [[societa/1946-club-calcio-catania|Club Calcio Catania]] della rifondazione post-bellica.
 
 ## L'Esplosione a Piazza Esposizione e la Prima Serie B con Kertész (1932–1937)
 
@@ -162,19 +164,28 @@ Tra il **1947 e il 1949**, ormai veterano, mette a segno le sue ultime **11 reti
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/).
- e Bibliografia
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
+
+## Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 32–125 e Appendice Statistica.
-2. **Roberto Quartarone**, *Nicolò "Cocò" Nicolosi, il bomber eterno del calcio rossazzurro*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2016.
+2. **Roberto Quartarone**, *Nicolò "Cocò" Nicolosi, il bomber eterno del calcio rossazzurro*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/), 2016.
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1934-1935** | Attacco | 3 | 3 | 0 | 0 | 0 | 270' |
-| **1935-1936** | Attacco | 4 | 4 | 0 | 0 | 0 | 390' |
-| **TOTALE** | — | **7** | **7** | **0** | **0** | **0** | **660'** |
+| Stagione | Competizione | Presenze | Gol | Note Storiche |
+| :--- | :--- | :---: | :---: | :--- |
+| **1932-1933** | Prima Divisione (III livello) | 18 | 11 | Esordio col Catania a Piazza Esposizione |
+| **1933-1934** | Prima Divisione (III livello) | 30 | 18 | Promozione in Serie B (14 reg. + 4 girone finale) |
+| **1934-1935** | Serie B | 27 | 13 | 3º posto nel girone A (sfiorata la Serie A) |
+| **1935-1936** | Serie B + Coppa Italia | 35 | 15 | 12 reti in Serie B, 3 in Coppa Italia |
+| **1936-1937** | Serie B + Coppa Italia | 30 | 15 | 11 reti in Serie B, 4 in Coppa Italia |
+| **1939-1940** | Serie B + Coppa Italia | 23 | 3 | Ritorno al Cibali |
+| **1942-1943** | Serie C | 16 | 10 | Torneo sospeso per cause belliche |
+| **1947-1949** | Serie C | 25 | 11 | Rinascita del Club Calcio Catania e promozione in B |
+| **TOTALE** | **8 Stagioni (4 Cicli)** | **156** | **78** | **Recordman assoluto di reti nella storia del club** |
 
-> [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nicolò Nicolosi** ha collezionato complessivamente **7 presenze ufficiali**, disputando **660 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> [!info] Dettaglio di Rendimento Agonistico Consolidato
+> In maglia rossazzurra, Nicolò «Cocò» Nicolosi ha collezionato complessivamente **156 presenze ufficiali** (149 in campionato e 7 in Coppa Italia) e siglato **78 reti** (71 in campionato e 7 nelle coppe e spareggi), mantenendo il primato assoluto di segnature del club.
+> 
+> *Nota archivistica del 2023:* Nell'ottobre 2023 i ricercatori di *Tutto il Catania minuto per minuto* hanno documentato l'attribuzione a Nicolosi del 2º gol in Catania-Novara 2-0 del 27 gennaio 1935 (precedentemente assegnato a Bodini), portando il computo storico a **79 reti effettive**.

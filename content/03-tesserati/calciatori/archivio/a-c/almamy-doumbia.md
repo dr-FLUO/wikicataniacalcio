@@ -41,6 +41,7 @@ minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 35796
 ---
 # Almamy Doumbia — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2002</td>
+        <td colspan="3">2002–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +96,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2002-2003** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Almamy Doumbia** ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

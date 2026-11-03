@@ -56,6 +56,7 @@ minutes_played: 16214
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 335683
 ---
 # Carlo Borghi
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1979–1982, 1985–1988</td>
+        <td colspan="3">1979–1989</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,16 +122,16 @@ Nel primo triennio (1979-1982) formò un tandem irresistibile con Damiano Morra 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1978-1979** | Seconda punta | 26 | 6 | 0 | 0 | 0 | 2218' |
-| **1983-1984** | Seconda punta | 32 | 5 | 0 | 0 | 1 | 2727' |
-| **1984-1985** | Seconda punta | 39 | 10 | 0 | 0 | 1 | 3308' |
-| **1985-1986** | Seconda punta | 42 | 4 | 0 | 0 | 0 | 3547' |
-| **1986-1987** | Seconda punta | 19 | 5 | 0 | 0 | 0 | 1637' |
-| **1987-1988** | Seconda punta | 31 | 3 | 0 | 3 | 0 | 2777' |
+| **1979-1980** | Seconda punta | 26 | 6 | 0 | 0 | 0 | 2218' |
+| **1984-1985** | Seconda punta | 32 | 5 | 0 | 0 | 1 | 2727' |
+| **1985-1986** | Seconda punta | 39 | 10 | 0 | 0 | 1 | 3308' |
+| **1986-1987** | Seconda punta | 42 | 4 | 0 | 0 | 0 | 3547' |
+| **1987-1988** | Seconda punta | 19 | 5 | 0 | 0 | 0 | 1637' |
+| **1988-1989** | Seconda punta | 31 | 3 | 0 | 3 | 0 | 2777' |
 | **TOTALE** | — | **189** | **33** | **0** | **3** | **2** | **16214'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Carlo Borghi** ha collezionato complessivamente **189 presenze ufficiali**, disputando **16214 minuti** di gioco effettivo, siglando **33 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **189 presenze ufficiali**, disputando **16214 minuti** di gioco effettivo, siglando **33 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -138,4 +139,4 @@ Nel primo triennio (1979-1982) formò un tandem irresistibile con Damiano Morra 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 300-345 (Stagioni 1979-1982 e 1985-1988).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Carlo Borghi*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Borghi-410).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Carlo Borghi*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Borghi-410).

@@ -43,19 +43,14 @@ minutes_played: 445
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 748313
 ---
 # Giulio Frisenna — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/966_giulio-frisenna.jpg" alt="Giulio Frisenna" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2002</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2018–2024</td>
+        <td colspan="3">2019–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,14 +92,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2018-2019** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2020-2021** | Centrocampista | 1 | 0 | 0 | 0 | 0 | 29' |
-| **2021-2022** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2023-2024** | Centrocampista | 11 | 1 | 2 | 2 | 0 | 416' |
+| **2019-2020** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2021-2022** | Centrocampista | 1 | 0 | 0 | 0 | 0 | 29' |
+| **2022-2023** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2024-2025** | Centrocampista | 11 | 1 | 2 | 2 | 0 | 416' |
 | **TOTALE** | — | **12** | **1** | **2** | **2** | **0** | **445'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giulio Frisenna** ha collezionato complessivamente **12 presenze ufficiali**, disputando **445 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **445 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -124,5 +119,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giulio Frisenna*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Frisenna-966](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Frisenna-966), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giulio Frisenna*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Frisenna-966), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

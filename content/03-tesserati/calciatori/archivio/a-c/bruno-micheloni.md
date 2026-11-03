@@ -56,6 +56,7 @@ minutes_played: 5130
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 516046
 ---
 # Bruno Micheloni
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1951–1954</td>
+        <td colspan="3">1952–1954</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,12 +122,12 @@ Dopo aver segnato 8 reti nel 1951-1952, nella [[stagioni/1952-1953|Stagione 1952
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1951-1952** | Attacco | 31 | 13 | 0 | 0 | 0 | 2790' |
-| **1952-1953** | Attacco | 26 | 8 | 0 | 0 | 0 | 2340' |
+| **1952-1953** | Attacco | 31 | 13 | 0 | 0 | 0 | 2790' |
+| **1953-1954** | Attacco | 26 | 8 | 0 | 0 | 0 | 2340' |
 | **TOTALE** | — | **57** | **21** | **0** | **0** | **0** | **5130'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Bruno Micheloni** ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **21 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **21 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -134,4 +135,4 @@ Dopo aver segnato 8 reti nel 1951-1952, nella [[stagioni/1952-1953|Stagione 1952
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 138-154 (Stagioni dal 1951-1952 al 1953-1954).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Bruno Micheloni*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Micheloni-735).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Bruno Micheloni*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Micheloni-735).

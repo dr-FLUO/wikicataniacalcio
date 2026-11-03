@@ -52,17 +52,14 @@ minutes_played: 9810
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 516041
 ---
 # Ferruccio Santamaria — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/723_ferruccio-santamaria.jpg" alt="Ferruccio Santamaria" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1951–1955</td>
+        <td colspan="3">1952–1956</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1951-1952** | Centrocampo | 32 | 1 | 0 | 0 | 0 | 2880' |
-| **1952-1953** | Centrocampo | 31 | 1 | 0 | 0 | 0 | 2790' |
-| **1953-1954** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 2430' |
-| **1954-1955** | Centrocampo | 19 | 1 | 0 | 0 | 0 | 1710' |
+| **1952-1953** | Centrocampo | 32 | 1 | 0 | 0 | 0 | 2880' |
+| **1953-1954** | Centrocampo | 31 | 1 | 0 | 0 | 0 | 2790' |
+| **1954-1955** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 2430' |
+| **1955-1956** | Centrocampo | 19 | 1 | 0 | 0 | 0 | 1710' |
 | **TOTALE** | — | **109** | **3** | **0** | **0** | **0** | **9810'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ferruccio Santamaria** ha collezionato complessivamente **109 presenze ufficiali**, disputando **9810 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **9810 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ferruccio Santamaria](https://it.wikipedia.org/wiki/Ferruccio_Santamaria)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferruccio Santamaria*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Santamaria-723](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Santamaria-723), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferruccio Santamaria*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Santamaria-723)/giocatori/giocatori.php?Santamaria-723), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -1,7 +1,7 @@
 ---
 title: Luigi Alberto Scaglia — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Luigi Alberto Scaglia,
-  centrocampista del Calcio Catania con 12 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Luigi Alberto Scaglia, centrocampista del Calcio Catania con 12
+  presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/luigi-alberto-scaglia
 entity_type: calciatore
 status: verified
@@ -38,8 +38,7 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/923_luigi-alberto-scaglia.jpg
-  alt_text: Ritratto del calciatore Luigi Alberto Scaglia in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Luigi Alberto Scaglia in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -54,6 +53,7 @@ minutes_played: 758
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 43364
 ---
 # Luigi Alberto Scaglia — Scheda Giocatore nel Calcio Catania
 
@@ -112,15 +112,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2018-2019** | Centrocampista | 12 | 0 | 0 | 1 | 0 | 758' |
+| **TOTALE** | — | **12** | **0** | **0** | **1** | **0** | **758'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Luigi Scaglia** ha collezionato complessivamente **12 presenze ufficiali**, disputando **758 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Alberto Scaglia*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Scaglia-923](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Scaglia-923), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Alberto Scaglia*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Scaglia-923), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2017-2018 | Centrocampista | 12 | 0 | 0 | 1 | 0 | 758' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 12 presenze e 0 reti complessive.*

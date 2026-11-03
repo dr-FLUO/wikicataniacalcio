@@ -1,7 +1,7 @@
 ---
 title: Leite Pereira Marcelinho — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Leite Pereira Marcelinho,
-  centrocampista del Calcio Catania con 9 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Leite Pereira Marcelinho, centrocampista del Calcio Catania con
+  9 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/leite-pereira-marcelinho
 entity_type: calciatore
 status: verified
@@ -32,13 +32,16 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 836
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
+- 03-tesserati/calciatori/archivio/m-o/marcelo-leite-pereira
+- marcelo-leite-pereira
+- marcelinho
+- Marcelo Leite Pereira
 - tesserati/calciatori/leite-pereira-marcelinho
 - leite-pereira-marcelinho
 - tesserati/leite-pereira-marcelinho
@@ -49,6 +52,7 @@ minutes_played: 282
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 67955
 ---
 # Leite Pereira Marcelinho — Scheda Giocatore nel Calcio Catania
 
@@ -64,9 +68,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1987</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,7 +80,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +113,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Leite Pereira Marcelinho*, in [https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836](https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Leite Pereira Marcelinho*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Marcelinho-836), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2013-2014 | Ala sinistra | 10 | 1 | 2 | 0 | 0 | 282' |
+| **2014-2015** | Ala sinistra | 10 | 1 | 2 | 0 | 0 | 282' |
+| **TOTALE** | — | **10** | **1** | **2** | **0** | **0** | **282'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 10 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **282 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.

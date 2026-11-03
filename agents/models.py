@@ -90,9 +90,9 @@ class SeasonPayload(BaseModel):
     """Contratto dati validato per una singola stagione agonistica (1929-Oggi)."""
     title: str
     description: str = Field(min_length=50, max_length=220, description="Meta description SEO/GEO")
-    slug: str = Field(pattern=r"^stagioni/\d{4}-\d{4}$")
+    slug: str = Field(pattern=r"^(?:02-cronistoria/)?stagioni/\d{4}-\d{4}$")
     season_label: str = Field(pattern=r"^\d{4}-\d{4}$")
-    club_entity_slug: str = Field(pattern=r"^societa/[a-z0-9-]+$")
+    club_entity_slug: str = Field(pattern=r"^(?:01-)?societa/[a-z0-9-/]+$")
     figc_matricola: Literal["N/A (Pre-1946)", "11700", "955013"]
     division: str
     division_tier: int = Field(ge=1, le=6)
@@ -110,8 +110,8 @@ class SeasonPayload(BaseModel):
     points_final: int
     final_position: int = Field(ge=1, le=25)
     office_demotion: bool = Field(default=False)
-    legal_dossier_slug: Optional[str] = Field(default=None, pattern=r"^vicende-legali/[a-z0-9-]+$")
-    top_scorer_slug: str = Field(pattern=r"^tesserati/calciatori/[a-z0-9-]+$")
+    legal_dossier_slug: Optional[str] = Field(default=None, pattern=r"^(?:01-societa/)?vicende-legali/[a-z0-9-]+$")
+    top_scorer_slug: str = Field(pattern=r"^(?:03-)?tesserati/calciatori/[a-z0-9-/]+$")
     top_scorer_goals: int = Field(ge=0)
     sources: list[SourceCitationPayload] = Field(
         min_length=1,
@@ -165,11 +165,11 @@ class LegalDossierPayload(BaseModel):
     """Contratto dati validato per un nodo giudiziario autonomo."""
     title: str
     description: str = Field(min_length=50, max_length=220)
-    slug: str = Field(pattern=r"^vicende-legali/[a-z0-9-]+$")
+    slug: str = Field(pattern=r"^(?:01-societa/)?vicende-legali/[a-z0-9-]+$")
     date_start: date
     date_end: date
-    season_slug: str = Field(pattern=r"^stagioni/\d{4}-\d{4}$")
-    club_entity_slug: str = Field(pattern=r"^societa/[a-z0-9-]+$")
+    season_slug: str = Field(pattern=r"^(?:02-cronistoria/)?stagioni/\d{4}-\d{4}$")
+    club_entity_slug: str = Field(pattern=r"^(?:01-)?societa/[a-z0-9-/]+$")
     figc_matricola: Literal["11700", "955013"]
     historical_context: str
     procedural_steps: list[JudicialStep] = Field(min_length=2)
@@ -203,12 +203,12 @@ class MatchReportPayload(BaseModel):
     """Contratto dati validato per un tabellino di gara storica."""
     title: str
     description: str = Field(min_length=50, max_length=220)
-    slug: str = Field(pattern=r"^partite/\d{4}-\d{4}/[a-z0-9-]+$")
+    slug: str = Field(pattern=r"^(?:02-cronistoria/partite-storiche|partite)/\d{4}-\d{4}/[a-z0-9-]+$")
     match_date: date
-    season_slug: str = Field(pattern=r"^stagioni/\d{4}-\d{4}$")
+    season_slug: str = Field(pattern=r"^(?:02-cronistoria/)?stagioni/\d{4}-\d{4}$")
     competition: str
     matchday: str
-    stadium_slug: str = Field(pattern=r"^stadio/[a-z0-9-]+$")
+    stadium_slug: str = Field(pattern=r"^(?:04-strutture/stadio-massimino|stadio)/[a-z0-9-]+$")
     attendance: Optional[int] = Field(default=None, ge=0)
     referee: str
     catania_is_home: bool = True

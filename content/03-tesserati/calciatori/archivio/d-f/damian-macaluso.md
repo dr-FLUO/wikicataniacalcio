@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/damian-macaluso
-- damian-macaluso
-- tesserati/damian-macaluso
+- 03-tesserati/calciatori/archivio/d-f/damian-macaluso-rojas
+- 03-tesserati/calciatori/damian-macaluso-rojas
 - calciatori/damian-macaluso
+- calciatori/damian-macaluso-rojas
+- damian-macaluso-rojas
+- tesserati/calciatori/damian-macaluso
+- tesserati/calciatori/damian-macaluso-rojas
+- tesserati/damian-macaluso
+- tesserati/damian-macaluso-rojas
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -53,6 +58,7 @@ minutes_played: 284
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 25498
 ---
 # Damián Macaluso — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2000</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +110,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Difensore centrale | 7 | 0 | 0 | 1 | 1 | 284' |
+| **2000-2001** | Difensore centrale | 7 | 0 | 0 | 1 | 1 | 284' |
 | **TOTALE** | — | **7** | **0** | **0** | **1** | **1** | **284'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Damián Macaluso** ha collezionato complessivamente **7 presenze ufficiali**, disputando **284 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **284 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

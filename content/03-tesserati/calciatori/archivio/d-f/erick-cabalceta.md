@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di &lt;b&gt;Erick&lt;/b&gt; Anthony Cabalceta
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Cabalceta-Giacchero-813
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 813
 image: assets/images/calciatori/erick-cabalceta.jpg
 image_credits:
 - image_path: assets/images/calciatori/erick-cabalceta.jpg
@@ -51,6 +57,12 @@ aliases:
 - erick-cabalceta
 - tesserati/erick-cabalceta
 - calciatori/erick-cabalceta
+- tesserati/calciatori/ltbgterickltbgt-anthony-cabalceta-giacchero
+- ltbgterickltbgt-anthony-cabalceta-giacchero
+- tesserati/ltbgterickltbgt-anthony-cabalceta-giacchero
+- calciatori/ltbgterickltbgt-anthony-cabalceta-giacchero
+- 03-tesserati/calciatori/archivio/g-l/ltbgterickltbgt-anthony-cabalceta-giacchero
+- Erick Anthony Cabalceta Giacchero
 citizenship: Costa Rica
 total_goals: 0
 total_assists: 0
@@ -58,6 +70,7 @@ minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 194908
 ---
 # Erick Cabalceta — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +98,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2015</td>
+        <td colspan="3">2012–2016</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,10 +122,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **2012-2013** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2014-2015** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2013-2014** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2015-2016** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Erick Cabalceta** ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

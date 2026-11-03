@@ -1,7 +1,6 @@
 ---
 title: Alessandro Pellegrini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Alessandro Pellegrini,
-  centrocampista del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Alessandro Pellegrini, centrocampista del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/a-c/alessandro-pellegrini
 entity_type: calciatore
 status: verified
@@ -24,17 +23,28 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Alessandro_Pellegrini
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Sandro Pellegrini
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Pellegrini-439
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 439
 aliases:
 - tesserati/calciatori/alessandro-pellegrini
 - alessandro-pellegrini
 - tesserati/alessandro-pellegrini
 - calciatori/alessandro-pellegrini
+- tesserati/calciatori/sandro-pellegrini
+- sandro-pellegrini
+- tesserati/sandro-pellegrini
+- calciatori/sandro-pellegrini
+- 03-tesserati/calciatori/archivio/s-z/sandro-pellegrini
+- Sandro Pellegrini
 citizenship: Italia
 total_goals: 5
 total_assists: 0
@@ -42,6 +52,7 @@ minutes_played: 11467
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/players/439_sandro-pellegrini.jpg
 ---
 # Alessandro Pellegrini — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +83,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1983–1987</td>
+        <td colspan="3">1984–1988</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,13 +103,15 @@ Nato a Vercelli (1964-08-02), Alessandro Pellegrini ha militato tra le file dell
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1983-1984 | Ala sinistra | 33 | 0 | 0 | 0 | 0 | 2900' |
-| 1984-1985 | Ala sinistra | 32 | 3 | 0 | 0 | 1 | 2811' |
-| 1985-1986 | Ala sinistra | 39 | 2 | 0 | 0 | 0 | 3407' |
-| 1986-1987 | Ala sinistra | 28 | 0 | 0 | 0 | 0 | 2349' |
+| **1984-1985** | Ala sinistra | 33 | 0 | 0 | 0 | 0 | 2900' |
+| **1985-1986** | Ala sinistra | 32 | 3 | 0 | 0 | 1 | 2811' |
+| **1986-1987** | Ala sinistra | 39 | 2 | 0 | 0 | 0 | 3407' |
+| **1987-1988** | Ala sinistra | 28 | 0 | 0 | 0 | 0 | 2349' |
+| **TOTALE** | — | **132** | **5** | **0** | **0** | **1** | **11467'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 132 presenze e 5 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **132 presenze ufficiali**, disputando **11467 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.

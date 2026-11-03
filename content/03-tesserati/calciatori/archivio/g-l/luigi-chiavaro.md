@@ -43,19 +43,14 @@ minutes_played: 12138
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 585424
 ---
 # Luigi Chiavaro — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/507_luigi-chiavaro.jpg" alt="Luigi Chiavaro" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1957</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1974–1980</td>
+        <td colspan="3">1975–1981</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,16 +92,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1974-1975** | Libero | 8 | 0 | 0 | 0 | 0 | 455' |
-| **1975-1976** | Libero | 26 | 0 | 0 | 0 | 0 | 2323' |
-| **1976-1977** | Libero | 35 | 0 | 0 | 0 | 0 | 3150' |
-| **1977-1978** | Libero | 31 | 0 | 0 | 0 | 0 | 2700' |
-| **1978-1979** | Libero | 26 | 2 | 0 | 0 | 0 | 2340' |
-| **1979-1980** | Libero | 13 | 0 | 0 | 0 | 0 | 1170' |
+| **1975-1976** | Libero | 8 | 0 | 0 | 0 | 0 | 455' |
+| **1976-1977** | Libero | 26 | 0 | 0 | 0 | 0 | 2323' |
+| **1977-1978** | Libero | 35 | 0 | 0 | 0 | 0 | 3150' |
+| **1978-1979** | Libero | 31 | 0 | 0 | 0 | 0 | 2700' |
+| **1979-1980** | Libero | 26 | 2 | 0 | 0 | 0 | 2340' |
+| **1980-1981** | Libero | 13 | 0 | 0 | 0 | 0 | 1170' |
 | **TOTALE** | — | **139** | **2** | **0** | **0** | **0** | **12138'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Chiavaro** ha collezionato complessivamente **139 presenze ufficiali**, disputando **12138 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **139 presenze ufficiali**, disputando **12138 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +121,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Chiavaro*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Chiavaro-507](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Chiavaro-507), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Chiavaro*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Chiavaro-507), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

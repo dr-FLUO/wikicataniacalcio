@@ -73,8 +73,8 @@ minutes_played: 6126
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 169654
 ---
-
 # Claudio Ranieri
 
 <div class="nfc-player-hero-card">
@@ -128,19 +128,19 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1981-1982** | Terzino destro | 39 | 1 | 0 | 0 | 0 | 3445' |
-| **1982-1983** | Terzino destro | 30 | 0 | 0 | 0 | 0 | 2681' |
+| **1982-1983** | Terzino destro | 39 | 1 | 0 | 0 | 0 | 3445' |
+| **1983-1984** | Terzino destro | 30 | 0 | 0 | 0 | 0 | 2681' |
 | **TOTALE** | — | **69** | **1** | **0** | **0** | **0** | **6126'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Claudio Ranieri** ha collezionato complessivamente **69 presenze ufficiali**, disputando **6126 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **6126 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Claudio Ranieri](https://it.wikipedia.org/wiki/Claudio_Ranieri)*.
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
-2. **Archivio Storico Mimmo Rapisarda**, *Claudio Ranieri capitano del Catania in Serie A*, [mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.[mimmorapisarda.it](https://www.mimmorapisarda.it/)/)/).
+2. **Archivio Storico Mimmo Rapisarda**, *Claudio Ranieri capitano del Catania in Serie A*, [mimmorapisarda.it](https://www.mimmorapisarda.it/)/).
 3. **La Sicilia**, *Il giorno più bello: il capitano Ranieri solleva il trofeo promozione all'Olimpico*, 26 giugno 1983.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Claudio Ranieri*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ranieri-478).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Claudio Ranieri*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ranieri-478).

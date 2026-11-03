@@ -1,7 +1,7 @@
 ---
 title: Pier Luigi Nicoli — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pier Luigi Nicoli, difensore
-  del Calcio Catania con 40 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Pier Luigi Nicoli, difensore del Calcio Catania con 40 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/pier-luigi-nicoli
 entity_type: calciatore
 status: verified
@@ -24,8 +24,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pier_Luigi_Nicoli
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,6 +41,11 @@ aliases:
 - pier-luigi-nicoli
 - tesserati/pier-luigi-nicoli
 - calciatori/pier-luigi-nicoli
+- 03-tesserati/calciatori/archivio/p-r/pierluigi-nicoli
+- pierluigi-nicoli
+- tesserati/calciatori/pierluigi-nicoli
+- calciatori/pierluigi-nicoli
+- 03-tesserati/calciatori/archivio/p-r/pier-luigi-nicoli
 citizenship: Italia
 total_goals: 1
 total_assists: 0
@@ -49,6 +53,7 @@ minutes_played: 2794
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 224534
 ---
 # Pier Luigi Nicoli — Scheda Giocatore nel Calcio Catania
 
@@ -77,7 +82,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1990–1994</td>
+        <td colspan="3">1991–1992</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,10 +102,12 @@ Difensore arcigno e terzino affidabile. Difende i colori del Calcio Catania nell
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1992-1994, totalizzando **40 presenze ufficiali** tra campionati e coppe nazionali.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1990-1991 | Terzino destro | 32 | 1 | 0 | 0 | 0 | 2794' |
+| **1991-1992** | Terzino destro | 32 | 1 | 0 | 0 | 0 | 2794' |
+| **TOTALE** | — | **32** | **1** | **0** | **0** | **0** | **2794'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 32 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **2794 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

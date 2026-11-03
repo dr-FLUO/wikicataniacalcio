@@ -56,6 +56,7 @@ seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 614043
 ---
 # Enzo Bellini
 
@@ -76,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1917</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1938–1940</td>
+        <td colspan="3">1937–1940</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -119,7 +120,7 @@ Nel campionato di Serie C 1938-1939 Bellini fu devastante per le retroguardie av
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/).
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 79-88 (Stagioni 1938-1939 e 1939-1940).
@@ -128,9 +129,9 @@ Nel campionato di Serie C 1938-1939 Bellini fu devastante per le retroguardie av
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1936-1937** | Attacco | 2 | 1 | 0 | 0 | 0 | 180' |
-| **1938-1939** | Attacco | 1 | 1 | 0 | 0 | 0 | 90' |
+| **1937-1938** | Attacco | 2 | 1 | 0 | 0 | 0 | 180' |
+| **1939-1940** | Attacco | 1 | 1 | 0 | 0 | 0 | 90' |
 | **TOTALE** | — | **3** | **2** | **0** | **0** | **0** | **270'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Enzo Bellini** ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

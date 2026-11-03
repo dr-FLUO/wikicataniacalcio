@@ -63,6 +63,7 @@ minutes_played: 2979
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 61751
 ---
 # Antonio Mazzotta — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2023</td>
+        <td colspan="3">2014–2024</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,12 +111,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Terzino sinistro | 19 | 0 | 4 | 4 | 0 | 1693' |
-| **2022-2023** | Terzino sinistro | 16 | 0 | 2 | 2 | 0 | 1286' |
+| **2014-2015** | Terzino sinistro | 19 | 0 | 4 | 4 | 0 | 1693' |
+| **2023-2024** | Terzino sinistro | 16 | 0 | 2 | 2 | 0 | 1286' |
 | **TOTALE** | — | **35** | **0** | **6** | **6** | **0** | **2979'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Antonio Mazzotta** ha collezionato complessivamente **35 presenze ufficiali**, disputando **2979 minuti** di gioco effettivo, siglando **0 gol** e servendo **6 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **2979 minuti** di gioco effettivo, siglando **0 gol** e servendo **6 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Antonio Mazzotta](https://it.wikipedia.org/wiki/Antonio_Mazzotta)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Mazzotta*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mazzotta-860](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mazzotta-860), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Mazzotta*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mazzotta-860)/giocatori/giocatori.php?Mazzotta-860), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

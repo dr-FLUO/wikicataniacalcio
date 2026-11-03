@@ -52,17 +52,14 @@ minutes_played: 5981
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 154967
 ---
 # Massimo Cicconi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/156_massimo-cicconi.jpg" alt="Massimo Cicconi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2002</td>
+        <td colspan="3">2000–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Attacco | 36 | 7 | 2 | 3 | 0 | 2576' |
-| **2000-2001** | Attacco | 37 | 10 | 3 | 2 | 1 | 2916' |
-| **2001-2002** | Attacco | 11 | 1 | 0 | 0 | 1 | 489' |
+| **2000-2001** | Attacco | 36 | 7 | 2 | 3 | 0 | 2576' |
+| **2001-2002** | Attacco | 37 | 10 | 3 | 2 | 1 | 2916' |
+| **2002-2003** | Attacco | 11 | 1 | 0 | 0 | 1 | 489' |
 | **TOTALE** | — | **84** | **18** | **5** | **5** | **2** | **5981'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Massimo Cicconi** ha collezionato complessivamente **84 presenze ufficiali**, disputando **5981 minuti** di gioco effettivo, siglando **18 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **5981 minuti** di gioco effettivo, siglando **18 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Massimo Cicconi](https://it.wikipedia.org/wiki/Massimo_Cicconi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimo Cicconi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cicconi-156](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cicconi-156), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimo Cicconi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cicconi-156)/giocatori/giocatori.php?Cicconi-156), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

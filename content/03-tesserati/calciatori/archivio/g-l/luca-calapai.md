@@ -63,6 +63,7 @@ minutes_played: 8382
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 168189
 ---
 # Luca Calapai — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2021</td>
+        <td colspan="3">2011–2022</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,15 +111,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Terzino destro | 1 | 0 | 0 | 0 | 0 | 11' |
-| **2017-2018** | Terzino destro | 37 | 3 | 2 | 3 | 1 | 2740' |
-| **2018-2019** | Terzino destro | 34 | 0 | 2 | 4 | 1 | 2830' |
-| **2019-2020** | Terzino destro | 36 | 2 | 1 | 4 | 0 | 2717' |
-| **2020-2021** | Terzino destro | 1 | 0 | 0 | 0 | 0 | 84' |
+| **2011-2012** | Terzino destro | 1 | 0 | 0 | 0 | 0 | 11' |
+| **2018-2019** | Terzino destro | 37 | 3 | 2 | 3 | 1 | 2740' |
+| **2019-2020** | Terzino destro | 34 | 0 | 2 | 4 | 1 | 2830' |
+| **2020-2021** | Terzino destro | 36 | 2 | 1 | 4 | 0 | 2717' |
+| **2021-2022** | Terzino destro | 1 | 0 | 0 | 0 | 0 | 84' |
 | **TOTALE** | — | **109** | **5** | **5** | **11** | **2** | **8382'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luca Calapai** ha collezionato complessivamente **109 presenze ufficiali**, disputando **8382 minuti** di gioco effettivo, siglando **5 gol** e servendo **5 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **8382 minuti** di gioco effettivo, siglando **5 gol** e servendo **5 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -139,5 +140,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luca Calapai](https://it.wikipedia.org/wiki/Luca_Calapai)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Calapai*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Calapai-922](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Calapai-922), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Calapai*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Calapai-922)/giocatori/giocatori.php?Calapai-922), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

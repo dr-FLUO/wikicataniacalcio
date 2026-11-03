@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/ezequiel-carboni
-- ezequiel-carboni
-- tesserati/ezequiel-carboni
+- 03-tesserati/calciatori/archivio/d-f/ezequiel-alejo-carboni
+- 03-tesserati/calciatori/ezequiel-alejo-carboni
+- calciatori/ezequiel-alejo-carboni
 - calciatori/ezequiel-carboni
+- ezequiel-alejo-carboni
+- tesserati/calciatori/ezequiel-alejo-carboni
+- tesserati/calciatori/ezequiel-carboni
+- tesserati/ezequiel-alejo-carboni
+- tesserati/ezequiel-carboni
 citizenship: Argentina
 total_goals: 0
 total_assists: 2
@@ -58,6 +63,7 @@ minutes_played: 6306
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 31126
 ---
 # Ezequiel Carboni — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2010</td>
+        <td colspan="3">2008–2011</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,10 +115,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Mediano | 27 | 0 | 2 | 6 | 0 | 1839' |
-| **2008-2009** | Mediano | 30 | 0 | 0 | 6 | 0 | 2386' |
-| **2009-2010** | Mediano | 29 | 0 | 0 | 3 | 0 | 2081' |
+| **2008-2009** | Mediano | 27 | 0 | 2 | 6 | 0 | 1839' |
+| **2009-2010** | Mediano | 30 | 0 | 0 | 6 | 0 | 2386' |
+| **2010-2011** | Mediano | 29 | 0 | 0 | 3 | 0 | 2081' |
 | **TOTALE** | — | **86** | **0** | **2** | **15** | **0** | **6306'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ezequiel Carboni** ha collezionato complessivamente **86 presenze ufficiali**, disputando **6306 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **86 presenze ufficiali**, disputando **6306 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.

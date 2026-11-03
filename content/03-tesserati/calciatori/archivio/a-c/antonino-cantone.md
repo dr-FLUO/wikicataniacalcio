@@ -52,17 +52,14 @@ minutes_played: 8166
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 454406
 ---
 # Antonino Cantone — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/505_antonino-cantone.jpg" alt="Antonino Cantone" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1972–1981</td>
+        <td colspan="3">1973–1982</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,17 +101,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1972-1973** | Centrocampo | 13 | 0 | 0 | 0 | 0 | 877' |
-| **1974-1975** | Centrocampo | 12 | 0 | 0 | 0 | 0 | 745' |
-| **1975-1976** | Centrocampo | 31 | 1 | 0 | 0 | 1 | 2393' |
-| **1976-1977** | Centrocampo | 32 | 2 | 0 | 0 | 0 | 2684' |
-| **1977-1978** | Centrocampo | 20 | 0 | 0 | 0 | 0 | 1402' |
-| **1979-1980** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 65' |
-| **1980-1981** | Centrocampo | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1973-1974** | Centrocampo | 13 | 0 | 0 | 0 | 0 | 877' |
+| **1975-1976** | Centrocampo | 12 | 0 | 0 | 0 | 0 | 745' |
+| **1976-1977** | Centrocampo | 31 | 1 | 0 | 0 | 1 | 2393' |
+| **1977-1978** | Centrocampo | 32 | 2 | 0 | 0 | 0 | 2684' |
+| **1978-1979** | Centrocampo | 20 | 0 | 0 | 0 | 0 | 1402' |
+| **1980-1981** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 65' |
+| **1981-1982** | Centrocampo | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **109** | **3** | **0** | **0** | **1** | **8166'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Antonino Cantone** ha collezionato complessivamente **109 presenze ufficiali**, disputando **8166 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **8166 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Antonino Cantone](https://it.wikipedia.org/wiki/Antonino_Cantone)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonino Cantone*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cantone-505](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cantone-505), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonino Cantone*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cantone-505)/giocatori/giocatori.php?Cantone-505), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

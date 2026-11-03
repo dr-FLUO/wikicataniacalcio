@@ -52,17 +52,14 @@ minutes_played: 3521
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22098
 ---
 # Maurizio Anastasi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/89_maurizio-anastasi.jpg" alt="Maurizio Anastasi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1994–2006</td>
+        <td colspan="3">1995–2007</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,15 +101,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1994-1995** | Mediano | 1 | 0 | 0 | 0 | 0 | 40' |
-| **1995-1996** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2003-2004** | Mediano | 31 | 1 | 0 | 5 | 0 | 2030' |
-| **2004-2005** | Mediano | 20 | 0 | 0 | 7 | 0 | 1451' |
-| **2005-2006** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1995-1996** | Mediano | 1 | 0 | 0 | 0 | 0 | 40' |
+| **1996-1997** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2004-2005** | Mediano | 31 | 1 | 0 | 5 | 0 | 2030' |
+| **2005-2006** | Mediano | 20 | 0 | 0 | 7 | 0 | 1451' |
+| **2006-2007** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **52** | **1** | **0** | **12** | **0** | **3521'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Maurizio Anastasi** ha collezionato complessivamente **52 presenze ufficiali**, disputando **3521 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **52 presenze ufficiali**, disputando **3521 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -133,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Maurizio Anastasi](https://it.wikipedia.org/wiki/Maurizio_Anastasi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maurizio Anastasi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Anastasi-89](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Anastasi-89), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maurizio Anastasi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Anastasi-89)/giocatori/giocatori.php?Anastasi-89), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

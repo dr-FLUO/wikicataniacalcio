@@ -36,6 +36,7 @@ minutes_played: 4272
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 294973
 ---
 # Roberto Ricca — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1973</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1995–1997</td>
+        <td colspan="3">1996–1998</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,12 +87,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1995-1996** | Difesa | 32 | 2 | 0 | 0 | 0 | 2622' |
-| **1996-1997** | Difesa | 26 | 2 | 0 | 0 | 0 | 1650' |
+| **1996-1997** | Difesa | 32 | 2 | 0 | 0 | 0 | 2622' |
+| **1997-1998** | Difesa | 26 | 2 | 0 | 0 | 0 | 1650' |
 | **TOTALE** | — | **58** | **4** | **0** | **0** | **0** | **4272'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Roberto Ricca** ha collezionato complessivamente **58 presenze ufficiali**, disputando **4272 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **58 presenze ufficiali**, disputando **4272 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -111,5 +112,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Ricca*, in [https://www.calciocatania.com/giocatori/giocatori.php?Ricca-277](https://www.calciocatania.com/giocatori/giocatori.php?Ricca-277), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Ricca*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ricca-277), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

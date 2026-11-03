@@ -67,6 +67,7 @@ minutes_played: 8118
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 57354
 ---
 # Giuseppe  Bellusci — Scheda Giocatore nel Calcio Catania
 
@@ -114,15 +115,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Difensore centrale | 15 | 0 | 1 | 3 | 0 | 834' |
-| **2009-2010** | Difensore centrale | 9 | 0 | 0 | 1 | 0 | 527' |
-| **2010-2011** | Difensore centrale | 33 | 0 | 0 | 7 | 1 | 2793' |
-| **2011-2012** | Difensore centrale | 29 | 0 | 1 | 15 | 0 | 2410' |
-| **2012-2013** | Difensore centrale | 20 | 0 | 0 | 3 | 0 | 1554' |
+| **2009-2010** | Difensore centrale | 15 | 0 | 1 | 3 | 0 | 834' |
+| **2010-2011** | Difensore centrale | 9 | 0 | 0 | 1 | 0 | 527' |
+| **2011-2012** | Difensore centrale | 33 | 0 | 0 | 7 | 1 | 2793' |
+| **2012-2013** | Difensore centrale | 29 | 0 | 1 | 15 | 0 | 2410' |
+| **2013-2014** | Difensore centrale | 20 | 0 | 0 | 3 | 0 | 1554' |
 | **TOTALE** | — | **106** | **0** | **2** | **29** | **1** | **8118'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Bellusci** ha collezionato complessivamente **106 presenze ufficiali**, disputando **8118 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **106 presenze ufficiali**, disputando **8118 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -143,5 +144,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giuseppe Bellusci](https://it.wikipedia.org/wiki/Giuseppe_Bellusci)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe  Bellusci*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bellusci-22](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bellusci-22), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe  Bellusci*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bellusci-22)/giocatori/giocatori.php?Bellusci-22), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

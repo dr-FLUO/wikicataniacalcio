@@ -62,6 +62,7 @@ minutes_played: 2692
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 392060
 ---
 # Alessandro Raimo — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1999</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Terzino destro | 33 | 1 | 3 | 3 | 0 | 2050' |
-| **2024-2025** | Terzino destro | 16 | 0 | 0 | 0 | 0 | 368' |
-| **2025-2026** | Terzino destro | 5 | 0 | 0 | 2 | 0 | 274' |
+| **2024-2025** | Terzino destro | 33 | 1 | 3 | 3 | 0 | 2050' |
+| **2025-2026** | Terzino destro | 16 | 0 | 0 | 0 | 0 | 368' |
+| **2026-2027** | Terzino destro | 5 | 0 | 0 | 2 | 0 | 274' |
 | **TOTALE** | — | **54** | **1** | **3** | **5** | **0** | **2692'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Raimo** ha collezionato complessivamente **54 presenze ufficiali**, disputando **2692 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **54 presenze ufficiali**, disputando **2692 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Raimo*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Raimo-1074](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Raimo-1074), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Raimo*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Raimo-1074), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

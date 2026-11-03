@@ -53,6 +53,7 @@ minutes_played: 5447
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 301972
 ---
 # Domenico Maggiora — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1983–1986</td>
+        <td colspan="3">1984–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,13 +102,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1983-1984** | Terzino destro | 24 | 0 | 0 | 0 | 0 | 1535' |
-| **1984-1985** | Terzino destro | 37 | 0 | 0 | 0 | 0 | 2833' |
-| **1985-1986** | Terzino destro | 13 | 0 | 0 | 0 | 0 | 1079' |
+| **1984-1985** | Terzino destro | 24 | 0 | 0 | 0 | 0 | 1535' |
+| **1985-1986** | Terzino destro | 37 | 0 | 0 | 0 | 0 | 2833' |
+| **1986-1987** | Terzino destro | 13 | 0 | 0 | 0 | 0 | 1079' |
 | **TOTALE** | — | **74** | **0** | **0** | **0** | **0** | **5447'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Domenico Maggiora** ha collezionato complessivamente **74 presenze ufficiali**, disputando **5447 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **74 presenze ufficiali**, disputando **5447 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Domenico Maggiora](https://it.wikipedia.org/wiki/Domenico_Maggiora)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Maggiora*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Maggiora-451](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Maggiora-451), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Maggiora*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Maggiora-451)/giocatori/giocatori.php?Maggiora-451), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

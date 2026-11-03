@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/pablo-ledesma
-- pablo-ledesma
-- tesserati/pablo-ledesma
+- 03-tesserati/calciatori/archivio/p-r/pablo-martin-ledesma
+- 03-tesserati/calciatori/pablo-martin-ledesma
 - calciatori/pablo-ledesma
+- calciatori/pablo-martin-ledesma
+- pablo-martin-ledesma
+- tesserati/calciatori/pablo-ledesma
+- tesserati/calciatori/pablo-martin-ledesma
+- tesserati/pablo-ledesma
+- tesserati/pablo-martin-ledesma
 citizenship: Argentina
 total_goals: 4
 total_assists: 3
@@ -53,6 +58,7 @@ minutes_played: 5296
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 19976
 ---
 # Pablo Ledesma — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2011</td>
+        <td colspan="3">2008–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,11 +110,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Centrocampista | 25 | 2 | 1 | 5 | 0 | 1955' |
-| **2008-2009** | Centrocampista | 19 | 0 | 0 | 4 | 0 | 986' |
-| **2009-2010** | Centrocampista | 32 | 2 | 1 | 4 | 0 | 2253' |
-| **2010-2011** | Centrocampista | 3 | 0 | 1 | 1 | 0 | 102' |
+| **2008-2009** | Centrocampista | 25 | 2 | 1 | 5 | 0 | 1955' |
+| **2009-2010** | Centrocampista | 19 | 0 | 0 | 4 | 0 | 986' |
+| **2010-2011** | Centrocampista | 32 | 2 | 1 | 4 | 0 | 2253' |
+| **2011-2012** | Centrocampista | 3 | 0 | 1 | 1 | 0 | 102' |
 | **TOTALE** | — | **79** | **4** | **3** | **14** | **0** | **5296'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pablo Ledesma** ha collezionato complessivamente **79 presenze ufficiali**, disputando **5296 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **79 presenze ufficiali**, disputando **5296 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **4 stagioni sportive**.

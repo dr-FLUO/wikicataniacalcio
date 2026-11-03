@@ -49,20 +49,20 @@ Questa sezione raccoglie le schede biografiche, tattiche e statistiche delle **b
 
 | Pos. | Calciatore | Ruolo | Periodi in Rossazzurro | Presenze Totali (Campionato / Serie A) | Reti | Note Storiche e Primati |
 | :---: | :--- | :--- | :--- | :--- | :---: | :--- |
-| **1º** | [[tesserati/calciatori/marco-biagianti\|Marco Biagianti]] | Centrocampista | 2007–2013, 2016–2020 | **284** (258 camp. / 153 Serie A) | 6 | **Primatista assoluto di presenze**; capitano in Serie A e in Serie C. |
-| **2º** | [[tesserati/calciatori/damiano-morra\|Damiano Morra]] | Mediano | 1975–1984 | **281** (250 camp. / 25 Serie A) | 12 | Bandiera per 9 stagioni consecutive; promozioni [[stagioni/1979-1980\|1979-80]] e [[stagioni/1982-1983\|1982-83]]. |
-| **3º** | [[tesserati/calciatori/mariano-izco\|Mariano Izco]] | Centrocampista | 2006–2014, 2020–2021 | **280** (262 camp. / **218 Serie A**) | 6 | **Primatista assoluto di presenze con il Catania in Serie A (218)**. |
+| **1º** | [[tesserati/calciatori/marco-biagianti\|Marco Biagianti]] | Centrocampista | 2007–2013, 2016–2020 | **284** (255 camp. + 11 PO / 148 Serie A) | 12 | **Primatista assoluto di presenze**; capitano in Serie A e in Serie C. |
+| **2º** | [[tesserati/calciatori/damiano-morra\|Damiano Morra]] | Mediano | 1975–1984 | **321** (281 camp. + 3 spar. / 25 Serie A) | 28 | Bandiera per 9 stagioni consecutive con 2 promozioni (1980 e 1983); 281 gare in campionato. |
+| **3º** | [[tesserati/calciatori/mariano-izco\|Mariano Izco]] | Centrocampista | 2006–2014, 2020–2022 | **258** (280 tot. / **218 Serie A**) | 7 | **Primatista assoluto di presenze con il Catania in Serie A (218)**; 280 gare giocate complessive. |
 | **4º** | *Remo Bicchierai* | Difensore | 1958–1967 | **246** (235 camp. / 159 Serie A) | 1 | Colonna difensiva del ciclo d'oro di [[tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
-| **5º** | [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] | Regista | 2011–13, 2014, 2017–20, 2022–23 | **238** (209 camp. / 96 Serie A) | 53 | Protagonista in quattro cicli tra Serie A, B, C e il trionfo in [[stagioni/2022-2023\|Serie D 2022-23]]. |
-| **6º** | [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]] | Attaccante / Fantasista | 2003–2004, 2005–2011 | **235** (224 camp. / 145 Serie A) | 60 | Primo calciatore del Catania in Nazionale A (2009); simbolo dell'era moderna. |
+| **5º** | [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] | Regista | 2011–13, 2014, 2017–20, 2022–23 | **239** (215 camp. + 10 post / 105 Serie A) | 54 | Protagonista in quattro cicli tra Serie A, B, C e il trionfo in [[stagioni/2022-2023\|Serie D 2022-23]]. |
+| **6º** | [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]] | Attaccante / Fantasista | 2003–2004, 2005–2011 | **238** (226 camp. / 149 Serie A) | 60 | Primo calciatore del Catania in Nazionale A (2009); simbolo dell'era moderna con 60 reti ufficiali. |
 
 ### 2. Classifica All-Time per Reti Ufficiali
 
 | Pos. | Calciatore | Soprannome | Periodi in Rossazzurro | Reti Totali (Camp. / Serie A) | Presenze | Note Storiche e Primati |
 | :---: | :--- | :--- | :--- | :--- | :---: | :--- |
-| **1º** | [[tesserati/calciatori/nicolo-nicolosi\|Nicolò Nicolosi]] | *"Cocò"* | 1932–37, 1939–40, 1942–43, 1947–49 | **78** (71 camp.) | 149 | **Miglior marcatore assoluto della storia del Catania**; 1ª promozione in B ([[stagioni/1933-1934\|1933-34]]). |
-| **2º** | [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]] | *Beppe* | 2003–2004, 2005–2011 | **60** (58 camp. / 31 Serie A) | 235 | Autore di gol iconici nel [[partite/precedenti/palermo\|Derby di Palermo (0-4)]] e contro l'[[partite/precedenti/inter\|Inter (3-1)]]. |
-| **3º** | [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] | *"Ciccio"* | 2011–2023 (4 cicli) | **53** (46 camp. / 19 Serie A) | 238 | Centrocampista più prolifico della storia rossazzurra; maestro delle punizioni. |
+| **1º** | [[tesserati/calciatori/nicolo-nicolosi\|Nicolò Nicolosi]] | *"Cocò"* | 1932–37, 1939–40, 1942–43, 1947–49 | **78** (71 camp.) | 156 | **Miglior marcatore assoluto della storia del Catania**; 1ª promozione in B ([[stagioni/1933-1934\|1933-34]]). |
+| **2º** | [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]] | *Beppe* | 2003–2004, 2005–2011 | **60** (58 camp. / 31 Serie A) | 238 | Autore di gol iconici nel [[partite/precedenti/palermo\|Derby di Palermo (0-4)]] e contro l\'[[partite/precedenti/inter\|Inter (3-1)]]. |
+| **3º** | [[tesserati/calciatori/francesco-lodi\|Francesco Lodi]] | *"Ciccio"* | 2011–2023 (4 cicli) | **54** (47 camp. / 20 Serie A) | 239 | Centrocampista più prolifico della storia rossazzurra; maestro delle punizioni. |
 | **4º** | [[tesserati/calciatori/gionatha-spinesi\|Gionatha Spinesi]] | *"Il Gabbiano"* | 2004–2009 | **49** (47 camp. / 20 Serie A) | 143 | **23 reti** nella promozione in A [[stagioni/2005-2006\|2005-2006]] e 17 nella salvezza 2006-07. |
 | **5º** | [[tesserati/calciatori/adelmo-prenna\|Adelmo Prenna]] | *"Memo"* | 1958–1964 | **48** (45 camp. / 29 Serie A) | 158 | Mezzala goleador degli anni Sessanta; titolare nel [[partite/1960-1961/catania-inter-2-0\|2-0 all'Inter del 1961]]. |
 | **Record A** | [[tesserati/calciatori/gonzalo-bergessio\|Gonzalo Bergessio]] | *"El Lavandina"* | 2011–2014 | **37** (35 camp. / **35 Serie A**) | 113 | **Primatista assoluto di reti con il Catania in Serie A (35)**; 13 gol nel [[stagioni/2012-2013\|2012-13]]. |

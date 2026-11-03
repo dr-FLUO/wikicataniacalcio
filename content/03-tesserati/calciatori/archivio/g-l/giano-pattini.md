@@ -45,6 +45,7 @@ minutes_played: 3420
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 532718
 ---
 # Giano Pattini — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1949–1954</td>
+        <td colspan="3">1950–1955</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,14 +96,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1949-1950** | Portiere | 23 | 0 | 0 | 0 | 0 | 2070' |
-| **1950-1951** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
-| **1952-1953** | Portiere | 5 | 0 | 0 | 0 | 0 | 450' |
-| **1953-1954** | Portiere | 6 | 0 | 0 | 0 | 0 | 540' |
+| **1950-1951** | Portiere | 23 | 0 | 0 | 0 | 0 | 2070' |
+| **1951-1952** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
+| **1953-1954** | Portiere | 5 | 0 | 0 | 0 | 0 | 450' |
+| **1954-1955** | Portiere | 6 | 0 | 0 | 0 | 0 | 540' |
 | **TOTALE** | — | **38** | **0** | **0** | **0** | **0** | **3420'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giano Pattini** ha collezionato complessivamente **38 presenze ufficiali**, disputando **3420 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **3420 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -123,5 +124,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giano Pattini](https://it.wikipedia.org/wiki/Giano_Pattini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giano Pattini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pattini-728](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pattini-728), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giano Pattini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pattini-728)/giocatori/giocatori.php?Pattini-728), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

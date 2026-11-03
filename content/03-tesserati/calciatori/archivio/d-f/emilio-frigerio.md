@@ -36,6 +36,7 @@ minutes_played: 5910
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 514512
 ---
 # Emilio Frigerio — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1954</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1976–1979</td>
+        <td colspan="3">1977–1980</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,13 +87,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1976-1977** | Attacco | 28 | 6 | 0 | 0 | 0 | 2474' |
-| **1977-1978** | Attacco | 32 | 4 | 0 | 0 | 0 | 2677' |
-| **1978-1979** | Attacco | 13 | 0 | 0 | 0 | 0 | 759' |
+| **1977-1978** | Attacco | 28 | 6 | 0 | 0 | 0 | 2474' |
+| **1978-1979** | Attacco | 32 | 4 | 0 | 0 | 0 | 2677' |
+| **1979-1980** | Attacco | 13 | 0 | 0 | 0 | 0 | 759' |
 | **TOTALE** | — | **73** | **10** | **0** | **0** | **0** | **5910'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Emilio Frigerio** ha collezionato complessivamente **73 presenze ufficiali**, disputando **5910 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **73 presenze ufficiali**, disputando **5910 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -112,5 +113,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Emilio Frigerio*, in [https://www.calciocatania.com/giocatori/giocatori.php?Frigerio-517](https://www.calciocatania.com/giocatori/giocatori.php?Frigerio-517), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Emilio Frigerio*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Frigerio-517), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

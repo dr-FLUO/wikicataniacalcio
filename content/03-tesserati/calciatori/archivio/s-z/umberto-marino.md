@@ -43,6 +43,7 @@ minutes_played: 921
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 309618
 ---
 # Umberto Marino — Scheda Giocatore nel Calcio Catania
 
@@ -58,9 +59,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1968</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -70,7 +71,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2001</td>
+        <td colspan="3">2000–2002</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -90,12 +91,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Attacco | 11 | 4 | 3 | 2 | 0 | 816' |
-| **2000-2001** | Attacco | 3 | 1 | 0 | 1 | 0 | 105' |
+| **2000-2001** | Attacco | 11 | 4 | 3 | 2 | 0 | 816' |
+| **2001-2002** | Attacco | 3 | 1 | 0 | 1 | 0 | 105' |
 | **TOTALE** | — | **14** | **5** | **3** | **3** | **0** | **921'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Umberto Marino** ha collezionato complessivamente **14 presenze ufficiali**, disputando **921 minuti** di gioco effettivo, siglando **5 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **14 presenze ufficiali**, disputando **921 minuti** di gioco effettivo, siglando **5 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -115,5 +116,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Umberto Marino*, in [https://www.calciocatania.com/giocatori/giocatori.php?Marino-186](https://www.calciocatania.com/giocatori/giocatori.php?Marino-186), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Umberto Marino*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Marino-186), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

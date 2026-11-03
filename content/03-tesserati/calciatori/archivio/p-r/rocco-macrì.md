@@ -1,7 +1,7 @@
 ---
 title: Rocco Macrì — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Rocco Macrì, centrocampista
-  del Calcio Catania con 1 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Rocco Macrì, centrocampista del Calcio Catania con 1 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/rocco-macrì
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Macri-303
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 303
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -44,19 +43,14 @@ minutes_played: 1071
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 549845
 ---
 # Rocco Macrì — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/303_rocco-macr.jpg" alt="Rocco Macrì" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -109,15 +103,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1995-1996** | Centrocampo | 15 | 0 | 0 | 0 | 0 | 1071' |
+| **TOTALE** | — | **15** | **0** | **0** | **0** | **0** | **1071'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Rocco Massimo Macrì** ha collezionato complessivamente **15 presenze ufficiali**, disputando **1071 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rocco Macrì*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Macri-303](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Macri-303), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rocco Macrì*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Macri-303), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1994-1995 | Centrocampo | 15 | 0 | 0 | 0 | 0 | 1071' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 15 presenze e 0 reti complessive.*

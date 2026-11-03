@@ -44,7 +44,7 @@ aliases:
 Rilevato il sodalizio nel luglio 1951, Michisanti seppe unire oculatezza amministrativa e lungimiranza tecnica:
 * **Stagione 1951-1952:** 4º posto in Serie B, sfiorando la promozione con campioni del calibro di Enzo Bearzot e Guido Klein.
 * **Stagione 1952-1953:** 3º posto in Serie B a un solo punto dallo spareggio promozione.
-* **[[stagioni/index|Stagione 1953-1954]]:** Dominio del torneo cadetto e **1º posto assoluto** con Michele Manenti capocannoniere di squadra (15 reti) e la granitica retroguardia guidata da Basso e Cattaneo.
+* **[[02-cronistoria/stagioni/index|Stagione 1953-1954]]:** Dominio del torneo cadetto e **1º posto assoluto** con Michele Manenti capocannoniere di squadra (15 reti) e la granitica retroguardia guidata da Basso e Cattaneo.
 
 ---
 

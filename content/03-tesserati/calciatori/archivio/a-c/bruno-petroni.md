@@ -52,17 +52,14 @@ minutes_played: 4762
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 430842
 ---
 # Bruno Petroni — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/662_bruno-petroni.jpg" alt="Bruno Petroni" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1961–1965</td>
+        <td colspan="3">1962–1966</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1961-1962** | Attacco | 28 | 11 | 0 | 0 | 1 | 2512' |
-| **1964-1965** | Attacco | 25 | 3 | 0 | 0 | 0 | 2250' |
+| **1962-1963** | Attacco | 28 | 11 | 0 | 0 | 1 | 2512' |
+| **1965-1966** | Attacco | 25 | 3 | 0 | 0 | 0 | 2250' |
 | **TOTALE** | — | **53** | **14** | **0** | **0** | **1** | **4762'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Bruno Petroni** ha collezionato complessivamente **53 presenze ufficiali**, disputando **4762 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **53 presenze ufficiali**, disputando **4762 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Bruno Petroni](https://it.wikipedia.org/wiki/Bruno_Petroni)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Bruno Petroni*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Petroni-662](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Petroni-662), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Bruno Petroni*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Petroni-662)/giocatori/giocatori.php?Petroni-662), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -48,6 +48,7 @@ minutes_played: 180
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 545443
 ---
 # Giulio Rossi — Scheda Giocatore nel Calcio Catania
 
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1912</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1938–1941</td>
+        <td colspan="3">1939–1940</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,8 +101,8 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1939-1941, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1938-1939** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1939-1940** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 180' |
 | **TOTALE** | — | **2** | **0** | **0** | **0** | **0** | **180'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giulio Rossi** ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

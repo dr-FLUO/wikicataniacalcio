@@ -68,7 +68,7 @@ locked_by: certificazione_archivio_storico_ufficiale
         <th>Anno</th>
         <td>1921</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -97,4 +97,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Centrocampista ed ala di grande tecnica, già bandiera di Atalanta e Inter. Approda al Club Calcio Catania nella Serie B 1952-1953 sfiorando la storica promozione in Serie A e regalando classe cristallina al pubblico del Cibali.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1952-1953, totalizzando **35 presenze ufficiali** tra campionati e coppe nazionali.
-

@@ -52,17 +52,14 @@ minutes_played: 6100
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480772
 ---
 # Giovanni Gavazzi — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/560_giovanni-gavazzi.jpg" alt="Giovanni Gavazzi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1966–1973</td>
+        <td colspan="3">1967–1974</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,17 +101,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1966-1967** | Centrocampo | 19 | 3 | 0 | 0 | 0 | 1740' |
-| **1967-1968** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 180' |
-| **1968-1969** | Centrocampo | 26 | 1 | 1 | 0 | 0 | 2026' |
-| **1969-1970** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 249' |
-| **1970-1971** | Centrocampo | 16 | 0 | 0 | 0 | 0 | 972' |
-| **1971-1972** | Centrocampo | 8 | 0 | 0 | 0 | 0 | 472' |
-| **1972-1973** | Centrocampo | 7 | 0 | 0 | 0 | 0 | 461' |
+| **1967-1968** | Centrocampo | 19 | 3 | 0 | 0 | 0 | 1740' |
+| **1968-1969** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1969-1970** | Centrocampo | 26 | 1 | 1 | 0 | 0 | 2026' |
+| **1970-1971** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 249' |
+| **1971-1972** | Centrocampo | 16 | 0 | 0 | 0 | 0 | 972' |
+| **1972-1973** | Centrocampo | 8 | 0 | 0 | 0 | 0 | 472' |
+| **1973-1974** | Centrocampo | 7 | 0 | 0 | 0 | 0 | 461' |
 | **TOTALE** | — | **81** | **4** | **1** | **0** | **0** | **6100'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Gavazzi** ha collezionato complessivamente **81 presenze ufficiali**, disputando **6100 minuti** di gioco effettivo, siglando **4 gol** e servendo **1 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **81 presenze ufficiali**, disputando **6100 minuti** di gioco effettivo, siglando **4 gol** e servendo **1 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giovanni Gavazzi](https://it.wikipedia.org/wiki/Giovanni_Gavazzi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Gavazzi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gavazzi-560](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gavazzi-560), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Gavazzi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gavazzi-560)/giocatori/giocatori.php?Gavazzi-560), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

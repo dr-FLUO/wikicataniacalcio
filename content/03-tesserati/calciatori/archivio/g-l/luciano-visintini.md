@@ -53,6 +53,7 @@ minutes_played: 431
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480767
 ---
 # Luciano Visintini — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1968–1971</td>
+        <td colspan="3">1969–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,13 +102,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1968-1969** | Portiere | 2 | 0 | 0 | 0 | 0 | 99' |
-| **1969-1970** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
-| **1970-1971** | Portiere | 2 | 0 | 0 | 0 | 0 | 152' |
+| **1969-1970** | Portiere | 2 | 0 | 0 | 0 | 0 | 99' |
+| **1970-1971** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1971-1972** | Portiere | 2 | 0 | 0 | 0 | 0 | 152' |
 | **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **431'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luciano Visintini** ha collezionato complessivamente **6 presenze ufficiali**, disputando **431 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **431 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luciano Visintini](https://it.wikipedia.org/wiki/Luciano_Visintini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luciano Visintini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Visintini-584](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Visintini-584), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luciano Visintini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Visintini-584)/giocatori/giocatori.php?Visintini-584), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

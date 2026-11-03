@@ -69,6 +69,7 @@ minutes_played: 657
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 29594
 ---
 # Graziano Pellè — Scheda Giocatore nel Calcio Catania
 
@@ -96,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2004</td>
+        <td colspan="3">2004–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -120,8 +121,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Punta centrale | 15 | 0 | 0 | 0 | 0 | 657' |
+| **2004-2005** | Punta centrale | 15 | 0 | 0 | 0 | 0 | 657' |
 | **TOTALE** | — | **15** | **0** | **0** | **0** | **0** | **657'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Graziano Pellè** ha collezionato complessivamente **15 presenze ufficiali**, disputando **657 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **15 presenze ufficiali**, disputando **657 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

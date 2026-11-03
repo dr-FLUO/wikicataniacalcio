@@ -1,7 +1,7 @@
 ---
 title: Roberto Passiatore — Il Cobra d'Area del Doppio Salto di Categoria (1998-2000)
-description: Biografia e statistiche di Roberto Passiatore, centravanti letale con
-  18 reti nel Catania tra la promozione in C1 e la successiva annata.
+description: Biografia e statistiche di Roberto Passiatore, centravanti letale con 18 reti nel Catania tra la promozione in
+  C1 e la successiva annata.
 slug: 03-tesserati/calciatori/archivio/p-r/roberto-passiatore
 entity_type: calciatore
 status: verified
@@ -17,8 +17,7 @@ league_appearances: 58
 total_goals: 18
 league_goals: 18
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza
-  (1993-2000)]]'
+- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -27,8 +26,7 @@ tags:
 - serie-c1
 - piero-cucchi
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +41,19 @@ aliases:
 - roberto-passiatore
 - tesserati/roberto-passiatore
 - calciatori/roberto-passiatore
+- tesserati/calciatori/francesco-passiatore
+- francesco-passiatore
+- tesserati/francesco-passiatore
+- calciatori/francesco-passiatore
+- 03-tesserati/calciatori/archivio/d-f/francesco-passiatore
+- Francesco Passiatore
 total_assists: 1
 minutes_played: 4845
 seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/players/213_francesco-passiatore.jpg
 ---
 # Roberto Passiatore
 
@@ -112,17 +117,19 @@ Soprannominato dai tifosi il *Cobra* per la freddezza nei sedici metri, Passiato
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Francesco Passiatore*, consultabile su [https://www.calciocatania.com/giocatori/giocatori.php?Passiatore-213](https://www.calciocatania.com/giocatori/giocatori.php?Passiatore-213).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Francesco Passiatore*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Passiatore-213).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 400-408 (Stagioni 1998-1999 e 1999-2000).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1997-1998 | Attacco | 29 | 7 | 0 | 0 | 0 | 2257' |
-| 1998-1999 | Attacco | 29 | 10 | 1 | 5 | 1 | 2153' |
-| 1999-2000 | Attacco | 7 | 1 | 0 | 2 | 0 | 435' |
+| **1998-1999** | Attacco | 29 | 7 | 0 | 0 | 0 | 2257' |
+| **1999-2000** | Attacco | 29 | 10 | 1 | 5 | 1 | 2153' |
+| **2000-2001** | Attacco | 7 | 1 | 0 | 2 | 0 | 435' |
+| **TOTALE** | — | **65** | **18** | **1** | **7** | **1** | **4845'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 65 presenze e 18 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **65 presenze ufficiali**, disputando **4845 minuti** di gioco effettivo, siglando **18 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.

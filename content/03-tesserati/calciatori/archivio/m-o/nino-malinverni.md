@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Ermanno Malinverni
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Malinverni-711
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 711
 aliases:
 - tesserati/calciatori/nino-malinverni
 - nino-malinverni
 - tesserati/nino-malinverni
 - calciatori/nino-malinverni
+- tesserati/calciatori/ermanno-malinverni
+- ermanno-malinverni
+- tesserati/ermanno-malinverni
+- calciatori/ermanno-malinverni
+- 03-tesserati/calciatori/archivio/d-f/ermanno-malinverni
+- Ermanno Malinverni
 citizenship: Regno d'Italia
 total_goals: 2
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 5850
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 532723
 ---
 # Nino Malinverni — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1953–1956</td>
+        <td colspan="3">1954–1957</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,10 +108,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1953-1954** | Centrocampo | 15 | 0 | 0 | 0 | 0 | 1350' |
-| **1954-1955** | Centrocampo | 28 | 2 | 0 | 0 | 0 | 2520' |
-| **1955-1956** | Centrocampo | 22 | 0 | 0 | 0 | 0 | 1980' |
+| **1954-1955** | Centrocampo | 15 | 0 | 0 | 0 | 0 | 1350' |
+| **1955-1956** | Centrocampo | 28 | 2 | 0 | 0 | 0 | 2520' |
+| **1956-1957** | Centrocampo | 22 | 0 | 0 | 0 | 0 | 1980' |
 | **TOTALE** | — | **65** | **2** | **0** | **0** | **0** | **5850'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Nino Malinverni** ha collezionato complessivamente **65 presenze ufficiali**, disputando **5850 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **65 presenze ufficiali**, disputando **5850 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

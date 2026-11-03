@@ -69,6 +69,7 @@ minutes_played: 2359
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 205054
 ---
 # Norbert Gyömbér — Scheda Giocatore nel Calcio Catania
 
@@ -96,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2015</td>
+        <td colspan="3">2013–2016</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -120,10 +121,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Difensore centrale | 19 | 1 | 0 | 2 | 0 | 1527' |
-| **2013-2014** | Difensore centrale | 9 | 0 | 0 | 2 | 2 | 742' |
-| **2014-2015** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
+| **2013-2014** | Difensore centrale | 19 | 1 | 0 | 2 | 0 | 1527' |
+| **2014-2015** | Difensore centrale | 9 | 0 | 0 | 2 | 2 | 742' |
+| **2015-2016** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
 | **TOTALE** | — | **29** | **1** | **0** | **5** | **2** | **2359'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Norbert Gyömbér** ha collezionato complessivamente **29 presenze ufficiali**, disputando **2359 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **29 presenze ufficiali**, disputando **2359 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

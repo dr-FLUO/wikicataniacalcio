@@ -16,7 +16,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
     ) as FullSlug
 
     const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
-    const rootRelUrl = "/" + (ogSlug === "index" ? "" : ogSlug)
+    const rootRelUrl = ("/" + (ogSlug === "index" ? "" : ogSlug)).replace(/\/+/g, "/")
     const htmlContent = `
         <!DOCTYPE html>
         <html lang="it">

@@ -1,7 +1,6 @@
 ---
 title: Pier Luigi Branduardi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Pier Luigi Branduardi,
-  portiere del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Pier Luigi Branduardi, portiere del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/p-r/pier-luigi-branduardi
 entity_type: calciatore
 status: verified
@@ -24,17 +23,28 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Pier_Luigi_Branduardi
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Pierluigi Branduardi
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Branduardi-626
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 626
 aliases:
 - tesserati/calciatori/pier-luigi-branduardi
 - pier-luigi-branduardi
 - tesserati/pier-luigi-branduardi
 - calciatori/pier-luigi-branduardi
+- tesserati/calciatori/pierluigi-branduardi
+- pierluigi-branduardi
+- tesserati/pierluigi-branduardi
+- calciatori/pierluigi-branduardi
+- 03-tesserati/calciatori/archivio/p-r/pierluigi-branduardi
+- Pierluigi Branduardi
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -42,6 +52,8 @@ minutes_played: 1845
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/players/626_pierluigi-branduardi.jpg
+tm_id: 405898
 ---
 # Pier Luigi Branduardi — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +84,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1962–1965</td>
+        <td colspan="3">1963–1966</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,11 +104,13 @@ Nato a Pavia (1943-12-10), Pier Luigi Branduardi ha militato tra le file della f
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1962-1963 | Portiere | 10 | 0 | 0 | 0 | 0 | 900' |
-| 1964-1965 | Portiere | 11 | 0 | 0 | 0 | 0 | 945' |
+| **1963-1964** | Portiere | 10 | 0 | 0 | 0 | 0 | 900' |
+| **1965-1966** | Portiere | 11 | 0 | 0 | 0 | 0 | 945' |
+| **TOTALE** | — | **21** | **0** | **0** | **0** | **0** | **1845'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 21 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1845 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

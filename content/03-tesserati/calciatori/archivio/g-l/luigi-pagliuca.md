@@ -62,6 +62,7 @@ minutes_played: 274
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 21998
 ---
 # Luigi Pagliuca — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2003</td>
+        <td colspan="3">2003–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,11 +110,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2002-2003** | Ala destra | 9 | 0 | 0 | 0 | 0 | 274' |
+| **2003-2004** | Ala destra | 9 | 0 | 0 | 0 | 0 | 274' |
 | **TOTALE** | — | **9** | **0** | **0** | **0** | **0** | **274'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Pagliuca** ha collezionato complessivamente **9 presenze ufficiali**, disputando **274 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **274 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luigi Pagliuca](https://it.wikipedia.org/wiki/Luigi_Pagliuca)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Pagliuca*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pagliuca-142](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pagliuca-142), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Pagliuca*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pagliuca-142)/giocatori/giocatori.php?Pagliuca-142), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

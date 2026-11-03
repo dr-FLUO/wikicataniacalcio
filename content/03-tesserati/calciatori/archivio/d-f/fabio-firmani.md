@@ -53,6 +53,7 @@ minutes_played: 3120
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22083
 ---
 # Fabio Firmani — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2004</td>
+        <td colspan="3">2003–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,12 +102,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2002-2003** | Centrocampista | 24 | 0 | 0 | 9 | 0 | 2010' |
-| **2003-2004** | Centrocampista | 17 | 0 | 0 | 4 | 0 | 1110' |
+| **2003-2004** | Centrocampista | 24 | 0 | 0 | 9 | 0 | 2010' |
+| **2004-2005** | Centrocampista | 17 | 0 | 0 | 4 | 0 | 1110' |
 | **TOTALE** | — | **41** | **0** | **0** | **13** | **0** | **3120'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabio Firmani** ha collezionato complessivamente **41 presenze ufficiali**, disputando **3120 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **3120 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fabio Firmani](https://it.wikipedia.org/wiki/Fabio_Firmani)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Firmani*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Firmani-103](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Firmani-103), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabio Firmani*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Firmani-103)/giocatori/giocatori.php?Firmani-103), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

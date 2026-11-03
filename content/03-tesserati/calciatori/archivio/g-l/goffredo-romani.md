@@ -1,7 +1,7 @@
 ---
 title: Goffredo Romani — Il Bomber del Ritorno in Serie B (1949-1950)
-description: Biografia e statistiche di Goffredo Romani, centravanti e capocannoniere
-  del Catania nel campionato cadetto 1949-1950 con 11 reti.
+description: Biografia e statistiche di Goffredo Romani, centravanti e capocannoniere del Catania nel campionato cadetto 1949-1950
+  con 11 reti.
 slug: 03-tesserati/calciatori/archivio/g-l/goffredo-romani
 entity_type: calciatore
 status: verified
@@ -27,8 +27,7 @@ tags:
 - serie-b
 - mario-varglien
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -38,17 +37,30 @@ sources:
   publisher: calciocatania.com
   year: 2026
   url: https://www.calciocatania.com/giocatori/giocatori.php?Romani-762
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Serafino Romani
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Serafino_Romani
+  reference: Dati anagrafici, carriera e presenze verificate
 aliases:
 - tesserati/calciatori/goffredo-romani
 - goffredo-romani
 - tesserati/goffredo-romani
 - calciatori/goffredo-romani
+- tesserati/calciatori/serafino-romani
+- serafino-romani
+- tesserati/serafino-romani
+- calciatori/serafino-romani
+- 03-tesserati/calciatori/archivio/s-z/serafino-romani
+- Serafino Romani
 total_assists: 0
 minutes_played: 5400
 seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+citizenship: Regno d'Italia
 ---
 # Goffredo Romani
 
@@ -112,16 +124,18 @@ Tra le sue prestazioni più brillanti della stagione 1949-1950 spiccano le doppi
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Serafino Romani*, consultabile su [https://www.calciocatania.com/giocatori/giocatori.php?Romani-762](https://www.calciocatania.com/giocatori/giocatori.php?Romani-762).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Serafino Romani*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Romani-762).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 126-131 (Stagione 1949-1950).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1948-1949 | Attacco | 38 | 10 | 0 | 0 | 0 | 3420' |
-| 1949-1950 | Attacco | 22 | 0 | 0 | 0 | 0 | 1980' |
+| **1949-1950** | Attacco | 38 | 10 | 0 | 0 | 0 | 3420' |
+| **1950-1951** | Attacco | 22 | 0 | 0 | 0 | 0 | 1980' |
+| **TOTALE** | — | **60** | **10** | **0** | **0** | **0** | **5400'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 60 presenze e 10 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **60 presenze ufficiali**, disputando **5400 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

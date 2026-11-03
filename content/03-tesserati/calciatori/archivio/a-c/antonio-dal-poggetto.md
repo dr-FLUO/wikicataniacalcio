@@ -43,19 +43,14 @@ minutes_played: 1591
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 515137
 ---
 # Antonio Dal Poggetto — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/492_antonio-dal-poggetto.jpg" alt="Antonio Dal Poggetto" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1952</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1981</td>
+        <td colspan="3">1976–1982</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,15 +92,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Portiere | 6 | 0 | 0 | 0 | 0 | 411' |
-| **1976-1977** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **1977-1978** | Portiere | 2 | 0 | 0 | 0 | 0 | 83' |
-| **1978-1979** | Portiere | 10 | 0 | 0 | 0 | 0 | 692' |
-| **1980-1981** | Portiere | 5 | 0 | 0 | 0 | 1 | 405' |
+| **1976-1977** | Portiere | 6 | 0 | 0 | 0 | 0 | 411' |
+| **1977-1978** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1978-1979** | Portiere | 2 | 0 | 0 | 0 | 0 | 83' |
+| **1979-1980** | Portiere | 10 | 0 | 0 | 0 | 0 | 692' |
+| **1981-1982** | Portiere | 5 | 0 | 0 | 0 | 1 | 405' |
 | **TOTALE** | — | **23** | **0** | **0** | **0** | **1** | **1591'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Antonio Dal Poggetto** ha collezionato complessivamente **23 presenze ufficiali**, disputando **1591 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **23 presenze ufficiali**, disputando **1591 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +120,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Dal Poggetto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Dal-Poggetto-492](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Dal-Poggetto-492), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Dal Poggetto*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Dal-Poggetto-492), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

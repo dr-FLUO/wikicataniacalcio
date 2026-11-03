@@ -57,6 +57,7 @@ minutes_played: 5545
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 336951
 ---
 # Roberto Mandressi — Scheda Giocatore nel Calcio Catania
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1984–1987</td>
+        <td colspan="3">1985–1988</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +105,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1984-1985** | Attacco | 36 | 4 | 0 | 0 | 0 | 2158' |
-| **1985-1986** | Attacco | 31 | 4 | 0 | 0 | 0 | 1585' |
-| **1986-1987** | Attacco | 24 | 2 | 0 | 0 | 0 | 1802' |
+| **1985-1986** | Attacco | 36 | 4 | 0 | 0 | 0 | 2158' |
+| **1986-1987** | Attacco | 31 | 4 | 0 | 0 | 0 | 1585' |
+| **1987-1988** | Attacco | 24 | 2 | 0 | 0 | 0 | 1802' |
 | **TOTALE** | — | **91** | **10** | **0** | **0** | **0** | **5545'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Roberto Mandressi** ha collezionato complessivamente **91 presenze ufficiali**, disputando **5545 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **91 presenze ufficiali**, disputando **5545 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Roberto Mandressi](https://it.wikipedia.org/wiki/Roberto_Mandressi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Mandressi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mandressi-437](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mandressi-437), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Mandressi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mandressi-437)/giocatori/giocatori.php?Mandressi-437), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -43,19 +43,14 @@ minutes_played: 2700
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 523938
 ---
 # Leandro Colangeli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/693_leandro-colangeli.jpg" alt="Leandro Colangeli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1933</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1955–1957</td>
+        <td colspan="3">1956–1958</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,12 +92,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1955-1956** | Difesa | 11 | 0 | 0 | 0 | 0 | 990' |
-| **1956-1957** | Difesa | 19 | 0 | 0 | 0 | 0 | 1710' |
+| **1956-1957** | Difesa | 11 | 0 | 0 | 0 | 0 | 990' |
+| **1957-1958** | Difesa | 19 | 0 | 0 | 0 | 0 | 1710' |
 | **TOTALE** | — | **30** | **0** | **0** | **0** | **0** | **2700'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Leandro Colangeli** ha collezionato complessivamente **30 presenze ufficiali**, disputando **2700 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **2700 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -122,5 +117,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Leandro Colangeli*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Colangeli-693](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Colangeli-693), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Leandro Colangeli*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Colangeli-693), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

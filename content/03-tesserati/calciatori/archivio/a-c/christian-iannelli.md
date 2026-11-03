@@ -43,19 +43,14 @@ minutes_played: 211
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 29588
 ---
 # Christian Iannelli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/70_christian-iannelli.jpg" alt="Christian Iannelli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1986</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2007</td>
+        <td colspan="3">2004–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,13 +92,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Punta centrale | 8 | 0 | 0 | 0 | 0 | 206' |
-| **2005-2006** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2006-2007** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 5' |
+| **2004-2005** | Punta centrale | 8 | 0 | 0 | 0 | 0 | 206' |
+| **2006-2007** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2007-2008** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 5' |
 | **TOTALE** | — | **9** | **0** | **0** | **0** | **0** | **211'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Christian Iannelli** ha collezionato complessivamente **9 presenze ufficiali**, disputando **211 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **211 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -123,5 +118,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian Iannelli*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Iannelli-70](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Iannelli-70), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian Iannelli*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Iannelli-70), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

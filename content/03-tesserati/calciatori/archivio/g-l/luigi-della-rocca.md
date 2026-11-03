@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/luigi-della-rocca
-- luigi-della-rocca
-- tesserati/luigi-della-rocca
+- 03-tesserati/calciatori/archivio/g-l/luigi-andrea-della-rocca
+- 03-tesserati/calciatori/luigi-andrea-della-rocca
+- calciatori/luigi-andrea-della-rocca
 - calciatori/luigi-della-rocca
+- luigi-andrea-della-rocca
+- tesserati/calciatori/luigi-andrea-della-rocca
+- tesserati/calciatori/luigi-della-rocca
+- tesserati/luigi-andrea-della-rocca
+- tesserati/luigi-della-rocca
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -53,6 +58,7 @@ minutes_played: 348
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6009
 ---
 # Luigi Della Rocca — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2003</td>
+        <td colspan="3">2003–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,8 +110,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2002-2003** | Punta centrale | 12 | 0 | 0 | 0 | 0 | 348' |
+| **2003-2004** | Punta centrale | 12 | 0 | 0 | 0 | 0 | 348' |
 | **TOTALE** | — | **12** | **0** | **0** | **0** | **0** | **348'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Della Rocca** ha collezionato complessivamente **12 presenze ufficiali**, disputando **348 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **348 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Francesco Bassetti
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Bassetti-714
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 714
 aliases:
 - tesserati/calciatori/franco-bassetti
 - franco-bassetti
 - tesserati/franco-bassetti
 - calciatori/franco-bassetti
+- tesserati/calciatori/francesco-bassetti
+- francesco-bassetti
+- tesserati/francesco-bassetti
+- calciatori/francesco-bassetti
+- 03-tesserati/calciatori/archivio/d-f/francesco-bassetti
+- Francesco Bassetti
 citizenship: Italia
 total_goals: 24
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 6750
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/714_francesco-bassetti.jpg
+tm_id: 373957
 ---
 # Franco Bassetti — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1952–1955</td>
+        <td colspan="3">1953–1956</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,10 +109,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1952-1953** | Centrocampo | 31 | 11 | 0 | 0 | 0 | 2790' |
-| **1953-1954** | Centrocampo | 15 | 3 | 0 | 0 | 1 | 1260' |
-| **1954-1955** | Centrocampo | 30 | 10 | 0 | 0 | 0 | 2700' |
+| **1953-1954** | Centrocampo | 31 | 11 | 0 | 0 | 0 | 2790' |
+| **1954-1955** | Centrocampo | 15 | 3 | 0 | 0 | 1 | 1260' |
+| **1955-1956** | Centrocampo | 30 | 10 | 0 | 0 | 0 | 2700' |
 | **TOTALE** | — | **76** | **24** | **0** | **0** | **1** | **6750'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Franco Bassetti** ha collezionato complessivamente **76 presenze ufficiali**, disputando **6750 minuti** di gioco effettivo, siglando **24 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **76 presenze ufficiali**, disputando **6750 minuti** di gioco effettivo, siglando **24 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

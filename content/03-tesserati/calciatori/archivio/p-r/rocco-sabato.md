@@ -62,6 +62,7 @@ minutes_played: 3677
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20747
 ---
 # Rocco Sabato — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2008</td>
+        <td colspan="3">2005–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,14 +110,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Terzino sinistro | 24 | 0 | 0 | 5 | 0 | 1658' |
-| **2005-2006** | Terzino sinistro | 1 | 0 | 0 | 1 | 0 | 90' |
-| **2006-2007** | Terzino sinistro | 22 | 0 | 0 | 3 | 0 | 1215' |
-| **2007-2008** | Terzino sinistro | 9 | 2 | 0 | 1 | 0 | 714' |
+| **2005-2006** | Terzino sinistro | 24 | 0 | 0 | 5 | 0 | 1658' |
+| **2006-2007** | Terzino sinistro | 1 | 0 | 0 | 1 | 0 | 90' |
+| **2007-2008** | Terzino sinistro | 22 | 0 | 0 | 3 | 0 | 1215' |
+| **2008-2009** | Terzino sinistro | 9 | 2 | 0 | 1 | 0 | 714' |
 | **TOTALE** | — | **56** | **2** | **0** | **10** | **0** | **3677'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Rocco Sabato** ha collezionato complessivamente **56 presenze ufficiali**, disputando **3677 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **3677 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Rocco Sabato](https://it.wikipedia.org/wiki/Rocco_Sabato)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rocco Sabato*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Sabato-59](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Sabato-59), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rocco Sabato*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sabato-59)/giocatori/giocatori.php?Sabato-59), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

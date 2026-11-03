@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Stefano Dall&apos;Acqua
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Dall-Acqua-92
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 92
 aliases:
 - tesserati/calciatori/stefano-dall-acqua
 - stefano-dall-acqua
 - tesserati/stefano-dall-acqua
 - calciatori/stefano-dall-acqua
+- tesserati/calciatori/stefano-dallaposacqua
+- stefano-dallaposacqua
+- tesserati/stefano-dallaposacqua
+- calciatori/stefano-dallaposacqua
+- 03-tesserati/calciatori/archivio/s-z/stefano-dallaposacqua
+- Stefano Dall'Acqua
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 108
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/92_stefano-dallaposacqua.jpg
+tm_id: 23352
 ---
 # Stefano Dall'Acqua — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2005</td>
+        <td colspan="3">2005–2006</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +109,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 108' |
+| **2005-2006** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 108' |
 | **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **108'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Stefano Dall'Acqua** ha collezionato complessivamente **6 presenze ufficiali**, disputando **108 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **108 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

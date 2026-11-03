@@ -117,7 +117,7 @@ Il murale dei *Cinquanta Volti* ha trasformato via Cifali in una vera e propria 
 
 - [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]]
 - [[01-societa/presidenti/angelo-massimino|Angelo Massimino — Il Presidentissimo]]
-- [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]] (Catania-Inter 2-0)]]
+- [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali (Catania-Inter 2-0)]]
 - [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso — Il Patriarca degli Ultras]]
 - [[07-media-e-comunicazione/firme-e-voci/stefania-sberna|Stefania Sberna — La Voce del Massimino]]
 

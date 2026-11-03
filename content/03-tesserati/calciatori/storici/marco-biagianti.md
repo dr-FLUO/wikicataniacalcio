@@ -16,8 +16,10 @@ catania_periods:
 - 2007-2013
 - 2016-2020
 total_appearances: 284
-league_appearances: 258
-serie_a_appearances: 153
+league_appearances: 255
+league_goals: 11
+serie_a_appearances: 148
+serie_a_goals: 3
 total_goals: 12
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
@@ -65,21 +67,6 @@ image_credits:
   author_or_archive: Archivio Storico e Iconografico Calcio Catania
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
-- image_path: assets/images/calciatori/marco-biagianti.jpg
-  alt_text: Ritratto ufficiale di Marco Biagianti in maglia rossazzurra
-  author_or_archive: Archivio Storico e Iconografico Calcio Catania
-  year: 2026
-  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
-- image_path: assets/images/calciatori/marco-biagianti.jpg
-  alt_text: Ritratto ufficiale di Marco Biagianti in maglia rossazzurra
-  author_or_archive: Archivio Storico e Iconografico Calcio Catania
-  year: 2026
-  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
-- image_path: assets/images/calciatori/marco-biagianti.jpg
-  alt_text: Ritratto ufficiale di Marco Biagianti in maglia rossazzurra
-  author_or_archive: Archivio Storico e Iconografico Calcio Catania
-  year: 2026
-  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/marco-biagianti.jpg
   alt_text: 'Ritratto ufficiale di Marco Biagianti — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -91,10 +78,11 @@ height: 179 cm
 foot: Destro
 total_assists: 11
 minutes_played: 20482
-seasons_count: 12
+seasons_count: 11
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 47646
 ---
 # Marco Biagianti
 
@@ -122,7 +110,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2013, 2016–2020</td>
+        <td colspan="3">2006–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -134,7 +122,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-**Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[societa/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **258 in campionato** e **153 in Serie A**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
+**Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[societa/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **255 in campionato regolare**, **11 nei play-off** e **18 nelle coppe**, per un totale di **148 gare e 3 reti in Serie A** e **12 reti complessive**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
 
 ## Il Primo Ciclo in Serie A (2007–2013): Da Mediano di Rottura a Capitano
 
@@ -178,7 +166,7 @@ Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania S
 <summary><strong>Sintesi Statistica e Primato Storico</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
 - **Presenze Ufficiali Totali:** **284** (1º posto assoluto nella Hall of Fame rossazzurra, davanti a [[tesserati/calciatori/damiano-morra|Damiano Morra]] a quota 281 e [[tesserati/calciatori/mariano-izco|Mariano Izco]] a quota 280).
-- **Dettaglio Competizioni:** 153 presenze in Serie A (3 reti), 105 in Serie C / Lega Pro (2 reti), 11 nei Playoff di Serie C, 15 tra Coppa Italia maggiore e Coppa Italia Serie C (1 rete).
+- **Dettaglio Competizioni:** 255 presenze in campionati regolari (148 in Serie A con 3 reti, 107 in Serie C con 8 reti), 11 presenze nei Playoff di Serie C, 18 presenze nelle coppe (11 in Coppa Italia maggiore, 7 con 1 rete in Coppa Italia Serie C) per complessive 284 presenze ufficiali e 12 reti.
 - **Riconoscimenti:** Convocazione in Nazionale Italiana (stage CT Cesare Prandelli, giugno 2009) e inserimento tra gli 11 più grandi calciatori della storia etnea nel sondaggio del settantennale del 1946.
 
 </details>
@@ -187,22 +175,22 @@ Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania S
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Mediano | 2 | 0 | 0 | 0 | 0 | 57' |
-| **2006-2007** | Mediano | 21 | 0 | 0 | 4 | 0 | 1442' |
-| **2007-2008** | Mediano | 36 | 0 | 3 | 4 | 0 | 2903' |
-| **2008-2009** | Mediano | 36 | 3 | 2 | 8 | 0 | 2962' |
-| **2009-2010** | Mediano | 15 | 0 | 0 | 2 | 0 | 1286' |
-| **2010-2011** | Mediano | 15 | 0 | 1 | 3 | 0 | 845' |
-| **2011-2012** | Mediano | 29 | 0 | 0 | 5 | 0 | 1594' |
-| **2012-2013** | Mediano | 1 | 0 | 0 | 0 | 0 | 10' |
-| **2015-2016** | Mediano | 31 | 2 | 3 | 10 | 0 | 2646' |
-| **2016-2017** | Mediano | 35 | 2 | 2 | 9 | 0 | 2491' |
-| **2017-2018** | Mediano | 39 | 4 | 0 | 4 | 0 | 3064' |
-| **2018-2019** | Mediano | 24 | 1 | 0 | 5 | 0 | 1182' |
+| **2006-2007** | Mediano | 2 | 0 | 0 | 0 | 0 | 57' |
+| **2007-2008** | Mediano | 21 | 0 | 0 | 4 | 0 | 1442' |
+| **2008-2009** | Mediano | 36 | 0 | 3 | 4 | 0 | 2903' |
+| **2009-2010** | Mediano | 36 | 3 | 2 | 8 | 0 | 2962' |
+| **2010-2011** | Mediano | 15 | 0 | 0 | 2 | 0 | 1286' |
+| **2011-2012** | Mediano | 15 | 0 | 1 | 3 | 0 | 845' |
+| **2012-2013** | Mediano | 29 | 0 | 0 | 5 | 0 | 1594' |
+| **2013-2014** | Mediano | 1 | 0 | 0 | 0 | 0 | 10' |
+| **2016-2017** | Mediano | 31 | 2 | 3 | 10 | 0 | 2646' |
+| **2017-2018** | Mediano | 35 | 2 | 2 | 9 | 0 | 2491' |
+| **2018-2019** | Mediano | 39 | 4 | 0 | 4 | 0 | 3064' |
+| **2019-2020** | Mediano | 24 | 1 | 0 | 5 | 0 | 1182' |
 | **TOTALE** | — | **284** | **12** | **11** | **54** | **0** | **20482'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marco Biagianti** ha collezionato complessivamente **284 presenze ufficiali**, disputando **20482 minuti** di gioco effettivo, siglando **12 gol** e servendo **11 assist** distribuiti su **12 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **284 presenze ufficiali**, disputando **20482 minuti** di gioco effettivo, siglando **12 gol** e servendo **11 assist** distribuiti su **12 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -210,6 +198,6 @@ Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania S
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 442–488.
 2. **Lega Nazionale Professionisti Serie A / Lega Pro**, *Archivio Statistico Ufficiale Carriera Marco Biagianti (2007–2020)*, 284 presenze ufficiali complessive.
-3. **Roberto Quartarone**, *I 90 anni del Calcio Catania e il record storico di capitan Biagianti*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2019.
+3. **Roberto Quartarone**, *I 90 anni del Calcio Catania e il record storico di capitan Biagianti*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/), 2019.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Marco  Biagianti*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biagianti-10).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Marco  Biagianti*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Biagianti-10).

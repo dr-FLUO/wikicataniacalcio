@@ -1,8 +1,7 @@
 ---
 title: Alejandro Gómez — «El Papu», Fantasia Pura e Simbolo del Catania dei Record
-description: 'Biografia e statistiche di Alejandro ''Papu'' Gómez al Calcio Catania:
-  111 presenze e 18 reti tra il 2010 e il 2013, protagonista assoluto del record di
-  56 punti in Serie A.'
+description: 'Biografia e statistiche di Alejandro ''Papu'' Gómez al Calcio Catania: 111 presenze e 18 reti tra il 2010 e
+  il 2013, protagonista assoluto del record di 56 punti in Serie A.'
 slug: 03-tesserati/calciatori/storici/alejandro-gomez
 entity_type: calciatore
 status: verified
@@ -38,13 +37,11 @@ sources:
   url: https://it.wikipedia.org/wiki/Alejandro_G%C3%B3mez
   reference: Dati anagrafici, carriera e presenze verificate
 - author: Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Ufficiale Serie A TIM (2010-2013) — Scheda Alejandro
-    Darío Gómez
+  title: Archivio Statistico Ufficiale Serie A TIM (2010-2013) — Scheda Alejandro Darío Gómez
   publisher: Lega Serie A
   year: 2013
   reference: 106 presenze e 16 reti in Serie A, 5 presenze e 2 reti in Coppa Italia
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -56,14 +53,19 @@ sources:
   reference: 'ID 11: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Gomez-11
 cover_image: papu-gomez.jpg
-cover_caption: Alejandro Darío «Papu» Gómez, protagonista assoluto del triennio di
-  Serie A 2010–2013 con 111 presenze e 18 gol nel Catania dei record.
+cover_caption: Alejandro Darío «Papu» Gómez, protagonista assoluto del triennio di Serie A 2010–2013 con 111 presenze e 18
+  gol nel Catania dei record.
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 4.0'
 aliases:
-- tesserati/calciatori/alejandro-gomez
-- alejandro-gomez
-- tesserati/alejandro-gomez
+- 03-tesserati/calciatori/alejandro-dario-gomez
+- 03-tesserati/calciatori/archivio/a-c/alejandro-dario-gomez
+- alejandro-dario-gomez
+- calciatori/alejandro-dario-gomez
 - calciatori/alejandro-gomez
+- tesserati/alejandro-dario-gomez
+- tesserati/alejandro-gomez
+- tesserati/calciatori/alejandro-dario-gomez
+- tesserati/calciatori/alejandro-gomez
 image_credits:
 - image_path: assets/images/calciatori/alejandro-gomez.jpg
   alt_text: Ritratto ufficiale di Papu Gómez in maglia rossazzurra
@@ -76,8 +78,8 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/alejandro-gomez.jpg
-  alt_text: 'Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Alejandro Gómez — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -90,6 +92,7 @@ seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 20005
 ---
 # Alejandro Gómez
 
@@ -201,14 +204,16 @@ Nell'agosto 2013, dopo **111 partite e 18 reti** complessive in maglia rossazzur
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 468-472.
 3. **Roberto Quartarone, Alessandro Russo**, *Papu Gómez, tre anni di magia pura ai piedi del vulcano*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2013.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alejandro Dario  Gomez*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gomez-11).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alejandro Dario  Gomez*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gomez-11).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2009-2010 | Ala sinistra | 37 | 4 | 5 | 3 | 0 | 2587' |
-| 2010-2011 | Ala sinistra | 35 | 5 | 6 | 1 | 0 | 2865' |
-| 2011-2012 | Ala sinistra | 39 | 9 | 7 | 5 | 0 | 3278' |
+| **2010-2011** | Ala sinistra | 37 | 4 | 5 | 3 | 0 | 2587' |
+| **2011-2012** | Ala sinistra | 35 | 5 | 6 | 1 | 0 | 2865' |
+| **2012-2013** | Ala sinistra | 39 | 9 | 7 | 5 | 0 | 3278' |
+| **TOTALE** | — | **111** | **18** | **18** | **9** | **0** | **8730'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 111 presenze e 18 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **111 presenze ufficiali**, disputando **8730 minuti** di gioco effettivo, siglando **18 gol** e servendo **18 assist** distribuiti su **3 stagioni sportive**.

@@ -66,6 +66,7 @@ minutes_played: 890
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 84763
 ---
 # Adriano Montalto — Attaccante di Potenza ed Esperienza del Catania FC
 
@@ -83,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1988</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -93,7 +94,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–2026</td>
+        <td colspan="3">2024–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -129,11 +130,11 @@ Approdato a Catania nell'estate del **2024**:
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Punta centrale | 22 | 3 | 0 | 3 | 0 | 890' |
+| **2024-2025** | Punta centrale | 22 | 3 | 0 | 3 | 0 | 890' |
 | **TOTALE** | — | **22** | **3** | **0** | **3** | **0** | **890'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adriano Montalto** ha collezionato complessivamente **22 presenze ufficiali**, disputando **890 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **890 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

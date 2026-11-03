@@ -1,5 +1,5 @@
 ---
-title: Francesco Lodi — Il Regista dei Quattro Cicli (238 Presenze e 53 Reti)
+title: Francesco Lodi — Il Regista dei Quattro Cicli (239 Presenze e 54 Reti)
 description: Biografia, presenze e statistiche ufficiali di Francesco Lodi, centrocampista (regista / metodista) del Calcio
   Catania con 239 presenze e 54 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/francesco-lodi
@@ -18,11 +18,11 @@ catania_periods:
 - 2017-2020
 - 2022-2023
 total_appearances: 239
-league_appearances: 209
-serie_a_appearances: 96
+league_appearances: 215
+serie_a_appearances: 105
 total_goals: 54
-league_goals: 46
-serie_a_goals: 19
+league_goals: 47
+serie_a_goals: 20
 club_entities:
 - '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 - '[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]]'
@@ -73,11 +73,6 @@ image_credits:
   author_or_archive: Archivio Storico e Iconografico Calcio Catania
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
-- image_path: assets/images/calciatori/francesco-lodi.jpg
-  alt_text: Ritratto ufficiale di Francesco Lodi in maglia rossazzurra
-  author_or_archive: Archivio Storico e Iconografico Calcio Catania
-  year: 2026
-  license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/francesco-lodi.jpg
   alt_text: 'Ritratto ufficiale di Francesco Lodi — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
     Commons Contributors'
@@ -93,6 +88,7 @@ seasons_count: 9
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6033
 ---
 # Francesco Lodi
 
@@ -120,7 +116,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2013, 2014, 2017–2020, 2022–2023</td>
+        <td colspan="3">2010–2023</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -132,7 +128,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-**Francesco Lodi**, detto **"Ciccio"** (Napoli, 23 marzo 1984), è un ex calciatore italiano, di ruolo centrocampista e regista. Autentico maestro dei calci piazzati e simbolo trasversale di oltre un decennio di storia rossazzurra, ha vestito la maglia numero 10 del Catania in **quattro distinti cicli (2011–2013, 2014–2015, 2017–2020 e 2022–2023)** attraversando due diverse matricole federali (11700 e 955013) e quattro categorie (Serie A, Serie B, Serie C e Serie D). Con **53 reti ufficiali** è il **terzo miglior marcatore assoluto della storia del Catania** (e il centrocampista più prolifico di sempre), mentre con **238 presenze complessive** occupa il **quinto posto nella classifica *all-time* di presenze**.
+**Francesco Lodi**, detto **"Ciccio"** (Napoli, 23 marzo 1984), è un ex calciatore italiano, di ruolo centrocampista e regista. Autentico maestro dei calci piazzati e simbolo trasversale di oltre un decennio di storia rossazzurra, ha vestito la maglia numero 10 del Catania in **quattro distinti cicli (2011–2013, 2014–2015, 2017–2020 e 2022–2023)** attraversando due diverse matricole federali (11700 e 955013) e quattro categorie (Serie A, Serie B, Serie C e Serie D). Con **54 reti ufficiali** è il **terzo miglior marcatore assoluto della storia del Catania** (e il centrocampista più prolifico di sempre), mentre con **239 presenze complessive** (215 in campionato, 10 nei playoff/poule scudetto e 14 nelle coppe) occupa il **quinto posto nella classifica *all-time* di presenze** (conteggiato a quota 238 gare e 53 reti nei soli tornei professionistici).
 
 ## Il Regista del Catania dei Record in Serie A (2011–2013 e 2014)
 
@@ -180,25 +176,25 @@ Dopo l'estinzione della matricola 11700 per il [[vicende-legali/fallimento-2021-
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2009-2010** | Mediano | 16 | 3 | 2 | 0 | 0 | 947' |
-| **2010-2011** | Mediano | 37 | 9 | 7 | 4 | 0 | 3153' |
-| **2011-2012** | Mediano | 37 | 8 | 7 | 1 | 1 | 3263' |
-| **2012-2013** | Mediano | 20 | 2 | 4 | 3 | 0 | 1622' |
-| **2013-2014** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2016-2017** | Mediano | 34 | 8 | 11 | 4 | 1 | 2843' |
-| **2017-2018** | Mediano | 43 | 15 | 8 | 2 | 0 | 3364' |
-| **2018-2019** | Mediano | 19 | 5 | 4 | 1 | 0 | 1412' |
-| **2021-2022** | Mediano | 33 | 4 | 7 | 3 | 0 | 2249' |
+| **2010-2011** | Mediano | 16 | 3 | 2 | 0 | 0 | 947' |
+| **2011-2012** | Mediano | 37 | 9 | 7 | 4 | 0 | 3153' |
+| **2012-2013** | Mediano | 37 | 8 | 7 | 1 | 1 | 3263' |
+| **2013-2014** | Mediano | 20 | 2 | 4 | 3 | 0 | 1622' |
+| **2014-2015** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2017-2018** | Mediano | 34 | 8 | 11 | 4 | 1 | 2843' |
+| **2018-2019** | Mediano | 43 | 15 | 8 | 2 | 0 | 3364' |
+| **2019-2020** | Mediano | 19 | 5 | 4 | 1 | 0 | 1412' |
+| **2022-2023** | Mediano | 33 | 4 | 7 | 3 | 0 | 2249' |
 | **TOTALE** | — | **239** | **54** | **50** | **18** | **2** | **18853'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Francesco Lodi** ha collezionato complessivamente **239 presenze ufficiali**, disputando **18853 minuti** di gioco effettivo, siglando **54 gol** e servendo **50 assist** distribuiti su **9 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **239 presenze ufficiali**, disputando **18853 minuti** di gioco effettivo, siglando **54 gol** e servendo **50 assist** distribuiti su **9 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Francesco Lodi](https://it.wikipedia.org/wiki/Francesco_Lodi)*.
 
 1. **Lega Nazionale Professionisti Serie A / Lega Pro / LND**, *Archivio Statistico Carriera Francesco Lodi (2011–2023)*, 238 presenze e 53 reti ufficiali con il Catania.
-2. **Roberto Quartarone**, *Francesco Lodi, il dieci della storia rossazzurra tra Serie A e la rinascita in Serie D*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2023.
+2. **Roberto Quartarone**, *Francesco Lodi, il dieci della storia rossazzurra tra Serie A e la rinascita in Serie D*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/), 2023.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Francesco  Lodi*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Lodi-13).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Francesco  Lodi*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Lodi-13).

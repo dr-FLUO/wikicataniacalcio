@@ -53,6 +53,7 @@ minutes_played: 120
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 882775
 ---
 # Francesco Borriello — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2006</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2019–2021</td>
+        <td colspan="3">2020–2022</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2019-2020** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2020-2021** | Portiere | 1 | 0 | 0 | 0 | 0 | 120' |
+| **2020-2021** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2021-2022** | Portiere | 1 | 0 | 0 | 0 | 0 | 120' |
 | **TOTALE** | — | **1** | **0** | **0** | **0** | **0** | **120'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Francesco Borriello** ha collezionato complessivamente **1 presenze ufficiali**, disputando **120 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **1 presenze ufficiali**, disputando **120 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +126,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Borriello*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Borriello-1008](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Borriello-1008), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Borriello*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Borriello-1008), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

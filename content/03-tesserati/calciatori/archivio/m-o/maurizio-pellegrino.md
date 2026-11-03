@@ -72,18 +72,14 @@ minutes_played: 4041
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 504669
 ---
-
 # Maurizio Pellegrino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/293_maurizio-pellegrino.jpg" alt="Maurizio Pellegrino" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -105,7 +101,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1994–1996</td>
+        <td colspan="3">1995–1997</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -125,12 +121,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1994-1995** | Centrocampo | 29 | 1 | 0 | 0 | 0 | 2128' |
-| **1995-1996** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 1913' |
+| **1995-1996** | Centrocampo | 29 | 1 | 0 | 0 | 0 | 2128' |
+| **1996-1997** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 1913' |
 | **TOTALE** | — | **56** | **1** | **0** | **0** | **0** | **4041'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Maurizio Pellegrino** ha collezionato complessivamente **56 presenze ufficiali**, disputando **4041 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4041 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -151,5 +147,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Maurizio Pellegrino](https://it.wikipedia.org/wiki/Maurizio_Pellegrino)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maurizio Pellegrino*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pellegrino-293](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pellegrino-293), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maurizio Pellegrino*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pellegrino-293)/giocatori/giocatori.php?Pellegrino-293), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

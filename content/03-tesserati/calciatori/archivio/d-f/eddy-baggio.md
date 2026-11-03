@@ -56,6 +56,7 @@ minutes_played: 3125
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 28829
 ---
 # Eddy Baggio
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2002</td>
+        <td colspan="3">2001–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,13 +122,13 @@ Tra i suoi capolavori etnei si ricordano il gol capolavoro nella semifinale di r
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Punta centrale | 34 | 18 | 2 | 3 | 0 | 2616' |
-| **2001-2002** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 13' |
-| **2003-2004** | Punta centrale | 12 | 2 | 0 | 1 | 0 | 496' |
+| **2001-2002** | Punta centrale | 34 | 18 | 2 | 3 | 0 | 2616' |
+| **2002-2003** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 13' |
+| **2004-2005** | Punta centrale | 12 | 2 | 0 | 1 | 0 | 496' |
 | **TOTALE** | — | **47** | **20** | **2** | **4** | **0** | **3125'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Eddy Baggio** ha collezionato complessivamente **47 presenze ufficiali**, disputando **3125 minuti** di gioco effettivo, siglando **20 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **47 presenze ufficiali**, disputando **3125 minuti** di gioco effettivo, siglando **20 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -135,4 +136,4 @@ Tra i suoi capolavori etnei si ricordano il gol capolavoro nella semifinale di r
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 414-422 (Stagione 2001-2002 e finale di Taranto).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Eddy Baggio*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baggio-99).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Eddy Baggio*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Baggio-99).

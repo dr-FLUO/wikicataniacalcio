@@ -41,6 +41,7 @@ minutes_played: 270
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 653390
 ---
 # Guerrino Ferrarese — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1936–1939</td>
+        <td colspan="3">1937–1940</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +96,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1936-1937** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
-| **1938-1939** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1937-1938** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
+| **1939-1940** | Portiere | 2 | 0 | 0 | 0 | 0 | 180' |
 | **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **270'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Guerrino Ferrarese** ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **270 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

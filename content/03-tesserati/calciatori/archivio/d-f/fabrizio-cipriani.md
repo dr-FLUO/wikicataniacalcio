@@ -36,6 +36,7 @@ minutes_played: 183
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 525410
 ---
 # Fabrizio Cipriani — Scheda Giocatore nel Calcio Catania
 
@@ -54,9 +55,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1969</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +67,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1984–1987</td>
+        <td colspan="3">1985–1988</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,13 +87,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1984-1985** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **1985-1986** | Difensore centrale | 3 | 0 | 0 | 0 | 0 | 163' |
-| **1986-1987** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 20' |
+| **1985-1986** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1986-1987** | Difensore centrale | 3 | 0 | 0 | 0 | 0 | 163' |
+| **1987-1988** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 20' |
 | **TOTALE** | — | **4** | **0** | **0** | **0** | **0** | **183'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabrizio Cipriani** ha collezionato complessivamente **4 presenze ufficiali**, disputando **183 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **4 presenze ufficiali**, disputando **183 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -112,5 +113,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Cipriani*, in [https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-433](https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-433), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Cipriani*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-433), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

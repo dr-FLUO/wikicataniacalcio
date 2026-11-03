@@ -52,17 +52,14 @@ minutes_played: 9237
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 335141
 ---
 # Ennio Mastalli — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/419_ennio-mastalli.jpg" alt="Ennio Mastalli" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1981–1988</td>
+        <td colspan="3">1982–1989</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1981-1982** | Centrocampista | 45 | 9 | 0 | 0 | 0 | 3964' |
-| **1982-1983** | Centrocampista | 17 | 1 | 0 | 1 | 0 | 1404' |
-| **1983-1984** | Centrocampista | 39 | 4 | 0 | 0 | 0 | 3248' |
-| **1987-1988** | Centrocampista | 14 | 0 | 0 | 0 | 0 | 621' |
+| **1982-1983** | Centrocampista | 45 | 9 | 0 | 0 | 0 | 3964' |
+| **1983-1984** | Centrocampista | 17 | 1 | 0 | 1 | 0 | 1404' |
+| **1984-1985** | Centrocampista | 39 | 4 | 0 | 0 | 0 | 3248' |
+| **1988-1989** | Centrocampista | 14 | 0 | 0 | 0 | 0 | 621' |
 | **TOTALE** | — | **115** | **14** | **0** | **1** | **0** | **9237'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ennio Mastalli** ha collezionato complessivamente **115 presenze ufficiali**, disputando **9237 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **115 presenze ufficiali**, disputando **9237 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ennio Mastalli](https://it.wikipedia.org/wiki/Ennio_Mastalli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ennio Mastalli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mastalli-419](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mastalli-419), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ennio Mastalli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mastalli-419)/giocatori/giocatori.php?Mastalli-419), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

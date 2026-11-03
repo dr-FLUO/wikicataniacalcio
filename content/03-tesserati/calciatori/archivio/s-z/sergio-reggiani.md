@@ -52,17 +52,14 @@ minutes_played: 6749
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 479810
 ---
 # Sergio Reggiani — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/590_sergio-reggiani.jpg" alt="Sergio Reggiani" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1967–1970</td>
+        <td colspan="3">1968–1971</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1967-1968** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 1095' |
-| **1968-1969** | Difensore centrale | 32 | 3 | 0 | 0 | 0 | 2684' |
-| **1969-1970** | Difensore centrale | 33 | 0 | 0 | 0 | 0 | 2970' |
+| **1968-1969** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 1095' |
+| **1969-1970** | Difensore centrale | 32 | 3 | 0 | 0 | 0 | 2684' |
+| **1970-1971** | Difensore centrale | 33 | 0 | 0 | 0 | 0 | 2970' |
 | **TOTALE** | — | **78** | **3** | **0** | **0** | **0** | **6749'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Sergio Reggiani** ha collezionato complessivamente **78 presenze ufficiali**, disputando **6749 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **78 presenze ufficiali**, disputando **6749 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Sergio Reggiani](https://it.wikipedia.org/wiki/Sergio_Reggiani)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Reggiani*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Reggiani-590](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Reggiani-590), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Reggiani*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Reggiani-590)/giocatori/giocatori.php?Reggiani-590), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

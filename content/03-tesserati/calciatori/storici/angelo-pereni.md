@@ -52,17 +52,14 @@ minutes_played: 17804
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 478868
 ---
 # Angelo Pereni — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/581_angelo-pereni.jpg" alt="Angelo Pereni" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1971</td>
+        <td colspan="3">1966–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,16 +101,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Centrocampo | 32 | 3 | 0 | 0 | 0 | 2880' |
-| **1966-1967** | Centrocampo | 27 | 2 | 0 | 0 | 0 | 2430' |
-| **1967-1968** | Centrocampo | 37 | 0 | 0 | 1 | 0 | 3330' |
-| **1968-1969** | Centrocampo | 37 | 3 | 0 | 0 | 0 | 3330' |
-| **1969-1970** | Centrocampo | 31 | 0 | 0 | 0 | 0 | 2789' |
-| **1970-1971** | Centrocampo | 34 | 0 | 0 | 0 | 0 | 3045' |
+| **1966-1967** | Centrocampo | 32 | 3 | 0 | 0 | 0 | 2880' |
+| **1967-1968** | Centrocampo | 27 | 2 | 0 | 0 | 0 | 2430' |
+| **1968-1969** | Centrocampo | 37 | 0 | 0 | 1 | 0 | 3330' |
+| **1969-1970** | Centrocampo | 37 | 3 | 0 | 0 | 0 | 3330' |
+| **1970-1971** | Centrocampo | 31 | 0 | 0 | 0 | 0 | 2789' |
+| **1971-1972** | Centrocampo | 34 | 0 | 0 | 0 | 0 | 3045' |
 | **TOTALE** | — | **198** | **8** | **0** | **1** | **0** | **17804'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Angelo Pereni** ha collezionato complessivamente **198 presenze ufficiali**, disputando **17804 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **198 presenze ufficiali**, disputando **17804 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Angelo Pereni](https://it.wikipedia.org/wiki/Angelo_Pereni)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Angelo Pereni*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pereni-581](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pereni-581), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Angelo Pereni*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pereni-581)/giocatori/giocatori.php?Pereni-581), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

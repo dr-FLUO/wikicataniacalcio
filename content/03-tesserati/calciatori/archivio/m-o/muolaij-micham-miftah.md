@@ -1,7 +1,7 @@
 ---
 title: Muolaij Micham Miftah — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Muolaij Micham Miftah,
-  attaccante del Calcio Catania con 1 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Muolaij Micham Miftah, attaccante del Calcio Catania con 1 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/muolaij-micham-miftah
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Miftah-136
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 136
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -31,21 +30,24 @@ aliases:
 - muolaij-micham-miftah
 - tesserati/muolaij-micham-miftah
 - calciatori/muolaij-micham-miftah
+- hicham-miftah
+- moulay-hicham-miftah
+- calciatori/hicham-miftah
 total_goals: 0
 total_assists: 0
 minutes_played: 52
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 176321
+image: assets/images/calciatori/muolaij-micham-miftah.jpg
 ---
 # Muolaij Micham Miftah — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <div class="nfc-player-no-photo">
-      <span class="nfc-no-photo-badge">ND</span>
-      <span class="nfc-no-photo-label">Nessuna foto</span>
-    </div>
+    <img src="/assets/images/calciatori/muolaij-micham-miftah.jpg" alt="Moulay Hicham Miftah" class="nfc-player-photo" />
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -98,15 +100,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2003-2004** | Seconda punta | 1 | 0 | 0 | 0 | 0 | 52' |
+| **TOTALE** | — | **1** | **0** | **0** | **0** | **0** | **52'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Hicham Miftah** ha collezionato complessivamente **1 presenze ufficiali**, disputando **52 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Muolaij Micham Miftah*, in [https://www.calciocatania.com/giocatori/giocatori.php?Miftah-136](https://www.calciocatania.com/giocatori/giocatori.php?Miftah-136), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Muolaij Micham Miftah*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Miftah-136), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2002-2003 | Seconda punta | 1 | 0 | 0 | 0 | 0 | 52' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 1 presenze e 0 reti complessive.*

@@ -48,6 +48,7 @@ minutes_played: 1483
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 104754
 ---
 # Francesco Ripa — Scheda Giocatore nel Calcio Catania
 
@@ -63,9 +64,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1986</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2016–2017</td>
+        <td colspan="3">2017–2018</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,11 +96,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2016-2017** | Punta centrale | 32 | 9 | 3 | 1 | 0 | 1483' |
+| **2017-2018** | Punta centrale | 32 | 9 | 3 | 1 | 0 | 1483' |
 | **TOTALE** | — | **32** | **9** | **3** | **1** | **0** | **1483'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Francesco Ripa** ha collezionato complessivamente **32 presenze ufficiali**, disputando **1483 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **1483 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -119,5 +120,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Ripa*, in [https://www.calciocatania.com/giocatori/giocatori.php?Ripa-910](https://www.calciocatania.com/giocatori/giocatori.php?Ripa-910), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Ripa*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ripa-910), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

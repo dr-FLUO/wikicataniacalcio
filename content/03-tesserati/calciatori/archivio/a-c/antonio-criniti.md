@@ -52,17 +52,14 @@ minutes_played: 1488
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6099
 ---
 # Antonio Criniti — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/201_antonio-criniti.jpg" alt="Antonio Criniti" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2001</td>
+        <td colspan="3">2000–2002</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Seconda punta | 24 | 5 | 4 | 3 | 0 | 1458' |
-| **2000-2001** | Seconda punta | 1 | 0 | 0 | 0 | 0 | 30' |
+| **2000-2001** | Seconda punta | 24 | 5 | 4 | 3 | 0 | 1458' |
+| **2001-2002** | Seconda punta | 1 | 0 | 0 | 0 | 0 | 30' |
 | **TOTALE** | — | **25** | **5** | **4** | **3** | **0** | **1488'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Antonio Criniti** ha collezionato complessivamente **25 presenze ufficiali**, disputando **1488 minuti** di gioco effettivo, siglando **5 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **1488 minuti** di gioco effettivo, siglando **5 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Antonio Criniti](https://it.wikipedia.org/wiki/Antonio_Criniti)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Criniti*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Criniti-201](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Criniti-201), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Criniti*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Criniti-201)/giocatori/giocatori.php?Criniti-201), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

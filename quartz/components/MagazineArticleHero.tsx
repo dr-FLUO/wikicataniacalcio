@@ -578,7 +578,87 @@ function getPageEditorialBadges(slug: string, fm: Record<string, any>): { left: 
   return { left: "WIKI CATANIA CALCIO", right: "DOSSIER MONOGRAFICO" }
 }
 
-const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
+interface BreadcrumbCrumb {
+  label: string
+  target: string
+}
+
+function getHeroBreadcrumbs(slug: string): BreadcrumbCrumb[] {
+  const crumbs: BreadcrumbCrumb[] = [{ label: "Home", target: "index" }]
+  const clean = slug.replace(/\/index$/, "")
+  const segs = clean.split("/").filter(Boolean)
+  if (segs.length === 0) return crumbs
+
+  const topMap: Record<string, string> = {
+    "01-societa": "01 · Società",
+    "02-cronistoria": "02 · Cronistoria",
+    "03-tesserati": "03 · Tesserati",
+    "04-strutture": "04 · Strutture",
+    "05-identita-e-simboli": "05 · Simboli",
+    "06-tifoseria-e-cultura": "06 · Tifoseria",
+    "07-media-e-comunicazione": "07 · Media",
+    "08-settori-paralleli": "08 · Vivaio & Women",
+  }
+
+  const subMap: Record<string, string> = {
+    "epoche": "Epoche Societarie",
+    "presidenti": "Presidenti",
+    "dirigenti": "Dirigenti & DS",
+    "vicende-legali": "Diritto & Giustizia",
+    "stagioni": "Stagioni",
+    "partite-storiche": "Partite Storiche",
+    "precedenti": "Precedenti & Derby",
+    "allenatori": "Allenatori",
+    "storici": "Leggende & Storici",
+    "rosa-attuale": "Rosa Attuale",
+    "archivio": "Archivio Calciatori A–Z",
+    "stadio-massimino": "Stadio Massimino",
+    "centri-sportivi": "Centri Sportivi",
+    "campi-storici": "Campi Storici",
+    "araldica-e-scudetti": "Stemmi & Liotru",
+    "sponsor": "Sponsor",
+    "curva-nord": "Curva Nord",
+    "curva-sud": "Curva Sud",
+    "tribuna-b": "Tribuna B",
+    "gemellaggi": "Gemellaggi",
+    "amicizie": "Amicizie",
+    "rivalita": "Rivalità",
+    "biografie": "Biografie Ultras",
+    "eventi-e-giustizia": "Eventi & Giustizia",
+    "testate": "Testate & TV",
+    "firme-e-voci": "Firme & Voci",
+    "letteratura": "Libri & Almanacchi",
+    "cinema-e-tv": "Cinema & TV",
+    "giovanili": "Settore Giovanile",
+    "women": "Catania Women",
+  }
+
+  if (topMap[segs[0]]) {
+    crumbs.push({ label: topMap[segs[0]], target: `${segs[0]}/index` })
+  }
+
+  // Build 2nd level crumb following the Max-2-Levels rule
+  if (segs.length >= 2) {
+    if (segs[0] === "02-cronistoria" && segs[1] === "partite-storiche" && segs[2] === "precedenti") {
+      crumbs.push({ label: "Precedenti & Derby", target: "02-cronistoria/partite-storiche/precedenti/index" })
+    } else if (segs[0] === "03-tesserati" && segs[1] === "calciatori" && segs[2] && subMap[segs[2]]) {
+      crumbs.push({ label: subMap[segs[2]], target: `03-tesserati/calciatori/${segs[2]}/index` })
+    } else if (
+      segs[0] === "06-tifoseria-e-cultura" &&
+      (segs[1] === "settori" || segs[1] === "relazioni") &&
+      segs[2] &&
+      subMap[segs[2]]
+    ) {
+      crumbs.push({ label: subMap[segs[2]], target: `06-tifoseria-e-cultura/${segs[1]}/${segs[2]}/index` })
+    } else if (subMap[segs[1]] && segs.length > 2) {
+      crumbs.push({ label: subMap[segs[1]], target: `${segs[0]}/${segs[1]}/index` })
+    }
+  }
+
+  return crumbs
+}
+
+const MagazineArticleHero: QuartzComponent = ({ fileData, tree, allFiles }: QuartzComponentProps) => {
   const slug = fileData.slug ?? "index"
   if (slug === "index") {
     return null
@@ -593,6 +673,36 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponen
 
   const baseDir = pathToRoot(slug)
   const badges = getPageEditorialBadges(slug, fm)
+  const breadcrumbs = getHeroBreadcrumbs(slug)
+
+  const resolveRel = (target: string) => {
+    const isIdx = target.endsWith("/index") || target === "index"
+    const cleanT = target.replace(/\/index$/, "")
+    const trail = isIdx ? "/" : ""
+    if (cleanT === "" || cleanT === "index") {
+      return baseDir === "." ? "./" : `${baseDir}/`
+    }
+    return baseDir === "." ? `./${cleanT}${trail}` : `${baseDir}/${cleanT}${trail}`
+  }
+
+  // Season Quick-Switcher for any page in 02-cronistoria/stagioni/YYYY-YYYY
+  const seasonMatch = slug.match(/^02-cronistoria\/stagioni\/(\d{4}-\d{4})$/)
+  const currentSeasonId = seasonMatch ? seasonMatch[1] : null
+  let allSeasonIds: string[] = []
+  let prevSeasonId: string | null = null
+  let nextSeasonId: string | null = null
+
+  if (currentSeasonId && allFiles) {
+    const seasonSet = new Set<string>()
+    for (const f of allFiles) {
+      const m = f.slug?.match(/^02-cronistoria\/stagioni\/(\d{4}-\d{4})$/)
+      if (m) seasonSet.add(m[1])
+    }
+    allSeasonIds = Array.from(seasonSet).sort((a, b) => a.localeCompare(b))
+    const curIdx = allSeasonIds.indexOf(currentSeasonId)
+    if (curIdx > 0) prevSeasonId = allSeasonIds[curIdx - 1]
+    if (curIdx !== -1 && curIdx < allSeasonIds.length - 1) nextSeasonId = allSeasonIds[curIdx + 1]
+  }
 
   // Primary source label
   const primarySourceLabel = sources[0]?.author
@@ -622,13 +732,82 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree }: QuartzComponen
 
   return (
     <section class="nfc-article-hero" aria-label="Intestazione editoriale dell'articolo">
-      {/* Top Badge stile No Football Colors */}
+      {/* Top Row: Clickable Breadcrumbs + Split Editorial Badge */}
       <div class="nfc-article-hero__top-row">
+        <nav class="nfc-hero-breadcrumbs" aria-label="Percorso di navigazione">
+          {breadcrumbs.map((crumb, idx) => (
+            <>
+              {idx > 0 && (
+                <span class="nfc-hero-breadcrumbs__sep" aria-hidden="true">
+                  ›
+                </span>
+              )}
+              <a href={resolveRel(crumb.target)} class="nfc-hero-breadcrumbs__link">
+                {crumb.label}
+              </a>
+            </>
+          ))}
+        </nav>
         <div class="nfc-split-badge">
           <span class="nfc-split-badge__left">{badges.left}</span>
           <span class="nfc-split-badge__right">{badges.right}</span>
         </div>
       </div>
+
+      {/* Season Quick-Switcher Bar (1-Click jump across all 95 seasons) */}
+      {currentSeasonId && allSeasonIds.length > 0 && (
+        <nav class="nfc-season-switcher" aria-label="Navigazione rapida tra le stagioni">
+          {prevSeasonId ? (
+            <a
+              href={resolveRel(`02-cronistoria/stagioni/${prevSeasonId}`)}
+              class="nfc-season-switcher__btn nfc-season-switcher__btn--prev"
+              title={`Vai alla stagione precedente (${prevSeasonId})`}
+            >
+              ← {prevSeasonId}
+            </a>
+          ) : (
+            <span class="nfc-season-switcher__btn is-disabled" aria-disabled="true">
+              ← Inizio
+            </span>
+          )}
+
+          <div class="nfc-season-switcher__select-wrap">
+            <label htmlFor="nfc-season-select" class="sr-only">
+              Seleziona stagione
+            </label>
+            <select
+              id="nfc-season-select"
+              class="nfc-season-switcher__select"
+              aria-label="Salta direttamente a una stagione (1929–2026)"
+              // @ts-ignore
+              onchange="if(this.value) window.location.href = this.value;"
+            >
+              {[...allSeasonIds].reverse().map((sId) => (
+                <option
+                  value={resolveRel(`02-cronistoria/stagioni/${sId}`)}
+                  selected={sId === currentSeasonId}
+                >
+                  Stagione {sId}
+                </option>
+              ))}
+            </select>
+          </div>
+
+          {nextSeasonId ? (
+            <a
+              href={resolveRel(`02-cronistoria/stagioni/${nextSeasonId}`)}
+              class="nfc-season-switcher__btn nfc-season-switcher__btn--next"
+              title={`Vai alla stagione successiva (${nextSeasonId})`}
+            >
+              {nextSeasonId} →
+            </a>
+          ) : (
+            <span class="nfc-season-switcher__btn is-disabled" aria-disabled="true">
+              Oggi →
+            </span>
+          )}
+        </nav>
+      )}
 
       {/* Giant Condensed Headline (Big Shoulders Display) */}
       <h1 class="nfc-article-hero__title">{title}</h1>

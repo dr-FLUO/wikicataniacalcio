@@ -1,7 +1,7 @@
 ---
 title: Júnior José Correia Ze Turbo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Júnior José Correia Ze
-  Turbo, attaccante del Calcio Catania con 5 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Júnior José Correia Ze Turbo, attaccante del Calcio Catania con
+  5 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/júnior-josé-correia-ze-turbo
 entity_type: calciatore
 status: verified
@@ -32,8 +32,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Ze-Turbo-916
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 916
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -49,6 +48,7 @@ minutes_played: 194
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 340538
 ---
 # Júnior José Correia Ze Turbo — Scheda Giocatore nel Calcio Catania
 
@@ -64,9 +64,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1997</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,7 +76,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2016–2017</td>
+        <td colspan="3">2017–2018</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +109,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Júnior José Correia Ze Turbo*, in [https://www.calciocatania.com/giocatori/giocatori.php?Ze-Turbo-916](https://www.calciocatania.com/giocatori/giocatori.php?Ze-Turbo-916), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Júnior José Correia Ze Turbo*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ze-Turbo-916), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2016-2017 | Punta centrale | 7 | 1 | 0 | 0 | 0 | 194' |
+| **2017-2018** | Punta centrale | 7 | 1 | 0 | 0 | 0 | 194' |
+| **TOTALE** | — | **7** | **1** | **0** | **0** | **0** | **194'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 7 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **194 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

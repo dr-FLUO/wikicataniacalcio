@@ -52,17 +52,14 @@ minutes_played: 7732
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480768
 ---
 # Massimo Cherubini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/580_massimo-cherubini.jpg" alt="Massimo Cherubini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1967–1971</td>
+        <td colspan="3">1968–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1967-1968** | Difesa | 36 | 1 | 0 | 0 | 0 | 3175' |
-| **1968-1969** | Difesa | 15 | 0 | 0 | 0 | 0 | 1320' |
-| **1969-1970** | Difesa | 22 | 0 | 0 | 0 | 0 | 1905' |
-| **1970-1971** | Difesa | 16 | 0 | 0 | 0 | 0 | 1332' |
+| **1968-1969** | Difesa | 36 | 1 | 0 | 0 | 0 | 3175' |
+| **1969-1970** | Difesa | 15 | 0 | 0 | 0 | 0 | 1320' |
+| **1970-1971** | Difesa | 22 | 0 | 0 | 0 | 0 | 1905' |
+| **1971-1972** | Difesa | 16 | 0 | 0 | 0 | 0 | 1332' |
 | **TOTALE** | — | **89** | **1** | **0** | **0** | **0** | **7732'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Massimo Cherubini** ha collezionato complessivamente **89 presenze ufficiali**, disputando **7732 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **89 presenze ufficiali**, disputando **7732 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Massimo Cherubini](https://it.wikipedia.org/wiki/Massimo_Cherubini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimo Cherubini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cherubini-580](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cherubini-580), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Massimo Cherubini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cherubini-580)/giocatori/giocatori.php?Cherubini-580), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

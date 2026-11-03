@@ -45,6 +45,7 @@ minutes_played: 2133
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 287697
 ---
 # Vincenzo Esposito — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1989–1990</td>
+        <td colspan="3">1990–1991</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,11 +96,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1989-1990** | Terzino sinistro | 28 | 3 | 0 | 0 | 0 | 2133' |
+| **1990-1991** | Terzino sinistro | 28 | 3 | 0 | 0 | 0 | 2133' |
 | **TOTALE** | — | **28** | **3** | **0** | **0** | **0** | **2133'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Vincenzo Esposito** ha collezionato complessivamente **28 presenze ufficiali**, disputando **2133 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2133 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -120,5 +121,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Vincenzo Esposito](https://it.wikipedia.org/wiki/Vincenzo_Esposito_(calciatore_1971))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vincenzo Esposito*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Esposito-392](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Esposito-392), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vincenzo Esposito*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Esposito-392)/giocatori/giocatori.php?Esposito-392), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

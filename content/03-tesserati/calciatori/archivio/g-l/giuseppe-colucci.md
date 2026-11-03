@@ -62,6 +62,7 @@ minutes_played: 3594
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6717
 ---
 # Giuseppe Colucci — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2005–2008</td>
+        <td colspan="3">2006–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Centrocampista | 25 | 3 | 4 | 6 | 0 | 1806' |
-| **2006-2007** | Centrocampista | 29 | 1 | 2 | 6 | 0 | 1788' |
-| **2007-2008** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2006-2007** | Centrocampista | 25 | 3 | 4 | 6 | 0 | 1806' |
+| **2007-2008** | Centrocampista | 29 | 1 | 2 | 6 | 0 | 1788' |
+| **2008-2009** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **54** | **4** | **6** | **12** | **0** | **3594'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Colucci** ha collezionato complessivamente **54 presenze ufficiali**, disputando **3594 minuti** di gioco effettivo, siglando **4 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **54 presenze ufficiali**, disputando **3594 minuti** di gioco effettivo, siglando **4 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giuseppe Colucci](https://it.wikipedia.org/wiki/Giuseppe_Colucci_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Colucci*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Colucci-45](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Colucci-45), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Colucci*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Colucci-45)/giocatori/giocatori.php?Colucci-45), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

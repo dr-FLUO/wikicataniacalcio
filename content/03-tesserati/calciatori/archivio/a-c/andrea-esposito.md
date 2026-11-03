@@ -53,6 +53,7 @@ minutes_played: 2901
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 35849
 ---
 # Andrea Esposito — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1986</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2017–2019</td>
+        <td colspan="3">2018–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2017-2018** | Difensore centrale | 23 | 1 | 0 | 5 | 1 | 1330' |
-| **2018-2019** | Difensore centrale | 22 | 1 | 1 | 4 | 0 | 1571' |
+| **2018-2019** | Difensore centrale | 23 | 1 | 0 | 5 | 1 | 1330' |
+| **2019-2020** | Difensore centrale | 22 | 1 | 1 | 4 | 0 | 1571' |
 | **TOTALE** | — | **45** | **2** | **1** | **9** | **1** | **2901'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Esposito** ha collezionato complessivamente **45 presenze ufficiali**, disputando **2901 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **2901 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +126,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Esposito*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Esposito-931](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Esposito-931), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Esposito*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Esposito-931), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

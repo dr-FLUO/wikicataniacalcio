@@ -58,6 +58,7 @@ minutes_played: 4643
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 304455
 ---
 # Giorgio Mastropasqua — Scheda Giocatore nel Calcio Catania
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1981–1983</td>
+        <td colspan="3">1982–1984</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -106,12 +107,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1981-1982** | Libero | 42 | 2 | 1 | 0 | 0 | 3655' |
-| **1982-1983** | Libero | 13 | 0 | 0 | 0 | 0 | 988' |
+| **1982-1983** | Libero | 42 | 2 | 1 | 0 | 0 | 3655' |
+| **1983-1984** | Libero | 13 | 0 | 0 | 0 | 0 | 988' |
 | **TOTALE** | — | **55** | **2** | **1** | **0** | **0** | **4643'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giorgio Mastropasqua** ha collezionato complessivamente **55 presenze ufficiali**, disputando **4643 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **4643 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +133,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giorgio Mastropasqua](https://it.wikipedia.org/wiki/Giorgio_Mastropasqua)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Mastropasqua*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mastropasqua-476](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Mastropasqua-476), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Mastropasqua*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mastropasqua-476)/giocatori/giocatori.php?Mastropasqua-476), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

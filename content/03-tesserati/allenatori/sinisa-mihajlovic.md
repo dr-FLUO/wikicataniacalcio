@@ -1,7 +1,7 @@
 ---
 title: Siniša Mihajlović — Il Condottiero della Svolta e delle Storiche Imprese (2009–2010)
-description: 'Biografia e statistiche di Siniša Mihajlović alla guida del Calcio Catania:
-  la cavalcata salvezza del 2009-10 (45 punti) e i trionfi storici su Juventus e Inter.'
+description: 'Biografia e statistiche di Siniša Mihajlović alla guida del Calcio Catania: la cavalcata salvezza del 2009-10
+  (45 punti) e i trionfi storici su Juventus e Inter.'
 slug: 03-tesserati/allenatori/sinisa-mihajlovic
 entity_type: allenatore
 status: verified
@@ -49,19 +49,15 @@ sources:
   url: https://it.wikipedia.org/wiki/Sini%C5%A1a_Mihajlovi%C4%87
   reference: Dati anagrafici, carriera e statistiche tecniche
 - author: Lega Nazionale Professionisti Serie A
-  title: Archivio Statistico Ufficiale Serie A TIM 2009-2010 — Rendimento Allenatori
-    Calcio Catania
+  title: Archivio Statistico Ufficiale Serie A TIM 2009-2010 — Rendimento Allenatori Calcio Catania
   publisher: Lega Serie A
   year: 2010
-  reference: 23 panchine in Serie A (10 vittorie, 6 pareggi, 7 sconfitte, 36 punti
-    conquistati)
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+  reference: 23 panchine in Serie A (10 vittorie, 6 pareggi, 7 sconfitte, 36 punti conquistati)
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: 'pp. 458-467 (L''era Mihajlović: la svolta tattica, il primato a 45 punti
-    e le vittorie storiche)'
+  reference: 'pp. 458-467 (L''era Mihajlović: la svolta tattica, il primato a 45 punti e le vittorie storiche)'
 - author: Roberto Quartarone, Alessandro Russo
   title: 'Siniša Mihajlović a Catania: il serbo di ferro che piegò Mourinho e la Juventus'
   publisher: tuttoilcataniaminutoperminuto.it
@@ -69,20 +65,19 @@ sources:
   year: 2022
   reference: Monografia commemorativa e analisi della rimonta salvezza 2009-2010
 cover_image: sinisa-mihajlovic.jpg
-cover_caption: Siniša Mihajlović, tecnico del Catania nella prodigiosa cavalcata salvezza
-  2009-2010, culminata con il 3-1 sull'Inter del Triplete al Massimino.
+cover_caption: Siniša Mihajlović, tecnico del Catania nella prodigiosa cavalcata salvezza 2009-2010, culminata con il 3-1
+  sull'Inter del Triplete al Massimino.
 cover_credit: 'Foto: Wikimedia Commons · Licenza: CC BY-SA 3.0'
 aliases:
 - tesserati/allenatori/sinisa-mihajlovic
 - sinisa-mihajlovic
 - tesserati/sinisa-mihajlovic
 - allenatori/sinisa-mihajlovic
-
 locked: true
 locked_date: '2026-10-30'
-locked_by: 'quadratura_storico_allenatori_dataset'
+locked_by: quadratura_storico_allenatori_dataset
+tm_id: 3896
 ---
-
 # Siniša Mihajlović
 
 <div class="nfc-player-hero-card nfc-coach-hero-card">

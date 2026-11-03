@@ -56,7 +56,7 @@ function getBadgeInfo(entityType: string = "", slug: string = ""): { label: stri
   if (t === "monograph" || slug.includes("calciatori/")) return { label: "CALCIATORE", cls: "calciatore" }
   if (t === "allenatore" || slug.includes("allenatori/")) return { label: "ALLENATORE", cls: "allenatore" }
   if (t === "biography") return { label: "BIOGRAFIA", cls: "ultras" }
-  if (t === "ultras_group" || slug.includes("curve/")) return { label: "GRUPPO ULTRAS", cls: "ultras" }
+  if (t === "ultras_group" || slug.includes("curve/") || slug.includes("settori/") || slug.includes("tifoseria")) return { label: "TIFOSERIA & CURVA", cls: "ultras" }
   if (slug.includes("strutture/")) return { label: "IMPIANTO STORICO", cls: "dirigente" }
   if (slug.includes("identita-e-simboli/")) return { label: "SIMBOLOGIA & ARALDICA", cls: "dirigente" }
   if (slug.includes("media-e-comunicazione/")) return { label: "MEDIA & COMUNICAZIONE", cls: "dirigente" }

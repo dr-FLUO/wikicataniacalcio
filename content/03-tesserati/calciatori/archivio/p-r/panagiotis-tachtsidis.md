@@ -53,6 +53,7 @@ minutes_played: 841
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 62415
 ---
 # Panagiotis Tachtsidis — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1991</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2013</td>
+        <td colspan="3">2013–2014</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,11 +101,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Mediano | 12 | 0 | 1 | 2 | 1 | 841' |
+| **2013-2014** | Mediano | 12 | 0 | 1 | 2 | 1 | 841' |
 | **TOTALE** | — | **12** | **0** | **1** | **2** | **1** | **841'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Panagiotis Tachtsidis** ha collezionato complessivamente **12 presenze ufficiali**, disputando **841 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **841 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -124,5 +125,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Panagiotis Tachtsidis*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Tachtsidis-802](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Tachtsidis-802), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Panagiotis Tachtsidis*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Tachtsidis-802), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

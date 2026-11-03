@@ -59,13 +59,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/1126_christian-de-falco.jpg" alt="Christian De falco" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -77,7 +71,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
         <th>Anno</th>
         <td>2006</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -87,7 +81,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–</td>
+        <td colspan="3">2026–</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -120,13 +114,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian De falco*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?De-falco-1126](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?De-falco-1126), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Christian De falco*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?De-falco-1126), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2025-2026 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2026-2027** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **0** | **0** | **0** | **0** | **0** | **0'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

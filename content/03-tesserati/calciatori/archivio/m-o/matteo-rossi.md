@@ -54,9 +54,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1972</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -66,7 +66,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1996–1998</td>
+        <td colspan="3">1997–1999</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -86,12 +86,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1996-1997** | Centrocampo | 26 | 1 | 0 | 0 | 0 | 2037' |
-| **1997-1998** | Centrocampo | 19 | 1 | 0 | 0 | 0 | 801' |
+| **1997-1998** | Centrocampo | 26 | 1 | 0 | 0 | 0 | 2037' |
+| **1998-1999** | Centrocampo | 19 | 1 | 0 | 0 | 0 | 801' |
 | **TOTALE** | — | **45** | **2** | **0** | **0** | **0** | **2838'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Matteo Rossi** ha collezionato complessivamente **45 presenze ufficiali**, disputando **2838 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **2838 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -111,5 +111,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Rossi*, in [https://www.calciocatania.com/giocatori/giocatori.php?Rossi-265](https://www.calciocatania.com/giocatori/giocatori.php?Rossi-265), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Rossi*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Rossi-265), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

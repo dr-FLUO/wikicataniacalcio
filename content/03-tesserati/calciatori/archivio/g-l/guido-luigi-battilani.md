@@ -1,7 +1,7 @@
 ---
 title: Guido Luigi Battilani — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Guido Luigi Battilani,
-  difensore del Calcio Catania con 62 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Guido Luigi Battilani, difensore del Calcio Catania con 62 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/guido-luigi-battilani
 entity_type: calciatore
 status: verified
@@ -28,8 +28,7 @@ sources:
 image: assets/images/players/543_guido-luigi-battilani.jpg
 image_credits:
 - image_path: assets/images/players/543_guido-luigi-battilani.jpg
-  alt_text: Ritratto del calciatore Guido Luigi Battilani in maglia rossazzurra del
-    Calcio Catania
+  alt_text: Ritratto del calciatore Guido Luigi Battilani in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -44,19 +43,14 @@ minutes_played: 5854
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 514564
 ---
 # Guido Luigi Battilani — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/543_guido-luigi-battilani.jpg" alt="Guido Luigi Battilani" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -109,16 +103,18 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1974-1975** | Difensore centrale | 37 | 0 | 0 | 0 | 0 | 3330' |
+| **1975-1976** | Difensore centrale | 30 | 0 | 0 | 1 | 0 | 2524' |
+| **TOTALE** | — | **67** | **0** | **0** | **1** | **0** | **5854'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Guido Battilani** ha collezionato complessivamente **67 presenze ufficiali**, disputando **5854 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Luigi Battilani*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Battilani-543](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Battilani-543), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Luigi Battilani*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Battilani-543), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1973-1974 | Difensore centrale | 37 | 0 | 0 | 0 | 0 | 3330' |
-| 1974-1975 | Difensore centrale | 30 | 0 | 0 | 1 | 0 | 2524' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 67 presenze e 0 reti complessive.*

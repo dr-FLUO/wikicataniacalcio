@@ -1,7 +1,6 @@
 ---
 title: Marcello Mihalich — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Marcello Mihalich, centrocampista
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Marcello Mihalich, centrocampista del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/m-o/marcello-mihalich
 entity_type: calciatore
 status: verified
@@ -24,8 +23,7 @@ sources:
   year: 2026
   url: https://it.wikipedia.org/wiki/Marcello_Mihalich
   reference: Dati anagrafici, carriera e presenze verificate
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,6 +40,7 @@ minutes_played: 390
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 429241
 ---
 # Marcello Mihalich — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +71,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1935–1936</td>
+        <td colspan="3">1936–1937</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,10 +91,12 @@ Nato a Fiume (1907-03-12), Marcello Mihalich ha militato tra le file della forma
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1935-1936 | Trequartista | 4 | 0 | 0 | 0 | 0 | 390' |
+| **1936-1937** | Trequartista | 4 | 0 | 0 | 0 | 0 | 390' |
+| **TOTALE** | — | **4** | **0** | **0** | **0** | **0** | **390'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 4 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **4 presenze ufficiali**, disputando **390 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

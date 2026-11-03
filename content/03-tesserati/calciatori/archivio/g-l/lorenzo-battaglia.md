@@ -52,6 +52,7 @@ minutes_played: 1080
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 309874
 ---
 # Lorenzo Battaglia — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1998–1999</td>
+        <td colspan="3">1999–2000</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,11 +101,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1998-1999** | Centrocampo | 12 | 4 | 0 | 2 | 0 | 1080' |
+| **1999-2000** | Centrocampo | 12 | 4 | 0 | 2 | 0 | 1080' |
 | **TOTALE** | — | **12** | **4** | **0** | **2** | **0** | **1080'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lorenzo Battaglia** ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **1080 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +126,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Lorenzo Battaglia](https://it.wikipedia.org/wiki/Lorenzo_Battaglia)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Battaglia*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-225](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-225), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Battaglia*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Battaglia-225)/giocatori/giocatori.php?Battaglia-225), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

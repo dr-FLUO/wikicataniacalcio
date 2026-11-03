@@ -1,7 +1,7 @@
 ---
 title: Paulino da Silva Gladestony — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Paulino da Silva Gladestony,
-  centrocampista del Calcio Catania con 6 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Paulino da Silva Gladestony, centrocampista del Calcio Catania
+  con 6 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/paulino-da-silva-gladestony
 entity_type: calciatore
 status: verified
@@ -32,8 +32,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Gladestony-898
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 898
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -49,6 +48,7 @@ minutes_played: 591
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 194019
 ---
 # Paulino da Silva Gladestony — Scheda Giocatore nel Calcio Catania
 
@@ -64,9 +64,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1994</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,7 +76,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2015–2017</td>
+        <td colspan="3">2016–2018</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,14 +109,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Paulino da Silva Gladestony*, in [https://www.calciocatania.com/giocatori/giocatori.php?Gladestony-898](https://www.calciocatania.com/giocatori/giocatori.php?Gladestony-898), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Paulino da Silva Gladestony*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Gladestony-898), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2015-2016 | Centrocampista | 8 | 0 | 1 | 0 | 0 | 422' |
-| 2016-2017 | Centrocampista | 2 | 0 | 0 | 0 | 0 | 169' |
+| **2016-2017** | Centrocampista | 8 | 0 | 1 | 0 | 0 | 422' |
+| **2017-2018** | Centrocampista | 2 | 0 | 0 | 0 | 0 | 169' |
+| **TOTALE** | — | **10** | **0** | **1** | **0** | **0** | **591'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 10 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **591 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.

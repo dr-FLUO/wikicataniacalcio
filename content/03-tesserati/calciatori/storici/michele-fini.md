@@ -53,6 +53,7 @@ minutes_played: 7851
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22082
 ---
 # Michele Fini — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2003</td>
+        <td colspan="3">2001–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,13 +102,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Centrocampista | 36 | 5 | 3 | 4 | 0 | 3043' |
-| **2001-2002** | Centrocampista | 32 | 2 | 0 | 4 | 2 | 2264' |
-| **2002-2003** | Centrocampista | 37 | 2 | 0 | 6 | 0 | 2544' |
+| **2001-2002** | Centrocampista | 36 | 5 | 3 | 4 | 0 | 3043' |
+| **2002-2003** | Centrocampista | 32 | 2 | 0 | 4 | 2 | 2264' |
+| **2003-2004** | Centrocampista | 37 | 2 | 0 | 6 | 0 | 2544' |
 | **TOTALE** | — | **105** | **9** | **3** | **14** | **2** | **7851'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Michele Fini** ha collezionato complessivamente **105 presenze ufficiali**, disputando **7851 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **105 presenze ufficiali**, disputando **7851 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Michele Fini](https://it.wikipedia.org/wiki/Michele_Fini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Fini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fini-131](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fini-131), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Fini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Fini-131)/giocatori/giocatori.php?Fini-131), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

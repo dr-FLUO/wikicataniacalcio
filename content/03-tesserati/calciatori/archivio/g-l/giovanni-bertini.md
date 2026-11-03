@@ -52,17 +52,14 @@ minutes_played: 7167
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 389058
 ---
 # Giovanni Bertini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/516_giovanni-bertini.jpg" alt="Giovanni Bertini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1979</td>
+        <td colspan="3">1976–1980</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Difesa | 20 | 0 | 0 | 0 | 0 | 1691' |
-| **1976-1977** | Difesa | 17 | 1 | 0 | 0 | 0 | 1530' |
-| **1977-1978** | Difesa | 26 | 5 | 0 | 0 | 0 | 2277' |
-| **1978-1979** | Difesa | 21 | 1 | 0 | 0 | 0 | 1669' |
+| **1976-1977** | Difesa | 20 | 0 | 0 | 0 | 0 | 1691' |
+| **1977-1978** | Difesa | 17 | 1 | 0 | 0 | 0 | 1530' |
+| **1978-1979** | Difesa | 26 | 5 | 0 | 0 | 0 | 2277' |
+| **1979-1980** | Difesa | 21 | 1 | 0 | 0 | 0 | 1669' |
 | **TOTALE** | — | **84** | **7** | **0** | **0** | **0** | **7167'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Bertini** ha collezionato complessivamente **84 presenze ufficiali**, disputando **7167 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **7167 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giovanni Bertini](https://it.wikipedia.org/wiki/Giovanni_Bertini_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Bertini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bertini-516](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bertini-516), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Bertini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bertini-516)/giocatori/giocatori.php?Bertini-516), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

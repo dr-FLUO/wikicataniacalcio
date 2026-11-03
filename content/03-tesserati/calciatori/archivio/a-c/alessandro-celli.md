@@ -53,6 +53,7 @@ minutes_played: 5291
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 330560
 ---
 # Alessandro Celli — Scheda Giocatore nel Calcio Catania
 
@@ -68,19 +69,19 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1994</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>ND</td>
+        <td>186 cm</td>
         <th>Piede</th>
-        <td>ND</td>
+        <td>Sinistro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2022–2025</td>
+        <td colspan="3">2023–2026</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2022-2023** | Terzino sinistro | 19 | 0 | 0 | 5 | 0 | 1377' |
-| **2023-2024** | Terzino sinistro | 12 | 0 | 2 | 2 | 0 | 844' |
-| **2024-2025** | Terzino sinistro | 37 | 0 | 0 | 7 | 0 | 3070' |
+| **2023-2024** | Terzino sinistro | 19 | 0 | 0 | 5 | 0 | 1377' |
+| **2024-2025** | Terzino sinistro | 12 | 0 | 2 | 2 | 0 | 844' |
+| **2025-2026** | Terzino sinistro | 37 | 0 | 0 | 7 | 0 | 3070' |
 | **TOTALE** | — | **68** | **0** | **2** | **14** | **0** | **5291'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Celli** ha collezionato complessivamente **68 presenze ufficiali**, disputando **5291 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **5291 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Celli*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Celli-1075](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Celli-1075), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Celli*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Celli-1075), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

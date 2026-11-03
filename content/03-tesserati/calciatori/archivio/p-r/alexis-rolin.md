@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/alexis-rolin
-- alexis-rolin
-- tesserati/alexis-rolin
+- 03-tesserati/calciatori/archivio/g-l/german-alexis-rolin-fernandez
+- 03-tesserati/calciatori/german-alexis-rolin-fernandez
 - calciatori/alexis-rolin
+- calciatori/german-alexis-rolin-fernandez
+- german-alexis-rolin-fernandez
+- tesserati/alexis-rolin
+- tesserati/calciatori/alexis-rolin
+- tesserati/calciatori/german-alexis-rolin-fernandez
+- tesserati/german-alexis-rolin-fernandez
 citizenship: Uruguay
 total_goals: 0
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 3148
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 186664
 ---
 # Alexis Rolín — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2015</td>
+        <td colspan="3">2012–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,10 +115,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 2012-2015, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Difensore centrale | 13 | 0 | 0 | 5 | 0 | 1025' |
-| **2012-2013** | Difensore centrale | 25 | 0 | 0 | 5 | 0 | 1834' |
-| **2013-2014** | Difensore centrale | 4 | 0 | 0 | 1 | 0 | 289' |
+| **2012-2013** | Difensore centrale | 13 | 0 | 0 | 5 | 0 | 1025' |
+| **2013-2014** | Difensore centrale | 25 | 0 | 0 | 5 | 0 | 1834' |
+| **2014-2015** | Difensore centrale | 4 | 0 | 0 | 1 | 0 | 289' |
 | **TOTALE** | — | **42** | **0** | **0** | **11** | **0** | **3148'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alexis Rolín** ha collezionato complessivamente **42 presenze ufficiali**, disputando **3148 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **3148 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

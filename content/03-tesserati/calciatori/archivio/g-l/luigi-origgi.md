@@ -53,6 +53,7 @@ minutes_played: 5130
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 547599
 ---
 # Luigi Origgi — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1954–1956</td>
+        <td colspan="3">1955–1957</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,12 +102,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1954-1955** | Difesa | 28 | 0 | 0 | 0 | 0 | 2520' |
-| **1955-1956** | Difesa | 29 | 4 | 0 | 0 | 0 | 2610' |
+| **1955-1956** | Difesa | 28 | 0 | 0 | 0 | 0 | 2520' |
+| **1956-1957** | Difesa | 29 | 4 | 0 | 0 | 0 | 2610' |
 | **TOTALE** | — | **57** | **4** | **0** | **0** | **0** | **5130'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Origgi** ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luigi Origgi](https://it.wikipedia.org/wiki/Luigi_Origgi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Origgi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Origgi-710](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Origgi-710), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luigi Origgi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Origgi-710)/giocatori/giocatori.php?Origgi-710), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

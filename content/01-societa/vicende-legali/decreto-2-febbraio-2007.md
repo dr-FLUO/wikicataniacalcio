@@ -12,7 +12,7 @@ club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvir
 figc_matricola: '11700'
 protagonists:
 - Filippo Raciti (Ispettore Capo Polizia di Stato, † 02/02/2007)
-- '[[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti (Presidente Calcio
+- '[[societa/presidenti/antonino-pulvirenti]] |Antonino Pulvirenti (Presidente Calcio
   Catania)]]'
 - '[[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco (AD Calcio Catania)]]'
 - '[[tesserati/allenatori/pasquale-marino|Pasquale Marino (Allenatore Catania)]]'

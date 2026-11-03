@@ -12,7 +12,7 @@ date_end: 2020-07-23
 legal_form: Società per Azioni (S.p.A. controllata da Finaria S.p.A.)
 figc_matricola: '11700'
 presidents_refs:
-- '[[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti (Presidente 2004-2015,
+- '[[societa/presidenti/antonino-pulvirenti]] |Antonino Pulvirenti (Presidente 2004-2015,
   Patron Finaria)]]'
 - '[[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco (AD 2004-2012 e 2016-2019)]]'
 - '[[societa/presidenti/sergio-gasparin|Sergio Gasparin (DG 2012-2013)]]'
@@ -27,7 +27,7 @@ stadium_refs:
 - '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
 - '[[stadio/torre-del-grifo|Torre del Grifo Village (dal 18 maggio 2011)]]'
 prev_era: '[[societa/2000-era-gaucci|Calcio Catania S.p.A. — Gestione Gaucci (2000-2004)]]'
-next_era: '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. — Gestione SIGI
+next_era: '[[societa/2020-sigi-e-fallimento]] |Calcio Catania S.p.A. — Gestione SIGI
   e Fallimento (2020-2022)]]'
 tags:
 - era-pulvirenti

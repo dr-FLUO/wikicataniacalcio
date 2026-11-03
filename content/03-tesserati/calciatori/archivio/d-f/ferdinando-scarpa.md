@@ -1,7 +1,7 @@
 ---
 title: Ferdinando Scarpa — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Ferdinando Scarpa, centrocampista
-  del Calcio Catania con 23 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Ferdinando Scarpa, centrocampista del Calcio Catania con 23 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/ferdinando-scarpa
 entity_type: calciatore
 status: verified
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Scarpa-575
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 575
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -39,8 +38,8 @@ aliases:
 - calciatori/ferdinando-scarpa
 image_credits:
 - image_path: /assets/images/calciatori/ferdinando-scarpa.jpg
-  alt_text: 'Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza
-    termini dautore) — Crediti: Wikimedia Commons Contributors'
+  alt_text: 'Ritratto ufficiale di Ferdinando Scarpa — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti: Wikimedia
+    Commons Contributors'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -53,6 +52,7 @@ minutes_played: 1767
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 499945
 ---
 # Ferdinando Scarpa — Scheda Giocatore nel Calcio Catania
 
@@ -112,16 +112,18 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1972-1973** | Centrocampo | 23 | 4 | 0 | 0 | 0 | 1767' |
+| **TOTALE** | — | **23** | **4** | **0** | **0** | **0** | **1767'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Fernando Scarpa** ha collezionato complessivamente **23 presenze ufficiali**, disputando **1767 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ferdinando Scarpa](https://it.wikipedia.org/wiki/Fernando_Scarpa_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferdinando Scarpa*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Scarpa-575](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Scarpa-575), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferdinando Scarpa*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Scarpa-575)/giocatori/giocatori.php?Scarpa-575), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1971-1972 | Centrocampo | 23 | 4 | 0 | 0 | 0 | 1767' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 23 presenze e 4 reti complessive.*

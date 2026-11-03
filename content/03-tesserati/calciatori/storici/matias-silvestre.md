@@ -53,10 +53,15 @@ sources:
   reference: 'ID 77: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Silvestre-77
 aliases:
-- tesserati/calciatori/matias-silvestre
-- matias-silvestre
-- tesserati/matias-silvestre
+- 03-tesserati/calciatori/archivio/m-o/matias-augustin-silvestre
+- 03-tesserati/calciatori/matias-augustin-silvestre
+- calciatori/matias-augustin-silvestre
 - calciatori/matias-silvestre
+- matias-augustin-silvestre
+- tesserati/calciatori/matias-augustin-silvestre
+- tesserati/calciatori/matias-silvestre
+- tesserati/matias-augustin-silvestre
+- tesserati/matias-silvestre
 image_credits:
 - image_path: assets/images/calciatori/matias-silvestre.jpg
   alt_text: Ritratto ufficiale di Matías Silvestre in maglia rossazzurra
@@ -83,6 +88,7 @@ seasons_count: 4
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20003
 ---
 # Matías Silvestre
 
@@ -110,7 +116,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2008–2011</td>
+        <td colspan="3">2007–2011</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -136,14 +142,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Difensore centrale | 13 | 0 | 0 | 1 | 0 | 1013' |
-| **2007-2008** | Difensore centrale | 39 | 0 | 0 | 8 | 0 | 3514' |
-| **2008-2009** | Difensore centrale | 36 | 1 | 0 | 8 | 0 | 3235' |
-| **2009-2010** | Difensore centrale | 38 | 6 | 1 | 7 | 0 | 3324' |
+| **2007-2008** | Difensore centrale | 13 | 0 | 0 | 1 | 0 | 1013' |
+| **2008-2009** | Difensore centrale | 39 | 0 | 0 | 8 | 0 | 3514' |
+| **2009-2010** | Difensore centrale | 36 | 1 | 0 | 8 | 0 | 3235' |
+| **2010-2011** | Difensore centrale | 38 | 6 | 1 | 7 | 0 | 3324' |
 | **TOTALE** | — | **126** | **7** | **1** | **24** | **0** | **11086'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Matías Silvestre** ha collezionato complessivamente **126 presenze ufficiali**, disputando **11086 minuti** di gioco effettivo, siglando **7 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **126 presenze ufficiali**, disputando **11086 minuti** di gioco effettivo, siglando **7 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -153,4 +159,4 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
 3. **La Sicilia**, *Matias Silvestre, il gigante d'area che stregò il Massimino*, maggio 2011.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Matias Augustin Silvestre*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Silvestre-77).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Matias Augustin Silvestre*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Silvestre-77).

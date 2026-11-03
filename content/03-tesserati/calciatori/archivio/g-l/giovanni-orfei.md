@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Gianni Orfei
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Orfei-212
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 212
 aliases:
 - tesserati/calciatori/giovanni-orfei
 - giovanni-orfei
 - tesserati/giovanni-orfei
 - calciatori/giovanni-orfei
+- tesserati/calciatori/gianni-orfei
+- gianni-orfei
+- tesserati/gianni-orfei
+- calciatori/gianni-orfei
+- 03-tesserati/calciatori/archivio/g-l/gianni-orfei
+- Gianni Orfei
 citizenship: Italia
 total_goals: 3
 total_assists: 3
@@ -41,6 +53,7 @@ minutes_played: 2315
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6048
 ---
 # Giovanni Orfei — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2000</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +108,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Difensore centrale | 28 | 3 | 3 | 4 | 1 | 2315' |
+| **2000-2001** | Difensore centrale | 28 | 3 | 3 | 4 | 1 | 2315' |
 | **TOTALE** | — | **28** | **3** | **3** | **4** | **1** | **2315'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giovanni Orfei** ha collezionato complessivamente **28 presenze ufficiali**, disputando **2315 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2315 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.

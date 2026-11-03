@@ -1,13 +1,13 @@
 ---
 title: Giovanni Iapicone — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giovanni Iapicone, centrocampista
-  del Calcio Catania con 6 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Giovanni Iapicone, centrocampista del Calcio Catania con 6 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/giovanni-iapicone
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 6
+total_appearances: 5
 seasons_count: 1
 tags:
 - calciatori
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Iapicone-555
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 555
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -34,6 +33,10 @@ aliases:
 locked: true
 locked_date: '2026-10-30'
 locked_by: certificazione_archivio_storico_ufficiale
+tm_id: 590038
+total_goals: 0
+total_assists: 0
+minutes_played: 404
 ---
 # Giovanni Iapicone — Scheda Giocatore nel Calcio Catania
 
@@ -95,7 +98,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1974-1975** | Mediano | 5 | 0 | 0 | 0 | 0 | 404' |
+| **TOTALE** | — | **5** | **0** | **0** | **0** | **0** | **404'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Giovanni Japicone** ha collezionato complessivamente **5 presenze ufficiali**, disputando **404 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Iapicone*, in [https://www.calciocatania.com/giocatori/giocatori.php?Iapicone-555](https://www.calciocatania.com/giocatori/giocatori.php?Iapicone-555), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Iapicone*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Iapicone-555), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

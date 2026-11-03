@@ -62,6 +62,7 @@ minutes_played: 1992
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22309
 ---
 # Mattia Biso — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2007</td>
+        <td colspan="3">2005–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Centrocampista | 14 | 2 | 0 | 3 | 0 | 1258' |
-| **2005-2006** | Centrocampista | 16 | 0 | 0 | 5 | 0 | 734' |
-| **2006-2007** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2005-2006** | Centrocampista | 14 | 2 | 0 | 3 | 0 | 1258' |
+| **2006-2007** | Centrocampista | 16 | 0 | 0 | 5 | 0 | 734' |
+| **2007-2008** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **30** | **2** | **0** | **8** | **0** | **1992'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mattia Biso** ha collezionato complessivamente **30 presenze ufficiali**, disputando **1992 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **1992 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mattia Biso](https://it.wikipedia.org/wiki/Mattia_Biso)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mattia Biso*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biso-42](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biso-42), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Mattia Biso*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Biso-42)/giocatori/giocatori.php?Biso-42), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

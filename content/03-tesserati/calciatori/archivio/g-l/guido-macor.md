@@ -53,6 +53,7 @@ minutes_played: 6345
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 422623
 ---
 # Guido Macor — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1957–1960</td>
+        <td colspan="3">1958–1961</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,13 +102,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1957-1958** | Attacco | 33 | 9 | 0 | 0 | 0 | 2925' |
-| **1958-1959** | Attacco | 26 | 10 | 0 | 0 | 0 | 2340' |
-| **1959-1960** | Attacco | 12 | 3 | 0 | 0 | 0 | 1080' |
+| **1958-1959** | Attacco | 33 | 9 | 0 | 0 | 0 | 2925' |
+| **1959-1960** | Attacco | 26 | 10 | 0 | 0 | 0 | 2340' |
+| **1960-1961** | Attacco | 12 | 3 | 0 | 0 | 0 | 1080' |
 | **TOTALE** | — | **71** | **22** | **0** | **0** | **0** | **6345'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Guido Macor** ha collezionato complessivamente **71 presenze ufficiali**, disputando **6345 minuti** di gioco effettivo, siglando **22 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **71 presenze ufficiali**, disputando **6345 minuti** di gioco effettivo, siglando **22 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Guido Macor](https://it.wikipedia.org/wiki/Guido_Macor)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Macor*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Macor-675](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Macor-675), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Guido Macor*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Macor-675)/giocatori/giocatori.php?Macor-675), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

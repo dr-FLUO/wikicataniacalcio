@@ -53,6 +53,7 @@ minutes_played: 4890
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 278580
 ---
 # Manuel Sarao — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1990</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2019–2023</td>
+        <td colspan="3">2020–2024</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2019-2020** | Punta centrale | 29 | 8 | 2 | 9 | 0 | 1910' |
-| **2021-2022** | Punta centrale | 35 | 9 | 3 | 10 | 0 | 2440' |
-| **2022-2023** | Punta centrale | 15 | 2 | 0 | 5 | 0 | 540' |
+| **2020-2021** | Punta centrale | 29 | 8 | 2 | 9 | 0 | 1910' |
+| **2022-2023** | Punta centrale | 35 | 9 | 3 | 10 | 0 | 2440' |
+| **2023-2024** | Punta centrale | 15 | 2 | 0 | 5 | 0 | 540' |
 | **TOTALE** | — | **79** | **19** | **5** | **24** | **0** | **4890'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Manuel Sarao** ha collezionato complessivamente **79 presenze ufficiali**, disputando **4890 minuti** di gioco effettivo, siglando **19 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **79 presenze ufficiali**, disputando **4890 minuti** di gioco effettivo, siglando **19 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Manuel Sarao*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sarao-946](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sarao-946), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Manuel Sarao*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Sarao-946), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

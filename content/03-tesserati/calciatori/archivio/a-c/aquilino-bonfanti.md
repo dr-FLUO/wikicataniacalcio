@@ -67,8 +67,8 @@ minutes_played: 9690
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 399595
 ---
-
 # Aquilino Bonfanti
 
 <div class="nfc-player-hero-card">
@@ -86,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1943</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -96,7 +96,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1968–1972</td>
+        <td colspan="3">1969–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -131,13 +131,13 @@ Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 ret
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1968-1969** | Attacco | 37 | 14 | 0 | 1 | 0 | 3203' |
-| **1969-1970** | Attacco | 33 | 5 | 0 | 0 | 0 | 2932' |
-| **1970-1971** | Attacco | 40 | 9 | 0 | 0 | 0 | 3555' |
+| **1969-1970** | Attacco | 37 | 14 | 0 | 1 | 0 | 3203' |
+| **1970-1971** | Attacco | 33 | 5 | 0 | 0 | 0 | 2932' |
+| **1971-1972** | Attacco | 40 | 9 | 0 | 0 | 0 | 3555' |
 | **TOTALE** | — | **110** | **28** | **0** | **1** | **0** | **9690'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Aquilino Bonfanti** ha collezionato complessivamente **110 presenze ufficiali**, disputando **9690 minuti** di gioco effettivo, siglando **28 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **110 presenze ufficiali**, disputando **9690 minuti** di gioco effettivo, siglando **28 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -145,4 +145,4 @@ Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 ret
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 240-260 (Stagioni dal 1968-1969 al 1971-1972).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Aquilino Bonfanti*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bonfanti-578).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Aquilino Bonfanti*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Bonfanti-578).

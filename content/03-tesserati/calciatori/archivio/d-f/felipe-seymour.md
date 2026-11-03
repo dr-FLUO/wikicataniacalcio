@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/felipe-seymour
-- felipe-seymour
-- tesserati/felipe-seymour
+- 03-tesserati/calciatori/archivio/d-f/felipe-ignacio-seymour
+- 03-tesserati/calciatori/felipe-ignacio-seymour
+- calciatori/felipe-ignacio-seymour
 - calciatori/felipe-seymour
+- felipe-ignacio-seymour
+- tesserati/calciatori/felipe-ignacio-seymour
+- tesserati/calciatori/felipe-seymour
+- tesserati/felipe-ignacio-seymour
+- tesserati/felipe-seymour
 citizenship: Cile
 total_goals: 1
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 608
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 83891
 ---
 # Felipe Seymour — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2011</td>
+        <td colspan="3">2011–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +115,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Mediano | 13 | 1 | 0 | 1 | 0 | 608' |
+| **2011-2012** | Mediano | 13 | 1 | 0 | 1 | 0 | 608' |
 | **TOTALE** | — | **13** | **1** | **0** | **1** | **0** | **608'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Felipe Seymour** ha collezionato complessivamente **13 presenze ufficiali**, disputando **608 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **13 presenze ufficiali**, disputando **608 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

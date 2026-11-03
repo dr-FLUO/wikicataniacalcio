@@ -13,8 +13,9 @@ Header.css = `
 .nfc-top-wrapper {
   position: sticky;
   top: 0;
-  z-index: 120;
+  z-index: 1000;
   width: 100%;
+  overflow: visible !important;
 }
 .nfc-top-stripe {
   height: 4px;
@@ -29,6 +30,7 @@ Header.css = `
 }
 .nfc-top-shell {
   width: 100%;
+  overflow: visible !important;
 }
 `
 

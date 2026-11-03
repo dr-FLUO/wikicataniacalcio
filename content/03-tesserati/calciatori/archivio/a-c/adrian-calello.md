@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/adrian-calello
-- adrian-calello
-- tesserati/adrian-calello
+- 03-tesserati/calciatori/adrian-daniel-calello
+- 03-tesserati/calciatori/archivio/a-c/adrian-daniel-calello
+- adrian-daniel-calello
 - calciatori/adrian-calello
+- calciatori/adrian-daniel-calello
+- tesserati/adrian-calello
+- tesserati/adrian-daniel-calello
+- tesserati/calciatori/adrian-calello
+- tesserati/calciatori/adrian-daniel-calello
 citizenship: Argentina
 total_goals: 0
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 569
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 55911
 ---
 # Adrián Calello — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +115,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Mediano | 13 | 0 | 0 | 3 | 0 | 569' |
+| **2014-2015** | Mediano | 13 | 0 | 0 | 3 | 0 | 569' |
 | **TOTALE** | — | **13** | **0** | **0** | **3** | **0** | **569'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adrián Calello** ha collezionato complessivamente **13 presenze ufficiali**, disputando **569 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **13 presenze ufficiali**, disputando **569 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

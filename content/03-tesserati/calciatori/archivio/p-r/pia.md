@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Joao Batista Inacio Pià
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Pia-72
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 72
 image: assets/images/calciatori/pia.jpg
 image_credits:
 - image_path: assets/images/calciatori/pia.jpg
@@ -71,6 +77,12 @@ aliases:
 - pia
 - tesserati/pia
 - calciatori/pia
+- tesserati/calciatori/joao-batista-inacio-pià
+- joao-batista-inacio-pià
+- tesserati/joao-batista-inacio-pià
+- calciatori/joao-batista-inacio-pià
+- 03-tesserati/calciatori/archivio/g-l/joao-batista-inacio-pià
+- Joao Batista Inacio Pià
 citizenship: Brasile
 total_goals: 0
 total_assists: 0
@@ -105,7 +117,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2007</td>
+        <td colspan="3">2007–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -129,8 +141,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Seconda punta | 9 | 0 | 0 | 1 | 0 | 440' |
+| **2007-2008** | Seconda punta | 9 | 0 | 0 | 1 | 0 | 440' |
 | **TOTALE** | — | **9** | **0** | **0** | **1** | **0** | **440'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Piá** ha collezionato complessivamente **9 presenze ufficiali**, disputando **440 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **440 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

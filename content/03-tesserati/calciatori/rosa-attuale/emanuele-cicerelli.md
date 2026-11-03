@@ -56,6 +56,7 @@ minutes_played: 4106
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 265320
 ---
 # Emmanuele Pio Cicerelli — Attaccante Esterno e Uomo Fantasia del Catania FC
 
@@ -73,7 +74,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1994</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -83,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2024–</td>
+        <td colspan="3">2023–</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -118,13 +119,13 @@ Nella [[stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/all
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2022-2023** | Ala sinistra | 26 | 3 | 2 | 5 | 1 | 1434' |
-| **2024-2025** | Ala sinistra | 26 | 6 | 3 | 4 | 0 | 1552' |
-| **2025-2026** | Ala sinistra | 14 | 5 | 3 | 1 | 0 | 1120' |
+| **2023-2024** | Ala sinistra | 26 | 3 | 2 | 5 | 1 | 1434' |
+| **2025-2026** | Ala sinistra | 26 | 6 | 3 | 4 | 0 | 1552' |
+| **2026-2027** | Ala sinistra | 14 | 5 | 3 | 1 | 0 | 1120' |
 | **TOTALE** | — | **66** | **14** | **8** | **10** | **1** | **4106'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Emanuele Cicerelli** ha collezionato complessivamente **66 presenze ufficiali**, disputando **4106 minuti** di gioco effettivo, siglando **14 gol** e servendo **8 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **66 presenze ufficiali**, disputando **4106 minuti** di gioco effettivo, siglando **14 gol** e servendo **8 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

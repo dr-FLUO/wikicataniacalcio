@@ -69,6 +69,12 @@ aliases:
 - maxi-lopez
 - tesserati/maxi-lopez
 - calciatori/maxi-lopez
+- 03-tesserati/calciatori/archivio/m-o/maximiliano-gastòn-lopez
+- maximiliano-gastòn-lopez
+- tesserati/calciatori/maximiliano-gastòn-lopez
+- calciatori/maximiliano-gastòn-lopez
+- 03-tesserati/calciatori/storici/maxi-lopez
+- calciatori/storici/maxi-lopez
 image_credits:
 - image_path: assets/images/calciatori/maxi-lopez.jpg
   alt_text: Ritratto ufficiale di Maxi López in maglia rossazzurra
@@ -95,6 +101,7 @@ seasons_count: 4
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 26263
 ---
 # Maxi López
 
@@ -112,7 +119,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1984</td>
         <th>Nazionalità</th>
-        <td>Argentina</td>
+        <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -122,7 +129,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2012, 2013–2014</td>
+        <td colspan="3">2009–2014</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -202,15 +209,14 @@ Chiude la sua avventura complessiva ai piedi dell'Etna con **87 presenze ufficia
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Punta centrale | 17 | 11 | 2 | 4 | 0 | 1407' |
-| **2009-2010** | Punta centrale | 37 | 10 | 3 | 6 | 0 | 2930' |
-| **2010-2011** | Punta centrale | 16 | 5 | 1 | 0 | 0 | 1054' |
-| **2012-2013** | Punta centrale | 13 | 1 | 2 | 1 | 0 | 683' |
-| **TOTALE** | — | **83** | **27** | **8** | **11** | **0** | **6074'** |
+| **2009-2010** | Punta centrale | 17 | 11 | 2 | 4 | 0 | 1407' |
+| **2010-2011** | Punta centrale | 37 | 10 | 3 | 6 | 1 | 2930' |
+| **2011-2012** | Punta centrale | 16 | 5 | 1 | 0 | 0 | 1054' |
+| **2013-2014** | Punta centrale | 13 | 1 | 2 | 1 | 0 | 683' |
+| **TOTALE** | — | **83** | **27** | **8** | **11** | **1** | **6074'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Maxi López** ha collezionato complessivamente **83 presenze ufficiali**, disputando **6074 minuti** di gioco effettivo, siglando **27 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.
-
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **83 presenze ufficiali**, disputando **6074 minuti** di gioco effettivo, siglando **27 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Maxi López](https://it.wikipedia.org/wiki/Maxi_L%C3%B3pez)*.
@@ -219,4 +225,4 @@ Chiude la sua avventura complessiva ai piedi dell'Etna con **87 presenze ufficia
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 460-467.
 3. **Roberto Quartarone, Alessandro Russo**, *Maxi López, il biondo d'oro che riscrisse la storia del Catania*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2014.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Maximiliano Gastòn  Lopez*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Lopez-27).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Maximiliano Gastòn  Lopez*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Lopez-27).

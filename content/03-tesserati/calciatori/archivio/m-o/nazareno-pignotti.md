@@ -1,7 +1,7 @@
 ---
 title: Nazareno Pignotti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nazareno Pignotti, difensore
-  del Calcio Catania con 6 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Nazareno Pignotti, difensore del Calcio Catania con 6 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/nazareno-pignotti
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Pignotti-171
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 171
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -37,6 +36,7 @@ minutes_played: 280
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 156517
 ---
 # Nazareno Pignotti — Scheda Giocatore nel Calcio Catania
 
@@ -98,15 +98,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2002-2003** | Terzino sinistro | 6 | 0 | 0 | 0 | 0 | 280' |
+| **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **280'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Nazario Pignotti** ha collezionato complessivamente **6 presenze ufficiali**, disputando **280 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nazareno Pignotti*, in [https://www.calciocatania.com/giocatori/giocatori.php?Pignotti-171](https://www.calciocatania.com/giocatori/giocatori.php?Pignotti-171), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nazareno Pignotti*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pignotti-171), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2001-2002 | Terzino sinistro | 6 | 0 | 0 | 0 | 0 | 280' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 6 presenze e 0 reti complessive.*

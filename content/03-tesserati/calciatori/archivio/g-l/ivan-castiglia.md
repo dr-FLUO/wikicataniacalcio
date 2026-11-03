@@ -62,6 +62,7 @@ minutes_played: 1049
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 39519
 ---
 # Ivan Castiglia — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2015</td>
+        <td colspan="3">2015–2016</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,11 +110,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Centrocampista | 16 | 0 | 0 | 2 | 0 | 1049' |
+| **2015-2016** | Centrocampista | 16 | 0 | 0 | 2 | 0 | 1049' |
 | **TOTALE** | — | **16** | **0** | **0** | **2** | **0** | **1049'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ivan Castiglia** ha collezionato complessivamente **16 presenze ufficiali**, disputando **1049 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1049 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ivan Castiglia](https://it.wikipedia.org/wiki/Ivan_Castiglia)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ivan Castiglia*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Castiglia-872](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Castiglia-872), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ivan Castiglia*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Castiglia-872)/giocatori/giocatori.php?Castiglia-872), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

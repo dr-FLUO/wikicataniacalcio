@@ -55,6 +55,7 @@ minutes_played: 8642
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 345742
 ---
 # Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 
@@ -72,7 +73,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1998</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -116,14 +117,14 @@ Arrivato in Sicilia nell'estate del **2023**:
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2022-2023** | Mediano | 39 | 0 | 0 | 10 | 0 | 2984' |
-| **2023-2024** | Mediano | 36 | 1 | 0 | 16 | 0 | 2144' |
-| **2024-2025** | Mediano | 36 | 0 | 0 | 15 | 0 | 2387' |
-| **2025-2026** | Mediano | 14 | 0 | 1 | 3 | 0 | 1127' |
+| **2023-2024** | Mediano | 39 | 0 | 0 | 10 | 0 | 2984' |
+| **2024-2025** | Mediano | 36 | 1 | 0 | 16 | 0 | 2144' |
+| **2025-2026** | Mediano | 36 | 0 | 0 | 15 | 0 | 2387' |
+| **2026-2027** | Mediano | 14 | 0 | 1 | 3 | 0 | 1127' |
 | **TOTALE** | — | **125** | **1** | **1** | **44** | **0** | **8642'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Quaini** ha collezionato complessivamente **125 presenze ufficiali**, disputando **8642 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **125 presenze ufficiali**, disputando **8642 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

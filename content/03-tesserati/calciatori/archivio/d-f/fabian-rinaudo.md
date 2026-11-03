@@ -63,6 +63,7 @@ minutes_played: 4359
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 89027
 ---
 # Fabian Rinaudo — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2012–2016</td>
+        <td colspan="3">2013–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2012-2013** | Mediano | 18 | 0 | 0 | 8 | 0 | 1483' |
-| **2013-2014** | Mediano | 33 | 2 | 1 | 12 | 1 | 2876' |
-| **2015-2016** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2013-2014** | Mediano | 18 | 0 | 0 | 8 | 0 | 1483' |
+| **2014-2015** | Mediano | 33 | 2 | 1 | 12 | 1 | 2876' |
+| **2016-2017** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **51** | **2** | **1** | **20** | **1** | **4359'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabián Rinaudo** ha collezionato complessivamente **51 presenze ufficiali**, disputando **4359 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **51 presenze ufficiali**, disputando **4359 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fabián Rinaudo](https://it.wikipedia.org/wiki/Fabi%C3%A1n_Rinaudo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabian Rinaudo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rinaudo-817](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rinaudo-817), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabian Rinaudo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Rinaudo-817)/giocatori/giocatori.php?Rinaudo-817), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

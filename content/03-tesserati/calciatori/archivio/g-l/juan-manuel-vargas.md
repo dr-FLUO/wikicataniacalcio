@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/juan-manuel-vargas
-- juan-manuel-vargas
-- tesserati/juan-manuel-vargas
+- 03-tesserati/calciatori/archivio/g-l/juan-manuel-risco-vargas
+- 03-tesserati/calciatori/juan-manuel-risco-vargas
+- calciatori/juan-manuel-risco-vargas
 - calciatori/juan-manuel-vargas
+- juan-manuel-risco-vargas
+- tesserati/calciatori/juan-manuel-risco-vargas
+- tesserati/calciatori/juan-manuel-vargas
+- tesserati/juan-manuel-risco-vargas
+- tesserati/juan-manuel-vargas
 citizenship: Perù
 height: 185 cm
 foot: Sinistro
@@ -62,6 +67,7 @@ minutes_played: 5959
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 30584
 ---
 # Juan Manuel Vargas — Scheda Giocatore nel Calcio Catania
 
@@ -113,9 +119,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Terzino sinistro | 33 | 0 | 4 | 7 | 0 | 2639' |
-| **2006-2007** | Terzino sinistro | 40 | 6 | 7 | 7 | 1 | 3320' |
+| **2006-2007** | Terzino sinistro | 33 | 0 | 4 | 7 | 0 | 2639' |
+| **2007-2008** | Terzino sinistro | 40 | 6 | 7 | 7 | 1 | 3320' |
 | **TOTALE** | — | **73** | **6** | **11** | **14** | **1** | **5959'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Juan Manuel Vargas** ha collezionato complessivamente **73 presenze ufficiali**, disputando **5959 minuti** di gioco effettivo, siglando **6 gol** e servendo **11 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **73 presenze ufficiali**, disputando **5959 minuti** di gioco effettivo, siglando **6 gol** e servendo **11 assist** distribuiti su **2 stagioni sportive**.

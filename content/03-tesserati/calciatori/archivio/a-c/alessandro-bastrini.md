@@ -57,6 +57,7 @@ minutes_played: 1891
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 39829
 ---
 # Alessandro Bastrini — Scheda Giocatore nel Calcio Catania
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2016</td>
+        <td colspan="3">2015–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +105,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Difensore centrale | 11 | 0 | 0 | 2 | 0 | 807' |
-| **2015-2016** | Difensore centrale | 15 | 0 | 0 | 4 | 0 | 1084' |
+| **2015-2016** | Difensore centrale | 11 | 0 | 0 | 2 | 0 | 807' |
+| **2016-2017** | Difensore centrale | 15 | 0 | 0 | 4 | 0 | 1084' |
 | **TOTALE** | — | **26** | **0** | **0** | **6** | **0** | **1891'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Bastrini** ha collezionato complessivamente **26 presenze ufficiali**, disputando **1891 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **1891 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alessandro Bastrini](https://it.wikipedia.org/wiki/Alessandro_Bastrini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Bastrini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bastrini-871](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bastrini-871), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Bastrini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bastrini-871)/giocatori/giocatori.php?Bastrini-871), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

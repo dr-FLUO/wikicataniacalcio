@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Anderson de Oliveira Rodney Babù
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Babu-67
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 67
 image: assets/images/calciatori/babu.jpg
 image_credits:
 - image_path: assets/images/calciatori/babu.jpg
@@ -51,6 +57,12 @@ aliases:
 - babu
 - tesserati/babu
 - calciatori/babu
+- tesserati/calciatori/anderson-de-oliveira-rodney-babù
+- anderson-de-oliveira-rodney-babù
+- tesserati/anderson-de-oliveira-rodney-babù
+- calciatori/anderson-de-oliveira-rodney-babù
+- 03-tesserati/calciatori/archivio/a-c/anderson-de-oliveira-rodney-babù
+- Anderson de Oliveira Rodney Babù
 citizenship: Brasile
 total_goals: 0
 total_assists: 0
@@ -85,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2009</td>
+        <td colspan="3">2007–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +121,8 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 2007-2009, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Ala destra | 3 | 0 | 0 | 0 | 0 | 77' |
+| **2007-2008** | Ala destra | 3 | 0 | 0 | 0 | 0 | 77' |
 | **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **77'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Babù** ha collezionato complessivamente **3 presenze ufficiali**, disputando **77 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **77 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

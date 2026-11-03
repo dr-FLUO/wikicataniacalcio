@@ -1,7 +1,7 @@
 ---
 title: Sergio Bernardo Almiron — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Sergio Bernardo Almiron,
-  centrocampista del Calcio Catania con 82 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Sergio Bernardo Almiron, centrocampista del Calcio Catania con
+  82 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/sergio-bernardo-almiron
 entity_type: calciatore
 status: verified
@@ -44,9 +44,8 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: /assets/images/calciatori/sergio-bernardo-almiron.jpg
-  alt_text: 'Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio
-    (Scadenza termini dautore) — Crediti: Wikimedia Commons Contributors del Calcio
-    Catania'
+  alt_text: 'Ritratto ufficiale di Sergio Bernardo Almirón — Licenza: Pubblico Dominio (Scadenza termini dautore) — Crediti:
+    Wikimedia Commons Contributors del Calcio Catania'
   author_or_archive: Wikimedia Commons Contributors
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
@@ -64,6 +63,7 @@ minutes_played: 6233
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 5890
 ---
 # Sergio Bernardo Almiron — Scheda Giocatore nel Calcio Catania
 
@@ -122,19 +122,21 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2011-2012** | Centrocampista | 32 | 4 | 0 | 5 | 1 | 2612' |
+| **2012-2013** | Centrocampista | 33 | 4 | 0 | 5 | 0 | 2228' |
+| **2013-2014** | Centrocampista | 13 | 1 | 0 | 1 | 0 | 873' |
+| **2014-2015** | Centrocampista | 8 | 0 | 0 | 3 | 0 | 520' |
+| **TOTALE** | — | **86** | **9** | **0** | **14** | **1** | **6233'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Sergio Almirón** ha collezionato complessivamente **86 presenze ufficiali**, disputando **6233 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Sergio Bernardo Almirón](https://it.wikipedia.org/wiki/Sergio_Bernardo_Almir%C3%B3n)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Bernardo Almiron*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Almiron-34](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Almiron-34), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sergio Bernardo Almiron*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Almiron-34)/giocatori/giocatori.php?Almiron-34), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2010-2011 | Centrocampista | 32 | 4 | 0 | 5 | 1 | 2612' |
-| 2011-2012 | Centrocampista | 33 | 4 | 0 | 5 | 0 | 2228' |
-| 2012-2013 | Centrocampista | 13 | 1 | 0 | 1 | 0 | 873' |
-| 2013-2014 | Centrocampista | 8 | 0 | 0 | 3 | 0 | 520' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 86 presenze e 9 reti complessive.*

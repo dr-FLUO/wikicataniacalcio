@@ -52,17 +52,14 @@ minutes_played: 22834
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480766
 ---
 # Rino Rado — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/574_rino-rado.jpg" alt="Rino Rado" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1972</td>
+        <td colspan="3">1966–1973</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,17 +101,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Portiere | 28 | 0 | 0 | 0 | 0 | 2520' |
-| **1966-1967** | Portiere | 39 | 0 | 0 | 0 | 0 | 3510' |
-| **1967-1968** | Portiere | 39 | 0 | 0 | 0 | 0 | 3460' |
-| **1968-1969** | Portiere | 40 | 0 | 0 | 0 | 0 | 3591' |
-| **1969-1970** | Portiere | 32 | 0 | 0 | 0 | 0 | 2880' |
-| **1970-1971** | Portiere | 41 | 0 | 0 | 0 | 0 | 3628' |
-| **1971-1972** | Portiere | 37 | 0 | 0 | 0 | 0 | 3245' |
+| **1966-1967** | Portiere | 28 | 0 | 0 | 0 | 0 | 2520' |
+| **1967-1968** | Portiere | 39 | 0 | 0 | 0 | 0 | 3510' |
+| **1968-1969** | Portiere | 39 | 0 | 0 | 0 | 0 | 3460' |
+| **1969-1970** | Portiere | 40 | 0 | 0 | 0 | 0 | 3591' |
+| **1970-1971** | Portiere | 32 | 0 | 0 | 0 | 0 | 2880' |
+| **1971-1972** | Portiere | 41 | 0 | 0 | 0 | 0 | 3628' |
+| **1972-1973** | Portiere | 37 | 0 | 0 | 0 | 0 | 3245' |
 | **TOTALE** | — | **256** | **0** | **0** | **0** | **0** | **22834'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Rino Rado** ha collezionato complessivamente **256 presenze ufficiali**, disputando **22834 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **256 presenze ufficiali**, disputando **22834 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Rino Rado](https://it.wikipedia.org/wiki/Rino_Rado)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rino Rado*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rado-574](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Rado-574), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Rino Rado*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Rado-574)/giocatori/giocatori.php?Rado-574), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

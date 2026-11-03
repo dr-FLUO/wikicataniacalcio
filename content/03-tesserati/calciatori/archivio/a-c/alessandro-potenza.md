@@ -66,6 +66,7 @@ minutes_played: 5199
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 16828
 ---
 # Alessandro  Potenza — Scheda Giocatore nel Calcio Catania
 
@@ -93,7 +94,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2009–2013</td>
+        <td colspan="3">2008–2013</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -113,15 +114,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Terzino destro | 11 | 1 | 0 | 2 | 0 | 953' |
-| **2008-2009** | Terzino destro | 22 | 0 | 0 | 4 | 0 | 1532' |
-| **2009-2010** | Terzino destro | 21 | 0 | 0 | 5 | 0 | 1758' |
-| **2010-2011** | Terzino destro | 11 | 0 | 0 | 3 | 0 | 892' |
-| **2011-2012** | Terzino destro | 2 | 0 | 0 | 0 | 1 | 64' |
+| **2008-2009** | Terzino destro | 11 | 1 | 0 | 2 | 0 | 953' |
+| **2009-2010** | Terzino destro | 22 | 0 | 0 | 4 | 0 | 1532' |
+| **2010-2011** | Terzino destro | 21 | 0 | 0 | 5 | 0 | 1758' |
+| **2011-2012** | Terzino destro | 11 | 0 | 0 | 3 | 0 | 892' |
+| **2012-2013** | Terzino destro | 2 | 0 | 0 | 0 | 1 | 64' |
 | **TOTALE** | — | **67** | **1** | **0** | **14** | **1** | **5199'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Potenza** ha collezionato complessivamente **67 presenze ufficiali**, disputando **5199 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5199 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -142,5 +143,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alessandro Potenza](https://it.wikipedia.org/wiki/Alessandro_Potenza)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro  Potenza*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Potenza-7](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Potenza-7), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro  Potenza*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Potenza-7)/giocatori/giocatori.php?Potenza-7), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

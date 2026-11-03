@@ -72,7 +72,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1938–1939</td>
+        <td colspan="3">1939–1940</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,10 +92,12 @@ Nato a Casale Monferrato (1906-07-24), Arnaldo Luigi Nebbia ha militato tra le f
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1938-1939 | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1939-1940** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **TOTALE** | — | **2** | **0** | **0** | **0** | **0** | **180'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 2 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

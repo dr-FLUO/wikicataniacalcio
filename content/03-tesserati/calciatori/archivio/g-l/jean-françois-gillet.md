@@ -49,10 +49,17 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/jean-françois-gillet
-- jean-françois-gillet
-- tesserati/jean-françois-gillet
+- 03-tesserati/calciatori/archivio/g-l/jean-fran-ois-gillet
+- 03-tesserati/calciatori/jean-fran-ois-gillet
+- calciatori/jean-fran-ois-gillet
 - calciatori/jean-françois-gillet
+- jean-fran-ois-gillet
+- jean-francois-gillet
+- tesserati/calciatori/jean-fran-ois-gillet
+- tesserati/calciatori/jean-francois-gillet
+- tesserati/calciatori/jean-françois-gillet
+- tesserati/jean-fran-ois-gillet
+- tesserati/jean-françois-gillet
 birth_date: '1979-05-31'
 birth_place: Liegi
 citizenship: Belgio
@@ -62,6 +69,7 @@ minutes_played: 1440
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22149
 ---
 # Jean François Gillet — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2014</td>
+        <td colspan="3">2014–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,11 +117,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Portiere | 16 | 0 | 0 | 0 | 0 | 1440' |
+| **2014-2015** | Portiere | 16 | 0 | 0 | 0 | 0 | 1440' |
 | **TOTALE** | — | **16** | **0** | **0** | **0** | **0** | **1440'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Jean-François Gillet** ha collezionato complessivamente **16 presenze ufficiali**, disputando **1440 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1440 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +142,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Jean François Gillet](https://it.wikipedia.org/wiki/Jean_Fran%C3%A7ois_Gillet)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jean François Gillet*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gillet-865](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gillet-865), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jean François Gillet*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gillet-865)/giocatori/giocatori.php?Gillet-865), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Vittorio Schifilitti
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Schifilitti-576
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 576
 aliases:
 - tesserati/calciatori/vittorio-schifilliti
 - vittorio-schifilliti
 - tesserati/vittorio-schifilliti
 - calciatori/vittorio-schifilliti
+- tesserati/calciatori/vittorio-schifilitti
+- vittorio-schifilitti
+- tesserati/vittorio-schifilitti
+- calciatori/vittorio-schifilitti
+- 03-tesserati/calciatori/archivio/s-z/vittorio-schifilitti
+- Vittorio Schifilitti
 citizenship: Italia
 total_goals: 3
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 798
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480775
 ---
 # Vittorio Schifilliti — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1969–1972</td>
+        <td colspan="3">1970–1973</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,10 +108,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1969-1970** | Punta centrale | 3 | 2 | 0 | 0 | 0 | 191' |
-| **1970-1971** | Punta centrale | 9 | 1 | 0 | 0 | 0 | 557' |
-| **1971-1972** | Punta centrale | 2 | 0 | 0 | 0 | 0 | 50' |
+| **1970-1971** | Punta centrale | 3 | 2 | 0 | 0 | 0 | 191' |
+| **1971-1972** | Punta centrale | 9 | 1 | 0 | 0 | 0 | 557' |
+| **1972-1973** | Punta centrale | 2 | 0 | 0 | 0 | 0 | 50' |
 | **TOTALE** | — | **14** | **3** | **0** | **0** | **0** | **798'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Vittorio Schifilliti** ha collezionato complessivamente **14 presenze ufficiali**, disputando **798 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **14 presenze ufficiali**, disputando **798 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

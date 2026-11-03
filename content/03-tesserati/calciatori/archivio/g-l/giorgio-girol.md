@@ -52,17 +52,14 @@ minutes_played: 6302
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 508035
 ---
 # Giorgio Girol — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/601_giorgio-girol.jpg" alt="Giorgio Girol" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1968</td>
+        <td colspan="3">1966–1969</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Ala destra | 20 | 6 | 0 | 0 | 0 | 1800' |
-| **1966-1967** | Ala destra | 22 | 8 | 0 | 0 | 0 | 1980' |
-| **1967-1968** | Ala destra | 30 | 0 | 0 | 0 | 0 | 2522' |
+| **1966-1967** | Ala destra | 20 | 6 | 0 | 0 | 0 | 1800' |
+| **1967-1968** | Ala destra | 22 | 8 | 0 | 0 | 0 | 1980' |
+| **1968-1969** | Ala destra | 30 | 0 | 0 | 0 | 0 | 2522' |
 | **TOTALE** | — | **72** | **14** | **0** | **0** | **0** | **6302'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giorgio Girol** ha collezionato complessivamente **72 presenze ufficiali**, disputando **6302 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **72 presenze ufficiali**, disputando **6302 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giorgio Girol](https://it.wikipedia.org/wiki/Giorgio_Girol)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Girol*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Girol-601](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Girol-601), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Girol*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Girol-601)/giocatori/giocatori.php?Girol-601), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

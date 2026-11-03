@@ -1,7 +1,7 @@
 ---
 title: Vinicio Cervo de Luca Cesar — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Vinicio Cervo de Luca
-  Cesar, difensore del Calcio Catania con 53 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Vinicio Cervo de Luca Cesar, difensore del Calcio Catania con
+  53 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/vinicio-cervo-de-luca-cesar
 entity_type: calciatore
 status: verified
@@ -38,22 +38,27 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/44_vinicio-cervo-de-luca-cesar.jpg
-  alt_text: Ritratto del calciatore Vinicio Cervo de Luca Cesar in maglia rossazzurra
-    del Calcio Catania
+  alt_text: Ritratto del calciatore Vinicio Cervo de Luca Cesar in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/vinicio-cervo-de-luca-cesar
-- vinicio-cervo-de-luca-cesar
-- tesserati/vinicio-cervo-de-luca-cesar
+- 03-tesserati/calciatori/archivio/a-c/cesar-vinicio-cervo-de-luca
+- 03-tesserati/calciatori/cesar-vinicio-cervo-de-luca
+- calciatori/cesar-vinicio-cervo-de-luca
 - calciatori/vinicio-cervo-de-luca-cesar
+- cesar-vinicio-cervo-de-luca
+- tesserati/calciatori/cesar-vinicio-cervo-de-luca
+- tesserati/calciatori/vinicio-cervo-de-luca-cesar
+- tesserati/cesar-vinicio-cervo-de-luca
+- tesserati/vinicio-cervo-de-luca-cesar
 total_goals: 2
 total_assists: 0
 minutes_played: 4786
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 15977
 ---
 # Vinicio Cervo de Luca Cesar — Scheda Giocatore nel Calcio Catania
 
@@ -69,9 +74,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1979</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -81,7 +86,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2006</td>
+        <td colspan="3">2004–2007</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -114,15 +119,17 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vinicio Cervo de Luca Cesar*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cesar-44](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cesar-44), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Vinicio Cervo de Luca Cesar*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cesar-44), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Difensore centrale | 19 | 0 | 0 | 4 | 0 | 1710' |
-| 2004-2005 | Difensore centrale | 30 | 2 | 0 | 8 | 0 | 2461' |
-| 2005-2006 | Difensore centrale | 8 | 0 | 0 | 3 | 0 | 615' |
+| **2004-2005** | Difensore centrale | 19 | 0 | 0 | 4 | 0 | 1710' |
+| **2005-2006** | Difensore centrale | 30 | 2 | 0 | 8 | 0 | 2461' |
+| **2006-2007** | Difensore centrale | 8 | 0 | 0 | 3 | 0 | 615' |
+| **TOTALE** | — | **57** | **2** | **0** | **15** | **0** | **4786'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 57 presenze e 2 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **57 presenze ufficiali**, disputando **4786 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

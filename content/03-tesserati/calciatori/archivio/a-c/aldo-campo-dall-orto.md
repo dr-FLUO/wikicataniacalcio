@@ -1,7 +1,6 @@
 ---
 title: Aldo Campo Dall'Orto — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Aldo Campo Dall'Orto,
-  centrocampista del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Aldo Campo Dall'Orto, centrocampista del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/a-c/aldo-campo-dall-orto
 entity_type: calciatore
 status: verified
@@ -24,17 +23,28 @@ sources:
   year: 2026
   url: https://www.wikidata.org/wiki/Q61041268
   reference: Registro anagrafico e identificativo sportivo internazionale
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Aldo Campodallorto
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Campodallorto-1035
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 1035
 aliases:
 - tesserati/calciatori/aldo-campo-dall-orto
 - aldo-campo-dall-orto
 - tesserati/aldo-campo-dall-orto
 - calciatori/aldo-campo-dall-orto
+- tesserati/calciatori/aldo-campodallorto
+- aldo-campodallorto
+- tesserati/aldo-campodallorto
+- calciatori/aldo-campodallorto
+- 03-tesserati/calciatori/archivio/a-c/aldo-campodallorto
+- Aldo Campodallorto
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -42,6 +52,7 @@ minutes_played: 180
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 532804
 ---
 # Aldo Campo Dall'Orto — Scheda Giocatore nel Calcio Catania
 
@@ -72,7 +83,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1952–1953</td>
+        <td colspan="3">1953–1954</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -92,10 +103,12 @@ Nato a Vittorio Veneto (1931-11-11), Aldo Campo Dall'Orto ha militato tra le fil
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1952-1953 | Attacco | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1953-1954** | Attacco | 2 | 0 | 0 | 0 | 0 | 180' |
+| **TOTALE** | — | **2** | **0** | **0** | **0** | **0** | **180'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 2 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

@@ -53,6 +53,7 @@ minutes_played: 11423
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 168444
 ---
 # Matteo Pisseri — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1992</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2015–2019</td>
+        <td colspan="3">2016–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2015-2016** | Portiere | 42 | 0 | 0 | 1 | 0 | 3780' |
-| **2016-2017** | Portiere | 41 | 0 | 0 | 1 | 0 | 3683' |
-| **2017-2018** | Portiere | 43 | 0 | 0 | 2 | 0 | 3870' |
-| **2018-2019** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
+| **2016-2017** | Portiere | 42 | 0 | 0 | 1 | 0 | 3780' |
+| **2017-2018** | Portiere | 41 | 0 | 0 | 1 | 0 | 3683' |
+| **2018-2019** | Portiere | 43 | 0 | 0 | 2 | 0 | 3870' |
+| **2019-2020** | Portiere | 1 | 0 | 0 | 0 | 0 | 90' |
 | **TOTALE** | — | **127** | **0** | **0** | **4** | **0** | **11423'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Matteo Pisseri** ha collezionato complessivamente **127 presenze ufficiali**, disputando **11423 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **127 presenze ufficiali**, disputando **11423 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Pisseri*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pisseri-891](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pisseri-891), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Matteo Pisseri*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pisseri-891), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

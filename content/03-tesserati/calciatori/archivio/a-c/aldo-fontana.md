@@ -45,6 +45,7 @@ minutes_played: 1260
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 613789
 ---
 # Aldo Fontana — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1951–1955</td>
+        <td colspan="3">1952–1956</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1951-1952** | Attacco | 1 | 0 | 0 | 0 | 0 | 90' |
-| **1954-1955** | Attacco | 13 | 4 | 0 | 0 | 0 | 1170' |
+| **1952-1953** | Attacco | 1 | 0 | 0 | 0 | 0 | 90' |
+| **1955-1956** | Attacco | 13 | 4 | 0 | 0 | 0 | 1170' |
 | **TOTALE** | — | **14** | **4** | **0** | **0** | **0** | **1260'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Aldo Fontana** ha collezionato complessivamente **14 presenze ufficiali**, disputando **1260 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **14 presenze ufficiali**, disputando **1260 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Aldo Fontana](https://it.wikipedia.org/wiki/Aldo_Fontana)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Aldo Fontana*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fontana-718](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Fontana-718), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Aldo Fontana*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Fontana-718)/giocatori/giocatori.php?Fontana-718), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

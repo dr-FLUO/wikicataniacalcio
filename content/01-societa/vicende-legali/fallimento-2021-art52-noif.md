@@ -8,7 +8,7 @@ entity_type: vicenda_legale
 date_start: 2021-12-22
 date_end: 2022-07-13
 season_ref: '[[stagioni/2021-2022|Stagione 2021-2022]]'
-club_entity: '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. — Gestione SIGI
+club_entity: '[[societa/2020-sigi-e-fallimento]] |Calcio Catania S.p.A. — Gestione SIGI
   e Fallimento]]'
 figc_matricola: '11700'
 protagonists:
@@ -16,9 +16,9 @@ protagonists:
 - Giuseppe Gennaro, Daniela D'Arrigo, Enrico Maria Giucastro (Collegio dei Curatori
   Fallimentari)
 - Roberto Bonaccorsi (Sindaco f.f. del Comune di Catania)
-- '[[societa/presidenti/ross-pelligra|Ross Pelligra (Presidente Pelligra Group e Catania
+- '[[societa/presidenti/ross-pelligra]] |Ross Pelligra (Presidente Pelligra Group e Catania
   SSD)]]'
-- '[[societa/presidenti/vincenzo-grella|Vincenzo Grella (Vicepresidente e AD Catania
+- '[[societa/presidenti/vincenzo-grella]] |Vincenzo Grella (Vicepresidente e AD Catania
   SSD)]]'
 judicial_bodies:
 - Tribunale Ordinario di Catania — Sezione Fallimentare

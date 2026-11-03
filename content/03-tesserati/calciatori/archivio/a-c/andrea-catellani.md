@@ -63,6 +63,7 @@ minutes_played: 695
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 87091
 ---
 # Andrea Catellani — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2011</td>
+        <td colspan="3">2008–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **2008-2009** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2010-2011** | Punta centrale | 23 | 1 | 2 | 1 | 0 | 695' |
+| **2009-2010** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2011-2012** | Punta centrale | 23 | 1 | 2 | 1 | 0 | 695' |
 | **TOTALE** | — | **23** | **1** | **2** | **1** | **0** | **695'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Catellani** ha collezionato complessivamente **23 presenze ufficiali**, disputando **695 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **23 presenze ufficiali**, disputando **695 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Andrea Catellani](https://it.wikipedia.org/wiki/Andrea_Catellani)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Catellani*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Catellani-31](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Catellani-31), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Catellani*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Catellani-31)/giocatori/giocatori.php?Catellani-31), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

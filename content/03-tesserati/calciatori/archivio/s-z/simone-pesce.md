@@ -60,6 +60,7 @@ minutes_played: 742
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 41312
 ---
 # Simone  Pesce — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1982</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
@@ -87,7 +88,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2008–2010</td>
+        <td colspan="3">2009–2011</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -107,12 +108,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Mediano | 4 | 0 | 0 | 2 | 0 | 127' |
-| **2009-2010** | Mediano | 11 | 3 | 1 | 2 | 0 | 615' |
+| **2009-2010** | Mediano | 4 | 0 | 0 | 2 | 0 | 127' |
+| **2010-2011** | Mediano | 11 | 3 | 1 | 2 | 0 | 615' |
 | **TOTALE** | — | **15** | **3** | **1** | **4** | **0** | **742'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Simone Pesce** ha collezionato complessivamente **15 presenze ufficiali**, disputando **742 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **15 presenze ufficiali**, disputando **742 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -133,5 +134,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Simone Pesce](https://it.wikipedia.org/wiki/Simone_Pesce)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Simone  Pesce*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pesce-14](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Pesce-14), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Simone  Pesce*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pesce-14)/giocatori/giocatori.php?Pesce-14), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

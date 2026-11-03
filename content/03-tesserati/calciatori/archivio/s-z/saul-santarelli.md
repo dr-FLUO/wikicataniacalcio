@@ -51,6 +51,7 @@ minutes_played: 2093
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22287
 ---
 # Saul Santarelli — Scheda Giocatore nel Calcio Catania
 
@@ -78,7 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1996–1997</td>
+        <td colspan="3">1997–1998</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -98,11 +99,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1996-1997** | Portiere | 25 | 0 | 0 | 0 | 0 | 2093' |
+| **1997-1998** | Portiere | 25 | 0 | 0 | 0 | 0 | 2093' |
 | **TOTALE** | — | **25** | **0** | **0** | **0** | **0** | **2093'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Saul Santarelli** ha collezionato complessivamente **25 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -122,5 +123,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Saul Santarelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Santarelli-278](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Santarelli-278), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Saul Santarelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Santarelli-278)/giocatori/giocatori.php?Santarelli-278), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

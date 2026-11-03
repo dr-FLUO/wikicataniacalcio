@@ -95,6 +95,7 @@ minutes_played: 8569
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22124
 ---
 # Orazio Russo
 
@@ -122,7 +123,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1991–1993, 1996–1997, 2004–2006, 2009–2010</td>
+        <td colspan="3">1991–2010</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -221,7 +222,7 @@ La notizia suscita un'ondata di cordoglio oceanica che travolge l'intera Sicilia
 ## Fonti archivistiche e bibliografiche
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010 (pp. 360–495).
-2. **Archivio Storico CalcioCatania.com**, *Scheda carriera e presenze di Orazio Russo (ID 86)*, consultabile su [calciocatania.com/giocatori](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Russo-86).
+2. **Archivio Storico CalcioCatania.com**, *Scheda carriera e presenze di Orazio Russo (ID 86)*, consultabile su [calciocatania.com/giocatori](https://www.calciocatania.com/)/giocatori/giocatori.php?Russo-86).
 3. **Redazione Tutto il Catania Minuto per Minuto**, *Dossier memoriale e testimonianze su Orazio Russo*, [tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/).
 4. **Lega Nazionale Professionisti Serie A / Lega B**, *Tabellino ufficiale Catania–Genoa 1-0 del 16 maggio 2010*, Roma.
 
@@ -229,14 +230,14 @@ La notizia suscita un'ondata di cordoglio oceanica che travolge l'intera Sicilia
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1990-1991** | Ala destra | 5 | 0 | 0 | 0 | 0 | 159' |
-| **1991-1992** | Ala destra | 25 | 2 | 0 | 0 | 0 | 1861' |
-| **1995-1996** | Ala destra | 32 | 3 | 0 | 0 | 0 | 2823' |
-| **2003-2004** | Ala destra | 36 | 5 | 0 | 4 | 0 | 2603' |
-| **2004-2005** | Ala destra | 26 | 3 | 0 | 4 | 0 | 1117' |
-| **2005-2006** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2008-2009** | Ala destra | 1 | 0 | 0 | 0 | 0 | 6' |
+| **1991-1992** | Ala destra | 5 | 0 | 0 | 0 | 0 | 159' |
+| **1992-1993** | Ala destra | 25 | 2 | 0 | 0 | 0 | 1861' |
+| **1996-1997** | Ala destra | 32 | 3 | 0 | 0 | 0 | 2823' |
+| **2004-2005** | Ala destra | 36 | 5 | 0 | 4 | 0 | 2603' |
+| **2005-2006** | Ala destra | 26 | 3 | 0 | 4 | 0 | 1117' |
+| **2006-2007** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2009-2010** | Ala destra | 1 | 0 | 0 | 0 | 0 | 6' |
 | **TOTALE** | — | **125** | **13** | **0** | **8** | **0** | **8569'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Orazio Russo** ha collezionato complessivamente **125 presenze ufficiali**, disputando **8569 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **125 presenze ufficiali**, disputando **8569 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.

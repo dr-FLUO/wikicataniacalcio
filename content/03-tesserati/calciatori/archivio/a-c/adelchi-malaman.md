@@ -52,17 +52,14 @@ minutes_played: 12320
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 510844
 ---
 # Adelchi Malaman — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/528_adelchi-malaman.jpg" alt="Adelchi Malaman" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1972–1978</td>
+        <td colspan="3">1973–1979</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,16 +101,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1972-1973** | Centrocampo | 30 | 3 | 0 | 0 | 0 | 2582' |
-| **1973-1974** | Centrocampo | 30 | 8 | 0 | 1 | 0 | 2577' |
-| **1974-1975** | Centrocampo | 34 | 2 | 0 | 0 | 0 | 2983' |
-| **1975-1976** | Centrocampo | 15 | 0 | 0 | 0 | 0 | 945' |
-| **1976-1977** | Centrocampo | 34 | 4 | 0 | 0 | 0 | 2944' |
-| **1977-1978** | Centrocampo | 7 | 1 | 0 | 0 | 0 | 289' |
+| **1973-1974** | Centrocampo | 30 | 3 | 0 | 0 | 0 | 2582' |
+| **1974-1975** | Centrocampo | 30 | 8 | 0 | 1 | 0 | 2577' |
+| **1975-1976** | Centrocampo | 34 | 2 | 0 | 0 | 0 | 2983' |
+| **1976-1977** | Centrocampo | 15 | 0 | 0 | 0 | 0 | 945' |
+| **1977-1978** | Centrocampo | 34 | 4 | 0 | 0 | 0 | 2944' |
+| **1978-1979** | Centrocampo | 7 | 1 | 0 | 0 | 0 | 289' |
 | **TOTALE** | — | **150** | **18** | **0** | **1** | **0** | **12320'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adelchi Malaman** ha collezionato complessivamente **150 presenze ufficiali**, disputando **12320 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **150 presenze ufficiali**, disputando **12320 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Adelchi Malaman](https://it.wikipedia.org/wiki/Adelchi_Malaman)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Adelchi Malaman*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Malaman-528](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Malaman-528), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Adelchi Malaman*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Malaman-528)/giocatori/giocatori.php?Malaman-528), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

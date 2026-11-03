@@ -87,32 +87,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Enzo Bellini</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1917</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1955–1956</strong> (dal 29/04/1956 al 30/06/1956)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>7</td>
-        <th>Media Punti</th>
-        <td>1,43</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Enzo Bellini** (Firenze, Italia, 1917 – 2001) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1955-1956**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro

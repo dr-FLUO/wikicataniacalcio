@@ -24,16 +24,13 @@ export interface Options {
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
     return node
   },
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,
         sensitivity: "base",
@@ -93,10 +90,11 @@ export default ((userOpts?: Partial<Options>) => {
               stroke-linecap="round"
               stroke-linejoin="round"
               class="lucide-menu"
+              aria-hidden="true"
             >
-              <line x1="4" x2="20" y1="12" y2="12" />
-              <line x1="4" x2="20" y1="6" y2="6" />
-              <line x1="4" x2="20" y1="18" y2="18" />
+              <line x1="4" y1="12" x2="20" y2="12" />
+              <line x1="4" y1="6" x2="20" y2="6" />
+              <line x1="4" y1="18" x2="20" y2="18" />
             </svg>
             <span class="mobile-explorer-label">{opts.title ?? "Archivio Dossier"}</span>
           </span>
@@ -120,6 +118,7 @@ export default ((userOpts?: Partial<Options>) => {
             stroke-linecap="round"
             stroke-linejoin="round"
             class="fold"
+            aria-hidden="true"
           >
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
@@ -146,11 +145,21 @@ export default ((userOpts?: Partial<Options>) => {
                 stroke-width="2"
                 stroke-linecap="round"
                 stroke-linejoin="round"
+                aria-hidden="true"
               >
                 <line x1="18" y1="6" x2="6" y2="18" />
                 <line x1="6" y1="6" x2="18" y2="18" />
               </svg>
             </button>
+          </div>
+          <div class="explorer-quick-filter">
+            <input
+              type="search"
+              class="explorer-filter-input"
+              placeholder="Filtra stagione o dossier..."
+              aria-label="Filtra rapidamente voci nell'archivio"
+              autocomplete="off"
+            />
           </div>
           <OverflowList class="explorer-ul" />
         </div>
@@ -173,14 +182,23 @@ export default ((userOpts?: Partial<Options>) => {
                 stroke-linecap="round"
                 stroke-linejoin="round"
                 class="folder-icon"
+                aria-hidden="true"
               >
                 <polyline points="6 9 12 15 18 9"></polyline>
               </svg>
               <div>
-                <button class="folder-button">
+                <button type="button" class="folder-button">
                   <span class="folder-title"></span>
                 </button>
               </div>
+              <a
+                href="#"
+                class="folder-direct-link"
+                title="Apri pagina indice della sezione"
+                aria-label="Apri pagina indice della sezione"
+              >
+                ↗
+              </a>
             </div>
             <div class="folder-outer">
               <ul class="content"></ul>

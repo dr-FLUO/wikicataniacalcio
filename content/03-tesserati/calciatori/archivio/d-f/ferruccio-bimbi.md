@@ -45,6 +45,7 @@ minutes_played: 2250
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 600727
 ---
 # Ferruccio Bimbi — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1957–1958</td>
+        <td colspan="3">1958–1959</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,11 +96,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1957-1958** | Difesa | 25 | 0 | 0 | 0 | 0 | 2250' |
+| **1958-1959** | Difesa | 25 | 0 | 0 | 0 | 0 | 2250' |
 | **TOTALE** | — | **25** | **0** | **0** | **0** | **0** | **2250'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ferruccio Bimbi** ha collezionato complessivamente **25 presenze ufficiali**, disputando **2250 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **2250 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -120,5 +121,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ferruccio Bimbi](https://it.wikipedia.org/wiki/Ferruccio_Bimbi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferruccio Bimbi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bimbi-684](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bimbi-684), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ferruccio Bimbi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bimbi-684)/giocatori/giocatori.php?Bimbi-684), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

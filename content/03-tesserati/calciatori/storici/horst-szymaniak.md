@@ -73,6 +73,7 @@ minutes_played: 5700
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 110260
 ---
 # Horst Szymaniak — Scheda Giocatore nel Calcio Catania
 
@@ -121,12 +122,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1960-1961** | Esterno di sinistra | 30 | 4 | 0 | 0 | 0 | 2700' |
-| **1961-1962** | Esterno di sinistra | 33 | 5 | 0 | 0 | 0 | 3000' |
+| **1961-1962** | Esterno di sinistra | 30 | 4 | 0 | 0 | 0 | 2700' |
+| **1962-1963** | Esterno di sinistra | 33 | 5 | 0 | 0 | 0 | 3000' |
 | **TOTALE** | — | **63** | **9** | **0** | **0** | **0** | **5700'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Horst Szymaniak** ha collezionato complessivamente **63 presenze ufficiali**, disputando **5700 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **63 presenze ufficiali**, disputando **5700 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -147,5 +148,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Horst Szymaniak](https://it.wikipedia.org/wiki/Horst_Szymaniak)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Horst Szymaniak*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Szymaniak-664](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Szymaniak-664), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Horst Szymaniak*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Szymaniak-664)/giocatori/giocatori.php?Szymaniak-664), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

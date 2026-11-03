@@ -46,6 +46,12 @@ aliases:
 - cristian-llama
 - tesserati/cristian-llama
 - calciatori/cristian-llama
+- 03-tesserati/calciatori/archivio/d-f/ezequiel-christian-llama
+- ezequiel-christian-llama
+- tesserati/calciatori/ezequiel-christian-llama
+- calciatori/ezequiel-christian-llama
+- 03-tesserati/calciatori/storici/cristian-llama
+- calciatori/storici/cristian-llama
 citizenship: Spagna
 total_goals: 3
 total_assists: 10
@@ -53,6 +59,7 @@ minutes_played: 4369
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 30882
 ---
 # Cristian Llama — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2019</td>
+        <td colspan="3">2007–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,15 +111,15 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2006-2007** | Trequartista | 1 | 0 | 0 | 0 | 0 | 45' |
-| **2007-2008** | Trequartista | 17 | 0 | 2 | 1 | 0 | 577' |
-| **2008-2009** | Trequartista | 25 | 2 | 1 | 6 | 0 | 1502' |
-| **2009-2010** | Trequartista | 16 | 1 | 4 | 4 | 0 | 588' |
-| **2010-2011** | Trequartista | 17 | 0 | 2 | 0 | 0 | 420' |
-| **2011-2012** | Trequartista | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2017-2018** | Trequartista | 15 | 0 | 1 | 3 | 0 | 601' |
-| **2018-2019** | Trequartista | 14 | 0 | 0 | 3 | 0 | 636' |
+| **2007-2008** | Trequartista | 1 | 0 | 0 | 0 | 0 | 45' |
+| **2008-2009** | Trequartista | 17 | 0 | 2 | 1 | 0 | 577' |
+| **2009-2010** | Trequartista | 25 | 2 | 1 | 6 | 0 | 1502' |
+| **2010-2011** | Trequartista | 16 | 1 | 4 | 4 | 0 | 588' |
+| **2011-2012** | Trequartista | 17 | 0 | 2 | 0 | 0 | 420' |
+| **2012-2013** | Trequartista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2018-2019** | Trequartista | 15 | 0 | 1 | 3 | 0 | 601' |
+| **2019-2020** | Trequartista | 14 | 0 | 0 | 3 | 0 | 636' |
 | **TOTALE** | — | **105** | **3** | **10** | **17** | **0** | **4369'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Cristian Llama** ha collezionato complessivamente **105 presenze ufficiali**, disputando **4369 minuti** di gioco effettivo, siglando **3 gol** e servendo **10 assist** distribuiti su **8 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **105 presenze ufficiali**, disputando **4369 minuti** di gioco effettivo, siglando **3 gol** e servendo **10 assist** distribuiti su **8 stagioni sportive**.

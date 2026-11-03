@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/diego-perrone
-- diego-perrone
-- tesserati/diego-perrone
+- 03-tesserati/calciatori/archivio/d-f/diego-rafaele-vienes-perrone
+- 03-tesserati/calciatori/diego-rafaele-vienes-perrone
 - calciatori/diego-perrone
+- calciatori/diego-rafaele-vienes-perrone
+- diego-rafaele-vienes-perrone
+- tesserati/calciatori/diego-perrone
+- tesserati/calciatori/diego-rafaele-vienes-perrone
+- tesserati/diego-perrone
+- tesserati/diego-rafaele-vienes-perrone
 citizenship: Uruguay
 total_goals: 0
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 6
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 37754
 ---
 # Diego Perrone — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2005</td>
+        <td colspan="3">2005–2006</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +115,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 6' |
+| **2005-2006** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 6' |
 | **TOTALE** | — | **1** | **0** | **0** | **0** | **0** | **6'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Diego Perrone** ha collezionato complessivamente **1 presenze ufficiali**, disputando **6 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **1 presenze ufficiali**, disputando **6 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

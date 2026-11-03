@@ -88,6 +88,7 @@ minutes_played: 9258
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22126
 ---
 # Gionatha Spinesi
 
@@ -169,14 +170,14 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Punta centrale | 39 | 23 | 0 | 7 | 1 | 3491' |
-| **2005-2006** | Punta centrale | 33 | 17 | 0 | 4 | 2 | 2685' |
-| **2006-2007** | Punta centrale | 37 | 9 | 2 | 5 | 1 | 2974' |
-| **2007-2008** | Punta centrale | 8 | 0 | 0 | 0 | 0 | 108' |
+| **2005-2006** | Punta centrale | 39 | 23 | 0 | 7 | 1 | 3491' |
+| **2006-2007** | Punta centrale | 33 | 17 | 0 | 4 | 2 | 2685' |
+| **2007-2008** | Punta centrale | 37 | 9 | 2 | 5 | 1 | 2974' |
+| **2008-2009** | Punta centrale | 8 | 0 | 0 | 0 | 0 | 108' |
 | **TOTALE** | — | **117** | **49** | **2** | **16** | **4** | **9258'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gionatha Spinesi** ha collezionato complessivamente **117 presenze ufficiali**, disputando **9258 minuti** di gioco effettivo, siglando **49 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **117 presenze ufficiali**, disputando **9258 minuti** di gioco effettivo, siglando **49 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -185,4 +186,4 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 430–476.
 2. **Lega Nazionale Professionisti / Lega Serie A**, *Archivio Statistico Gionatha Spinesi (2004–2009)*, 143 presenze e 49 reti complessive.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Gionatha Spinesi*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Spinesi-64).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Gionatha Spinesi*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Spinesi-64).

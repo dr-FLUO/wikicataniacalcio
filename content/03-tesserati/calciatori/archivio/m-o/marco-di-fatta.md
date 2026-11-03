@@ -11,8 +11,8 @@ birth_date: '1988-03-03'
 birth_place: Palermo
 death_date: ''
 nationality: Italia
-total_appearances: 57
-seasons_count: 2
+total_appearances: 0
+seasons_count: 1
 tags:
 - calciatori
 - marco-di-fatta
@@ -36,9 +36,9 @@ aliases:
 - tesserati/marco-di-fatta
 - calciatori/marco-di-fatta
 citizenship: Italia
-total_goals: 2
+total_goals: 0
 total_assists: 0
-minutes_played: 4783
+minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -72,13 +72,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1972–1974</td>
+        <td colspan="3">2006–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>57</td>
+        <td>0</td>
         <th>Goal / Assist</th>
-        <td>2 / 0</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -91,12 +91,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Nato a Palermo (1988-03-03), Marco Di Fatta ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1972-1973 | Mediano | 30 | 0 | 0 | 0 | 0 | 2542' |
-| 1973-1974 | Mediano | 27 | 2 | 0 | 0 | 0 | 2241' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 57 presenze e 2 reti complessive.*

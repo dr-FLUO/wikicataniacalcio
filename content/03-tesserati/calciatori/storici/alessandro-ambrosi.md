@@ -61,6 +61,7 @@ seasons_count: 1
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 287477
 ---
 # Alessandro Ambrosi
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2002</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -124,11 +125,11 @@ Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e L
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Punta centrale | 20 | 12 | 3 | 4 | 0 | 1738' |
+| **2000-2001** | Punta centrale | 20 | 12 | 3 | 4 | 0 | 1738' |
 | **TOTALE** | — | **20** | **12** | **3** | **4** | **0** | **1738'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Ambrosi** ha collezionato complessivamente **20 presenze ufficiali**, disputando **1738 minuti** di gioco effettivo, siglando **12 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **20 presenze ufficiali**, disputando **1738 minuti** di gioco effettivo, siglando **12 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -136,4 +137,4 @@ Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e L
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 408-418 (Stagioni 2000-2001 e 2001-2002).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alessandro Ambrosi*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ambrosi-196).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alessandro Ambrosi*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ambrosi-196).

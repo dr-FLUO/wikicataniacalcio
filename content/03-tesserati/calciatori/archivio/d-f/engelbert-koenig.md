@@ -115,7 +115,7 @@ Schierato titolare inamovibile al centro dell'attacco dall'allenatore ungherese 
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/).
+- **Archivio Storico CalcioCatania.com**, *Archivio Storico Giocatori del Calcio Catania (1946–2026)*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 94-98 (Stagione 1941-1942).

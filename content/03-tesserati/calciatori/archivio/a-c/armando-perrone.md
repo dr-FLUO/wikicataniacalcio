@@ -15,9 +15,9 @@ nationality: Italia
 role: Attaccante / Ala
 catania_periods:
 - 1946-1949
-total_appearances: 1
+total_appearances: 65
 league_appearances: 65
-total_goals: 0
+total_goals: 18
 league_goals: 18
 club_entities:
 - '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
@@ -45,9 +45,9 @@ aliases:
 - armando-perrone
 - tesserati/armando-perrone
 - calciatori/armando-perrone
-seasons_count: 1
+seasons_count: 3
 total_assists: 0
-minutes_played: 6
+minutes_played: 5850
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -85,9 +85,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>1</td>
+        <td>65</td>
         <th>Goal / Assist</th>
-        <td>0 / 0</td>
+        <td>18 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -117,11 +117,3 @@ Affiancato prima a Musmeci e poi dal 1947 al grande veterano Nicolò Nicolosi e 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 110-125 (Stagioni dal 1946-1947 al 1948-1949).
 
 - **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Armando Perrone*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Perrone-846).
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2004-2005 | Punta centrale | 1 | 0 | 0 | 0 | 0 | 6' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 1 presenze e 0 reti complessive.*

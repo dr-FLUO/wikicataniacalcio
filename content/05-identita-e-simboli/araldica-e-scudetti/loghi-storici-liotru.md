@@ -38,6 +38,9 @@ sources:
   year: 2026
   reference: Edizioni del 22 e 23 ottobre 2026
 aliases:
+- 05-identita-e-simboli/evoluzione-maglia-rossazzurra
+- evoluzione-maglia-rossazzurra
+- maglie/evoluzione-maglia-rossazzurra
 - maglie/loghi-storici-liotru
 image_credits:
 - image_path: assets/images/maglie-e-simboli/logo-catania-fc-ufficiale.png

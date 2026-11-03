@@ -1,8 +1,7 @@
 ---
 title: Diego Pablo Simeone — «El Cholo» e la Salvezza Record del 2011 (46 Punti)
-description: 'Biografia e statistiche di Diego Pablo Simeone sulla panchina del Calcio
-  Catania nel 2011: la salvezza record a 46 punti in Serie A e il 4-0 nel derby col
-  Palermo.'
+description: 'Biografia e statistiche di Diego Pablo Simeone sulla panchina del Calcio Catania nel 2011: la salvezza record
+  a 46 punti in Serie A e il 4-0 nel derby col Palermo.'
 slug: 03-tesserati/allenatori/diego-pablo-simeone
 entity_type: allenatore
 status: verified
@@ -34,18 +33,15 @@ sources:
   title: Archivio Statistico Serie A TIM 2010-2011 — Girone di Ritorno Calcio Catania
   publisher: Lega Serie A
   year: 2011
-  reference: 18 panchine in Serie A (7 vittorie, 4 pareggi, 7 sconfitte, 25 punti
-    conquistati)
+  reference: 18 panchine in Serie A (7 vittorie, 4 pareggi, 7 sconfitte, 25 punti conquistati)
 - author: Roberto Quartarone, Alessandro Russo
-  title: 'Quando il Cholo Simeone nacque a Catania: i 130 giorni che cambiarono il
-    Catania e il calcio europeo'
+  title: 'Quando il Cholo Simeone nacque a Catania: i 130 giorni che cambiarono il Catania e il calcio europeo'
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2016
   reference: Analisi tattica e cronistoria del semestre gennaio-maggio 2011
 cover_image: diego-simeone.jpg
-cover_caption: Diego Pablo Simeone («El Cholo»), artefice della salvezza record a
-  46 punti nella stagione di Serie A 2010-2011.
+cover_caption: Diego Pablo Simeone («El Cholo»), artefice della salvezza record a 46 punti nella stagione di Serie A 2010-2011.
 cover_credit: 'Foto: Carlos Delgado · Licenza: CC BY-SA 3.0'
 image_credits:
 - image_path: assets/images/allenatori/diego-pablo-simeone.jpg
@@ -64,8 +60,7 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0 2011
 - image_path: ../../assets/images/allenatori/diego-simeone-calcio-catania-allenatore-serie-a-2011.webp
-  alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel
-    2011
+  alt_text: Diego Pablo Simeone alla guida tecnica del Calcio Catania in Serie A nel 2011
   author_or_archive: Archivio Fotografico Wiki Catania Calcio
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -74,8 +69,8 @@ aliases:
 - diego-pablo-simeone
 - tesserati/diego-pablo-simeone
 - allenatori/diego-pablo-simeone
+tm_id: 2868
 ---
-
 # Diego Pablo Simeone
 
 <div class="nfc-player-hero-card nfc-coach-hero-card">

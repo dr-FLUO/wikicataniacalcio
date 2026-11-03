@@ -34,6 +34,9 @@ sources:
   year: 2010
   reference: Sezione Origini e Campi Storici
 aliases:
+- 04-strutture/campi-storici/piazza-esposizione-e-due-obelischi
+- campi-storici/piazza-esposizione-e-due-obelischi
+- piazza-esposizione-e-due-obelischi
 - strutture/campi-storici
 - stadio/campi-storici
 - 04-strutture/campi-storici/campo-due-obelischi

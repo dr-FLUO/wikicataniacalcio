@@ -53,6 +53,7 @@ minutes_played: 3780
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 163652
 ---
 # Jacopo Furlan — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1993</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2018–2024</td>
+        <td colspan="3">2019–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,14 +101,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2018-2019** | Portiere | 30 | 0 | 0 | 3 | 0 | 2700' |
-| **2019-2020** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2022-2023** | Portiere | 12 | 0 | 0 | 3 | 1 | 1080' |
-| **2023-2024** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2019-2020** | Portiere | 30 | 0 | 0 | 3 | 0 | 2700' |
+| **2020-2021** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2023-2024** | Portiere | 12 | 0 | 0 | 3 | 1 | 1080' |
+| **2024-2025** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **42** | **0** | **0** | **6** | **1** | **3780'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Jacopo Furlan** ha collezionato complessivamente **42 presenze ufficiali**, disputando **3780 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **3780 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jacopo Furlan*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Furlan-929](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Furlan-929), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jacopo Furlan*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Furlan-929), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

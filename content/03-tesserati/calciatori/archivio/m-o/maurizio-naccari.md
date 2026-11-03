@@ -1,7 +1,7 @@
 ---
 title: Maurizio Naccari — L'Attaccante Goleador della Serie C2 1995-1996 (10 Reti)
-description: Biografia e statistiche di Maurizio Naccari, capocannoniere rossazzurro
-  nel primo torneo di Serie C2 dopo la risalita con 10 reti nel 1995-1996.
+description: Biografia e statistiche di Maurizio Naccari, capocannoniere rossazzurro nel primo torneo di Serie C2 dopo la
+  risalita con 10 reti nel 1995-1996.
 slug: 03-tesserati/calciatori/archivio/m-o/maurizio-naccari
 entity_type: calciatore
 status: verified
@@ -17,8 +17,7 @@ league_appearances: 30
 total_goals: 10
 league_goals: 10
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza
-  (1993-2000)]]'
+- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -26,8 +25,7 @@ tags:
 - aldo-cerantola
 - angelo-busetta
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,12 +40,19 @@ aliases:
 - maurizio-naccari
 - tesserati/maurizio-naccari
 - calciatori/maurizio-naccari
+- tesserati/calciatori/antonino-naccari
+- antonino-naccari
+- tesserati/antonino-naccari
+- calciatori/antonino-naccari
+- 03-tesserati/calciatori/archivio/a-c/antonino-naccari
+- Antonino Naccari
 total_assists: 0
 minutes_played: 2334
 seasons_count: 2
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/players/290_antonino-naccari.jpg
 ---
 # Maurizio Naccari
 
@@ -111,16 +116,18 @@ Affiancato a Tiziano D'Isidoro e Pasquale Sanseverino, Naccari fu protagonista d
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Antonino Naccari*, consultabile su [https://www.calciocatania.com/giocatori/giocatori.php?Naccari-290](https://www.calciocatania.com/giocatori/giocatori.php?Naccari-290).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Antonino Naccari*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Naccari-290).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 384-388 (Stagione 1995-1996).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1994-1995 | Punta centrale | 33 | 10 | 0 | 0 | 0 | 2334' |
-| 1995-1996 | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **1995-1996** | Punta centrale | 33 | 10 | 0 | 0 | 0 | 2334' |
+| **1996-1997** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **33** | **10** | **0** | **0** | **0** | **2334'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 33 presenze e 10 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **33 presenze ufficiali**, disputando **2334 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

@@ -46,19 +46,14 @@ minutes_played: 5814
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 595530
 ---
 # Klavs Bethers — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/945_klavs-bethers.png" alt="Klavs Bethers" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -68,19 +63,19 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2003</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Lettonia</td>
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>ND</td>
+        <td>191 cm</td>
         <th>Piede</th>
-        <td>ND</td>
+        <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2021–2025</td>
+        <td colspan="3">2022–2026</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,14 +95,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2021-2022** | Portiere | 34 | 0 | 1 | 3 | 0 | 3015' |
-| **2022-2023** | Portiere | 22 | 0 | 0 | 0 | 0 | 1857' |
-| **2023-2024** | Portiere | 11 | 0 | 0 | 2 | 0 | 942' |
-| **2024-2025** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2022-2023** | Portiere | 34 | 0 | 1 | 3 | 0 | 3015' |
+| **2023-2024** | Portiere | 22 | 0 | 0 | 0 | 0 | 1857' |
+| **2024-2025** | Portiere | 11 | 0 | 0 | 2 | 0 | 942' |
+| **2025-2026** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **67** | **0** | **1** | **5** | **0** | **5814'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Klavs Bethers** ha collezionato complessivamente **67 presenze ufficiali**, disputando **5814 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5814 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Klavs Bethers*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bethers-945](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bethers-945), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Klavs Bethers*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Bethers-945), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

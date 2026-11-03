@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/adriano-mezavilla
-- adriano-mezavilla
-- tesserati/adriano-mezavilla
+- 03-tesserati/calciatori/adriano-sartorio-mezavilla
+- 03-tesserati/calciatori/archivio/a-c/adriano-sartorio-mezavilla
+- adriano-sartorio-mezavilla
 - calciatori/adriano-mezavilla
+- calciatori/adriano-sartorio-mezavilla
+- tesserati/adriano-mezavilla
+- tesserati/adriano-sartorio-mezavilla
+- tesserati/calciatori/adriano-mezavilla
+- tesserati/calciatori/adriano-sartorio-mezavilla
 citizenship: Brasile
 total_goals: 0
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 213
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 67500
 ---
 # Adriano Mezavilla — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2005</td>
+        <td colspan="3">2004–2006</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,9 +115,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2003-2004** | Mediano | 6 | 0 | 0 | 0 | 0 | 213' |
-| **2004-2005** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2004-2005** | Mediano | 6 | 0 | 0 | 0 | 0 | 213' |
+| **2005-2006** | Mediano | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **213'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Adriano Mezavilla** ha collezionato complessivamente **6 presenze ufficiali**, disputando **213 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **213 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     analytics: null, // 100% Cookie-less & Zero-Tracking (Conforme GDPR Reg. UE 2016/679)
     locale: "it-IT",
     baseUrl: "wikicataniacalcio.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "SCHEMA.md"],
+    ignorePatterns: ["private", "templates", ".obsidian", "SCHEMA.md", "_archive"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "local", // Self-hosted WOFF2 in /static/fonts/: zero trasferimento IP a Google Fonts (GDPR compliant)

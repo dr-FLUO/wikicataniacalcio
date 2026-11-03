@@ -33,29 +33,29 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/franco-panizza
-- franco-panizza
-- tesserati/franco-panizza
+- 03-tesserati/calciatori/archivio/d-f/franco-panizza-calciatore
+- 03-tesserati/calciatori/franco-panizza-calciatore
 - calciatori/franco-panizza
+- calciatori/franco-panizza-calciatore
+- franco-panizza-calciatore
+- tesserati/calciatori/franco-panizza
+- tesserati/calciatori/franco-panizza-calciatore
+- tesserati/franco-panizza
+- tesserati/franco-panizza-calciatore
 total_goals: 2
 total_assists: 0
 minutes_played: 6277
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 475909
 ---
 # Franco Panizza — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/540_franco-panizza.jpg" alt="Franco Panizza" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +65,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1949</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1974–1976</td>
+        <td colspan="3">1975–1977</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,12 +97,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1974-1975** | Centrocampo | 33 | 1 | 0 | 0 | 1 | 2956' |
-| **1975-1976** | Centrocampo | 37 | 1 | 0 | 0 | 2 | 3321' |
+| **1975-1976** | Centrocampo | 33 | 1 | 0 | 0 | 1 | 2956' |
+| **1976-1977** | Centrocampo | 37 | 1 | 0 | 0 | 2 | 3321' |
 | **TOTALE** | — | **70** | **2** | **0** | **0** | **3** | **6277'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Franco Panizza** ha collezionato complessivamente **70 presenze ufficiali**, disputando **6277 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **70 presenze ufficiali**, disputando **6277 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -122,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Franco Panizza*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Panizza-540](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Panizza-540), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Franco Panizza*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Panizza-540), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

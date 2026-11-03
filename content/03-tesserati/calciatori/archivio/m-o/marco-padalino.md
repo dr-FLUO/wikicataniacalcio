@@ -63,6 +63,7 @@ minutes_played: 2360
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22088
 ---
 # Marco Padalino — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2002–2004</td>
+        <td colspan="3">2003–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,12 +111,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2002-2003** | Terzino destro | 4 | 1 | 0 | 0 | 0 | 276' |
-| **2003-2004** | Terzino destro | 32 | 1 | 0 | 8 | 0 | 2084' |
+| **2003-2004** | Terzino destro | 4 | 1 | 0 | 0 | 0 | 276' |
+| **2004-2005** | Terzino destro | 32 | 1 | 0 | 8 | 0 | 2084' |
 | **TOTALE** | — | **36** | **2** | **0** | **8** | **0** | **2360'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marco Padalino** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2360 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2360 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Marco Padalino](https://it.wikipedia.org/wiki/Marco_Padalino)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Padalino*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Padalino-115](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Padalino-115), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Padalino*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Padalino-115)/giocatori/giocatori.php?Padalino-115), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Portiere
-total_appearances: 0
+total_appearances: 26
 seasons_count: 1
 tags:
 - calciatori
@@ -33,7 +33,7 @@ aliases:
 - calciatori/domenico-rescigno
 total_goals: 0
 total_assists: 0
-minutes_played: 0
+minutes_played: 2340
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -67,11 +67,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2015</td>
+        <td colspan="3">1994–1995</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>0</td>
+        <td>26</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -100,13 +100,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Rescigno*, in [https://www.calciocatania.com/giocatori/giocatori.php?Rescigno-344](https://www.calciocatania.com/giocatori/giocatori.php?Rescigno-344), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Rescigno*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Rescigno-344), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2014-2015 | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 0 presenze e 0 reti complessive.*

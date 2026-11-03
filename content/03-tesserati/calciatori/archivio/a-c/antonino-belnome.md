@@ -97,5 +97,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonino Belnome*, in [https://www.calciocatania.com/giocatori/giocatori.php?Belnome-311](https://www.calciocatania.com/giocatori/giocatori.php?Belnome-311), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonino Belnome*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Belnome-311), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -13,15 +13,15 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Explorer compatto ed editoriale per la navigazione archivistica
+// Explorer compatto ed editoriale per la navigazione archivistica (Regola Max 2 Livelli)
 const editorialExplorer = Component.Explorer({
   title: "Archivio Dossier",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
-  useSavedState: false,
+  useSavedState: true,
   filterFn: (node) => {
     if (node.slugSegment === "tags" || node.slugSegment === "index") return false
-    // Mantiene il nodo 'archivio' come portale unico, ma esclude tutti i sotto-cluster A-Z e i 1.400+ file foglia
+    // Mantiene il nodo 'archivio' come portale unico, ma esclude i sotto-cluster A-Z e i 1.400+ file foglia
     // dalla sidebar sinistra, per garantire un albero di navigazione ultra-pulito, leggero e immediato.
     if (
       node.slug &&
@@ -47,18 +47,19 @@ const editorialExplorer = Component.Explorer({
       "05-identita-e-simboli": "05 · Simboli & Identità",
       "06-tifoseria-e-cultura": "06 · Tifoseria & Cultura",
       "07-media-e-comunicazione": "07 · Media & Informazione",
-      "08-settori-paralleli": "08 · Settori Paralleli",
+      "08-settori-paralleli": "08 · Vivaio & Women",
       "epoche": "Epoche Societarie",
       "presidenti": "Presidenti",
-      "dirigenti": "Dirigenti",
+      "dirigenti": "Dirigenti & DS",
       "vicende-legali": "Diritto & Giustizia",
-      "stagioni": "Stagioni (1929–2027)",
+      "stagioni": "Stagioni (1929–2026)",
       "partite-storiche": "Partite Storiche",
-      "allenatori": "Allenatori",
+      "precedenti": "Precedenti & Derby",
+      "allenatori": "Allenatori (1929–2026)",
       "calciatori": "Calciatori",
-      "rosa-attuale": "Rosa Attuale (2026–2027)",
-      "storici": "Calciatori Storici",
-      "archivio": "Archivio Tesserati (Filtri A–Z)",
+      "rosa-attuale": "Rosa Attuale",
+      "storici": "Leggende & Storici",
+      "archivio": "Archivio Calciatori (A–Z)",
       "a-c": "Lettere A–C",
       "d-f": "Lettere D–F",
       "g-l": "Lettere G–L",
@@ -71,20 +72,23 @@ const editorialExplorer = Component.Explorer({
       "maglie": "Maglie e Divise",
       "araldica-e-scudetti": "Araldica e Scudetti",
       "sponsor": "Sponsor Commerciali",
+      "settori": "Settori & Curve",
       "curve": "Curve Cibali",
       "curva-nord": "Curva Nord",
       "curva-sud": "Curva Sud",
+      "tribuna-b": "Tribuna B (Gradinata)",
       "eventi-e-giustizia": "Eventi & Giustizia",
       "biografie": "Biografie Ultras",
       "relazioni": "Gemellaggi e Rivalità",
       "gemellaggi": "Gemellaggi",
-      "rivalita": "Rivalità",
+      "amicizie": "Amicizie Storiche",
+      "rivalita": "Rivalità & Derby",
       "testate": "Testate Storiche",
       "firme-e-voci": "Firme & Giornalisti",
-      "letteratura": "Letteratura & Saggi Storici",
+      "letteratura": "Letteratura & Almanacchi",
+      "cinema-e-tv": "Cinema & Televisione",
       "giovanili": "Settore Giovanile",
       "women": "Catania Women",
-      "precedenti": "Precedenti",
     }
     if (node.isFolder) {
       const seg = node.slugSegment

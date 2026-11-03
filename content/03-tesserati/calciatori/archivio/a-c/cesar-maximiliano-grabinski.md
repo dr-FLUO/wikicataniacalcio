@@ -1,14 +1,14 @@
 ---
 title: Cesar Maximiliano Grabinski — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Cesar Maximiliano Grabinski,
-  attaccante del Calcio Catania con 2 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Cesar Maximiliano Grabinski, attaccante del Calcio Catania con
+  2 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/cesar-maximiliano-grabinski
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 57
-seasons_count: 3
+total_appearances: 2
+seasons_count: 1
 image: assets/images/calciatori/cesar-maximiliano-grabinski.jpg
 image_credits:
 - image_path: assets/images/calciatori/cesar-maximiliano-grabinski.jpg
@@ -32,8 +32,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Grabinski-183
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 183
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -43,12 +42,13 @@ aliases:
 - cesar-maximiliano-grabinski
 - tesserati/cesar-maximiliano-grabinski
 - calciatori/cesar-maximiliano-grabinski
-total_goals: 2
+total_goals: 0
 total_assists: 0
-minutes_played: 4786
+minutes_played: 45
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 398607
 ---
 # Cesar Maximiliano Grabinski — Scheda Giocatore nel Calcio Catania
 
@@ -64,9 +64,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1979</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,13 +76,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2006</td>
+        <td colspan="3">2000–2001</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>57</td>
+        <td>2</td>
         <th>Goal / Assist</th>
-        <td>2 / 0</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -109,15 +109,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Cesar Maximiliano Grabinski*, in [https://www.calciocatania.com/giocatori/giocatori.php?Grabinski-183](https://www.calciocatania.com/giocatori/giocatori.php?Grabinski-183), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Cesar Maximiliano Grabinski*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Grabinski-183), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Difensore centrale | 19 | 0 | 0 | 4 | 0 | 1710' |
-| 2004-2005 | Difensore centrale | 30 | 2 | 0 | 8 | 0 | 2461' |
-| 2005-2006 | Difensore centrale | 8 | 0 | 0 | 3 | 0 | 615' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 57 presenze e 2 reti complessive.*

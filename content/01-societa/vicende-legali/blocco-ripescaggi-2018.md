@@ -11,7 +11,7 @@ season_ref: '[[stagioni/2015-2016|Ciclo Serie C 2015-2020 (Estate 2018)]]'
 club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
 figc_matricola: '11700'
 protagonists:
-- '[[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco (Amministratore Delegato
+- '[[societa/presidenti/pietro-lo-monaco]] |Pietro Lo Monaco (Amministratore Delegato
   Calcio Catania S.p.A.)]]'
 - Roberto Fabbricini (Commissario Straordinario FIGC)
 - Mauro Balata (Presidente Lega Nazionale Professionisti B)

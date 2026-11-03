@@ -48,6 +48,7 @@ minutes_played: 4076
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 433150
 ---
 # Luca Lugnan
 
@@ -78,7 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1997–1998</td>
+        <td colspan="3">1997–1999</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -113,12 +114,12 @@ Schierato titolare sia da Giovanni Mei che successivamente da Franco Gagliardi, 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1996-1997** | Attacco | 23 | 4 | 0 | 0 | 0 | 1995' |
-| **1997-1998** | Attacco | 30 | 6 | 0 | 0 | 0 | 2081' |
+| **1997-1998** | Attacco | 23 | 4 | 0 | 0 | 0 | 1995' |
+| **1998-1999** | Attacco | 30 | 6 | 0 | 0 | 0 | 2081' |
 | **TOTALE** | — | **53** | **10** | **0** | **0** | **0** | **4076'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luca Lugnan** ha collezionato complessivamente **53 presenze ufficiali**, disputando **4076 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **53 presenze ufficiali**, disputando **4076 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia

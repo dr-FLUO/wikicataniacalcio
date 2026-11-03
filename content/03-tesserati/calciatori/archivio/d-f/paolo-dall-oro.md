@@ -41,6 +41,11 @@ aliases:
 - paolo-dall-oro
 - tesserati/paolo-dall-oro
 - calciatori/paolo-dall-oro
+- 03-tesserati/calciatori/archivio/p-r/paolo-dallaposoro
+- paolo-dallaposoro
+- tesserati/calciatori/paolo-dallaposoro
+- calciatori/paolo-dallaposoro
+- 03-tesserati/calciatori/archivio/p-r/paolo-dall-oro
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -48,6 +53,7 @@ minutes_played: 1694
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 454852
 ---
 # Paolo Dall'Oro — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1981</td>
+        <td colspan="3">1976–1977</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,8 +106,8 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1980-1981, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Difesa | 22 | 0 | 0 | 0 | 0 | 1694' |
+| **1976-1977** | Difesa | 22 | 0 | 0 | 0 | 0 | 1694' |
 | **TOTALE** | — | **22** | **0** | **0** | **0** | **0** | **1694'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Paolo Dall'Oro** ha collezionato complessivamente **22 presenze ufficiali**, disputando **1694 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1694 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

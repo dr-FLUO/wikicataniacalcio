@@ -1,13 +1,13 @@
 ---
 title: Nana Addo Welbeck Maseko — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nana Addo Welbeck Maseko,
-  centrocampista del Calcio Catania con 78 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Nana Addo Welbeck Maseko, centrocampista del Calcio Catania con
+  78 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/nana-addo-welbeck-maseko
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 78
+total_appearances: 80
 seasons_count: 3
 tags:
 - calciatori
@@ -38,8 +38,7 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/938_nana-addo-welbeck-maseko.jpg
-  alt_text: Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra
-    del Calcio Catania
+  alt_text: Ritratto del calciatore Nana Addo Welbeck Maseko in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -51,6 +50,10 @@ aliases:
 locked: true
 locked_date: '2026-10-30'
 locked_by: certificazione_archivio_storico_ufficiale
+tm_id: 168346
+total_goals: 2
+total_assists: 2
+minutes_played: 5438
 ---
 # Nana Addo Welbeck Maseko — Scheda Giocatore nel Calcio Catania
 
@@ -109,7 +112,19 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2019-2020** | Mediano | 19 | 1 | 1 | 5 | 0 | 1117' |
+| **2020-2021** | Mediano | 35 | 1 | 0 | 5 | 0 | 2484' |
+| **2023-2024** | Mediano | 26 | 0 | 1 | 4 | 1 | 1837' |
+| **TOTALE** | — | **80** | **2** | **2** | **14** | **1** | **5438'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Nana Welbeck** ha collezionato complessivamente **80 presenze ufficiali**, disputando **5438 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nana Addo Welbeck Maseko*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Welbeck-Maseko-938](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Welbeck-Maseko-938), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Nana Addo Welbeck Maseko*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Welbeck-Maseko-938), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

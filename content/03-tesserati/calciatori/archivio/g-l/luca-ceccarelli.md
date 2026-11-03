@@ -63,6 +63,7 @@ minutes_played: 1792
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 39675
 ---
 # Luca Ceccarelli — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2013–2015</td>
+        <td colspan="3">2014–2016</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,12 +111,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2013-2014** | Difensore centrale | 19 | 0 | 0 | 2 | 0 | 1702' |
-| **2014-2015** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 90' |
+| **2014-2015** | Difensore centrale | 19 | 0 | 0 | 2 | 0 | 1702' |
+| **2015-2016** | Difensore centrale | 1 | 0 | 0 | 0 | 0 | 90' |
 | **TOTALE** | — | **20** | **0** | **0** | **2** | **0** | **1792'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luca Ceccarelli** ha collezionato complessivamente **20 presenze ufficiali**, disputando **1792 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **20 presenze ufficiali**, disputando **1792 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luca Ceccarelli](https://it.wikipedia.org/wiki/Luca_Ceccarelli_(20_marzo_1983))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Ceccarelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ceccarelli-859](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ceccarelli-859), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Ceccarelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ceccarelli-859)/giocatori/giocatori.php?Ceccarelli-859), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

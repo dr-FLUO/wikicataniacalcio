@@ -14,7 +14,7 @@ legal_form: Progetto Tecnico e Identitario — Calcio Catania S.p.A.
 figc_matricola: '11700'
 presidents_refs:
 - '[[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti (Presidente)]]'
-- '[[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco (Amministratore Delegato
+- '[[societa/presidenti/pietro-lo-monaco]] |Pietro Lo Monaco (Amministratore Delegato
   2004-2012)]]'
 - '[[societa/presidenti/sergio-gasparin|Sergio Gasparin (Direttore Generale 2012-2013)]]'
 coaches_refs:

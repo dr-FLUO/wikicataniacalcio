@@ -53,6 +53,7 @@ minutes_played: 15345
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 389984
 ---
 # Alvaro Biagini — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1958–1965</td>
+        <td colspan="3">1959–1966</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,17 +102,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1958-1959** | Centrocampo | 33 | 9 | 0 | 0 | 0 | 2970' |
-| **1959-1960** | Centrocampo | 31 | 1 | 0 | 0 | 0 | 2790' |
-| **1960-1961** | Centrocampo | 24 | 1 | 0 | 0 | 0 | 2160' |
-| **1961-1962** | Centrocampo | 8 | 0 | 0 | 0 | 0 | 720' |
-| **1962-1963** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 2430' |
-| **1963-1964** | Centrocampo | 29 | 2 | 0 | 0 | 0 | 2610' |
-| **1964-1965** | Centrocampo | 19 | 0 | 0 | 0 | 0 | 1665' |
+| **1959-1960** | Centrocampo | 33 | 9 | 0 | 0 | 0 | 2970' |
+| **1960-1961** | Centrocampo | 31 | 1 | 0 | 0 | 0 | 2790' |
+| **1961-1962** | Centrocampo | 24 | 1 | 0 | 0 | 0 | 2160' |
+| **1962-1963** | Centrocampo | 8 | 0 | 0 | 0 | 0 | 720' |
+| **1963-1964** | Centrocampo | 27 | 0 | 0 | 0 | 0 | 2430' |
+| **1964-1965** | Centrocampo | 29 | 2 | 0 | 0 | 0 | 2610' |
+| **1965-1966** | Centrocampo | 19 | 0 | 0 | 0 | 0 | 1665' |
 | **TOTALE** | — | **171** | **13** | **0** | **0** | **0** | **15345'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alvaro Biagini** ha collezionato complessivamente **171 presenze ufficiali**, disputando **15345 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **171 presenze ufficiali**, disputando **15345 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -132,5 +133,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alvaro Biagini](https://it.wikipedia.org/wiki/Alvaro_Biagini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alvaro Biagini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biagini-627](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Biagini-627), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alvaro Biagini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Biagini-627)/giocatori/giocatori.php?Biagini-627), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

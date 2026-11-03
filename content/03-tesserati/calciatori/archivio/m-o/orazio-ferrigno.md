@@ -43,19 +43,14 @@ minutes_played: 990
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 497918
 ---
 # Orazio Ferrigno — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/668_orazio-ferrigno.jpg" alt="Orazio Ferrigno" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1940</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1960–1961</td>
+        <td colspan="3">1961–1962</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,11 +92,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1960-1961** | Attacco | 11 | 6 | 0 | 0 | 0 | 990' |
+| **1961-1962** | Attacco | 11 | 6 | 0 | 0 | 0 | 990' |
 | **TOTALE** | — | **11** | **6** | **0** | **0** | **0** | **990'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Orazio Ferrigno** ha collezionato complessivamente **11 presenze ufficiali**, disputando **990 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **990 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +116,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Orazio Ferrigno*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ferrigno-668](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ferrigno-668), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Orazio Ferrigno*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ferrigno-668), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

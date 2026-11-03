@@ -53,6 +53,7 @@ minutes_played: 6266
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 92880
 ---
 # Andrea Mazzarani — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1990</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2015–2019</td>
+        <td colspan="3">2016–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2015-2016** | Trequartista | 29 | 9 | 1 | 4 | 0 | 2181' |
-| **2016-2017** | Trequartista | 37 | 8 | 5 | 3 | 0 | 2321' |
-| **2018-2019** | Trequartista | 33 | 7 | 0 | 5 | 0 | 1764' |
+| **2016-2017** | Trequartista | 29 | 9 | 1 | 4 | 0 | 2181' |
+| **2017-2018** | Trequartista | 37 | 8 | 5 | 3 | 0 | 2321' |
+| **2019-2020** | Trequartista | 33 | 7 | 0 | 5 | 0 | 1764' |
 | **TOTALE** | — | **99** | **24** | **6** | **12** | **0** | **6266'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Mazzarani** ha collezionato complessivamente **99 presenze ufficiali**, disputando **6266 minuti** di gioco effettivo, siglando **24 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **99 presenze ufficiali**, disputando **6266 minuti** di gioco effettivo, siglando **24 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Mazzarani*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mazzarani-904](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Mazzarani-904), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Mazzarani*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Mazzarani-904), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

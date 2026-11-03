@@ -45,6 +45,7 @@ minutes_played: 3374
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 338046
 ---
 # Marcello Gamberini — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1980–1982</td>
+        <td colspan="3">1981–1983</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1980-1981** | Centrocampo | 24 | 1 | 0 | 0 | 0 | 1769' |
-| **1981-1982** | Centrocampo | 23 | 0 | 0 | 0 | 0 | 1605' |
+| **1981-1982** | Centrocampo | 24 | 1 | 0 | 0 | 0 | 1769' |
+| **1982-1983** | Centrocampo | 23 | 0 | 0 | 0 | 0 | 1605' |
 | **TOTALE** | — | **47** | **1** | **0** | **0** | **0** | **3374'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marcello Gamberini** ha collezionato complessivamente **47 presenze ufficiali**, disputando **3374 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **47 presenze ufficiali**, disputando **3374 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Marcello Gamberini](https://it.wikipedia.org/wiki/Marcello_Gamberini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marcello Gamberini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gamberini-483](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Gamberini-483), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marcello Gamberini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gamberini-483)/giocatori/giocatori.php?Gamberini-483), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

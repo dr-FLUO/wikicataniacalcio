@@ -51,6 +51,12 @@ aliases:
 - pedrinho
 - tesserati/pedrinho
 - calciatori/pedrinho
+- tesserati/calciatori/luis-vincencote-pedrinho
+- luis-vincencote-pedrinho
+- tesserati/luis-vincencote-pedrinho
+- calciatori/luis-vincencote-pedrinho
+- 03-tesserati/calciatori/archivio/g-l/luis-vincencote-pedrinho
+- Luis Vincencote Pedrinho
 citizenship: Brasile
 total_assists: 0
 minutes_played: 8377
@@ -58,6 +64,8 @@ seasons_count: 3
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/460_luis-vincencote-pedrinho.jpg
+tm_id: 135383
 ---
 # Pedrinho
 
@@ -88,7 +96,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1983–1985</td>
+        <td colspan="3">1983–1986</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -123,13 +131,13 @@ Dopo la retrocessione del 1984, Pedrinho decise di rimanere a Catania in Serie B
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1982-1983** | Terzino sinistro | 32 | 3 | 0 | 0 | 0 | 2852' |
-| **1983-1984** | Terzino sinistro | 40 | 8 | 0 | 0 | 1 | 3508' |
-| **1984-1985** | Terzino sinistro | 30 | 1 | 0 | 0 | 0 | 2017' |
+| **1983-1984** | Terzino sinistro | 32 | 3 | 0 | 0 | 0 | 2852' |
+| **1984-1985** | Terzino sinistro | 40 | 8 | 0 | 0 | 1 | 3508' |
+| **1985-1986** | Terzino sinistro | 30 | 1 | 0 | 0 | 0 | 2017' |
 | **TOTALE** | — | **102** | **12** | **0** | **0** | **1** | **8377'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pedrinho** ha collezionato complessivamente **102 presenze ufficiali**, disputando **8377 minuti** di gioco effettivo, siglando **12 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **102 presenze ufficiali**, disputando **8377 minuti** di gioco effettivo, siglando **12 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -137,4 +145,4 @@ Dopo la retrocessione del 1984, Pedrinho decise di rimanere a Catania in Serie B
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 320-330 (Stagioni 1983-1984 e 1984-1985).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Luis Vincencote Pedrinho*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pedrinho-460).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Luis Vincencote Pedrinho*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pedrinho-460).

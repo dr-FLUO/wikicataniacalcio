@@ -63,6 +63,7 @@ minutes_played: 1670
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 44116
 ---
 # Gianvito Plasmati — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2005–2015</td>
+        <td colspan="3">2006–2016</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,16 +111,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 1' |
-| **2006-2007** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2007-2008** | Punta centrale | 15 | 2 | 0 | 1 | 0 | 637' |
-| **2008-2009** | Punta centrale | 16 | 2 | 3 | 0 | 0 | 456' |
-| **2009-2010** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2014-2015** | Punta centrale | 16 | 3 | 0 | 1 | 0 | 576' |
+| **2006-2007** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 1' |
+| **2007-2008** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2008-2009** | Punta centrale | 15 | 2 | 0 | 1 | 0 | 637' |
+| **2009-2010** | Punta centrale | 16 | 2 | 3 | 0 | 0 | 456' |
+| **2010-2011** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2015-2016** | Punta centrale | 16 | 3 | 0 | 1 | 0 | 576' |
 | **TOTALE** | — | **48** | **7** | **3** | **2** | **0** | **1670'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gianvito Plasmati** ha collezionato complessivamente **48 presenze ufficiali**, disputando **1670 minuti** di gioco effettivo, siglando **7 gol** e servendo **3 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **48 presenze ufficiali**, disputando **1670 minuti** di gioco effettivo, siglando **7 gol** e servendo **3 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -140,5 +141,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Gianvito Plasmati](https://it.wikipedia.org/wiki/Gianvito_Plasmati)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gianvito Plasmati*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Plasmati-56](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Plasmati-56), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gianvito Plasmati*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Plasmati-56)/giocatori/giocatori.php?Plasmati-56), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

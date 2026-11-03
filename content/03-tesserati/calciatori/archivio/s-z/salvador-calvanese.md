@@ -66,6 +66,7 @@ seasons_count: 6
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 488215
 ---
 # Salvador Calvanese
 
@@ -96,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1960–1962, 1964–1967</td>
+        <td colspan="3">1960–1967</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -132,16 +133,16 @@ Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stag
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1959-1960** | Punta centrale | 32 | 9 | 0 | 0 | 1 | 2790' |
-| **1960-1961** | Punta centrale | 25 | 3 | 0 | 0 | 0 | 2250' |
-| **1961-1962** | Punta centrale | 3 | 3 | 0 | 1 | 0 | 270' |
-| **1963-1964** | Punta centrale | 31 | 8 | 0 | 0 | 0 | 2790' |
-| **1964-1965** | Punta centrale | 18 | 1 | 0 | 0 | 0 | 1620' |
-| **1965-1966** | Punta centrale | 16 | 3 | 0 | 0 | 0 | 1440' |
+| **1960-1961** | Punta centrale | 32 | 9 | 0 | 0 | 1 | 2790' |
+| **1961-1962** | Punta centrale | 25 | 3 | 0 | 0 | 0 | 2250' |
+| **1962-1963** | Punta centrale | 3 | 3 | 0 | 1 | 0 | 270' |
+| **1964-1965** | Punta centrale | 31 | 8 | 0 | 0 | 0 | 2790' |
+| **1965-1966** | Punta centrale | 18 | 1 | 0 | 0 | 0 | 1620' |
+| **1966-1967** | Punta centrale | 16 | 3 | 0 | 0 | 0 | 1440' |
 | **TOTALE** | — | **125** | **27** | **0** | **1** | **1** | **11160'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Salvador Calvanese** ha collezionato complessivamente **125 presenze ufficiali**, disputando **11160 minuti** di gioco effettivo, siglando **27 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **125 presenze ufficiali**, disputando **11160 minuti** di gioco effettivo, siglando **27 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -150,4 +151,4 @@ Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stag
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 188-235 (Stagioni 1960-1962 e 1964-1967).
 2. **La Sicilia**, *Addio a 'Todo' Calvanese, l'eroe del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]*, La Sicilia - Catania, 2019, Necrologio e rievocazione storica 6 novembre 2019.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Salvador Calvanese*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Calvanese-616).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Salvador Calvanese*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Calvanese-616).

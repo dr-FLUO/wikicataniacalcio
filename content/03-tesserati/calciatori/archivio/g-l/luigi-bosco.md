@@ -72,7 +72,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1954–1955</td>
+        <td colspan="3">1947–1948</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -91,11 +91,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Nato a Montechiaro d'Asti (1922-03-20), Luigi Bosco ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1954-1955 | Portiere | 3 | 0 | 0 | 0 | 0 | 270' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 3 presenze e 0 reti complessive.*

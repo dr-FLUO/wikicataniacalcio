@@ -49,10 +49,15 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/maks-barišič
-- maks-barišič
-- tesserati/maks-barišič
+- 03-tesserati/calciatori/archivio/m-o/maks-bari-i
+- 03-tesserati/calciatori/maks-bari-i
+- calciatori/maks-bari-i
 - calciatori/maks-barišič
+- maks-bari-i
+- tesserati/calciatori/maks-bari-i
+- tesserati/calciatori/maks-barišič
+- tesserati/maks-bari-i
+- tesserati/maks-barišič
 birth_date: '1995-03-06'
 birth_place: Capodistria
 citizenship: Slovenia
@@ -62,6 +67,7 @@ minutes_played: 4341
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 183845
 ---
 # Maks Barišič — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +95,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2011–2019</td>
+        <td colspan="3">2012–2020</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,18 +115,18 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2011-2012** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
 | **2012-2013** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2013-2014** | Ala destra | 6 | 0 | 0 | 1 | 0 | 82' |
-| **2014-2015** | Ala destra | 5 | 0 | 0 | 0 | 0 | 144' |
-| **2015-2016** | Ala destra | 29 | 4 | 1 | 1 | 0 | 892' |
-| **2016-2017** | Ala destra | 19 | 6 | 2 | 2 | 0 | 1150' |
-| **2017-2018** | Ala destra | 16 | 0 | 1 | 1 | 0 | 1001' |
-| **2018-2019** | Ala destra | 22 | 0 | 3 | 1 | 0 | 1072' |
+| **2013-2014** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2014-2015** | Ala destra | 6 | 0 | 0 | 1 | 0 | 82' |
+| **2015-2016** | Ala destra | 5 | 0 | 0 | 0 | 0 | 144' |
+| **2016-2017** | Ala destra | 29 | 4 | 1 | 1 | 0 | 892' |
+| **2017-2018** | Ala destra | 19 | 6 | 2 | 2 | 0 | 1150' |
+| **2018-2019** | Ala destra | 16 | 0 | 1 | 1 | 0 | 1001' |
+| **2019-2020** | Ala destra | 22 | 0 | 3 | 1 | 0 | 1072' |
 | **TOTALE** | — | **97** | **10** | **7** | **6** | **0** | **4341'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Maks Barisic** ha collezionato complessivamente **97 presenze ufficiali**, disputando **4341 minuti** di gioco effettivo, siglando **10 gol** e servendo **7 assist** distribuiti su **8 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **97 presenze ufficiali**, disputando **4341 minuti** di gioco effettivo, siglando **10 gol** e servendo **7 assist** distribuiti su **8 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -141,5 +147,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Maks Barišič](https://it.wikipedia.org/wiki/Maks_Bari%C5%A1i%C4%8D)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maks Barišič*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bari-scaron-i-841](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bari-scaron-i-841), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maks Barišič*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bari-scaron-i-841)/giocatori/giocatori.php?Bari-scaron-i-841), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

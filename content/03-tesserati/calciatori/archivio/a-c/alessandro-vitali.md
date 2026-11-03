@@ -56,6 +56,7 @@ minutes_played: 2910
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 475862
 ---
 # Alessandro Vitali
 
@@ -76,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1945</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -121,11 +122,11 @@ Tra i suoi gol memorabili in maglia etnea si ricordano le marcature pesanti cont
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1966-1967** | Ala sinistra | 32 | 10 | 0 | 0 | 0 | 2910' |
+| **1967-1968** | Ala sinistra | 32 | 10 | 0 | 0 | 0 | 2910' |
 | **TOTALE** | — | **32** | **10** | **0** | **0** | **0** | **2910'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Vitali** ha collezionato complessivamente **32 presenze ufficiali**, disputando **2910 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **2910 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -133,4 +134,4 @@ Tra i suoi gol memorabili in maglia etnea si ricordano le marcature pesanti cont
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 234-239 (Stagione 1967-1968).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alessandro Vitali*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Vitali-614).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Alessandro Vitali*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Vitali-614).

@@ -39,10 +39,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/wellington-teixeira-dos-montes
-- wellington-teixeira-dos-montes
-- tesserati/wellington-teixeira-dos-montes
+- 03-tesserati/calciatori/archivio/s-z/teixeira-dos-montes-wellington
+- 03-tesserati/calciatori/teixeira-dos-montes-wellington
+- calciatori/teixeira-dos-montes-wellington
 - calciatori/wellington-teixeira-dos-montes
+- teixeira-dos-montes-wellington
+- tesserati/calciatori/teixeira-dos-montes-wellington
+- tesserati/calciatori/wellington-teixeira-dos-montes
+- tesserati/teixeira-dos-montes-wellington
+- tesserati/wellington-teixeira-dos-montes
 citizenship: Brasile
 locked: true
 locked_date: '2026-10-30'
@@ -93,4 +98,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Nato a Santa Catarina (1988-06-21), Wellington Teixeira dos Montes ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-

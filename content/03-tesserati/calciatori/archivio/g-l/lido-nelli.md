@@ -11,8 +11,8 @@ birth_date: '1915-04-11'
 birth_place: Lucca
 death_date: ''
 nationality: Italia
-total_appearances: 120
-seasons_count: 4
+total_appearances: 14
+seasons_count: 1
 tags:
 - calciatori
 - lido-nelli
@@ -36,9 +36,9 @@ aliases:
 - tesserati/lido-nelli
 - calciatori/lido-nelli
 citizenship: Italia
-total_goals: 0
+total_goals: 1
 total_assists: 0
-minutes_played: 10830
+minutes_played: 1260
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -72,13 +72,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2007</td>
+        <td colspan="3">1941–1942</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>120</td>
+        <td>14</td>
         <th>Goal / Assist</th>
-        <td>0 / 0</td>
+        <td>1 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -91,14 +91,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Nato a Lucca (1915-04-11), Lido Nelli ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Portiere | 41 | 0 | 0 | 7 | 0 | 3690' |
-| 2004-2005 | Portiere | 42 | 0 | 0 | 7 | 0 | 3810' |
-| 2005-2006 | Portiere | 37 | 0 | 0 | 4 | 0 | 3330' |
-| 2006-2007 | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 120 presenze e 0 reti complessive.*

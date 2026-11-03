@@ -47,10 +47,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/david-suazo
-- david-suazo
-- tesserati/david-suazo
+- 03-tesserati/calciatori/archivio/d-f/david-oscar-velazquez-suazo
+- 03-tesserati/calciatori/david-oscar-velazquez-suazo
+- calciatori/david-oscar-velazquez-suazo
 - calciatori/david-suazo
+- david-oscar-velazquez-suazo
+- tesserati/calciatori/david-oscar-velazquez-suazo
+- tesserati/calciatori/david-suazo
+- tesserati/david-oscar-velazquez-suazo
+- tesserati/david-suazo
 citizenship: Honduras
 total_goals: 0
 total_assists: 0
@@ -58,6 +63,7 @@ minutes_played: 99
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 20749
 ---
 # David Suazo — Scheda Giocatore nel Calcio Catania
 
@@ -85,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2011</td>
+        <td colspan="3">2011–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,8 +115,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 99' |
+| **2011-2012** | Punta centrale | 6 | 0 | 0 | 0 | 0 | 99' |
 | **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **99'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **David Suazo** ha collezionato complessivamente **6 presenze ufficiali**, disputando **99 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **99 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

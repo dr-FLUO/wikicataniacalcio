@@ -1,7 +1,7 @@
 ---
 title: dos Santos Machado Claiton — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di dos Santos Machado Claiton,
-  difensore del Calcio Catania con 36 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di dos Santos Machado Claiton, difensore del Calcio Catania con 36
+  presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/dos-santos-machado-claiton
 entity_type: calciatore
 status: verified
@@ -32,8 +32,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Claiton-950
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 950
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -49,6 +48,7 @@ minutes_played: 1885
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 139169
 ---
 # dos Santos Machado Claiton — Scheda Giocatore nel Calcio Catania
 
@@ -64,9 +64,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1985</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -76,7 +76,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2019–2021</td>
+        <td colspan="3">2020–2022</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,14 +109,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di dos Santos Machado Claiton*, in [https://www.calciocatania.com/giocatori/giocatori.php?Claiton-950](https://www.calciocatania.com/giocatori/giocatori.php?Claiton-950), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di dos Santos Machado Claiton*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Claiton-950), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2019-2020 | Difensore centrale | 22 | 1 | 0 | 4 | 0 | 1885' |
-| 2020-2021 | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2020-2021** | Difensore centrale | 22 | 1 | 0 | 4 | 0 | 1885' |
+| **2021-2022** | Difensore centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **TOTALE** | — | **22** | **1** | **0** | **4** | **0** | **1885'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 22 presenze e 1 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1885 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

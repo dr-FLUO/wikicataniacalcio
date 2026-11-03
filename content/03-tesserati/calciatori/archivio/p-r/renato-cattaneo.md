@@ -52,17 +52,14 @@ minutes_played: 5490
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 471823
 ---
 # Renato Cattaneo — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/717_renato-cattaneo.jpg" alt="Renato Cattaneo" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1952–1955</td>
+        <td colspan="3">1953–1956</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1952-1953** | Attacco | 24 | 5 | 0 | 0 | 0 | 2160' |
-| **1953-1954** | Attacco | 23 | 5 | 0 | 0 | 0 | 2070' |
-| **1954-1955** | Attacco | 14 | 3 | 0 | 0 | 0 | 1260' |
+| **1953-1954** | Attacco | 24 | 5 | 0 | 0 | 0 | 2160' |
+| **1954-1955** | Attacco | 23 | 5 | 0 | 0 | 0 | 2070' |
+| **1955-1956** | Attacco | 14 | 3 | 0 | 0 | 0 | 1260' |
 | **TOTALE** | — | **61** | **13** | **0** | **0** | **0** | **5490'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Renato Cattaneo** ha collezionato complessivamente **61 presenze ufficiali**, disputando **5490 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **61 presenze ufficiali**, disputando **5490 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Renato Cattaneo](https://it.wikipedia.org/wiki/Renato_Cattaneo_(calciatore_1923))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Cattaneo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cattaneo-717](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cattaneo-717), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Cattaneo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cattaneo-717)/giocatori/giocatori.php?Cattaneo-717), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

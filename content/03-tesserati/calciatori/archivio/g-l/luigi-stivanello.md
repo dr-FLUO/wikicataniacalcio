@@ -41,6 +41,7 @@ minutes_played: 210
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 658686
 ---
 # Luigi Stivanello — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1935–1937</td>
+        <td colspan="3">1936–1938</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +96,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1935-1936** | Difesa | 1 | 0 | 0 | 0 | 0 | 120' |
-| **1936-1937** | Difesa | 1 | 0 | 0 | 0 | 0 | 90' |
+| **1936-1937** | Difesa | 1 | 0 | 0 | 0 | 0 | 120' |
+| **1937-1938** | Difesa | 1 | 0 | 0 | 0 | 0 | 90' |
 | **TOTALE** | — | **2** | **0** | **0** | **0** | **0** | **210'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luigi Stivanello** ha collezionato complessivamente **2 presenze ufficiali**, disputando **210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

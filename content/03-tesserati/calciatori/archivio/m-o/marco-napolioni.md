@@ -43,19 +43,14 @@ minutes_played: 5953
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 336892
 ---
 # Marco Napolioni — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/188_marco-napolioni.jpg" alt="Marco Napolioni" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1975</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1998–2001</td>
+        <td colspan="3">1999–2002</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,13 +92,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1998-1999** | Centrocampista | 29 | 1 | 0 | 7 | 1 | 2514' |
-| **1999-2000** | Centrocampista | 20 | 0 | 1 | 4 | 1 | 1473' |
-| **2000-2001** | Centrocampista | 26 | 0 | 0 | 9 | 0 | 1966' |
+| **1999-2000** | Centrocampista | 29 | 1 | 0 | 7 | 1 | 2514' |
+| **2000-2001** | Centrocampista | 20 | 0 | 1 | 4 | 1 | 1473' |
+| **2001-2002** | Centrocampista | 26 | 0 | 0 | 9 | 0 | 1966' |
 | **TOTALE** | — | **75** | **1** | **1** | **20** | **2** | **5953'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marco Napolioni** ha collezionato complessivamente **75 presenze ufficiali**, disputando **5953 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **75 presenze ufficiali**, disputando **5953 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -123,5 +118,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Napolioni*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Napolioni-188](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Napolioni-188), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Napolioni*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Napolioni-188), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

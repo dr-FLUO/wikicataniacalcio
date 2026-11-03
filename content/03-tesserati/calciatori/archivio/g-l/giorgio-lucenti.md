@@ -62,6 +62,7 @@ minutes_played: 2894
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 21792
 ---
 # Giorgio Lucenti — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2006</td>
+        <td colspan="3">2005–2007</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,12 +110,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Terzino destro | 31 | 1 | 0 | 3 | 0 | 1414' |
-| **2005-2006** | Terzino destro | 24 | 0 | 3 | 4 | 0 | 1480' |
+| **2005-2006** | Terzino destro | 31 | 1 | 0 | 3 | 0 | 1414' |
+| **2006-2007** | Terzino destro | 24 | 0 | 3 | 4 | 0 | 1480' |
 | **TOTALE** | — | **55** | **1** | **3** | **7** | **0** | **2894'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giorgio Lucenti** ha collezionato complessivamente **55 presenze ufficiali**, disputando **2894 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **2894 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giorgio Lucenti](https://it.wikipedia.org/wiki/Giorgio_Lucenti)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Lucenti*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Lucenti-50](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Lucenti-50), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Lucenti*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Lucenti-50)/giocatori/giocatori.php?Lucenti-50), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -53,6 +53,7 @@ minutes_played: 4933
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 724437
 ---
 # Kaleb Jimenez — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2002</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2023–2026</td>
+        <td colspan="3">2024–2027</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Centrocampista | 34 | 6 | 8 | 4 | 0 | 2359' |
-| **2024-2025** | Centrocampista | 39 | 5 | 3 | 7 | 0 | 2259' |
-| **2025-2026** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 315' |
+| **2024-2025** | Centrocampista | 34 | 6 | 8 | 4 | 0 | 2359' |
+| **2025-2026** | Centrocampista | 39 | 5 | 3 | 7 | 0 | 2259' |
+| **2026-2027** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 315' |
 | **TOTALE** | — | **77** | **11** | **11** | **11** | **0** | **4933'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Kaleb Jiménez** ha collezionato complessivamente **77 presenze ufficiali**, disputando **4933 minuti** di gioco effettivo, siglando **11 gol** e servendo **11 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **77 presenze ufficiali**, disputando **4933 minuti** di gioco effettivo, siglando **11 gol** e servendo **11 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kaleb Jimenez*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Jimenez-1069](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Jimenez-1069), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Kaleb Jimenez*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Jimenez-1069), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

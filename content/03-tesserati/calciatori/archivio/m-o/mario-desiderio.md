@@ -30,10 +30,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/mario-desiderio
-- mario-desiderio
-- tesserati/mario-desiderio
+- 03-tesserati/calciatori/archivio/d-f/desiderio-oscar-mario-camusso
+- 03-tesserati/calciatori/desiderio-oscar-mario-camusso
+- calciatori/desiderio-oscar-mario-camusso
 - calciatori/mario-desiderio
+- desiderio-oscar-mario-camusso
+- tesserati/calciatori/desiderio-oscar-mario-camusso
+- tesserati/calciatori/mario-desiderio
+- tesserati/desiderio-oscar-mario-camusso
+- tesserati/mario-desiderio
 citizenship: Argentina
 total_goals: 1
 total_assists: 0
@@ -41,6 +46,7 @@ minutes_played: 990
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480128
 ---
 # Mario Desiderio — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1959–1961</td>
+        <td colspan="3">1960–1962</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +101,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1959-1960** | Attacco | 7 | 0 | 0 | 0 | 0 | 630' |
-| **1960-1961** | Attacco | 4 | 1 | 0 | 0 | 0 | 360' |
+| **1960-1961** | Attacco | 7 | 0 | 0 | 0 | 0 | 630' |
+| **1961-1962** | Attacco | 4 | 1 | 0 | 0 | 0 | 360' |
 | **TOTALE** | — | **11** | **1** | **0** | **0** | **0** | **990'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mario Desiderio** ha collezionato complessivamente **11 presenze ufficiali**, disputando **990 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **990 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

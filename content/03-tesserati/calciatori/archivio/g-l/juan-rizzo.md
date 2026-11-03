@@ -11,8 +11,8 @@ birth_date: '1906-07-06'
 birth_place: Buenos Aires
 death_date: ''
 nationality: Argentina
-total_appearances: 114
-seasons_count: 6
+total_appearances: 13
+seasons_count: 1
 tags:
 - calciatori
 - juan-rizzo
@@ -36,9 +36,9 @@ aliases:
 - tesserati/juan-rizzo
 - calciatori/juan-rizzo
 citizenship: Argentina
-total_goals: 5
-total_assists: 8
-minutes_played: 7824
+total_goals: 1
+total_assists: 0
+minutes_played: 1170
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -72,13 +72,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1936–2023</td>
+        <td colspan="3">1937–1938</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>114</td>
+        <td>13</td>
         <th>Goal / Assist</th>
-        <td>5 / 8</td>
+        <td>1 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -96,11 +96,7 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1936-1937 | Centrocampo | 1 | 1 | 0 | 0 | 0 | 90' |
-| 2016-2017 | Centrocampista | 20 | 1 | 3 | 2 | 0 | 1003' |
-| 2017-2018 | Centrocampista | 28 | 0 | 2 | 9 | 0 | 1888' |
-| 2018-2019 | Centrocampista | 25 | 0 | 0 | 5 | 2 | 1577' |
-| 2021-2022 | Centrocampista | 34 | 3 | 2 | 6 | 0 | 2969' |
-| 2022-2023 | Centrocampista | 6 | 0 | 1 | 1 | 0 | 297' |
+| **1937-1938** | Centrocampista | 13 | 1 | 0 | 0 | 0 | 1170' |
+| **TOTALE** | — | **13** | **1** | **0** | **0** | **0** | **1170'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 114 presenze e 5 reti complessive.*
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 13 presenze e 1 reti complessive.*

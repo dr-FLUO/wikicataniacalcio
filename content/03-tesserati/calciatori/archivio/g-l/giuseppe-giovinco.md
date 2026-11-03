@@ -53,6 +53,7 @@ minutes_played: 690
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 73381
 ---
 # Giuseppe Giovinco — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1991</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2021–2022</td>
+        <td colspan="3">2022–2023</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,11 +101,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2021-2022** | Seconda punta | 21 | 3 | 1 | 3 | 0 | 690' |
+| **2022-2023** | Seconda punta | 21 | 3 | 1 | 3 | 0 | 690' |
 | **TOTALE** | — | **21** | **3** | **1** | **3** | **0** | **690'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Giovinco** ha collezionato complessivamente **21 presenze ufficiali**, disputando **690 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **690 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -124,5 +125,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Giovinco*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Giovinco-939](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Giovinco-939), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Giovinco*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Giovinco-939), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

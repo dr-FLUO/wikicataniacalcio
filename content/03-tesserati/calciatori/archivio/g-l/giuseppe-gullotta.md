@@ -43,19 +43,14 @@ minutes_played: 404
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 357919
 ---
 # Giuseppe Gullotta — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/448_giuseppe-gullotta.jpg" alt="Giuseppe Gullotta" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -65,9 +60,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1966</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -77,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1982–1986</td>
+        <td colspan="3">1983–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -97,14 +92,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1982-1983** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 1' |
-| **1983-1984** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 212' |
-| **1984-1985** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 90' |
-| **1985-1986** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 101' |
+| **1983-1984** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 1' |
+| **1984-1985** | Centrocampo | 3 | 0 | 0 | 0 | 0 | 212' |
+| **1985-1986** | Centrocampo | 1 | 0 | 0 | 0 | 0 | 90' |
+| **1986-1987** | Centrocampo | 2 | 0 | 0 | 0 | 0 | 101' |
 | **TOTALE** | — | **7** | **0** | **0** | **0** | **0** | **404'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giuseppe Gullotta** ha collezionato complessivamente **7 presenze ufficiali**, disputando **404 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **404 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -124,5 +119,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Gullotta*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gullotta-448](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Gullotta-448), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giuseppe Gullotta*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Gullotta-448), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

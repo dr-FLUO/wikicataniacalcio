@@ -31,11 +31,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Francesco Caracciolo
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Caracciolo-459
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 459
 aliases:
 - tesserati/calciatori/fabrizio-caracciolo
 - fabrizio-caracciolo
 - tesserati/fabrizio-caracciolo
 - calciatori/fabrizio-caracciolo
+- tesserati/calciatori/francesco-caracciolo
+- francesco-caracciolo
+- tesserati/francesco-caracciolo
+- calciatori/francesco-caracciolo
+- 03-tesserati/calciatori/archivio/d-f/francesco-caracciolo
+- Francesco Caracciolo
 birth_date: '1974-03-09'
 birth_place: Lecce
 citizenship: Italia
@@ -45,6 +57,7 @@ minutes_played: 1152
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 549835
 ---
 # Fabrizio Caracciolo — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +88,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2002</td>
+        <td colspan="3">2000–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +108,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Mediano | 17 | 1 | 0 | 5 | 0 | 1024' |
-| **2001-2002** | Mediano | 2 | 0 | 0 | 0 | 0 | 128' |
+| **2000-2001** | Mediano | 17 | 1 | 0 | 5 | 0 | 1024' |
+| **2002-2003** | Mediano | 2 | 0 | 0 | 0 | 0 | 128' |
 | **TOTALE** | — | **19** | **1** | **0** | **5** | **0** | **1152'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabrizio Caracciolo** ha collezionato complessivamente **19 presenze ufficiali**, disputando **1152 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1152 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +134,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fabrizio Caracciolo](https://it.wikipedia.org/wiki/Fabrizio_Caracciolo)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Caracciolo*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Caracciolo-154](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Caracciolo-154), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Caracciolo*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Caracciolo-154)/giocatori/giocatori.php?Caracciolo-154), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -64,7 +64,7 @@ locked_by: certificazione_archivio_storico_ufficiale
         <th>Anno</th>
         <td>1978</td>
         <th>Nazionalità</th>
-        <td>Mali / Francia</td>
+        <td>Mali</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -93,4 +93,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Difensore maliano con passaporto francese, possente e roccioso. Ingaggiato dal Catania nella trionfale stagione di Serie C1 2001-2002 culminata nella promozione in Serie B dopo la memorabile finale playoff contro il Taranto.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando **18 presenze ufficiali** tra campionati e coppe nazionali.
-

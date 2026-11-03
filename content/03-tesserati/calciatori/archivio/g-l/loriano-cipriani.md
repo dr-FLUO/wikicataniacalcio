@@ -55,6 +55,7 @@ minutes_played: 9386
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 313466
 ---
 # Loriano Cipriani
 
@@ -73,7 +74,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1964</td>
+        <td>1962</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
@@ -120,14 +121,14 @@ Nel campionato [[stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1988-1989** | Punta centrale | 25 | 12 | 0 | 0 | 0 | 2032' |
-| **1989-1990** | Punta centrale | 32 | 11 | 0 | 0 | 0 | 2796' |
-| **1990-1991** | Punta centrale | 27 | 6 | 0 | 0 | 0 | 2109' |
-| **1991-1992** | Punta centrale | 29 | 11 | 1 | 0 | 0 | 2449' |
+| **1989-1990** | Punta centrale | 25 | 12 | 0 | 0 | 0 | 2032' |
+| **1990-1991** | Punta centrale | 32 | 11 | 0 | 0 | 0 | 2796' |
+| **1991-1992** | Punta centrale | 27 | 6 | 0 | 0 | 0 | 2109' |
+| **1992-1993** | Punta centrale | 29 | 11 | 1 | 0 | 0 | 2449' |
 | **TOTALE** | — | **113** | **40** | **1** | **0** | **0** | **9386'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Loriano Cipriani** ha collezionato complessivamente **113 presenze ufficiali**, disputando **9386 minuti** di gioco effettivo, siglando **40 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **113 presenze ufficiali**, disputando **9386 minuti** di gioco effettivo, siglando **40 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -135,4 +136,4 @@ Nel campionato [[stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 351-372 (Stagioni dal 1989-1990 al 1992-1993).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Loriano Cipriani*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cipriani-353).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Loriano Cipriani*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cipriani-353).

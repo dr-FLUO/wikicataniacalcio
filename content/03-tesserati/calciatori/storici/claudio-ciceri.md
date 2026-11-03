@@ -52,17 +52,14 @@ minutes_played: 8676
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 501940
 ---
 # Claudio Ciceri — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/523_claudio-ciceri.jpg" alt="Claudio Ciceri" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1973–1978</td>
+        <td colspan="3">1974–1979</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1973-1974** | Punta centrale | 37 | 18 | 0 | 1 | 0 | 3319' |
-| **1974-1975** | Punta centrale | 41 | 13 | 0 | 1 | 0 | 3646' |
-| **1977-1978** | Punta centrale | 23 | 7 | 0 | 0 | 0 | 1711' |
+| **1974-1975** | Punta centrale | 37 | 18 | 0 | 1 | 0 | 3319' |
+| **1975-1976** | Punta centrale | 41 | 13 | 0 | 1 | 0 | 3646' |
+| **1978-1979** | Punta centrale | 23 | 7 | 0 | 0 | 0 | 1711' |
 | **TOTALE** | — | **101** | **38** | **0** | **2** | **0** | **8676'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Claudio Ciceri** ha collezionato complessivamente **101 presenze ufficiali**, disputando **8676 minuti** di gioco effettivo, siglando **38 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **101 presenze ufficiali**, disputando **8676 minuti** di gioco effettivo, siglando **38 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Claudio Ciceri](https://it.wikipedia.org/wiki/Claudio_Ciceri)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Ciceri*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ciceri-523](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Ciceri-523), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Claudio Ciceri*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ciceri-523)/giocatori/giocatori.php?Ciceri-523), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -45,6 +45,7 @@ minutes_played: 5130
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 588808
 ---
 # Fabrizio Bartolini — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1950–1952</td>
+        <td colspan="3">1951–1953</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1950-1951** | Attacco | 30 | 8 | 0 | 0 | 0 | 2700' |
-| **1951-1952** | Attacco | 27 | 5 | 0 | 0 | 0 | 2430' |
+| **1951-1952** | Attacco | 30 | 8 | 0 | 0 | 0 | 2700' |
+| **1952-1953** | Attacco | 27 | 5 | 0 | 0 | 0 | 2430' |
 | **TOTALE** | — | **57** | **13** | **0** | **0** | **0** | **5130'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Fabrizio Bartolini** ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **57 presenze ufficiali**, disputando **5130 minuti** di gioco effettivo, siglando **13 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Fabrizio Bartolini](https://it.wikipedia.org/wiki/Fabrizio_Bartolini_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Bartolini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bartolini-738](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bartolini-738), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Fabrizio Bartolini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bartolini-738)/giocatori/giocatori.php?Bartolini-738), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

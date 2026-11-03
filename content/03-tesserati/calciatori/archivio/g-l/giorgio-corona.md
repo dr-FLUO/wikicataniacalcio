@@ -58,6 +58,7 @@ minutes_played: 1713
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 24318
 ---
 # Giorgio Corona — Scheda Giocatore nel Calcio Catania
 
@@ -106,11 +107,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Punta centrale | 32 | 7 | 0 | 3 | 1 | 1713' |
+| **2006-2007** | Punta centrale | 32 | 7 | 0 | 3 | 1 | 1713' |
 | **TOTALE** | — | **32** | **7** | **0** | **3** | **1** | **1713'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Giorgio Corona** ha collezionato complessivamente **32 presenze ufficiali**, disputando **1713 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **1713 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +132,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Giorgio Corona](https://it.wikipedia.org/wiki/Giorgio_Corona)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Corona*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Corona-46](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Corona-46), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giorgio Corona*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Corona-46)/giocatori/giocatori.php?Corona-46), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

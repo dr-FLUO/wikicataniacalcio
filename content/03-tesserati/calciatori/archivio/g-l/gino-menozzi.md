@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Giovanni Menozzi
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Menozzi-695
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 695
 aliases:
 - tesserati/calciatori/gino-menozzi
 - gino-menozzi
 - tesserati/gino-menozzi
 - calciatori/gino-menozzi
+- tesserati/calciatori/giovanni-menozzi
+- giovanni-menozzi
+- tesserati/giovanni-menozzi
+- calciatori/giovanni-menozzi
+- 03-tesserati/calciatori/archivio/g-l/giovanni-menozzi
+- Giovanni Menozzi
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 3060
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 608913
 ---
 # Gino Menozzi — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1955–1957</td>
+        <td colspan="3">1956–1958</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +108,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1955-1956** | Portiere | 30 | 0 | 0 | 0 | 0 | 2700' |
-| **1956-1957** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
+| **1956-1957** | Portiere | 30 | 0 | 0 | 0 | 0 | 2700' |
+| **1957-1958** | Portiere | 4 | 0 | 0 | 0 | 0 | 360' |
 | **TOTALE** | — | **34** | **0** | **0** | **0** | **0** | **3060'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gino Menozzi** ha collezionato complessivamente **34 presenze ufficiali**, disputando **3060 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **34 presenze ufficiali**, disputando **3060 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

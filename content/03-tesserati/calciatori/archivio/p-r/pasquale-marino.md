@@ -63,8 +63,8 @@ minutes_played: 3064
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 674492
 ---
-
 # Pasquale Marino — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
@@ -92,7 +92,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1994–1996</td>
+        <td colspan="3">1995–1997</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -112,12 +112,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1994-1995** | Centrocampo | 25 | 3 | 0 | 0 | 0 | 1908' |
-| **1995-1996** | Centrocampo | 16 | 1 | 0 | 0 | 0 | 1156' |
+| **1995-1996** | Centrocampo | 25 | 3 | 0 | 0 | 0 | 1908' |
+| **1996-1997** | Centrocampo | 16 | 1 | 0 | 0 | 0 | 1156' |
 | **TOTALE** | — | **41** | **4** | **0** | **0** | **0** | **3064'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pasquale Marino** ha collezionato complessivamente **41 presenze ufficiali**, disputando **3064 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **3064 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -138,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pasquale Marino](https://it.wikipedia.org/wiki/Pasquale_Marino)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pasquale Marino*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Marino-289](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Marino-289), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pasquale Marino*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Marino-289)/giocatori/giocatori.php?Marino-289), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

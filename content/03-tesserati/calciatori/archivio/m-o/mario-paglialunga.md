@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/mario-paglialunga
-- mario-paglialunga
-- tesserati/mario-paglialunga
+- 03-tesserati/calciatori/archivio/m-o/mario-angel-paglialunga
+- 03-tesserati/calciatori/mario-angel-paglialunga
+- calciatori/mario-angel-paglialunga
 - calciatori/mario-paglialunga
+- mario-angel-paglialunga
+- tesserati/calciatori/mario-angel-paglialunga
+- tesserati/calciatori/mario-paglialunga
+- tesserati/mario-angel-paglialunga
+- tesserati/mario-paglialunga
 citizenship: Argentina
 total_goals: 1
 total_assists: 0
@@ -53,6 +58,7 @@ minutes_played: 305
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 55213
 ---
 # Mario Paglialunga — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2010–2012</td>
+        <td colspan="3">2011–2013</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,9 +110,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2010-2011** | Mediano | 1 | 0 | 0 | 0 | 0 | 90' |
-| **2011-2012** | Mediano | 7 | 1 | 0 | 0 | 0 | 215' |
+| **2011-2012** | Mediano | 1 | 0 | 0 | 0 | 0 | 90' |
+| **2012-2013** | Mediano | 7 | 1 | 0 | 0 | 0 | 215' |
 | **TOTALE** | — | **8** | **1** | **0** | **0** | **0** | **305'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mario Paglialunga** ha collezionato complessivamente **8 presenze ufficiali**, disputando **305 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **305 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

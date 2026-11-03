@@ -52,17 +52,14 @@ minutes_played: 3811
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 478849
 ---
 # Pantaleo De Gennaro — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/524_pantaleo-de-gennaro.jpg" alt="Pantaleo De Gennaro" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1977</td>
+        <td colspan="3">1976–1978</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Terzino sinistro | 23 | 1 | 0 | 0 | 0 | 1831' |
-| **1976-1977** | Terzino sinistro | 22 | 0 | 0 | 0 | 0 | 1980' |
+| **1976-1977** | Terzino sinistro | 23 | 1 | 0 | 0 | 0 | 1831' |
+| **1977-1978** | Terzino sinistro | 22 | 0 | 0 | 0 | 0 | 1980' |
 | **TOTALE** | — | **45** | **1** | **0** | **0** | **0** | **3811'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pantaleo De Gennaro** ha collezionato complessivamente **45 presenze ufficiali**, disputando **3811 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **3811 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Pantaleo De Gennaro](https://it.wikipedia.org/wiki/Pantaleo_De_Gennaro)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pantaleo De Gennaro*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?De-Gennaro-524](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?De-Gennaro-524), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Pantaleo De Gennaro*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?De-Gennaro-524)/giocatori/giocatori.php?De-Gennaro-524), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -53,10 +53,15 @@ sources:
   reference: 'ID 2: presenze, presenze da titolare, reti e stagioni'
   url: https://www.calciocatania.com/giocatori/giocatori.php?Andujar-2
 aliases:
-- tesserati/calciatori/mariano-andujar
-- mariano-andujar
-- tesserati/mariano-andujar
+- 03-tesserati/calciatori/archivio/m-o/mariano-gonzalo-andujar
+- 03-tesserati/calciatori/mariano-gonzalo-andujar
 - calciatori/mariano-andujar
+- calciatori/mariano-gonzalo-andujar
+- mariano-gonzalo-andujar
+- tesserati/calciatori/mariano-andujar
+- tesserati/calciatori/mariano-gonzalo-andujar
+- tesserati/mariano-andujar
+- tesserati/mariano-gonzalo-andujar
 image_credits:
 - image_path: assets/images/calciatori/mariano-andujar.jpg
   alt_text: Ritratto ufficiale di Mariano Andújar in maglia rossazzurra
@@ -83,6 +88,7 @@ seasons_count: 5
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 35491
 ---
 # Mariano Andújar
 
@@ -136,15 +142,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Portiere | 35 | 0 | 0 | 2 | 0 | 3116' |
-| **2009-2010** | Portiere | 37 | 0 | 0 | 2 | 0 | 3330' |
-| **2010-2011** | Portiere | 17 | 0 | 0 | 1 | 0 | 1530' |
-| **2011-2012** | Portiere | 35 | 0 | 0 | 0 | 1 | 3150' |
-| **2012-2013** | Portiere | 25 | 0 | 0 | 1 | 0 | 2250' |
+| **2009-2010** | Portiere | 35 | 0 | 0 | 2 | 0 | 3116' |
+| **2010-2011** | Portiere | 37 | 0 | 0 | 2 | 0 | 3330' |
+| **2011-2012** | Portiere | 17 | 0 | 0 | 1 | 0 | 1530' |
+| **2012-2013** | Portiere | 35 | 0 | 0 | 0 | 1 | 3150' |
+| **2013-2014** | Portiere | 25 | 0 | 0 | 1 | 0 | 2250' |
 | **TOTALE** | — | **149** | **0** | **0** | **6** | **1** | **13376'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Mariano Andújar** ha collezionato complessivamente **149 presenze ufficiali**, disputando **13376 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **149 presenze ufficiali**, disputando **13376 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -154,4 +160,4 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
 3. **La Sicilia**, *Andujar, il portiere mondiale che fece grande il Catania di Maran*, 2014.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Mariano Gonzalo  Andujar*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Andujar-2).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Mariano Gonzalo  Andujar*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Andujar-2).

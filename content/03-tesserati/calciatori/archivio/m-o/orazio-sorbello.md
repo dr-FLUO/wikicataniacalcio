@@ -56,6 +56,7 @@ minutes_played: 2450
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 389885
 ---
 # Orazio Sorbello
 
@@ -86,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1986–1987, 1991–1993</td>
+        <td colspan="3">1986–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -121,11 +122,11 @@ Nella difficile stagione cadetta 1986-1987 Sorbello lottò con grinta contro le 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1985-1986** | Ala destra | 30 | 6 | 0 | 0 | 0 | 2450' |
+| **1986-1987** | Ala destra | 30 | 6 | 0 | 0 | 0 | 2450' |
 | **TOTALE** | — | **30** | **6** | **0** | **0** | **0** | **2450'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Orazio Sorbello** ha collezionato complessivamente **30 presenze ufficiali**, disputando **2450 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **2450 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -133,4 +134,4 @@ Nella difficile stagione cadetta 1986-1987 Sorbello lottò con grinta contro le 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 336-340 e pp. 360-370 (Stagioni 1986-1987 e 1991-1993).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Orazio Sorbello*, [calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sorbello-449).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Orazio Sorbello*, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Sorbello-449).

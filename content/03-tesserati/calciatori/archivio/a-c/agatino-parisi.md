@@ -1,7 +1,7 @@
 ---
 title: Agatino Parisi — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Agatino Parisi, difensore
-  del Calcio Catania con 47 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Agatino Parisi, difensore del Calcio Catania con 47 presenze registrate
+  in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/agatino-parisi
 entity_type: calciatore
 status: verified
@@ -38,8 +38,7 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/850_agatino-parisi.jpg
-  alt_text: Ritratto del calciatore Agatino Parisi in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Agatino Parisi in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -54,6 +53,7 @@ minutes_played: 2807
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 340451
 ---
 # Agatino Parisi — Scheda Giocatore nel Calcio Catania
 
@@ -69,19 +69,19 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1995</td>
         <th>Nazionalità</th>
         <td>Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
-        <td>ND</td>
+        <td>175 cm</td>
         <th>Piede</th>
-        <td>ND</td>
+        <td>Destro</td>
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2016</td>
+        <td colspan="3">2015–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -114,14 +114,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Agatino Parisi*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Parisi-850](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Parisi-850), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Agatino Parisi*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Parisi-850), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2014-2015 | Terzino destro | 14 | 0 | 0 | 5 | 0 | 961' |
-| 2015-2016 | Terzino destro | 25 | 0 | 0 | 5 | 0 | 1846' |
+| **2015-2016** | Terzino destro | 14 | 0 | 0 | 5 | 0 | 961' |
+| **2016-2017** | Terzino destro | 25 | 0 | 0 | 5 | 0 | 1846' |
+| **TOTALE** | — | **39** | **0** | **0** | **10** | **0** | **2807'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 39 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **39 presenze ufficiali**, disputando **2807 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

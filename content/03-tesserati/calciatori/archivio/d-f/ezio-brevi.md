@@ -30,10 +30,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/ezio-brevi
-- ezio-brevi
-- tesserati/ezio-brevi
+- 03-tesserati/calciatori/archivio/d-f/ezio-pietro-brevi
+- 03-tesserati/calciatori/ezio-pietro-brevi
 - calciatori/ezio-brevi
+- calciatori/ezio-pietro-brevi
+- ezio-pietro-brevi
+- tesserati/calciatori/ezio-brevi
+- tesserati/calciatori/ezio-pietro-brevi
+- tesserati/ezio-brevi
+- tesserati/ezio-pietro-brevi
 citizenship: Italia
 total_goals: 1
 total_assists: 0
@@ -41,6 +46,7 @@ minutes_played: 1427
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22189
 ---
 # Ezio Brevi — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +77,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2005</td>
+        <td colspan="3">2005–2006</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +101,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Mediano | 26 | 1 | 0 | 8 | 0 | 1427' |
+| **2005-2006** | Mediano | 26 | 1 | 0 | 8 | 0 | 1427' |
 | **TOTALE** | — | **26** | **1** | **0** | **8** | **0** | **1427'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ezio Brevi** ha collezionato complessivamente **26 presenze ufficiali**, disputando **1427 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **1427 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

@@ -63,6 +63,7 @@ minutes_played: 3798
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22080
 ---
 # Gennaro Delvecchio — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2011</td>
+        <td colspan="3">2000–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,15 +111,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1999-2000** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2002-2003** | Centrocampista | 27 | 8 | 0 | 8 | 0 | 1826' |
-| **2008-2009** | Centrocampista | 19 | 0 | 0 | 4 | 1 | 894' |
-| **2009-2010** | Centrocampista | 10 | 0 | 2 | 0 | 0 | 387' |
-| **2010-2011** | Centrocampista | 13 | 1 | 1 | 4 | 0 | 691' |
+| **2000-2001** | Centrocampista | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2003-2004** | Centrocampista | 27 | 8 | 0 | 8 | 0 | 1826' |
+| **2009-2010** | Centrocampista | 19 | 0 | 0 | 4 | 1 | 894' |
+| **2010-2011** | Centrocampista | 10 | 0 | 2 | 0 | 0 | 387' |
+| **2011-2012** | Centrocampista | 13 | 1 | 1 | 4 | 0 | 691' |
 | **TOTALE** | — | **69** | **9** | **3** | **16** | **1** | **3798'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gennaro Delvecchio** ha collezionato complessivamente **69 presenze ufficiali**, disputando **3798 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **3798 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -139,5 +140,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Gennaro Delvecchio](https://it.wikipedia.org/wiki/Gennaro_Delvecchio)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gennaro Delvecchio*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Delvecchio-32](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Delvecchio-32), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gennaro Delvecchio*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Delvecchio-32)/giocatori/giocatori.php?Delvecchio-32), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

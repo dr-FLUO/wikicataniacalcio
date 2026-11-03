@@ -37,10 +37,15 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/pietro-baisi
-- pietro-baisi
-- tesserati/pietro-baisi
+- 03-tesserati/calciatori/archivio/s-z/sergio-pietro-baisi
+- 03-tesserati/calciatori/sergio-pietro-baisi
 - calciatori/pietro-baisi
+- calciatori/sergio-pietro-baisi
+- sergio-pietro-baisi
+- tesserati/calciatori/pietro-baisi
+- tesserati/calciatori/sergio-pietro-baisi
+- tesserati/pietro-baisi
+- tesserati/sergio-pietro-baisi
 citizenship: Italia
 total_goals: 20
 total_assists: 0
@@ -48,6 +53,7 @@ minutes_played: 8728
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 370367
 ---
 # Pietro Baisi — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1971</td>
+        <td colspan="3">1966–1972</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,10 +106,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Punta centrale | 35 | 9 | 0 | 0 | 0 | 3150' |
-| **1969-1970** | Punta centrale | 31 | 4 | 0 | 0 | 0 | 2637' |
-| **1970-1971** | Punta centrale | 36 | 7 | 0 | 0 | 0 | 2941' |
+| **1966-1967** | Punta centrale | 35 | 9 | 0 | 0 | 0 | 3150' |
+| **1970-1971** | Punta centrale | 31 | 4 | 0 | 0 | 0 | 2637' |
+| **1971-1972** | Punta centrale | 36 | 7 | 0 | 0 | 0 | 2941' |
 | **TOTALE** | — | **102** | **20** | **0** | **0** | **0** | **8728'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pietro Baisi** ha collezionato complessivamente **102 presenze ufficiali**, disputando **8728 minuti** di gioco effettivo, siglando **20 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **102 presenze ufficiali**, disputando **8728 minuti** di gioco effettivo, siglando **20 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

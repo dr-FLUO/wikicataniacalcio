@@ -63,6 +63,7 @@ minutes_played: 1654
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 23195
 ---
 # Umberto Del Core — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2004–2007</td>
+        <td colspan="3">2005–2008</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2004-2005** | Punta centrale | 32 | 4 | 0 | 6 | 0 | 1333' |
-| **2005-2006** | Punta centrale | 12 | 0 | 0 | 0 | 0 | 321' |
-| **2006-2007** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2005-2006** | Punta centrale | 32 | 4 | 0 | 6 | 0 | 1333' |
+| **2006-2007** | Punta centrale | 12 | 0 | 0 | 0 | 0 | 321' |
+| **2007-2008** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **44** | **4** | **0** | **6** | **0** | **1654'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Umberto Del Core** ha collezionato complessivamente **44 presenze ufficiali**, disputando **1654 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **44 presenze ufficiali**, disputando **1654 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Umberto Del Core](https://it.wikipedia.org/wiki/Umberto_Del_Core)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Umberto Del Core*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Core-47](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Core-47), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Umberto Del Core*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Del-Core-47)/giocatori/giocatori.php?Del-Core-47), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

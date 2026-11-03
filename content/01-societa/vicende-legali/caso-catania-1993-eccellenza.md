@@ -8,11 +8,11 @@ entity_type: vicenda_legale
 date_start: 1993-07-31
 date_end: 1993-10-15
 season_ref: '[[stagioni/1993-1994|Stagione 1993-1994]]'
-club_entity: '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. —
+club_entity: '[[societa/1967-calcio-catania-spa-massimino]] |Calcio Catania S.p.A. —
   Era Massimino]]'
 figc_matricola: '11700'
 protagonists:
-- '[[societa/presidenti/angelo-massimino|Angelo Massimino (Presidente Calcio Catania
+- '[[societa/presidenti/angelo-massimino]] |Angelo Massimino (Presidente Calcio Catania
   S.p.A.)]]'
 - Antonio Matarrese (Presidente FIGC)
 - Franco Proto (Presidente Atletico Catania)

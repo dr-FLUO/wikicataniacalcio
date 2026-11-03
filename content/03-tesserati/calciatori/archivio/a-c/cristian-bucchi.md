@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Christian Bucchi
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Bucchi-153
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 153
 aliases:
 - tesserati/calciatori/cristian-bucchi
 - cristian-bucchi
 - tesserati/cristian-bucchi
 - calciatori/cristian-bucchi
+- tesserati/calciatori/christian-bucchi
+- christian-bucchi
+- tesserati/christian-bucchi
+- calciatori/christian-bucchi
+- 03-tesserati/calciatori/archivio/a-c/christian-bucchi
+- Christian Bucchi
 citizenship: Italia
 total_goals: 3
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 1084
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/153_christian-bucchi.jpg
 ---
 # Cristian Bucchi — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2002</td>
+        <td colspan="3">2002–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +108,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Punta centrale | 16 | 3 | 0 | 3 | 0 | 1084' |
+| **2002-2003** | Punta centrale | 16 | 3 | 0 | 3 | 0 | 1084' |
 | **TOTALE** | — | **16** | **3** | **0** | **3** | **0** | **1084'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Cristian Bucchi** ha collezionato complessivamente **16 presenze ufficiali**, disputando **1084 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1084 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

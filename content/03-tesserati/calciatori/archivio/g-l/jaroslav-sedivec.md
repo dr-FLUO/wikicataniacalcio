@@ -33,10 +33,15 @@ image_credits:
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
 aliases:
-- tesserati/calciatori/jaroslav-sedivec
-- jaroslav-sedivec
-- tesserati/jaroslav-sedivec
+- 03-tesserati/calciatori/archivio/g-l/jaroslav-edivec
+- 03-tesserati/calciatori/jaroslav-edivec
+- calciatori/jaroslav-edivec
 - calciatori/jaroslav-sedivec
+- jaroslav-edivec
+- tesserati/calciatori/jaroslav-edivec
+- tesserati/calciatori/jaroslav-sedivec
+- tesserati/jaroslav-edivec
+- tesserati/jaroslav-sedivec
 birth_date: '1981-02-16'
 birth_place: Plzeň
 citizenship: Repubblica Ceca
@@ -46,19 +51,14 @@ minutes_played: 1733
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 22091
 ---
 # Jaroslav Sedivec — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/145_jaroslav-sedivec.jpg" alt="Jaroslav Sedivec" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia
-
-1.</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -80,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2003</td>
+        <td colspan="3">2002–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,12 +100,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Ala sinistra | 14 | 0 | 0 | 0 | 0 | 428' |
-| **2002-2003** | Ala sinistra | 27 | 3 | 0 | 1 | 0 | 1305' |
+| **2002-2003** | Ala sinistra | 14 | 0 | 0 | 0 | 0 | 428' |
+| **2003-2004** | Ala sinistra | 27 | 3 | 0 | 1 | 0 | 1305' |
 | **TOTALE** | — | **41** | **3** | **0** | **1** | **0** | **1733'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Jaroslav Sedivec** ha collezionato complessivamente **41 presenze ufficiali**, disputando **1733 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **1733 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -125,5 +125,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jaroslav Sedivec*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sedivec-145](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Sedivec-145), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Jaroslav Sedivec*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Sedivec-145), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

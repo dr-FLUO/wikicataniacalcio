@@ -62,6 +62,7 @@ minutes_played: 2214
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 492786
 ---
 # Andrea Allegretto — Scheda Giocatore nel Calcio Catania
 
@@ -79,7 +80,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>2001</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Difensore centrale | 11 | 0 | 0 | 0 | 0 | 488' |
-| **2024-2025** | Difensore centrale | 19 | 0 | 0 | 3 | 0 | 1255' |
-| **2025-2026** | Difensore centrale | 6 | 1 | 0 | 4 | 0 | 471' |
+| **2024-2025** | Difensore centrale | 11 | 0 | 0 | 0 | 0 | 488' |
+| **2025-2026** | Difensore centrale | 19 | 0 | 0 | 3 | 0 | 1255' |
+| **2026-2027** | Difensore centrale | 6 | 1 | 0 | 4 | 0 | 471' |
 | **TOTALE** | — | **36** | **1** | **0** | **7** | **0** | **2214'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Andrea Allegretto** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2214 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2214 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Allegretto*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Allegretto-1096](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Allegretto-1096), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Andrea Allegretto*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Allegretto-1096), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

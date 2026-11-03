@@ -37,6 +37,7 @@ minutes_played: 412
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 166765
 ---
 # Walter Alfredo Novellino — Scheda Giocatore nel Calcio Catania
 
@@ -67,7 +68,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1985–1986</td>
+        <td colspan="3">1986–1987</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Walter Alfredo Novellino*, in [https://www.calciocatania.com/giocatori/giocatori.php?Novellino-452](https://www.calciocatania.com/giocatori/giocatori.php?Novellino-452), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Walter Alfredo Novellino*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Novellino-452), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1985-1986 | Ala destra | 16 | 0 | 0 | 0 | 0 | 412' |
+| **1986-1987** | Ala destra | 16 | 0 | 0 | 0 | 0 | 412' |
+| **TOTALE** | — | **16** | **0** | **0** | **0** | **0** | **412'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 16 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **412 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

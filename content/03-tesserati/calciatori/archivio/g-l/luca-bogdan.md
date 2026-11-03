@@ -1,7 +1,7 @@
 ---
 title: Luca Bogdan — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Luca Bogdan, difensore
-  del Calcio Catania con 33 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Luca Bogdan, difensore del Calcio Catania con 35 presenze ufficiali (33 tra campionato e play-off, 2 in Coppa Italia Serie C) registrate
+  in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/g-l/luca-bogdan
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Bogdan-914
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 914
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -54,6 +53,7 @@ minutes_played: 3071
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 226058
 ---
 # Luca Bogdan — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +81,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2016–2017</td>
+        <td colspan="3">2017–2018</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -114,13 +114,14 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Bogdan*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bogdan-914](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bogdan-914), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Bogdan*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Bogdan-914), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
 ## Rendimento e Presenze Ufficiali per Stagione
 
 | Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2016-2017 | Difensore centrale | 35 | 2 | 0 | 7 | 0 | 3071' |
+| **2017-2018** | Difensore centrale | 35 | 2 | 0 | 7 | 0 | 3071' |
+| **TOTALE** | — | **35** | **2** | **0** | **7** | **0** | **3071'** |
 
 *Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 35 presenze e 2 reti complessive.*

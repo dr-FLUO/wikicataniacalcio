@@ -52,17 +52,14 @@ minutes_played: 9740
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480852
 ---
 # Ubaldo Spanio — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/567_ubaldo-spanio.jpg" alt="Ubaldo Spanio" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1970–1973</td>
+        <td colspan="3">1971–1974</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1970-1971** | Difensore centrale | 41 | 0 | 0 | 0 | 0 | 3630' |
-| **1971-1972** | Difensore centrale | 36 | 0 | 0 | 0 | 0 | 3177' |
-| **1972-1973** | Difensore centrale | 34 | 0 | 0 | 0 | 1 | 2933' |
+| **1971-1972** | Difensore centrale | 41 | 0 | 0 | 0 | 0 | 3630' |
+| **1972-1973** | Difensore centrale | 36 | 0 | 0 | 0 | 0 | 3177' |
+| **1973-1974** | Difensore centrale | 34 | 0 | 0 | 0 | 1 | 2933' |
 | **TOTALE** | — | **111** | **0** | **0** | **0** | **1** | **9740'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ubaldo Spanio** ha collezionato complessivamente **111 presenze ufficiali**, disputando **9740 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **111 presenze ufficiali**, disputando **9740 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -131,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ubaldo Spanio](https://it.wikipedia.org/wiki/Ubaldo_Spanio)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ubaldo Spanio*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Spanio-567](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Spanio-567), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ubaldo Spanio*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Spanio-567)/giocatori/giocatori.php?Spanio-567), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

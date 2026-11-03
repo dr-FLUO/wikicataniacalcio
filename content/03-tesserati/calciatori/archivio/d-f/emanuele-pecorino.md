@@ -53,6 +53,7 @@ minutes_played: 869
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 658729
 ---
 # Emanuele Pecorino — Scheda Giocatore nel Calcio Catania
 
@@ -68,9 +69,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>2002</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2017–2020</td>
+        <td colspan="3">2018–2021</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +101,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2017-2018** | Punta centrale | 1 | 0 | 1 | 0 | 0 | 35' |
-| **2018-2019** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2019-2020** | Punta centrale | 15 | 5 | 0 | 1 | 0 | 834' |
+| **2018-2019** | Punta centrale | 1 | 0 | 1 | 0 | 0 | 35' |
+| **2019-2020** | Punta centrale | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2020-2021** | Punta centrale | 15 | 5 | 0 | 1 | 0 | 834' |
 | **TOTALE** | — | **16** | **5** | **1** | **1** | **0** | **869'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Emanuele Pecorino** ha collezionato complessivamente **16 presenze ufficiali**, disputando **869 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **869 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Emanuele Pecorino*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pecorino-991](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Pecorino-991), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Emanuele Pecorino*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pecorino-991), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

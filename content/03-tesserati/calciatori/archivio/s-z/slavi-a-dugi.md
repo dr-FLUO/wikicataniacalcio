@@ -1,7 +1,6 @@
 ---
 title: Slaviša Dugić — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Slaviša Dugić, attaccante
-  del Calcio Catania.
+description: Biografia, presenze e statistiche ufficiali di Slaviša Dugić, attaccante del Calcio Catania.
 slug: 03-tesserati/calciatori/archivio/s-z/slavi-a-dugi
 entity_type: calciatore
 status: verified
@@ -36,8 +35,7 @@ sources:
   year: 2026
   url: https://www.wikidata.org/wiki/Q7539401
   reference: Registro anagrafico e identificativo sportivo internazionale
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -51,6 +49,7 @@ citizenship: Svizzera
 locked: true
 locked_date: '2026-10-30'
 locked_by: certificazione_archivio_storico_ufficiale
+tm_id: 19043
 ---
 # Slaviša Dugić — Scheda Giocatore nel Calcio Catania
 
@@ -97,4 +96,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Nato a Gradačac (1985-01-17), Slaviša Dugić ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-

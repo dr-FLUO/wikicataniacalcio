@@ -45,6 +45,7 @@ minutes_played: 1541
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 227303
 ---
 # Luca Della Scala — Scheda Giocatore nel Calcio Catania
 
@@ -75,7 +76,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1988–1990</td>
+        <td colspan="3">1989–1991</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,12 +96,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1988-1989** | Mediano | 19 | 0 | 0 | 0 | 0 | 1524' |
-| **1989-1990** | Mediano | 2 | 0 | 0 | 0 | 0 | 17' |
+| **1989-1990** | Mediano | 19 | 0 | 0 | 0 | 0 | 1524' |
+| **1990-1991** | Mediano | 2 | 0 | 0 | 0 | 0 | 17' |
 | **TOTALE** | — | **21** | **0** | **0** | **0** | **0** | **1541'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Luca Della Scala** ha collezionato complessivamente **21 presenze ufficiali**, disputando **1541 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1541 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -121,5 +122,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Luca Della Scala](https://it.wikipedia.org/wiki/Luca_Della_Scala)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Della Scala*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Della-Scala-391](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Della-Scala-391), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Luca Della Scala*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Della-Scala-391)/giocatori/giocatori.php?Della-Scala-391), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -53,6 +53,7 @@ minutes_played: 9450
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 407772
 ---
 # Dandolo Brondi — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1948–1951</td>
+        <td colspan="3">1949–1952</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,13 +102,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1948-1949** | Centrocampista | 36 | 2 | 0 | 0 | 0 | 3240' |
-| **1949-1950** | Centrocampista | 40 | 7 | 0 | 0 | 0 | 3600' |
-| **1950-1951** | Centrocampista | 29 | 5 | 0 | 0 | 0 | 2610' |
+| **1949-1950** | Centrocampista | 36 | 2 | 0 | 0 | 0 | 3240' |
+| **1950-1951** | Centrocampista | 40 | 7 | 0 | 0 | 0 | 3600' |
+| **1951-1952** | Centrocampista | 29 | 5 | 0 | 0 | 0 | 2610' |
 | **TOTALE** | — | **105** | **14** | **0** | **0** | **0** | **9450'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Dandolo Brondi** ha collezionato complessivamente **105 presenze ufficiali**, disputando **9450 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **105 presenze ufficiali**, disputando **9450 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -128,5 +129,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Dandolo Brondi](https://it.wikipedia.org/wiki/Dandolo_Brondi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dandolo Brondi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Brondi-746](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Brondi-746), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dandolo Brondi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Brondi-746)/giocatori/giocatori.php?Brondi-746), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

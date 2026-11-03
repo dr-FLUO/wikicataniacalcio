@@ -53,6 +53,7 @@ minutes_played: 900
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 321665
 ---
 # Franco Cordova — Scheda Giocatore nel Calcio Catania
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1962–1964</td>
+        <td colspan="3">1963–1965</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -101,12 +102,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1962-1963** | Trequartista | 6 | 0 | 0 | 0 | 0 | 540' |
-| **1963-1964** | Trequartista | 4 | 1 | 0 | 0 | 0 | 360' |
+| **1963-1964** | Trequartista | 6 | 0 | 0 | 0 | 0 | 540' |
+| **1964-1965** | Trequartista | 4 | 1 | 0 | 0 | 0 | 360' |
 | **TOTALE** | — | **10** | **1** | **0** | **0** | **0** | **900'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Franco Cordova** ha collezionato complessivamente **10 presenze ufficiali**, disputando **900 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **900 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +128,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Franco Cordova](https://it.wikipedia.org/wiki/Franco_Cordova)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Franco Cordova*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cordova-641](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Cordova-641), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Franco Cordova*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cordova-641)/giocatori/giocatori.php?Cordova-641), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

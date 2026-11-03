@@ -63,6 +63,7 @@ minutes_played: 8640
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 302484
 ---
 # Enzo Bearzot — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1950–1953</td>
+        <td colspan="3">1951–1954</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,13 +111,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1950-1951** | Difensore centrale | 29 | 2 | 0 | 0 | 0 | 2610' |
-| **1951-1952** | Difensore centrale | 33 | 1 | 0 | 0 | 0 | 2970' |
-| **1952-1953** | Difensore centrale | 34 | 1 | 0 | 0 | 0 | 3060' |
+| **1951-1952** | Difensore centrale | 29 | 2 | 0 | 0 | 0 | 2610' |
+| **1952-1953** | Difensore centrale | 33 | 1 | 0 | 0 | 0 | 2970' |
+| **1953-1954** | Difensore centrale | 34 | 1 | 0 | 0 | 0 | 3060' |
 | **TOTALE** | — | **96** | **4** | **0** | **0** | **0** | **8640'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Enzo Bearzot** ha collezionato complessivamente **96 presenze ufficiali**, disputando **8640 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **96 presenze ufficiali**, disputando **8640 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -137,5 +138,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Enzo Bearzot](https://it.wikipedia.org/wiki/Enzo_Bearzot)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Enzo Bearzot*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bearzot-732](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bearzot-732), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Enzo Bearzot*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bearzot-732)/giocatori/giocatori.php?Bearzot-732), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

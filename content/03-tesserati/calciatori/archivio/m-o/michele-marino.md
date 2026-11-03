@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 14
+total_appearances: 8
 seasons_count: 2
 tags:
 - calciatori
@@ -31,9 +31,9 @@ aliases:
 - michele-marino
 - tesserati/michele-marino
 - calciatori/michele-marino
-total_goals: 5
-total_assists: 3
-minutes_played: 921
+total_goals: 0
+total_assists: 0
+minutes_played: 540
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -67,13 +67,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1999–2001</td>
+        <td colspan="3">1993–1995</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>14</td>
+        <td>8</td>
         <th>Goal / Assist</th>
-        <td>5 / 3</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -100,14 +100,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Marino*, in [https://www.calciocatania.com/giocatori/giocatori.php?Marino-495](https://www.calciocatania.com/giocatori/giocatori.php?Marino-495), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Michele Marino*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Marino-495), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1999-2000 | Attacco | 11 | 4 | 3 | 2 | 0 | 816' |
-| 2000-2001 | Attacco | 3 | 1 | 0 | 1 | 0 | 105' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 14 presenze e 5 reti complessive.*

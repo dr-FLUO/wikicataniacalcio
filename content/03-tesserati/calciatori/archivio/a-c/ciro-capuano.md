@@ -66,6 +66,7 @@ minutes_played: 10059
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 38584
 ---
 # Ciro  Capuano — Scheda Giocatore nel Calcio Catania
 
@@ -93,7 +94,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2009–2015</td>
+        <td colspan="3">2008–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -113,17 +114,17 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Terzino sinistro | 18 | 1 | 1 | 2 | 0 | 1517' |
-| **2008-2009** | Terzino sinistro | 33 | 0 | 4 | 3 | 0 | 2683' |
-| **2009-2010** | Terzino sinistro | 23 | 1 | 1 | 2 | 0 | 1860' |
-| **2010-2011** | Terzino sinistro | 9 | 0 | 3 | 1 | 0 | 615' |
-| **2011-2012** | Terzino sinistro | 18 | 0 | 0 | 2 | 1 | 1093' |
-| **2012-2013** | Terzino sinistro | 6 | 0 | 0 | 1 | 0 | 473' |
-| **2013-2014** | Terzino sinistro | 27 | 0 | 0 | 7 | 0 | 1818' |
+| **2008-2009** | Terzino sinistro | 18 | 1 | 1 | 2 | 0 | 1517' |
+| **2009-2010** | Terzino sinistro | 33 | 0 | 4 | 3 | 0 | 2683' |
+| **2010-2011** | Terzino sinistro | 23 | 1 | 1 | 2 | 0 | 1860' |
+| **2011-2012** | Terzino sinistro | 9 | 0 | 3 | 1 | 0 | 615' |
+| **2012-2013** | Terzino sinistro | 18 | 0 | 0 | 2 | 1 | 1093' |
+| **2013-2014** | Terzino sinistro | 6 | 0 | 0 | 1 | 0 | 473' |
+| **2014-2015** | Terzino sinistro | 27 | 0 | 0 | 7 | 0 | 1818' |
 | **TOTALE** | — | **134** | **2** | **9** | **18** | **1** | **10059'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ciro Capuano** ha collezionato complessivamente **134 presenze ufficiali**, disputando **10059 minuti** di gioco effettivo, siglando **2 gol** e servendo **9 assist** distribuiti su **7 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **134 presenze ufficiali**, disputando **10059 minuti** di gioco effettivo, siglando **2 gol** e servendo **9 assist** distribuiti su **7 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -144,5 +145,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Ciro Capuano](https://it.wikipedia.org/wiki/Ciro_Capuano)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ciro  Capuano*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Capuano-5](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Capuano-5), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Ciro  Capuano*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Capuano-5)/giocatori/giocatori.php?Capuano-5), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

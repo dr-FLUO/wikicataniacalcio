@@ -1,7 +1,7 @@
 ---
 title: Antonio Sarcinella — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Antonio Sarcinella, difensore
-  del Calcio Catania con 4 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Antonio Sarcinella, difensore del Calcio Catania con 4 presenze
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/antonio-sarcinella
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Sarcinella-295
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 295
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -37,6 +36,7 @@ minutes_played: 751
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 335732
 ---
 # Antonio Sarcinella — Scheda Giocatore nel Calcio Catania
 
@@ -55,9 +55,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1976</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -67,7 +67,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1995–1996</td>
+        <td colspan="3">1996–1997</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,13 +100,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Sarcinella*, in [https://www.calciocatania.com/giocatori/giocatori.php?Sarcinella-295](https://www.calciocatania.com/giocatori/giocatori.php?Sarcinella-295), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Sarcinella*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Sarcinella-295), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1995-1996 | Difesa | 9 | 0 | 0 | 0 | 0 | 751' |
+| **1996-1997** | Difesa | 9 | 0 | 0 | 0 | 0 | 751' |
+| **TOTALE** | — | **9** | **0** | **0** | **0** | **0** | **751'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 9 presenze e 0 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **751 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

@@ -57,6 +57,7 @@ minutes_played: 2788
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 61350
 ---
 # Domenico Di Cecco — Scheda Giocatore nel Calcio Catania
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2016</td>
+        <td colspan="3">2015–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +105,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Centrocampista | 18 | 0 | 0 | 4 | 0 | 1556' |
-| **2015-2016** | Centrocampista | 20 | 1 | 3 | 5 | 0 | 1232' |
+| **2015-2016** | Centrocampista | 18 | 0 | 0 | 4 | 0 | 1556' |
+| **2016-2017** | Centrocampista | 20 | 1 | 3 | 5 | 0 | 1232' |
 | **TOTALE** | — | **38** | **1** | **3** | **9** | **0** | **2788'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Domenico Di Cecco** ha collezionato complessivamente **38 presenze ufficiali**, disputando **2788 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **2788 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Domenico Di Cecco](https://it.wikipedia.org/wiki/Domenico_Di_Cecco)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Di Cecco*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Di-Cecco-889](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Di-Cecco-889), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Domenico Di Cecco*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Di-Cecco-889)/giocatori/giocatori.php?Di-Cecco-889), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

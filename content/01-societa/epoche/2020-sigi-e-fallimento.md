@@ -24,7 +24,7 @@ stadium_refs:
 - '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
 - '[[stadio/torre-del-grifo|Torre del Grifo Village]]'
 prev_era: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti (2004-2020)]]'
-next_era: '[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club
+next_era: '[[societa/2022-pelligra-catania-fc]] |Catania SSD / Catania Football Club
   (2022-Oggi)]]'
 tags:
 - sigi

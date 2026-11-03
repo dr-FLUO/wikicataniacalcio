@@ -51,6 +51,12 @@ aliases:
 - takayuki-morimoto
 - tesserati/takayuki-morimoto
 - calciatori/takayuki-morimoto
+- 03-tesserati/calciatori/archivio/s-z/takayuky-morimoto
+- takayuky-morimoto
+- tesserati/calciatori/takayuky-morimoto
+- calciatori/takayuky-morimoto
+- 03-tesserati/calciatori/storici/takayuki-morimoto
+- calciatori/storici/takayuki-morimoto
 citizenship: Giappone
 height: 180 cm
 foot: Destro
@@ -63,6 +69,7 @@ minutes_played: 4898
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 42417
 ---
 # Takayuki Morimoto — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +97,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2011, 2012–2013</td>
+        <td colspan="3">2006–2013</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -114,13 +121,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Punta centrale | 5 | 1 | 0 | 0 | 0 | 61' |
-| **2006-2007** | Punta centrale | 17 | 2 | 1 | 3 | 0 | 485' |
-| **2007-2008** | Punta centrale | 24 | 9 | 3 | 4 | 0 | 1675' |
-| **2008-2009** | Punta centrale | 31 | 6 | 3 | 3 | 1 | 1844' |
-| **2009-2010** | Punta centrale | 13 | 2 | 0 | 3 | 1 | 573' |
-| **2011-2012** | Punta centrale | 8 | 0 | 1 | 0 | 0 | 260' |
+| **2006-2007** | Punta centrale | 5 | 1 | 0 | 0 | 0 | 61' |
+| **2007-2008** | Punta centrale | 17 | 2 | 1 | 3 | 0 | 485' |
+| **2008-2009** | Punta centrale | 24 | 9 | 3 | 4 | 0 | 1675' |
+| **2009-2010** | Punta centrale | 31 | 6 | 3 | 3 | 1 | 1844' |
+| **2010-2011** | Punta centrale | 13 | 2 | 0 | 3 | 1 | 573' |
+| **2012-2013** | Punta centrale | 8 | 0 | 1 | 0 | 0 | 260' |
 | **TOTALE** | — | **98** | **20** | **8** | **13** | **2** | **4898'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Takayuki Morimoto** ha collezionato complessivamente **98 presenze ufficiali**, disputando **4898 minuti** di gioco effettivo, siglando **20 gol** e servendo **8 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **98 presenze ufficiali**, disputando **4898 minuti** di gioco effettivo, siglando **20 gol** e servendo **8 assist** distribuiti su **6 stagioni sportive**.

@@ -1,7 +1,7 @@
 ---
 title: Sidney Cunha Cinesinho — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Sidney Cunha Cinesinho,
-  centrocampista del Calcio Catania con 59 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Sidney Cunha Cinesinho, centrocampista del Calcio Catania con
+  59 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/storici/sidney-cunha-cinesinho
 entity_type: calciatore
 status: verified
@@ -25,6 +25,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Chinesinho
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Chinesinho
+  reference: Dati anagrafici, carriera e presenze verificate
 image: assets/images/calciatori/sidney-cunha-cinesinho.jpg
 image_credits:
 - image_path: assets/images/calciatori/sidney-cunha-cinesinho.jpg
@@ -47,12 +53,23 @@ aliases:
 - sidney-cunha-cinesinho
 - tesserati/sidney-cunha-cinesinho
 - calciatori/sidney-cunha-cinesinho
+- tesserati/calciatori/chinesinho
+- chinesinho
+- tesserati/chinesinho
+- calciatori/chinesinho
+- 03-tesserati/calciatori/archivio/a-c/chinesinho
+- Chinesinho
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
 total_goals: 4
 total_assists: 0
 minutes_played: 5310
+birth_date: '1935-01-01'
+birth_place: Rio Grande
+death_date: '2011-04-16'
+nationality: Brasile
+citizenship: Brasile
 ---
 # Sidney Cunha Cinesinho — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +97,7 @@ minutes_played: 5310
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1962–1964</td>
+        <td colspan="3">1963–1965</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -113,14 +130,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sidney Cunha Cinesinho*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cinesinho-639](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Cinesinho-639), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sidney Cunha Cinesinho*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cinesinho-639), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1962-1963 | Trequartista | 30 | 3 | - | - | - | 2.700' |
-| 1963-1964 | Trequartista | 29 | 1 | - | - | - | 2.610' |
+| **1963-1964** | Trequartista | 30 | 3 | 0 | 0 | 0 | 2700' |
+| **1964-1965** | Trequartista | 29 | 1 | 0 | 0 | 0 | 2610' |
+| **TOTALE** | — | **59** | **4** | **0** | **0** | **0** | **5310'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 59 presenze e 4 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **59 presenze ufficiali**, disputando **5310 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

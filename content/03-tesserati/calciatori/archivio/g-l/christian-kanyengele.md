@@ -41,6 +41,11 @@ aliases:
 - christian-kanyengele
 - tesserati/christian-kanyengele
 - calciatori/christian-kanyengele
+- 03-tesserati/calciatori/archivio/g-l/kampamy-cristian-kanyengele
+- kampamy-cristian-kanyengele
+- tesserati/calciatori/kampamy-cristian-kanyengele
+- calciatori/kampamy-cristian-kanyengele
+- 03-tesserati/calciatori/archivio/a-c/christian-kanyengele
 citizenship: Repubblica Democratica del Congo
 total_goals: 3
 total_assists: 4
@@ -48,6 +53,7 @@ minutes_played: 1513
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 28838
 ---
 # Christian Kanyengele — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2004</td>
+        <td colspan="3">2001–2005</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,10 +106,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando *
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Ala destra | 28 | 2 | 4 | 2 | 0 | 1286' |
-| **2002-2003** | Ala destra | 6 | 0 | 0 | 1 | 0 | 123' |
-| **2003-2004** | Ala destra | 4 | 1 | 0 | 1 | 0 | 104' |
+| **2001-2002** | Ala destra | 28 | 2 | 4 | 2 | 0 | 1286' |
+| **2003-2004** | Ala destra | 6 | 0 | 0 | 1 | 0 | 123' |
+| **2004-2005** | Ala destra | 4 | 1 | 0 | 1 | 0 | 104' |
 | **TOTALE** | — | **38** | **3** | **4** | **4** | **0** | **1513'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Christian Kanyengele** ha collezionato complessivamente **38 presenze ufficiali**, disputando **1513 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **1513 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.

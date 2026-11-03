@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Massimo De Martis
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?De-Martis-159
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 159
 aliases:
 - tesserati/calciatori/massimo-demartis
 - massimo-demartis
 - tesserati/massimo-demartis
 - calciatori/massimo-demartis
+- tesserati/calciatori/massimo-de-martis
+- massimo-de-martis
+- tesserati/massimo-de-martis
+- calciatori/massimo-de-martis
+- 03-tesserati/calciatori/archivio/m-o/massimo-de-martis
+- Massimo De Martis
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 5528
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/159_massimo-de-martis.jpg
+tm_id: 22315
 ---
 # Massimo Demartis — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2000–2002</td>
+        <td colspan="3">2001–2003</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +109,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2000-2001** | Difensore centrale | 36 | 0 | 0 | 4 | 0 | 3185' |
-| **2001-2002** | Difensore centrale | 29 | 0 | 0 | 9 | 0 | 2343' |
+| **2001-2002** | Difensore centrale | 36 | 0 | 0 | 4 | 0 | 3185' |
+| **2002-2003** | Difensore centrale | 29 | 0 | 0 | 9 | 0 | 2343' |
 | **TOTALE** | — | **65** | **0** | **0** | **13** | **0** | **5528'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Massimo Demartis** ha collezionato complessivamente **65 presenze ufficiali**, disputando **5528 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **65 presenze ufficiali**, disputando **5528 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

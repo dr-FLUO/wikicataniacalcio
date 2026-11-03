@@ -48,6 +48,7 @@ minutes_played: 8817
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 339544
 ---
 # Umberto Brutto
 
@@ -66,9 +67,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>1970</td>
+        <td>1972</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -78,7 +79,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1997–2000</td>
+        <td colspan="3">1996–2000</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -113,14 +114,14 @@ Nella storica annata 1998-1999 Brutto fu decisivo con gol fondamentali contro Ca
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1995-1996** | Esterno di destra | 30 | 3 | 0 | 0 | 0 | 2499' |
-| **1996-1997** | Esterno di destra | 29 | 2 | 0 | 0 | 0 | 2472' |
-| **1997-1998** | Esterno di destra | 33 | 6 | 0 | 0 | 0 | 2922' |
-| **1998-1999** | Esterno di destra | 14 | 1 | 3 | 3 | 0 | 924' |
+| **1996-1997** | Esterno di destra | 30 | 3 | 0 | 0 | 0 | 2499' |
+| **1997-1998** | Esterno di destra | 29 | 2 | 0 | 0 | 0 | 2472' |
+| **1998-1999** | Esterno di destra | 33 | 6 | 0 | 0 | 0 | 2922' |
+| **1999-2000** | Esterno di destra | 14 | 1 | 3 | 3 | 0 | 924' |
 | **TOTALE** | — | **106** | **12** | **3** | **3** | **0** | **8817'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Umberto Brutto** ha collezionato complessivamente **106 presenze ufficiali**, disputando **8817 minuti** di gioco effettivo, siglando **12 gol** e servendo **3 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **106 presenze ufficiali**, disputando **8817 minuti** di gioco effettivo, siglando **12 gol** e servendo **3 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Fonti e Bibliografia

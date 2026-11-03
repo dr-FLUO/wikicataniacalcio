@@ -74,7 +74,7 @@ locked_by: certificazione_archivio_storico_ufficiale
         <th>Anno</th>
         <td>1915</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -108,4 +108,4 @@ Giunse a Catania nel 1935 in prestito dal Bologna per disputare due memorabili c
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Amedeo Biavati](https://it.wikipedia.org/wiki/Amedeo_Biavati)*.
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 * *Almanacco Illustrato del Calcio*, Panini Edizioni, Modena.
-* [CalcioCatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/) — Archivio storico e statistiche ufficiali.
+* [CalcioCatania.com](https://www.calciocatania.com/)/) — Archivio storico e statistiche ufficiali.

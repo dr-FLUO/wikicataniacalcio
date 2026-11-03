@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Marino D&apos;Aloisio
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?D-Aloisio-390
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 390
 aliases:
 - tesserati/calciatori/marino-d-aloisio
 - marino-d-aloisio
 - tesserati/marino-d-aloisio
 - calciatori/marino-d-aloisio
+- tesserati/calciatori/marino-daposaloisio
+- marino-daposaloisio
+- tesserati/marino-daposaloisio
+- calciatori/marino-daposaloisio
+- 03-tesserati/calciatori/archivio/m-o/marino-daposaloisio
+- Marino D'Aloisio
 citizenship: Italia
 total_goals: 0
 total_assists: 0
@@ -41,6 +53,8 @@ minutes_played: 2239
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+image: assets/images/players/390_marino-daposaloisio.jpg
+tm_id: 299906
 ---
 # Marino D'Aloisio — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1989–1990</td>
+        <td colspan="3">1990–1991</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,8 +109,8 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1989-1990** | Libero | 26 | 0 | 0 | 0 | 0 | 2239' |
+| **1990-1991** | Libero | 26 | 0 | 0 | 0 | 0 | 2239' |
 | **TOTALE** | — | **26** | **0** | **0** | **0** | **0** | **2239'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Marino D'Aloisio** ha collezionato complessivamente **26 presenze ufficiali**, disputando **2239 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **2239 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.

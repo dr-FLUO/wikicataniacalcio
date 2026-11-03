@@ -63,10 +63,15 @@ cover_caption: Pablo César Barrientos («El Pitu») durante la preparazione con
   e 14 reti in Serie A).
 cover_credit: 'Foto: Phil1m · Licenza: CC BY-SA 3.0 (Wikimedia Commons)'
 aliases:
-- tesserati/calciatori/pablo-barrientos
-- pablo-barrientos
-- tesserati/pablo-barrientos
+- 03-tesserati/calciatori/archivio/p-r/pablo-cesar-barrientos
+- 03-tesserati/calciatori/pablo-cesar-barrientos
 - calciatori/pablo-barrientos
+- calciatori/pablo-cesar-barrientos
+- pablo-cesar-barrientos
+- tesserati/calciatori/pablo-barrientos
+- tesserati/calciatori/pablo-cesar-barrientos
+- tesserati/pablo-barrientos
+- tesserati/pablo-cesar-barrientos
 image_credits:
 - image_path: assets/images/calciatori/pablo-barrientos.jpg
   alt_text: Ritratto ufficiale di Pablo Barrientos in maglia rossazzurra
@@ -93,6 +98,7 @@ seasons_count: 5
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 19946
 ---
 # Pablo Barrientos
 
@@ -199,15 +205,15 @@ Nel luglio 2014, dopo **93 gare ufficiali e 15 reti** con il Catania, fa ritorno
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2008-2009** | Ala destra | 2 | 0 | 0 | 0 | 0 | 60' |
-| **2009-2010** | Ala destra | 2 | 0 | 1 | 0 | 0 | 210' |
-| **2010-2011** | Ala destra | 26 | 4 | 4 | 5 | 0 | 1757' |
-| **2011-2012** | Ala destra | 35 | 5 | 5 | 7 | 0 | 2922' |
-| **2012-2013** | Ala destra | 28 | 5 | 4 | 10 | 0 | 2287' |
+| **2009-2010** | Ala destra | 2 | 0 | 0 | 0 | 0 | 60' |
+| **2010-2011** | Ala destra | 2 | 0 | 1 | 0 | 0 | 210' |
+| **2011-2012** | Ala destra | 26 | 4 | 4 | 5 | 0 | 1757' |
+| **2012-2013** | Ala destra | 35 | 5 | 5 | 7 | 0 | 2922' |
+| **2013-2014** | Ala destra | 28 | 5 | 4 | 10 | 0 | 2287' |
 | **TOTALE** | — | **93** | **14** | **14** | **22** | **0** | **7236'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Pablo Barrientos** ha collezionato complessivamente **93 presenze ufficiali**, disputando **7236 minuti** di gioco effettivo, siglando **14 gol** e servendo **14 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **93 presenze ufficiali**, disputando **7236 minuti** di gioco effettivo, siglando **14 gol** e servendo **14 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -217,4 +223,4 @@ Nel luglio 2014, dopo **93 gare ufficiali e 15 reti** con il Catania, fa ritorno
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 458-466.
 3. **Roberto Quartarone, Alessandro Russo**, *Pablo "Pitu" Barrientos, il genio argentino dai piedi vellutati*, Tutto il Catania minuto per minuto ([tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.[tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/)/)/)), 2014.
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Pablo Cesar Barrientos*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Barrientos-33).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Pablo Cesar Barrientos*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Barrientos-33).

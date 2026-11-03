@@ -52,17 +52,14 @@ minutes_played: 15135
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 495964
 ---
 # Lorenzo Barlassina — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/487_lorenzo-barlassina.jpg" alt="Lorenzo Barlassina" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1975–1981</td>
+        <td colspan="3">1976–1982</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,15 +101,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1975-1976** | Attacco | 30 | 1 | 0 | 0 | 0 | 2570' |
-| **1977-1978** | Attacco | 32 | 1 | 0 | 0 | 0 | 2871' |
-| **1978-1979** | Attacco | 28 | 6 | 0 | 0 | 0 | 2517' |
-| **1979-1980** | Attacco | 42 | 7 | 0 | 0 | 0 | 3772' |
-| **1980-1981** | Attacco | 39 | 3 | 0 | 0 | 1 | 3405' |
+| **1976-1977** | Attacco | 30 | 1 | 0 | 0 | 0 | 2570' |
+| **1978-1979** | Attacco | 32 | 1 | 0 | 0 | 0 | 2871' |
+| **1979-1980** | Attacco | 28 | 6 | 0 | 0 | 0 | 2517' |
+| **1980-1981** | Attacco | 42 | 7 | 0 | 0 | 0 | 3772' |
+| **1981-1982** | Attacco | 39 | 3 | 0 | 0 | 1 | 3405' |
 | **TOTALE** | — | **171** | **18** | **0** | **0** | **1** | **15135'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lorenzo Barlassina** ha collezionato complessivamente **171 presenze ufficiali**, disputando **15135 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **171 presenze ufficiali**, disputando **15135 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -133,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Lorenzo Barlassina](https://it.wikipedia.org/wiki/Lorenzo_Barlassina)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Barlassina*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Barlassina-487](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Barlassina-487), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Barlassina*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Barlassina-487)/giocatori/giocatori.php?Barlassina-487), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

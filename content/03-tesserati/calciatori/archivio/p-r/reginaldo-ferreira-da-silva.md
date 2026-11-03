@@ -1,7 +1,7 @@
 ---
 title: Reginaldo Ferreira Da Silva — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Reginaldo Ferreira Da
-  Silva, attaccante del Calcio Catania con 28 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Reginaldo Ferreira Da Silva, attaccante del Calcio Catania con
+  28 presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/reginaldo-ferreira-da-silva
 entity_type: calciatore
 status: verified
@@ -38,8 +38,7 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/989_reginaldo-ferreira-da-silva.jpg
-  alt_text: Ritratto del calciatore Reginaldo Ferreira Da Silva in maglia rossazzurra
-    del Calcio Catania
+  alt_text: Ritratto del calciatore Reginaldo Ferreira Da Silva in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -54,6 +53,7 @@ minutes_played: 1364
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 23365
 ---
 # Reginaldo Ferreira Da Silva — Scheda Giocatore nel Calcio Catania
 
@@ -69,9 +69,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1984</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -81,7 +81,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2019–2021</td>
+        <td colspan="3">2020–2022</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -114,14 +114,16 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Reginaldo Ferreira Da Silva*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ferreira-Da-Silva-989](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Ferreira-Da-Silva-989), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Reginaldo Ferreira Da Silva*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ferreira-Da-Silva-989), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2019-2020 | Punta centrale | 28 | 2 | 1 | 2 | 0 | 1305' |
-| 2020-2021 | Punta centrale | 1 | 1 | 0 | 0 | 0 | 59' |
+| **2020-2021** | Punta centrale | 28 | 2 | 1 | 2 | 0 | 1305' |
+| **2021-2022** | Punta centrale | 1 | 1 | 0 | 0 | 0 | 59' |
+| **TOTALE** | — | **29** | **3** | **1** | **2** | **0** | **1364'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 29 presenze e 3 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **29 presenze ufficiali**, disputando **1364 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.

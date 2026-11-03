@@ -63,6 +63,7 @@ minutes_played: 2790
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 249227
 ---
 # Riccardo Carapellese
 
@@ -81,7 +82,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1922</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>Regno d'Italia</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -126,12 +127,12 @@ Indossando la fascia di capitano con dignità regale, guidò i giovani compagni 
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1956-1957** | Ala sinistra | 19 | 6 | 0 | 0 | 0 | 1710' |
-| **1957-1958** | Ala sinistra | 12 | 3 | 0 | 0 | 0 | 1080' |
+| **1957-1958** | Ala sinistra | 19 | 6 | 0 | 0 | 0 | 1710' |
+| **1958-1959** | Ala sinistra | 12 | 3 | 0 | 0 | 0 | 1080' |
 | **TOTALE** | — | **31** | **9** | **0** | **0** | **0** | **2790'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Riccardo Carapellese** ha collezionato complessivamente **31 presenze ufficiali**, disputando **2790 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **31 presenze ufficiali**, disputando **2790 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Fonti e Bibliografia
@@ -139,4 +140,4 @@ Indossando la fascia di capitano con dignità regale, guidò i giovani compagni 
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 176-184 (Stagioni 1957-1958 e 1958-1959).
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Riccardo Carapellese*, [calciocatania.com](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Carapellese-686).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e statistiche di Riccardo Carapellese*, [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Carapellese-686).

@@ -52,17 +52,14 @@ minutes_played: 14399
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 306008
 ---
 # Paolo Montanari — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/573_paolo-montanari.jpg" alt="Paolo Montanari" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1965–1972</td>
+        <td colspan="3">1966–1973</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,16 +101,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1965-1966** | Libero | 35 | 0 | 0 | 0 | 0 | 3150' |
-| **1966-1967** | Libero | 31 | 1 | 0 | 0 | 0 | 2820' |
-| **1968-1969** | Libero | 21 | 0 | 0 | 0 | 0 | 1823' |
-| **1969-1970** | Libero | 14 | 0 | 0 | 0 | 0 | 1028' |
-| **1970-1971** | Libero | 28 | 0 | 0 | 0 | 0 | 2369' |
-| **1971-1972** | Libero | 36 | 0 | 0 | 0 | 0 | 3209' |
+| **1966-1967** | Libero | 35 | 0 | 0 | 0 | 0 | 3150' |
+| **1967-1968** | Libero | 31 | 1 | 0 | 0 | 0 | 2820' |
+| **1969-1970** | Libero | 21 | 0 | 0 | 0 | 0 | 1823' |
+| **1970-1971** | Libero | 14 | 0 | 0 | 0 | 0 | 1028' |
+| **1971-1972** | Libero | 28 | 0 | 0 | 0 | 0 | 2369' |
+| **1972-1973** | Libero | 36 | 0 | 0 | 0 | 0 | 3209' |
 | **TOTALE** | — | **165** | **1** | **0** | **0** | **0** | **14399'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Paolo Montanari** ha collezionato complessivamente **165 presenze ufficiali**, disputando **14399 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **165 presenze ufficiali**, disputando **14399 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Paolo Montanari](https://it.wikipedia.org/wiki/Paolo_Montanari)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Paolo Montanari*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Montanari-573](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Montanari-573), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Paolo Montanari*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Montanari-573)/giocatori/giocatori.php?Montanari-573), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

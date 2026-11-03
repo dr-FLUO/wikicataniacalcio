@@ -87,7 +87,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2024</td>
+        <td colspan="3">2002–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -107,14 +107,14 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Difensore centrale | 34 | 3 | 0 | 6 | 0 | 2867' |
-| **2002-2003** | Difensore centrale | 13 | 1 | 0 | 2 | 0 | 994' |
-| **2022-2023** | Difensore centrale | 20 | 1 | 1 | 6 | 0 | 1596' |
-| **2023-2024** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
+| **2002-2003** | Difensore centrale | 34 | 3 | 0 | 6 | 0 | 2867' |
+| **2003-2004** | Difensore centrale | 13 | 1 | 0 | 2 | 0 | 994' |
+| **2023-2024** | Difensore centrale | 20 | 1 | 1 | 6 | 0 | 1596' |
+| **2024-2025** | Difensore centrale | 1 | 0 | 0 | 1 | 0 | 90' |
 | **TOTALE** | — | **68** | **5** | **1** | **15** | **0** | **5547'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Salvatore Monaco** ha collezionato complessivamente **68 presenze ufficiali**, disputando **5547 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **5547 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +135,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Salvatore Monaco](https://it.wikipedia.org/wiki/Salvatore_Monaco)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Monaco*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Monaco-1118](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Monaco-1118), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Salvatore Monaco*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Monaco-1118)/giocatori/giocatori.php?Monaco-1118), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

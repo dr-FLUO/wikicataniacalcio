@@ -63,6 +63,7 @@ minutes_played: 212
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 135793
 ---
 # Renato Zaccarelli — Scheda Giocatore nel Calcio Catania
 
@@ -90,7 +91,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1967–1968</td>
+        <td colspan="3">1968–1969</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -110,11 +111,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1967-1968** | Centrocampista | 3 | 0 | 0 | 0 | 0 | 212' |
+| **1968-1969** | Centrocampista | 3 | 0 | 0 | 0 | 0 | 212' |
 | **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **212'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Renato Zaccarelli** ha collezionato complessivamente **3 presenze ufficiali**, disputando **212 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **212 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -135,5 +136,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Renato Zaccarelli](https://it.wikipedia.org/wiki/Renato_Zaccarelli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Zaccarelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Zaccarelli-602](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Zaccarelli-602), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Renato Zaccarelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Zaccarelli-602)/giocatori/giocatori.php?Zaccarelli-602), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

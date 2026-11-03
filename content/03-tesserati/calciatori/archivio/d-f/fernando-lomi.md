@@ -11,7 +11,7 @@ birth_date: '1916-08-18'
 birth_place: Milano
 death_date: '2003-01-01'
 nationality: Italia
-total_appearances: 18
+total_appearances: 21
 seasons_count: 1
 image: assets/images/calciatori/fernando-lomi.jpg
 image_credits:
@@ -50,7 +50,7 @@ aliases:
 citizenship: Italia
 total_goals: 0
 total_assists: 0
-minutes_played: 1538
+minutes_played: 1890
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -81,11 +81,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2003–2004</td>
+        <td colspan="3">1947–1948</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>18</td>
+        <td>21</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -100,11 +100,3 @@ locked_by: quadratura_riconciliazione_alias_dataset
 Nato a Milano (1916-08-18), Fernando Lomi ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2003-2004 | Mediano | 18 | 0 | 0 | 6 | 1 | 1538' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 18 presenze e 0 reti complessive.*

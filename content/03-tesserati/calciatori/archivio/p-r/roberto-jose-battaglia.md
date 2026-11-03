@@ -1,14 +1,14 @@
 ---
 title: Roberto Jose Battaglia — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Roberto Jose Battaglia,
-  attaccante del Calcio Catania con 37 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Roberto Jose Battaglia, attaccante del Calcio Catania con 26 presenze e 4 reti
+  registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/roberto-jose-battaglia
 entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Attaccante
-total_appearances: 12
-seasons_count: 1
+total_appearances: 26
+seasons_count: 2
 tags:
 - calciatori
 - roberto-jose-battaglia
@@ -26,8 +26,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Battaglia-656
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 656
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -42,10 +41,11 @@ birth_place: San Paolo
 citizenship: Brasile
 total_goals: 4
 total_assists: 0
-minutes_played: 1080
+minutes_played: 2340
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 490656
 ---
 # Roberto Jose Battaglia — Scheda Giocatore nel Calcio Catania
 
@@ -76,11 +76,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1998–1999</td>
+        <td colspan="3">1962–1964</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>12</td>
+        <td>26</td>
         <th>Goal / Assist</th>
         <td>4 / 0</td>
       </tr>
@@ -110,13 +110,15 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Roberto José Battaglia](https://it.wikipedia.org/wiki/Roberto_Jos%C3%A9_Battaglia)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Jose Battaglia*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-656](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Battaglia-656), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Roberto Jose Battaglia*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Battaglia-656)/giocatori/giocatori.php?Battaglia-656), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
 
 ## Rendimento e Presenze Ufficiali per Stagione
 
 | Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1998-1999 | Centrocampo | 12 | 4 | 0 | 2 | 0 | 1080' |
+| **1962-1963** | Ala destra | 11 | 0 | 0 | 0 | 0 | 990' |
+| **1963-1964** | Ala destra | 15 | 4 | 0 | 0 | 0 | 1350' |
+| **TOTALE** | — | **26** | **4** | **0** | **0** | **0** | **2340'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 12 presenze e 4 reti complessive.*
+*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 26 presenze e 4 reti complessive.*

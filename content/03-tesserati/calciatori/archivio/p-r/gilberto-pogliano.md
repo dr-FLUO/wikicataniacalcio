@@ -93,4 +93,3 @@ locked_by: certificazione_archivio_storico_ufficiale
 Attaccante piemontese rapido e ficcante. Veste la casacca rossazzurra della Società Sportiva Catania nei primi campionati storici di Prima Divisione e Serie B tra il 1933 e il 1935, contribuendo alla prima memorabile ascesa in cadetteria del 1934.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1933-1935, totalizzando **42 presenze ufficiali** tra campionati e coppe nazionali.
-

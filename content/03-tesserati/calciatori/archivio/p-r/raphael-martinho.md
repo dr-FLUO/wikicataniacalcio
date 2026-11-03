@@ -42,10 +42,15 @@ sources:
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
 aliases:
-- tesserati/calciatori/raphael-martinho
-- raphael-martinho
-- tesserati/raphael-martinho
+- 03-tesserati/calciatori/alves-de-lima-raphael-martinho
+- 03-tesserati/calciatori/archivio/a-c/alves-de-lima-raphael-martinho
+- alves-de-lima-raphael-martinho
+- calciatori/alves-de-lima-raphael-martinho
 - calciatori/raphael-martinho
+- tesserati/alves-de-lima-raphael-martinho
+- tesserati/calciatori/alves-de-lima-raphael-martinho
+- tesserati/calciatori/raphael-martinho
+- tesserati/raphael-martinho
 citizenship: Brasile
 total_goals: 5
 total_assists: 5
@@ -53,6 +58,7 @@ minutes_played: 2189
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 149946
 ---
 # Raphael Martinho — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +86,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2009–2014</td>
+        <td colspan="3">2010–2015</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,9 +110,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2009-2010** | Esterno di sinistra | 14 | 1 | 0 | 1 | 1 | 706' |
-| **2013-2014** | Esterno di sinistra | 22 | 4 | 5 | 6 | 0 | 1483' |
+| **2010-2011** | Esterno di sinistra | 14 | 1 | 0 | 1 | 1 | 706' |
+| **2014-2015** | Esterno di sinistra | 22 | 4 | 5 | 6 | 0 | 1483' |
 | **TOTALE** | — | **36** | **5** | **5** | **7** | **1** | **2189'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Raphael Martinho** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2189 minuti** di gioco effettivo, siglando **5 gol** e servendo **5 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2189 minuti** di gioco effettivo, siglando **5 gol** e servendo **5 assist** distribuiti su **2 stagioni sportive**.

@@ -1,7 +1,7 @@
 ---
 title: Alfio Maurizio Romeo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Alfio Maurizio Romeo,
-  centrocampista del Calcio Catania con 7 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Alfio Maurizio Romeo, centrocampista del Calcio Catania con 7
+  presenze registrate in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/alfio-maurizio-romeo
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Romeo-406
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 406
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -37,6 +36,7 @@ minutes_played: 471
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 711229
 ---
 # Alfio Maurizio Romeo — Scheda Giocatore nel Calcio Catania
 
@@ -98,16 +98,18 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1988-1989** | Mediano | 7 | 0 | 0 | 0 | 0 | 417' |
+| **1989-1990** | Mediano | 3 | 1 | 0 | 0 | 0 | 54' |
+| **TOTALE** | — | **10** | **1** | **0** | **0** | **0** | **471'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Alfio Romeo** ha collezionato complessivamente **10 presenze ufficiali**, disputando **471 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alfio Maurizio Romeo*, in [https://www.calciocatania.com/giocatori/giocatori.php?Romeo-406](https://www.calciocatania.com/giocatori/giocatori.php?Romeo-406), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alfio Maurizio Romeo*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Romeo-406), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1987-1988 | Mediano | 7 | 0 | 0 | 0 | 0 | 417' |
-| 1988-1989 | Mediano | 3 | 1 | 0 | 0 | 0 | 54' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 10 presenze e 1 reti complessive.*

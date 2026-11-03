@@ -110,6 +110,11 @@ export const EDITORIAL_FOLDERS: Record<string, EditorialFolderMeta> = {
     desc: "La genealogia degli stemmi sociali dal 1929 a oggi: le forme a scudo, la transizione dell'elefante Liotru, le varianti cromatiche e l'acquisizione del marchio storico.",
     rubric: "RUBRICA 05 · SIMBOLI",
   },
+  "05-identita-e-simboli/maglie": {
+    title: "Maglie Storiche, Divise & Evoluzione Sartoriale",
+    desc: "L'evoluzione stilistica e cromatica delle casacche rossazzurre dal 1929 a oggi: trame, colletti, seconde e terze divise storiche.",
+    rubric: "RUBRICA 05 · SIMBOLI",
+  },
   "05-identita-e-simboli/sponsor": {
     title: "Sponsor Tecnici & Main Sponsor Commerciali",
     desc: "Tutte le divise e i marchi che hanno accompagnato le stagioni del Catania: da Ennerre a Puma, Legea, Givova ed Erreà, insieme agli storici sponsor sul petto.",
@@ -160,6 +165,11 @@ export const EDITORIAL_FOLDERS: Record<string, EditorialFolderMeta> = {
     desc: "Lo storico e indissolubile gemellaggio con la tifoseria del Genoa e i legami di stima con Napoli, Triestina, Crotone e Borussia Dortmund.",
     rubric: "RUBRICA 06 · TIFOSERIA",
   },
+  "06-tifoseria-e-cultura/relazioni/amicizie": {
+    title: "Amicizie Storiche & Rapporti di Rispetto",
+    desc: "Le relazioni di fratellanza, solidarietà e rispetto reciproco costruite nel tempo dalle curve rossazzurre con tifoserie italiane ed europee.",
+    rubric: "RUBRICA 06 · TIFOSERIA",
+  },
   "06-tifoseria-e-cultura/relazioni/rivalita": {
     title: "Rivalità Storiche & Grandi Derby",
     desc: "Il Derby di Sicilia contro il Palermo, il derby dello Stretto con il Messina e le accese sfide contro club del panorama regionale e nazionale.",
@@ -168,6 +178,11 @@ export const EDITORIAL_FOLDERS: Record<string, EditorialFolderMeta> = {
   "07-media-e-comunicazione": {
     title: "Media, Stampa, TV & Voci Rossazzurre",
     desc: "La narrazione giornalistica, letteraria e radiotelevisiva delle vicende del Calcio Catania: testate storiche, emittenti regionali, grandi firme e saggi enciclopedici.",
+    rubric: "RUBRICA 07 · MEDIA",
+  },
+  "07-media-e-comunicazione/cinema-e-tv": {
+    title: "Cinema, Televisione & Immaginario Popolare",
+    desc: "Il Calcio Catania sul grande e piccolo schermo: citazioni cinematografiche, documentari, trasmissioni storiche e cultura visuale.",
     rubric: "RUBRICA 07 · MEDIA",
   },
   "07-media-e-comunicazione/testate": {
@@ -186,19 +201,19 @@ export const EDITORIAL_FOLDERS: Record<string, EditorialFolderMeta> = {
     rubric: "RUBRICA 07 · MEDIA",
   },
   "08-settori-paralleli": {
-    title: "Settori Paralleli, Cantera & Altre Discipline",
-    desc: "Il vivaio rossazzurro, la valorizzazione dei giovani talenti, la squadra femminile e le altre discipline che hanno portato i colori del Catania alla ribalta.",
-    rubric: "RUBRICA 08 · PARALLELI",
+    title: "Vivaio, Cantera & Catania Women",
+    desc: "Il vivaio rossazzurro, la valorizzazione dei giovani talenti, la squadra femminile e le discipline che hanno portato i colori del Catania alla ribalta.",
+    rubric: "RUBRICA 08 · VIVAIO & WOMEN",
   },
   "08-settori-paralleli/giovanili": {
     title: "Settore Giovanile, Cantera & Viareggio",
     desc: "La cantera dell'Elefante, la formazione Berretti e Primavera e le storiche partecipazioni alla Coppa Carnevale di Viareggio.",
-    rubric: "RUBRICA 08 · PARALLELI",
+    rubric: "RUBRICA 08 · VIVAIO & WOMEN",
   },
   "08-settori-paralleli/women": {
     title: "Catania Women & Tradizione Femminile",
     desc: "Dallo scudetto 1978 della Jolly Componibili Catania alla rinascita del dipartimento femminile del Catania Football Club.",
-    rubric: "RUBRICA 08 · PARALLELI",
+    rubric: "RUBRICA 08 · VIVAIO & WOMEN",
   },
 }
 
@@ -217,7 +232,7 @@ export function getEditorialFolderInfo(rawSlug: string): EditorialFolderMeta {
   else if (clean.startsWith("05-") || clean.startsWith("identita") || clean.startsWith("simboli")) rubric = "RUBRICA 05 · SIMBOLI"
   else if (clean.startsWith("06-") || clean.startsWith("tifoseria")) rubric = "RUBRICA 06 · TIFOSERIA"
   else if (clean.startsWith("07-") || clean.startsWith("media")) rubric = "RUBRICA 07 · MEDIA"
-  else if (clean.startsWith("08-") || clean.startsWith("settori")) rubric = "RUBRICA 08 · PARALLELI"
+  else if (clean.startsWith("08-") || clean.startsWith("settori-paralleli")) rubric = "RUBRICA 08 · VIVAIO & WOMEN"
 
   // Check season pattern
   const seasonMatch = clean.match(/(\d{4}-\d{4})/)

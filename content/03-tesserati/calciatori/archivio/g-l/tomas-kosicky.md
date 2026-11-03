@@ -58,15 +58,20 @@ image_credits:
   year: 2024
   license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
-- tesserati/calciatori/tomas-kosicky
-- tomas-kosicky
-- tesserati/tomas-kosicky
-- calciatori/tomas-kosicky
-- tesserati/calciatori/tomàs-kosicky
-- tomàs-kosicky
-- tesserati/tomàs-kosicky
-- calciatori/tomàs-kosicky
+- 03-tesserati/calciatori/archivio/s-z/toma-ko-ick
 - 03-tesserati/calciatori/archivio/s-z/tomàs-kosicky
+- 03-tesserati/calciatori/toma-ko-ick
+- calciatori/toma-ko-ick
+- calciatori/tomas-kosicky
+- calciatori/tomàs-kosicky
+- tesserati/calciatori/toma-ko-ick
+- tesserati/calciatori/tomas-kosicky
+- tesserati/calciatori/tomàs-kosicky
+- tesserati/toma-ko-ick
+- tesserati/tomas-kosicky
+- tesserati/tomàs-kosicky
+- toma-ko-ick
+- tomàs-kosicky
 citizenship: Slovacchia
 total_goals: 0
 total_assists: 1
@@ -74,6 +79,7 @@ minutes_played: 777
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 78496
 ---
 # Tomáš Košický — Scheda Giocatore nel Calcio Catania
 
@@ -101,7 +107,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2007–2012</td>
+        <td colspan="3">2008–2012</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -125,11 +131,11 @@ Ha vestito la maglia rossazzurra nel periodo 2008-2012.
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2007-2008** | Portiere | 6 | 0 | 0 | 0 | 0 | 540' |
-| **2008-2009** | Portiere | 1 | 0 | 0 | 0 | 0 | 34' |
-| **2009-2010** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2010-2011** | Portiere | 3 | 0 | 1 | 0 | 0 | 203' |
+| **2008-2009** | Portiere | 6 | 0 | 0 | 0 | 0 | 540' |
+| **2009-2010** | Portiere | 1 | 0 | 0 | 0 | 0 | 34' |
+| **2010-2011** | Portiere | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2011-2012** | Portiere | 3 | 0 | 1 | 0 | 0 | 203' |
 | **TOTALE** | — | **10** | **0** | **1** | **0** | **0** | **777'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Tomas Kosicky** ha collezionato complessivamente **10 presenze ufficiali**, disputando **777 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **777 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.

@@ -57,6 +57,7 @@ minutes_played: 4908
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 84468
 ---
 # Dario Bergamelli — Scheda Giocatore nel Calcio Catania
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2014–2016</td>
+        <td colspan="3">2015–2017</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,12 +105,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2014-2015** | Difensore centrale | 30 | 1 | 0 | 5 | 0 | 2637' |
-| **2015-2016** | Difensore centrale | 26 | 1 | 0 | 5 | 1 | 2271' |
+| **2015-2016** | Difensore centrale | 30 | 1 | 0 | 5 | 0 | 2637' |
+| **2016-2017** | Difensore centrale | 26 | 1 | 0 | 5 | 1 | 2271' |
 | **TOTALE** | — | **56** | **2** | **0** | **10** | **1** | **4908'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Dario Bergamelli** ha collezionato complessivamente **56 presenze ufficiali**, disputando **4908 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4908 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -130,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Dario Bergamelli](https://it.wikipedia.org/wiki/Dario_Bergamelli)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dario Bergamelli*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bergamelli-886](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Bergamelli-886), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Dario Bergamelli*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Bergamelli-886)/giocatori/giocatori.php?Bergamelli-886), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

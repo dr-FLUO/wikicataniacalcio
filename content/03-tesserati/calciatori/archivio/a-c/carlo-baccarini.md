@@ -52,17 +52,14 @@ minutes_played: 11070
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 369418
 ---
 # Carlo Baccarini — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/731_carlo-baccarini.jpg" alt="Carlo Baccarini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1949–1954</td>
+        <td colspan="3">1950–1955</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,15 +101,15 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1949-1950** | Difesa | 19 | 0 | 0 | 0 | 0 | 1710' |
-| **1950-1951** | Difesa | 38 | 0 | 0 | 0 | 0 | 3420' |
-| **1951-1952** | Difesa | 32 | 0 | 0 | 0 | 0 | 2880' |
+| **1950-1951** | Difesa | 19 | 0 | 0 | 0 | 0 | 1710' |
+| **1951-1952** | Difesa | 38 | 0 | 0 | 0 | 0 | 3420' |
 | **1952-1953** | Difesa | 32 | 0 | 0 | 0 | 0 | 2880' |
-| **1953-1954** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1953-1954** | Difesa | 32 | 0 | 0 | 0 | 0 | 2880' |
+| **1954-1955** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
 | **TOTALE** | — | **123** | **0** | **0** | **0** | **0** | **11070'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Carlo Baccarini** ha collezionato complessivamente **123 presenze ufficiali**, disputando **11070 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **123 presenze ufficiali**, disputando **11070 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -133,5 +130,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Carlo Baccarini](https://it.wikipedia.org/wiki/Carlo_Baccarini_(calciatore))*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Carlo Baccarini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baccarini-731](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Baccarini-731), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Carlo Baccarini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Baccarini-731)/giocatori/giocatori.php?Baccarini-731), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

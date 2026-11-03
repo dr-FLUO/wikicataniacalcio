@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 9
+total_appearances: 5
 seasons_count: 1
 image: assets/images/calciatori/marco-piampiani.jpg
 image_credits:
@@ -40,7 +40,7 @@ aliases:
 - calciatori/marco-piampiani
 total_goals: 0
 total_assists: 0
-minutes_played: 440
+minutes_played: 250
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -71,11 +71,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2006–2007</td>
+        <td colspan="3">1999–2000</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>9</td>
+        <td>5</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -104,13 +104,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Piampiani*, in [https://www.calciocatania.com/giocatori/giocatori.php?Piampiani-340](https://www.calciocatania.com/giocatori/giocatori.php?Piampiani-340), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Piampiani*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Piampiani-340), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2006-2007 | Seconda punta | 9 | 0 | 0 | 1 | 0 | 440' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 9 presenze e 0 reti complessive.*

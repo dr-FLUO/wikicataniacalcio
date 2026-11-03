@@ -41,6 +41,7 @@ minutes_played: 570
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 468698
 ---
 # Ottorino Casanova — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +72,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1934–1936</td>
+        <td colspan="3">1935–1937</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,9 +96,9 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1934-1935** | Centrocampista | 2 | 0 | 0 | 0 | 0 | 180' |
-| **1935-1936** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 390' |
+| **1935-1936** | Centrocampista | 2 | 0 | 0 | 0 | 0 | 180' |
+| **1936-1937** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 390' |
 | **TOTALE** | — | **6** | **0** | **0** | **0** | **0** | **570'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Ottorino Casanova** ha collezionato complessivamente **6 presenze ufficiali**, disputando **570 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **570 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.

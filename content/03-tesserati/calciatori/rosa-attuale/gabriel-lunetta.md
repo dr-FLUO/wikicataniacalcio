@@ -67,6 +67,7 @@ minutes_played: 4440
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 287710
 ---
 # Gabriel Lunetta — Centrocampista e Cursore di Fascia del Catania FC
 
@@ -84,7 +85,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
         <th>Anno</th>
         <td>1996</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -129,13 +130,13 @@ Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenz
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Esterno di sinistra | 25 | 6 | 1 | 2 | 0 | 1570' |
-| **2024-2025** | Esterno di sinistra | 38 | 9 | 6 | 5 | 1 | 2209' |
-| **2025-2026** | Esterno di sinistra | 13 | 1 | 2 | 4 | 0 | 661' |
+| **2024-2025** | Esterno di sinistra | 25 | 6 | 1 | 2 | 0 | 1570' |
+| **2025-2026** | Esterno di sinistra | 38 | 9 | 6 | 5 | 1 | 2209' |
+| **2026-2027** | Esterno di sinistra | 13 | 1 | 2 | 4 | 0 | 661' |
 | **TOTALE** | — | **76** | **16** | **9** | **11** | **1** | **4440'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Gabriel Lunetta** ha collezionato complessivamente **76 presenze ufficiali**, disputando **4440 minuti** di gioco effettivo, siglando **16 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **76 presenze ufficiali**, disputando **4440 minuti** di gioco effettivo, siglando **16 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate

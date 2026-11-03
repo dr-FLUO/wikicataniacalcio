@@ -76,7 +76,7 @@ La Curva Nord rappresenta lo specchio fedele delle complesse dinamiche urbane di
 4. **Piazza Palestro e Fortino (*Piazza Palestro*):** Nel cuore del centro storico, all'ombra della Porta Garibaldi (il *Fortino*), rappresenta l'anima verace e popolare della città antica, custode delle tradizioni più viscerali del popolo rossazzurro.
 5. **Stazione (*Stazione Clan*):** Sorto nell'area nevralgica della Stazione Centrale di Piazza Papa Giovanni XXIII, questo clan ha storicamente rappresentato l'avamposto della tifoseria nei viaggi ferroviari, distinguendosi per una compattezza proverbiale maturata negli anni d'oro dei treni speciali.
 6. **San Cristoforo / Via San Jacopo:** Il rione più verace e denso del capoluogo, le cui componenti della Nord (spesso duramente colpite da diffide e procedimenti giudiziari) hanno esibito drappi iconici come *Via San Jacopo (Assenti Presenti)*.
-7. **Cibali (*Cibali Ultras*):** Il quartiere che ospita fisicamente lo stadio dal 1937, custode del legame topografico immediato con l'impianto e della memoria del celeberrimo [[partite/1960-1961/catania-inter-2-0|[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»]].
+7. **Cibali (*Cibali Ultras*):** Il quartiere che ospita fisicamente lo stadio dal 1937, custode del legame topografico immediato con l'impianto e della memoria del celeberrimo [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali!»]].
 8. **I Comuni Etnei e la Cintura Metropolitana:** La Nord accoglie formazioni attive provenienti dall'hinterland pedemontano, come *Zafferana Rossoazzurra*, *Zona Aeroporto*, *Settore San Paolo* (Gravina di Catania) e *Misterbianco*.
 
 ---

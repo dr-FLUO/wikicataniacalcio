@@ -52,6 +52,7 @@ minutes_played: 1482
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 88317
 ---
 # Alessandro Del Grosso — Scheda Giocatore nel Calcio Catania
 
@@ -80,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2001–2003</td>
+        <td colspan="3">2002–2004</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,12 +101,12 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2001-2002** | Terzino destro | 23 | 0 | 0 | 1 | 0 | 1264' |
-| **2002-2003** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 218' |
+| **2002-2003** | Terzino destro | 23 | 0 | 0 | 1 | 0 | 1264' |
+| **2003-2004** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 218' |
 | **TOTALE** | — | **30** | **0** | **0** | **1** | **0** | **1482'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Alessandro Del Grosso** ha collezionato complessivamente **30 presenze ufficiali**, disputando **1482 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **1482 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -126,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Alessandro Del Grosso](https://it.wikipedia.org/wiki/Alessandro_Del_Grosso)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Del Grosso*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Grosso-127](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Del-Grosso-127), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Alessandro Del Grosso*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Del-Grosso-127)/giocatori/giocatori.php?Del-Grosso-127), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -38,20 +38,23 @@ Ogni file generato o modificato all'interno della directory `content/` deve risp
 
 ## 3. Tassonomia delle Cartelle (`content/`) e Convenzioni di Naming
 
-Tutti i nomi dei file e delle cartelle devono utilizzare esclusivamente il formato **`kebab-case`** (lettere minuscole `a-z`, cifre `0-9` e trattini `-`, senza spazi né caratteri accentati):
+Tutti i nomi dei file e delle cartelle devono utilizzare esclusivamente il formato **`kebab-case`** (lettere minuscole `a-z`, cifre `0-9` e trattini `-`, senza spazi né caratteri accentati), organizzati nelle 8 rubriche editoriali numerate (`01`–`08`):
 
 - `content/index.md` ➔ `entity_type: "home_portal"`
-- `content/societa/<anno>-<slug>.md` ➔ `entity_type: "era_societaria"`
-- `content/societa/presidenti/<nome-cognome>.md` ➔ `entity_type: "dirigente"`
-- `content/stagioni/<YYYY-YYYY>.md` ➔ `entity_type: "stagione_agonistica"`
-- `content/partite/<YYYY-YYYY>/<squadra1-squadra2-score>.md` ➔ `entity_type: "tabellino_gara"`
-- `content/partite/precedenti/<avversario>.md` ➔ `entity_type: "archivio_precedenti"`
-- `content/tesserati/calciatori/<nome-cognome>.md` ➔ `entity_type: "calciatore"`
-- `content/tesserati/allenatori/<nome-cognome>.md` ➔ `entity_type: "allenatore"`
-- `content/stadio/<slug-impianto>.md` ➔ `entity_type: "impianto_sportivo"`
-- `content/maglie/<slug-kit-o-logo>.md` ➔ `entity_type: "kit_storico"`
-- `content/vicende-legali/<slug-dossier>.md` ➔ `entity_type: "vicenda_legale"`
-- `content/tifoseria/<settore-o-categoria>/<slug>.md` ➔ `entity_type: "gruppo_ultras"` | `"relazione_tifo"` | `"evento_tifo"` | `"biografia_tifo"`
+- `content/01-societa/storia-e-assetto/<anno>-<slug>.md` ➔ `entity_type: "era_societaria"`
+- `content/01-societa/presidenti-e-dirigenti/<nome-cognome>.md` ➔ `entity_type: "dirigente"`
+- `content/01-societa/vicende-legali-e-inchieste/<slug-dossier>.md` ➔ `entity_type: "vicenda_legale"`
+- `content/02-cronistoria/stagioni/<YYYY-YYYY>.md` ➔ `entity_type: "stagione_agonistica"`
+- `content/02-cronistoria/partite-storiche/<YYYY-YYYY>/<squadra1-squadra2-score>.md` ➔ `entity_type: "tabellino_gara"`
+- `content/02-cronistoria/partite-storiche/precedenti/<avversario>.md` ➔ `entity_type: "archivio_precedenti"`
+- `content/02-cronistoria/albo-d-oro-e-record/<slug>.md` ➔ `entity_type: "albo_record"`
+- `content/03-tesserati/calciatori/<sottocartella>/<nome-cognome>.md` (`rosa-attuale`, `storici`, `archivio/a-c..s-z`) ➔ `entity_type: "calciatore"`
+- `content/03-tesserati/allenatori/<nome-cognome>.md` ➔ `entity_type: "allenatore"`
+- `content/04-strutture/stadio-massimino/<slug-impianto>.md` & `content/04-strutture/centri-sportivi/<slug>.md` ➔ `entity_type: "impianto_sportivo"`
+- `content/05-simboli-e-identita/maglie-e-colori/<slug>.md`, `stemmi-e-araldica/<slug>.md`, `inni-e-cori/<slug>.md` ➔ `entity_type: "kit_storico"`
+- `content/06-tifoseria-e-cultura/<sottocartella>/<slug>.md` ➔ `entity_type: "gruppo_ultras"` | `"relazione_tifo"` | `"evento_tifo"` | `"biografia_tifo"`
+- `content/07-media-e-comunicazione/<sottocartella>/<slug>.md` (`libri`, `testate`, `radio-tv`, `filmografia`, `giornalisti`) ➔ `entity_type: "media_cultura"`
+- `content/08-settori-paralleli/<sottocartella>/<slug>.md` (`settore-giovanile`, `calcio-femminile`) ➔ `entity_type: "settore_parallelo"`
 - `content/note-legali-privacy-accessibilita.md` ➔ `entity_type: "legal_compliance"`
 - `content/segnala-correzione.md` ➔ `entity_type: "feedback_portal"`
 

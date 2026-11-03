@@ -52,17 +52,14 @@ minutes_played: 15120
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 496137
 ---
 # Elio Grani — Scheda Giocatore nel Calcio Catania
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
     <img src="/assets/images/players/669_elio-grani.jpg" alt="Elio Grani" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">[[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
-
----
-
-## Fonti e Bibliografia</div>
+    <div class="nfc-player-photo-credit"><a href="/07-media-e-comunicazione/testate/calciocatania-com" class="internal">Archivio Storico CalcioCatania.com</a></div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -84,7 +81,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1955–1961</td>
+        <td colspan="3">1956–1962</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -104,16 +101,16 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1955-1956** | Difensore centrale | 33 | 1 | 0 | 0 | 0 | 2970' |
-| **1956-1957** | Difensore centrale | 32 | 1 | 0 | 0 | 0 | 2880' |
-| **1957-1958** | Difensore centrale | 30 | 2 | 0 | 0 | 0 | 2700' |
-| **1958-1959** | Difensore centrale | 33 | 2 | 0 | 0 | 0 | 2970' |
-| **1959-1960** | Difensore centrale | 28 | 0 | 0 | 0 | 1 | 2430' |
-| **1960-1961** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 1170' |
+| **1956-1957** | Difensore centrale | 33 | 1 | 0 | 0 | 0 | 2970' |
+| **1957-1958** | Difensore centrale | 32 | 1 | 0 | 0 | 0 | 2880' |
+| **1958-1959** | Difensore centrale | 30 | 2 | 0 | 0 | 0 | 2700' |
+| **1959-1960** | Difensore centrale | 33 | 2 | 0 | 0 | 0 | 2970' |
+| **1960-1961** | Difensore centrale | 28 | 0 | 0 | 0 | 1 | 2430' |
+| **1961-1962** | Difensore centrale | 13 | 0 | 0 | 0 | 0 | 1170' |
 | **TOTALE** | — | **169** | **6** | **0** | **0** | **1** | **15120'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Elio Grani** ha collezionato complessivamente **169 presenze ufficiali**, disputando **15120 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **169 presenze ufficiali**, disputando **15120 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -134,5 +131,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Elio Grani](https://it.wikipedia.org/wiki/Elio_Grani)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Elio Grani*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Grani-669](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Grani-669), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Elio Grani*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Grani-669)/giocatori/giocatori.php?Grani-669), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

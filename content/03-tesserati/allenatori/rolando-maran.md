@@ -1,8 +1,7 @@
 ---
 title: Rolando Maran — L'Allenatore del Record Storico di 56 Punti in Serie A (2012-2013)
-description: Biografia e statistiche di Rolando Maran, allenatore del record storico
-  assoluto di 56 punti e dell'8º posto del Calcio Catania in Serie A nella stagione
-  2012-2013.
+description: Biografia e statistiche di Rolando Maran, allenatore del record storico assoluto di 56 punti e dell'8º posto
+  del Calcio Catania in Serie A nella stagione 2012-2013.
 slug: 03-tesserati/allenatori/rolando-maran
 entity_type: allenatore
 status: verified
@@ -43,29 +42,25 @@ sources:
   year: 2014
   reference: Classifica finale Serie A 2012-2013 (8º posto, 56 punti, 15 vittorie)
 - author: Roberto Quartarone, Alessandro Russo
-  title: 'Stagione 2012-2013: Rolando Maran e i 56 punti del Catania più forte di
-    tutti i tempi'
+  title: 'Stagione 2012-2013: Rolando Maran e i 56 punti del Catania più forte di tutti i tempi'
   publisher: tuttoilcataniaminutoperminuto.it
   url: https://www.tuttoilcataniaminutoperminuto.it/
   year: 2013
   reference: Analisi statistica dei record stabiliti nella stagione 2012-2013
 cover_image: rolando-maran.jpg
-cover_caption: Rolando Maran, tecnico del Catania dei record nella stagione 2012-2013
-  (56 punti e 8º posto in Serie A).
+cover_caption: Rolando Maran, tecnico del Catania dei record nella stagione 2012-2013 (56 punti e 8º posto in Serie A).
 cover_credit: 'Foto: Pottercomuneo · Licenza: CC BY-SA 4.0'
 aliases:
 - tesserati/allenatori/rolando-maran
 - rolando-maran
 - tesserati/rolando-maran
 - allenatori/rolando-maran
-
 total_matches: 63
-
 locked: true
 locked_date: '2026-10-30'
-locked_by: 'quadratura_storico_allenatori_dataset'
+locked_by: quadratura_storico_allenatori_dataset
+tm_id: 3018
 ---
-
 # Rolando Maran
 
 <div class="nfc-player-hero-card nfc-coach-hero-card">

@@ -29,6 +29,12 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Vito D&apos;Amato
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?D-Amato-558
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 558
 image: assets/images/calciatori/vito-d-amato.jpg
 image_credits:
 - image_path: assets/images/calciatori/vito-d-amato.jpg
@@ -41,6 +47,12 @@ aliases:
 - vito-d-amato
 - tesserati/vito-d-amato
 - calciatori/vito-d-amato
+- tesserati/calciatori/vito-daposamato
+- vito-daposamato
+- tesserati/vito-daposamato
+- calciatori/vito-daposamato
+- 03-tesserati/calciatori/archivio/s-z/vito-daposamato
+- Vito D'Amato
 citizenship: Italia
 total_goals: 6
 total_assists: 0
@@ -48,6 +60,7 @@ minutes_played: 4153
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 480859
 ---
 # Vito D'Amato — Scheda Giocatore nel Calcio Catania
 
@@ -76,7 +89,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1970–1973</td>
+        <td colspan="3">1971–1974</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -100,10 +113,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1970-1971** | Attacco | 17 | 2 | 0 | 0 | 0 | 989' |
-| **1971-1972** | Attacco | 24 | 4 | 0 | 0 | 0 | 1957' |
-| **1972-1973** | Attacco | 14 | 0 | 0 | 0 | 0 | 1207' |
+| **1971-1972** | Attacco | 17 | 2 | 0 | 0 | 0 | 989' |
+| **1972-1973** | Attacco | 24 | 4 | 0 | 0 | 0 | 1957' |
+| **1973-1974** | Attacco | 14 | 0 | 0 | 0 | 0 | 1207' |
 | **TOTALE** | — | **55** | **6** | **0** | **0** | **0** | **4153'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Vito D'Amato** ha collezionato complessivamente **55 presenze ufficiali**, disputando **4153 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **4153 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

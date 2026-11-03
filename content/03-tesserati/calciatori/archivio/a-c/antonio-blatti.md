@@ -1,7 +1,7 @@
 ---
 title: Antonio Blatti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Antonio Blatti, difensore
-  del Calcio Catania con 4 presenze registrate in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Antonio Blatti, difensore del Calcio Catania con 4 presenze registrate
+  in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/antonio-blatti
 entity_type: calciatore
 status: verified
@@ -20,8 +20,7 @@ sources:
   url: https://www.calciocatania.com/giocatori/giocatori.php?Blatti-550
   year: 2024
   reference: Archivio Giocatori CalcioCatania.com - ID 550
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -37,6 +36,7 @@ minutes_played: 313
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+tm_id: 534814
 ---
 # Antonio Blatti — Scheda Giocatore nel Calcio Catania
 
@@ -98,16 +98,18 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ---
 
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
+
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1973-1974** | Difesa | 2 | 0 | 0 | 0 | 0 | 133' |
+| **1974-1975** | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
+| **TOTALE** | — | **4** | **0** | **0** | **0** | **0** | **313'** |
+
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, **Carlo Blatti** ha collezionato complessivamente **4 presenze ufficiali**, disputando **313 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Blatti*, in [https://www.calciocatania.com/giocatori/giocatori.php?Blatti-550](https://www.calciocatania.com/giocatori/giocatori.php?Blatti-550), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Antonio Blatti*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Blatti-550), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1972-1973 | Difesa | 2 | 0 | 0 | 0 | 0 | 133' |
-| 1973-1974 | Difesa | 2 | 0 | 0 | 0 | 0 | 180' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 4 presenze e 0 reti complessive.*

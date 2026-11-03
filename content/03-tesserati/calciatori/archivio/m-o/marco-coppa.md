@@ -7,7 +7,7 @@ entity_type: calciatore
 status: verified
 last_verified_date: '2026-10-28'
 role: Centrocampista
-total_appearances: 31
+total_appearances: 0
 seasons_count: 1
 tags:
 - calciatori
@@ -32,8 +32,8 @@ aliases:
 - tesserati/marco-coppa
 - calciatori/marco-coppa
 total_goals: 0
-total_assists: 2
-minutes_played: 2518
+total_assists: 0
+minutes_played: 0
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
@@ -67,13 +67,13 @@ locked_by: quadratura_riconciliazione_alias_dataset
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2015–2016</td>
+        <td colspan="3">1998–1999</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>31</td>
+        <td>0</td>
         <th>Goal / Assist</th>
-        <td>0 / 2</td>
+        <td>0 / 0</td>
       </tr>
     </tbody>
   </table>
@@ -100,13 +100,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Coppa*, in [https://www.calciocatania.com/giocatori/giocatori.php?Coppa-270](https://www.calciocatania.com/giocatori/giocatori.php?Coppa-270), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Marco Coppa*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Coppa-270), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-
-## Rendimento e Presenze Ufficiali per Stagione
-
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2015-2016 | Mediano | 31 | 0 | 2 | 14 | 0 | 2518' |
-
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 31 presenze e 0 reti complessive.*

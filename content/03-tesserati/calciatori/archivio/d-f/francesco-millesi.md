@@ -62,6 +62,7 @@ minutes_played: 273
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 32098
 ---
 # Francesco Millesi — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2005–2008</td>
+        <td colspan="3">2006–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Ala sinistra | 10 | 0 | 1 | 1 | 0 | 272' |
-| **2006-2007** | Ala sinistra | 1 | 0 | 0 | 0 | 0 | 1' |
-| **2007-2008** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
+| **2006-2007** | Ala sinistra | 10 | 0 | 1 | 1 | 0 | 272' |
+| **2007-2008** | Ala sinistra | 1 | 0 | 0 | 0 | 0 | 1' |
+| **2008-2009** | Ala sinistra | 0 | 0 | 0 | 0 | 0 | 0' |
 | **TOTALE** | — | **11** | **0** | **1** | **1** | **0** | **273'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Francesco Millesi** ha collezionato complessivamente **11 presenze ufficiali**, disputando **273 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **273 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Francesco Millesi](https://it.wikipedia.org/wiki/Francesco_Millesi)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Millesi*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Millesi-52](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Millesi-52), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Francesco Millesi*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Millesi-52)/giocatori/giocatori.php?Millesi-52), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

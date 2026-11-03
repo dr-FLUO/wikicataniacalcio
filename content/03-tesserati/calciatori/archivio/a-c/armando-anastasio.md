@@ -1,7 +1,7 @@
 ---
 title: Armando Anastasio — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore
-  del Calcio Catania con 36 presenze e 3 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Armando Anastasio, difensore del Calcio Catania con 36 presenze
+  e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/armando-anastasio
 entity_type: calciatore
 status: verified
@@ -38,8 +38,7 @@ image_credits:
   year: 2026
   license_type: Certificato di Pubblico Dominio / Documentazione Sportiva
 - image_path: assets/images/players/1089_armando-anastasio.jpg
-  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio
-    Catania
+  alt_text: Ritratto del calciatore Armando Anastasio in maglia rossazzurra del Calcio Catania
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
   license_type: Creative Commons CC BY-SA 4.0
@@ -56,6 +55,7 @@ minutes_played: 2876
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 286275
 ---
 # Armando Anastasio — Scheda Giocatore nel Calcio Catania
 
@@ -71,9 +71,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Anno</th>
-        <td>ND</td>
+        <td>1997</td>
         <th>Nazionalità</th>
-        <td>Italia</td>
+        <td>ND</td>
       </tr>
       <tr>
         <th>Altezza</th>
@@ -83,7 +83,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2023–2024</td>
+        <td colspan="3">2024–2025</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -103,11 +103,11 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2023-2024** | Terzino sinistro | 36 | 3 | 3 | 11 | 0 | 2876' |
+| **2024-2025** | Terzino sinistro | 36 | 3 | 3 | 11 | 0 | 2876' |
 | **TOTALE** | — | **36** | **3** | **3** | **11** | **0** | **2876'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Armando Anastasio** ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -127,5 +127,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 
 ## Fonti e Bibliografia
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Armando Anastasio*, in [https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Anastasio-1089](https://www.[calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Anastasio-1089), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Armando Anastasio*, in [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Anastasio-1089), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -62,6 +62,7 @@ minutes_played: 9748
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 6446
 ---
 # Lorenzo Stovini — Scheda Giocatore nel Calcio Catania
 
@@ -89,7 +90,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">2005–2008</td>
+        <td colspan="3">2006–2009</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -109,13 +110,13 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2005-2006** | Difensore centrale | 35 | 2 | 1 | 9 | 1 | 3142' |
-| **2006-2007** | Difensore centrale | 42 | 1 | 0 | 11 | 0 | 3810' |
-| **2007-2008** | Difensore centrale | 33 | 0 | 0 | 6 | 1 | 2796' |
+| **2006-2007** | Difensore centrale | 35 | 2 | 1 | 9 | 1 | 3142' |
+| **2007-2008** | Difensore centrale | 42 | 1 | 0 | 11 | 0 | 3810' |
+| **2008-2009** | Difensore centrale | 33 | 0 | 0 | 6 | 1 | 2796' |
 | **TOTALE** | — | **110** | **3** | **1** | **26** | **2** | **9748'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Lorenzo Stovini** ha collezionato complessivamente **110 presenze ufficiali**, disputando **9748 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **110 presenze ufficiali**, disputando **9748 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Note e Scheda di Carriera
@@ -136,5 +137,5 @@ Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Lorenzo Stovini](https://it.wikipedia.org/wiki/Lorenzo_Stovini)*.
 
-1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Stovini*, in [https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Stovini-65](https://www.[calciocatania.com](https://www.[calciocatania.com](https://www.calciocatania.com/)/)/giocatori/giocatori.php?Stovini-65), 2024.
+1. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Lorenzo Stovini*, in [calciocatania.com](https://www.calciocatania.com/)/giocatori/giocatori.php?Stovini-65)/giocatori/giocatori.php?Stovini-65), 2024.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

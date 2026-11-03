@@ -29,11 +29,23 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
+- author: Salvatore Giovanni Emanuele, Max Licari
+  title: Scheda anagrafica e statistiche di Eraldo Gavazzi
+  publisher: calciocatania.com
+  url: https://www.calciocatania.com/giocatori/giocatori.php?Gavazzi-749
+  year: 2024
+  reference: Archivio Giocatori CalcioCatania.com - ID 749
 aliases:
 - tesserati/calciatori/aldo-gavazzi
 - aldo-gavazzi
 - tesserati/aldo-gavazzi
 - calciatori/aldo-gavazzi
+- tesserati/calciatori/eraldo-gavazzi
+- eraldo-gavazzi
+- tesserati/eraldo-gavazzi
+- calciatori/eraldo-gavazzi
+- 03-tesserati/calciatori/archivio/d-f/eraldo-gavazzi
+- Eraldo Gavazzi
 citizenship: Italia
 total_goals: 17
 total_assists: 0
@@ -41,6 +53,7 @@ minutes_played: 6480
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
+tm_id: 591866
 ---
 # Aldo Gavazzi — Scheda Giocatore nel Calcio Catania
 
@@ -71,7 +84,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
       </tr>
       <tr>
         <th>Al Catania</th>
-        <td colspan="3">1948–1951</td>
+        <td colspan="3">1949–1952</td>
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
@@ -95,10 +108,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1948-1949** | Attacco | 35 | 4 | 0 | 0 | 0 | 3150' |
-| **1949-1950** | Attacco | 33 | 12 | 0 | 0 | 0 | 2970' |
-| **1950-1951** | Attacco | 4 | 1 | 0 | 0 | 0 | 360' |
+| **1949-1950** | Attacco | 35 | 4 | 0 | 0 | 0 | 3150' |
+| **1950-1951** | Attacco | 33 | 12 | 0 | 0 | 0 | 2970' |
+| **1951-1952** | Attacco | 4 | 1 | 0 | 0 | 0 | 360' |
 | **TOTALE** | — | **72** | **17** | **0** | **0** | **0** | **6480'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, **Aldo Gavazzi** ha collezionato complessivamente **72 presenze ufficiali**, disputando **6480 minuti** di gioco effettivo, siglando **17 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **72 presenze ufficiali**, disputando **6480 minuti** di gioco effettivo, siglando **17 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.

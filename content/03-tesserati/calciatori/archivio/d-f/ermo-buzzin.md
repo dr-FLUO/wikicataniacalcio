@@ -1,7 +1,7 @@
 ---
 title: Ermo Buzzin — Il Due Volte Capocannoniere di Serie B (1956-1958)
-description: Biografia e statistiche di Ermo Buzzin, centravanti e punto di riferimento
-  offensivo del Catania con 16 reti tra il 1956 e il 1958.
+description: Biografia e statistiche di Ermo Buzzin, centravanti e punto di riferimento offensivo del Catania con 16 reti
+  tra il 1956 e il 1958.
 slug: 03-tesserati/calciatori/archivio/d-f/ermo-buzzin
 entity_type: calciatore
 status: verified
@@ -27,8 +27,7 @@ tags:
 - serie-b
 - poggi
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -38,17 +37,31 @@ sources:
   publisher: calciocatania.com
   year: 2026
   url: https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672
+- author: Wikipedia Italia
+  title: Voce Enciclopedica Ufficiale — Sebastiano Buzzin
+  publisher: Wikimedia Foundation
+  year: 2026
+  url: https://it.wikipedia.org/wiki/Sebastiano_Buzzin
+  reference: Dati anagrafici, carriera e presenze verificate
 aliases:
 - tesserati/calciatori/ermo-buzzin
 - ermo-buzzin
 - tesserati/ermo-buzzin
 - calciatori/ermo-buzzin
+- tesserati/calciatori/sebastiano-buzzin
+- sebastiano-buzzin
+- tesserati/sebastiano-buzzin
+- calciatori/sebastiano-buzzin
+- 03-tesserati/calciatori/archivio/s-z/sebastiano-buzzin
+- Sebastiano Buzzin
 total_assists: 0
 minutes_played: 12330
 seasons_count: 4
 locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_riconciliazione_alias_dataset
+image: assets/images/players/672_sebastiano-buzzin.jpg
+citizenship: Regno d'Italia
 ---
 # Ermo Buzzin
 
@@ -112,18 +125,20 @@ Nella successiva stagione [[stagioni/1957-1958|1957-1958]] Buzzin si confermò c
 
 ## Fonti
 
-- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Sebastiano Buzzin*, consultabile su [https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672](https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672).
+- **Archivio Storico CalcioCatania.com**, *Scheda anagrafica e presenze: Sebastiano Buzzin*, consultabile su [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Buzzin-672).
  e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, pp. 170-179 (Stagioni 1956-1957 e 1957-1958).
 
-## Rendimento e Presenze Ufficiali per Stagione
+### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
-| Stagione | Ruolo | Presenze | Reti | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
+| Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1955-1956 | Centrocampista | 34 | 10 | 0 | 0 | 0 | 3060' |
-| 1956-1957 | Centrocampista | 33 | 6 | 0 | 0 | 0 | 2970' |
-| 1957-1958 | Centrocampista | 37 | 7 | 0 | 0 | 0 | 3330' |
-| 1958-1959 | Centrocampista | 33 | 9 | 0 | 0 | 0 | 2970' |
+| **1956-1957** | Centrocampista | 34 | 10 | 0 | 0 | 0 | 3060' |
+| **1957-1958** | Centrocampista | 33 | 6 | 0 | 0 | 0 | 2970' |
+| **1958-1959** | Centrocampista | 37 | 7 | 0 | 0 | 0 | 3330' |
+| **1959-1960** | Centrocampista | 33 | 9 | 0 | 0 | 0 | 2970' |
+| **TOTALE** | — | **137** | **32** | **0** | **0** | **0** | **12330'** |
 
-*Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 137 presenze e 32 reti complessive.*
+> [!info] Dettaglio di Rendimento Agonistico
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **137 presenze ufficiali**, disputando **12330 minuti** di gioco effettivo, siglando **32 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
