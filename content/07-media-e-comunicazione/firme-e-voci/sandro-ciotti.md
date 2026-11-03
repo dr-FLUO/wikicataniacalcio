@@ -3,8 +3,8 @@ title: "Sandro Ciotti: La Voce Inconfondibile e il Conio di «Clamoroso al Cibal
 description: "Profilo biografico di Sandro Ciotti (1928-2003), maestro del giornalismo radiotelevisivo RAI e autore della celebre esclamazione «Clamoroso al Cibali!» (1961)."
 slug: "07-media-e-comunicazione/firme-e-voci/sandro-ciotti"
 entity_type: "biografia_giornalista"
-status: "verified"
-last_verified_date: 2026-10-28
+status: verified
+last_verified_date: 2026-11-03
 tags:
   - sandro-ciotti
   - clamoroso-al-cibali

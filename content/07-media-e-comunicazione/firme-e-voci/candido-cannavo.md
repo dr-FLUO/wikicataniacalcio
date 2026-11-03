@@ -4,7 +4,7 @@ description: 'Biografia del maestro del giornalismo italiano Candido Cannavò (1
 slug: 07-media-e-comunicazione/firme-e-voci/candido-cannavo
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - candido-cannavo
 - giornalismo

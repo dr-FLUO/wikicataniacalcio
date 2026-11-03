@@ -4,7 +4,7 @@ description: 'Biografia professionale di Livio Giannotta: giornalista, fondatore
 slug: 07-media-e-comunicazione/firme-e-voci/livio-giannotta
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - livio-giannotta
 - tuttocalciocatania-com

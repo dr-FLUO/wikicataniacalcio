@@ -6,7 +6,7 @@ description: Monografia bibliografica e catalogo ragionato di grandi opere encic
 slug: 07-media-e-comunicazione/letteratura
 entity_type: section_index
 status: verified
-last_verified_date: 2026-10-30
+last_verified_date: 2026-11-03
 tags:
 - letteratura
 - bibliografia
@@ -16,15 +16,12 @@ tags:
 - fonti
 - editoria
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2011
-  reference: Opera monumentale completa, 528 pagine con tutti i tabellini e statistiche
-    1929-2011
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+  reference: Opera monumentale completa, 528 pagine con tutti i tabellini e statistiche 1929-2011
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Il rosso, l'azzurro. Catania, novant'anni di una maglia
   publisher: GEO Edizioni, Empoli
   year: 2020
@@ -51,66 +48,71 @@ aliases:
 
 # Bibliografia e Letteratura Storica sul Calcio Catania
 
-La storia agonistica, culturale e sociale del **Calcio Catania** (dalle origini della *Pro Patria 1908* e della fondazione federale della *Società Sportiva Catania 1929* fino alla rinascita come *Catania Football Club*) è stata custodita da una ricchissima produzione editoriale. Questo catalogo bibliografico ragionato censisce in forma organica l'intero patrimonio cartaceo edito sul club rossazzurro, suddiviso tra grandi opere enciclopediche, almanacchi statistici, saggi storici e biografie dei protagonisti.
+La storia agonistica, culturale e sociale del **Calcio Catania** (dalle origini della *Pro Patria 1908* e della fondazione federale della *Società Sportiva Catania 1929* fino alla rinascita come *Catania Football Club*) è stata custodita e tramandata da una ricchissima produzione editoriale.
+
+Questo portale bibliografico censisce in forma organica l'intero patrimonio letterario e saggistico edito sul club rossazzurro, articolato tra grandi opere enciclopediche, studi araldici, biografie dei protagonisti, almanacchi ufficiali e saggi sociologici.
 
 ---
 
-## 1. Le Grandi Opere Enciclopediche e Filologiche
+## 1. Le Grandi Opere Enciclopediche, Filologiche e Araldiche
 
 Le pietre miliari della storiografia rossazzurra, utilizzate come fonti primarie per la ricostruzione archivistica del club:
 
-| Opera | Autori | Casa Editrice | Anno | Caratteristiche e Contenuto Documentale |
+| Opera Monografica | Autori | Casa Editrice | Anno | Profilo Enciclopedico |
 | :--- | :--- | :--- | :---: | :--- |
-| **Tutto il Catania minuto per minuto** | Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino | GEO Edizioni (Empoli) | 2010 (agg. 2011) | **528 pagine, opera omnia definitiva**. Ricostruzione analitica gara per gara di oltre 3.000 partite ufficiali dal 1929 al 2011 con tabellini integrali, rose, presenze e statistiche. |
-| **Il rosso, l'azzurro. Novant'anni di una maglia** | A. Buemi, C. Fontanelli, R. Quartarone, A. Russo, F. Solarino | GEO Edizioni (Empoli) | 2020 | **112 pagine di studio filologico ed araldico**. Censimento a colori di ogni muta da gioco, evoluzione dei tessuti, colletti e loghi societari dal 1929 al 2020. |
-| **Dal fondo... ai vertici (1908-1958)** | Carmelo Gennaro, [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]] | Industrie Grafiche Siciliane | 1958 | **Prima monografia storica organica**. Documenta il pionierismo pre-bellico, la prima promozione in Serie B (1934) e la storica Serie A del 1954. |
-| **Dal fondo un traversone** | Carmelo Gennaro, [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]] | A&B Editrice | 2004 | Edizione ampliata e aggiornata che copre l'era Di Bella, i venticinque anni di Massimino e i primi anni Duemila. |
-| **Il libro del Catania** / **Due secoli di calcio** | [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone\|Roberto Quartarone]] | InContro / Koinè | 2013 / 2018 | Trattati monografici sui primati societari, origini sociali ed evoluzione dei sodalizi cittadini. |
-| **Rossazzurri Indimenticabili (Presidenti e Allenatori)** | [[07-media-e-comunicazione/firme-e-voci/antonio-buemi\|Antonio Buemi (BAnt)]] | Indipendente | 2022 / 2023 | Ritratti biografici e caricature digitali che ripercorrono la leadership del club. |
+| **[[07-media-e-comunicazione/letteratura/tutto-il-catania-minuto-per-minuto\|Tutto il Catania minuto per minuto]]** | [[07-media-e-comunicazione/firme-e-voci/antonio-buemi\|A. Buemi]], C. Fontanelli, [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone\|R. Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo\|A. Russo]], [[07-media-e-comunicazione/firme-e-voci/filippo-solarino\|F. Solarino]] | GEO Edizioni (Empoli) | 2010 (agg. 2011) | **528 pagine, opera omnia definitiva**. Ricostruzione analitica gara per gara di oltre 3.000 partite ufficiali dal 1929 al 2011 con tabellini integrali e statistiche. |
+| **[[07-media-e-comunicazione/letteratura/il-rosso-l-azzurro-novant-anni-di-una-maglia\|Il rosso, l'azzurro. Novant'anni di una maglia]]** | A. Buemi, C. Fontanelli, R. Quartarone, A. Russo, F. Solarino | GEO Edizioni (Empoli) | 2020 | **112 pagine di studio filologico ed araldico**. Censimento a colori di ogni muta da gioco, evoluzione dei tessuti, colletti e loghi societari dal 1929 al 2020. |
+| **[[07-media-e-comunicazione/letteratura/dal-fondo-ai-vertici-e-dal-fondo-un-traversone\|Dal fondo... ai vertici e Dal fondo un traversone]]** | [[07-media-e-comunicazione/firme-e-voci/carmelo-gennaro\|Carmelo Gennaro]], [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza\|Luigi Prestinenza]] | Ind. Grafiche Siciliane / A&B Editrice | 1958 / 2004 | **La capostipite delle opere storiografiche**. Documenta il pionierismo pre-bellico, la Serie A del 1954, l'era Di Bella e i venticinque anni di Massimino. |
 
 ---
 
-## 2. Almanacchi e Pubblicazioni Istituzionali di Riferimento
+## 2. Biografie dei Protagonisti e Ritratti Storici
+
+| Volume | Autore | Editore | Anno | Profilo Enciclopedico |
+| :--- | :--- | :--- | :---: | :--- |
+| **[[07-media-e-comunicazione/letteratura/angelo-massimino-una-vita-per-il-catania\|Angelo Massimino. Una vita per (il) Catania]]** | [[07-media-e-comunicazione/firme-e-voci/alessandro-russo\|Alessandro Russo]] | Edizioni La Rocca / GEO Edizioni | 2007 (rist. 2020) | **Biografia monumentale documentata**. Verbali assembleari inediti, mecenatismo e venticinque anni di presidenza del Cavaliere. |
+| **[[07-media-e-comunicazione/firme-e-voci/candido-cannavo\|Una vita in rosa]]** | [[07-media-e-comunicazione/firme-e-voci/candido-cannavo\|Candido Cannavò]] | Rizzoli (Milano) | 2002 | Memorie autobiografiche del direttore della Rosea con i racconti al Cibali e l'amicizia con Carmelo Di Bella. |
+| **[[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti\|Il volo del Falco. Lulù Oliveira]]** | [[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti\|Angelo Scaltriti]], [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro\|Giovanni Finocchiaro]] | AG Edizioni | 2004 | Biografia del fuoriclasse belga-brasiliano protagonista della promozione in B del 2002. |
+| **[[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti\|Clamoroso Catania]]** | [[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti\|Angelo Scaltriti]] | AG Edizioni | 2006 | Diario della promozione in Serie A del 2005-2006 con Pasquale Marino. |
+| **Rossazzurri Indimenticabili (Presidenti e Allenatori)** | [[07-media-e-comunicazione/firme-e-voci/antonio-buemi\|Antonio Buemi (BAnt)]] | Autoprodotto | 2022 / 2023 | Ritratti biografici e caricature digitali che ripercorrono la leadership del club. |
+| **Due eroi in panchina** | [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone\|Roberto Quartarone]] | InContropiede | 2016 | Saggio storico sui tecnici Géza Kertész e István Mészáros, martiri della Resistenza antinazista. |
+
+---
+
+## 3. Sociologia del Tifo, Inchieste e Calcio Femminile
+
+| Volume | Autori | Editore | Anno | Profilo Enciclopedico |
+| :--- | :--- | :--- | :---: | :--- |
+| **[[07-media-e-comunicazione/letteratura/quando-saremo-tutti-nella-nord\|Quando saremo tutti nella Nord]]** | Luigi Pulvirenti, [[06-tifoseria-e-cultura/biografie/michele-spampinato\|Michele Spampinato]] | Eclettica Edizioni | 2014 | **Saggio sociologico di riferimento sul movimento ultras**. Dalla Falange d'Assalto 1979 ad A Sostegno di una Fede. |
+| **[[07-media-e-comunicazione/letteratura/il-cielo-e-rosa-sopra-il-cibali\|Il cielo è rosa sopra il Cibali]]** | Sergio Nunzio Capizzi, [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone\|Roberto Quartarone]] | Quelli del '46 | 2020 | **Lo Scudetto Femminile 1978 della Jolly Componibili**. L'unico titolo assoluto conquistato da Catania nel calcio a 11. |
+| **Il cavaliere, l'elefante ed il leviatano** | Gianni Coppola | Marco Spampinato Editore | 1996 | Inchiesta analitica sui rapporti tra Angelo Massimino, la politica locale e il potere FIGC. |
+| **Il caso Raciti** | Enzo Catania | A.Car Edizioni | 2008 | Inchiesta giornalistica sui tragici fatti del derby del 2 febbraio 2007. |
+
+---
+
+## 4. Almanacchi e Pubblicazioni Istituzionali di Riferimento
 
 * **Almanacco Illustrato del Calcio (Edizioni Panini, Modena, 1971–Oggi):** Fonte ufficiale federale per presenze, formazioni, rose complete e dati anagrafici dei campionati professionistici italiani.
 * **Archivio Almanacco del Calcio (Edizioni Rizzoli, Milano, 1939–1963):** Annuario storico del calcio pre-bellico e del secondo dopoguerra diretto da Leone Boccali.
 * **Annuario del Calcio Siciliano (Edizioni La Sicilia, Catania, 1970–1995):** Compendio annuale a cura della redazione sportiva del quotidiano etneo.
 * **Guida Rossazzurra Ufficiale (Calcio Catania S.p.A., 2006–2014):** Yearbook patinato distribuito dal club durante gli otto campionati consecutivi in Serie A.
+* **Una Stagione Unica 2022/2023 (Unica Sport, 2023):** Fotocronaca e statistiche della cavalcata trionfale della rinascita in Serie D con il Gruppo Pelligra.
 
 ---
 
-## 3. Saggistica d'Inchiesta, Sociologia del Tifo e Cultura Popolare
+## 5. Collegamenti e Voci Correlate
 
-* **Candido Cannavò**, *Una vita in rosa* (Rizzoli, Milano, 2002): Memorie del decano del giornalismo italiano, con i racconti giovanili a bordo campo al Cibali e l'amicizia fraterna con Carmelo Di Bella.
-* **Gianni Coppola**, *Il cavaliere, l'elefante ed il leviatano* (Marco Spampinato Editore, 1996): Analisi sociologica della figura di Angelo Massimino nei suoi rapporti con l'imprenditoria e la politica etnea.
-* **Enzo Catania**, *Marca Liotru* (2006) e *Il caso Raciti* (A.Car Edizioni, 2008): Inchieste giornalistiche sui fatti del derby del 2 febbraio 2007.
-* **Luigi Pulvirenti e Michele Spampinato**, *Quando saremo tutti nella Nord* (Eclettica, 2014): Saggio cult sul movimento ultras catanese, dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto\|Falange d'Assalto]] alla memoria del capo ultras [[06-tifoseria-e-cultura/biografie/ciccio-famoso\|Ciccio Famoso]].
-* **Rosario Caraffa e Daniele Di Frangia**, *Palermo-Catania. La grande storia dei derby* (Edizioni Della Sera, 2013).
-
----
-
-## 4. Biografie e Ritratti dei Protagonisti
-
-* **Alessandro Russo**, *Angelo Massimino. Una vita per (il) Catania* (Edizioni La Rocca, 2007; ristampa 2020): La biografia di riferimento sul patron rossazzurro, con verbali d'assemblea inediti e testimonianze dirette. Di Russo si ricordano anche *Il Russo-Azzurro* (Algra, 2016) e l'*Antologia di racconti sul Calcio Catania* (Geo Edizioni, 2017).
-* **Angelo Scaltriti e Giovanni Finocchiaro**, *Il volo del Falco. Lulù Oliveira* (AG Edizioni, 2004): Biografia dell'attaccante belga-brasiliano protagonista della promozione in Serie B del 2002.
-* **Angelo Scaltriti**, *Clamoroso Catania* (AG Edizioni, 2006): Diario della promozione in Serie A del 2005-2006 con Pasquale Marino.
-* **Gianluca Di Marzio**, *Di Marzio racconta Di Marzio* (Wondermark, 2013): Omaggio a Gianni Di Marzio, artefice della promozione del 1983 e degli acquisti di Pedrinho e Luvanor.
-* **Biografie e Ritratti Tecnici:** Peter Keller (*Horst Szymaniak*, 2010), Fabio Campisi (*Amedeo Biavati*, 2014), Guglielmo Mazzetti (*Il Sor Guido Mazzetti*, 2015), Walter Zenga (*Coach. Le mie 20 regole*, 2015), Siniša Mihajlović (*La partita della vita*, 2020), Alejandro "Papu" Gómez (*Ciao, sono il Papu*, 2020).
-* **Calcio Femminile Etneo:** Sergio Nunzio Capizzi e Roberto Quartarone, *Il cielo è rosa sopra il Cibali* (Quelli del '46, 2020), dedicato alla vittoria dello [[08-settori-paralleli/women/index\|Scudetto Femminile 1978 della Jolly Componibili]].
-
----
-
-## 5. La Letteratura della Rinascita (2022–Oggi)
-
-* **Unica Sport**, *Una Stagione Unica 2022/2023* (2023): Fotocronaca e statistiche della cavalcata trionfale in Serie D con il Gruppo Pelligra.
-* **Salvatore Giovanni Emanuele**, *Divin Catania* (Scritturiamo, 2024): Narrazione sentimentale della rinascita etnea tra memoria storica e futuro.
-* **Orazio Provini**, *Girotondo Rossazzurro* (Algra Editore, 2024): Diario emozionale sulle gradinate del Massimino.
-
----
-
-## Voci Correlate
-
-* [[07-media-e-comunicazione/index|Indice Generale Media e Comunicazione]]
+* [[07-media-e-comunicazione/index|Indice Generale Media e Comunicazione Rossazzurra]]
+* [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it: Portale Storiografico]]
 * [[07-media-e-comunicazione/firme-e-voci/index|Firme e Voci Storiche del Giornalismo Catanese]]
 * [[07-media-e-comunicazione/testate/index|Testate Giornalistiche, Radio e Televisioni]]
 * [[05-identita-e-simboli/index|Identità, Maglie e Simboli del Calcio Catania]]
+
+---
+
+## Fonti Certificate
+
+1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Il rosso, l'azzurro. Catania, novant'anni di una maglia*, GEO Edizioni, Empoli, 2020.
+3. **Alessandro Russo**, *Angelo Massimino. Una vita per (il) Catania*, Edizioni La Rocca, Catania, 2007.
+4. **Sergio Nunzio Capizzi, Roberto Quartarone**, *Il cielo è rosa sopra il Cibali*, Quelli del '46, Catania, 2020.

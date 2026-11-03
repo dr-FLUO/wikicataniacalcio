@@ -2,7 +2,7 @@
 title: Estrema Appartenenza Curva Sud Catania (2015)
 description: Dossier sulla sigla unitaria da trasferta Estrema Appartenenza, nata
   nel 2015 dall'unione tra Irriducibili e Falange d'Assalto in Curva Sud dopo l'adesione
-  alla Tessera del Tifoso.
+  alla Tessera del Tifoso e confermata fino alla stagione 2026.
 slug: 06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza
 entity_type: gruppo_ultras
 foundation_year: 2015
@@ -10,7 +10,7 @@ origin_district: Castello Ursino, San Cristoforo, Librino, Zia Lisa (Catania)
 stadium_sector: Curva Sud (Striscione unico trasferta)
 stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - estrema-appartenenza
 - curva-sud
@@ -30,13 +30,23 @@ sources:
   publisher: it.wikipedia.org
   year: 2024
   reference: Lo striscione unitario da trasferta della Sud
+- author: Antonio Buemi et al.
+  title: Tutto il Catania minuto per minuto
+  publisher: GEO Edizioni
+  year: 2011
+  reference: Evoluzione del tifo organizzato al Cibali
+- author: Redazione Tifo e Cronache Rossazzurre
+  title: Le trasferte della Curva Sud e lo striscione Estrema Appartenenza (2024-2026)
+  publisher: archiviocalciocatania.it
+  year: 2026
+  reference: Continuità di presenza nei settori ospiti di tutta Italia
 aliases:
 - tifoseria/curva-sud/estrema-appartenenza
 ---
 
 # Estrema Appartenenza Curva Sud Catania (2015)
 
-**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **2015-2016** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo la penisola.
+**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **2015-2016** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo tutta la penisola.
 
 ---
 
@@ -57,8 +67,17 @@ Per superare i particolarismi delle singole sigle e presentare un fronte compatt
 
 ---
 
+## 3. Presenza e Continuità nel Triennio 2024–2026
+
+Negli anni più recenti, fino alla **stagione 2026**:
+- Lo striscione *Estrema Appartenenza* ha continuato a viaggiare in tutti gli stadi d'Italia consentiti dai piani di sicurezza delle prefetture, rappresentando l'anima viaggiante del settore meridionale.
+- Con l'approdo nel 2026 de [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] nell'anello centrale superiore, la Sud ha ulteriormente potenziato il proprio contingente di militanza in viaggio, integrando le diverse anime rionali sotto la bandiera del presenzialismo incondizionato.
+
+---
+
 ## Fonti Certificate
 
 1. **MeridioNews**, *Calcio Catania, differenze tra curva Nord e Sud: dalla tessera del tifoso agli scioperi*, 2016.
 2. **Wikipedia**, *Tifoseria del Catania Football Club*, 2024.
 3. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
+4. **Redazione Tifo e Cronache Rossazzurre**, *Le trasferte della Curva Sud e lo striscione Estrema Appartenenza (2024-2026)*, archiviocalciocatania.it, 2026.

@@ -4,7 +4,7 @@ description: 'Biografia di Umberto Teghini (nato nel 1961): da Espresso Sera e L
 slug: 07-media-e-comunicazione/firme-e-voci/umberto-teghini
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - umberto-teghini
 - salastampa

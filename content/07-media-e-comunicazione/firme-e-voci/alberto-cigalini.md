@@ -4,7 +4,7 @@ description: 'Biografia professionale di Alberto Cigalini: firma del Corriere de
 slug: 07-media-e-comunicazione/firme-e-voci/alberto-cigalini
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - alberto-cigalini
 - corriere-dello-sport
@@ -63,6 +63,8 @@ Sul versante audiovisivo, Cigalini si è affermato come il conduttore di riferim
 ## 3. Collegamenti e Voci Correlate
 
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor: La Televisione Storica Catanese]]
+* [[07-media-e-comunicazione/cinema-e-tv/corner|Corner: Il Talk Show del Lunedì Sera]]
+* [[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio: Il Quarantennale di Telecolor]]
 * [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale e il Quarantennale di Diretta Stadio]]
 * [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro|Giovanni Finocchiaro e la Scuola de La Sicilia]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi: Inchieste e Opinionista a Corner]]

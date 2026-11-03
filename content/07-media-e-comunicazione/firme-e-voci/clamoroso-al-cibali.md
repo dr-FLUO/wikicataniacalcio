@@ -6,7 +6,7 @@ description: Storia e impatto culturale della celeberrima frase «Clamoroso al C
 slug: 07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-28
+last_verified_date: 2026-11-03
 tags:
 - clamoroso-al-cibali
 - sandro-ciotti

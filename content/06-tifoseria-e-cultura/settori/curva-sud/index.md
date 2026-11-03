@@ -1,16 +1,19 @@
 ---
 title: 'La Curva Sud del Massimino: Tradizione Popolare e Appartenenza'
 description: 'Dossier sulla Curva Sud dello Stadio Cibali / Angelo Massimino: dai
-  Catania Raiders agli Irriducibili, l''arrivo della Falange e lo striscione Estrema
-  Appartenenza.'
+  pionieri di Onda d''Urto e Catania Raiders agli Irriducibili, l''arrivo della Falange,
+  lo striscione Estrema Appartenenza e I Pazzi nel 2026.'
 slug: 06-tifoseria-e-cultura/settori/curva-sud
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-11-02
+last_verified_date: 2026-11-03
 tags:
 - curva-sud
 - massimino
 - irriducibili
+- primo-amore
+- onda-durto
+- teddy-boys
 - falange-dassalto
 - estrema-appartenenza
 - catania-raiders
@@ -45,20 +48,23 @@ La **Curva Sud** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] rappr
 
 ## 1. Evoluzione Storica della Curva Sud
 
-- **I Pionieri degli Anni Ottanta:** Nella stagione 1982-1983 compaiono i [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], seguiti da una costellazione di formazioni giovanili (*Onda d'Urto*, *Teddy Boys*, *Panthers*, *Hells Angels*, *Brigate Ultrà*, *Indians*, *Eagles*, *Gioventù Rossazzurra*).
-- **L'Avvento degli Irriducibili (1991):** Nel 1991 un nucleo proveniente dalla Nord fonda *Primo Amore*, trasformandosi poi in [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (I.R.A.)]], che assumono la leadership indiscussa del settore per oltre vent'anni.
+- **I Pionieri degli Anni Ottanta:** Nella stagione 1982-1983 compaiono i [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]] e [[06-tifoseria-e-cultura/settori/curva-sud/onda-durto-1982|Onda d'Urto]], seguiti dalla costellazione giovanile e rionale di [[06-tifoseria-e-cultura/settori/curva-sud/teddy-boys-e-panthers|Teddy Boys e Panthers]] (*Hells Angels*, *Brigate Ultrà*, *Indians*, *Eagles*, *Gioventù Rossazzurra*).
+- **L'Avvento degli Irriducibili (1991):** Nel 1991 un nucleo proveniente dalla Nord fonda [[06-tifoseria-e-cultura/settori/curva-sud/primo-amore-1991|Primo Amore]], trasformandosi rapidamente in [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (I.R.A.)]], che assumono la leadership indiscussa del settore per oltre un trentennio.
 - **La Frattura del 2015 ed "Estrema Appartenenza":** Nel 2015, di fronte al declassamento in Serie C, la Sud sceglie di sottoscrivere la Tessera del Tifoso per non lasciare sola la squadra in trasferta. La storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] trasloca dalla Nord e si unisce agli Irriducibili sotto lo striscione unitario da trasferta [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
-- **L'Arrivo de "I Pazzi" (Stagione 2026):** Dall'avvio della stagione 2026, lo storico gruppo [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]] (nato nel 1999 a San Leone e per oltre venticinque anni colonna della Nord) si stabilisce nell'anello centrale superiore della Curva Sud, conferendo ulteriore vigore e compattezza al tifo del settore meridionale.
+- **L'Arrivo de "I Pazzi" (Stagione 2026):** Dall'avvio della stagione 2026, lo storico gruppo [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]] (nato nel 1999 a San Leone e per oltre venticinque anni colonna della Nord) si stabilisce stabilmente nell'anello centrale superiore della Curva Sud, arricchendo il settore di un ulteriore nucleo storico di grande compattezza e colore.
 
 ---
 
 ## 2. Gruppi e Documenti Correlati
 
+* **[[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili 1991 (I.R.A.)]]**: Gruppo portante della Curva Sud dal 1991 a oggi.
+* **[[06-tifoseria-e-cultura/settori/curva-sud/primo-amore-1991|Primo Amore (1991)]]**: La formazione embrionale e romantica da cui scaturirono gli Irriducibili.
 * **[[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto Rossazzurra]]**: Il gruppo storico fondato nel 1979 da Ciccio Famoso, approdato in Sud nel 2015.
-* **[[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili 1991 (I.R.A.)]]**: Gruppo portante della Curva Sud per oltre un trentennio.
-* **[[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]]**: La sigla unitaria delle trasferte dal 2015.
+* **[[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]]**: Storico gruppo di San Leone (1999), trasferitosi stabilmente nell'anello centrale superiore della Sud dal 2026.
+* **[[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]]**: La sigla unitaria delle trasferte dal 2015 al 2026.
 * **[[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]]**: Il gruppo pioniere del settore meridionale (1982-1983).
-* **[[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]]**: Storico gruppo di San Leone (1999), trasferitosi stabilmente nell'anello centrale superiore della Curva Sud dall'inizio della stagione 2026.
+* **[[06-tifoseria-e-cultura/settori/curva-sud/onda-durto-1982|Onda d'Urto (1982)]]**: La formazione ribelle dei gradoni inferiori negli anni della promozione in Serie A.
+* **[[06-tifoseria-e-cultura/settori/curva-sud/teddy-boys-e-panthers|Teddy Boys e Panthers]]**: La costellazione di tifo spontaneo e giovanile degli anni Ottanta.
 
 ---
 

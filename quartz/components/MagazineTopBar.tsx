@@ -230,7 +230,7 @@ const MagazineTopBar: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps
             <span class="nfc-issue-pill__right">1929–2026</span>
           </div>
           <div class="nfc-beta-version" title="Versione di sviluppo attivo del vault">
-            <span class="nfc-beta-version__text">BETA 1.0</span>
+            <span class="nfc-beta-version__text">BETA 1.2</span>
           </div>
         </div>
       </div>

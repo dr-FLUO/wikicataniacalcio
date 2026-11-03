@@ -4,7 +4,7 @@ description: 'Biografia di Nuccio Schillirò (1948-2014): la prima telecronaca s
 slug: 07-media-e-comunicazione/firme-e-voci/nuccio-schilliro
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - nuccio-schilliro
 - giornalismo

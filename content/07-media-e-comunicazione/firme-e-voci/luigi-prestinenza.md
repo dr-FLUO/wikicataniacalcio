@@ -4,7 +4,7 @@ description: 'Profilo biografico di Luigi Prestinenza, decano della stampa sport
 slug: 07-media-e-comunicazione/firme-e-voci/luigi-prestinenza
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - luigi-prestinenza
 - decano
@@ -59,6 +59,8 @@ Alla redazione de *La Sicilia*, Prestinenza è stato il punto di riferimento e i
 
 * [[07-media-e-comunicazione/letteratura/index|Grandi Opere Enciclopediche e Almanacchi Storici]]
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano dell'Isola]]
+* [[07-media-e-comunicazione/firme-e-voci/carmelo-gennaro|Carmelo Gennaro: Co-Autore di Dal fondo... ai vertici]]
+* [[07-media-e-comunicazione/firme-e-voci/michele-giuffrida|Michele Giuffrida: Storico Caposervizio Sport]]
 * [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò e l'Apprendistato a La Sicilia]]
 
 ---

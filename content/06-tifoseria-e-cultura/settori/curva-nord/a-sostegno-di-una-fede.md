@@ -2,7 +2,7 @@
 title: A Sostegno di una Fede (1993)
 description: 'Dossier storico sul gruppo ultras A Sostegno di una Fede: la nascita
   dopo la radiazione del 1993, la guida di Michele Spampinato e l''egemonia in Curva
-  Nord.'
+  Nord fino alla stagione 2026.'
 slug: 06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede
 entity_type: gruppo_ultras
 foundation_year: 1993
@@ -11,7 +11,7 @@ origin_district: Via Belfiore / San Cristoforo e Centro Storico (Catania)
 stadium_sector: Curva Nord
 stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - a-sostegno-di-una-fede
 - curva-nord
@@ -30,13 +30,23 @@ sources:
   publisher: GEO Edizioni
   year: 2011
   reference: Il ruolo della Curva Nord negli anni '90 e 2000
+- author: LiveSicilia
+  title: 'Il libro, il cuore, la passione: Quando saremo tutti nella Nord'
+  publisher: livesicilia.it
+  year: 2014
+  reference: Rassegna storiografica sulla Curva Nord
+- author: Redazione Tifo e Cronache Rossazzurre
+  title: 'Assetto e presidio delle curve al Massimino nella stagione 2026'
+  publisher: archiviocalciocatania.it
+  year: 2026
+  reference: Guida del settore e coordinamento coreografie della Nord
 aliases:
 - tifoseria/curva-nord/a-sostegno-di-una-fede
 ---
 
 # A Sostegno di una Fede (1993)
 
-**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che ha guidato la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Cibali / Angelo Massimino a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A.
+**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che guida ininterrottamente la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Cibali / Angelo Massimino a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A e mantenendo la leadership del settore fino alla stagione **2026**.
 
 ---
 
@@ -59,8 +69,16 @@ Sotto la guida di Spampinato, il gruppo introdusse un rigido codice di condotta 
 
 ## 3. Il Rifiuto della Tessera del Tifoso (2015)
 
-Nell'estate del 2015, di fronte al declassamento del club in Serie C per il caso dei [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|Treni del Gol]] e all'obbligo di sottoscrizione della Tessera del Tifoso per le trasferte, *A Sostegno di una Fede* ha guidato l'intero blocco della Curva Nord (*I Pazzi*, *Nord Kaos*, *Skizzati Passarello*) nella scelta dell'**intransigenza totale**:
+Nell'estate del 2015, di fronte al declassamento del club in Serie C per il caso dei [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|Treni del Gol]] e all'obbligo di sottoscrizione della Tessera del Tifoso per le trasferte, *A Sostegno di una Fede* ha guidato il blocco storico della Curva Nord (*Nord Kaos*, *Skizzati Passarello*, *I Pazzi*) nella scelta dell'**intransigenza totale**:
 - Il gruppo ha respinto categoricamente la tessera ministeriale, considerandola uno strumento di schedatura di massa lesivo dei diritti civili, scegliendo di restare coerente con la mentalità tradizionale anche a costo di disertare le trasferte soggette a restrizione.
+
+---
+
+## 4. Presidio del Settore e Riassetto della Stagione 2026
+
+All'inizio della **stagione calcistica 2026**, a seguito del trasferimento permanente del gruppo rionale de [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi]] nell'anello centrale superiore della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], *A Sostegno di una Fede* ha riorganizzato gli spazi centrali della gradinata superiore della Nord:
+- Il gruppo preserva l'egemonia direttiva del settore settentrionale, coordinando il lancio dei cori, la gestione dei bandieroni e la realizzazione delle grandi scenografie al Massimino.
+- Viene confermata l'alleanza e la cooperazione orizzontale con i gruppi satellite come *Nord Kaos* e *Skizzati Passarello*, garantendo un passaggio di testimone generazionale rigorosamente fedele ai canoni dell'antico codice non scritto di via Belfiore.
 
 ---
 
@@ -69,3 +87,4 @@ Nell'estate del 2015, di fronte al declassamento del club in Serie C per il caso
 1. **Luigi Pulvirenti, Michele Spampinato**, *Quando saremo tutti nella Nord*, Euno Edizioni / Eclettica, 2014.
 2. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
 3. **LiveSicilia**, *Il libro, il cuore, la passione: Quando saremo tutti nella Nord*, 2014.
+4. **Redazione Tifo e Cronache Rossazzurre**, *Assetto e presidio delle curve al Massimino nella stagione 2026*, archiviocalciocatania.it, 2026.

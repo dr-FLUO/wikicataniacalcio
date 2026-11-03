@@ -21,7 +21,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""} rossazzurri-footer`} role="contentinfo">
         <div class="footer-compliance-box">
           <div class="footer-brand-row">
-            <span class="footer-kicker">COLOPHON EDITORIALE · EDIZIONE {year} (BETA 1.0 PUBBLICA)</span>
+            <span class="footer-kicker">COLOPHON EDITORIALE · EDIZIONE {year} (BETA 1.2 PUBBLICA)</span>
             <p class="footer-brand">
               <strong>WIKI CATANIA CALCIO (1929–OGGI)</strong> — Magazine culturale, statistico e
               giuridico dedicato alla storia dell&apos;Elefante.
@@ -41,7 +41,7 @@ export default ((opts?: Options) => {
             <strong>European Accessibility Act (Direttiva UE 2019/882)</strong>.
           </p>
           <p class="footer-beta-notice">
-            <strong>Stato di Sviluppo (Versione Beta 1.0):</strong> Il portale è attualmente in versione Beta 1.0: nuove monografie, statistiche e dati d&apos;archivio vengono integrati e certificati quotidianamente.
+            <strong>Stato di Sviluppo (Versione Beta 1.2):</strong> Il portale è attualmente in versione Beta 1.2: nuove monografie, statistiche e dati d&apos;archivio vengono integrati e certificati quotidianamente.
           </p>
         </div>
         <div class="footer-action-row">

@@ -4,7 +4,7 @@ description: 'Dossier sulla testata web TuttoCalcioCatania.com fondata e diretta
 slug: 07-media-e-comunicazione/testate/tuttocalciocatania-com
 entity_type: testata_giornalistica_web
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - tuttocalciocatania-com
 - livio-giannotta
@@ -62,6 +62,8 @@ Negli anni della Serie C, della discesa tra i dilettanti e del nuovo corso socie
 * [[07-media-e-comunicazione/testate/calciocatania-com|CalcioCatania.com: Il Decano dei Portali Indipendenti]]
 * [[07-media-e-comunicazione/testate/catanista|Catanista: L'Informazione Cross-Mediale]]
 * [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania e il Morning Show Digitale]]
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport: Piattaforma Multimediale sul Campo]]
+* [[07-media-e-comunicazione/testate/cityzone|CiTy Zone: Piattaforma Social-First]]
 
 ---
 

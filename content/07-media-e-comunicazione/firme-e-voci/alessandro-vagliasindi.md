@@ -4,7 +4,7 @@ description: 'Biografia professionale di Alessandro Vagliasindi: avvocato e gior
 slug: 07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - alessandro-vagliasindi
 - la-repubblica

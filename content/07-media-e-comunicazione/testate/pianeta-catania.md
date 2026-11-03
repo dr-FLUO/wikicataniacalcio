@@ -4,7 +4,7 @@ description: 'Monografia su Pianeta Catania, progetto editoriale e morning show 
 slug: 07-media-e-comunicazione/testate/pianeta-catania
 entity_type: piattaforma_mediatica_digitale
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - pianeta-catania
 - max-licari
@@ -62,6 +62,8 @@ Accanto alla rassegna mattutina, il talk show settimanale ***Pianeta Catania Cal
 * [[07-media-e-comunicazione/firme-e-voci/max-licari|Max Licari: Voce Storica e Ideatore di Pianeta Catania]]
 * [[07-media-e-comunicazione/testate/calciocatania-com|CalcioCatania.com: Il Decano dei Portali Indipendenti]]
 * [[07-media-e-comunicazione/testate/catanista|Catanista: L'Informazione Cross-Mediale]]
+* [[07-media-e-comunicazione/cinema-e-tv/corner|Corner: Il Talk Show del Lunedì di Telecolor]]
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport: Piattaforma Multimediale sul Campo]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi: Inchieste e Analisi Giuridiche]]
 
 ---

@@ -1,12 +1,10 @@
 ---
 title: L'Ecosistema dei Media e dell'Informazione Rossazzurra (1945-2026)
-description: 'Portale enciclopedico sull''evoluzione dell''informazione sportiva a
-  Catania: dalla carta stampata storica alle televisioni private, dai pionieri radiofonici
-  all''editoria digitale contemporanea.'
+description: 'Portale enciclopedico sull''evoluzione dell''informazione sportiva a Catania: dalla carta stampata storica alle televisioni private, dai pionieri radiofonici all''editoria digitale contemporanea e alla cultura di massa.'
 slug: 07-media-e-comunicazione
 entity_type: section_index
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - media
 - giornalismo
@@ -14,6 +12,8 @@ tags:
 - televisione
 - radio
 - web
+- letteratura
+- cinema
 - stefania-sberna
 - candido-cannavo
 sources:
@@ -32,8 +32,7 @@ sources:
   publisher: Edizioni Etnee, Catania
   year: 2021
   reference: Evoluzione del sistema radiotelevisivo etneo
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
@@ -62,17 +61,18 @@ L'analisi diacronica del sistema dei media catanesi dagli anni Novanta al 2026 r
 La storia della carta stampata a Catania è dominata da due quotidiani storici:
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]: Fondato nel 1945, quotidiano leader dell'isola, palestra di firme leggendarie come [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]], [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]], [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] e [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro|Giovanni Finocchiaro]].
 * [[07-media-e-comunicazione/testate/espresso-sera|Espresso Sera]]: Il quotidiano pomeridiano d'informazione e dibattito (1956-1992), celebre per le edizioni straordinarie domenicali e il leggendario reportage sulla "Carica dei 40.000" a Roma nel 1983.
-* **Corrispondenze Nazionali e Regionali**: Le pagine siciliane de *La Repubblica* con l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], *Il Giornale di Sicilia* con Manlio Viola, *La Gazzetta dello Sport* con Maurizio Nicita e il *Corriere dello Sport - Stadio* con [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]].
+* **Corrispondenze Nazionali e Grandi Firme**: Le pagine siciliane de *La Repubblica* con l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], *Il Giornale di Sicilia* con [[07-media-e-comunicazione/firme-e-voci/carmelo-gennaro|Carmelo Gennaro]], *La Gazzetta dello Sport* con [[07-media-e-comunicazione/firme-e-voci/maurizio-nicita|Maurizio Nicita]] e il *Corriere dello Sport - Stadio* con [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]] e [[07-media-e-comunicazione/firme-e-voci/michele-giuffrida|Michele Giuffrida]].
 
 ---
 
 ## 3. L'Impero dell'Etere: Televisioni e Radiofonia
 
 Dalla fine degli anni Settanta, Catania è stata uno dei poli dell'emittenza privata più dinamici d'Italia:
-* [[07-media-e-comunicazione/testate/telecolor|Telecolor]]: Nata nel 1976, pioniera delle dirette sportive con il format quarantennale ***Diretta Stadio*** (1986–2026) condotto da [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale]], le telecronache di [[07-media-e-comunicazione/firme-e-voci/angelo-patane|Angelo Patanè]] e il salotto del lunedì ***Corner*** guidato da [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]].
-* [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia / Teletna]]: Inaugurò le telecronache private con [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] il 20 marzo 1975, trasformando ***Salastampa*** con [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] (1994–2016) nel programma cult del dopogara.
+* [[07-media-e-comunicazione/testate/telecolor|Telecolor]]: Nata nel 1976, pioniera delle dirette sportive con il format quarantennale ***[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]*** (1986–2026) condotto da [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale]], le telecronache di [[07-media-e-comunicazione/firme-e-voci/angelo-patane|Angelo Patanè]] e il salotto del lunedì ***[[07-media-e-comunicazione/cinema-e-tv/corner|Corner]]*** guidato da [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]].
+* [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]]: Il colosso dell'emittenza privata regionale e la grande tradizione domenicale di ***[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]*** (1980–2026) con [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] e Lucy Gullotta.
+* [[07-media-e-comunicazione/testate/teletna|Teletna]]: La pioniera dell'etere libero su cui [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] realizzò il 20 marzo 1975 la prima storica telecronaca privata del Catania.
 * [[07-media-e-comunicazione/testate/radio-sis-tam-tam-sport|Radio Sis e Tam Tam Sport]]: La storica trasmissione quotidiana a microfono aperto (1992–2010) condotta da Umberto Teghini, modello di partecipazione popolare.
-* **Poli dell'Etere Minori e Syndication**: *Sestarete* (7 Gold), *Prima TV*, *Telejonica*, *Globus Television*, *Etna Radio* e *Radio Cuore*.
+* **La Comunicazione Istituzionale**: Il ruolo ventennale di [[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti|Angelo Scaltriti]] quale responsabile della comunicazione e addetto stampa tra Serie A, caduta e rinascita.
 * **La Voce dello Stadio**: [[07-media-e-comunicazione/firme-e-voci/stefania-sberna|Stefania Sberna]] (*"The Voice"*), per un quarto di secolo speaker ufficiale dello stadio Massimino, a cui è intitolata la Tribuna Stampa.
 
 ---
@@ -84,7 +84,9 @@ Con l'avvento di Internet negli anni Duemila, Catania ha sviluppato una rete di 
 * [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania]]: Nato nel 2002 e guidato da Max Licari (24 anni nel 2026), trasformatosi in canale social-TV quotidiano con il seguitissimo format mattutino *Pianeta Rassegna*.
 * [[07-media-e-comunicazione/testate/catanista|Catanista]]: Testata registrata nel 2007 diretta da [[07-media-e-comunicazione/firme-e-voci/attilio-scuderi|Attilio Scuderi]] con Stefano Auteri, pioniere del formato cross-mediale (radio, Sestarete, YouTube e cortometraggi d'autore).
 * [[07-media-e-comunicazione/testate/tuttocalciocatania-com|TuttoCalcioCatania.com]]: Diretto da [[07-media-e-comunicazione/firme-e-voci/livio-giannotta|Livio Giannotta]], aggregatore primario e produttore di breaking news e statistiche 24 ore su 24.
-* [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]]: Portale storiografico curato dal collettivo *Quelli del '46* ([[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi]], [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]], Filippo Solarino, Emanuele Rizzo).
+* [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]]: Portale storiografico curato dal collettivo dei ricercatori e storici ([[07-media-e-comunicazione/firme-e-voci/antonio-buemi|Antonio Buemi]], [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]], [[07-media-e-comunicazione/firme-e-voci/filippo-solarino|Filippo Solarino]], Emanuele Rizzo).
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport]]: Piattaforma multimediale e testata giornalistica (Reg. Trib. 4/2019) guidata da Federico Lo Giudice; format video sul campo, rassegne social e pubblicazione del volume celebrativo della Serie D *Una Stagione Unica 2022/2023*.
+* [[07-media-e-comunicazione/testate/cityzone|CiTy Zone]]: Testata giornalistica social-first (Reg. Trib. 6/2022) fondata da Marco Zappalà e Simone Vicino con focus sul Catania FC (*Catania Zone*), dirette streaming e Visual Radio su Radio Amore.
 
 ---
 
@@ -93,4 +95,4 @@ Con l'avvento di Internet negli anni Duemila, Catania ha sviluppato una rete di 
 * [[07-media-e-comunicazione/testate/index|Dossier Testate, Canali Televisivi e Portali Web]]
 * [[07-media-e-comunicazione/firme-e-voci/index|Grandi Firme, Cronisti e Voci Storiche]]
 * [[07-media-e-comunicazione/letteratura/index|Bibliografia, Enciclopedie e Saggistica Rossazzurra]]
-* [[07-media-e-comunicazione/cinema-e-tv/index|Cinema, Televisione e Cultura di Massa]]
+* [[07-media-e-comunicazione/cinema-e-tv/index|Cinema, Televisione, Documentari e Cultura di Massa]]

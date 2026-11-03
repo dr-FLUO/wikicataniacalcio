@@ -4,7 +4,7 @@ description: 'Biografia di Luigi Tripisciano (nato nel 1937): gli inizi a La Sic
 slug: 07-media-e-comunicazione/firme-e-voci/luigi-tripisciano
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - luigi-tripisciano
 - la-sicilia

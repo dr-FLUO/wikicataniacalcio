@@ -1,11 +1,11 @@
 ---
 title: 'Relazioni della Tifoseria: Gemellaggi, Amicizie e Rivalità Storiche'
 description: Mappa geopolitica completa delle alleanze, dei patti di rispetto e delle
-  rivalità storiche del movimento ultras rossazzurro in Italia e in Europa.
+  rivalità storiche del movimento ultras rossazzurro in Italia e in Europa aggiornata al 2026.
 slug: 06-tifoseria-e-cultura/relazioni
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - relazioni
 - gemellaggi
@@ -23,6 +23,11 @@ sources:
   publisher: Edizioni Boemi
   year: 2004
   reference: Dinamiche relazionali del tifo catanese
+- author: Redazione Tifo e Cronache Rossazzurre
+  title: La mappa della diplomazia ultras del Catania nella stagione 2026
+  publisher: archiviocalciocatania.it
+  year: 2026
+  reference: Ricognizione delle alleanze e delle rivalità attive
 aliases:
 - tifoseria/relazioni
 ---
@@ -37,7 +42,7 @@ La mappa relazionale del tifo organizzato etneo rispecchia quasi mezzo secolo di
 
 1. **[[06-tifoseria-e-cultura/relazioni/gemellaggi/index|Gemellaggi Ufficiali]]**: Le alleanze formali e storicamente consolidate con le tifoserie di **Genoa**, **Crotone**, **Triestina**, **Benevento** e **Trapani**.
 2. **[[06-tifoseria-e-cultura/relazioni/amicizie/index|Patti di Amicizia e Rispetto Reciproco]]**: I legami di profonda stima e fratellanza che uniscono gli etnei a piazze primarie come **Napoli** (asse strategico del Sud), **Inter**, **Parma**, e alle curve estere di **Borussia Dortmund** (*Südtribüne*) e **Bayern Monaco**.
-3. **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: Il quadro delle inimicizie isolane e peninsulari: dal viscerale *Derby di Sicilia* contro il **Palermo** e il derby con il **Messina**, alle faide meridionali (**Salernitana**, **Taranto**, **Catanzaro**, **Reggina**, **Avellino**, **Foggia**), fino agli scontri del Centro-Nord (**Roma**, **Perugia**, **Pisa**, **Padova**, **Vicenza**, **Verona**, **Atalanta**).
+3. **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: Il quadro delle inimicizie isolane e peninsulari: dal viscerale *Derby di Sicilia* contro il **Palermo** e il derby con il **Messina**, alle faide meridionali (**Salernitana**, **Taranto**, **Catanzaro**, **Reggina**, **Lecce**, **Avellino**, **Foggia**, **Juve Stabia**), fino agli scontri del Centro-Nord (**Roma**, **Perugia**, **Pisa**, **Padova**, **Vicenza**, **Verona**, **Atalanta**).
 
 ---
 
@@ -45,3 +50,4 @@ La mappa relazionale del tifo organizzato etneo rispecchia quasi mezzo secolo di
 
 1. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
 2. **Sebastiano Molino**, *Catania siamo noi*, Edizioni Boemi, 2004.
+3. **Redazione Tifo e Cronache Rossazzurre**, *La mappa della diplomazia ultras del Catania nella stagione 2026*, archiviocalciocatania.it, 2026.

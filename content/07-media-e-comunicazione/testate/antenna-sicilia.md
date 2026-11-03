@@ -4,7 +4,7 @@ description: 'Storia e palinsesto di Antenna Sicilia: la fondazione nel 1979, la
 slug: 07-media-e-comunicazione/testate/antenna-sicilia
 entity_type: testata_televisiva
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - antenna-sicilia
 - televisione
@@ -70,6 +70,8 @@ Successivamente, il marchio e la tradizione di *Salastampa* sono stati mantenuti
 ## 4. Collegamenti e Voci Correlate
 
 * [[07-media-e-comunicazione/index|L'Ecosistema dei Media e dell'Informazione Rossazzurra]]
+* [[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa: Il Salotto Istituzionale del Dopogara]]
+* [[07-media-e-comunicazione/testate/teletna|Teletna: La Prima Telecronaca Privata del Catania]]
 * [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò: Pioniere delle Telecronache]]
 * [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini: Ventidue Anni alla Guida di Salastampa]]
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano Storico del Gruppo Ciancio]]

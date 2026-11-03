@@ -4,7 +4,7 @@ description: 'Biografia professionale di Angelo Patanè: per oltre trent''anni t
 slug: 07-media-e-comunicazione/firme-e-voci/angelo-patane
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - angelo-patane
 - telecolor

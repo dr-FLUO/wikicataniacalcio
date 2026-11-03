@@ -4,7 +4,7 @@ description: 'Monografia sulla storica trasmissione radiofonica Tam Tam Sport in
 slug: 07-media-e-comunicazione/testate/radio-sis-tam-tam-sport
 entity_type: programma_radiofonico_storico
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - radio-sis
 - tam-tam-sport
@@ -59,6 +59,7 @@ Con la rinascita societaria sotto la gestione Gaucci e il successivo approdo in 
 
 * [[07-media-e-comunicazione/index|L'Ecosistema dei Media e dell'Informazione Rossazzurra]]
 * [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini: Volto Storico di Salastampa e Tam Tam Sport]]
+* [[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa: Lo Storico Format Televisivo del Dopogara]]
 * [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia e la Trasmissione Salastampa]]
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor e Diretta Stadio]]
 * [[01-societa/vicende-legali/caso-catania-1993-eccellenza|Il Caso Catania 1993 e la Radiazione Federale]]

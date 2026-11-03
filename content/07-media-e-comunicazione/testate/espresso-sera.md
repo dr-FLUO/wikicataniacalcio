@@ -4,7 +4,7 @@ description: 'Storia del quotidiano pomeridiano Espresso Sera: dalle edizioni st
 slug: 07-media-e-comunicazione/testate/espresso-sera
 entity_type: testata_giornalistica
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 image: assets/images/media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp
 image_credits:
 - image_path: assets/images/media-e-stampa/espresso-sera-trionfo-roma-spareggi-serie-a-1983-calcio-catania.webp

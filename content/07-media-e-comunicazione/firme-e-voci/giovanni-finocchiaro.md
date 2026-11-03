@@ -4,7 +4,7 @@ description: 'Biografia professionale di Giovanni Finocchiaro: inviato di punta 
 slug: 07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - giovanni-finocchiaro
 - la-sicilia
@@ -61,6 +61,8 @@ Accanto all'attività quotidiana sulla carta stampata e sul portale digitale *la
 ## 3. Collegamenti e Voci Correlate
 
 * [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia: Il Quotidiano dell'Isola]]
+* [[07-media-e-comunicazione/firme-e-voci/michele-giuffrida|Michele Giuffrida: Maestro e Storico Caposervizio]]
+* [[07-media-e-comunicazione/firme-e-voci/angelo-scaltriti|Angelo Scaltriti: Co-Autore de Il volo del Falco]]
 * [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò: Storico Caposervizio]]
 * [[07-media-e-comunicazione/letteratura/index|Saggi, Biografie e Memorialistica Rossazzurra]]
 * [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini: Collega e Analista Tattico]]

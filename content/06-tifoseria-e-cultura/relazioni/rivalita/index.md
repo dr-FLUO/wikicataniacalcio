@@ -1,16 +1,22 @@
 ---
 title: L'Arco delle Rivalità Storiche del Tifo Rossazzurro
 description: 'Dossier completo sulle rivalità calcistiche della tifoseria del Catania:
-  i derby siciliani, la contesa per l''egemonia nel Sud Italia e gli scontri col Centro-Nord.'
+  i derby siciliani, la contesa per l''egemonia nel Mezzogiorno (Reggina, Salernitana,
+  Taranto, Avellino, Foggia, Lecce) e gli scontri col Centro-Nord.'
 slug: 06-tifoseria-e-cultura/relazioni/rivalita
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - rivalita
 - palermo
 - messina
 - siracusa
+- reggina
+- lecce
+- avellino
+- foggia
+- juve-stabia
 - salernitana
 - taranto
 - roma
@@ -49,10 +55,15 @@ Il quadro delle ostilità sportive del Calcio Catania è tra i più vasti e acce
 
 ## 2. Le Rivalità nel Mezzogiorno Continentale
 
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/reggina|Reggina (Derby dello Stretto Calabro-Siculo)]]**: Il confronto aspro lungo le sponde dello Stretto, con le tensioni storiche agli imbarchi dei traghetti a Villa San Giovanni.
 * **[[06-tifoseria-e-cultura/relazioni/rivalita/salernitana|Salernitana]]**: Tra le rivalità più sentite in assoluto; esodi di 2.500 catanesi, decine di scontri fisici diretti al Vestuti e all'Arechi.
 * **[[06-tifoseria-e-cultura/relazioni/rivalita/taranto|Taranto]]**: Inimicizia feroce scaturita dalla finale playoff 2002 e dall'offesa tarantina a Sant'Agata.
 * **[[06-tifoseria-e-cultura/relazioni/rivalita/catanzaro|Catanzaro]]**: Scontri autostradali e rivalità calabro-sicula acutizzata dal gemellaggio Catania-Crotone.
-* **Reggina, Avellino, Cavese, Juve Stabia, Pescara, Fidelis Andria, Foggia**: Ostilità nate sui campi di Serie C e polarizzate dall'asse Catania-Napoli.
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/lecce|Lecce]]**: L'aspra rivalità salentina nata negli spareggi e consolidatasi nei campionati di Serie A e B.
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/avellino|Avellino]]**: Il classico scontro tra piazze calde del Meridione dagli anni Ottanta ai playoff recenti.
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/foggia|Foggia]]**: Inimicizia esplosa sui caldi campi di Serie C e allo Stadio Pino Zaccheria.
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/juve-stabia|Juve Stabia]]**: Attrito campano-siculo nelle sfide al Romeo Menti di Castellammare di Stabia.
+* **Cavese, Pescara, Fidelis Andria, Potenza**: Altre ostilità nate sui campi di terza serie.
 
 ---
 
@@ -72,6 +83,5 @@ Il quadro delle ostilità sportive del Calcio Catania è tra i più vasti e acce
 
 1. **Archivio Storico**, *Catania - Rivalità e Scontri*, vitadaultras.forumfree.it, 2008.
 2. **Antonio Buemi et al.**, *Tutto il Catania minuto per minuto*, GEO Edizioni, 2011.
-
 
 - [[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Il Derby di Sicilia — La Storica Rivalità con il Palermo]]

@@ -4,7 +4,7 @@ description: 'Dossier sul portale web indipendente CalcioCatania.com fondato nel
 slug: 07-media-e-comunicazione/testate/calciocatania-com
 entity_type: testata_web
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - calciocatania-com
 - web
@@ -60,6 +60,8 @@ Mantenendosi lontano da condizionamenti proprietari, il portale ha esercitato un
 * [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania e il Morning Show Digitale]]
 * [[07-media-e-comunicazione/testate/catanista|Catanista: L'Informazione Cross-Mediale]]
 * [[07-media-e-comunicazione/testate/tuttocalciocatania-com|TuttoCalcioCatania.com: Portale News H24]]
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport: Testata Multimediale e Video Live]]
+* [[07-media-e-comunicazione/testate/cityzone|CiTy Zone: Piattaforma Social-First]]
 
 ---
 

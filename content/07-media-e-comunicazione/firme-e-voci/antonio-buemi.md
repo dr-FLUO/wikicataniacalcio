@@ -4,7 +4,7 @@ description: 'Biografia di Antonio Buemi (in arte BAnt): ricercatore storiografi
 slug: 07-media-e-comunicazione/firme-e-voci/antonio-buemi
 entity_type: biografia_scrittore_storico
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - antonio-buemi
 - bant

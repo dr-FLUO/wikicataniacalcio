@@ -4,7 +4,7 @@ description: 'Biografia professionale di Angelo Micale: ideatore e conduttore di
 slug: 07-media-e-comunicazione/firme-e-voci/angelo-micale
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - angelo-micale
 - telecolor
@@ -62,6 +62,8 @@ Oltre all'impegno della domenica pomeriggio, Angelo Micale è stato per decenni 
 ## 3. Collegamenti e Voci Correlate
 
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor: La Televisione Storica Catanese]]
+* [[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio: Quarant'Anni di Conduzione Domenicale]]
+* [[07-media-e-comunicazione/cinema-e-tv/corner|Corner: Il Talk Show del Lunedì]]
 * [[07-media-e-comunicazione/firme-e-voci/angelo-patane|Angelo Patanè: La Voce delle Telecronache]]
 * [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini: Conduttore e Giornalista di Telecolor]]
 * [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia e la Concorrenza tra i Poli Etnei]]

@@ -1,10 +1,10 @@
 ---
 title: "Ultras Mecha Klan Catania (MCK) — Autonomia e Tradizione in Tribuna B"
-description: "Storia, ideologia e codice etico dell'Ultras Mecha Klan (MCK), formazione fondata nel 2015 dopo la scissione dalla Falange d'Assalto per presidiare con indipendenza la Tribuna B."
+description: "Storia, ideologia e codice etico dell'Ultras Mecha Klan (MCK), formazione fondata nel 2015 dopo la scissione dalla Falange d'Assalto per presidiare con indipendenza la Tribuna B fino alla stagione 2026."
 slug: 06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan
 entity_type: gruppo_ultras
 status: verified
-last_verified_date: 2026-10-30
+last_verified_date: 2026-11-03
 tags:
 - ultras
 - tribuna-b
@@ -28,6 +28,11 @@ sources:
   publisher: La Sicilia
   year: 2022
   reference: Analisi del terzo polo di Tribuna B
+- author: Redazione Tifo e Cronache Rossazzurre
+  title: L'Ultras Mecha Klan e l'identità indipendente della Tribuna B nella stagione 2026
+  publisher: archiviocalciocatania.it
+  year: 2026
+  reference: Attività, autofinanziamento e continuità di gradinata
 aliases:
 - tifoseria/tribuna-b/mecha-klan
 - tifoseria/settori/tribuna-b/mecha-klan
@@ -41,9 +46,7 @@ Fondato nell'agosto del **2015**, l'**Ultras Mecha Klan Catania (MCK)** è la fo
 
 ## 1. La Scissione dalla Falange d'Assalto (2015)
 
-La genesi dell'MCK affonda le radici nella profonda crisi istituzionale e sportiva che investì il Catania nell'estate del 2015, a seguito dell'inchiesta giudiziaria [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]] e della conseguente retrocessione d'ufficio in Lega Pro.
-
-In quel frangente storico:
+La genesi dell'MCK affonda le radici nella profonda crisi istituzionale e sportiva che investì il Catania nell'estate del 2015, a seguito dell'inchiesta giudiziaria [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]] e della conseguente retrocessione d'ufficio in Lega Pro:
 * La storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], guidata dai quadri storici di Ciccio Famoso, scelse di abbandonare la Curva Nord per trasferirsi in Curva Sud, accettando al contempo la sottoscrizione della Tessera del Tifoso per poter seguire la squadra in trasferta.
 * Una componente significativa di militanti storici e giovani leve rifiutò categoricamente sia la tessera sia il trasferimento in Curva Sud, decidendo di fondare una sigla autonoma e di posizionarsi al centro della **Tribuna B**, riaffermando i valori originari del movimento ultras: indipendenza assoluta, no-profit e mentalità senza compromessi.
 
@@ -60,11 +63,13 @@ L'Ultras Mecha Klan si caratterizza per una serie di punti fermi codificati nel 
 
 ---
 
-## 3. Presenza allo Stadio e Rapporti
+## 3. Presenza allo Stadio e Stagione 2026
 
 Posizionato stabilmente al centro della Tribuna B, il gruppo raccoglie l'eredità storica di formazioni che tra gli anni Novanta e i primi Duemila fecero della gradinata un settore caldo e vibrante ([[06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu|Gruppo Tattaresu]], [[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R.]] e [[06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia|Vecchia Guardia]]).
 
-Durante gli anni della Serie C e della Serie D (2022–2023), l'MCK ha rappresentato un costante punto di riferimento per chi cercava un modo alternativo di vivere lo stadio, lontano dalle rigide logiche delle due curve ma con eguale passione e compattezza.
+Nella **stagione 2026**, l'MCK continua a rappresentare un presidio vivo e inalterato:
+- Mantiene l'indipendenza rispetto agli scontri o agli assetti delle due curve opposte, attraendo sostenitori legati a un tifo puro e disinteressato.
+- Organizza iniziative sociali e manifestazioni a sostegno dell'identità storica della matricola 11700, confermando la Tribuna B come polmone culturale e militante autonomo del Massimino.
 
 ---
 
@@ -77,8 +82,9 @@ Durante gli anni della Serie C e della Serie D (2022–2023), l'MCK ha rappresen
 
 ---
 
-## Fonti e Bibliografia
+## Fonti Certificate
 
 1. **MeridioNews**, *Il Catania e i leader che comandano dentro le curve*, inchiesta dell'11 aprile 2016.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2011.
-3. **Archivio Fanzine Tifoseria Catanese**, *Tribuna B Indipendente: numeri unici e volantini informativi (2015–2024)*.
+3. **Redazione Sportiva La Sicilia**, *La geografia del tifo al Massimino tra Curva Nord, Sud e Gradinata*, La Sicilia, 2022.
+4. **Redazione Tifo e Cronache Rossazzurre**, *L'Ultras Mecha Klan e l'identità indipendente della Tribuna B nella stagione 2026*, archiviocalciocatania.it, 2026.

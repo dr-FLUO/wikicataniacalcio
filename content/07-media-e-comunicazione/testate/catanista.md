@@ -4,7 +4,7 @@ description: 'Dossier sulla testata giornalistica Catanista: fondazione nel 2007
 slug: 07-media-e-comunicazione/testate/catanista
 entity_type: testata_giornalistica_digitale
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 tags:
 - catanista
 - attilio-scuderi
@@ -70,6 +70,8 @@ Elemento distintivo della linea editoriale di *Catanista* è stata la produzione
 * [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania e il Morning Show Digitale]]
 * [[07-media-e-comunicazione/testate/calciocatania-com|CalcioCatania.com: Il Decano dei Portali Indipendenti]]
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor e le Produzioni Televisive Storiche]]
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport: Piattaforma Multimediale sul Campo]]
+* [[07-media-e-comunicazione/testate/cityzone|CiTy Zone: Piattaforma Social-First]]
 
 ---
 

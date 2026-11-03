@@ -4,7 +4,7 @@ description: 'Monografia storica sul quotidiano La Sicilia: fondazione nel 1945,
 slug: 07-media-e-comunicazione/testate/la-sicilia
 entity_type: testata_giornalistica
 status: verified
-last_verified_date: 2026-10-29
+last_verified_date: 2026-11-03
 image: assets/images/media-e-stampa/la-sicilia-prima-pagina-clamoroso-al-cibali-catania-inter-1961.webp
 image_credits:
 - image_path: assets/images/media-e-stampa/la-sicilia-prima-pagina-clamoroso-al-cibali-catania-inter-1961.webp
@@ -92,6 +92,9 @@ Il **28 maggio 2006**, all'indomani della vittoria per 2-1 contro l'AlbinoLeffe 
 * [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò: Storico Caposervizio]]
 * [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro|Giovanni Finocchiaro: Trent'Anni di Cronaca]]
 * [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia: L'Ammiraglia Televisiva del Gruppo]]
+* [[07-media-e-comunicazione/testate/teletna|Teletna e la Prima Telecronaca Privata del 1975]]
+* [[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa: Lo Storico Format Televisivo del Dopogara]]
+* [[07-media-e-comunicazione/testate/unica-sport|Unica Sport e il Magazine Cartaceo La Sicilia Stadio]]
 * [[07-media-e-comunicazione/testate/espresso-sera|Espresso Sera: Il Quotidiano Pomeridiano]]
 
 ---
