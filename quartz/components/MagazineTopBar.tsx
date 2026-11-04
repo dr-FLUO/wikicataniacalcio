@@ -71,7 +71,7 @@ const NAV_ITEMS: NavItem[] = [
     prefix: "05-identita-e-simboli",
     subItems: [
       { label: "Stemmi & Liotru", slug: "05-identita-e-simboli/araldica-e-scudetti/index", matchPrefix: "05-identita-e-simboli/araldica-e-scudetti" },
-      { label: "Divise & Maglie Storiche", slug: "05-identita-e-simboli/araldica-e-scudetti/loghi-storici-liotru", matchPrefix: "05-identita-e-simboli/araldica-e-scudetti/loghi" },
+      { label: "Divise & Maglie Storiche", slug: "05-identita-e-simboli/maglie-e-divise", matchPrefix: "05-identita-e-simboli/maglie-e-divise" },
       { label: "Sponsor Ufficiali", slug: "05-identita-e-simboli/sponsor/index", matchPrefix: "05-identita-e-simboli/sponsor" },
       { label: "Mascotte & Inni", slug: "05-identita-e-simboli/mascotte-e-inni", matchPrefix: "05-identita-e-simboli/mascotte" },
     ],
@@ -88,6 +88,7 @@ const NAV_ITEMS: NavItem[] = [
       { label: "Gemellaggi & Amicizie", slug: "06-tifoseria-e-cultura/relazioni/gemellaggi/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/gemellaggi" },
       { label: "Rivalità & Derby", slug: "06-tifoseria-e-cultura/relazioni/rivalita/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/rivalita" },
       { label: "Biografie & Cronache", slug: "06-tifoseria-e-cultura/biografie/index", matchPrefix: "06-tifoseria-e-cultura/biografie" },
+      { label: "Eventi & Giustizia", slug: "06-tifoseria-e-cultura/eventi-e-giustizia/index", matchPrefix: "06-tifoseria-e-cultura/eventi-e-giustizia" },
     ],
   },
   {

@@ -65,8 +65,7 @@ L'Ultras Mecha Klan si è caratterizzato per una serie di punti fermi codificati
 1. **Autonomia Totale:** Nessun rapporto di subalternità o coordinamento con i direttivi di Curva Nord e Curva Sud; la Tribuna B ha agito per undici stagioni come un terzo polo rigorosamente indipendente nel panorama del tifo rossazzurro.
 2. **Autofinanziamento Rigoroso:** Rifiuto di qualsiasi forma di contribuzione societaria, omaggi sui biglietti o agevolazioni di trasferta. Sulle pezze ufficiali campeggiava il manifesto identitario:  
    > *«I nostri sacrifici sono d'amore & mentalità / Ultras Catania: scopo di lucro zero»*.
-3. **Stile di Gradinata:** Forte influenza dello stile visivo *casual* e britannico (pezze con caratteri puliti, stendardi a due aste, tamburo cadenzato e sostegno vocale continuo per tutti i novanta minuti).
-4. **Legame Territoriale e Civico:** Radicamento profondo nei rioni popolari del centro cittadino. Nel **luglio 2020**, durante la drammatica procedura concorsuale per salvare la matricola 11700, il gruppo promosse un imponente presidio pacifico davanti al Tribunale di Catania in Piazza Verga con lo striscione simbolo:  
+3. **Legame Territoriale e Civico:** Radicamento profondo nei rioni popolari del centro cittadino. Nel **luglio 2020**, durante la drammatica procedura concorsuale per salvare la matricola 11700, il gruppo promosse un imponente presidio pacifico davanti al Tribunale di Catania in Piazza Verga con lo striscione simbolo:  
    > *«A voi il dovere di giudicare, a noi la possibilità di amare»*.
 
 ---
@@ -75,7 +74,7 @@ L'Ultras Mecha Klan si è caratterizzato per una serie di punti fermi codificati
 
 Posizionato stabilmente al centro della Tribuna B, il gruppo ha raccolto l'eredità storica di formazioni che tra gli anni Novanta e i primi Duemila fecero della gradinata un settore caldo e vibrante ([[06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu|Gruppo Tattaresu]], [[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R.]] e [[06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia|Vecchia Guardia San Gregorio]]).
 
-Con un nucleo attivo stimato in circa **25 militanti assidui**, l'MCK ha rappresentato per oltre un decennio il polmone militante della Tribuna B, affiancato da formazioni minori o clubbistiche come *Banda Principe*, *Tana Rossazzurra* e *Simpson Boys*.
+Con un nucleo attivo stimato in circa **25 militanti assidui** negli ultimi anni, l'MCK ha rappresentato per oltre un decennio il polmone militante della Tribuna B, affiancato da formazioni minori o clubbistiche come *Banda Principe*, *Tana Rossazzurra* e *Simpson Boys*.
 
 ---
 
@@ -101,9 +100,9 @@ Di fronte all'impossibilità oggettiva di garantire la presenza sui gradoni e ri
 
 ## 6. Stagione 2026-2027: L'Assenza in Gradinata e l'Eredità
 
-A partire dalla stagione agonistica **2026-2027**, l'Ultras Mecha Klan **non è più presente al centro della Tribuna B**. 
+A partire dalla stagione agonistica **2026-2027**, l'Ultras Mecha Klan **non è più presente in Tribuna B**. 
 
-La scomparsa dell'MCK lascia la Tribuna B priva del suo punto di riferimento ultras autonomo, chiudendo l'esperienza del terzo polo militante del Massimino e lasciando il settore animato unicamente da gruppi minori, club moderati e dal pubblico generico.
+La scomparsa dell'MCK lascia la Tribuna B priva di un gruppo ultras autonomo, chiudendo l'esperienza del terzo polo militante del Massimino e lasciando il settore animato unicamente da gruppi minori, club moderati e dal pubblico generico.
 
 ---
 

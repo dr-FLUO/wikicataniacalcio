@@ -453,6 +453,12 @@ function getPageEditorialBadges(slug: string, fm: Record<string, any>): { left: 
         right: isAsta ? "RISCATTO MARCHIO · 2026" : "STEMMI & COLORI · DAL 1929",
       }
     }
+    if (s.includes("maglie") || s.includes("divise")) {
+      return {
+        left: "DIVISE & CASACCHE",
+        right: "MAGLIE STORICHE · DAL 1929",
+      }
+    }
     if (s.includes("sponsor")) {
       return {
         left: "SPONSOR & DIVISE",
@@ -616,6 +622,7 @@ function getHeroBreadcrumbs(slug: string): BreadcrumbCrumb[] {
     "centri-sportivi": "Centri Sportivi",
     "campi-storici": "Campi Storici",
     "araldica-e-scudetti": "Stemmi & Liotru",
+    "maglie-e-divise": "Divise & Maglie",
     "sponsor": "Sponsor",
     "curva-nord": "Curva Nord",
     "curva-sud": "Curva Sud",
