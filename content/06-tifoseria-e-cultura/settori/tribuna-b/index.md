@@ -1,12 +1,10 @@
 ---
 title: 'La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro'
-description: 'Monografia storica sulla Tribuna B (Gradinata) dello Stadio Angelo Massimino:
-  origini, autonomia rispetto alle curve, e dossier completi su Mecha Klan, ANR, Gruppo
-  Tattaresu e Vecchia Guardia.'
+description: 'Monografia storica sulla Tribuna B (Gradinata) dello Stadio Angelo Massimino: origini, autonomia rispetto alle curve, e dossier completi su Mecha Klan (2015-2026), ANR, Gruppo Tattaresu e Vecchia Guardia.'
 slug: 06-tifoseria-e-cultura/settori/tribuna-b
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-10-30
+last_verified_date: 2026-11-03
 tags:
 - tribuna-b
 - gradinata
@@ -18,8 +16,7 @@ tags:
 - vecchia-guardia
 - stadio-massimino
 sources:
-- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
-    Solarino
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
   title: Tutto il Catania minuto per minuto
   publisher: GEO Edizioni, Empoli
   year: 2011
@@ -29,17 +26,16 @@ sources:
   publisher: italiani.it
   year: 2021
   reference: Mappatura dei settori e delle formazioni della Tribuna B
-- author: Archivio Storico
-  title: Gruppi Ultras Catania
-  publisher: vitadaultras.forumfree.it
-  year: 2008
-  reference: Censimento sigle e storia della Tribuna B
 - author: MeridioNews
   title: Il Catania e i leader che comandano dentro le curve
   publisher: meridionews.it
   year: 2016
-  reference: Inchiesta sulla scissione della Falange d'Assalto e la nascita del Mecha
-    Klan
+  reference: Inchiesta sulla scissione della Falange d'Assalto e la nascita del Mecha Klan
+- author: Redazione CataniaToday
+  title: Disordini Catania-Ascoli e scioglimento Ultras Mecha Klan
+  publisher: cataniatoday.it
+  year: 2026
+  reference: Cronaca delle diffide e scioglimento del gruppo di Tribuna B nel giugno 2026
 aliases:
 - tifoseria/settori/tribuna-b
 - tifoseria/tribuna-b
@@ -48,7 +44,7 @@ aliases:
 
 # La Tribuna B: Il Terzo Polo del Tifo Organizzato Rossazzurro
 
-Nello scenario del tifo organizzato italiano, lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] presenta una conformazione sociologica inconsueta: accanto alle tradizionali gradinate di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], la **Tribuna B** (storicamente denominata *Gradinata*) ha espresso per decenni un'autonoma identità ultras, fungendo da vero e proprio terzo polo della passione etnea.
+Nello scenario del tifo organizzato italiano, lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] presenta una conformazione sociologica peculiare: accanto alle tradizionali gradinate di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], la **Tribuna B** (storicamente denominata *Gradinata*) ha espresso per decenni un'autonoma identità ultras, fungendo da vero e proprio terzo polo della passione etnea.
 
 Collocata di fronte alla Tribuna A d'onore e sovrastante il parterre laterale verso il settore ospiti, la Tribuna B ha saputo combinare l'estrazione popolare dei quartieri storici del centro con una forte vocazione coreografica e comunitaria, ospitando formazioni pionieristiche che hanno segnato la storia del tifo rossazzurro.
 
@@ -61,15 +57,15 @@ Fino alla fine degli anni Novanta, la Gradinata del Cibali accoglieva prevalente
 1. **Il Polo di Pippo Tarraresu (Anni '90–2000):** Animato dallo storico capo-popolo [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Giuseppe "Pippo" Tarraresu]] (compagno di catene di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] alla sede FIGC di Roma nel 1993), il settore divenne celebre per le scenografie imponenti e per la custodia del gigantesco telo raffigurante il Cavaliere Angelo Massimino.
 2. **La Nascita dell'A.N.R. (2000):** Nel 2000, un gruppo di militanti fuoriusciti dagli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]] della Sud scelse proprio la Tribuna B per fondare l'**Associazione Non Riconosciuta (A.N.R.)**, caratterizzata da un'impronta casual d'ispirazione britannica e dal celebre simbolo dei due leoni con la Trinacria nera (gruppo poi migrato in Curva Nord).
 3. **La Vecchia Guardia di San Gregorio (1996–2010):** Posizionata a ridosso della gabbia del settore ospiti, ha storicamente rappresentato il baluardo dei fedelissimi della cintura metropolitana etnea.
-4. **La Scissione del 2015 e il Mecha Klan:** Quando nell'estate del 2015 la [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] lasciò la Curva Nord per la Curva Sud aderendo alla Tessera del Tifoso, una fazione dissidente rifiutò la svolta e scelse la Tribuna B per fondare l'**Ultras Mecha Klan Catania (MCK)**.
+4. **La Scissione del 2015 e l'Epopea del Mecha Klan (2015–2026):** Quando nell'estate del 2015 la [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] lasciò la Curva Nord per la Curva Sud aderendo alla Tessera del Tifoso, una fazione dissidente rifiutò la svolta e scelse la Tribuna B per fondare l'**Ultras Mecha Klan Catania (MCK)**, protagonista indiscusso della gradinata per 11 stagioni fino allo scioglimento del 2026.
 
 ---
 
-## 2. Ultras Mecha Klan (MCK) — Dal 2015
+## 2. Ultras Mecha Klan (MCK) — 2015–2026
 
 > *Monografia dedicata:* [[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan (MCK) — Scheda Dettagliata]]
 
-Fondato nell'agosto del **2015**, l'**Ultras Mecha Klan Catania (MCK)** è la formazione trainante e più rappresentativa della Tribuna B contemporanea.
+Fondato nell'agosto del **2015** e scioltosi ufficialmente il **12 giugno 2026**, l'**Ultras Mecha Klan Catania (MCK)** è stata la formazione trainante e più rappresentativa della Tribuna B contemporanea.
 
 ### La Scissione dalla Falange d'Assalto
 La genesi del gruppo risale alla rottura interna consumatasi nell'estate 2015: dopo la retrocessione d'ufficio in Lega Pro per l'inchiesta [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]], la storica Falange d'Assalto decise di trasferirsi in Curva Sud accettando la sottoscrizione della Tessera del Tifoso. Una componente irriducibile di militanti, contraria a tesseramenti e vincoli burocratici, scelse l'autonomia assoluta stabilendosi al centro della Tribuna B. Il nome unisce il toponimo rionale del centro storico e l'archetipo della *"mecha"* (la miccia lavica inestinguibile).
@@ -80,6 +76,13 @@ L'MCK ha improntato la propria condotta a un rigido codice ultras basato sull'**
 - Rifiuto categorico di agevolazioni o biglietti omaggio da parte societaria, rivendicando piena indipendenza economica.
 - Nel **luglio 2020**, durante la procedura concorsuale per salvare la matricola 11700, il gruppo promosse un imponente presidio pacifico in Piazza Verga con lo striscione simbolo:
   > *"A voi il dovere di giudicare, a noi la possibilità di amare."*
+
+### I Disordini di Catania-Ascoli, la Pioggia di Daspo e lo Scioglimento (2026)
+Il ciclo del gruppo si è interrotto bruscamente nella primavera del **2026**:
+- Il **27 maggio 2026**, durante la concitata semifinale playoff di ritorno Catania-Ascoli al Massimino, nei minuti finali è esplosa una veemente contestazione culminata nel fitto lancio di fumogeni e potenti bombe carta dalla Tribuna B verso il campo.
+- La successiva inchiesta della Digos ha portato all'arresto in differita di due elementi di spicco della Tribuna B (con DASPO di 5 anni) e, il 7 giugno 2026, alla denuncia e al divieto di accesso allo stadio per altri 5 militanti del settore identificati dalla Polizia Scientifica.
+- Con quasi **20 membri diffidati su un totale di circa 25 componenti attivi**, il direttivo ha preso atto dell'impossibilità di proseguire l'attività sui gradoni e ha deliberato il **12 giugno 2026** lo **scioglimento ufficiale** dopo 11 anni di presenza.
+- Dalla stagione sportiva **2026-2027**, il Mecha Klan non è più presente in Tribuna B, lasciando il settore privo della propria guida ultras storica.
 
 ---
 
@@ -118,7 +121,7 @@ Caratterizzata da una costante presenza vocale contro le tifoserie avversarie in
 
 | Gruppo / Sigla | Periodo Attivo | Matrice e Collocazione Settore | Tratti Distintivi |
 | :--- | :---: | :--- | :--- |
-| **Ultras Mecha Klan (MCK)** | Dal 2015 (Attivo) | Centro Tribuna B | Scissione Falange d'Assalto; mentalità no-profit, autofinanziamento e difesa matricola 11700. |
+| **Ultras Mecha Klan (MCK)** | 2015–2026 (Sciolto) | Centro Tribuna B | Scissione Falange d'Assalto; mentalità no-profit, autofinanziamento; sciolto nel giugno 2026 dopo l'ondata di Daspo post Catania-Ascoli. |
 | **A.N.R. (Associazione Non Riconosciuta)** | 2000–2003 (in Tribuna B) | Centro Gradinata ➔ Nord | Stile casual inglese, leoni araldici e Trinacria nera; trasferitosi in Curva Nord nel 2003. |
 | **Gruppo Tattaresu** | 1993–2005 | Parterre e anello centrale | Fedelissimi di Pippo Tarraresu; mega-copricurva di Angelo Massimino e tifo popolare. |
 | **Vecchia Guardia San Gregorio** | 1996–2010 | Tribuna B lato Ospiti | Radicamento cintura metropolitana etnea; presidio vocale adiacente alla gabbia ospiti. |

@@ -30,13 +30,14 @@ La **Wiki Calcio Catania (1929–Oggi)** è progettata fin dalle fondamenta seco
 
 Ai sensi degli **artt. 13 e 14 del Regolamento (UE) 2016/679 (GDPR)**, della **Direttiva 2002/58/CE (ePrivacy)**, dell'**art. 122 del D.Lgs. 196/2003** (Codice Privacy novellato dal D.Lgs. 101/2018) e delle **Linee Guida del Garante per la protezione dei dati personali del 10 giugno 2021**:
 
-> [!info] Zero Cookie di Profilazione e Zero Tracciamento di Terze Parti
-> Questo sito web **NON utilizza alcun cookie di profilazione, né cookie analitici di terze parti, né pixel pubblicitari**. Non viene effettuata alcuna profilazione degli utenti né tracciamento inter-sito.
+> [!info] Zero Cookie di Profilazione e Telemetria Privacy-First (100% Cookie-less)
+> Questo sito web **NON utilizza alcun cookie di profilazione né pixel pubblicitari**. Non viene effettuata alcuna profilazione degli utenti, né tracciamento inter-sito (*cross-site tracking*), né cessione di dati a terzi.
 
 ### Dati Tecnici Strettamente Necessari
 1. **Archiviazione Locale Tecnica (`localStorage`):** Il sito utilizza esclusivamente una chiave tecnica nel `localStorage` del browser dell'utente (`saved-theme: "light" | "dark"`) al solo scopo di ricordare la preferenza visiva tra modalità chiara (`#191919` su `#f7f7f7`) e modalità scura (`#f7f7f7` su `#191919`), oltre allo stato di apertura del menu laterale (`explorer`). Ai sensi delle Linee Guida del Garante Privacy, tali strumenti tecnici assimilati sono esenti dall'obbligo di consenso preventivo.
 2. **Font Self-Hosted (Zero Trasferimento IP verso Server Esterni):** In conformità alla giurisprudenza europea sulla tutela dell'indirizzo IP come dato personale (cfr. sentenza *LG München I, 20.01.2022, Az. 3 O 17493/20*), il sito è configurato con `fontOrigin: "local"`, impacchettando localmente gli asset senza effettuare connessioni dal browser del visitatore verso server di Google Fonts o CDN di profilazione.
 3. **Ricerca Locale Client-Side:** Il motore di ricerca interno viene eseguito interamente in locale all'interno del browser del visitatore; le parole cercate non vengono trasmesse a server di profilazione esterni.
+4. **Telemetria Statistica Anonima Cookie-Less (Umami Cloud):** Al solo scopo di monitorare le prestazioni tecniche, il volume aggregato delle visite e l'indice di gradimento enciclopedico dei dossier storici, il sito impiega la piattaforma di analisi statistica *privacy-first* **Umami Cloud**. Il servizio opera in modalità **100% cookie-less**: non installa alcun cookie nel terminale dell'utente, non raccoglie dati personali identificativi, non effettua tracciamento inter-sito (*no cross-site tracking*) e applica l'anonimizzazione dell'indirizzo IP. Ai sensi del Considerando 26 del GDPR e delle Linee Guida del Garante Privacy (Provv. 10 giugno 2021), la telemetria statistica aggregata priva di dati identificativi non richiede banner né consenso preventivo.
 
 ---
 

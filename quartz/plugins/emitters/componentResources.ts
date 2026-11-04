@@ -124,15 +124,8 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       document.head.appendChild(plausibleScript);
     `)
   } else if (cfg.analytics?.provider === "umami") {
-    componentResources.afterDOMLoaded.push(`
-      const umamiScript = document.createElement("script");
-      umamiScript.src = "${cfg.analytics.host ?? "https://analytics.umami.is"}/script.js";
-      umamiScript.setAttribute("data-website-id", "${cfg.analytics.websiteId}");
-      umamiScript.setAttribute("data-auto-track", "true");
-      umamiScript.defer = true;
-
-      document.head.appendChild(umamiScript);
-    `)
+    // Umami Cloud Analytics è integrato direttamente in Head.tsx per rendering statico in <head>
+    // con attributi defer, data-website-id e data-domains per compatibilità SPA ed esclusione localhost.
   } else if (cfg.analytics?.provider === "goatcounter") {
     componentResources.afterDOMLoaded.push(`
       const goatcounterScriptPre = document.createElement('script');

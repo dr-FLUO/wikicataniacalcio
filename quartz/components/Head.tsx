@@ -38,6 +38,25 @@ export default (() => {
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
 
+    const rawPageImage =
+      (fileData.frontmatter?.socialImage as string | undefined) ??
+      (fileData.frontmatter?.cover_image as string | undefined) ??
+      (fileData.frontmatter?.image as string | undefined)
+
+    let pageOgImage = ogImageDefaultPath
+    if (rawPageImage && typeof rawPageImage === "string" && rawPageImage.trim().length > 0) {
+      const cleanImg = rawPageImage.trim()
+      if (cleanImg.startsWith("http://") || cleanImg.startsWith("https://")) {
+        pageOgImage = cleanImg
+      } else {
+        const pathPart = cleanImg.startsWith("/") ? cleanImg.slice(1) : cleanImg
+        pageOgImage = `https://${cfg.baseUrl}/${pathPart}`
+      }
+    }
+    const ogExtRaw = getFileExtension(pageOgImage) ?? "png"
+    const cleanExt = ogExtRaw.replace(/^\./, "").toLowerCase()
+    const ogMimeType = `image/${cleanExt === "jpg" ? "jpeg" : cleanExt || "png"}`
+
     return (
       <head>
         <script
@@ -95,13 +114,10 @@ export default (() => {
 
         {!usesCustomOgImage && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-            />
+            <meta property="og:image" content={pageOgImage} />
+            <meta property="og:image:url" content={pageOgImage} />
+            <meta name="twitter:image" content={pageOgImage} />
+            <meta property="og:image:type" content={ogMimeType} />
           </>
         )}
 
@@ -120,6 +136,15 @@ export default (() => {
         <link rel="apple-touch-icon" sizes="180x180" href={`${iconPath}?v=wcc1`} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+
+        {cfg.analytics?.provider === "umami" && (
+          <script
+            defer
+            src={`${(cfg.analytics.host ?? "https://cloud.umami.is").replace(/\/+$/, "")}/script.js`}
+            data-website-id={cfg.analytics.websiteId}
+            data-domains="wikicataniacalcio.com,www.wikicataniacalcio.com"
+          ></script>
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

@@ -6,7 +6,7 @@ import * as Plugin from "./quartz/plugins"
  * - Design System Magazine Editoriale (ispirato a No Football Colors & Sincro)
  * - Tipografia Self-Hosted: Big Shoulders Display (Condensed Display) + Plus Jakarta Sans
  * - Palette: #d11317 (Rosso), #0cb2d9 (Azzurro), Light #191919 su #f7f7f7, Dark #f7f7f7 su #191919, Oro #d29933
- * - Conformità UE: GDPR Cookie-less (analytics: null, fontOrigin: "local"), WCAG 2.1 AA / EAA
+ * - Conformità UE: GDPR Cookie-less (analytics: "umami" cookie-less, fontOrigin: "local"), WCAG 2.1 AA / EAA
  */
 const config: QuartzConfig = {
   configuration: {
@@ -14,7 +14,11 @@ const config: QuartzConfig = {
     pageTitleSuffix: " — Magazine & Archivio Storico (1929–Oggi)",
     enableSPA: true,
     enablePopovers: false,
-    analytics: null, // 100% Cookie-less & Zero-Tracking (Conforme GDPR Reg. UE 2016/679)
+    analytics: {
+      provider: "umami",
+      websiteId: "cb8058b0-b7dc-46a9-8344-5b24a47af3cf",
+      host: "https://cloud.umami.is",
+    },
     locale: "it-IT",
     baseUrl: "wikicataniacalcio.com",
     ignorePatterns: ["private", "templates", ".obsidian", "SCHEMA.md", "_archive"],

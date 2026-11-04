@@ -47,7 +47,7 @@ Posizionata al centro della **Tribuna B** tra il 2000 e il 2003 — gli anni del
 
 L'esperienza dell'A.N.R. si concluse nella primavera del **2003**: a seguito di una serie di diffide e dell'innalzamento della repressione poliziesca successiva agli scontri del derby contro il Messina e alle vicende giudiziarie del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]], i membri fondatori decisero di ammainare la pezza per preservare l'integrità del nome e non cedere a compromessi di convivenza.
 
-I componenti del gruppo rimasero comunque attivi sui gradoni della gradinata, gettando i semi ideologici che dodici anni dopo avrebbero portato alla fondazione dell'[[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan (MCK)]].
+I componenti del gruppo rimasero comunque attivi sui gradoni della gradinata, gettando i semi ideologici che dodici anni dopo avrebbero portato alla fondazione dell'[[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan (MCK)]] (attivo dal 2015 al 2026).
 
 ---
 

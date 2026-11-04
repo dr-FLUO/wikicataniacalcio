@@ -73,7 +73,7 @@ La grandezza professionale e umana di Angelo Scaltriti è emersa con particolare
 * [[07-media-e-comunicazione/testate/radio-sis-tam-tam-sport|Radio Sis e la Tradizione delle Radiocronache]]
 * [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro|Giovanni Finocchiaro: Co-Autore de Il volo del Falco]]
 * [[07-media-e-comunicazione/letteratura/index|Bibliografia e Letteratura Storica sul Calcio Catania]]
-* [[01-societa/strutture/torre-del-grifo|Torre del Grifo Village e il Centro Sportivo]]
+* [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village e il Centro Sportivo]]
 
 ---
 

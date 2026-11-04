@@ -36,7 +36,8 @@ export default ((opts?: Options) => {
             <strong>100% Cookie-Less &amp; Zero-Tracking</strong> conforme al{" "}
             <strong>GDPR (Reg. UE 2016/679)</strong> (uso esclusivo di <em>localStorage</em>{" "}
             tecnico per il tema Light/Dark; font <em>Big Shoulders Display</em> e{" "}
-            <em>Plus Jakarta Sans</em> ospitati in locale senza trasmissione di IP a terze parti).
+            <em>Plus Jakarta Sans</em> ospitati in locale senza trasmissione di IP a terze parti;
+            telemetria aggregata anonima <em>cookie-less</em> tramite Umami Cloud).
             Interfaccia conforme agli standard <strong>WCAG 2.1 Livello AA / AAA</strong> ed{" "}
             <strong>European Accessibility Act (Direttiva UE 2019/882)</strong>.
           </p>

@@ -109,7 +109,7 @@ La curva meridionale incarna l'anima più verace e passionale, baluardo storico 
 
 A differenza della maggioranza degli stadi italiani, la gradinata opposta alla Tribuna Centrale esprime da oltre trent'anni un'identità ultras indipendente:
 
-- [[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan Catania (MCK)]]: Gruppo trainante dal 2015 al 2026, autofinanziato, etica no-profit e baluardo della matricola.
+- [[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan Catania (MCK)]]: Gruppo trainante dal 2015 al 2026, autofinanziato, etica no-profit e baluardo della matricola; scioltosi ufficialmente nel giugno 2026 dopo la pioggia di Daspo post Catania-Ascoli e non più presente dalla stagione 2026-2027.
 - [[06-tifoseria-e-cultura/settori/tribuna-b/gruppo-tattaresu|Gruppo Tattaresu (1993–2005)]]: L'eredità folkloristica di Pippo Tarraresu e il megastriscione Angelo Massimino.
 - [[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R. Associazione Non Riconosciuta (2000–2003)]]: La matrice casual britannica nata in gradinata prima di spostarsi al Nord.
 - [[06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia|Vecchia Guardia San Gregorio (1996–2010)]]: La storica presenza pedemontana a ridosso della gabbia ospiti.

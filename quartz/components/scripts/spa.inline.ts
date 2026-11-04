@@ -184,10 +184,10 @@ async function _navigate(url: URL, isBack: boolean = false) {
     }
   }
 
-  // now, patch head, re-executing scripts
-  const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")
+  // now, patch head, re-executing scripts (preserva gli elementi data-persist e lo script analytics data-website-id)
+  const elementsToRemove = document.head.querySelectorAll(":not([data-persist]):not([data-website-id])")
   elementsToRemove.forEach((el) => el.remove())
-  const elementsToAdd = html.head.querySelectorAll(":not([data-persist])")
+  const elementsToAdd = html.head.querySelectorAll(":not([data-persist]):not([data-website-id])")
   elementsToAdd.forEach((el) => document.head.appendChild(el))
 
   // delay setting the url until now
