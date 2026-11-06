@@ -118,9 +118,9 @@ tm_id: 420460
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **33 presenze ufficiali**, disputando **1606 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Melito di Porto Salvo (RC), Italia (classe 2000), **Giovanni Bruzzaniti** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **33 presenze ufficiali** (1606' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 22 occasioni realizzando 2 reti.
 
 ---
 

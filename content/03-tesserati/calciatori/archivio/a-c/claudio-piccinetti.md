@@ -108,9 +108,9 @@ tm_id: 479792
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **2306 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante nato a Ponsacco nel 1952, **Claudio Piccinetti** ha difeso i colori del Catania nella stagione **1973-1974**. Punto di riferimento nello scacchiere etneo, ha totalizzato **32 presenze ufficiali** (2306' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

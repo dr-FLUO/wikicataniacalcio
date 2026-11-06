@@ -129,9 +129,9 @@ tm_id: 183845
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **97 presenze ufficiali**, disputando **4341 minuti** di gioco effettivo, siglando **10 gol** e servendo **7 assist** distribuiti su **8 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Capodistria nel 1995, il attaccante **Maks Barišič** ha militato nelle file rossazzurre per **8 stagioni** (2012–2020). Punto di riferimento nello scacchiere etneo, ha totalizzato **97 presenze ufficiali** (4341' minuti effettivi) impreziosite da **10 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2016-2017**, durante la quale è sceso in campo in 29 occasioni realizzando 4 reti.
 
 ---
 

@@ -122,9 +122,9 @@ tm_id: 168189
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **8382 minuti** di gioco effettivo, siglando **5 gol** e servendo **5 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Messina nel 1993, il difensore **Luca Calapai** ha militato nelle file rossazzurre per **5 stagioni** (2011–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (8382' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2018-2019**, durante la quale è sceso in campo in 37 occasioni realizzando 3 reti.
 
 ---
 

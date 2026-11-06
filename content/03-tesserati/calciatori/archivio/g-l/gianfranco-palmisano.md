@@ -95,9 +95,9 @@ tm_id: 677534
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **47 presenze ufficiali**, disputando **3376 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1961, il attaccante **Gianfranco Palmisano** ha militato nelle file rossazzurre per **2 stagioni** (1991–1993). Punto di riferimento nello scacchiere etneo, ha totalizzato **47 presenze ufficiali** (3376' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1992-1993**, durante la quale è sceso in campo in 27 occasioni realizzando 1 rete.
 
 ---
 

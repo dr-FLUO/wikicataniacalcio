@@ -118,9 +118,9 @@ tm_id: 5889
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **31 presenze ufficiali**, disputando **2280 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Ferrara nel 1980, **Thomas Manfredini** ha difeso i colori del Catania nella stagione **2004-2005**. Punto di riferimento nello scacchiere etneo, ha totalizzato **31 presenze ufficiali** (2280' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

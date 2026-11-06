@@ -111,9 +111,9 @@ tm_id: 301972
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **74 presenze ufficiali**, disputando **5447 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Quattordio nel 1955, **Domenico Maggiora** ha militato nelle file rossazzurre per **3 stagioni** (1984–1987). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **74 presenze ufficiali** (5447' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1985-1986**, disputata con 37 presenze complessive.
 
 ---
 

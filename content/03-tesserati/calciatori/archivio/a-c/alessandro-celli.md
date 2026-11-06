@@ -110,9 +110,9 @@ tm_id: 330560
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **5291 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1994, il difensore **Alessandro Celli** ha militato nelle file rossazzurre per **3 stagioni** (2023–2026). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **68 presenze ufficiali** (5291' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2025-2026**, disputata con 37 presenze complessive.
 
 ---
 

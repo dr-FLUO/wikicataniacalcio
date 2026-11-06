@@ -108,9 +108,9 @@ tm_id: 108989
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **33 presenze ufficiali**, disputando **2888 minuti** di gioco effettivo, siglando **2 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore classe 1992, **Leonardo Nunzella** ha difeso i colori del Catania nella stagione **2015-2016**. Punto di riferimento nello scacchiere etneo, ha totalizzato **33 presenze ufficiali** (2888' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

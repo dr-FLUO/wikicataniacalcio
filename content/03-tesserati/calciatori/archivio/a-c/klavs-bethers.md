@@ -105,9 +105,9 @@ tm_id: 595530
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5814 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 2003, il portiere **Klavs Bethers** ha militato nelle file rossazzurre per **4 stagioni** (2022–2026). A guardia dei pali etnei ha collezionato **67 presenze ufficiali** (5814' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2022-2023**, disputata con 34 presenze complessive.
 
 ---
 

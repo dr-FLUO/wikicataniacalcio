@@ -111,9 +111,9 @@ tm_id: 336516
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **104 presenze ufficiali**, disputando **8472 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Milano nel 1960, il difensore **Maurizio Longobardo** ha militato nelle file rossazzurre per **4 stagioni** (1984–1988). Punto di riferimento nello scacchiere etneo, ha totalizzato **104 presenze ufficiali** (8472' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1984-1985**, durante la quale è sceso in campo in 39 occasioni realizzando 2 reti.
 
 ---
 

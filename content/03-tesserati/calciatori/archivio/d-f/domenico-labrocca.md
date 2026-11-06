@@ -114,9 +114,9 @@ tm_id: 505986
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **206 presenze ufficiali**, disputando **18113 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Asmara (classe 1952), **Domenico Labrocca** ha militato nelle file rossazzurre per **7 stagioni** (1975–1983). Punto di riferimento nello scacchiere etneo, ha totalizzato **206 presenze ufficiali** (18.113' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1976-1977**, durante la quale è sceso in campo in 41 occasioni realizzando 1 rete.
 
 ---
 

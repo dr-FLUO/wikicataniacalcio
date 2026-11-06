@@ -101,9 +101,9 @@ tm_id: 504700
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **82 presenze ufficiali**, disputando **7149 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1968, il difensore **Antonino Di Dio** ha militato nelle file rossazzurre per **3 stagioni** (1996–1999). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **82 presenze ufficiali** (7149' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1998-1999**, disputata con 31 presenze complessive.
 
 ---
 

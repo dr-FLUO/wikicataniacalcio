@@ -97,9 +97,9 @@ tm_id: 340451
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1995, il difensore **Agatino Parisi** ha militato nelle file rossazzurre per **2 stagioni** (2015–2017). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **39 presenze ufficiali** (2807' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2016-2017**, disputata con 25 presenze complessive.
 
 ---
 

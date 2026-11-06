@@ -92,9 +92,9 @@ tm_id: 270240
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore classe 1992, **Luis Sala Gil Drausio** ha difeso i colori del Catania nella stagione **2016-2017**. Punto di riferimento nello scacchiere etneo, ha totalizzato **34 presenze ufficiali** (2894' minuti effettivi) impreziosite da **1 gol**.
 
 ---
 

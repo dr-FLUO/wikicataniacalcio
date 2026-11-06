@@ -113,9 +113,9 @@ tm_id: 480781
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **136 presenze ufficiali**, disputando **11541 minuti** di gioco effettivo, siglando **12 gol** e servendo **1 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Azzano San Paolo nel 1943, il attaccante **Angelo Volpato** ha militato nelle file rossazzurre per **6 stagioni** (1967–1973). Punto di riferimento nello scacchiere etneo, ha totalizzato **136 presenze ufficiali** (11.541' minuti effettivi) impreziosite da **12 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1972-1973**, durante la quale è sceso in campo in 38 occasioni realizzando 2 reti.
 
 ---
 

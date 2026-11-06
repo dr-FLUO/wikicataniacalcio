@@ -111,9 +111,9 @@ tm_id: 84741
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **103 presenze ufficiali**, disputando **5867 minuti** di gioco effettivo, siglando **29 gol** e servendo **11 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1988, il attaccante **Davis Curiale** ha militato nelle file rossazzurre per **4 stagioni** (2017–2021). Punto di riferimento nello scacchiere etneo, ha totalizzato **103 presenze ufficiali** (5867' minuti effettivi) impreziosite da **29 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2017-2018**, durante la quale è sceso in campo in 38 occasioni realizzando 17 reti.
 
 ---
 

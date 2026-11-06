@@ -126,9 +126,9 @@ tm_id: 57354
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **106 presenze ufficiali**, disputando **8118 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Trebisacce (CS), Italia nel 1989, **Giuseppe  Bellusci** ha militato nelle file rossazzurre per **5 stagioni** (2009–2014). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **106 presenze ufficiali** (8118' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2011-2012**, disputata con 33 presenze complessive.
 
 ---
 

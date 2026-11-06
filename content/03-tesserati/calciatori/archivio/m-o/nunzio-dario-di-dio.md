@@ -94,9 +94,9 @@ tm_id: 308933
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **18 presenze ufficiali**, disputando **1107 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante classe 1968, **Nunzio Dario Di Dio** ha difeso i colori del Catania nella stagione **1988-1989**. Punto di riferimento nello scacchiere etneo, ha totalizzato **18 presenze ufficiali** (1107' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

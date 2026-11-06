@@ -111,9 +111,9 @@ tm_id: 96133
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1337 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Alatri (classe 1989), **Fabio Scarsella** ha difeso i colori del Catania nella stagione **2015-2016**. Punto di riferimento nello scacchiere etneo, ha totalizzato **19 presenze ufficiali** (1337' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

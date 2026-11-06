@@ -94,9 +94,9 @@ tm_id: 585886
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **1450 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista classe 1954, **Paolo Zanoli** ha difeso i colori del Catania nella stagione **1979-1980**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **17 presenze ufficiali** (1450' minuti effettivi) al servizio del collettivo.
 
 ---
 

@@ -88,9 +88,9 @@ tm_id: 514564
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di difensore, **Guido Luigi Battilani** ha militato nelle file rossazzurre per **2 stagioni** (1973–1975). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **67 presenze ufficiali** (5854' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1974-1975**, disputata con 37 presenze complessive.
 
 ---
 

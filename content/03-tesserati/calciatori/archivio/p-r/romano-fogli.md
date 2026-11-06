@@ -112,9 +112,9 @@ tm_id: 235932
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **128 presenze ufficiali**, disputando **11364 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Santa Maria a Monte nel 1938, **Romano Fogli** ha militato nelle file rossazzurre per **4 stagioni** (1970–1974). Punto di riferimento nello scacchiere etneo, ha totalizzato **128 presenze ufficiali** (11.364' minuti effettivi) impreziosite da **5 reti**. La sua annata con il minutaggio più elevato è stata la **1972-1973**, disputata con 38 presenze complessive.
 
 ---
 

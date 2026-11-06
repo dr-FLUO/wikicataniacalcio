@@ -108,9 +108,9 @@ tm_id: 238951
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **1976 minuti** di gioco effettivo, siglando **2 gol** e servendo **5 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1996, il attaccante **Davide Di Molfetta** ha difeso i colori del Catania nella stagione **2019-2020**. Punto di riferimento nello scacchiere etneo, ha totalizzato **30 presenze ufficiali** (1976' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

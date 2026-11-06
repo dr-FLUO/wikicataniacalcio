@@ -103,9 +103,9 @@ tm_id: 500443
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **31 presenze ufficiali**, disputando **2790 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Roma (classe 1937), **Antonio Marcellini** ha difeso i colori del Catania nella stagione **1958-1959**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **31 presenze ufficiali** (2790' minuti effettivi) al servizio del collettivo.
 
 ---
 

@@ -102,9 +102,9 @@ tm_id: 525411
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **62 presenze ufficiali**, disputando **4351 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1963, il difensore **Nicola Garzieri** ha militato nelle file rossazzurre per **4 stagioni** (1985–1989). Punto di riferimento nello scacchiere etneo, ha totalizzato **62 presenze ufficiali** (4351' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1987-1988**, durante la quale è sceso in campo in 26 occasioni realizzando 1 rete.
 
 ---
 

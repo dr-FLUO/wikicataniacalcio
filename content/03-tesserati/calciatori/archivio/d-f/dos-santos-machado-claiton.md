@@ -92,9 +92,9 @@ tm_id: 139169
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1985, il difensore **dos Santos Machado Claiton** ha militato nelle file rossazzurre per **2 stagioni** (2020–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (1885' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2020-2021**, durante la quale è sceso in campo in 22 occasioni realizzando 1 rete.
 
 ---
 

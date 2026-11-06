@@ -109,9 +109,9 @@ tm_id: 466713
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1605 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Torino nel 1943, **Franco Carrera** ha difeso i colori del Catania nella stagione **1968-1969**. Punto di riferimento nello scacchiere etneo, ha totalizzato **19 presenze ufficiali** (1605' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

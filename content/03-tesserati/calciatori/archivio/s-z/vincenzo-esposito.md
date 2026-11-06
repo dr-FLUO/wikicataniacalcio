@@ -103,9 +103,9 @@ tm_id: 287697
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2133 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Napoli (classe 1971), **Vincenzo Esposito** ha difeso i colori del Catania nella stagione **1990-1991**. Punto di riferimento nello scacchiere etneo, ha totalizzato **28 presenze ufficiali** (2133' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

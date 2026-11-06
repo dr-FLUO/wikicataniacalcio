@@ -119,9 +119,9 @@ tm_id: 61751
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **2979 minuti** di gioco effettivo, siglando **0 gol** e servendo **6 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Palermo nel 1989, il difensore **Antonio Mazzotta** ha militato nelle file rossazzurre per **2 stagioni** (2014–2024). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **35 presenze ufficiali** (2979' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2014-2015**, disputata con 19 presenze complessive.
 
 ---
 

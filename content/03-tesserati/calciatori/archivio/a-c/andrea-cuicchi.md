@@ -109,9 +109,9 @@ tm_id: 228305
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1296 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Serra San Quirico (classe 1967), **Andrea Cuicchi** ha militato nelle file rossazzurre per **2 stagioni** (1987–1989). Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (1296' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1987-1988**, durante la quale è sceso in campo in 16 occasioni realizzando 1 rete.
 
 ---
 

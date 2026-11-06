@@ -107,9 +107,9 @@ tm_id: 5890
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Rosario (classe 1980), **Sergio Bernardo Almiron** ha militato nelle file rossazzurre per **4 stagioni** (2010–2014). Punto di riferimento nello scacchiere etneo, ha totalizzato **86 presenze ufficiali** (6233' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2012-2013**, durante la quale è sceso in campo in 33 occasioni realizzando 4 reti.
 
 ---
 

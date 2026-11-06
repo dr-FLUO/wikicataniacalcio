@@ -111,9 +111,9 @@ tm_id: 335141
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **115 presenze ufficiali**, disputando **9237 minuti** di gioco effettivo, siglando **14 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Livorno (classe 1958), **Ennio Mastalli** ha militato nelle file rossazzurre per **4 stagioni** (1982–1989). Punto di riferimento nello scacchiere etneo, ha totalizzato **115 presenze ufficiali** (9237' minuti effettivi) impreziosite da **14 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 45 occasioni realizzando 9 reti.
 
 ---
 

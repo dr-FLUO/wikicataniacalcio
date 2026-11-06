@@ -118,9 +118,9 @@ tm_id: 222795
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **180 presenze ufficiali**, disputando **15905 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Napoli nel 1955, il portiere **Roberto Sorrentino** ha militato nelle file rossazzurre per **5 stagioni** (1979–1984). A guardia dei pali etnei ha collezionato **180 presenze ufficiali** (15.905' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1982-1983**, disputata con 42 presenze complessive.
 
 ---
 

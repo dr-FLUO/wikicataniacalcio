@@ -111,9 +111,9 @@ tm_id: 168444
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **127 presenze ufficiali**, disputando **11423 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1992, il portiere **Matteo Pisseri** ha militato nelle file rossazzurre per **4 stagioni** (2016–2020). A guardia dei pali etnei ha collezionato **127 presenze ufficiali** (11.423' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2018-2019**, disputata con 43 presenze complessive.
 
 ---
 

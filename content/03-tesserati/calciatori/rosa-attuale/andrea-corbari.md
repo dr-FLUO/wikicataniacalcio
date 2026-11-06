@@ -118,9 +118,9 @@ tm_id: 598098
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Cremona, Italia nel 1994, il centrocampista **Andrea Corbari** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **41 presenze ufficiali** (2093' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
 
 ---
 

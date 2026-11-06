@@ -105,9 +105,9 @@ tm_id: 475909
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **70 presenze ufficiali**, disputando **6277 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1949, il centrocampista **Franco Panizza** ha militato nelle file rossazzurre per **2 stagioni** (1975–1977). Punto di riferimento nello scacchiere etneo, ha totalizzato **70 presenze ufficiali** (6277' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1976-1977**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
 
 ---
 

@@ -129,9 +129,9 @@ tm_id: 504669
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4041 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Siracusa (classe 1966), **Maurizio Pellegrino** ha militato nelle file rossazzurre per **2 stagioni** (1995–1997). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4041' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1995-1996**, durante la quale è sceso in campo in 29 occasioni realizzando 1 rete.
 
 ---
 

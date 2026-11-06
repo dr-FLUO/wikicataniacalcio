@@ -103,9 +103,9 @@ tm_id: 510849
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **60 presenze ufficiali**, disputando **3610 minuti** di gioco effettivo, siglando **5 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1952, il attaccante **Francesco Colombo** ha militato nelle file rossazzurre per **5 stagioni** (1971–1976). Punto di riferimento nello scacchiere etneo, ha totalizzato **60 presenze ufficiali** (3610' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1973-1974**, durante la quale è sceso in campo in 19 occasioni realizzando 2 reti.
 
 ---
 

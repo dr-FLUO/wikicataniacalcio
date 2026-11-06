@@ -111,9 +111,9 @@ tm_id: 389058
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **7167 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Roma nel 1951, il difensore **Giovanni Bertini** ha militato nelle file rossazzurre per **4 stagioni** (1976–1980). Punto di riferimento nello scacchiere etneo, ha totalizzato **84 presenze ufficiali** (7167' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1978-1979**, durante la quale è sceso in campo in 26 occasioni realizzando 5 reti.
 
 ---
 

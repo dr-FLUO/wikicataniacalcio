@@ -118,9 +118,9 @@ tm_id: 21792
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **2894 minuti** di gioco effettivo, siglando **1 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Ragusa nel 1975, **Giorgio Lucenti** ha militato nelle file rossazzurre per **2 stagioni** (2005–2007). Punto di riferimento nello scacchiere etneo, ha totalizzato **55 presenze ufficiali** (2894' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 31 occasioni realizzando 1 rete.
 
 ---
 

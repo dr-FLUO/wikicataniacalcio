@@ -117,9 +117,9 @@ tm_id: 395839
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **108 presenze ufficiali**, disputando **9011 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Lanciano nel 1952, il centrocampista **Guido Biondi** ha militato nelle file rossazzurre per **5 stagioni** (1970–1976). Punto di riferimento nello scacchiere etneo, ha totalizzato **108 presenze ufficiali** (9011' minuti effettivi) impreziosite da **6 reti**. La sua annata con il minutaggio più elevato è stata la **1973-1974**, disputata con 35 presenze complessive.
 
 ---
 

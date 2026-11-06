@@ -106,9 +106,9 @@ tm_id: 161092
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **23 presenze ufficiali**, disputando **1919 minuti** di gioco effettivo, siglando **0 gol** e servendo **5 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Grotte (classe 1987), **Desiderio Garufo** ha difeso i colori del Catania nella stagione **2015-2016**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **23 presenze ufficiali** (1919' minuti effettivi) al servizio del collettivo.
 
 ---
 

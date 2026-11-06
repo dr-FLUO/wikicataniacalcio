@@ -97,9 +97,9 @@ tm_id: 354703
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **2259 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Modica (classe 1976), **Angelo Tasca** ha difeso i colori del Catania nella stagione **1997-1998**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **26 presenze ufficiali** (2259' minuti effettivi) al servizio del collettivo.
 
 ---
 

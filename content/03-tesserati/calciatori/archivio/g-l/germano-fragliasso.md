@@ -97,9 +97,9 @@ tm_id: 478314
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **23 presenze ufficiali**, disputando **1595 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Casoria nel 1969, il difensore **Germano Fragliasso** ha difeso i colori del Catania nella stagione **1989-1990**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **23 presenze ufficiali** (1595' minuti effettivi) al servizio del collettivo.
 
 ---
 

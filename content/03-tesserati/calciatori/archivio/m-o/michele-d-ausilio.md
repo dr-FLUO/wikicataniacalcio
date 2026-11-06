@@ -101,9 +101,9 @@ minutes_played: 1780
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di centrocampista, **Michele D'Ausilio** ha difeso i colori del Catania nella stagione **2025-2026**. Punto di riferimento nello scacchiere etneo, ha totalizzato **36 presenze ufficiali** (1780' minuti effettivi) impreziosite da **4 reti**.
 
 ---
 

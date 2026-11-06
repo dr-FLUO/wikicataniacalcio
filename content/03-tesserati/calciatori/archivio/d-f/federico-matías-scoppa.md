@@ -92,9 +92,9 @@ tm_id: 78621
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di centrocampista, **Federico Matías Scoppa** ha difeso i colori del Catania nella stagione **2016-2017**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **31 presenze ufficiali** (2518' minuti effettivi) al servizio del collettivo.
 
 ---
 

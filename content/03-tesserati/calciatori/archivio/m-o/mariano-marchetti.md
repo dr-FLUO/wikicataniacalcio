@@ -103,9 +103,9 @@ tm_id: 366977
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **2154 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Bassano del Grappa nel 1960, **Mariano Marchetti** ha difeso i colori del Catania nella stagione **1991-1992**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **25 presenze ufficiali** (2154' minuti effettivi) al servizio del collettivo.
 
 ---
 

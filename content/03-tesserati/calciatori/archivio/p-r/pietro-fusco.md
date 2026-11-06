@@ -110,9 +110,9 @@ tm_id: 6014
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2711 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Napoli nel 1971, il difensore **Pietro Fusco** ha militato nelle file rossazzurre per **3 stagioni** (2002–2005). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **36 presenze ufficiali** (2711' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2003-2004**, disputata con 19 presenze complessive.
 
 ---
 

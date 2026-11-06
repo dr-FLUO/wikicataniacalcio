@@ -80,9 +80,9 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di centrocampista, **Giorgio Biondelli** ha difeso i colori del Catania nella stagione **2010–2024**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **23 presenze ufficiali** al servizio del collettivo.
 
 ---
 

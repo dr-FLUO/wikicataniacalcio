@@ -112,9 +112,9 @@ tm_id: 361465
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **49 presenze ufficiali**, disputando **4410 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di San Michele Extra (classe 1936), **Renato Alberti** ha militato nelle file rossazzurre per **4 stagioni** (1961–1965). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **49 presenze ufficiali** (4410' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1961-1962**, disputata con 27 presenze complessive.
 
 ---
 

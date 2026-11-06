@@ -117,9 +117,9 @@ tm_id: 6094
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **892 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Roma (classe 1981), **Emanuele Berrettoni** ha difeso i colori del Catania nella stagione **2003-2004**. Punto di riferimento nello scacchiere etneo, ha totalizzato **16 presenze ufficiali** (892' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

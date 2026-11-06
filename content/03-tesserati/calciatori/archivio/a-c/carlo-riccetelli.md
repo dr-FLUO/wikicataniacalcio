@@ -89,9 +89,9 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Portiere nato a Vicovaro nel 1962, **Carlo Riccetelli** ha difeso i colori del Catania nella stagione **1962–2024**. A guardia dei pali etnei ha collezionato **33 presenze ufficiali**, distinguendosi per affidabilità e presenza tra i pali.
 
 ---
 

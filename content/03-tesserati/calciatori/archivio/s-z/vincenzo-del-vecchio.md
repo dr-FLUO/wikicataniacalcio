@@ -110,9 +110,9 @@ tm_id: 448210
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **84 presenze ufficiali**, disputando **6838 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Napoli nel 1966, **Vincenzo Del Vecchio** ha militato nelle file rossazzurre per **3 stagioni** (1990–1996). Punto di riferimento nello scacchiere etneo, ha totalizzato **84 presenze ufficiali** (6838' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1990-1991**, durante la quale è sceso in campo in 32 occasioni realizzando 2 reti.
 
 ---
 

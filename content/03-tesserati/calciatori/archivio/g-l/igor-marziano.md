@@ -88,9 +88,9 @@ tm_id: 22279
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1972, il centrocampista **Igor Marziano** ha militato nelle file rossazzurre per **3 stagioni** (1998–2001). Punto di riferimento nello scacchiere etneo, ha totalizzato **69 presenze ufficiali** (5810' minuti effettivi) impreziosite da **10 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1998-1999**, durante la quale è sceso in campo in 28 occasioni realizzando 4 reti.
 
 ---
 

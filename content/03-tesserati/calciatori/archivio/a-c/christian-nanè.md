@@ -95,10 +95,6 @@ tm_id: 675617
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **4 presenze ufficiali**, disputando **26 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
-
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
-
 ---
 
 ## Collegamenti e Voci Correlate

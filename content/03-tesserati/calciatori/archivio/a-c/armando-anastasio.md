@@ -110,9 +110,9 @@ tm_id: 286275
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2876 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1997, il difensore **Armando Anastasio** ha difeso i colori del Catania nella stagione **2024-2025**. Punto di riferimento nello scacchiere etneo, ha totalizzato **36 presenze ufficiali** (2876' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

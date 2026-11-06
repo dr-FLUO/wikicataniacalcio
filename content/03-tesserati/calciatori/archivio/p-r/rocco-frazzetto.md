@@ -96,9 +96,9 @@ tm_id: 525414
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **20 presenze ufficiali**, disputando **808 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1968, il centrocampista **Rocco Frazzetto** ha militato nelle file rossazzurre per **3 stagioni** (1985–1988). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **20 presenze ufficiali** (808' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1987-1988**, disputata con 11 presenze complessive.
 
 ---
 

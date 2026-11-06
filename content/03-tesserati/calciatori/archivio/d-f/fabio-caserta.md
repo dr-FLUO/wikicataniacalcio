@@ -120,9 +120,9 @@ tm_id: 28832
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **107 presenze ufficiali**, disputando **8483 minuti** di gioco effettivo, siglando **13 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Melito di Porto Salvo nel 1978, il centrocampista **Fabio Caserta** ha militato nelle file rossazzurre per **4 stagioni** (2004–2008). Punto di riferimento nello scacchiere etneo, ha totalizzato **107 presenze ufficiali** (8483' minuti effettivi) impreziosite da **13 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 36 occasioni realizzando 5 reti.
 
 ---
 

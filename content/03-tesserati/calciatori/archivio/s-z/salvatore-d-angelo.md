@@ -84,9 +84,9 @@ tm_id: 294065
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di difensore, **Salvatore D'Angelo** ha difeso i colori del Catania nella stagione **2010–2024**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **26 presenze ufficiali** al servizio del collettivo.
 
 ---
 

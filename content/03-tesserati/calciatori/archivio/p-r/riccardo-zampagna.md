@@ -103,9 +103,9 @@ tm_id: 20895
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **18 presenze ufficiali**, disputando **983 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Terni nel 1974, il attaccante **Riccardo Zampagna** ha difeso i colori del Catania nella stagione **1999-2000**. Punto di riferimento nello scacchiere etneo, ha totalizzato **18 presenze ufficiali** (983' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

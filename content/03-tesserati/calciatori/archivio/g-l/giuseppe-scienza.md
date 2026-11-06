@@ -118,9 +118,9 @@ tm_id: 227516
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4839 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Domodossola nel 1966, il centrocampista **Giuseppe Scienza** ha militato nelle file rossazzurre per **2 stagioni** (1988–1990). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4839' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1989-1990**, durante la quale è sceso in campo in 31 occasioni realizzando 4 reti.
 
 ---
 

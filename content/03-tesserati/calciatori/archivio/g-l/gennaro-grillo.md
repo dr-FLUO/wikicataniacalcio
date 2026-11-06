@@ -100,9 +100,9 @@ tm_id: 681777
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **3318 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1965, il difensore **Gennaro Grillo** ha militato nelle file rossazzurre per **2 stagioni** (1995–1997). Punto di riferimento nello scacchiere etneo, ha totalizzato **38 presenze ufficiali** (3318' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1995-1996**, durante la quale è sceso in campo in 27 occasioni realizzando 5 reti.
 
 ---
 

@@ -119,9 +119,9 @@ tm_id: 355444
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **6210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Cattolica (RN), Italia (classe 1996), **Andrea Dini** ha militato nelle file rossazzurre per **3 stagioni** (2024–). A guardia dei pali etnei ha collezionato **69 presenze ufficiali** (6210' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2025-2026**, disputata con 43 presenze complessive.
 
 ---
 

@@ -100,9 +100,9 @@ tm_id: 510843
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **57 presenze ufficiali**, disputando **4783 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1951, il centrocampista **Antonino Fatta** ha militato nelle file rossazzurre per **2 stagioni** (1973–1975). Punto di riferimento nello scacchiere etneo, ha totalizzato **57 presenze ufficiali** (4783' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1973-1974**, disputata con 30 presenze complessive.
 
 ---
 

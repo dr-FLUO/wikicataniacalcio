@@ -94,9 +94,9 @@ tm_id: 615420
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **27 presenze ufficiali**, disputando **2074 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1949, il attaccante **Angelo Labellarte** ha difeso i colori del Catania nella stagione **1978-1979**. Punto di riferimento nello scacchiere etneo, ha totalizzato **27 presenze ufficiali** (2074' minuti effettivi) impreziosite da **6 reti**.
 
 ---
 

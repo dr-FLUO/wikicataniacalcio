@@ -120,9 +120,9 @@ tm_id: 22102
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **77 presenze ufficiali**, disputando **6902 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Foggia nel 1977, il difensore **Paolo Bianco** ha militato nelle file rossazzurre per **3 stagioni** (2004–2007). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **77 presenze ufficiali** (6902' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2004-2005**, disputata con 40 presenze complessive.
 
 ---
 

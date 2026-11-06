@@ -110,9 +110,9 @@ tm_id: 724437
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **77 presenze ufficiali**, disputando **4933 minuti** di gioco effettivo, siglando **11 gol** e servendo **11 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 2002, il centrocampista **Kaleb Jimenez** ha militato nelle file rossazzurre per **3 stagioni** (2024–2027). Punto di riferimento nello scacchiere etneo, ha totalizzato **77 presenze ufficiali** (4933' minuti effettivi) impreziosite da **11 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 39 occasioni realizzando 5 reti.
 
 ---
 

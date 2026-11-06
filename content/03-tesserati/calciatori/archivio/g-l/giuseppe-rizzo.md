@@ -112,9 +112,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **114 presenze ufficiali**, disputando **7824 minuti** di gioco effettivo, siglando **5 gol** e servendo **8 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1991, il centrocampista **Giuseppe Rizzo** ha militato nelle file rossazzurre per **6 stagioni** (1937–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **114 presenze ufficiali** (7824' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2022-2023**, durante la quale è sceso in campo in 34 occasioni realizzando 3 reti.
 
 ---
 

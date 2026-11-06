@@ -111,9 +111,9 @@ tm_id: 313503
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **108 presenze ufficiali**, disputando **8447 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Roma (classe 1964), **Giancarlo Marini** ha militato nelle file rossazzurre per **4 stagioni** (1987–1993). Punto di riferimento nello scacchiere etneo, ha totalizzato **108 presenze ufficiali** (8447' minuti effettivi) impreziosite da **10 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1987-1988**, durante la quale è sceso in campo in 32 occasioni realizzando 5 reti.
 
 ---
 

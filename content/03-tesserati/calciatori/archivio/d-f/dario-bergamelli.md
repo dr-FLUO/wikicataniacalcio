@@ -113,9 +113,9 @@ tm_id: 84468
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4908 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Alzano Lombardo nel 1987, **Dario Bergamelli** ha militato nelle file rossazzurre per **2 stagioni** (2015–2017). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4908' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2015-2016**, durante la quale è sceso in campo in 30 occasioni realizzando 1 rete.
 
 ---
 

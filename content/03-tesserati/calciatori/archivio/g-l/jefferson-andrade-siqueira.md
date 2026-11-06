@@ -97,9 +97,9 @@ tm_id: 54464
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1988, il attaccante **Jefferson Andrade Siqueira** ha difeso i colori del Catania nella stagione **2022-2023**. Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (733' minuti effettivi) impreziosite da **8 reti**.
 
 ---
 

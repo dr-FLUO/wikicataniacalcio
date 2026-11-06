@@ -112,9 +112,9 @@ tm_id: 437366
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **59 presenze ufficiali**, disputando **5310 minuti** di gioco effettivo, siglando **7 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Cadidavid (classe 1935), **Ferruccio Caceffo** ha militato nelle file rossazzurre per **5 stagioni** (1957–1963). Punto di riferimento nello scacchiere etneo, ha totalizzato **59 presenze ufficiali** (5310' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1957-1958**, durante la quale è sceso in campo in 19 occasioni realizzando 1 rete.
 
 ---
 

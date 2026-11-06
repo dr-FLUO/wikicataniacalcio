@@ -94,9 +94,9 @@ tm_id: 299893
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **16 presenze ufficiali**, disputando **1095 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1976, il centrocampista **Emanuele Matzuzzi** ha difeso i colori del Catania nella stagione **1999-2000**. Punto di riferimento nello scacchiere etneo, ha totalizzato **16 presenze ufficiali** (1095' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

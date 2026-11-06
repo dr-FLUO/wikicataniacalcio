@@ -109,9 +109,9 @@ tm_id: 313465
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **61 presenze ufficiali**, disputando **4738 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Favaro Veneto nel 1955, il difensore **Giacomo Chinellato** ha militato nelle file rossazzurre per **2 stagioni** (1982–1984). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **61 presenze ufficiali** (4738' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1982-1983**, disputata con 41 presenze complessive.
 
 ---
 

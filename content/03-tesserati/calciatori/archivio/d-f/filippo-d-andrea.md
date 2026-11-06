@@ -96,9 +96,9 @@ minutes_played: 737
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di attaccante, **Filippo D'Andrea** ha militato nelle file rossazzurre per **2 stagioni** (2010–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **17 presenze ufficiali** (737' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2024-2025**, durante la quale è sceso in campo in 16 occasioni realizzando 1 rete.
 
 ---
 

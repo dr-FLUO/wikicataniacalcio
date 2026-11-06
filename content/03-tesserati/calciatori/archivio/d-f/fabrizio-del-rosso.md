@@ -100,9 +100,9 @@ tm_id: 525433
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **1501 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante classe 1963, **Fabrizio Del Rosso** ha militato nelle file rossazzurre per **2 stagioni** (1987–1989). Punto di riferimento nello scacchiere etneo, ha totalizzato **25 presenze ufficiali** (1501' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1987-1988**, durante la quale è sceso in campo in 21 occasioni realizzando 4 reti.
 
 ---
 

@@ -110,9 +110,9 @@ tm_id: 522786
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **97 presenze ufficiali**, disputando **8622 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Lecco (classe 1960), **Dario Marigo** ha militato nelle file rossazzurre per **3 stagioni** (1984–1988). A guardia dei pali etnei ha collezionato **97 presenze ufficiali** (8622' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1987-1988**, disputata con 40 presenze complessive.
 
 ---
 

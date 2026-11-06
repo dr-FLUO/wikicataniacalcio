@@ -119,9 +119,9 @@ tm_id: 293887
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **161 presenze ufficiali**, disputando **14445 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Rivoli (classe 1934), **Giuseppe Vavassori** ha militato nelle file rossazzurre per **6 stagioni** (1961–1967). A guardia dei pali etnei ha collezionato **161 presenze ufficiali** (14.445' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1961-1962**, disputata con 34 presenze complessive.
 
 ---
 

@@ -109,9 +109,9 @@ tm_id: 6099
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **1488 minuti** di gioco effettivo, siglando **5 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Pinerolo nel 1970, il attaccante **Antonio Criniti** ha militato nelle file rossazzurre per **2 stagioni** (2000–2002). Punto di riferimento nello scacchiere etneo, ha totalizzato **25 presenze ufficiali** (1488' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2000-2001**, durante la quale è sceso in campo in 24 occasioni realizzando 5 reti.
 
 ---
 

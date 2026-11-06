@@ -110,9 +110,9 @@ tm_id: 482780
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **80 presenze ufficiali**, disputando **7200 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Modena nel 1942, il difensore **Renzo Fantazzi** ha militato nelle file rossazzurre per **3 stagioni** (1964–1967). Punto di riferimento nello scacchiere etneo, ha totalizzato **80 presenze ufficiali** (7200' minuti effettivi) impreziosite da **3 reti**. La sua annata con il minutaggio più elevato è stata la **1964-1965**, disputata con 30 presenze complessive.
 
 ---
 

@@ -111,9 +111,9 @@ tm_id: 516041
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **9810 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Maddaloni nel 1926, **Ferruccio Santamaria** ha militato nelle file rossazzurre per **4 stagioni** (1952–1956). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (9810' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1952-1953**, durante la quale è sceso in campo in 32 occasioni realizzando 1 rete.
 
 ---
 

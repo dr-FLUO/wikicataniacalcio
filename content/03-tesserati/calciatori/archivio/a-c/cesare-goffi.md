@@ -117,9 +117,9 @@ tm_id: 566032
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **31 presenze ufficiali**, disputando **2790 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Torino nel 1920, il portiere **Cesare Goffi** ha difeso i colori del Catania nella stagione **1949-1950**. A guardia dei pali etnei ha collezionato **31 presenze ufficiali** (2790' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali.
 
 ---
 

@@ -92,9 +92,9 @@ tm_id: 490656
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di San Paolo (classe 1940), **Roberto Jose Battaglia** ha militato nelle file rossazzurre per **2 stagioni** (1962–1964). Punto di riferimento nello scacchiere etneo, ha totalizzato **26 presenze ufficiali** (2340' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1963-1964**, durante la quale è sceso in campo in 15 occasioni realizzando 4 reti.
 
 ---
 

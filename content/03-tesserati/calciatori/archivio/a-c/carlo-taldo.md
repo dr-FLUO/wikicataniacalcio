@@ -109,9 +109,9 @@ tm_id: 6051
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **2366 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Merate nel 1972, il attaccante **Carlo Taldo** ha militato nelle file rossazzurre per **2 stagioni** (2002–2004). Punto di riferimento nello scacchiere etneo, ha totalizzato **32 presenze ufficiali** (2366' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2002-2003**, durante la quale è sceso in campo in 18 occasioni realizzando 8 reti.
 
 ---
 

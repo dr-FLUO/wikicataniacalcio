@@ -107,9 +107,9 @@ tm_id: 15338
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Anita Garibaldi (classe 1981), **Fernando Menegazzo** ha difeso i colori del Catania nella stagione **2004-2005**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **18 presenze ufficiali** (1538' minuti effettivi) al servizio del collettivo.
 
 ---
 

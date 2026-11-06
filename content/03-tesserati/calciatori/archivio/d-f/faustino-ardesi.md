@@ -103,9 +103,9 @@ tm_id: 588623
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **1530 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Brescia nel 1921, **Faustino Ardesi** ha difeso i colori del Catania nella stagione **1949-1950**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **17 presenze ufficiali** (1530' minuti effettivi) al servizio del collettivo.
 
 ---
 

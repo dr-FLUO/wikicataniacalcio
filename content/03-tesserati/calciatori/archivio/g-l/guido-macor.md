@@ -111,9 +111,9 @@ tm_id: 422623
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **71 presenze ufficiali**, disputando **6345 minuti** di gioco effettivo, siglando **22 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Udine nel 1932, il attaccante **Guido Macor** ha militato nelle file rossazzurre per **3 stagioni** (1958–1961). Punto di riferimento nello scacchiere etneo, ha totalizzato **71 presenze ufficiali** (6345' minuti effettivi) impreziosite da **22 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1958-1959**, durante la quale è sceso in campo in 33 occasioni realizzando 9 reti.
 
 ---
 

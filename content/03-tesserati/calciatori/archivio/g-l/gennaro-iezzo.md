@@ -112,9 +112,9 @@ tm_id: 20738
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **108 presenze ufficiali**, disputando **9581 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Castellammare di Stabia (classe 1973), **Gennaro Iezzo** ha militato nelle file rossazzurre per **4 stagioni** (1999–2003). A guardia dei pali etnei ha collezionato **108 presenze ufficiali** (9581' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2001-2002**, disputata con 37 presenze complessive.
 
 ---
 

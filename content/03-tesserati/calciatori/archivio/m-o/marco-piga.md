@@ -109,9 +109,9 @@ tm_id: 447902
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **70 presenze ufficiali**, disputando **6040 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Palau nel 1956, il attaccante **Marco Piga** ha militato nelle file rossazzurre per **2 stagioni** (1979–1981). Punto di riferimento nello scacchiere etneo, ha totalizzato **70 presenze ufficiali** (6040' minuti effettivi) impreziosite da **18 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1980-1981**, durante la quale è sceso in campo in 39 occasioni realizzando 7 reti.
 
 ---
 

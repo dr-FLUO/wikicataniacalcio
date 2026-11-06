@@ -118,9 +118,9 @@ tm_id: 138110
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **2627 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Córdoba nel 1992, il difensore **Gino Peruzzi** ha militato nelle file rossazzurre per **2 stagioni** (2013–2015). Punto di riferimento nello scacchiere etneo, ha totalizzato **35 presenze ufficiali** (2627' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2013-2014**, durante la quale è sceso in campo in 23 occasioni realizzando 1 rete.
 
 ---
 

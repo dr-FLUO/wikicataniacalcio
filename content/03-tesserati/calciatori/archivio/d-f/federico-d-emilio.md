@@ -87,12 +87,6 @@ minutes_played: 51
 
 ---
 
-## Note e Scheda di Carriera
-
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
-
----
-
 ## Collegamenti e Voci Correlate
 
 * [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]

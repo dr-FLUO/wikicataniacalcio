@@ -112,9 +112,9 @@ tm_id: 71302
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1299 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Viareggio nel 1987, **Gianluca Musacci** ha difeso i colori del Catania nella stagione **2015-2016**. Punto di riferimento nello scacchiere etneo, ha totalizzato **21 presenze ufficiali** (1299' minuti effettivi) impreziosite da **1 gol**.
 
 ---
 

@@ -113,9 +113,9 @@ tm_id: 496137
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **169 presenze ufficiali**, disputando **15120 minuti** di gioco effettivo, siglando **6 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Castelvetro di Modena nel 1930, **Elio Grani** ha militato nelle file rossazzurre per **6 stagioni** (1956–1962). Punto di riferimento nello scacchiere etneo, ha totalizzato **169 presenze ufficiali** (15.120' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1956-1957**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
 
 ---
 

@@ -115,9 +115,9 @@ tm_id: 488214
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **182 presenze ufficiali**, disputando **16380 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **8 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Torino nel 1936, **Renato Rambaldelli** ha militato nelle file rossazzurre per **8 stagioni** (1960–1968). Punto di riferimento nello scacchiere etneo, ha totalizzato **182 presenze ufficiali** (16.380' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1966-1967**, disputata con 34 presenze complessive.
 
 ---
 

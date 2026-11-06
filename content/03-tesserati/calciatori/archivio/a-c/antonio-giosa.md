@@ -109,9 +109,9 @@ tm_id: 22112
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **1390 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1984, il difensore **Antonio Giosa** ha militato nelle file rossazzurre per **2 stagioni** (2020–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **17 presenze ufficiali** (1390' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2020-2021**, durante la quale è sceso in campo in 16 occasioni realizzando 2 reti.
 
 ---
 

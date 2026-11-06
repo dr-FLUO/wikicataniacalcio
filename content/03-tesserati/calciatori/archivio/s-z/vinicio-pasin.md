@@ -98,9 +98,9 @@ tm_id: 590336
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4518 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1955, il difensore **Vinicio Pasin** ha militato nelle file rossazzurre per **5 stagioni** (1974–1979). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **56 presenze ufficiali** (4518' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1978-1979**, disputata con 17 presenze complessive.
 
 ---
 

@@ -94,9 +94,9 @@ tm_id: 729243
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2359 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore classe 1971, **Giorgio Bertolone** ha difeso i colori del Catania nella stagione **1992-1993**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **28 presenze ufficiali** (2359' minuti effettivi) al servizio del collettivo.
 
 ---
 

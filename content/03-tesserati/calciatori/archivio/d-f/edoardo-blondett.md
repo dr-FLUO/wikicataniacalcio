@@ -104,9 +104,9 @@ tm_id: 167877
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1409 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1992, il difensore **Edoardo Blondett** ha militato nelle file rossazzurre per **2 stagioni** (2017–2019). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **22 presenze ufficiali** (1409' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2017-2018**, disputata con 19 presenze complessive.
 
 ---
 

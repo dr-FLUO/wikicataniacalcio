@@ -109,9 +109,9 @@ tm_id: 523942
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **49 presenze ufficiali**, disputando **4410 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Vigasio nel 1933, **Renato Gelio** ha militato nelle file rossazzurre per **2 stagioni** (1956–1958). Punto di riferimento nello scacchiere etneo, ha totalizzato **49 presenze ufficiali** (4410' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1957-1958**, durante la quale è sceso in campo in 32 occasioni realizzando 2 reti.
 
 ---
 

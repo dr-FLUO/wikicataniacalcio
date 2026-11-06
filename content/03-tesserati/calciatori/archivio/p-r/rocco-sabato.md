@@ -120,9 +120,9 @@ tm_id: 20747
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **3677 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Potenza (classe 1982), **Rocco Sabato** ha militato nelle file rossazzurre per **4 stagioni** (2005–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (3677' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **2005-2006**, disputata con 24 presenze complessive.
 
 ---
 

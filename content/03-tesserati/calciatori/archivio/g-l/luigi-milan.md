@@ -108,9 +108,9 @@ tm_id: 250942
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **29 presenze ufficiali**, disputando **2640 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Mirano nel 1937, il centrocampista **Luigi Milan** ha difeso i colori del Catania nella stagione **1962-1963**. Punto di riferimento nello scacchiere etneo, ha totalizzato **29 presenze ufficiali** (2640' minuti effettivi) impreziosite da **8 reti**.
 
 ---
 

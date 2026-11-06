@@ -115,9 +115,9 @@ tm_id: 304455
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **55 presenze ufficiali**, disputando **4643 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Rivoli (classe 1951), **Giorgio Mastropasqua** ha militato nelle file rossazzurre per **2 stagioni** (1982–1984). Punto di riferimento nello scacchiere etneo, ha totalizzato **55 presenze ufficiali** (4643' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 42 occasioni realizzando 2 reti.
 
 ---
 

@@ -108,9 +108,9 @@ tm_id: 240290
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1316 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1994, il difensore **Davide Guglielmotti** ha difeso i colori del Catania nella stagione **2024-2025**. Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (1316' minuti effettivi) impreziosite da **3 reti**.
 
 ---
 

@@ -111,9 +111,9 @@ tm_id: 22082
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **105 presenze ufficiali**, disputando **7851 minuti** di gioco effettivo, siglando **9 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Sorso nel 1974, **Michele Fini** ha militato nelle file rossazzurre per **3 stagioni** (2001–2004). Punto di riferimento nello scacchiere etneo, ha totalizzato **105 presenze ufficiali** (7851' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2003-2004**, durante la quale è sceso in campo in 37 occasioni realizzando 2 reti.
 
 ---
 

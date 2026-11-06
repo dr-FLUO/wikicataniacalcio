@@ -121,9 +121,9 @@ tm_id: 21770
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **61 presenze ufficiali**, disputando **4548 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Pozzuoli nel 1979, il difensore **Gennaro Sardo** ha militato nelle file rossazzurre per **4 stagioni** (2006–2010). Punto di riferimento nello scacchiere etneo, ha totalizzato **61 presenze ufficiali** (4548' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2007-2008**, durante la quale è sceso in campo in 25 occasioni realizzando 1 rete.
 
 ---
 

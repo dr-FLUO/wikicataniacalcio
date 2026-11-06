@@ -118,9 +118,9 @@ tm_id: 167900
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **46 presenze ufficiali**, disputando **3210 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Gragnano (NA), Italia nel 1992, **Daniele Donnarumma** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **46 presenze ufficiali** (3210' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 39 occasioni realizzando 3 reti.
 
 ---
 

@@ -114,9 +114,9 @@ tm_id: 336951
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **91 presenze ufficiali**, disputando **5545 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Seregno nel 1960, il attaccante **Roberto Mandressi** ha militato nelle file rossazzurre per **3 stagioni** (1985–1988). Punto di riferimento nello scacchiere etneo, ha totalizzato **91 presenze ufficiali** (5545' minuti effettivi) impreziosite da **10 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1985-1986**, durante la quale è sceso in campo in 36 occasioni realizzando 4 reti.
 
 ---
 

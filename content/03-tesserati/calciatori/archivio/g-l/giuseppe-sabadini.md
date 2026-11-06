@@ -109,9 +109,9 @@ tm_id: 145365
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1433 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Sagrado (classe 1949), **Giuseppe Sabadini** ha difeso i colori del Catania nella stagione **1983-1984**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **21 presenze ufficiali** (1433' minuti effettivi) al servizio del collettivo.
 
 ---
 

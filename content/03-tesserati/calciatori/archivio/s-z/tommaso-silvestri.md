@@ -116,9 +116,9 @@ tm_id: 36753
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **119 presenze ufficiali**, disputando **10365 minuti** di gioco effettivo, siglando **5 gol** e servendo **6 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1992, il difensore **Tommaso Silvestri** ha militato nelle file rossazzurre per **4 stagioni** (2018–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **119 presenze ufficiali** (10.365' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2018-2019**, durante la quale è sceso in campo in 37 occasioni realizzando 2 reti.
 
 ---
 

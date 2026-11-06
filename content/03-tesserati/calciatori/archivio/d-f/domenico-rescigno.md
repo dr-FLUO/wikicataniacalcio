@@ -83,9 +83,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di portiere, **Domenico Rescigno** ha difeso i colori del Catania nella stagione **1994–1995**. A guardia dei pali etnei ha collezionato **26 presenze ufficiali** (2340' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali.
 
 ---
 

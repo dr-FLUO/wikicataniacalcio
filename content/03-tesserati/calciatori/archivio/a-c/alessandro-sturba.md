@@ -108,9 +108,9 @@ tm_id: 22094
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **480 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Roma (classe 1972), **Alessandro Sturba** ha difeso i colori del Catania nella stagione **2003-2004**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **17 presenze ufficiali** (480' minuti effettivi) al servizio del collettivo.
 
 ---
 

@@ -110,9 +110,9 @@ tm_id: 245263
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **6210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Nervesa della Battaglia nel 1927, il portiere **Narciso Soldan** ha militato nelle file rossazzurre per **2 stagioni** (1951–1953). A guardia dei pali etnei ha collezionato **69 presenze ufficiali** (6210' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1952-1953**, disputata con 35 presenze complessive.
 
 ---
 

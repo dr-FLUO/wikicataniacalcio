@@ -112,9 +112,9 @@ tm_id: 99071
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **50 presenze ufficiali**, disputando **3532 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Napoli nel 1968, **Gennaro Monaco** ha militato nelle file rossazzurre per **5 stagioni** (1998–2004). Punto di riferimento nello scacchiere etneo, ha totalizzato **50 presenze ufficiali** (3532' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1998-1999**, durante la quale è sceso in campo in 29 occasioni realizzando 3 reti.
 
 ---
 

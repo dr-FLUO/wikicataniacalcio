@@ -110,9 +110,9 @@ tm_id: 168202
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4427 minuti** di gioco effettivo, siglando **7 gol** e servendo **8 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1992, il difensore **Francesco Rapisarda** ha militato nelle file rossazzurre per **3 stagioni** (2022–2025). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4427' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2022-2023**, durante la quale è sceso in campo in 34 occasioni realizzando 6 reti.
 
 ---
 

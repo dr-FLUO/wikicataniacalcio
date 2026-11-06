@@ -101,9 +101,9 @@ tm_id: 336892
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **75 presenze ufficiali**, disputando **5953 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista classe 1975, **Marco Napolioni** ha militato nelle file rossazzurre per **3 stagioni** (1999–2002). Punto di riferimento nello scacchiere etneo, ha totalizzato **75 presenze ufficiali** (5953' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1999-2000**, durante la quale è sceso in campo in 29 occasioni realizzando 1 rete.
 
 ---
 

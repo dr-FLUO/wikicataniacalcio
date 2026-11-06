@@ -104,9 +104,9 @@ tm_id: 227303
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **21 presenze ufficiali**, disputando **1541 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Arezzo (classe 1963), **Luca Della Scala** ha militato nelle file rossazzurre per **2 stagioni** (1989–1991). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **21 presenze ufficiali** (1541' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1989-1990**, disputata con 19 presenze complessive.
 
 ---
 

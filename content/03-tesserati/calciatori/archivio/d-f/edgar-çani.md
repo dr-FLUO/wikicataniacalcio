@@ -124,9 +124,9 @@ tm_id: 61863
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **678 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Tirana (classe 1989), **Edgar Çani** ha militato nelle file rossazzurre per **3 stagioni** (2012–2015). Punto di riferimento nello scacchiere etneo, ha totalizzato **19 presenze ufficiali** (678' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2014-2015**, durante la quale è sceso in campo in 15 occasioni realizzando 3 reti.
 
 ---
 

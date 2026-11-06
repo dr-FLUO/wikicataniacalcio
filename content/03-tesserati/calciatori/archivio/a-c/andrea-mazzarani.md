@@ -110,9 +110,9 @@ tm_id: 92880
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **99 presenze ufficiali**, disputando **6266 minuti** di gioco effettivo, siglando **24 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista classe 1990, **Andrea Mazzarani** ha militato nelle file rossazzurre per **3 stagioni** (2016–2020). Punto di riferimento nello scacchiere etneo, ha totalizzato **99 presenze ufficiali** (6266' minuti effettivi) impreziosite da **24 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2017-2018**, durante la quale è sceso in campo in 37 occasioni realizzando 8 reti.
 
 ---
 

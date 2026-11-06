@@ -113,9 +113,9 @@ tm_id: 478868
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **198 presenze ufficiali**, disputando **17804 minuti** di gioco effettivo, siglando **8 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Gorla Minore (classe 1943), **Angelo Pereni** ha militato nelle file rossazzurre per **6 stagioni** (1966–1972). Punto di riferimento nello scacchiere etneo, ha totalizzato **198 presenze ufficiali** (17.804' minuti effettivi) impreziosite da **8 reti**. La sua annata con il minutaggio più elevato è stata la **1968-1969**, disputata con 37 presenze complessive.
 
 ---
 

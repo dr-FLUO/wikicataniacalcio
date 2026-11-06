@@ -94,9 +94,9 @@ tm_id: 576746
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2400 minuti** di gioco effettivo, siglando **4 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista classe 1955, **Giovan Battista Rappa** ha difeso i colori del Catania nella stagione **1978-1979**. Punto di riferimento nello scacchiere etneo, ha totalizzato **28 presenze ufficiali** (2400' minuti effettivi) impreziosite da **4 reti**.
 
 ---
 

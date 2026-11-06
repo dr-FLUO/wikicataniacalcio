@@ -94,9 +94,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **2838 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1972, il centrocampista **Matteo Rossi** ha militato nelle file rossazzurre per **2 stagioni** (1997–1999). Punto di riferimento nello scacchiere etneo, ha totalizzato **45 presenze ufficiali** (2838' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1997-1998**, durante la quale è sceso in campo in 26 occasioni realizzando 1 rete.
 
 ---
 

@@ -103,9 +103,9 @@ tm_id: 102995
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **2215 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1989, il difensore **Carlo Pelagatti** ha difeso i colori del Catania nella stagione **2015-2016**. Punto di riferimento nello scacchiere etneo, ha totalizzato **26 presenze ufficiali** (2215' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

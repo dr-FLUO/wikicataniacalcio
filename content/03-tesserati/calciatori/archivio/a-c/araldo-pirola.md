@@ -97,9 +97,9 @@ tm_id: 532724
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Sesto San Giovanni nel 1928, **Araldo Pirola** ha militato nelle file rossazzurre per **2 stagioni** (1952–1954). Punto di riferimento nello scacchiere etneo, ha totalizzato **29 presenze ufficiali** (2610' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1954-1955**, durante la quale è sceso in campo in 18 occasioni realizzando 1 rete.
 
 ---
 

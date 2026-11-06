@@ -123,9 +123,9 @@ tm_id: 346221
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **93 presenze ufficiali**, disputando **8183 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Roma (classe 1964), **Marco Onorati** ha militato nelle file rossazzurre per **6 stagioni** (1982–1989). A guardia dei pali etnei ha collezionato **93 presenze ufficiali** (8183' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1986-1987**, disputata con 37 presenze complessive.
 
 ---
 

@@ -103,9 +103,9 @@ tm_id: 468051
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **24 presenze ufficiali**, disputando **1557 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Rapagnano (classe 1966), **Andrea Mazzaferro** ha difeso i colori del Catania nella stagione **1995-1996**. Punto di riferimento nello scacchiere etneo, ha totalizzato **24 presenze ufficiali** (1557' minuti effettivi) impreziosite da **1 gol**.
 
 ---
 

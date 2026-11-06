@@ -115,9 +115,9 @@ tm_id: 494003
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **190 presenze ufficiali**, disputando **17100 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Genova (classe 1931), **Mario Corti** ha militato nelle file rossazzurre per **7 stagioni** (1957–1964). Punto di riferimento nello scacchiere etneo, ha totalizzato **190 presenze ufficiali** (17.100' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1959-1960**, disputata con 34 presenze complessive.
 
 ---
 

@@ -103,9 +103,9 @@ tm_id: 553394
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **113 presenze ufficiali**, disputando **8738 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1967, il difensore **Mirko Mattei** ha militato nelle file rossazzurre per **5 stagioni** (1987–1992). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **113 presenze ufficiali** (8738' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1987-1988**, disputata con 37 presenze complessive.
 
 ---
 

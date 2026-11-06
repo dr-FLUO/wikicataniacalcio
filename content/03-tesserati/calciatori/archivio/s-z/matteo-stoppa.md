@@ -112,9 +112,9 @@ tm_id: 391899
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **1786 minuti** di gioco effettivo, siglando **4 gol** e servendo **6 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 2001, il attaccante **Matteo Stoppa** ha militato nelle file rossazzurre per **2 stagioni** (2024–2026). Punto di riferimento nello scacchiere etneo, ha totalizzato **41 presenze ufficiali** (1786' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2024-2025**, durante la quale è sceso in campo in 29 occasioni realizzando 4 reti.
 
 ---
 

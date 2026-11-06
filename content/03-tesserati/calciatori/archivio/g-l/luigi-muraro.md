@@ -114,9 +114,9 @@ tm_id: 338029
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **86 presenze ufficiali**, disputando **7442 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Dueville (classe 1951), **Luigi Muraro** ha militato nelle file rossazzurre per **7 stagioni** (1972–1979). A guardia dei pali etnei ha collezionato **86 presenze ufficiali** (7442' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1977-1978**, disputata con 38 presenze complessive.
 
 ---
 

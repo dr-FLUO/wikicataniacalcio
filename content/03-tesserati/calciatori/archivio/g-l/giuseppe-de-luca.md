@@ -110,9 +110,9 @@ tm_id: 62751
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **44 presenze ufficiali**, disputando **2137 minuti** di gioco effettivo, siglando **9 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1992, il attaccante **Giuseppe De Luca** ha militato nelle file rossazzurre per **3 stagioni** (2022–2025). Punto di riferimento nello scacchiere etneo, ha totalizzato **44 presenze ufficiali** (2137' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2022-2023**, durante la quale è sceso in campo in 31 occasioni realizzando 7 reti.
 
 ---
 

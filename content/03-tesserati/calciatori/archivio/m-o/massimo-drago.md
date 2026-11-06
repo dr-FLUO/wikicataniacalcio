@@ -108,9 +108,9 @@ tm_id: 484610
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **850 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Crotone nel 1971, il difensore **Massimo Drago** ha difeso i colori del Catania nella stagione **1995-1996**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **19 presenze ufficiali** (850' minuti effettivi) al servizio del collettivo.
 
 ---
 

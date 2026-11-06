@@ -116,9 +116,9 @@ tm_id: 523456
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **86 presenze ufficiali**, disputando **5892 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **9 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Centuripe nel 1959, il difensore **Rosario Picone** ha militato nelle file rossazzurre per **9 stagioni** (1978–1989). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **86 presenze ufficiali** (5892' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1985-1986**, disputata con 23 presenze complessive.
 
 ---
 

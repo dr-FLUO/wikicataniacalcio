@@ -123,9 +123,9 @@ tm_id: 44116
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **48 presenze ufficiali**, disputando **1670 minuti** di gioco effettivo, siglando **7 gol** e servendo **3 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante nato a Matera nel 1983, **Gianvito Plasmati** ha militato nelle file rossazzurre per **6 stagioni** (2006–2016). Punto di riferimento nello scacchiere etneo, ha totalizzato **48 presenze ufficiali** (1670' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2009-2010**, durante la quale è sceso in campo in 16 occasioni realizzando 2 reti.
 
 ---
 

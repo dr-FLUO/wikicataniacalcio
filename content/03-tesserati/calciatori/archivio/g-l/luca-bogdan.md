@@ -97,9 +97,9 @@ tm_id: 226058
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di difensore, **Luca Bogdan** ha difeso i colori del Catania nella stagione **2017-2018**. Punto di riferimento nello scacchiere etneo, ha totalizzato **35 presenze ufficiali** (3071' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

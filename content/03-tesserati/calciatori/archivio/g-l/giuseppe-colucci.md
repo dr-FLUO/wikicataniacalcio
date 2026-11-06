@@ -119,9 +119,9 @@ tm_id: 6717
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **54 presenze ufficiali**, disputando **3594 minuti** di gioco effettivo, siglando **4 gol** e servendo **6 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a San Giovanni Rotondo nel 1980, il attaccante **Giuseppe Colucci** ha militato nelle file rossazzurre per **3 stagioni** (2006–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **54 presenze ufficiali** (3594' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2007-2008**, durante la quale è sceso in campo in 29 occasioni realizzando 1 rete.
 
 ---
 

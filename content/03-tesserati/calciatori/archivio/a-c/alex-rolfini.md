@@ -109,9 +109,9 @@ tm_id: 395714
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **17 presenze ufficiali**, disputando **585 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1996, il attaccante **Alex Rolfini** ha militato nelle file rossazzurre per **2 stagioni** (2025–2027). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **17 presenze ufficiali** (585' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2025-2026**, disputata con 16 presenze complessive.
 
 ---
 

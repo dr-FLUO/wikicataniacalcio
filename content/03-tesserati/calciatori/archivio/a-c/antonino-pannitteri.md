@@ -94,9 +94,9 @@ tm_id: 478289
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1725 minuti** di gioco effettivo, siglando **11 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1965, il attaccante **Antonino Pannitteri** ha difeso i colori del Catania nella stagione **1996-1997**. Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (1725' minuti effettivi) impreziosite da **11 reti**.
 
 ---
 

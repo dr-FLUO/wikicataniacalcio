@@ -113,9 +113,9 @@ tm_id: 6445
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **132 presenze ufficiali**, disputando **10426 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Roma nel 1975, **Cristian Silvestri** ha militato nelle file rossazzurre per **5 stagioni** (2004–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **132 presenze ufficiali** (10.426' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
 
 ---
 

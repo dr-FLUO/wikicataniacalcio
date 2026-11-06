@@ -104,9 +104,9 @@ tm_id: 42029
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Strzelin (classe 1988), **Blazej  Augustyn** ha militato nelle file rossazzurre per **4 stagioni** (2009–2013). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **22 presenze ufficiali** (1458' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2009-2010**, disputata con 14 presenze complessive.
 
 ---
 

@@ -112,9 +112,9 @@ tm_id: 495964
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **171 presenze ufficiali**, disputando **15135 minuti** di gioco effettivo, siglando **18 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Limbiate nel 1948, **Lorenzo Barlassina** ha militato nelle file rossazzurre per **5 stagioni** (1976–1982). Punto di riferimento nello scacchiere etneo, ha totalizzato **171 presenze ufficiali** (15.135' minuti effettivi) impreziosite da **18 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1980-1981**, durante la quale è sceso in campo in 42 occasioni realizzando 7 reti.
 
 ---
 

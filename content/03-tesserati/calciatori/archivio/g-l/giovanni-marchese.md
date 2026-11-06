@@ -123,9 +123,9 @@ tm_id: 21887
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **176 presenze ufficiali**, disputando **13958 minuti** di gioco effettivo, siglando **7 gol** e servendo **14 assist** distribuiti su **9 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore classe 1984, **Giovanni  Marchese** ha militato nelle file rossazzurre per **9 stagioni** (2005–2020). Punto di riferimento nello scacchiere etneo, ha totalizzato **176 presenze ufficiali** (13.958' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2017-2018**, durante la quale è sceso in campo in 36 occasioni realizzando 1 rete.
 
 ---
 

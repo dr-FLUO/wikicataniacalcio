@@ -110,9 +110,9 @@ tm_id: 21917
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **87 presenze ufficiali**, disputando **6541 minuti** di gioco effettivo, siglando **9 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Varese nel 1971, **Davide Cordone** ha militato nelle file rossazzurre per **3 stagioni** (2000–2003). Punto di riferimento nello scacchiere etneo, ha totalizzato **87 presenze ufficiali** (6541' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2001-2002**, durante la quale è sceso in campo in 40 occasioni realizzando 5 reti.
 
 ---
 

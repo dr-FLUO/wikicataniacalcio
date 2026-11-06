@@ -100,9 +100,9 @@ tm_id: 540239
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **2598 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1968, il centrocampista **Dino Di Julio** ha militato nelle file rossazzurre per **2 stagioni** (1997–1999). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **42 presenze ufficiali** (2598' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1998-1999**, disputata con 30 presenze complessive.
 
 ---
 

@@ -112,9 +112,9 @@ tm_id: 367025
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **44 presenze ufficiali**, disputando **3142 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Catania nel 1955, **Guido Angelozzi** ha militato nelle file rossazzurre per **5 stagioni** (1973–1979). Punto di riferimento nello scacchiere etneo, ha totalizzato **44 presenze ufficiali** (3142' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1976-1977**, durante la quale è sceso in campo in 20 occasioni realizzando 1 rete.
 
 ---
 

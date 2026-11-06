@@ -111,9 +111,9 @@ tm_id: 499678
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **53 presenze ufficiali**, disputando **3134 minuti** di gioco effettivo, siglando **5 gol** e servendo **4 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1999, il attaccante **Kevin Biondi** ha militato nelle file rossazzurre per **4 stagioni** (2018–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **53 presenze ufficiali** (3134' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2019-2020**, durante la quale è sceso in campo in 32 occasioni realizzando 4 reti.
 
 ---
 

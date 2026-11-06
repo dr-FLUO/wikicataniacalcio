@@ -119,9 +119,9 @@ tm_id: 16902
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **3470 minuti** di gioco effettivo, siglando **8 gol** e servendo **10 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante nato a Belvedere Marittimo nel 1984, **Alessandro Rosina** ha militato nelle file rossazzurre per **2 stagioni** (2014–2016). Punto di riferimento nello scacchiere etneo, ha totalizzato **41 presenze ufficiali** (3470' minuti effettivi) impreziosite da **8 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2014-2015**, durante la quale è sceso in campo in 39 occasioni realizzando 8 reti.
 
 ---
 

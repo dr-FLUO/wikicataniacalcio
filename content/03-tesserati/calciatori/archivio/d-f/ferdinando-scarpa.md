@@ -97,9 +97,9 @@ tm_id: 499945
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Lecce (classe 1947), **Ferdinando Scarpa** ha difeso i colori del Catania nella stagione **1972-1973**. Punto di riferimento nello scacchiere etneo, ha totalizzato **23 presenze ufficiali** (1767' minuti effettivi) impreziosite da **4 reti**.
 
 ---
 

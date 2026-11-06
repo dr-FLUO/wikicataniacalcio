@@ -109,9 +109,9 @@ tm_id: 290223
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **2700 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a San Vito al Tagliamento nel 1932, **Luigi Zannier** ha militato nelle file rossazzurre per **2 stagioni** (1960–1962). Punto di riferimento nello scacchiere etneo, ha totalizzato **30 presenze ufficiali** (2700' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1961-1962**, durante la quale è sceso in campo in 20 occasioni realizzando 1 rete.
 
 ---
 

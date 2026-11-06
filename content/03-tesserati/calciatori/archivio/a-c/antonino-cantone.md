@@ -114,9 +114,9 @@ tm_id: 454406
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **109 presenze ufficiali**, disputando **8166 minuti** di gioco effettivo, siglando **3 gol** e servendo **0 assist** distribuiti su **7 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Catania (classe 1953), **Antonino Cantone** ha militato nelle file rossazzurre per **7 stagioni** (1973–1982). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (8166' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1977-1978**, durante la quale è sceso in campo in 32 occasioni realizzando 2 reti.
 
 ---
 

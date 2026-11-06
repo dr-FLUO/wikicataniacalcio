@@ -101,9 +101,9 @@ tm_id: 504720
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **2542 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1970, il centrocampista **Leonardo Vanzetto** ha militato nelle file rossazzurre per **3 stagioni** (1990–1993). Punto di riferimento nello scacchiere etneo, ha totalizzato **45 presenze ufficiali** (2542' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1991-1992**, durante la quale è sceso in campo in 20 occasioni realizzando 1 rete.
 
 ---
 

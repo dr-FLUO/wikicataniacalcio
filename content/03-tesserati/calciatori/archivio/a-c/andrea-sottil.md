@@ -131,9 +131,9 @@ tm_id: 5886
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **71 presenze ufficiali**, disputando **5752 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Venaria Reale (classe 1974), **Andrea Sottil** ha militato nelle file rossazzurre per **3 stagioni** (2005–2008). Punto di riferimento nello scacchiere etneo, ha totalizzato **71 presenze ufficiali** (5752' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 30 occasioni realizzando 1 rete.
 
 ---
 

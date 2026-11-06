@@ -103,9 +103,9 @@ tm_id: 315681
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1980 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a San Martino di Venezze nel 1925, **Celestino Celio** ha difeso i colori del Catania nella stagione **1956-1957**. Punto di riferimento nello scacchiere etneo, ha totalizzato **22 presenze ufficiali** (1980' minuti effettivi) impreziosite da **2 reti**.
 
 ---
 

@@ -112,9 +112,9 @@ tm_id: 22096
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **112 presenze ufficiali**, disputando **9184 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Civitavecchia nel 1974, il difensore **Michele Zeoli** ha militato nelle file rossazzurre per **5 stagioni** (2000–2005). Punto di riferimento nello scacchiere etneo, ha totalizzato **112 presenze ufficiali** (9184' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2001-2002**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
 
 ---
 

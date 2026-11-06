@@ -113,9 +113,9 @@ tm_id: 480770
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **131 presenze ufficiali**, disputando **11622 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Scandiano nel 1943, il centrocampista **Umberto Strucchi** ha militato nelle file rossazzurre per **5 stagioni** (1967–1972). Punto di riferimento nello scacchiere etneo, ha totalizzato **131 presenze ufficiali** (11.622' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **1969-1970**, disputata con 38 presenze complessive.
 
 ---
 

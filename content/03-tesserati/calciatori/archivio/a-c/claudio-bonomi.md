@@ -108,9 +108,9 @@ tm_id: 226059
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **19 presenze ufficiali**, disputando **1626 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Codogno (classe 1972), **Claudio Bonomi** ha difeso i colori del Catania nella stagione **2001-2002**. Punto di riferimento nello scacchiere etneo, ha totalizzato **19 presenze ufficiali** (1626' minuti effettivi) impreziosite da **1 gol**.
 
 ---
 

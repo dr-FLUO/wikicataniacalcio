@@ -125,9 +125,9 @@ tm_id: 16828
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5199 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a San Severo (FG), Italia nel 1984, il difensore **Alessandro  Potenza** ha militato nelle file rossazzurre per **5 stagioni** (2008–2013). Punto di riferimento nello scacchiere etneo, ha totalizzato **67 presenze ufficiali** (5199' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **2009-2010**, disputata con 22 presenze complessive.
 
 ---
 

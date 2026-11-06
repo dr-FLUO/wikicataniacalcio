@@ -109,9 +109,9 @@ tm_id: 22121
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **22 presenze ufficiali**, disputando **1764 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Belvedere Marittimo nel 1975, il difensore **Giovanni Paschetta** ha militato nelle file rossazzurre per **2 stagioni** (2004–2006). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **22 presenze ufficiali** (1764' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2004-2005**, disputata con 20 presenze complessive.
 
 ---
 

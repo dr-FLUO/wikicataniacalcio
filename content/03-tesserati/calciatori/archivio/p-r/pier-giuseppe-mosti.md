@@ -124,9 +124,9 @@ tm_id: 335139
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **164 presenze ufficiali**, disputando **13128 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Massa (classe 1955), **Pier Giuseppe Mosti** ha militato nelle file rossazzurre per **5 stagioni** (1980–1985). Punto di riferimento nello scacchiere etneo, ha totalizzato **164 presenze ufficiali** (13.128' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 39 occasioni realizzando 2 reti.
 
 ---
 

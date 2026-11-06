@@ -109,9 +109,9 @@ tm_id: 469301
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **52 presenze ufficiali**, disputando **4680 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Finale Emilia nel 1935, il centrocampista **Mario Castellazzi** ha militato nelle file rossazzurre per **2 stagioni** (1960–1962). Punto di riferimento nello scacchiere etneo, ha totalizzato **52 presenze ufficiali** (4680' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1960-1961**, durante la quale è sceso in campo in 28 occasioni realizzando 6 reti.
 
 ---
 

@@ -105,9 +105,9 @@ tm_id: 613858
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **44 presenze ufficiali**, disputando **3960 minuti** di gioco effettivo, siglando **11 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante nato a Roma nel 1927, **Sergio Quoiani** ha militato nelle file rossazzurre per **3 stagioni** (1952–1956). Punto di riferimento nello scacchiere etneo, ha totalizzato **44 presenze ufficiali** (3960' minuti effettivi) impreziosite da **11 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1952-1953**, durante la quale è sceso in campo in 18 occasioni realizzando 6 reti.
 
 ---
 

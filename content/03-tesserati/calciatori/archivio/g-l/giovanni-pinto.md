@@ -110,9 +110,9 @@ tm_id: 397797
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **62 presenze ufficiali**, disputando **4986 minuti** di gioco effettivo, siglando **1 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore classe 1992, **Giovanni Pinto** ha militato nelle file rossazzurre per **3 stagioni** (2019–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **62 presenze ufficiali** (4986' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2019-2020**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
 
 ---
 

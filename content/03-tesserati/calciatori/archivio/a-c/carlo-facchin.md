@@ -110,9 +110,9 @@ tm_id: 480847
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **6030 minuti** di gioco effettivo, siglando **24 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Portogruaro nel 1938, il attaccante **Carlo Facchin** ha militato nelle file rossazzurre per **2 stagioni** (1964–1966). Punto di riferimento nello scacchiere etneo, ha totalizzato **67 presenze ufficiali** (6030' minuti effettivi) impreziosite da **24 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1965-1966**, durante la quale è sceso in campo in 34 occasioni realizzando 11 reti.
 
 ---
 

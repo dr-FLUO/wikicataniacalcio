@@ -114,9 +114,9 @@ tm_id: 480772
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **81 presenze ufficiali**, disputando **6100 minuti** di gioco effettivo, siglando **4 gol** e servendo **1 assist** distribuiti su **7 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Fiorenzuola d'Arda (classe 1946), **Giovanni Gavazzi** ha militato nelle file rossazzurre per **7 stagioni** (1967–1974). Punto di riferimento nello scacchiere etneo, ha totalizzato **81 presenze ufficiali** (6100' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1969-1970**, durante la quale è sceso in campo in 26 occasioni realizzando 1 rete.
 
 ---
 

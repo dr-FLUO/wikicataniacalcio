@@ -110,9 +110,9 @@ tm_id: 278580
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **79 presenze ufficiali**, disputando **4890 minuti** di gioco effettivo, siglando **19 gol** e servendo **5 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1990, il attaccante **Manuel Sarao** ha militato nelle file rossazzurre per **3 stagioni** (2020–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **79 presenze ufficiali** (4890' minuti effettivi) impreziosite da **19 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2022-2023**, durante la quale è sceso in campo in 35 occasioni realizzando 9 reti.
 
 ---
 

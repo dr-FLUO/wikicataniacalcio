@@ -106,9 +106,9 @@ tm_id: 22287
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Cagliari (classe 1974), **Saul Santarelli** ha difeso i colori del Catania nella stagione **1997-1998**. A guardia dei pali etnei ha collezionato **25 presenze ufficiali** (2093' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali.
 
 ---
 

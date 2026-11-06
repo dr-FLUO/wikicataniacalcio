@@ -110,9 +110,9 @@ tm_id: 487104
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **73 presenze ufficiali**, disputando **6525 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **3 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Dessiè nel 1940, il centrocampista **Giancarlo Magi** ha militato nelle file rossazzurre per **3 stagioni** (1963–1966). Punto di riferimento nello scacchiere etneo, ha totalizzato **73 presenze ufficiali** (6525' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1965-1966**, durante la quale è sceso in campo in 27 occasioni realizzando 3 reti.
 
 ---
 

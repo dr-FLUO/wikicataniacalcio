@@ -112,9 +112,9 @@ tm_id: 390729
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **118 presenze ufficiali**, disputando **10575 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Firenze (classe 1938), **Remo Bicchierai** ha militato nelle file rossazzurre per **5 stagioni** (1962–1967). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **118 presenze ufficiali** (10.575' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1962-1963**, disputata con 28 presenze complessive.
 
 ---
 

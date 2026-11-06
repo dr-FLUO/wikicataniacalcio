@@ -83,9 +83,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
 
 ---
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nel ruolo di centrocampista, **Giuseppe Rapisarda** ha militato nelle file rossazzurre per **3 stagioni** (2021–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4427' minuti effettivi) impreziosite da **7 reti**.
 
 ---
 

@@ -109,9 +109,9 @@ tm_id: 35849
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **45 presenze ufficiali**, disputando **2901 minuti** di gioco effettivo, siglando **2 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato nel 1986, il difensore **Andrea Esposito** ha militato nelle file rossazzurre per **2 stagioni** (2018–2020). Punto di riferimento nello scacchiere etneo, ha totalizzato **45 presenze ufficiali** (2901' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2018-2019**, durante la quale è sceso in campo in 23 occasioni realizzando 1 rete.
 
 ---
 

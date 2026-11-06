@@ -109,9 +109,9 @@ tm_id: 483307
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **2370 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a San Damiano d'Asti nel 1946, **Giuseppe Unere** ha difeso i colori del Catania nella stagione **1967-1968**. Punto di riferimento nello scacchiere etneo, ha totalizzato **26 presenze ufficiali** (2370' minuti effettivi) impreziosite da **1 gol**.
 
 ---
 

@@ -117,9 +117,9 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **5547 minuti** di gioco effettivo, siglando **5 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Difensore nato a Torre Annunziata nel 1972, **Salvatore Monaco** ha militato nelle file rossazzurre per **4 stagioni** (2002–2025). Punto di riferimento nello scacchiere etneo, ha totalizzato **68 presenze ufficiali** (5547' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2002-2003**, durante la quale è sceso in campo in 34 occasioni realizzando 3 reti.
 
 ---
 

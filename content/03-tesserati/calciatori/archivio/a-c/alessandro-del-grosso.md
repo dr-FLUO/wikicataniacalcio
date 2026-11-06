@@ -109,9 +109,9 @@ tm_id: 88317
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **30 presenze ufficiali**, disputando **1482 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Nato a Ardea nel 1972, il difensore **Alessandro Del Grosso** ha militato nelle file rossazzurre per **2 stagioni** (2002–2004). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **30 presenze ufficiali** (1482' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2002-2003**, disputata con 23 presenze complessive.
 
 ---
 

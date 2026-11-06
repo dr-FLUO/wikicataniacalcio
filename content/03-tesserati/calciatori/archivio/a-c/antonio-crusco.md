@@ -109,9 +109,9 @@ tm_id: 337413
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **43 presenze ufficiali**, disputando **2994 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Originario di Sapri (classe 1958), **Antonio Crusco** ha militato nelle file rossazzurre per **2 stagioni** (1982–1984). Punto di riferimento nello scacchiere etneo, ha totalizzato **43 presenze ufficiali** (2994' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 39 occasioni realizzando 2 reti.
 
 ---
 

@@ -113,9 +113,9 @@ tm_id: 532721
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **191 presenze ufficiali**, disputando **17190 minuti** di gioco effettivo, siglando **9 gol** e servendo **0 assist** distribuiti su **6 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Roma nel 1924, **Nicola Fusco** ha militato nelle file rossazzurre per **6 stagioni** (1949–1955). Punto di riferimento nello scacchiere etneo, ha totalizzato **191 presenze ufficiali** (17.190' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1950-1951**, durante la quale è sceso in campo in 40 occasioni realizzando 2 reti.
 
 ---
 

@@ -109,9 +109,9 @@ tm_id: 56898
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **34 presenze ufficiali**, disputando **1209 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Attaccante classe 1990, **Salvatore Caturano** ha militato nelle file rossazzurre per **2 stagioni** (2025–2027). Punto di riferimento nello scacchiere etneo, ha totalizzato **34 presenze ufficiali** (1209' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 29 occasioni realizzando 4 reti.
 
 ---
 

@@ -103,9 +103,9 @@ tm_id: 500490
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **25 presenze ufficiali**, disputando **2165 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
-## Note e Scheda di Carriera
+## Profilo e Carriera in Rossazzurro
 
-Il calciatore ha difeso i colori rossazzurri durante la sua militanza all'ombra dell'Etna, contribuendo alle vicende sportive del sodalizio etneo nei campionati nazionali.
+Centrocampista nato a Villafranca di Verona nel 1944, **Silvio Zanon** ha difeso i colori del Catania nella stagione **1968-1969**. Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **25 presenze ufficiali** (2165' minuti effettivi) al servizio del collettivo.
 
 ---
 
