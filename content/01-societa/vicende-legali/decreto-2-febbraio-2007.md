@@ -7,15 +7,15 @@ slug: 01-societa/vicende-legali/decreto-2-febbraio-2007
 entity_type: vicenda_legale
 date_start: 2007-02-02
 date_end: 2007-05-27
-season_ref: '[[stagioni/2005-2006|Periodo Serie A 2006-2007]]'
-club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
+season_ref: '[[02-cronistoria/stagioni/2005-2006|Periodo Serie A 2006-2007]]'
+club_entity: '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
 figc_matricola: '11700'
 protagonists:
 - Filippo Raciti (Ispettore Capo Polizia di Stato, † 02/02/2007)
-- '[[societa/presidenti/antonino-pulvirenti]] |Antonino Pulvirenti (Presidente Calcio
+- '[[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti (Presidente Calcio
   Catania)]]'
-- '[[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco (AD Calcio Catania)]]'
-- '[[tesserati/allenatori/pasquale-marino|Pasquale Marino (Allenatore Catania)]]'
+- '[[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco (AD Calcio Catania)]]'
+- '[[03-tesserati/allenatori/pasquale-marino|Pasquale Marino (Allenatore Catania)]]'
 - Luca Pancalli (Commissario Straordinario FIGC)
 - Giuliano Amato (Ministro dell'Interno) e Giovanna Melandri (Ministro per le Politiche
   Giovanili e le Attività Sportive)
@@ -66,7 +66,7 @@ aliases:
 
 # I Fatti del 2 Febbraio 2007 e la Legge 41/2007
 
-I **fatti del 2 febbraio 2007**, verificatisi in occasione dell'anticipo serale della 22ª giornata di Serie A 2006-2007 [[partite/precedenti/palermo|Catania-Palermo (1-2)]] allo [[stadio/angelo-massimino|Stadio Angelo Massimino]], rappresentano uno spartiacque drammatico nella storia contemporanea della legislazione di pubblica sicurezza, del diritto sportivo e della sociologia delle curve in Italia. Nei violenti scontri scoppiati all'esterno dell'impianto di piazza Spedini perse la vita l'Ispettore Capo del X Reparto Mobile della Polizia di Stato **Filippo Raciti** (1967–2007), evento che determinò la sospensione immediata di tutti i campionati calcistici nazionali, l'emanazione d'urgenza del **Decreto-Legge 8 febbraio 2007, n. 8** (convertito nella **Legge 4 aprile 2007, n. 41**) e la **squalifica dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] fino al termine della stagione** con l'obbligo per il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] di disputare tutte le restanti gare interne in **campo neutro e a porte chiuse**.
+I **fatti del 2 febbraio 2007**, verificatisi in occasione dell'anticipo serale della 22ª giornata di Serie A [[02-cronistoria/stagioni/2006-2007|2006-2007]] [[02-cronistoria/partite-storiche/precedenti/palermo|Catania-Palermo (1-2)]] allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], rappresentano uno spartiacque drammatico nella storia contemporanea della legislazione di pubblica sicurezza, del diritto sportivo e della sociologia delle curve in Italia. Nei violenti scontri scoppiati all'esterno dell'impianto di piazza Spedini perse la vita l'Ispettore Capo del X Reparto Mobile della Polizia di Stato **Filippo Raciti** (1967–2007), evento che determinò la sospensione immediata di tutti i campionati calcistici nazionali, l'emanazione d'urgenza del **Decreto-Legge 8 febbraio 2007, n. 8** (convertito nella **Legge 4 aprile 2007, n. 41**) e la **squalifica dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] fino al termine della stagione** con l'obbligo per il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] di disputare tutte le restanti gare interne in **campo neutro e a porte chiuse**.
 
 > [!abstract] Impatto Normativo e Giurisprudenziale
 > Sul piano dell'ordinamento statale, la **Legge n. 41/2007** (*Legge Amato-Melandri*) ha riformato strutturalmente l'accesso agli impianti sportivi italiani introducendo l'obbligo dei **tornelli a tutta altezza**, dei **biglietti nominativi**, della videosorveglianza integrale, il divieto per i club di intrattenere rapporti economici con il tifo organizzato, il **DASPO preventivo, di gruppo e minorile** e i poteri interdittivi dell'**Osservatorio Nazionale sulle Manifestazioni Sportive (ONMS)**.
@@ -75,9 +75,9 @@ I **fatti del 2 febbraio 2007**, verificatisi in occasione dell'anticipo serale 
 
 ## Cronaca degli Eventi del 2 Febbraio 2007
 
-La sera di venerdì **2 febbraio 2007** (in concomitanza con l'inizio delle celebrazioni cittadine per la patrona Sant'Agata), il [[societa/2004-era-pulvirenti|Catania]] allenato da [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] — allora quarto in classifica in Serie A al termine di uno straordinario girone d'andata — affrontò il [[partite/precedenti/palermo|Palermo]] nel [[tifoseria/rivalita/palermo|Derby di Sicilia]].
+La sera di venerdì **2 febbraio 2007** (in concomitanza con l'inizio delle celebrazioni cittadine per la patrona Sant'Agata), il [[01-societa/epoche/2004-era-pulvirenti|Catania]] allenato da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] — allora quarto in classifica in Serie A al termine di uno straordinario girone d'andata — affrontò il [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo]] nel [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]].
 
-Nel corso del secondo tempo, l'ingresso ritardato dei sostenitori ospiti in Curva Sud innescò un lancio di fumogeni e lacrimogeni che costrinse l'arbitro Stefano Farina a sospendere la partita per circa 40 minuti (sull'1-1, dopo il pareggio di Fabio Caserta in risposta al vantaggio rosanero di Caracciolo, prima del contestato 1-2 finale siglato da Di Michele). All'esterno della [[tifoseria/curva-nord/index|Curva Nord]] e lungo via Cifali esplosero violenti tafferugli tra frange ultras e forze dell'ordine, durante i quali l'Ispettore Capo **Filippo Raciti** subì un grave trauma epatico che ne causò il decesso all'Ospedale Garibaldi intorno alle ore 22:30.
+Nel corso del secondo tempo, l'ingresso ritardato dei sostenitori ospiti in Curva Sud innescò un lancio di fumogeni e lacrimogeni che costrinse l'arbitro Stefano Farina a sospendere la partita per circa 40 minuti (sull'1-1, dopo il pareggio di [[03-tesserati/calciatori/archivio/d-f/fabio-caserta|Fabio Caserta]] in risposta al vantaggio rosanero di Caracciolo, prima del contestato 1-2 finale siglato da Di Michele). All'esterno della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e lungo via Cifali esplosero violenti tafferugli tra frange ultras e forze dell'ordine, durante i quali l'Ispettore Capo **Filippo Raciti** subì un grave trauma epatico che ne causò il decesso all'Ospedale Garibaldi intorno alle ore 22:30.
 
 ---
 
@@ -93,17 +93,17 @@ Nel corso del secondo tempo, l'ingresso ritardato dei sostenitori ospiti in Curv
 
 ## Sanzioni della Giustizia Sportiva e l'Esilio in Campo Neutro a Porte Chiuse
 
-Il **Giudice Sportivo della Lega Nazionale Professionisti** (Gianpaolo Tosel), con provvedimento confermato dagli organi d'appello federali ai sensi dell'art. 11 e dell'art. 14 del Codice di Giustizia Sportiva per responsabilità oggettiva della società ospitante, inflisse al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] del presidente [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] un'ammenda di **50.000 euro** e la **squalifica dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] fino al 30 giugno 2007**, con l'obbligo di disputare tutte le restanti **8 gare interne** della Serie A 2006-2007 in **campo neutro e a porte chiuse**.
+Il **Giudice Sportivo della Lega Nazionale Professionisti** (Gianpaolo Tosel), con provvedimento confermato dagli organi d'appello federali ai sensi dell'art. 11 e dell'art. 14 del Codice di Giustizia Sportiva per responsabilità oggettiva della società ospitante, inflisse al [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] del presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] un'ammenda di **50.000 euro** e la **squalifica dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] fino al 30 giugno 2007**, con l'obbligo di disputare tutte le restanti **8 gare interne** della Serie A 2006-2007 in **campo neutro e a porte chiuse**.
 
 | Data | Giornata Serie A | Incontro "Casalingo" | Sede del Campo Neutro (Porte Chiuse) | Risultato | Marcatori Rossazzurri |
 | :--- | :--- | :--- | :--- | :---: | :--- |
 | **18 febbraio 2007** | 24ª Giornata | **Catania - Fiorentina** | Stadio Romeo Neri, **Rimini** | **0-1** | — |
-| **25 febbraio 2007** | 25ª Giornata | **Catania - Inter** | Stadio Dino Manuzzi, **Cesena** | **2-5** | [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (65'), Corona (74') |
+| **25 febbraio 2007** | 25ª Giornata | **Catania - Inter** | Stadio Dino Manuzzi, **Cesena** | **2-5** | [[03-tesserati/calciatori/storici/gionatha-spinesi\|Spinesi]] (65'), Corona (74') |
 | **11 marzo 2007** | 28ª Giornata | **Catania - Siena** | Stadio Alberto Braglia, **Modena** | **1-1** | Corona (57') |
 | **18 marzo 2007** | 29ª Giornata | **Catania - Reggina** | Stadio Romeo Neri, **Rimini** | **1-4** | Rossini (90') |
 | **15 aprile 2007** | 32ª Giornata | **Catania - Roma** | Stadio Via del Mare, **Lecce** | **0-2** | — |
-| **29 aprile 2007** | 34ª Giornata | **Catania - Ascoli** | Stadio Alberto Braglia, **Modena** | **3-3** | [[tesserati/calciatori/giuseppe-mascara\|Mascara]] (23' rig.), Colucci (52'), Marino (79') |
-| **13 maggio 2007** | 36ª Giornata | **Catania - Milan** | Stadio Renato Dall'Ara, **Bologna** | **1-1** | [[tesserati/calciatori/gionatha-spinesi\|Spinesi]] (61') |
+| **29 aprile 2007** | 34ª Giornata | **Catania - Ascoli** | Stadio Alberto Braglia, **Modena** | **3-3** | [[03-tesserati/calciatori/storici/giuseppe-mascara\|Mascara]] (23' rig.), Colucci (52'), Marino (79') |
+| **13 maggio 2007** | 36ª Giornata | **Catania - Milan** | Stadio Renato Dall'Ara, **Bologna** | **1-1** | [[03-tesserati/calciatori/storici/gionatha-spinesi\|Spinesi]] (61') |
 | **27 maggio 2007** | 38ª Giornata | **Catania - ChievoVerona** | Stadio Renato Dall'Ara, **Bologna** *(Con pubblico)* | **2-0** | Rossini (66'), Minelli (80') — *Salvezza in Serie A (41 pt)* |
 
 ---

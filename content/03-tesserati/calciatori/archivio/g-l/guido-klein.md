@@ -19,7 +19,7 @@ league_appearances: 91
 total_goals: 45
 league_goals: 32
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -114,7 +114,7 @@ Attaccante moderno, versatile e letale sia da prima punta che partendo dall'este
 
 ### I Grandi Campionati con Politzer e Baldi
 
-Nella [[stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 presenze**, firmando doppiette storiche contro Spezia, Treviso e Verona. Si ripeté l'anno seguente nella [[stagioni/1951-1952|Stagione 1951-1952]], realizzando **13 reti in 36 partite** e portando il Catania al quarto posto finale a soli due punti dalla promozione in Serie A. Rimase in rossazzurro anche nel 1952-1953 (4 reti), lasciando un'impronta indelebile nella storia del club.
+Nella [[02-cronistoria/stagioni/1950-1951|Stagione 1950-1951]] Klein realizzò **15 reti in 34 presenze**, firmando doppiette storiche contro Spezia, Treviso e Verona. Si ripeté l'anno seguente nella [[02-cronistoria/stagioni/1951-1952|Stagione 1951-1952]], realizzando **13 reti in 36 partite** e portando il Catania al quarto posto finale a soli due punti dalla promozione in Serie A. Rimase in rossazzurro anche nel 1952-1953 (4 reti), lasciando un'impronta indelebile nella storia del club.
 
 ---
 

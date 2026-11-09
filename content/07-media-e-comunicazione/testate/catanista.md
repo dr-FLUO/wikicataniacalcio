@@ -58,7 +58,7 @@ La caratteristica fondante di *Catanista* risiede nella sua struttura ibrida e c
 
 Elemento distintivo della linea editoriale di *Catanista* è stata la produzione di cortometraggi d'autore a forte impatto cinematografico ed emotivo per inaugurare ciascuna stagione agonistica:
 
-* In occasione della diciassettesima stagione, lo spot manifesto incentrato sul motto ***"Catanista, l'informazione non conosce categoria"*** ha celebrato la dignità deontologica del racconto sportivo etneo anche durante i campionati dilettantistici di Serie D (2022-2023), rivendicando il valore del giornalismo locale come presidio di memoria e identità popolare.
+* In occasione della diciassettesima stagione, lo spot manifesto incentrato sul motto ***"Catanista, l'informazione non conosce categoria"*** ha celebrato la dignità deontologica del racconto sportivo etneo anche durante i campionati dilettantistici di Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]), rivendicando il valore del giornalismo locale come presidio di memoria e identità popolare.
 * Nel corso della stagione 2026/2027, la testata continua a presidiare le gare di campionato di Serie C con radiocronache dedicate e commenti del dopo-gara, affiancando alla cronaca calcistica maschile la copertura della Serie C femminile e delle competizioni internazionali di futsal.
 
 ---

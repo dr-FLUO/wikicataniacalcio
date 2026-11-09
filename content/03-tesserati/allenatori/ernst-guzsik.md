@@ -12,7 +12,7 @@ nationality: Ungheria
 catania_periods:
 - 1940-1941
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 tags:
 - allenatori
 - anni-quaranta
@@ -82,32 +82,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Ernst Guzsik</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>ND</td>
-        <th>Nazionalità</th>
-        <td>Ungheria</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1940–1941</strong> (dal 01/07/1940 al 30/06/1941)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>0</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Ernst Guzsik** (Ungheria) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1940-1941**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -130,7 +104,16 @@ Nonostante le gravi restrizioni belliche sui trasporti e sull'organico, condusse
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1940-1941\|1940-1941]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1940-1941\|1940-1941]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

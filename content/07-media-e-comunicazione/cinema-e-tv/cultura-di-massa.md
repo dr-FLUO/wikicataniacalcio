@@ -54,7 +54,7 @@ Dalla commedia d'autore alla commedia sexy e farsesca, il club etneo è stato pr
 
 ### 1. *Malizia* (1973) — Regia di Salvatore Samperi
 Nel capolavoro di Salvatore Samperi ambientato ad Acireale, con protagonisti Nino Manfredi, Laura Antonelli e Turi Ferro, il Catania è presente in una celebre scena domestica:
-* I personaggi seguono con trepidazione alla televisione la cronaca della partita **Catania-Cagliari** disputata il **17 marzo 1957** (Serie B 1956-1957), vinta dagli etnei per **2-1** con reti di Patino e Bicicli.
+* I personaggi seguono con trepidazione alla televisione la cronaca della partita **Catania-Cagliari** disputata il **17 marzo 1957** (Serie B [[02-cronistoria/stagioni/1956-1957|1956-1957]]), vinta dagli etnei per **2-1** con reti di Patino e Bicicli.
 
 ### 2. *Il bestione* (1974) — Regia di Sergio Corbucci
 Nella commedia drammatica diretta da Sergio Corbucci, con **Giancarlo Giannini** nei panni del camionista Nino Patrovita affiancato da Michel Constantin:
@@ -80,8 +80,8 @@ Con Gigi Proietti ed Enrico Brignano:
 
 Accanto alla produzione cinematografica, il mito calcistico rossazzurro ha trovato espressione sul palcoscenico teatrale e nelle grandi produzioni documentarie e radiofoniche:
 
-* **Lo spettacolo *Clamoroso al Cibali***: Interpretato e dedicato alle prodezze dell'ex capitano rossazzurro [[03-tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] (protagonista del celebre gol da centrocampo nel derby di Palermo del 2009 e delle notti di Serie A), ha riscosso enorme successo nei teatri siciliani ed è stato trasmesso integralmente sugli schermi di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], testimoniando l'integrazione tra sport, drammaturgia popolare ed emittenza televisiva.
-* **Archivi Documentari e Podcast di Memoria Orale**: Dalla serie audio-documentaria *Quelli del '46* (Radio Lab, 2014) di Gianluca Virgilio e [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]] ai cinegiornali d'epoca Luce e agli speciali di [[07-media-e-comunicazione/testate/telecolor|Telecolor]] per la promozione del 2006 e per la rinascita del 2022-2023.
+* **Lo spettacolo *Clamoroso al Cibali***: Interpretato e dedicato alle prodezze dell'ex capitano rossazzurro [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] (protagonista del celebre gol da centrocampo nel derby di Palermo del 2009 e delle notti di Serie A), ha riscosso enorme successo nei teatri siciliani ed è stato trasmesso integralmente sugli schermi di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], testimoniando l'integrazione tra sport, drammaturgia popolare ed emittenza televisiva.
+* **Archivi Documentari e Podcast di Memoria Orale**: Dalla serie audio-documentaria *Quelli del '46* (Radio Lab, 2014) di Gianluca Virgilio e [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]] ai cinegiornali d'epoca Luce e agli speciali di [[07-media-e-comunicazione/testate/telecolor|Telecolor]] per la promozione del 2006 e per la rinascita del [[02-cronistoria/stagioni/2022-2023|2022-2023]].
 * Per il catalogo esaustivo delle opere documentarie, si veda la scheda: **[[07-media-e-comunicazione/cinema-e-tv/documentari-e-serie-rossazzurre|Documentari, Serie Audiovisive e Produzioni Storiche sul Catania]]**.
 
 ---

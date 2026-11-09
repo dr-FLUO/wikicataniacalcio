@@ -84,10 +84,17 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Lido Nelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Lido Nelli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
 Nato a Lucca (1915-04-11), Lido Nelli ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Lido Nelli*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Lido_Nelli).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

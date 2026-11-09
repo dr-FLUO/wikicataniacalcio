@@ -49,6 +49,14 @@ Dopo la conferma della sentenza da parte della Corte d'Assise d'Appello di Catan
 
 ---
 
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
 ## Fonti Certificate
 
 1. **Corte Suprema di Cassazione**, *Sentenza n. 44400/2012, Sezione I Penale (Procedimento Speziale/Micale)*, Roma, 2012.

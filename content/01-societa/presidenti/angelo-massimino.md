@@ -7,7 +7,7 @@ slug: 01-societa/presidenti/angelo-massimino
 entity_type: dirigente
 date_start: 1969-07-01
 date_end: 1996-03-04
-club_entity: '[[societa/index|Calcio Catania S.p.A. (Era Massimino)]]'
+club_entity: '[[01-societa/index|Calcio Catania S.p.A. (Era Massimino)]]'
 figc_matricola: '11700'
 tags:
 - angelo-massimino
@@ -41,26 +41,39 @@ image_credits:
 aliases:
 - societa/presidenti/angelo-massimino
 ---
-![Il 'Presidentissimo' Angelo Massimino — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/presidenti-dirigenti/angelo-massimino-calcio-catania-presidente-storico-1969-1996.webp)
-*Il 'Presidentissimo' Angelo Massimino — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+
 
 
 # Angelo Massimino (1927–1996)
 
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/presidenti-dirigenti/angelo-massimino-1980.jpg" data-caption="Il Presidentissimo Angelo Massimino (1927–1996) portato in trionfo a spalla sul campo dai tifosi rossazzurri dopo la promozione del 1980 · Archivio Storico Calcio Catania">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/presidenti-dirigenti/angelo-massimino-1980.jpg" alt="Angelo Massimino portato in trionfo sul campo dai tifosi" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">Presidentissimo</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Angelo Massimino (1927–1996)</span>
+    <span class="wiki-inset-photo__meta">Il Presidentissimo portato in trionfo dai tifosi (1980)</span>
+  </div>
+</div>
+
 **Angelo Massimino** (Catania, 16 gennaio 1927 – Scillato, 4 marzo 1996), universalmente ricordato dal popolo rossazzurro come **_«Il Presidentissimo»_**, è stato l'imprenditore edile e dirigente sportivo che ha legato il proprio nome per oltre un quarto di secolo alla guida del **Calcio Catania S.p.A.** (Matricola FIGC **11700**), dal **1969** fino alla tragica scomparsa avvenuta il **4 marzo 1996** sull'autostrada A19 Palermo-Catania.
 
 > [!abstract] L'Eredità Storica e Identitaria
-> Sotto la presidenza di Angelo Massimino il Catania ha conquistato **due promozioni in Serie A** (1969-1970 con Egizio Rubino e 1982-1983 con Gianni Di Marzio negli storici [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] davanti a 40.000 etnei), due promozioni in Serie B (1974-1975 e 1979-1980) e ha difeso con successo dinanzi al TAR Sicilia e al CGA nell'estate 1993 la storica **matricola 11700** contro la delibera di radiazione della FIGC. Dal 16 giugno 2002 lo [[stadio/angelo-massimino|Stadio Angelo Massimino]] porta il suo nome.
+> Sotto la presidenza di Angelo Massimino il Catania ha conquistato **due promozioni in Serie A** ([[02-cronistoria/stagioni/1969-1970|1969-1970]] con [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e [[02-cronistoria/stagioni/1982-1983|1982-1983]] con [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] negli storici [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] davanti a 40.000 etnei), due promozioni in Serie B ([[02-cronistoria/stagioni/1974-1975|1974-1975]] e [[02-cronistoria/stagioni/1979-1980|1979-1980]]) e ha difeso con successo dinanzi al TAR Sicilia e al CGA nell'estate 1993 la storica **matricola 11700** contro la delibera di radiazione della FIGC. Dal 16 giugno 2002 lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] porta il suo nome.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## Tappe Fondamentali della Presidenza Massimino
 
 | Stagione / Data | Snodo Storico e Sportivo | Dettaglio |
 | :--- | :--- | :--- |
 | **1969–1970** | Prima promozione in Serie A da Presidente. | Conquistata il 14 giugno 1970 battendo 3-1 la Reggina a Reggio Calabria sotto la guida di Egizio Rubino. |
-| **25 giugno 1983** | Ritorno in Serie A agli spareggi dell'Olimpico di Roma. | Vittoria sul Como (1-0) e pareggio con la Cremonese (0-0) davanti all'esodo di 40.000 tifosi guidati dalla [[tifoseria/curva-sud/falange-d-assalto\|Curva Sud]]. |
-| **Estate 1993** | Vittoria al TAR Catania / CGA e salvataggio della Matricola 11700. | Annullata la revoca dell'affiliazione FIGC; ripartenza dall'Eccellenza Sicilia 1993-1994 con 9.000 spettatori di media al [[stadio/angelo-massimino\|Cibali]]. |
+| **25 giugno 1983** | Ritorno in Serie A agli spareggi dell'Olimpico di Roma. | Vittoria sul Como (1-0) e pareggio con la Cremonese (0-0) davanti all'esodo di 40.000 tifosi guidati dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto\|Curva Sud]]. |
+| **Estate 1993** | Vittoria al TAR Catania / CGA e salvataggio della Matricola 11700. | Annullata la revoca dell'affiliazione FIGC; ripartenza dall'Eccellenza Sicilia [[02-cronistoria/stagioni/1993-1994\|1993-1994]] con 9.000 spettatori di media al [[04-strutture/stadio-massimino/angelo-massimino\|Cibali]]. |
 | **4 marzo 1996** | Tragica scomparsa sull'autostrada Palermo-Catania. | Lutto cittadino a Catania; il 16 giugno 2002 lo stadio comunale gli viene ufficialmente intitolato. |
 
 ---

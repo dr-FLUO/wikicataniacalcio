@@ -20,6 +20,11 @@ sources:
 aliases:
 - tifoseria/settori/tribuna-b/vecchia-guardia
 - 06-tifoseria-e-cultura/curve/tribuna-b/vecchia-guardia
+tags:
+- tifoseria
+- tribuna-b
+- vecchia-guardia
+- gruppi-organizzati
 ---
 
 # Vecchia Guardia San Gregorio (1996–2010)
@@ -50,7 +55,7 @@ A differenza dell'estetica casual contemporanea introdotta all'inizio del nuovo 
 
 Durante le stagioni della scalata dalla Serie C1 alla Serie A (1998–2006) e nei primi campionati di massima serie al Massimino, la *Vecchia Guardia* rappresentò un punto di riferimento per i sostenitori provenienti dai centri pedemontani dell'hinterland nord-orientale etneo.
 
-Con l'introduzione delle normative su tessera del tifoso, restrizioni alle trasferte e all'esposizione degli striscioni dopo i fatti del febbraio 2007, il gruppo ridusse progressivamente la presenza organizzata fino al congedo definitivo al termine della stagione 2009-2010.
+Con l'introduzione delle normative su tessera del tifoso, restrizioni alle trasferte e all'esposizione degli striscioni dopo i fatti del febbraio 2007, il gruppo ridusse progressivamente la presenza organizzata fino al congedo definitivo al termine della stagione [[02-cronistoria/stagioni/2009-2010|2009-2010]].
 
 ---
 
@@ -61,3 +66,10 @@ Con l'introduzione delle normative su tessera del tifoso, restrizioni alle trasf
 - [[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R. (Associazione Non Riconosciuta)]]
 - [[06-tifoseria-e-cultura/settori/tribuna-b/mecha-klan|Ultras Mecha Klan Catania (MCK)]]
 - [[06-tifoseria-e-cultura/settori/index|Settori dello Stadio Angelo Massimino]]
+
+---
+
+## Fonti e Bibliografia
+
+1. **Luigi Pulvirenti**, *Cibali: cronache e voci del tifo rossazzurro*, Edizioni Boemi, Catania, 2004.
+2. **Redazione TuttoCatania**, *I gruppi storici della Tribuna B: la voce della provincia*, TuttoCataniaNews, 2012.

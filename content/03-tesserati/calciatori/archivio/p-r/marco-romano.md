@@ -89,10 +89,17 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Marco Romano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Marco Romano** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 
 Celebre centravanti comasco, micidiale finalizzatore degli anni Trenta e Quaranta. Veste la maglia dell'Associazione Fascista Calcio Catania in Serie B tra il 1940 e il 1942, totalizzando 28 gol in 45 presenze ufficiali a Piazza Verga e al Cibali.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1940-1942, totalizzando **45 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Marco Romano*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Marco_Romano_(calciatore)).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

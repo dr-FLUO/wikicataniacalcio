@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2016-2017
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/giovanni-pulvirenti.jpg
 image_credits:
 - image_path: assets/images/allenatori/giovanni-pulvirenti.jpg
@@ -133,7 +133,16 @@ Catanese verace e profondo conoscitore dei giovani talenti, traghettò la squadr
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

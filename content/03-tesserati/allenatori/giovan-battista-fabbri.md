@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1983-1984
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-ottanta
@@ -87,32 +87,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Giovan Battista Fabbri</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1926</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1983–1984</strong> (dal 15/12/1983 al 30/06/1984)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>18</td>
-        <th>Media Punti</th>
-        <td>0,33</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Giovan Battista Fabbri** (San Pietro in Casale (BO), Italia, 1926 – 2015) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1983-1984**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -135,7 +109,16 @@ Nonostante la difficile situazione di classifica, cercò sempre di proporre un c
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1983-1984\|1983-1984]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1983-1984\|1983-1984]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

@@ -57,9 +57,9 @@ Questo archivio documentario censisce le principali opere audiovisive, radiofoni
 
 Il patrimonio filmico più antico conservato negli archivi dell'**Istituto Luce Cinecittà** testimonia l'impatto sociale della scalata ai vertici del calcio italiano negli anni Cinquanta e Sessanta, documentando il calore popolare dello stadio Cibali e l'evoluzione della città etnea:
 
-* ***La prima volta in Serie A (1954)***: I cinegiornali *La Settimana INCOM* documentano con riprese originali a bordo campo il trionfo della squadra guidata da Piero Andreoli nel campionato di Serie B 1953-1954, culminato nella festa promozione del giugno 1954 che riversò centinaia di migliaia di tifosi tra Via Etnea, Piazza Duomo e Piazza Verga.
+* ***La prima volta in Serie A (1954)***: I cinegiornali *La Settimana INCOM* documentano con riprese originali a bordo campo il trionfo della squadra guidata da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] nel campionato di Serie B [[02-cronistoria/stagioni/1953-1954|1953-1954]], culminato nella festa promozione del giugno 1954 che riversò centinaia di migliaia di tifosi tra Via Etnea, Piazza Duomo e Piazza Verga.
 * ***Il ciclo d'oro degli anni Sessanta***: Le cineprese Luce immortalarono le celebri sfide contro la Juventus, il Milan e l'Inter di Helenio Herrera, compresa la storica partita del 4 giugno 1961 passata alla storia per la celebre esclamazione «[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali!]]», documentando la modernità tattica del Catania di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e le parate di [[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]].
-* ***La festa promozione del 1970***: I notiziari sportivi registrarono la festa del Cibali per il ritorno in Serie A con Egizio Rubino in panchina e l'invasione di campo festosa della tifoseria etnea.
+* ***La festa promozione del 1970***: I notiziari sportivi registrarono la festa del Cibali per il ritorno in Serie A con [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] in panchina e l'invasione di campo festosa della tifoseria etnea.
 
 ---
 
@@ -78,13 +78,13 @@ Nel **2014**, l'emittente indipendente etnea **Radio Lab** ha prodotto una delle
 Le due storiche emittenti regionali con sede a Catania, [[07-media-e-comunicazione/testate/telecolor|Telecolor]] e [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], hanno prodotto nel corso dei decenni rassegne retrospettive di straordinario valore storiografico:
 
 ### 1. *Il film della Serie A: 28 Maggio 2006*
-In occasione del ritorno in massima serie dopo 23 anni di attesa con la vittoria sull'AlbinoLeffe (2-1), le redazioni di Telecolor (nell'ambito di [[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]) e Antenna Sicilia (con [[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]) hanno confezionato speciali televisivi a tiratura monumentale, con interviste esclusive ai protagonisti — da Pasquale Marino a Roberto De Zerbi e Gionatha Spinesi — e la cronaca minuziosa della notte di festa che paralizzò la città.
+In occasione del ritorno in massima serie dopo 23 anni di attesa con la vittoria sull'AlbinoLeffe (2-1), le redazioni di Telecolor (nell'ambito di [[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]) e Antenna Sicilia (con [[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]) hanno confezionato speciali televisivi a tiratura monumentale, con interviste esclusive ai protagonisti — da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] a [[03-tesserati/calciatori/archivio/p-r/roberto-de-zerbi|Roberto De Zerbi]] e [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] — e la cronaca minuziosa della notte di festa che paralizzò la città.
 
 ### 2. *Angelo Massimino: Una vita per il Catania (Monografie d'archivio)*
 Nel decennale (2006) e nel ventennale (2016) della tragica scomparsa del *Presidentissimo* [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], sono stati prodotti speciali retrospettivi che hanno riproposto i filmati d'epoca delle sue battaglie legali nell'estate del 1993, i trionfi degli spareggi di Roma del 1983 e il suo rapporto paternalistico e schietto con la piazza.
 
 ### 3. *Clamoroso al Cibali* (Spettacolo teatrale e messa in onda TV)
-Adattamento per il teatro e il piccolo schermo ideato per ripercorrere le emozioni dell'epopea del Catania in Serie A negli anni Duemila, con la partecipazione diretta di [[03-tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]], autore del leggendario gol al volo da centrocampo nel derby Palermo-Catania 0-4 del 1º marzo 2009. L'opera è stata integralmente registrata e trasmessa in prima serata su Antenna Sicilia.
+Adattamento per il teatro e il piccolo schermo ideato per ripercorrere le emozioni dell'epopea del Catania in Serie A negli anni Duemila, con la partecipazione diretta di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], autore del leggendario gol al volo da centrocampo nel derby Palermo-Catania 0-4 del 1º marzo 2009. L'opera è stata integralmente registrata e trasmessa in prima serata su Antenna Sicilia.
 
 ---
 
@@ -92,7 +92,7 @@ Adattamento per il teatro e il piccolo schermo ideato per ripercorrere le emozio
 
 Il fallimento del Calcio Catania matricola 11700 (9 aprile 2022) e la successiva rinascita con il Catania SSD sotto la guida del gruppo australiano facente capo a Rosario Pelligra e Vincenzo Grella hanno generato una nuova fioritura di produzioni audiovisive ad alta definizione:
 
-* ***Melior de Cinere Surgo: La stagione del riscatto (2022-2023)***: Instant doc e serie a puntate diffuse sul web e sulle emittenti televisive locali che hanno raccontato passo dopo passo la marcia trionfale della squadra di Giovanni Ferraro nel Girone I di Serie D, culminata nella promozione anticipata di Caltanissetta (19 marzo 2023) e nella vittoria della Coppa Italia Serie C nel 2024.
+* ***Melior de Cinere Surgo: La stagione del riscatto ([[02-cronistoria/stagioni/2022-2023|2022-2023]])***: Instant doc e serie a puntate diffuse sul web e sulle emittenti televisive locali che hanno raccontato passo dopo passo la marcia trionfale della squadra di [[03-tesserati/allenatori/giovanni-ferraro|Giovanni Ferraro]] nel Girone I di Serie D, culminata nella promozione anticipata di Caltanissetta (19 marzo 2023) e nella vittoria della Coppa Italia Serie C nel 2024.
 * ***Progetti Social e Archivi Streaming***: L'avvento delle nuove piattaforme d'informazione come [[07-media-e-comunicazione/testate/unica-sport|Unica Sport]] e [[07-media-e-comunicazione/testate/cityzone|CiTy Zone]] ha introdotto format di visual radio, retroscena dagli spogliatoi e mini-documentari digitali fruibili on demand, garantendo continuità alla memoria visiva del club.
 
 ---

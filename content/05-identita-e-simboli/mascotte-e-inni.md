@@ -62,16 +62,16 @@ A differenza di altre società calcistiche, il Catania non ha mai vincolato la p
 
 ### 1. Il Ciclo di Giuseppe Castiglia (2012–2015)
 Il comico, attore e cabarettista catanese **Giuseppe Castiglia** ha legato indissolubilmente la propria voce alle domeniche del Massimino in Serie A:
-- **Catania siamo noi:** Registrato e adottato come **inno ufficiale dal 2012 al 2015**, accompagnava l'ingresso delle squadre sul terreno di gioco negli anni d'oro dell'8º posto con Rolando Maran, cantato a squarciagola da oltre ventimila spettatori.
+- **Catania siamo noi:** Registrato e adottato come **inno ufficiale dal 2012 al 2015**, accompagnava l'ingresso delle squadre sul terreno di gioco negli anni d'oro dell'8º posto con [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], cantato a squarciagola da oltre ventimila spettatori.
 - **Alè Catania:** Altro brano firmato da Castiglia, caratterizzato da un ritmo incalzante e solare, amatissimo nelle feste di promozione e nei cortei per le vie del centro.
 
 ### 2. La Colonna Sonora dei *Pirati dei Caraibi* (2015–2016)
-Nella travagliata stagione di Lega Pro 2015-2016, in un momento di profonda ripartenza societaria, il club scelse come brano motivazionale di ingresso sul terreno di gioco l'epica traccia orchestrale *"He's a Pirate"* composta da Hans Zimmer e Klaus Badelt per la celebre saga cinematografica della Disney **Pirati dei Caraibi**, conferendo una carica energica prima del fischio d'inizio.
+Nella travagliata stagione di Lega Pro [[02-cronistoria/stagioni/2015-2016|2015-2016]], in un momento di profonda ripartenza societaria, il club scelse come brano motivazionale di ingresso sul terreno di gioco l'epica traccia orchestrale *"He's a Pirate"* composta da Hans Zimmer e Klaus Badelt per la celebre saga cinematografica della Disney **Pirati dei Caraibi**, conferendo una carica energica prima del fischio d'inizio.
 
 ### 3. *Amore Rossazzurro* e *Catania un cuore* (2019–2021)
 Negli anni precedenti alla rifondazione:
-- Nella stagione 2019-2020 il club adottò il brano **Amore Rossazzurro**, ballata sentimentale incentrata sulla fedeltà viscerale della tifoseria verso la maglia.
-- Per il campionato 2020-2021 l'inno di accompagnamento fu **Catania un cuore**, dedicato alla resilienza della piazza etnea.
+- Nella stagione [[02-cronistoria/stagioni/2019-2020|2019-2020]] il club adottò il brano **Amore Rossazzurro**, ballata sentimentale incentrata sulla fedeltà viscerale della tifoseria verso la maglia.
+- Per il campionato [[02-cronistoria/stagioni/2020-2021|2020-2021]] l'inno di accompagnamento fu **Catania un cuore**, dedicato alla resilienza della piazza etnea.
 
 ---
 

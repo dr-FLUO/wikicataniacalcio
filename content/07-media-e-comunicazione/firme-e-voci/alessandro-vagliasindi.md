@@ -37,7 +37,6 @@ aliases:
 # Alessandro Vagliasindi: Inchieste Giuridiche, La Repubblica e l'Autonomia Critica a Corner
 
 Avvocato del Foro di Catania e giornalista, **Alessandro Vagliasindi** rappresenta una delle figure intellettualmente più autorevoli e rigorose del dibattito mediatico sportivo legato al Calcio Catania.
-
 Corrispondente per la Sicilia orientale dell'edizione regionale de ***La Repubblica*** e volto fisso delle trasmissioni di punta di [[07-media-e-comunicazione/testate/telecolor|Telecolor]] (*Corner* e *Anteprima Corner*) e [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania]], Vagliasindi ha introdotto un canone di indagine analitica che fonde la disamina tattica del campo con una competenza specialistica di prim'ordine in materia di **diritto sportivo, contabilità aziendale e procedure concorsuali**.
 
 ---
@@ -45,7 +44,6 @@ Corrispondente per la Sicilia orientale dell'edizione regionale de ***La Repubbl
 ## 1. Le Grandi Inchieste Giudiziarie e Finanziarie
 
 Nei momenti più drammatici della storia societaria recente, le analisi di Vagliasindi sono state fonte primaria di chiarezza informativa per l'intera comunità:
-
 * **Lo Scandalo "I Treni del Gol" (2015)**: Ha seguito e decostruito gli atti dell'inchiesta della Procura della Repubblica di Catania e della giustizia federale sportiva che portarono alla retrocessione in Lega Pro del club.
 * **Il Default e la Radiazione della Matricola 11700 (2021–2022)**: Attraverso relazioni analitiche dettagliate sulle colonne de *La Repubblica* e in televisione, ha documentato passo dopo passo le fallimentari trattative di salvataggio (da SIGI ai bandi d'asta deserti), spiegando con rigore tecnico ai tifosi le conseguenze della revoca dell'esercizio provvisorio disposta dal Tribunale fallimentare di Catania il 9 aprile 2022.
 
@@ -54,7 +52,6 @@ Nei momenti più drammatici della storia societaria recente, le analisi di Vagli
 ## 2. Voce Critica a "Corner" e Riferimento per il Calciomercato
 
 Parallelamente alle inchieste societarie, Vagliasindi si è affermato come una delle voci più seguite sui social network (in particolare su Twitter/X) e nei talk show:
-
 * **Pungolo Indipendente sul Catania FC (2022–2026)**: Anche sotto la nuova proprietà del gruppo Pelligra, non ha esitato a sollevare dubbi analitici su budget, sostenibilità dei debiti pregressi, questioni relative al recupero di Torre del Grifo e scelte di programmazione tecnica nel campionato di Serie C 2026/2027.
 * **Calciomercato e Tattica**: I suoi interventi a *Corner* e *Pianeta Rassegna* sono apprezzati per la tempestività delle indiscrezioni sulle trattative di mercato e la lucida disamina delle formazioni in campo.
 
@@ -64,7 +61,7 @@ Parallelamente alle inchieste societarie, Vagliasindi si è affermato come una d
 
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor e il Talk Show Corner]]
 * [[07-media-e-comunicazione/testate/pianeta-catania|Pianeta Catania e il Dibattito Quotidiano]]
-* [[01-societa/vicende-legali/fallimento-2022-catania-spa|Il Fallimento del Catania S.p.A. nel 2022]]
+* [[01-societa/vicende-legali/fallimento-2021-art52-noif|Il Fallimento del Catania S.p.A. nel 2022]]
 * [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale e il Quarantennale di Diretta Stadio]]
 
 ---

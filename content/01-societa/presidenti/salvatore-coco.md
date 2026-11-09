@@ -5,7 +5,7 @@ slug: "01-societa/presidenti/salvatore-coco"
 entity_type: "dirigente"
 date_start: 1973-07-01
 date_end: 1974-06-30
-club_entity: "[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]"
+club_entity: "[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]"
 figc_matricola: "11700"
 tags:
   - salvatore-coco
@@ -31,18 +31,18 @@ aliases:
 ---
 # Salvatore Coco (Presidente Calcio Catania S.p.A.)
 
-**Salvatore Coco** (Catania, 1925 – Catania, 2008) è stato un imprenditore etneo e dirigente sportivo, **presidente del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione di Serie B 1973-1974**.
+**Salvatore Coco** (Catania, 1925 – Catania, 2008) è stato un imprenditore etneo e dirigente sportivo, **presidente del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione di Serie B [[02-cronistoria/stagioni/1973-1974|1973-1974]]**.
 
 > [!abstract] La Presidenza nella Cadetteria degli Anni Settanta
-> Assunta la massima carica societaria nell'estate del 1973 nel contesto della complessa dialettica azionaria attorno alla figura del patron Angelo Massimino, Salvatore Coco resse le sorti del club per l'intera annata cadetta 1973-1974, guidata dal veterano della panchina [[tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e poi da Luigi Valsecchi.
+> Assunta la massima carica societaria nell'estate del 1973 nel contesto della complessa dialettica azionaria attorno alla figura del patron Angelo Massimino, Salvatore Coco resse le sorti del club per l'intera annata cadetta 1973-1974, guidata dal veterano della panchina [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e poi da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]].
 
 ---
 
 ## 1. La Stagione 1973-1974 in Serie B
 
 Nel corso del torneo cadetto:
-* La squadra lottò strenuamente per la permanenza in categoria, trascinata dai gol di Claudio Ciceri e dalle parate del portiere Zelico Petrovic.
-* Nonostante il massimo impegno societario, la stagione si chiuse con un amaro 20º posto che costrinse il Catania alla retrocessione in Serie C, preludio al pronto riscatto della stagione successiva (1974-1975) con l'immediato ritorno in Serie B.
+* La squadra lottò strenuamente per la permanenza in categoria, trascinata dai gol di [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]] e dalle parate del portiere [[03-tesserati/calciatori/archivio/s-z/zelico-petrovic|Zelico Petrovic]].
+* Nonostante il massimo impegno societario, la stagione si chiuse con un amaro 20º posto che costrinse il Catania alla retrocessione in Serie C, preludio al pronto riscatto della stagione successiva ([[02-cronistoria/stagioni/1974-1975|1974-1975]]) con l'immediato ritorno in Serie B.
 
 ---
 

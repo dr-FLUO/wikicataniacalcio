@@ -65,6 +65,14 @@ A causa dei ripetuti incidenti occorsi sia lungo le arterie autostradali sia all
 
 ---
 
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
 ## Fonti Certificate
 
 1. **FoggiaToday / Cronaca**, *Tensione e cariche della polizia durante Foggia-Catania allo Zaccheria*, foggiatoday.it, 2017.

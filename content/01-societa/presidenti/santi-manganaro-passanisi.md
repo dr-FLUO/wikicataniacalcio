@@ -5,7 +5,7 @@ slug: "01-societa/presidenti/santi-manganaro-passanisi"
 entity_type: "dirigente"
 date_start: 1946-09-24
 date_end: 1948-06-30
-club_entity: "[[societa/1946-club-calcio-catania|Club Calcio Catania]]"
+club_entity: "[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]"
 figc_matricola: "11700"
 tags:
   - santi-manganaro-passanisi
@@ -32,7 +32,7 @@ aliases:
 ---
 # Santi Manganaro Passanisi (Presidente Fondatore Club Calcio Catania)
 
-**Santi Manganaro Passanisi** (Catania, 1895 – Catania, 1970) è stato un dirigente sportivo e imprenditore catanese, **primo presidente storico e tra i padri fondatori del [[societa/1946-club-calcio-catania|Club Calcio Catania]]**, costituito il **24 settembre 1946** con l'attribuzione della matricola federale **11700**.
+**Santi Manganaro Passanisi** (Catania, 1895 – Catania, 1970) è stato un dirigente sportivo e imprenditore catanese, **primo presidente storico e tra i padri fondatori del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]**, costituito il **24 settembre 1946** con l'attribuzione della matricola federale **11700**.
 
 > [!abstract] La Rinascita Rossazzurra del 1946
 > All'indomani delle devastazioni belliche, Manganaro Passanisi fu l'anima trainante della riunificazione tra la Catanese Elefante e la Virtus Catania. Davanti al notaio, il 24 settembre 1946 venne redatto l'atto costitutivo del *Club Calcio Catania*, con Manganaro eletto presidente e Giuseppe Barreca vicepresidente. La nuova compagine riadottò la maglia rossazzurra e lo stemma con il Liotru, ponendo le basi per l'epopea del secondo Novecento.
@@ -41,8 +41,8 @@ aliases:
 
 ## 1. Il Biennio di Ricostruzione (1946–1948)
 
-* **Stagione 1946-1947 (Serie C, Lega Sud):** Con Lorenzo Bergia e poi Cesare Goffi in panchina, il neonato sodalizio concluse al **6º posto** nel girone S, riaccendendo l'entusiasmo dei tifosi al Cibali.
-* **Stagione 1947-1948 (Serie C, Lega Sud):** Affidata all'olimpionico [[tesserati/allenatori/achille-piccini|Achille Piccini]] e alla bandiera Nicolò Nicolosi, la squadra dominò il Girone T chiudendo al **1º posto** (47 punti in 30 gare).
+* **Stagione [[02-cronistoria/stagioni/1946-1947|1946-1947]] (Serie C, Lega Sud):** Con [[03-tesserati/allenatori/lorenzo-bergia|Lorenzo Bergia]] e poi [[03-tesserati/allenatori/cesare-goffi|Cesare Goffi]] in panchina, il neonato sodalizio concluse al **6º posto** nel girone S, riaccendendo l'entusiasmo dei tifosi al Cibali.
+* **Stagione [[02-cronistoria/stagioni/1947-1948|1947-1948]] (Serie C, Lega Sud):** Affidata all'olimpionico [[03-tesserati/allenatori/achille-piccini|Achille Piccini]] e alla bandiera [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]], la squadra dominò il Girone T chiudendo al **1º posto** (47 punti in 30 gare).
 * La riforma federale dei campionati bloccò provvisoriamente le promozioni, ma la presidenza Manganaro aveva ormai ricreato un club solido, pronto al salto in Serie B avvenuto la stagione successiva.
 
 ---

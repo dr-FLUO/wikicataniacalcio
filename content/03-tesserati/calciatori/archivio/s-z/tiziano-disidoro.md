@@ -17,7 +17,7 @@ league_appearances: 55
 total_goals: 22
 league_goals: 21
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -103,7 +103,7 @@ tm_id: 700890
 
 **Tiziano D'Isidoro** (Pescara, 16 luglio 1969) è un ex calciatore italiano, nel ruolo di centravanti. Approdato a Catania nell'autunno del **1995**, fu il grande punto di riferimento offensivo della compagine rossazzurra per un intenso biennio in Serie C2.
 
-Centravanti astuto, rapace d'area e tiratore infallibile, D'Isidoro visse la sua stagione migliore nel campionato [[stagioni/1996-1997|1996-1997]], laureandosi capocannoniere con **13 reti** e portando la squadra fino ai playoff promozione con Angelo Busetta.
+Centravanti astuto, rapace d'area e tiratore infallibile, D'Isidoro visse la sua stagione migliore nel campionato [[02-cronistoria/stagioni/1996-1997|1996-1997]], laureandosi capocannoniere con **13 reti** e portando la squadra fino ai playoff promozione con Angelo Busetta.
 
 > [!abstract] Il Cecchino della Serie C2
 > - **Capocannoniere 1996-1997:** 13 reti in 31 partite di Serie C2 (girone C).

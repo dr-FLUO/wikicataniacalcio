@@ -20,7 +20,7 @@ league_appearances: 65
 total_goals: 18
 league_goals: 18
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -93,9 +93,9 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Armando Perrone** (Taranto, 12 agosto 1921 – Taranto, 20 maggio 1999) è stato un calciatore italiano, nel ruolo di ala e attaccante. Nel settembre **1946**, alla rinascita del calcio a Catania sotto la nuova denominazione sociale di [[societa/1946-club-calcio-catania|Club Calcio Catania]], fu uno dei primi elementi ingaggiati dalla dirigenza guidata da Santi Passanisi Manganaro.
+**Armando Perrone** (Taranto, 12 agosto 1921 – Taranto, 20 maggio 1999) è stato un calciatore italiano, nel ruolo di ala e attaccante. Nel settembre **1946**, alla rinascita del calcio a Catania sotto la nuova denominazione sociale di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], fu uno dei primi elementi ingaggiati dalla dirigenza guidata da Santi Passanisi Manganaro.
 
-Perrone fu il punto fermo dell'attacco etneo nella pionieristica [[stagioni/1946-1947|Stagione 1946-1947]], disputando 19 incontri e realizzando 5 reti, confermandosi poi per altre due stagioni fino alla promozione in Serie B del 1949.
+Perrone fu il punto fermo dell'attacco etneo nella pionieristica [[02-cronistoria/stagioni/1946-1947|Stagione 1946-1947]], disputando 19 incontri e realizzando 5 reti, confermandosi poi per altre due stagioni fino alla promozione in Serie B del 1949.
 
 > [!abstract] La Bandiera della Rifondazione Post-Bellica
 > - **Titolare del Nuovo Club:** Presente fin dalla prima gara ufficiale del Club Calcio Catania (matricola FIGC 11700) nell'autunno 1946.

@@ -19,7 +19,7 @@ league_appearances: 36
 total_goals: 10
 league_goals: 9
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -101,7 +101,7 @@ tm_id: 475862
 
 **Alessandro Vitali** (Roma, 24 marzo 1945 – Roma, 26 agosto 1977) è stato un calciatore italiano, nel ruolo di attaccante e mezzala offensiva. Arrivato al Catania nell'estate del **1967**, disputò una straordinaria stagione cadetta risultando il capocannoniere indiscusso della squadra con **9 reti in 36 incontri**.
 
-Schierato dall'allenatore Luigi Valsecchi a supporto del centravanti Baisi, Vitali fu il terminale più prolifico della [[stagioni/1967-1968|Stagione 1967-1968]], realizzando reti decisive per la tranquilla permanenza in Serie B prima del suo trasferimento nella massima categoria.
+Schierato dall'allenatore Luigi Valsecchi a supporto del centravanti Baisi, Vitali fu il terminale più prolifico della [[02-cronistoria/stagioni/1967-1968|Stagione 1967-1968]], realizzando reti decisive per la tranquilla permanenza in Serie B prima del suo trasferimento nella massima categoria.
 
 > [!abstract] La Mezzala dai Gol Pesanti
 > - **Capocannoniere 1967-1968:** 9 reti in 36 partite di Serie B.

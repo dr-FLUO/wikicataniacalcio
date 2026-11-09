@@ -89,7 +89,7 @@ tm_id: 266641
   </table>
 </div>
 
-**Dante Mircoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Dante Mircoli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
@@ -106,3 +106,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1975-1976, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **1 presenze ufficiali**, disputando **75 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Dante Mircoli*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Dante_Mircoli).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

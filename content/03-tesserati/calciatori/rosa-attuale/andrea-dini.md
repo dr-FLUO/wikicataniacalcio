@@ -5,10 +5,10 @@ description: Biografia, presenze e statistiche ufficiali di Andrea Dini, portier
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-dini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Portiere
 current_squad: true
-total_appearances: 69
+total_appearances: 71
 seasons_count: 3
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 6210
+minutes_played: 6390
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 355444
 ---
@@ -94,7 +94,7 @@ tm_id: 355444
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>69</td>
+        <td>71</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 355444
   </table>
 </div>
 
-**Andrea Dini** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Portiere**.
+**Andrea Dini** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Portiere**.
 
 ---
 
@@ -112,11 +112,11 @@ tm_id: 355444
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Portiere | 17 | 0 | 0 | 4 | 0 | 1530' |
 | **2025-2026** | Portiere | 43 | 0 | 0 | 3 | 0 | 3870' |
-| **2026-2027** | Portiere | 9 | 0 | 0 | 0 | 0 | 810' |
-| **TOTALE** | — | **69** | **0** | **0** | **7** | **0** | **6210'** |
+| **2026-2027** | Portiere | 11 | 0 | 0 | 0 | 0 | 990' |
+| **TOTALE** | — | **71** | **0** | **0** | **7** | **0** | **6390'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **69 presenze ufficiali**, disputando **6210 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **71 presenze ufficiali**, disputando **6390 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -127,10 +127,10 @@ Originario di Cattolica (RN), Italia (classe 1996), **Andrea Dini** ha militato 
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

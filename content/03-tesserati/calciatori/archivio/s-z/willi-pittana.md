@@ -96,7 +96,7 @@ tm_id: 224589
   </table>
 </div>
 
-**Willi Pittana** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Willi Pittana** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -113,3 +113,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **26 presenze ufficiali**, disputando **1985 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Willi Pittana*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Willi_Pittana).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.
+3. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Willy Pittana*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 366, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Pittana-366).

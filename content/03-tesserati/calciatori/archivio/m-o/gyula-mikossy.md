@@ -86,10 +86,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Gyula Mikossy** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gyula Mikossy** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
 Centrocampista della scuola mitteleuropea danubiana. Arrivato in Italia negli anni Trenta, orchestra la manovra dell'Associazione Fascista Calcio Catania in cadetteria con magistrale visione geometrica e sapienza tattica.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1936-1938, totalizzando **48 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Gyula Mikossy*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Gyula_Mikossy).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

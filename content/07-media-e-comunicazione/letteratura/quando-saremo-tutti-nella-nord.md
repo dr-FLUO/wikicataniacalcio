@@ -45,7 +45,7 @@ Scritto a quattro mani dal giornalista **Luigi Pulvirenti** e dallo storico lead
 
 ## 1. Dalla Falange d'Assalto alla Curva Nord
 
-L'opera ricostruisce analiticamente oltre trentacinque anni di vita gradinata dello [[01-societa/strutture/stadio-angelo-massimino|Stadio Cibali]]:
+L'opera ricostruisce analiticamente oltre trentacinque anni di vita gradinata dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]:
 
 * **La Nascita del Tifo Organizzato (1979)**: Il testo documenta la genesi della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto 1979]] sotto la guida carismatica di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] (*"lo Zio Ciccio"*), analizzando la transizione dal tifo spontaneo rionale alle prime coreografie strutturate con tamburi, fumogeni e striscioni da trasferta.
 * **L'Epoca della Curva Sud**: Il volume narra l'epopea della Sud tra la fine degli anni Settanta e gli anni Ottanta, con i pionieri dell'*Onda d'Urto* e dei *Teddy Boys*, fino alla storica trasferta dei 40.000 a Roma nel giugno 1983.

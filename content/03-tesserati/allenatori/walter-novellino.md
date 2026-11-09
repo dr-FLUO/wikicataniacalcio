@@ -14,7 +14,7 @@ image: assets/images/allenatori/walter-novellino.jpg
 catania_periods:
 - 2018-2019
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - allenatori
 - anni-duemiladieci
@@ -127,7 +127,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Walter Alfredo Novellino, detto "Monzon", Campione d'Italia con il Milan della Stella e specialista assoluto in promozioni (quattro salite in Serie A con Venezia, Napoli, Piacenza e Sampdoria), allenò il Catania dalla 29ª alla 38ª giornata della Serie C 2018-2019.
+[[03-tesserati/calciatori/archivio/s-z/walter-alfredo-novellino|Walter Alfredo Novellino]], detto "Monzon", Campione d'Italia con il Milan della Stella e specialista assoluto in promozioni (quattro salite in Serie A con Venezia, Napoli, Piacenza e Sampdoria), allenò il Catania dalla 29ª alla 38ª giornata della Serie C 2018-2019.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -137,7 +137,7 @@ Portò la sua sconfinata esperienza e carica emotiva sulla panchina del Massimin
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2018-2019\|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2018-2019\|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

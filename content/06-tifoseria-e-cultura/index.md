@@ -46,7 +46,7 @@ aliases:
 
 # Tifoseria e Cultura Rossazzurra
 
-L'identità calcistica di Catania affonda le radici in un tessuto urbano in cui l'appartenenza ai colori rossazzurri trascende la mera dimensione sportiva per farsi marcatore antropologico, sociale e civile. Dalla fondazione della Società Sportiva Catania nel 1929 e dalla rinascita della matricola 11700 nel 1946 fino ai giorni nostri, lo [[stadio/angelo-massimino|Stadio Angelo Massimino (Cibali)]] è stato il teatro in cui generazioni di tifosi hanno espresso un attaccamento viscerale e indomito.
+L'identità calcistica di Catania affonda le radici in un tessuto urbano in cui l'appartenenza ai colori rossazzurri trascende la mera dimensione sportiva per farsi marcatore antropologico, sociale e civile. Dalla fondazione della Società Sportiva Catania nel 1929 e dalla rinascita della matricola 11700 nel 1946 fino ai giorni nostri, lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] è stato il teatro in cui generazioni di tifosi hanno espresso un attaccamento viscerale e indomito.
 
 Questa sezione raccoglie la documentazione organica, archivistica e sociologica del tifo catanese: l'evoluzione delle curve, i gruppi storici, i leader carismatici, i grandi eventi giudiziari, la geopolitica delle alleanze e la mitologia degli spalti.
 
@@ -73,7 +73,7 @@ Lo stadio Massimino si articola su tre poli indipendenti:
 
 ---
 
-## 2. Biografie dei Leader e Protagonisti
+## 2. Biografie dei Leader e Protagonisti ([[06-tifoseria-e-cultura/biografie/index|Indice Biografie Curva]])
 
 * **[[06-tifoseria-e-cultura/biografie/ciccio-famoso|Francesco "Ciccio" Famoso]]**: *«Ciccio Falange»*, fondatore nel 1979 e capo carismatico indiscusso per quasi quarant'anni.
 * **[[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]]**: Guida di *A Sostegno di una Fede* dal 1993 al 2007 e autore di *«Quando saremo tutti nella Nord»*.
@@ -83,7 +83,7 @@ Lo stadio Massimino si articola su tre poli indipendenti:
 
 ---
 
-## 3. Eventi Storici, Ordine Pubblico e Giustizia
+## 3. Eventi Storici, Ordine Pubblico e Giustizia ([[06-tifoseria-e-cultura/eventi-e-giustizia/index|Indice Eventi & Giustizia]])
 
 * **[[06-tifoseria-e-cultura/eventi-e-giustizia/tragedia-custode-cibali-1983|La Tragedia del Custode del Cibali (12 Giugno 1983)]]**: La sparatoria di Angelo Grasso durante Catania-Perugia, 1 morto e 32 feriti.
 * **[[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|L'Esodo di Roma (25 Giugno 1983)]]**: I quarantamila cuori rossazzurri allo Stadio Olimpico per gli spareggi di Serie A.
@@ -95,14 +95,15 @@ Lo stadio Massimino si articola su tre poli indipendenti:
 * **[[06-tifoseria-e-cultura/eventi-e-giustizia/difesa-della-matricola-11700-anni-2020-2022|La Difesa della Matricola 11700 (2020–2022)]]**: La mobilitazione civile dal fallimento del club alla ripartenza popolare con Pelligra in Serie D.
 * **[[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-piazza-montessori-2026|Piazza Montessori (19 Settembre 2026)]]**: Lo scontro fratricida tra Curva Nord e Curva Sud.
 * **[[06-tifoseria-e-cultura/eventi-e-giustizia/mitologia-e-trofei-ultras|Mitologia, Cimeli e Folklore]]**: La sottrazione dello striscione *Fighters Juve*, il drappo *South Lander*, il frigorifero volante al Celeste e il murale *Cinquanta volti per il Cibali*.
+* **[[06-tifoseria-e-cultura/eventi-e-giustizia/aggressione-lo-monaco-stretto-2019|L'Aggressione a Pietro Lo Monaco sullo Stretto (2019)]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/boicottaggio-atletico-1993|Il Boicottaggio dell'Atletico Catania (1993)]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|I Treni del Gol e i Cortei Tifosi (2015)]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017|L'Ultimo Saluto a Ciccio Famoso al Massimino (2017)]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-autostrada-a2-casertana-2025|Gli Scontri sull'Autostrada A2 post Casertana (2025)]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/daspo-ordine-pubblico-legislazione|DASPO, Ordine Pubblico e Legislazione Speciale]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/analisi-storico-giudiziaria-ordine-pubblico|Analisi Storico-Giudiziaria dell'Ordine Pubblico]]**, **[[06-tifoseria-e-cultura/eventi-e-giustizia/striscione-fighters-e-storie-curva|Lo Striscione Fighters e le Storie di Curva]]**.
 
 ---
 
-## 4. Diplomazia degli Spalti: Gemellaggi, Amicizie e Rivalità
+## 4. Diplomazia degli Spalti: Gemellaggi, Amicizie e Rivalità ([[06-tifoseria-e-cultura/relazioni/index|Indice Relazioni Ultras]])
 
 * **[[06-tifoseria-e-cultura/relazioni/gemellaggi/index|Gemellaggi Ufficiali]]**: [[06-tifoseria-e-cultura/relazioni/gemellaggi/genoa|Genoa]], [[06-tifoseria-e-cultura/relazioni/gemellaggi/crotone|Crotone]], [[06-tifoseria-e-cultura/relazioni/gemellaggi/triestina|Triestina]], [[06-tifoseria-e-cultura/relazioni/gemellaggi/benevento|Benevento]], [[06-tifoseria-e-cultura/relazioni/gemellaggi/trapani|Trapani]].
 * **[[06-tifoseria-e-cultura/relazioni/amicizie/index|Patti di Amicizia]]**: [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]], [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]], [[06-tifoseria-e-cultura/relazioni/amicizie/inter|Inter]], [[06-tifoseria-e-cultura/relazioni/amicizie/parma|Parma]], [[06-tifoseria-e-cultura/relazioni/amicizie/bayern-monaco|Bayern Monaco]].
-* **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], [[06-tifoseria-e-cultura/relazioni/rivalita/messina|Messina]], [[06-tifoseria-e-cultura/relazioni/rivalita/siracusa|Siracusa]], [[06-tifoseria-e-cultura/relazioni/rivalita/reggina|Reggina]], [[06-tifoseria-e-cultura/relazioni/rivalita/salernitana|Salernitana]], [[06-tifoseria-e-cultura/relazioni/rivalita/taranto|Taranto]], [[06-tifoseria-e-cultura/relazioni/rivalita/lecce|Lecce]], [[06-tifoseria-e-cultura/relazioni/rivalita/avellino|Avellino]], [[06-tifoseria-e-cultura/relazioni/rivalita/foggia|Foggia]], [[06-tifoseria-e-cultura/relazioni/rivalita/juve-stabia|Juve Stabia]], [[06-tifoseria-e-cultura/relazioni/rivalita/roma|Roma]], [[06-tifoseria-e-cultura/relazioni/rivalita/catanzaro|Catanzaro]], [[06-tifoseria-e-cultura/relazioni/rivalita/perugia|Perugia]].
+* **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]] ([[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Storia del Derby di Sicilia]]), [[06-tifoseria-e-cultura/relazioni/rivalita/messina|Messina]], [[06-tifoseria-e-cultura/relazioni/rivalita/siracusa|Siracusa]], [[06-tifoseria-e-cultura/relazioni/rivalita/reggina|Reggina]], [[06-tifoseria-e-cultura/relazioni/rivalita/salernitana|Salernitana]], [[06-tifoseria-e-cultura/relazioni/rivalita/taranto|Taranto]], [[06-tifoseria-e-cultura/relazioni/rivalita/lecce|Lecce]], [[06-tifoseria-e-cultura/relazioni/rivalita/avellino|Avellino]], [[06-tifoseria-e-cultura/relazioni/rivalita/foggia|Foggia]], [[06-tifoseria-e-cultura/relazioni/rivalita/juve-stabia|Juve Stabia]], [[06-tifoseria-e-cultura/relazioni/rivalita/roma|Roma]], [[06-tifoseria-e-cultura/relazioni/rivalita/catanzaro|Catanzaro]], [[06-tifoseria-e-cultura/relazioni/rivalita/perugia|Perugia]], [[06-tifoseria-e-cultura/relazioni/rivalita/atletico-catania|Atletico Catania]].
 
 ---
 

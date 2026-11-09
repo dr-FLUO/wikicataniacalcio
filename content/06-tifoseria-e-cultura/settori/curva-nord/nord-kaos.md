@@ -7,7 +7,7 @@ entity_type: gruppo_ultras
 foundation_year: 2001
 origin_district: Valverde (Hinterland Etneo)
 stadium_sector: Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:
@@ -56,6 +56,14 @@ Guidato fin dalla fondazione da figure storiche del tifo pedemontano come Daniel
 Nella **stagione 2026**, il Nord Kaos si conferma come presidio insostituibile nella parte alta della Curva Nord:
 - Assicura un punto di ritrovo e di coordinamento per centinaia di sostenitori provenienti dai centri pedemontani (Valverde, San Gregorio, Aci Bonaccorsi, San Giovanni La Punta).
 - Partecipa attivamente alla quadratura del tifo vocale coordinato dal direttivo centrale della Nord, distinguendosi per pezze e drappi realizzati secondo lo stile classico della tradizione etnea.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

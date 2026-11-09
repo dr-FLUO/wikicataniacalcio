@@ -17,7 +17,7 @@ league_appearances: 30
 total_goals: 10
 league_goals: 10
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -95,7 +95,7 @@ image: assets/images/players/290_antonino-naccari.jpg
   </table>
 </div>
 
-**Maurizio Naccari** (San Pietro Vernotico, 21 gennaio 1970) è un ex calciatore italiano, nel ruolo di attaccante. Acquistato nell'estate del **1995** per il ritorno del Calcio Catania in Serie C2, fu il capocannoniere della squadra nella [[stagioni/1995-1996|Stagione 1995-1996]].
+**Maurizio Naccari** (San Pietro Vernotico, 21 gennaio 1970) è un ex calciatore italiano, nel ruolo di attaccante. Acquistato nell'estate del **1995** per il ritorno del Calcio Catania in Serie C2, fu il capocannoniere della squadra nella [[02-cronistoria/stagioni/1995-1996|Stagione 1995-1996]].
 
 Guidato in panchina prima da Aldo Cerantola e poi da Angelo Busetta, Naccari mise a segno **10 reti** in campionato, risultando decisivo per l'ottavo posto finale e per la definitiva stabilizzazione del club tra i professionisti.
 

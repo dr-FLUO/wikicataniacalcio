@@ -54,3 +54,17 @@ Questa enciclopedia è un'opera aperta e indipendente: ogni segnalazione verific
 
 > [!tip] Come trattiamo le segnalazioni
 > Ogni correzione viene confrontata con le fonti primarie dell'archivio (almanacchi, comunicati ufficiali FIGC/Lega e atti giudiziari). Non appena riscontrata la quadratura del dato, la voce viene aggiornata e pubblicata.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
+## Fonti e Bibliografia
+
+1. **Redazione & Fact-Checking Wiki Calcio Catania**, *Protocollo di Revisione e Fact-Checking*, Wiki Calcio Catania, 2026.

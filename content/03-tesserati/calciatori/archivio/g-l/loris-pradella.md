@@ -17,7 +17,7 @@ league_appearances: 27
 total_goals: 9
 league_goals: 5
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -89,7 +89,7 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 **Loris Pradella** (Sacile, 3 marzo 1960) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **1988** per costituire il fulcro dell'attacco guidato da Bruno Pace e Carmelo Russo, disputò una stagione di grande generosità e concretezza offensiva.
 
-Nella [[stagioni/1988-1989|Stagione 1988-1989]] realizzò complessivamente **9 reti ufficiali** in 33 gare (5 in campionato e 4 in Coppa Italia), risultando il miglior marcatore complessivo dell'annata etnea.
+Nella [[02-cronistoria/stagioni/1988-1989|Stagione 1988-1989]] realizzò complessivamente **9 reti ufficiali** in 33 gare (5 in campionato e 4 in Coppa Italia), risultando il miglior marcatore complessivo dell'annata etnea.
 
 > [!abstract] La Punta Centrale della Ripartenza
 > - **9 Reti Stagionali:** 5 in campionato di Serie C1 e 4 nella prestigiosa Coppa Italia 1988-1989.

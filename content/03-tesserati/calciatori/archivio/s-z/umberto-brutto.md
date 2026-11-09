@@ -17,7 +17,7 @@ league_appearances: 81
 total_goals: 12
 league_goals: 14
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - centrocampisti
@@ -91,7 +91,7 @@ tm_id: 339544
   </table>
 </div>
 
-**Umberto Brutto** (Catanzaro, 28 luglio 1970) è un ex calciatore italiano, nel ruolo di ala destra e centrocampista offensivo. Giunto a Catania nel **1997**, divenne il capitano, il leader carismatico e il beniamino incontrastato del pubblico del Cibali nella trionfale [[stagioni/1998-1999|Stagione 1998-1999]], conclusa con la vittoria del girone C di Serie C2 e la promozione in Serie C1.
+**Umberto Brutto** (Catanzaro, 28 luglio 1970) è un ex calciatore italiano, nel ruolo di ala destra e centrocampista offensivo. Giunto a Catania nel **1997**, divenne il capitano, il leader carismatico e il beniamino incontrastato del pubblico del Cibali nella trionfale [[02-cronistoria/stagioni/1998-1999|Stagione 1998-1999]], conclusa con la vittoria del girone C di Serie C2 e la promozione in Serie C1.
 
 Dotato di generosità encomiabile, eccellente tiro dalla distanza e tempismo perfetto negli inserimenti senza palla, Brutto fu il simbolo dell'undici di Piero Cucchi, totalizzando in rossazzurro **88 presenze e 15 reti**.
 

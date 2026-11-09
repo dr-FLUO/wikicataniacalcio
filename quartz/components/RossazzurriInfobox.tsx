@@ -43,6 +43,46 @@ const ENTITY_LABELS: Record<string, string> = {
   ultras_biography: "Biografia Curva",
   legal_compliance: "Conformità Normativa UE",
   feedback_portal: "Redazione & Fact-Checking",
+  section_index: "Indice di Sezione",
+  dossier_stagionale: "Dossier Stagionale",
+  dossier_storico: "Dossier Storico",
+  dossier_societario: "Dossier Societario",
+  dossier_statistico: "Dossier Statistico",
+  dossier_struttura: "Dossier Impianto Sportivo",
+  dossier_impianto: "Dossier Impianto Sportivo",
+  dossier_impianto_storico: "Impianto Storico",
+  dossier_patrimoniale: "Patrimonio & Impianti",
+  dossier_editoriale: "Dossier Editoriale",
+  dossier_culturale: "Cultura & Società",
+  dossier_simboli: "Identità & Simboli",
+  dossier_identita: "Identità & Simboli",
+  araldica_societaria: "Araldica & Scudetti",
+  identita_visiva: "Identità Visiva",
+  inno_e_musica_ufficiale: "Inni & Musica Ufficiale",
+  sponsorizzazione: "Sponsor Ufficiali",
+  biografia_giornalista: "Giornalismo & Voci",
+  giornalista: "Giornalismo & Voci",
+  testata_giornalistica: "Testata Giornalistica",
+  emittente_radiotelevisiva: "Emittente Radio-TV",
+  programma_televisivo: "Programma Televisivo",
+  trasmissione_sportiva: "Trasmissione Sportiva",
+  opera_editoriale: "Letteratura & Almanacchi",
+  opera_letteraria: "Letteratura & Almanacchi",
+  opera_letteraria_storiografica: "Storiografia & Libri",
+  opera_cinematografica: "Cinema & Documentari",
+  filmografia_e_media: "Cinema & Documentari",
+  cultura_popolare: "Cultura Popolare",
+  gruppo_organizzato: "Gruppo Organizzato",
+  settore_stadio: "Settore Stadio",
+  biografia_ultras: "Biografia Curva",
+  evento_giudiziario: "Cronaca & Giustizia",
+  evento_storico_tifoseria: "Evento Storico Tifoseria",
+  gemellaggio_tifoseria: "Gemellaggio Storico",
+  amicizia_tifoseria: "Amicizia Storica",
+  rivalita_storica: "Rivalità & Derby",
+  statistica: "Dossier Statistico",
+  trofeo: "Albo d'Oro & Trofei",
+  settore_parallelo: "Settori Paralleli",
 }
 
 export default (() => {
@@ -70,13 +110,13 @@ export default (() => {
     // Campi biografici, stagionali, societari, giudiziari e ultras
     addRow("Nome Completo", fm.full_name)
     addRow("Ruolo", fm.role)
-    addRow("Militanza Catania", fm.catania_period ?? fm.period ?? fm.years_active)
-    if (fm.catania_appearances !== undefined) {
+    addRow("Militanza Catania", fm.catania_period ?? fm.catania_periods ?? fm.period ?? fm.years_active)
+    const apps = fm.catania_appearances ?? fm.total_appearances ?? fm.league_appearances
+    const goals = fm.catania_goals ?? fm.total_goals ?? fm.league_goals
+    if (apps !== undefined) {
       addRow(
         "Presenze Catania",
-        fm.catania_goals !== undefined
-          ? `${fm.catania_appearances} gare (${fm.catania_goals} reti)`
-          : `${fm.catania_appearances} gare`,
+        goals !== undefined ? `${apps} gare (${goals} reti)` : `${apps} gare`,
       )
     }
     addRow("Stagione", fm.season_label ?? fm.season ?? fm.season_ref)

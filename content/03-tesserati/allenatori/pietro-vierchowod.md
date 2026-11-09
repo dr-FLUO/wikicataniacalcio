@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 2001-2002
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image_credits:
 - image_path: assets/images/allenatori/pietro-vierchowod.jpg
   alt_text: Ritratto ufficiale di Pietro Vierchowod in maglia rossazzurra
@@ -103,32 +103,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Pietro Vierchowod</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1959</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2001–2002</strong> (dal 19/12/2001 al 22/04/2002)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>16</td>
-        <th>Media Punti</th>
-        <td>1,81</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Pietro Vierchowod** (Calcinate (BG), Italia, 1959) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -151,7 +125,16 @@ Con la sua immensa caratura e disciplina mantenne i rossazzurri in piena corsa p
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

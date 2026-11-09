@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2003-2004
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image: assets/images/allenatori/gabriele-matricciani.jpg
 image_credits:
 - image_path: assets/images/allenatori/gabriele-matricciani.jpg
@@ -96,17 +96,17 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Gabriele Matricciani guidò il Catania in Serie B nella titanica stagione a 24 squadre 2003-2004 (46 giornate), affiancando in panchina Stefano Colantuono.
+Gabriele Matricciani guidò il Catania in Serie B nella titanica stagione a 24 squadre 2003-2004 (46 giornate), affiancando in panchina [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse gli etnei a un eccellente 9º posto finale con 67 punti, valorizzando giocatori come Giuseppe Mascara, Luis Oliveira e Gennaro Delvecchio.
+Condusse gli etnei a un eccellente 9º posto finale con 67 punti, valorizzando giocatori come [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], Luis Oliveira e [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2003-2004\|2003-2004]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2003-2004\|2003-2004]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

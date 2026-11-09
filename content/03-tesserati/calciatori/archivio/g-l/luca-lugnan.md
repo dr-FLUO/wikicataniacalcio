@@ -17,7 +17,7 @@ league_appearances: 28
 total_goals: 10
 league_goals: 5
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -91,7 +91,7 @@ tm_id: 433150
   </table>
 </div>
 
-**Luca Lugnan** (Monfalcone, 24 marzo 1969) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di attaccante. Ingaggiato nell'estate del **1997** dalla dirigenza presieduta da Grazia Codiglione Massimino, disputò la [[stagioni/1997-1998|Stagione 1997-1998]] in Serie C2.
+**Luca Lugnan** (Monfalcone, 24 marzo 1969) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di attaccante. Ingaggiato nell'estate del **1997** dalla dirigenza presieduta da Grazia Codiglione Massimino, disputò la [[02-cronistoria/stagioni/1997-1998|Stagione 1997-1998]] in Serie C2.
 
 In un campionato difficile e avaro di soddisfazioni offensive, Lugnan fu il miglior marcatore della squadra con **5 reti in 28 partite**, garantendo con la sua esperienza e il suo movimento i punti necessari per la salvezza prima della rivoluzione tecnica della stagione successiva.
 

@@ -55,9 +55,9 @@ Formatosi nella vivace palestra del giornalismo locale etneo tra la fine degli a
 
 L'apporto di Nicita è stato fondamentale nel documentare sulle pagine della *Gazzetta dello Sport* l'incredibile parabola del Catania negli otto campionati consecutivi di Serie A:
 
-* **Il Catania di Marino e la Promozione del 2006**: Ha descritto con reportage appassionati l'esodo di 40.000 tifosi a Bologna e la cavalcata della compagine guidata da Pasquale Marino, evidenziando la qualità del gioco offensivo rossazzurro.
-* **Le Notti Magiche del Massimino**: Attraverso le sue corrispondenze, il pubblico sportivo nazionale ha imparato a conoscere il "fortino del Cibali/Massimino", teatro di memorabili vittorie contro Juventus, Inter, Milan e Roma, nonché le prodezze balistiche di Giuseppe Mascara e il talento cristallino di campioni come il "Papu" Gómez, Mariano Izco e Gonzalo Bergessio.
-* **L'Incontro con i Grandi Tecnici**: Ha intervistato e approfondito i metodi di lavoro dei tecnici passati dalla panchina etnea, da Walter Zenga a Siniša Mihajlović, da Diego Simeone a Vincenzo Montella e Rolando Maran.
+* **Il Catania di Marino e la Promozione del 2006**: Ha descritto con reportage appassionati l'esodo di 40.000 tifosi a Bologna e la cavalcata della compagine guidata da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]], evidenziando la qualità del gioco offensivo rossazzurro.
+* **Le Notti Magiche del Massimino**: Attraverso le sue corrispondenze, il pubblico sportivo nazionale ha imparato a conoscere il "fortino del Cibali/Massimino", teatro di memorabili vittorie contro Juventus, Inter, Milan e Roma, nonché le prodezze balistiche di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e il talento cristallino di campioni come il "Papu" Gómez, [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]] e [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]].
+* **L'Incontro con i Grandi Tecnici**: Ha intervistato e approfondito i metodi di lavoro dei tecnici passati dalla panchina etnea, da [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] a [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], da Diego Simeone a [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] e [[03-tesserati/allenatori/rolando-maran|Rolando Maran]].
 
 ---
 
@@ -65,7 +65,7 @@ L'apporto di Nicita è stato fondamentale nel documentare sulle pagine della *Ga
 
 Accanto alla cronaca di campo, Nicita si è distinto per la puntualità nel trattare i risvolti economici e societari:
 
-* Ha analizzato l'avanguardia del centro sportivo di Torre del Grifo Village come modello infrastrutturale, per poi documentare con rigore doloroso le traversie giudiziarie del 2015 e il fallimento del 2021-2022.
+* Ha analizzato l'avanguardia del centro sportivo di Torre del Grifo Village come modello infrastrutturale, per poi documentare con rigore doloroso le traversie giudiziarie del 2015 e il fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]].
 * Autore del volume saggistico ***Pelle di leopardo: storie e leggende di sport e vita*** (Bradipolibri, 2012) e opinionista frequente per emittenti radiofoniche e televisive nazionali (Rai Sport, Radio 24, Sky Sport), Nicita continua a rappresentare una voce critica e autorevole sulla rinascita e l'evoluzione del Catania FC.
 
 ---

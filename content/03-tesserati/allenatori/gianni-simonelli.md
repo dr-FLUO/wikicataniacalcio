@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1999-2000
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-novanta
@@ -82,32 +82,6 @@ aliases:
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Gianni Simonelli</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1952</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1999–2000</strong> (dal 01/07/1999 al 30/06/2000)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,50</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Gianni Simonelli** (Saviano (NA), Italia, 1952) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1999-2000**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -130,7 +104,16 @@ La sua squadra esprimeva un calcio tatticamente ineccepibile e spettacolare, con
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1999-2000\|1999-2000]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1999-2000\|1999-2000]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

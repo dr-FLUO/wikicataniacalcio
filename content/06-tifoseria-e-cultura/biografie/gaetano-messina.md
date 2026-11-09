@@ -6,7 +6,7 @@ entity_type: "biografia_ultras"
 foundation_year: 1999
 origin_district: "Quartiere San Leone e Corso Indipendenza (Catania)"
 stadium_sector: "Curva Nord (1999–2025) -> Curva Sud (dal 2026)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-11-03
 tags:

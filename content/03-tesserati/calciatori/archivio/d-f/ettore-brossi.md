@@ -19,7 +19,7 @@ league_appearances: 55
 total_goals: 1
 league_goals: 25
 club_entities:
-- '[[societa/1929-ss-catania|Associazione Fascista Calcio Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Associazione Fascista Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -114,7 +114,7 @@ Nel campionato di Serie B 1936-1937 realizzò **15 reti in 29 partite**, risulta
 
 ### La Leadership Offensiva nella Stagione 1937-1938
 
-Con la partenza di Nicolosi al Napoli, nella [[stagioni/1937-1938|Stagione 1937-1938]] Brossi fu il punto di riferimento offensivo dell'AFC Catania in Serie C, mettendo a referto 10 reti in campionato e guidando l'attacco rossazzurro anche nelle prime storiche apparizioni nel nuovo Stadio Cibali inaugurato nel novembre 1937. Concluse il suo biennio rossazzurro con l'eccezionale media di quasi un gol ogni due partite (25 reti in 58 gare).
+Con la partenza di Nicolosi al Napoli, nella [[02-cronistoria/stagioni/1937-1938|Stagione 1937-1938]] Brossi fu il punto di riferimento offensivo dell'AFC Catania in Serie C, mettendo a referto 10 reti in campionato e guidando l'attacco rossazzurro anche nelle prime storiche apparizioni nel nuovo Stadio Cibali inaugurato nel novembre 1937. Concluse il suo biennio rossazzurro con l'eccezionale media di quasi un gol ogni due partite (25 reti in 58 gare).
 
 ---
 

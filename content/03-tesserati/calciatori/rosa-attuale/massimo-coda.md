@@ -5,10 +5,10 @@ description: Biografia, presenze e statistiche ufficiali di Massimo Coda, attacc
 slug: 03-tesserati/calciatori/rosa-attuale/massimo-coda
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Attaccante
 current_squad: true
-total_appearances: 9
+total_appearances: 11
 seasons_count: 1
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 4
 total_assists: 1
-minutes_played: 376
+minutes_played: 506
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 33763
 ---
@@ -94,7 +94,7 @@ tm_id: 33763
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>9</td>
+        <td>11</td>
         <th>Goal / Assist</th>
         <td>4 / 1</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 33763
   </table>
 </div>
 
-**Massimo Coda** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
+**Massimo Coda** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
@@ -110,21 +110,21 @@ tm_id: 33763
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Punta centrale | 9 | 4 | 1 | 1 | 0 | 376' |
-| **TOTALE** | — | **9** | **4** | **1** | **1** | **0** | **376'** |
+| **2026-2027** | Punta centrale | 11 | 4 | 1 | 1 | 0 | 506' |
+| **TOTALE** | — | **11** | **4** | **1** | **1** | **0** | **506'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **376 minuti** di gioco effettivo, siglando **4 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **506 minuti** di gioco effettivo, siglando **4 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

@@ -19,7 +19,7 @@ total_goals: 12
 league_goals: 10
 serie_a_goals: 3
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - difensori
@@ -110,7 +110,7 @@ tm_id: 135383
 
 **Pedrinho**, all'anagrafe **Pedro Luís Vicençote** (Santo André, 22 ottobre 1957), è un ex calciatore brasiliano, nel ruolo di terzino sinistro. Giunto a Catania nell'estate del **1983** dal Vasco da Gama per rinforzare il Catania neopromosso in Serie A di Gianni Di Marzio, è stato uno dei più celebri calciatori internazionali ad aver vestito la maglia rossazzurra.
 
-Terzino fluidificante dotato di una tecnica sopraffina e di un sinistro potentissimo sui calci piazzati, segnò 3 reti in Serie A (tra cui una magnifica punizione a San Siro contro il Milan) e divenne il capocannoniere del Catania nella [[stagioni/1984-1985|Stagione 1984-1985]] in Serie B con **7 reti**.
+Terzino fluidificante dotato di una tecnica sopraffina e di un sinistro potentissimo sui calci piazzati, segnò 3 reti in Serie A (tra cui una magnifica punizione a San Siro contro il Milan) e divenne il capocannoniere del Catania nella [[02-cronistoria/stagioni/1984-1985|Stagione 1984-1985]] in Serie B con **7 reti**.
 
 > [!abstract] Il Fuoriclasse Brasiliano e Cecchino su Palla Inattiva
 > - **Mondiale Spagna 1982:** Terzino della Nazionale Brasiliana di Telê Santana, Zico e Sócrates.

@@ -21,7 +21,7 @@ total_goals: 13
 league_goals: 13
 serie_a_goals: 7
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/calciatori/lucas-castro.jpg
   alt_text: Ritratto ufficiale di Lucas Castro in maglia rossazzurra
@@ -120,11 +120,11 @@ tm_id: 105892
   </table>
 </div>
 
-**Lucas Nahuel Castro**, noto con il soprannome di ***«El Pata»*** (La Plata, 9 aprile 1989), è un calciatore argentino, nel ruolo di mezzala, centrocampista offensivo ed esterno d'attacco. Acquistato dal Racing Club di Avellaneda nell'estate del **2012**, ha militato nel [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] per tre stagioni (dal 2012 al 2015), totalizzando **94 presenze ufficiali e 13 reti** e affermandosi come uno dei giocatori più tecnici e amati della colonia argentina etnea.
+**Lucas Nahuel Castro**, noto con il soprannome di ***«El Pata»*** (La Plata, 9 aprile 1989), è un calciatore argentino, nel ruolo di mezzala, centrocampista offensivo ed esterno d'attacco. Acquistato dal Racing Club di Avellaneda nell'estate del **2012**, ha militato nel [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] per tre stagioni (dal 2012 al 2015), totalizzando **94 presenze ufficiali e 13 reti** e affermandosi come uno dei giocatori più tecnici e amati della colonia argentina etnea.
 
 > [!abstract] Protagonista della Stagione Record dei 56 Punti
-> - **L'Anno d'Oro [[stagioni/2012-2013|2012-2013]]:** Mezzala d'inserimento nel 4-3-3 di [[tesserati/allenatori/rolando-maran|Rolando Maran]], autore di **4 reti in Serie A** nel campionato chiuso all'**8º posto storico con 56 punti**.
-> - **Gol Decisivi:** Rete decisiva nel 2-1 sulla Fiorentina allo [[stadio/angelo-massimino|Stadio Massimino]], doppietta nel derby contro il Palermo e gol vittoria in trasferta a Pescara.
+> - **L'Anno d'Oro [[02-cronistoria/stagioni/2012-2013|2012-2013]]:** Mezzala d'inserimento nel 4-3-3 di [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], autore di **4 reti in Serie A** nel campionato chiuso all'**8º posto storico con 56 punti**.
+> - **Gol Decisivi:** Rete decisiva nel 2-1 sulla Fiorentina allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Massimino]], doppietta nel derby contro il Palermo e gol vittoria in trasferta a Pescara.
 > - **Fedeltà anche in Serie B:** Nella stagione 2014-2015 rimase a Catania disputando 36 partite e segnando 6 reti nel torneo cadetto prima del trasferimento al ChievoVerona.
 
 ---

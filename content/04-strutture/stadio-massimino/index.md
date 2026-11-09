@@ -32,9 +32,24 @@ aliases:
 
 # Stadio Angelo Massimino (Stadio Cibali) e Centro Tecnico
 
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/strutture-e-stadi/stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp" data-caption="Stadio Angelo Massimino (ex Cibali) · Veduta interna dal rettangolo verde verso la Tribuna Coperta e la Curva Nord sovrastata dal maxischermo · Archivio Impianti Sportivi">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/strutture-e-stadi/stadio-angelo-massimino-cibali-calcio-catania-tribuna-panoramica.webp" alt="Veduta panoramica dello Stadio Cibali Angelo Massimino" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge">Stadio Cibali (1937)</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Lo Stadio Angelo Massimino</span>
+    <span class="wiki-inset-photo__meta">La storica Tribuna Coperta e la Curva Nord viste dal terreno di gioco</span>
+  </div>
+</div>
+
+
 Lo **Stadio Angelo Massimino**, originariamente noto come **Stadio Cibali**, è il tempio sportivo del calcio catanese dal **28 novembre 1937**.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## Approfondimenti Monografici
 
@@ -42,8 +57,8 @@ Lo **Stadio Angelo Massimino**, originariamente noto come **Stadio Cibali**, è 
 | :--- | :--- | :--- |
 | **[[04-strutture/stadio-massimino/angelo-massimino\|Monografia Stadio Angelo Massimino]]** | Dalla costruzione su progetto dell'arch. Raffaele Leone alle Universiadi del 1997 e al restyling del 2022–2024. | [[04-strutture/stadio-massimino/angelo-massimino\|Scheda Stadio Cibali]] |
 | **[[04-strutture/stadio-massimino/cinquanta-volti-cibali\|I Cinquanta Volti del Cibali]]** | I murales celebrativi delle 50 leggende del club dipinti sulle mura esterne dello stadio. | [[04-strutture/stadio-massimino/cinquanta-volti-cibali\|Murales e Leggende]] |
-| **[[04-strutture/stadio-massimino/torre-del-grifo\|Torre del Grifo Village]]** | Il centro sportivo polifunzionale di Mascalucia inaugurato nel 2011, fiore all'occhiello dell'impiantistica federale. | [[04-strutture/stadio-massimino/torre-del-grifo\|Scheda Torre del Grifo]] |
-| **[[04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026\|Acquisizione Torre del Grifo 2025–2026]]** | Le vicende d'asta e il piano di rilancio immobiliare della proprietà Pelligra. | [[04-strutture/stadio-massimino/acquisizione-torre-del-grifo-2025-2026\|Dossier Asta Torre del Grifo]] |
+| **[[04-strutture/centri-sportivi/torre-del-grifo\|Torre del Grifo Village]]** | Il centro sportivo polifunzionale di Mascalucia inaugurato nel 2011, fiore all'occhiello dell'impiantistica federale. | [[04-strutture/centri-sportivi/torre-del-grifo\|Scheda Torre del Grifo]] |
+| **[[04-strutture/centri-sportivi/torre-del-grifo\|Acquisizione Torre del Grifo 2025–2026]]** | Le vicende d'asta e il piano di rilancio immobiliare della proprietà Pelligra. | [[04-strutture/centri-sportivi/torre-del-grifo\|Dossier Asta Torre del Grifo]] |
 
 ---
 

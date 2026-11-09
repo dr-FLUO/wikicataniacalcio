@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1951-1953
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/fioravante-baldi.jpg
 image_credits:
 - image_path: assets/images/allenatori/fioravante-baldi.jpg
@@ -107,13 +107,13 @@ Fioravante Baldi, tre volte Campione d'Italia con il leggendario Bologna «che t
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1952-1953, in coppia con il D.T. Giulio Cappelli, totalizzò 41 punti al terzo posto a una sola lunghezza dal Legnano promosso, gettando le fondamenta definitive per il trionfo dell'anno successivo con Andreoli.
+Nel 1952-1953, in coppia con il D.T. [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]], totalizzò 41 punti al terzo posto a una sola lunghezza dal Legnano promosso, gettando le fondamenta definitive per il trionfo dell'anno successivo con Andreoli.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1951-1952\|1951-1952]], [[stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1951-1952\|1951-1952]], [[02-cronistoria/stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

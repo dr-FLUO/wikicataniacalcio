@@ -19,7 +19,7 @@ league_appearances: 56
 total_goals: 32
 league_goals: 16
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -106,7 +106,7 @@ citizenship: Regno d'Italia
 
 **Ermo Buzzin** (Ronchi dei Legionari, 14 agosto 1934 – Ronchi dei Legionari, 22 maggio 2018) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato nell'estate del **1956**, fu per due stagioni consecutive il miglior realizzatore del Club Calcio Catania nel campionato di Serie B.
 
-Attaccante agile e opportunista, dotato di eccellente tempismo in area di rigore, Buzzin realizzò 10 reti nella [[stagioni/1956-1957|Stagione 1956-1957]] condividendo lo scettro dei bomber con Uzzecchini e conducendo gli etnei al quarto posto finale a un soffio dalla Serie A.
+Attaccante agile e opportunista, dotato di eccellente tempismo in area di rigore, Buzzin realizzò 10 reti nella [[02-cronistoria/stagioni/1956-1957|Stagione 1956-1957]] condividendo lo scettro dei bomber con Uzzecchini e conducendo gli etnei al quarto posto finale a un soffio dalla Serie A.
 
 > [!abstract] Il Centravanti Bisiaco dei Due Tornei Cadetti
 > - **Capocannoniere 1956-1957:** 10 reti in 29 gare di Serie B, guidando il Catania al 4º posto.
@@ -119,7 +119,7 @@ Attaccante agile e opportunista, dotato di eccellente tempismo in area di rigore
 
 ### La Leadership Offensiva tra il 1956 e il 1958
 
-Nella successiva stagione [[stagioni/1957-1958|1957-1958]] Buzzin si confermò capocannoniere del Catania affiancato al prestigioso capitano Riccardo Carapellese, totalizzando altre 6 reti in 27 presenze e siglando marcature decisive nei derby del Sud.
+Nella successiva stagione [[02-cronistoria/stagioni/1957-1958|1957-1958]] Buzzin si confermò capocannoniere del Catania affiancato al prestigioso capitano Riccardo Carapellese, totalizzando altre 6 reti in 27 presenze e siglando marcature decisive nei derby del Sud.
 
 ---
 

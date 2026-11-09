@@ -47,8 +47,8 @@ A partire dal **1995 e ininterrottamente fino al 2026**, Patanè ha raccontato p
 
 Dopo un primo periodo a cavallo tra gli anni Ottanta e l'inizio dei Novanta in cui curava le telecronache del Giarre in Serie C1 mentre Niky Pandolfini seguiva il Catania per Telecolor, Patanè assunse la titolarità del commento rossazzurro nel **1995**:
 
-* Ha raccontato dal vivo **tutte le storiche promozioni del club dal 1995 al 2023**: la risalita dal C.N.D. nel 1995 con Busetta, il trionfo in C1 del 1999 con Cucchi, la promozione in B del 2002 a Taranto, il ritorno in Serie A del 28 maggio 2006 contro l'AlbinoLeffe e la cavalcata nei dilettanti del 2022-2023.
-* Nelle sue telecronache è stato affiancato nel commento tecnico da figure illustri del calcio siciliano come mister Angelo Busetta e Carlo Breve.
+* Ha raccontato dal vivo **tutte le storiche promozioni del club dal 1995 al 2023**: la risalita dal C.N.D. nel 1995 con Busetta, il trionfo in C1 del 1999 con Cucchi, la promozione in B del 2002 a Taranto, il ritorno in Serie A del 28 maggio 2006 contro l'AlbinoLeffe e la cavalcata nei dilettanti del [[02-cronistoria/stagioni/2022-2023|2022-2023]].
+* Nelle sue telecronache è stato affiancato nel commento tecnico da figure illustri del calcio siciliano come mister [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]] e Carlo Breve.
 
 ---
 
@@ -56,7 +56,7 @@ Dopo un primo periodo a cavallo tra gli anni Ottanta e l'inizio dei Novanta in c
 
 Durante gli otto anni consecutivi di Serie A (2006–2014), le cronache di Patanè sono diventate veri e propri cult generazionali condivisi su YouTube e sui social media:
 
-* **Catania-Inter 3-1 (12 marzo 2010)**: La sua appassionata ed esplosiva descrizione dei gol di Maxi López, del "cucchiaio" su rigore di Giuseppe Mascara e della rete finale di Jorge Martínez ha fatto il giro delle trasmissioni televisive nazionali, rappresentando la sintesi perfetta del riscatto sportivo della piazza etnea contro i campioni del Triplete.
+* **Catania-Inter 3-1 (12 marzo 2010)**: La sua appassionata ed esplosiva descrizione dei gol di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], del "cucchiaio" su rigore di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e della rete finale di [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]] ha fatto il giro delle trasmissioni televisive nazionali, rappresentando la sintesi perfetta del riscatto sportivo della piazza etnea contro i campioni del Triplete.
 * **Presidio delle Trasferte**: Anche nei momenti più difficili e bui della Serie C e durante le 9 trasferte trasmesse in chiaro da Telecolor nel 2026/2027, Patanè ha mantenuto una cifra stilistica inconfondibile, caratterizzata da profondo pathos, ritmo incalzante e rispetto deontologico verso gli avversari.
 
 ---

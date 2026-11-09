@@ -7,16 +7,16 @@ description: 'Tabellino e cronaca di Padova-Catania 2-1 del 19 marzo 2024 all''E
 slug: 02-cronistoria/partite-storiche/2023-2024/padova-catania-2-1
 entity_type: tabellino_gara
 match_date: '2024-03-19'
-season_ref: '[[stagioni/2023-2024|Stagione 2023-2024]]'
+season_ref: '[[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]]'
 competition: Coppa Italia Serie C
 matchday: Finale di Andata
 stadium_ref: Stadio Euganeo, Padova
 attendance: 5000
 referee: Mario Perenzoni (Rovereto)
 home_team: Calcio Padova
-away_team: '[[societa/2022-pelligra-catania-fc|Catania Football Club]]'
+away_team: '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]'
 home_coach: Vincenzo Torrente
-away_coach: '[[tesserati/allenatori/michele-zeoli|Michele Zeoli]]'
+away_coach: '[[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]]'
 score_home: 2
 score_away: 1
 scorers:
@@ -64,10 +64,10 @@ aliases:
 ---
 # Padova - Catania 2-1 (19 Marzo 2024)
 
-La finale di andata della **Coppa Italia Serie C 2023-2024** tra **Padova e Catania (2-1)**, disputata la sera di martedì **19 marzo 2024** allo Stadio Euganeo di Padova, ha rappresentato il primo atto del confronto che avrebbe poi consegnato al [[societa/2022-pelligra-catania-fc|Catania Football Club]] la prima coccarda tricolore della propria storia nella gara di ritorno al Massimino.
+La finale di andata della **Coppa Italia Serie C 2023-2024** tra **Padova e Catania (2-1)**, disputata la sera di martedì **19 marzo 2024** allo Stadio Euganeo di Padova, ha rappresentato il primo atto del confronto che avrebbe poi consegnato al [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] la prima coccarda tricolore della propria storia nella gara di ritorno al Massimino.
 
 > [!abstract] La Partita dell'Euganeo e il Gol della Speranza di Monaco
-> Spinto da oltre 1.800 sostenitori etnei nel settore ospiti, il Catania guidato da [[tesserati/allenatori/michele-zeoli|Michele Zeoli]] ha subito l'avvio veemente dei padroni di casa, a segno al 12' con Simone Palombi e al 25' con Lorenzo Crisetig. Nella ripresa, dopo la drammatica interruzione all'intervallo per gli incidenti tra ultras sulla pista d'atletica, il colpo di testa al 77' del difensore Salvatore Monaco su corner di Chiricò ha fissato il punteggio sul 2-1, mantenendo apertissimo il verdetto per la finale di ritorno [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Catania-Padova 4-2 d.t.s.]].
+> Spinto da oltre 1.800 sostenitori etnei nel settore ospiti, il Catania guidato da [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] ha subito l'avvio veemente dei padroni di casa, a segno al 12' con Simone Palombi e al 25' con Lorenzo Crisetig. Nella ripresa, dopo la drammatica interruzione all'intervallo per gli incidenti tra ultras sulla pista d'atletica, il colpo di testa al 77' del difensore [[03-tesserati/calciatori/archivio/m-o/salvatore-monaco|Salvatore Monaco]] su corner di Chiricò ha fissato il punteggio sul 2-1, mantenendo apertissimo il verdetto per la finale di ritorno [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Catania-Padova 4-2 d.t.s.]].
 
 ---
 
@@ -87,7 +87,7 @@ La finale di andata della **Coppa Italia Serie C 2023-2024** tra **Padova e Cata
 ## Formazioni Ufficiali
 
 * **Calcio Padova (4-3-3):** Zanellati; Belli, Delli Carri, Perrotta, Villa (65' Favale); Radrezza, Crisetig, Varas; Liguori (72' Tordini), Palombi (65' Zamparo), Capelli (65' Fusi). All.: Vincenzo Torrente.
-* **Catania FC (4-3-3):** Furlan; Rapisarda, Curado (46' Kontek), Monaco, Castellini; Sturaro (57' Welbeck), Quaini, Zammarini; Cicerelli (46' Marsura), Di Carmine (72' Costantino), Celli (46' Chiricò). All.: [[tesserati/allenatori/michele-zeoli|Michele Zeoli]].
+* **Catania FC (4-3-3):** Furlan; Rapisarda, Curado (46' Kontek), Monaco, Castellini; Sturaro (57' Welbeck), Quaini, Zammarini; Cicerelli (46' Marsura), Di Carmine (72' Costantino), Celli (46' Chiricò). All.: [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]].
 
 ---
 

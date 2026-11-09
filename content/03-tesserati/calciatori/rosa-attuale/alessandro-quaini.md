@@ -1,11 +1,11 @@
 ---
 title: Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 description: Biografia, presenze e statistiche ufficiali di Alessandro Quaini, regista / mediano metodista / difensore centrale
-  del Calcio Catania con 125 presenze e 1 gol registrati in maglia rossazzurra.
+  del Calcio Catania con 127 presenze e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/alessandro-quaini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 birth_date: '1998-09-17'
 birth_place: Cremona, Italia
 nationality: Italia
@@ -13,12 +13,12 @@ role: Regista / Mediano metodista / Difensore centrale
 current_squad: true
 catania_periods:
 - 2023-
-total_appearances: 125
+total_appearances: 127
 league_appearances: 68
 total_goals: 1
 league_goals: 2
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/alessandro-quaini.jpg
 image_credits:
 - image_path: assets/images/calciatori/alessandro-quaini.jpg
@@ -50,12 +50,17 @@ aliases:
 seasons_count: 4
 height: 184 cm
 foot: Destro
-total_assists: 1
-minutes_played: 8642
+total_assists: 2
+minutes_played: 8812
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 345742
+tags:
+- calciatori
+- rosa-attuale
+- centrocampisti
+- difensori
 ---
 # Alessandro Quaini — Centrocampista e Regista Tattico del Catania FC
 
@@ -87,9 +92,9 @@ tm_id: 345742
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>125</td>
+        <td>127</td>
         <th>Goal / Assist</th>
-        <td>1 / 1</td>
+        <td>1 / 2</td>
       </tr>
     </tbody>
   </table>
@@ -101,7 +106,7 @@ Nato a Cremona il **17 settembre 1998**, **Alessandro Quaini** è un centrocampi
 
 ## 1. Dalla Cantera del Genoa al Fiorenzuola
 
-Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Serie C con Racing Fondi, Renate, AlbinoLeffe, Monopoli e soprattutto Fiorenzuola, dove sotto la guida di Luca Tabbiani si è affermato come uno dei migliori registi della terza serie per percentuale di passaggi riusciti e visione periferica.
+Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Serie C con Racing Fondi, Renate, AlbinoLeffe, Monopoli e soprattutto Fiorenzuola, dove sotto la guida di [[03-tesserati/allenatori/luca-tabbiani|Luca Tabbiani]] si è affermato come uno dei migliori registi della terza serie per percentuale di passaggi riusciti e visione periferica.
 
 ---
 
@@ -109,7 +114,7 @@ Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Seri
 
 Arrivato in Sicilia nell'estate del **2023**:
 * Ha fatto parte del gruppo che ha alzato al cielo la **Coppa Italia Serie C** nell'aprile 2024.
-* Nella [[stagioni/2026-2027|stagione 2026-2027]], sotto la guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Quaini agisce da diga metodista davanti alla difesa al fianco di [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi]] ed [[03-tesserati/calciatori/rosa-attuale/emanuele-torrasi|Emanuele Torrasi]], garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco (andando a segno anche nel blitz esterno di Potenza).
+* Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], sotto la guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Quaini agisce da perno metodista e difensore aggiunto (sempre presente nelle prime 16 gare ufficiali con 1.297 minuti giocati e 2 assist all'attivo, incluso quello per Cicerelli nel 2-0 sul Sorrento), garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco.
 
 ---
 
@@ -120,16 +125,16 @@ Arrivato in Sicilia nell'estate del **2023**:
 | **2023-2024** | Mediano | 39 | 0 | 0 | 10 | 0 | 2984' |
 | **2024-2025** | Mediano | 36 | 1 | 0 | 16 | 0 | 2144' |
 | **2025-2026** | Mediano | 36 | 0 | 0 | 15 | 0 | 2387' |
-| **2026-2027** | Mediano | 14 | 0 | 1 | 3 | 0 | 1127' |
-| **TOTALE** | — | **125** | **1** | **1** | **44** | **0** | **8642'** |
+| **2026-2027** | Mediano | 16 | 0 | 2 | 3 | 0 | 1297' |
+| **TOTALE** | — | **127** | **1** | **2** | **44** | **0** | **8812'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **125 presenze ufficiali**, disputando **8642 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **127 presenze ufficiali**, disputando **8812 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[02-cronistoria/stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi: Compagno di reparto]]
 * [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano]]
 * [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore]]

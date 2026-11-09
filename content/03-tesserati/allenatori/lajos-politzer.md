@@ -13,7 +13,7 @@ nationality: Ungheria
 catania_periods:
 - 1950-1951
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/lajos-politzer.jpg
 image_credits:
 - image_path: assets/images/allenatori/lajos-politzer.jpg
@@ -102,17 +102,17 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Lajos Politzer guidò il Catania nella Serie B 1950-1951, conducendo la squadra per l'intero arco del campionato (collaborando da metà torneo con il D.T. Nereo Marini) fino a un brillante 7º posto con 42 punti.
+Lajos Politzer guidò il Catania nella Serie B 1950-1951, conducendo la squadra per l'intero arco del campionato (collaborando da metà torneo con il D.T. [[03-tesserati/allenatori/nereo-marini|Nereo Marini]]) fino a un brillante 7º posto con 42 punti.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione il Catania si impose come una delle compagini più temibili del torneo cadetto, centrando vittorie prestigiose e valorizzando campioni come Guido Klein e Manlio Renzulli.
+Sotto la sua gestione il Catania si impose come una delle compagini più temibili del torneo cadetto, centrando vittorie prestigiose e valorizzando campioni come [[03-tesserati/calciatori/archivio/g-l/guido-klein|Guido Klein]] e Manlio Renzulli.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1950-1951\|1950-1951]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1950-1951\|1950-1951]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

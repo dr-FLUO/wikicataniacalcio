@@ -93,7 +93,7 @@ tm_id: 523456
   </table>
 </div>
 
-**Rosario Picone** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Rosario Picone** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ---
 
@@ -124,10 +124,10 @@ Nato a Centuripe nel 1959, il difensore **Rosario Picone** ha militato nelle fil
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

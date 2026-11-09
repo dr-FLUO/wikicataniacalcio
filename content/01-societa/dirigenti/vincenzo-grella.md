@@ -7,7 +7,7 @@ slug: 01-societa/dirigenti/vincenzo-grella
 entity_type: dirigente
 date_start: 2022-07-13
 date_end: 2026-10-27
-club_entity: '[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]]'
+club_entity: '[[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]]'
 figc_matricola: '955013'
 tags:
 - vincenzo-grella
@@ -30,30 +30,23 @@ sources:
   publisher: La Sicilia, Catania
   year: 2026
   reference: Edizioni febbraio e ottobre 2026
-image: assets/images/presidenti-dirigenti/vincenzo-grella.jpg
-cover_image: vincenzo-grella.jpg
-cover_caption: Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club.
-cover_credit: 'Foto: AusAID · Licenza: CC BY 2.0 (Wikimedia Commons)'
-image_credits:
-- image_path: assets/images/presidenti-dirigenti/vincenzo-grella.jpg
-  alt_text: "Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club"
-  author_or_archive: "AusAID (Wikimedia Commons)"
-  year: 2009
-  license_type: "Creative Commons CC BY 2.0"
 aliases:
 - societa/presidenti/vincenzo-grella
 - dirigenti/vincenzo-grella
 ---
 
-![Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club](/assets/images/presidenti-dirigenti/vincenzo-grella.jpg)
-*Vincenzo Grella, vicepresidente e amministratore delegato del Catania Football Club — Foto: AusAID (CC BY 2.0)*
+
 
 # Vincenzo Grella (Vicepresidente e AD Catania FC)
 
-**Vincenzo "Vince" Grella** (Melbourne, 5 ottobre 1979) è un dirigente sportivo ed ex calciatore australiano di origini italiane (avellinesi e piemontesi), storico centrocampista di Empoli, Parma, Torino e Blackburn Rovers nonché colonna della Nazionale australiana ai Mondiali del 2006 e del 2010. Dal **13 luglio 2022** ricopre la carica di **vicepresidente e amministratore delegato** del **[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]]** (matricola FIGC 955013), operando a Catania come plenipotenziario del presidente **[[societa/presidenti/ross-pelligra|Ross Pelligra]]**.
+
+  
+
+
+**Vincenzo "Vince" Grella** (Melbourne, 5 ottobre 1979) è un dirigente sportivo ed ex calciatore australiano di origini italiane (avellinesi e piemontesi), storico centrocampista di Empoli, Parma, Torino e Blackburn Rovers nonché colonna della Nazionale australiana ai Mondiali del 2006 e del 2010. Dal **13 luglio 2022** ricopre la carica di **vicepresidente e amministratore delegato** del **[[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]]** (matricola FIGC 955013), operando a Catania come plenipotenziario del presidente **[[01-societa/presidenti/ross-pelligra|Ross Pelligra]]**.
 
 > [!abstract] Il Ruolo Chiave nella Rinascita Rossazzurra
-> Artefice dell'avvicinamento del gruppo Pelligra alla realtà calcistica catanese nella primavera del 2022, Vincenzo Grella ha guidato in prima persona la gestione sportiva, amministrativa e patrimoniale del club: dalla promozione in Serie C nella [[stagioni/2022-2023|Stagione 2022-2023]] e dalla conquista della [[partite/2023-2024/finale-coppa-catania-padova-4-2|Coppa Italia Serie C 2023-2024]] fino alla firma del rogito notarile per il [[stadio/acquisizione-torre-del-grifo-2025-2026|riacquisto di Torre del Grifo Village (19 febbraio 2026)]] e all'aggiudicazione dello [[maglie/acquisizione-marchio-storico-2026|stemma storico (22 ottobre 2026)]].
+> Artefice dell'avvicinamento del gruppo Pelligra alla realtà calcistica catanese nella primavera del 2022, Vincenzo Grella ha guidato in prima persona la gestione sportiva, amministrativa e patrimoniale del club: dalla promozione in Serie C nella [[02-cronistoria/stagioni/2022-2023|Stagione 2022-2023]] e dalla conquista della [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Coppa Italia Serie C 2023-2024]] fino alla firma del rogito notarile per il [[04-strutture/centri-sportivi/torre-del-grifo|riacquisto di Torre del Grifo Village (19 febbraio 2026)]] e all'aggiudicazione dello [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|stemma storico (22 ottobre 2026)]].
 
 ---
 
@@ -61,11 +54,11 @@ aliases:
 
 | Periodo / Data | Attività ed Evento | Risultato |
 | :--- | :--- | :--- |
-| **Giugno – Luglio 2022** | Stesura del piano industriale del Pelligra Group per il bando ex [[vicende-legali/fallimento-2021-art52-noif\|art. 52 c. 10 NOIF]] e nomina a Vicepresidente e AD. | Nascita del [[societa/2022-pelligra-catania-fc\|Catania SSD a r.l.]] e avvio della matricola 955013. |
-| **[[stagioni/2022-2023\|2022–2023]]** | Direzione dell'area esecutiva nella stagione del ritorno in Serie C. | Vittoria del Girone I di Serie D con **88 punti** e trasformazione in **Catania Football Club S.r.l.** |
-| **2 aprile 2024** | Conquista della **Coppa Italia Serie C [[stagioni/2023-2024\|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[partite/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2 d.t.s.]]). |
-| **19 febbraio 2026** | Sottoscrizione del rogito definitivo per **[[stadio/acquisizione-torre-del-grifo-2025-2026\|Torre del Grifo Village]]**. | Acquisizione per **5,5 milioni di euro** e riapertura del centro sportivo di Mascalucia. |
-| **22 ottobre 2026** | Coordinamento dell'offerta vincente nell'asta per il **[[maglie/acquisizione-marchio-storico-2026\|marchio storico del Calcio Catania]]**. | Riacquisto per **250.000 euro** dello [[maglie/loghi-storici-liotru\|stemma storico del 1946/1996]]. |
+| **Giugno – Luglio 2022** | Stesura del piano industriale del Pelligra Group per il bando ex [[01-societa/vicende-legali/fallimento-2021-art52-noif\|art. 52 c. 10 NOIF]] e nomina a Vicepresidente e AD. | Nascita del [[01-societa/epoche/2022-pelligra-catania-fc\|Catania SSD a r.l.]] e avvio della matricola 955013. |
+| **[[02-cronistoria/stagioni/2022-2023\|2022–2023]]** | Direzione dell'area esecutiva nella stagione del ritorno in Serie C. | Vittoria del Girone I di Serie D con **88 punti** e trasformazione in **Catania Football Club S.r.l.** |
+| **2 aprile 2024** | Conquista della **Coppa Italia Serie C [[02-cronistoria/stagioni/2023-2024\|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2 d.t.s.]]). |
+| **19 febbraio 2026** | Sottoscrizione del rogito definitivo per **[[04-strutture/centri-sportivi/torre-del-grifo\|Torre del Grifo Village]]**. | Acquisizione per **5,5 milioni di euro** e riapertura del centro sportivo di Mascalucia. |
+| **22 ottobre 2026** | Coordinamento dell'offerta vincente nell'asta per il **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026\|marchio storico del Calcio Catania]]**. | Riacquisto per **250.000 euro** dello [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti\|stemma storico del 1946/1996]]. |
 
 ---
 

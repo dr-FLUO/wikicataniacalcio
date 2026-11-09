@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1956-1958
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/gipo-poggi.jpg
 image_credits:
 - image_path: assets/images/allenatori/gipo-poggi.jpg
@@ -112,7 +112,7 @@ Allenatore di profonda intelligenza tattica proveniente dalla scuola calcistica 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1956-1957\|1956-1957]], [[stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1956-1957\|1956-1957]], [[02-cronistoria/stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

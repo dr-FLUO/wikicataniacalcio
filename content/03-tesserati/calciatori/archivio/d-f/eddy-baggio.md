@@ -17,7 +17,7 @@ league_appearances: 31
 total_goals: 20
 league_goals: 18
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 tags:
 - calciatori
 - attaccanti
@@ -99,7 +99,7 @@ tm_id: 28829
   </table>
 </div>
 
-**Eddy Baggio** (Caldogno, 23 agosto 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **2001** dall'Ancona, fu il cecchino micidiale e il trascinatore assoluto della [[stagioni/2001-2002|Stagione 2001-2002]], conclusasi il 9 giugno 2002 a Taranto con il tanto agognato ritorno in **Serie B** dopo 15 anni di attesa.
+**Eddy Baggio** (Caldogno, 23 agosto 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **2001** dall'Ancona, fu il cecchino micidiale e il trascinatore assoluto della [[02-cronistoria/stagioni/2001-2002|Stagione 2001-2002]], conclusasi il 9 giugno 2002 a Taranto con il tanto agognato ritorno in **Serie B** dopo 15 anni di attesa.
 
 Con ben **18 reti in 31 partite di campionato** e 2 reti nei playoff promozione, Baggio fu l'arma letale dell'attacco orchestrato prima da Aldo Ammazzalorso e poi da Pietro Vierchowod e Osvaldo Jaconi.
 

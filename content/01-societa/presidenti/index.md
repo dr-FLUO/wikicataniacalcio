@@ -87,9 +87,9 @@ La storia del Calcio Catania è indissolubilmente legata alle figure dei suoi pr
 
 ## Collegamenti Correlati
 
-- [[societa/matricola-11700|Matricola Federale 11700 (1946-2022)]]
+- [[01-societa/matricola-11700|Matricola Federale 11700 (1946-2022)]]
 - [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]
-- [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]
 - [[03-tesserati/allenatori/index|Albo degli Allenatori del Catania]]
 
 ---

@@ -22,8 +22,8 @@ total_goals: 60
 league_goals: 58
 serie_a_goals: 31
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - capitano
@@ -125,7 +125,7 @@ tm_id: 22085
   </table>
 </div>
 
-**Giuseppe Mascara** (Caltagirone, 22 agosto 1979) è un allenatore di calcio ed ex calciatore italiano, di ruolo attaccante o trequartista. Fantasista dal talento cristallino e simbolo identitario del calcio etneo negli anni Duemila, occupa il **secondo posto nella classifica dei marcatori assoluti della storia del Catania con 60 reti ufficiali** (alle spalle del solo [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]] a quota 78) e il **sesto posto assoluto per presenze con 238 gare ufficiali** (di cui **226 gare e 58 reti in campionato**, con **149 presenze e 31 reti in Serie A**, e **12 gare con 2 reti in Coppa Italia**). È stato il **primo calciatore della storia del Calcio Catania a vestire la maglia della Nazionale Italiana maggiore** durante la militanza in rossazzurro (6 giugno 2009).
+**Giuseppe Mascara** (Caltagirone, 22 agosto 1979) è un allenatore di calcio ed ex calciatore italiano, di ruolo attaccante o trequartista. Fantasista dal talento cristallino e simbolo identitario del calcio etneo negli anni Duemila, occupa il **secondo posto nella classifica dei marcatori assoluti della storia del Catania con 60 reti ufficiali** (alle spalle del solo [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]] a quota 78) e il **sesto posto assoluto per presenze con 238 gare ufficiali** (di cui **226 gare e 58 reti in campionato**, con **149 presenze e 31 reti in Serie A**, e **12 gare con 2 reti in Coppa Italia**). È stato il **primo calciatore della storia del Calcio Catania a vestire la maglia della Nazionale Italiana maggiore** durante la militanza in rossazzurro (6 giugno 2009).
 
 
 
@@ -137,17 +137,17 @@ tm_id: 22085
 
 ## L'Arrivo nell'Era Gaucci (2003–2004) e il Trionfo verso la Serie A (2005–2006)
 
-Nato a Caltagirone e cresciuto calcisticamente a Comiso prima di mettersi in luce con Ragusa, Battipagliese, Avellino, Salernitana e Palermo, Giuseppe Mascara approda al [[societa/2000-era-gaucci|Calcio Catania S.p.A.]] nell'estate del **2003**, subito dopo la vittoria della battaglia legale del [[vicende-legali/caso-catania-2003|Caso Catania]] guidata da [[societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] e [[societa/presidenti/luciano-gaucci|Luciano Gaucci]]. Nella storica [[stagioni/2003-2004|Serie B 2003-2004 a 24 squadre]], allenata da Stefano Colantuono, forma una straordinaria coppia d'attacco con il belga-brasiliano Luís Oliveira, realizzando **13 reti in 41 presenze** e trascinando gli etnei al 9º posto allo [[stadio/angelo-massimino|Stadio Angelo Massimino]].
+Nato a Caltagirone e cresciuto calcisticamente a Comiso prima di mettersi in luce con Ragusa, Battipagliese, Avellino, Salernitana e Palermo, Giuseppe Mascara approda al [[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A.]] nell'estate del **2003**, subito dopo la vittoria della battaglia legale del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] guidata da [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] e [[01-societa/presidenti/luciano-gaucci|Luciano Gaucci]]. Nella storica [[02-cronistoria/stagioni/2003-2004|Serie B 2003-2004 a 24 squadre]], allenata da [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]], forma una straordinaria coppia d'attacco con il belga-brasiliano Luís Oliveira, realizzando **13 reti in 41 presenze** e trascinando gli etnei al 9º posto allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
-Dopo una stagione in prestito al Perugia (2004-2005) contestuale al passaggio di proprietà del club etneo ad [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]], Mascara torna a Catania nell'estate **2005** per formare con [[tesserati/calciatori/gionatha-spinesi|Gionatha Spinesi]] (23 gol) e Davide Baiocco il tridente offensivo disegnato da [[tesserati/allenatori/pasquale-marino|Pasquale Marino]]. Nella trionfale [[stagioni/2005-2006|Stagione 2005-2006]] mette a segno **14 reti in 36 partite** (tra cui la doppietta nello scontro diretto col Mantova e il gol al Catanzaro), riportando il Catania in **Serie A** il 28 maggio 2006 dopo 22 anni di attesa.
+Dopo una stagione in prestito al Perugia (2004-2005) contestuale al passaggio di proprietà del club etneo ad [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], Mascara torna a Catania nell'estate **2005** per formare con [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] (23 gol) e [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]] il tridente offensivo disegnato da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]. Nella trionfale [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]] mette a segno **14 reti in 36 partite** (tra cui la doppietta nello scontro diretto col Mantova e il gol al Catanzaro), riportando il Catania in **Serie A** il 28 maggio 2006 dopo 22 anni di attesa.
 
 ## Le Prodezze Balistiche in Serie A e la Nazionale (2006–2011)
 
 Con il numero 7 (e in seguito anche la 10 e la fascia di capitano), Mascara incanta la Serie A per quattro stagioni e mezzo, firmando alcune delle reti più celebri nella storia del calcio italiano:
 
-1. **Il Gol da Centrocampo nel Derby di Palermo (1º marzo 2009):** Nella 26ª giornata della Serie A 2008-2009, allo Stadio Renzo Barbera, sul punteggio di 0-2 per il Catania di Walter Zenga (reti di Ledesma e [[tesserati/calciatori/marco-biagianti|Biagianti]]), al 44' del primo tempo Mascara raccoglie un pallone vagante a ridosso del cerchio di centrocampo (a circa 50 metri dalla porta) e lascia partire una parabola al volo di collo destro che scavalca il portiere della Nazionale Marco Amelia, insaccandosi sotto l'incrocio dei pali per lo storico **0-4 finale** nel [[partite/precedenti/palermo|Derby di Sicilia]].
+1. **Il Gol da Centrocampo nel Derby di Palermo (1º marzo 2009):** Nella 26ª giornata della Serie A 2008-2009, allo Stadio Renzo Barbera, sul punteggio di 0-2 per il Catania di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] (reti di Ledesma e [[03-tesserati/calciatori/storici/marco-biagianti|Biagianti]]), al 44' del primo tempo Mascara raccoglie un pallone vagante a ridosso del cerchio di centrocampo (a circa 50 metri dalla porta) e lascia partire una parabola al volo di collo destro che scavalca il portiere della Nazionale Marco Amelia, insaccandosi sotto l'incrocio dei pali per lo storico **0-4 finale** nel [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia]].
 2. **La Convocazione in Nazionale A (6 giugno 2009):** Al termine della stagione 2008-2009 (chiusa con **12 reti in Serie A**), il commissario tecnico campione del mondo **Marcello Lippi** lo convoca in Nazionale maggiore: il 6 giugno 2009 a Pisa, nell'amichevole **Italia-Irlanda del Nord (3-0)**, Mascara parte titolare servendo a Giuseppe Rossi l'assist per il primo gol azzurro.
-3. **Il "Cucchiaio" all'Inter di Mourinho (12 marzo 2010):** Nella serata dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] contro la capolista [[partite/precedenti/inter|Inter]] (futura vincitrice della Champions League), con la squadra guidata da Siniša Mihajlović in vantaggio per 2-1 grazie a Maxi López, all'81' Mascara trasforma il calcio di rigore del **2-1** beffando Júlio César con un morbido *cucchiaio* centrale (il 3-1 definitivo sarà siglato da Jorge Martínez al 90').
+3. **Il "Cucchiaio" all'Inter di Mourinho (12 marzo 2010):** Nella serata dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] contro la capolista [[02-cronistoria/partite-storiche/precedenti/inter|Inter]] (futura vincitrice della Champions League), con la squadra guidata da [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] in vantaggio per 2-1 grazie a [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], all'81' Mascara trasforma il calcio di rigore del **2-1** beffando Júlio César con un morbido *cucchiaio* centrale (il 3-1 definitivo sarà siglato da [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]] al 90').
 
 Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segnando anche una doppietta alla Roma), si trasferisce al Napoli in Serie A.
 
@@ -155,13 +155,13 @@ Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segn
 
 | Stagione | Società / Matricola | Categoria | Presenze Campionato | Reti Campionato | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **[[stagioni/2003-2004\|2003-2004]]** | [[societa/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie B | 41 | 13 | 1 (0) | **42 (13)** |
-| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | 36 | 14 | 0 (0) | **36 (14)** |
-| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 6 | 1 (0) | **29 (6)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 4 | 5 (2) | **40 (6)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 12 | 2 (0) | **36 (12)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 8 | 1 (0) | **33 (8)** |
-| **2010-2011** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 18 | 1 | 1 (0) | **19 (1)** |
+| **[[02-cronistoria/stagioni/2003-2004\|2003-2004]]** | [[01-societa/epoche/2000-era-gaucci\|Calcio Catania S.p.A.]] (11700) | Serie B | 41 | 13 | 1 (0) | **42 (13)** |
+| **[[02-cronistoria/stagioni/2005-2006\|2005-2006]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | 36 | 14 | 0 (0) | **36 (14)** |
+| **2006-2007** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 6 | 1 (0) | **29 (6)** |
+| **2007-2008** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 4 | 5 (2) | **40 (6)** |
+| **2008-2009** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 34 | 12 | 2 (0) | **36 (12)** |
+| **2009-2010** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 8 | 1 (0) | **33 (8)** |
+| **2010-2011** (gen.) | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 18 | 1 | 1 (0) | **19 (1)** |
 | **Totale** | **7 Stagioni in Rossazzurro** | **Serie A / B** | **224 (145 A + 79 B)** | **58 (31 A + 27 B)** | **11 (2)** | **235 (60)** |
 
 ---
@@ -172,8 +172,8 @@ Nel gennaio 2011, dopo aver superato quota 60 gol ufficiali in rossazzurro (segn
 <summary><strong>Sintesi Statistica e Record in Maglia Rossazzurra</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
 - **Bilancio Complessivo:** **235 presenze ufficiali e 60 reti** (2003–2004 e 2005–gennaio 2011).
-- **Dettaglio Competizioni:** 145 presenze e **31 reti in Serie A** (2º miglior marcatore di sempre del Catania in massima serie dopo [[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]] con 35); 79 presenze e **27 reti in Serie B**; 11 presenze e **2 reti in Coppa Italia**.
-- **Imprese Iconiche:** Promozione in Serie A nella [[stagioni/2005-2006|Stagione 2005-2006]], gol al volo da 50 metri nel derby [[partite/precedenti/palermo|Palermo-Catania 0-4]] (1º marzo 2009) e rigore a *"cucchiaio"* nel 3-1 all'[[partite/precedenti/inter|Inter]] del *Triplete* (12 marzo 2010).
+- **Dettaglio Competizioni:** 145 presenze e **31 reti in Serie A** (2º miglior marcatore di sempre del Catania in massima serie dopo [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]] con 35); 79 presenze e **27 reti in Serie B**; 11 presenze e **2 reti in Coppa Italia**.
+- **Imprese Iconiche:** Promozione in Serie A nella [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]], gol al volo da 50 metri nel derby [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo-Catania 0-4]] (1º marzo 2009) e rigore a *"cucchiaio"* nel 3-1 all'[[02-cronistoria/partite-storiche/precedenti/inter|Inter]] del *Triplete* (12 marzo 2010).
 
 </details>
 

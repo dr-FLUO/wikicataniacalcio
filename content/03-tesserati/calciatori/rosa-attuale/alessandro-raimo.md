@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Alessandro Raimo, di
 slug: 03-tesserati/calciatori/rosa-attuale/alessandro-raimo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
 total_appearances: 54
 seasons_count: 3
@@ -60,7 +60,7 @@ total_goals: 1
 total_assists: 3
 minutes_played: 2692
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 392060
 ---
@@ -102,7 +102,7 @@ tm_id: 392060
   </table>
 </div>
 
-**Alessandro Raimo** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Alessandro Raimo** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -127,10 +127,10 @@ Originario di Pontedera (PI), Italia (classe 1999), **Alessandro Raimo** ha mili
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

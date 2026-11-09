@@ -9,7 +9,7 @@ entity_type: evento_tifo
 foundation_year: 2025
 origin_district: Autostrada A2 del Mediterraneo (Salerno, San Mango Piemonte)
 stadium_sector: Trasferta extrapolare e direttrice autostradale
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -102,6 +102,14 @@ Sul piano della prevenzione amministrativa di pubblica sicurezza:
 - **Il Fenomeno della Conflittualità Extrapolare:** L'episodio di Salerno ha dimostrato l'evoluzione compiuta della **Fase 3 (2015-2026)**:
   - Gli stadi cittadini di Serie C e i loro perimetri urbani risultano oggi presidiati da protocolli di pre-filtraggio che rendono quasi impossibile lo scontro diretto tra opposte curve.
   - La conflittualità si è quindi definitivamente delocalizzata lungo la rete delle arterie autostradali e delle aree di rifornimento durante i trasferimenti a lungo raggio, costringendo il Ministero dell'Interno e il CASMS (Comitato di Analisi per la Sicurezza delle Manifestazioni Sportive) a ricorrere a divieti generalizzati di trasferta o a percorsi rigidamente scortati con finestre orarie prefissate.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

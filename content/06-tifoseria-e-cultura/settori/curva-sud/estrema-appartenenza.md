@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 2015
 origin_district: Castello Ursino, San Cristoforo, Librino, Zia Lisa (Catania)
 stadium_sector: Curva Sud (Striscione unico trasferta)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:
@@ -46,7 +46,7 @@ aliases:
 
 # Estrema Appartenenza Curva Sud Catania (2015)
 
-**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **2015-2016** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo tutta la penisola.
+**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **[[02-cronistoria/stagioni/2015-2016|2015-2016]]** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo tutta la penisola.
 
 ---
 

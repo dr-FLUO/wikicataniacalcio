@@ -14,7 +14,7 @@ nationality: Galles
 catania_periods:
 - 2002-2003
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image: assets/images/allenatori/john-toshack.jpg
 image_credits:
 - image_path: assets/images/allenatori/john-toshack.jpg
@@ -115,7 +115,16 @@ La sua presenza al Cibali rappresentò un unicum di visibilità internazionale n
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

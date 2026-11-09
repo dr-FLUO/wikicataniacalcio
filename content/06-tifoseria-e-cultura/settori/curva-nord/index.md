@@ -44,9 +44,24 @@ aliases:
 
 # La Curva Nord del Massimino: Storia, Gruppi e Clan Rionali
 
-La **Curva Nord** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] è il settore storicamente più imponente, coreografico e temuto del tifo catanese. Culla del movimento ultras etneo fin dal 1979 con la nascita della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], la Nord ha saputo rigenerarsi nel 1993 all'indomani della radiazione federale e consolidarsi nel 2022 sotto la guida del gruppo reggente unitario **Catania Curva Nord (CCN)**.
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/tifoseria-e-curva/curva-nord-catania-coreografia-vulcano-etna-fumogeni-stadio-massimino.webp" data-caption="Curva Nord Stadio Angelo Massimino · La spettacolare scenografia notturna con il grande telone raffigurante gli Archi della Marina, la città di Catania e l'Etna in eruzione illuminata da fuochi pirotecnici · Archivio Tifoseria Rossazzurra">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/tifoseria-e-curva/curva-nord-catania-coreografia-vulcano-etna-fumogeni-stadio-massimino.webp" alt="Coreografia Vulcano Etna Curva Nord Massimino" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge">Coreografia Storica</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">L'Etna in Curva Nord</span>
+    <span class="wiki-inset-photo__meta">Scenografia notturna con la città di Catania e spettacoli pirotecnici</span>
+  </div>
+</div>
+
+
+La **Curva Nord** dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] è il settore storicamente più imponente, coreografico e temuto del tifo catanese. Culla del movimento ultras etneo fin dal 1979 con la nascita della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], la Nord ha saputo rigenerarsi nel 1993 all'indomani della radiazione federale e consolidarsi nel 2022 sotto la guida del gruppo reggente unitario **Catania Curva Nord (CCN)**.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## 1. Evoluzione Storica della Curva Nord
 

@@ -29,13 +29,6 @@ sources:
     publisher: "GEO Edizioni, Empoli"
     year: 2010
     reference: "Albo d'oro e biografie delle glorie rossazzurre"
-image: "assets/images/strutture-e-stadi/cinquanta-volti-cibali-massimino.jpg"
-image_credits:
-  - image_path: "assets/images/strutture-e-stadi/cinquanta-volti-cibali-massimino.jpg"
-    alt_text: "Veduta esterna dello Stadio Angelo Massimino con i murales dei Cinquanta Volti per il Cibali"
-    author_or_archive: "Wikimedia Commons Contributors"
-    year: 2023
-    license_type: "Creative Commons CC BY-SA 4.0"
 aliases:
   - "strutture/cinquanta-volti-cibali"
   - "cinquanta-volti-per-il-cibali"
@@ -43,8 +36,11 @@ aliases:
 ---
 # Cinquanta Volti per il Cibali — Il Murale Monumentale dello Stadio Massimino
 
-![Veduta esterna dello Stadio Angelo Massimino con i murales dei Cinquanta Volti per il Cibali — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Wikimedia Commons Contributors](/assets/images/strutture-e-stadi/cinquanta-volti-cibali-massimino.jpg)
-*Veduta esterna dello Stadio Angelo Massimino con i murales dei Cinquanta Volti per il Cibali — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Wikimedia Commons Contributors*
+
+  
+
+
+
 
 ***Cinquanta volti per il Cibali*** è un'opera d'arte pubblica monumentale realizzata dall'artista etneo **Andrea Marusic** tra il 2017 e il 2018 sulle mura esterne dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] di Catania, lungo la cinta perimetrale tra la Curva Sud e la Tribuna B (via Cifali). Con i suoi oltre 210 metri lineari di superficie pittorica, rappresenta il murale continuo a tema sportivo unico più lungo d'Italia.
 
@@ -60,53 +56,53 @@ I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cron
 
 1. **Santi Quasimodo** — Primo presidente della Società Sportiva Catania (1929).
 2. **Attilio Mattei** — Capitano e trascinatore della prima promozione in Serie B (1934).
-3. **Nicolò Nicolosi** — *Motorino*, recordman di gol del Catania prebellico (78 reti totali).
-4. **Géza Kertész** — Maestro danubiano della panchina, artefice della Serie B 1934, eroe martire antinazista.
-5. **Enzo Bellini** — Ala e capitano coraggioso degli anni Trenta.
-6. **Mario Sernagiotto** — Centrocampista italo-brasiliano di caratura internazionale.
-7. **Mario Miltone** — Bandiera e colonna difensiva degli anni Quaranta.
+3. **[[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]]** — *Motorino*, recordman di gol del Catania prebellico (78 reti totali).
+4. **[[03-tesserati/allenatori/geza-kertesz|Géza Kertész]]** — Maestro danubiano della panchina, artefice della Serie B 1934, eroe martire antinazista.
+5. **[[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]]** — Ala e capitano coraggioso degli anni Trenta.
+6. **[[03-tesserati/allenatori/mario-sernagiotto|Mario Sernagiotto]]** — Centrocampista italo-brasiliano di caratura internazionale.
+7. **[[03-tesserati/calciatori/storici/mario-miltone|Mario Miltone]]** — Bandiera e colonna difensiva degli anni Quaranta.
 8. **Santi Passanisi** — Dirigente e presidente del Club Calcio Catania nel dopoguerra.
 9. **Ignazio Marcoccio** — Storico presidente dell'era d'oro degli anni Sessanta e commissario straordinario.
-10. **Carmelo Di Bella** — L'allenatore più presente nella storia rossazzurra (Serie A 1960-1966).
+10. **[[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]** — L'allenatore più presente nella storia rossazzurra (Serie A 1960-1966).
 11. **Gino Borgo** — Portiere e idolo della rinascita post-bellica del 1946.
-12. **Armando Perrone** — Terzino metodico e rigoroso del primo dopoguerra.
-13. **Nicola Fusco** — Difensore di ferro della Serie A 1954-1955.
-14. **Michele Manenti** — Ala scattante e autore di reti storiche contro le grandi del Nord.
-15. **Karl Aage Hansen** — Fuoriclasse danese della Serie A 1954-1955.
-16. **Enzo Bearzot** — Mediano metodista nel Catania 1951-1954, futuro C.T. Campione del Mondo 1982.
+12. **[[03-tesserati/calciatori/archivio/a-c/armando-perrone|Armando Perrone]]** — Terzino metodico e rigoroso del primo dopoguerra.
+13. **[[03-tesserati/calciatori/archivio/m-o/nicola-fusco|Nicola Fusco]]** — Difensore di ferro della Serie A [[02-cronistoria/stagioni/1954-1955|1954-1955]].
+14. **[[03-tesserati/calciatori/archivio/m-o/michele-manenti|Michele Manenti]]** — Ala scattante e autore di reti storiche contro le grandi del Nord.
+15. **[[03-tesserati/calciatori/archivio/g-l/karl-aage-hansen|Karl Aage Hansen]]** — Fuoriclasse danese della Serie A 1954-1955.
+16. **[[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]]** — Mediano metodista nel Catania 1951-1954, futuro C.T. Campione del Mondo 1982.
 17. **Sebastiano Buzzin** — Mezzala di classe del Catania di Di Bella.
-18. **Adelmo Prenna** — Capitano e bomber principe della prima epoca d'oro in Serie A.
-19. **Alvaro Biagini** — Regista illuminato del *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* (1961).
-20. **Amilcare Ferretti** — Mastino di centrocampo della massima serie anni Sessanta.
-21. **Giorgio Michelotti** — Terzino capitano e colonna inamovibile per un decennio.
+18. **[[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]]** — Capitano e bomber principe della prima epoca d'oro in Serie A.
+19. **[[03-tesserati/calciatori/archivio/a-c/alvaro-biagini|Alvaro Biagini]]** — Regista illuminato del *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* (1961).
+20. **[[03-tesserati/calciatori/archivio/a-c/amilcare-ferretti|Amilcare Ferretti]]** — Mastino di centrocampo della massima serie anni Sessanta.
+21. **[[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]]** — Terzino capitano e colonna inamovibile per un decennio.
 22. **Salvatore Calvanese** — Ala argentina, match winner contro l'Inter di Herrera nel 1961.
-23. **Horst Szymaniak** — Campione del mondo tedesco, fuoriclasse del centrocampo rossazzurro.
+23. **[[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]]** — Campione del mondo tedesco, fuoriclasse del centrocampo rossazzurro.
 24. **Cinesinho** — Virtuoso fantasista brasiliano, idolo incontrastato della platea etnea.
 25. **Angelo Massimino** — Il *Presidentissimo*, 27 anni alla guida del club, costruttore di epopee eterne.
-26. **Guido Mazzetti** — Il *Sor Guido*, demiurgo tattico delle promozioni del 1970 e 1975.
-27. **Aquilino Bonfanti** — Capocannoniere della Serie B 1969-1970 con 13 reti.
+26. **[[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]]** — Il *Sor Guido*, demiurgo tattico delle promozioni del 1970 e 1975.
+27. **[[03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti|Aquilino Bonfanti]]** — Capocannoniere della Serie B [[02-cronistoria/stagioni/1969-1970|1969-1970]] con 13 reti.
 28. **Rino Rado** — Portiere dell'imbattibilità casalinga e della Serie A 1970.
-29. **Damiano Morra** — Recordman assoluto di presenze nella storia del Catania (320 partite).
-30. **Angelo Pereni** — Centrocampista e capitano di esemplare lealtà sportiva.
-31. **Zelico Petrovic** — Mediano generoso ed energico degli anni Settanta.
-32. **Adelchi Malaman** — Ala micidiale, protagonista di memorabili campionati tra B e C.
-33. **Claudio Ciceri** — Centravanti d'area e beniamino della curva negli anni Settanta.
-34. **Gianni Di Marzio** — L'allenatore della trionfale cavalcata agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma 1983]].
-35. **Angelo Crialesi** — Autore del gol decisivo all'Olimpico contro il Como nello spareggio promozione 1983.
-36. **Ennio Mastalli** — Metronomo di centrocampo della cavalcata trionfale 1982-1983.
-37. **Roberto Sorrentino** — Portiere e capitano carismatico della Serie A 1983-1984.
-38. **Loriano Cipriani** — Terzino di spinta e capitano indomito degli anni Ottanta.
+29. **[[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]]** — Recordman assoluto di presenze nella storia del Catania (320 partite).
+30. **[[03-tesserati/calciatori/storici/angelo-pereni|Angelo Pereni]]** — Centrocampista e capitano di esemplare lealtà sportiva.
+31. **[[03-tesserati/calciatori/archivio/s-z/zelico-petrovic|Zelico Petrovic]]** — Mediano generoso ed energico degli anni Settanta.
+32. **[[03-tesserati/calciatori/archivio/a-c/adelchi-malaman|Adelchi Malaman]]** — Ala micidiale, protagonista di memorabili campionati tra B e C.
+33. **[[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]]** — Centravanti d'area e beniamino della curva negli anni Settanta.
+34. **[[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]** — L'allenatore della trionfale cavalcata agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma 1983]].
+35. **[[03-tesserati/calciatori/archivio/a-c/angelo-crialesi|Angelo Crialesi]]** — Autore del gol decisivo all'Olimpico contro il Como nello spareggio promozione 1983.
+36. **[[03-tesserati/calciatori/archivio/d-f/ennio-mastalli|Ennio Mastalli]]** — Metronomo di centrocampo della cavalcata trionfale [[02-cronistoria/stagioni/1982-1983|1982-1983]].
+37. **[[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]]** — Portiere e capitano carismatico della Serie A [[02-cronistoria/stagioni/1983-1984|1983-1984]].
+38. **[[03-tesserati/calciatori/archivio/g-l/loriano-cipriani|Loriano Cipriani]]** — Terzino di spinta e capitano indomito degli anni Ottanta.
 39. **Franco Ghiandi** — Storico massaggiatore, memoria vivente degli spogliatoi per decenni.
 40. **Ciccio Famoso** — *Il Patriarca*, pioniere e fondatore della Falange d'Assalto (1979) e della Curva Nord.
-41. **Giuseppe Vavassori** — Portiere e maestro di stile della Serie A anni Sessanta.
-42. **Vincenzo Del Vecchio** — Attaccante generoso degli anni Cinquanta.
-43. **Gionatha Spinesi** — *Il Gabbiano*, 49 reti tra Serie B e Serie A nell'era Marino.
-44. **Giuseppe Mascara** — *Topolinik*, capitano eterno, autore del gol da centrocampo nel derby di Palermo.
-45. **Marco Biagianti** — Bandiera moderna, recordman di presenze nell'era contemporanea (284 gare).
-46. **Mariano Izco** — Recordman di presenze straniere in Serie A con il Catania (280 gare).
-47. **Gonzalo Bergessio** — *El Toro*, miglior marcatore rossazzurro nella storia della Serie A moderna (35 gol).
-48. **Francesco Lodi** — Il *Mago dei Calci Piazzati*, regista e capitano dalla Serie A alla rinascita in Serie D.
-49. **Gigi Datome / Orazio Russo** — Figure bandiera del vivaio locale e dell'identità catanese.
+41. **[[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]]** — Portiere e maestro di stile della Serie A anni Sessanta.
+42. **[[03-tesserati/calciatori/archivio/s-z/vincenzo-del-vecchio|Vincenzo Del Vecchio]]** — Attaccante generoso degli anni Cinquanta.
+43. **[[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]]** — *Il Gabbiano*, 49 reti tra Serie B e Serie A nell'era Marino.
+44. **[[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]]** — *Topolinik*, capitano eterno, autore del gol da centrocampo nel derby di Palermo.
+45. **[[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]]** — Bandiera moderna, recordman di presenze nell'era contemporanea (284 gare).
+46. **[[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]]** — Recordman di presenze straniere in Serie A con il Catania (280 gare).
+47. **[[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]]** — *El Toro*, miglior marcatore rossazzurro nella storia della Serie A moderna (35 gol).
+48. **[[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]** — Il *Mago dei Calci Piazzati*, regista e capitano dalla Serie A alla rinascita in Serie D.
+49. **Gigi Datome / [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]]** — Figure bandiera del vivaio locale e dell'identità catanese.
 50. **Stefania Sberna** — *La Voce del Cibali*, indimenticabile speaker ufficiale dello stadio per oltre venticinque anni.
 
 ## Valore Culturale e Impatto Urbano

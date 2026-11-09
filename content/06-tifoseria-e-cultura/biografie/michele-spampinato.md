@@ -48,6 +48,14 @@ Nel 2014, insieme al giornalista e scrittore Luigi Pulvirenti, Spampinato ha dat
 
 ---
 
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
 ## Fonti Certificate
 
 1. **Luigi Pulvirenti, Michele Spampinato**, *Quando saremo tutti nella Nord*, Euno Edizioni / Eclettica, 2014.

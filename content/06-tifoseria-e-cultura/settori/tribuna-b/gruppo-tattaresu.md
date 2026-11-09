@@ -41,7 +41,7 @@ La genesi del gruppo coincise con l'estate drammatica del **1993**, quando la FI
 Pippo Tarraresu fu tra i protagonisti assoluti della mobilitazione cittadina a difesa della matricola 11700:
 * Salì a Roma insieme a [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] per incatenarsi ai cancelli della sede federale di via Allegri.
 * Durante le giornate di blocco stradale e ferroviario a Catania, mantenne compatta la gradinata popolare.
-* Al momento della ripartenza dal Campionato Nazionale Dilettanti nel 1993-1994, fondò formalmente il gruppo in Tribuna B per dare voce alla parte più viscerale dello stadio.
+* Al momento della ripartenza dal Campionato Nazionale Dilettanti nel [[02-cronistoria/stagioni/1993-1994|1993-1994]], fondò formalmente il gruppo in Tribuna B per dare voce alla parte più viscerale dello stadio.
 
 ---
 

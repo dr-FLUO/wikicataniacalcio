@@ -1,13 +1,13 @@
 ---
 title: Matteo Di Gennaro — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Matteo Di Gennaro, difensore del Calcio Catania con 56 presenze
+description: Biografia, presenze e statistiche ufficiali di Matteo Di Gennaro, difensore del Calcio Catania con 58 presenze
   e 4 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/matteo-di-gennaro
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
-total_appearances: 56
+total_appearances: 58
 seasons_count: 3
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 4
 total_assists: 3
-minutes_played: 4943
+minutes_played: 5123
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 177188
 ---
@@ -94,7 +94,7 @@ tm_id: 177188
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>56</td>
+        <td>58</td>
         <th>Goal / Assist</th>
         <td>4 / 3</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 177188
   </table>
 </div>
 
-**Matteo Di Gennaro** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Matteo Di Gennaro** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -112,11 +112,11 @@ tm_id: 177188
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Difensore centrale | 28 | 2 | 2 | 7 | 0 | 2550' |
 | **2025-2026** | Difensore centrale | 21 | 2 | 1 | 6 | 0 | 1837' |
-| **2026-2027** | Difensore centrale | 7 | 0 | 0 | 2 | 0 | 556' |
-| **TOTALE** | — | **56** | **4** | **3** | **15** | **0** | **4943'** |
+| **2026-2027** | Difensore centrale | 9 | 0 | 0 | 3 | 0 | 736' |
+| **TOTALE** | — | **58** | **4** | **3** | **16** | **0** | **5123'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **56 presenze ufficiali**, disputando **4943 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **58 presenze ufficiali**, disputando **5123 minuti** di gioco effettivo, siglando **4 gol** e servendo **3 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -127,10 +127,10 @@ Nato a Sant'Elpidio a Mare (FM), Italia nel 1994, il difensore **Matteo Di Genna
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

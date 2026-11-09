@@ -63,7 +63,7 @@ image_credits:
 L'identità visiva, cromatica e araldica del **Calcio Catania** rappresenta un unicum nel panorama calcistico europeo: sin dall'estate del **1929**, si fonda sul binomio inscindibile tra i colori della natura etnea (**rosso magma e azzurro mare**) e l'effigie dell'elefante scolpito in pietra lavica di Piazza Duomo, universalmente venerato dal popolo con il nome di ***"u Liotru"*** (corruzione del nome del negromante bizantino Eliodoro) e millenario simbolo civico cittadino.
 
 > [!abstract] Il Significato Ufficiale dei Colori Sociali (Giugno 1929)
-> All'atto della fondazione della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] (24–28 giugno 1929), il primo statuto societario redatto da Santi Quasimodo e dal presidente [[01-societa/presidenti/vespasiano-trigona-di-misterbianco|Vespasiano Trigona duca di Misterbianco]] codificò il significato poetico ed ecologico della cromia:
+> All'atto della fondazione della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] (24–28 giugno 1929), il primo statuto societario redatto da Santi Quasimodo e dal presidente [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona duca di Misterbianco]] codificò il significato poetico ed ecologico della cromia:
 > - **Il Rosso (#d11317):** *"il rosso del fuoco e del magma incandescente del vulcano Etna"*;
 > - **L'Azzurro (#0cb2d9):** *"l'azzurro limpido del cielo e delle acque profonde del Golfo e del Mar Jonio"*;
 > - **Il Nero e l'Oro (#191919 e #d29933):** il basalto lavico dell'elefante (*u Liotru*) e le bordature araldiche dello scudo civico e del culto patronale di Sant'Agata.

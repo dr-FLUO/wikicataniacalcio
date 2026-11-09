@@ -16,7 +16,7 @@ catania_periods:
 - 1933-1936
 - 1941-1942
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania]]'
 image: assets/images/allenatori/geza-kertesz.jpg
 image_credits:
 - image_path: assets/images/allenatori/geza-kertesz.jpg
@@ -94,24 +94,24 @@ aliases:
   </table>
 </div>
 
-**Géza Kertész** (Budapest, 18 novembre 1894 – Budapest, 6 febbraio 1945) è stato un calciatore, allenatore di calcio e partigiano ungherese. Maestro della celebre scuola danubiana, è passato alla storia del [[societa/1929-ss-catania|calcio catanese]] per aver condotto la **Società Sportiva Catania** alla **prima storica promozione in Serie B nella [[stagioni/1933-1934|Stagione 1933-1934]]** (tornando poi in panchina nel 1941-1942) e alla storia universale del Novecento come **eroe e martire della Resistenza antinazista in Ungheria**, fucilato nel Castello di Buda dopo aver salvato decine di cittadini ebrei e perseguitati dalla deportazione nei campi di sterminio.
+**Géza Kertész** (Budapest, 18 novembre 1894 – Budapest, 6 febbraio 1945) è stato un calciatore, allenatore di calcio e partigiano ungherese. Maestro della celebre scuola danubiana, è passato alla storia del [[01-societa/epoche/1929-ss-catania|calcio catanese]] per aver condotto la **Società Sportiva Catania** alla **prima storica promozione in Serie B nella [[02-cronistoria/stagioni/1933-1934|Stagione 1933-1934]]** (tornando poi in panchina nel [[02-cronistoria/stagioni/1941-1942|1941-1942]]) e alla storia universale del Novecento come **eroe e martire della Resistenza antinazista in Ungheria**, fucilato nel Castello di Buda dopo aver salvato decine di cittadini ebrei e perseguitati dalla deportazione nei campi di sterminio.
 
 > [!abstract] Sintesi Storica e Civile
-> - **Cicli sulla Panchina del Catania:** 1933–1936 (Prima Divisione e Serie B con la [[societa/1929-ss-catania|SS Catania]]) e 1941–1942 (Serie C con l'[[societa/1929-ss-catania|AFC Catania]]).
-> - **Traguardi Sportivi:** Vincitore del Girone H e del Girone Finale A di Prima Divisione nella [[stagioni/1933-1934|Stagione 1933-1934]] (**1ª promozione in Serie B** della storia rossazzurra); **4º posto nel Girone A di Serie B 1934-1935**.
-> - **Memoria Civile:** Soprannominato lo *"Schindler di Catania"*, a lui il Comune di Catania ha intitolato una via cittadina nel quartiere Cibali a pochi passi dallo [[stadio/angelo-massimino|Stadio Angelo Massimino]].
+> - **Cicli sulla Panchina del Catania:** 1933–1936 (Prima Divisione e Serie B con la [[01-societa/epoche/1929-ss-catania|SS Catania]]) e 1941–1942 (Serie C con l'[[01-societa/epoche/1929-ss-catania|AFC Catania]]).
+> - **Traguardi Sportivi:** Vincitore del Girone H e del Girone Finale A di Prima Divisione nella [[02-cronistoria/stagioni/1933-1934|Stagione 1933-1934]] (**1ª promozione in Serie B** della storia rossazzurra); **4º posto nel Girone A di Serie B [[02-cronistoria/stagioni/1934-1935|1934-1935]]**.
+> - **Memoria Civile:** Soprannominato lo *"Schindler di Catania"*, a lui il Comune di Catania ha intitolato una via cittadina nel quartiere Cibali a pochi passi dallo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
 ## La Rivoluzione Danubiana a Piazza Esposizione e la Prima Serie B (1933–1936)
 
-Ex centrocampista del Ferencváros e della Nazionale ungherese, giunto in Italia a metà degli anni Venti per allenare Spezia, Carrarese, Catanzaro e Salernitana, Géza Kertész viene ingaggiato nell'estate del **1933** dalla [[societa/1929-ss-catania|Società Sportiva Catania]] sotto la presidenza del nobile [[societa/presidenti/vespasiano-trigona|Vespasiano Trigona, Duca di Misterbianco]].
+Ex centrocampista del Ferencváros e della Nazionale ungherese, giunto in Italia a metà degli anni Venti per allenare Spezia, Carrarese, Catanzaro e Salernitana, Géza Kertész viene ingaggiato nell'estate del **1933** dalla [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] sotto la presidenza del nobile [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona, Duca di Misterbianco]].
 
-Sul terreno del [[04-strutture/campi-storici/index|Campo di Piazza Esposizione]], il tecnico magiaro introduce metodologie d'allenamento moderne, il gioco palla a terra basato sul *passing game* danubiano e una ferrea disciplina atletica. Trascinata dalle 18 reti del giovane bomber [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], da Ercole Bodini e da Renato Bianzino, nella [[stagioni/1933-1934|Stagione 1933-1934]] la squadra domina il Girone H di Prima Divisione (41 punti in 26 gare) e trionfa nel successivo **girone finale promozione** superando Savona, Biellese e Reggiana: il **1º luglio 1934** il Catania conquista la **prima promozione in Serie B della sua storia**, diventando la prima compagine siciliana dopo il Palermo a raggiungere la cadetteria.
+Sul terreno del [[04-strutture/campi-storici/index|Campo di Piazza Esposizione]], il tecnico magiaro introduce metodologie d'allenamento moderne, il gioco palla a terra basato sul *passing game* danubiano e una ferrea disciplina atletica. Trascinata dalle 18 reti del giovane bomber [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], da [[03-tesserati/calciatori/archivio/d-f/ercole-bodini|Ercole Bodini]] e da Renato Bianzino, nella [[02-cronistoria/stagioni/1933-1934|Stagione 1933-1934]] la squadra domina il Girone H di Prima Divisione (41 punti in 26 gare) e trionfa nel successivo **girone finale promozione** superando Savona, Biellese e Reggiana: il **1º luglio 1934** il Catania conquista la **prima promozione in Serie B della sua storia**, diventando la prima compagine siciliana dopo il Palermo a raggiungere la cadetteria.
 
-Confermato in Serie B per il biennio 1934–1936, Kertész guida gli etnei a un brillante **4º posto nel Girone A della Serie B 1934-1935** (a ridosso della promozione in Serie A) e a un **8º posto nel torneo cadetto a girone unico 1935-1936**, valorizzando talenti come Amedeo Biavati (futuro campione del mondo con l'Italia nel 1938) e lo stesso [[tesserati/calciatori/nicolo-nicolosi|Nicolosi]].
+Confermato in Serie B per il biennio 1934–1936, Kertész guida gli etnei a un brillante **4º posto nel Girone A della Serie B 1934-1935** (a ridosso della promozione in Serie A) e a un **8º posto nel torneo cadetto a girone unico [[02-cronistoria/stagioni/1935-1936|1935-1936]]**, valorizzando talenti come [[03-tesserati/calciatori/storici/amedeo-biavati|Amedeo Biavati]] (futuro campione del mondo con l'Italia nel 1938) e lo stesso [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolosi]].
 
 ## Il Ritorno al Cibali (1941–1942) e il Sacrificio nella Resistenza a Budapest (1944–1945)
 
-Dopo aver allenato in Serie A e B Taranto, Atalanta e Lazio, nel **1941-1942** Kertész accetta di tornare a Catania — benché in **Serie C** — per il legame viscerale maturato con la città, guidando l'[[societa/1929-ss-catania|AFC Catania]] nel nuovo [[stadio/angelo-massimino|Stadio Cibali]] al 6º posto nel Girone H prima di passare alla Roma nel 1942-43.
+Dopo aver allenato in Serie A e B Taranto, Atalanta e Lazio, nel **1941-1942** Kertész accetta di tornare a Catania — benché in **Serie C** — per il legame viscerale maturato con la città, guidando l'[[01-societa/epoche/1929-ss-catania|AFC Catania]] nel nuovo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] al 6º posto nel Girone H prima di passare alla Roma nel 1942-43.
 
 Richiamato a Budapest nel **1943** a causa degli sviluppi bellici, dopo l'occupazione nazista dell'Ungheria (marzo 1944) e la presa del potere delle Croci Frecciate filonaziste, Kertész rifiuta ogni compromesso col regime. Insieme all'amico fraterno ed ex compagno di squadra **István Tóth** (ex allenatore di Triestina e Inter), fonda l'organizzazione clandestina antifascista **_Dallam_ ("Melodia")**: sfruttando la perfetta conoscenza della lingua tedesca e indossando un'uniforme della Wehrmacht, preleva con falsi ordini di servizio decine di famiglie ebree e oppositori politici dai ghetti di Budapest, nascondendoli anche nella propria abitazione e fornendo loro documenti falsi per sottrarli ai treni diretti ad Auschwitz.
 
@@ -121,10 +121,10 @@ Tradito da un delatore, viene arrestato dalla Gestapo il **6 dicembre 1944**, br
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | Gare Camp. (+Fin.) | V | N | P | Note Storiche |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **[[stagioni/1933-1934\|1933-1934]]** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Prima Divisione (III) | **1º posto Gir. H e Gir. Finale A — Promosso in Serie B** | 26 (+6 fin.) | 22 | 5 | 5 | Prima storica promozione in Serie B ([[tesserati/calciatori/nicolo-nicolosi\|Nicolosi]] 18 gol). |
-| **1934-1935** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B (Gir. A) | **4º posto** (37 punti) | 29 | 16 | 5 | 8 | Miglior piazzamento cadetto pre-bellico. |
-| **1935-1936** | [[societa/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B | **8º posto** (33 punti) + Ottavi Coppa Italia | 34 (+3 CI) | 16 | 5 | 13 | Serie B a girone unico a 18 squadre. |
-| **1941-1942** | [[societa/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie C (Gir. H) | **6º posto** (29 punti) | 24 | 12 | 5 | 7 | Ritorno al [[stadio/angelo-massimino\|Cibali]] in tempo di guerra. |
+| **[[02-cronistoria/stagioni/1933-1934\|1933-1934]]** | [[01-societa/epoche/1929-ss-catania\|SS Catania]] (Pre-1946) | Prima Divisione (III) | **1º posto Gir. H e Gir. Finale A — Promosso in Serie B** | 26 (+6 fin.) | 22 | 5 | 5 | Prima storica promozione in Serie B ([[03-tesserati/calciatori/storici/nicolo-nicolosi\|Nicolosi]] 18 gol). |
+| **1934-1935** | [[01-societa/epoche/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B (Gir. A) | **4º posto** (37 punti) | 29 | 16 | 5 | 8 | Miglior piazzamento cadetto pre-bellico. |
+| **1935-1936** | [[01-societa/epoche/1929-ss-catania\|SS Catania]] (Pre-1946) | Serie B | **8º posto** (33 punti) + Ottavi Coppa Italia | 34 (+3 CI) | 16 | 5 | 13 | Serie B a girone unico a 18 squadre. |
+| **1941-1942** | [[01-societa/epoche/1929-ss-catania\|AFC Catania]] (Pre-1946) | Serie C (Gir. H) | **6º posto** (29 punti) | 24 | 12 | 5 | 7 | Ritorno al [[04-strutture/stadio-massimino/angelo-massimino\|Cibali]] in tempo di guerra. |
 
 ## Fonti e Bibliografia
 

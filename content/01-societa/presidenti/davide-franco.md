@@ -5,7 +5,7 @@ slug: "01-societa/presidenti/davide-franco"
 entity_type: "dirigente"
 date_start: 2016-04-19
 date_end: 2020-03-18
-club_entity: "[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]"
+club_entity: "[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]]"
 figc_matricola: "11700"
 tags:
   - davide-franco
@@ -31,7 +31,7 @@ aliases:
 ---
 # Davide Franco (Presidente CDA Calcio Catania S.p.A.)
 
-**Davide Franco** (Roma, 1964) è un dirigente d'azienda e commercialista italiano, **presidente del Consiglio di Amministrazione del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] dal 19 aprile 2016 al 18 marzo 2020**.
+**Davide Franco** (Roma, 1964) è un dirigente d'azienda e commercialista italiano, **presidente del Consiglio di Amministrazione del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] dal 19 aprile 2016 al 18 marzo 2020**.
 
 > [!abstract] La Presidenza nel Post-Treni del Gol e il Rientro di Lo Monaco
 > Nominato alla presidenza della società etnea nella primavera del 2016 dalla controllante Finaria a seguito della retrocessione d'ufficio e dell'interdizione dei vertici societari per l'inchiesta *Treni del Gol*, Davide Franco ha rappresentato la figura istituzionale e legale al vertice del club. In tandem con l'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], ha gestito quattro campionati di Serie C e i relativi playoff promozione.
@@ -41,9 +41,9 @@ aliases:
 ## 1. Il Quadriennio alla Guida del CDA (2016–2020)
 
 Durante la sua gestione al vertice del CDA:
-* **Stagione 2016-2017:** Salvezza e accesso ai playoff di Lega Pro con i tecnici Pino Rigoli e Mario Petrone.
-* **Stagione 2017-2018:** 2º posto nel Girone C di Serie C (70 punti con mister Cristiano Lucarelli) e semifinale playoff nazionale contro il Siena, conclusa ai rigori allo [[stadio/angelo-massimino|Stadio Massimino]].
-* **Stagione 2018-2019:** 4º posto e semifinale playoff nazionale con Walter Novellino e Andrea Sottil.
+* **Stagione [[02-cronistoria/stagioni/2016-2017|2016-2017]]:** Salvezza e accesso ai playoff di Lega Pro con i tecnici Pino Rigoli e [[03-tesserati/allenatori/mario-petrone|Mario Petrone]].
+* **Stagione [[02-cronistoria/stagioni/2017-2018|2017-2018]]:** 2º posto nel Girone C di Serie C (70 punti con mister Cristiano Lucarelli) e semifinale playoff nazionale contro il Siena, conclusa ai rigori allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Massimino]].
+* **Stagione [[02-cronistoria/stagioni/2018-2019|2018-2019]]:** 4º posto e semifinale playoff nazionale con Walter Novellino e [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]].
 * Nel **marzo 2020**, Franco ha rassegnato le dimissioni alla vigilia della procedura competitiva che ha portato la società verso la cordata SIGI.
 
 ---
@@ -52,10 +52,10 @@ Durante la sua gestione al vertice del CDA:
 
 | Stagione | Categoria | Allenatori | Risultato Sportivo |
 | :--- | :--- | :--- | :--- |
-| **2016–2017** | Lega Pro (Gir. C) | [[tesserati/allenatori/giuseppe-rigoli\|Giuseppe Rigoli]], Mario Petrone, Giovanni Pulvirenti | 11º posto (Primo turno playoff) |
-| **2017–2018** | Serie C (Gir. C) | [[tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | 2º posto (Semifinale playoff nazionale) |
-| **2018–2019** | Serie C (Gir. C) | Andrea Sottil, [[tesserati/allenatori/walter-novellino\|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
-| **2019–2020** | Serie C (Gir. C) | Andrea Camplone, [[tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
+| **2016–2017** | Lega Pro (Gir. C) | [[03-tesserati/allenatori/giuseppe-rigoli\|Giuseppe Rigoli]], Mario Petrone, [[03-tesserati/allenatori/giovanni-pulvirenti\|Giovanni Pulvirenti]] | 11º posto (Primo turno playoff) |
+| **2017–2018** | Serie C (Gir. C) | [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | 2º posto (Semifinale playoff nazionale) |
+| **2018–2019** | Serie C (Gir. C) | Andrea Sottil, [[03-tesserati/allenatori/walter-novellino\|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
+| **2019–2020** | Serie C (Gir. C) | [[03-tesserati/allenatori/andrea-camplone\|Andrea Camplone]], [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
 
 ---
 

@@ -51,7 +51,7 @@ Il fulcro produttivo del progetto negli anni Venti e fino alla stagione 2026/202
 
 Accanto alla rassegna mattutina, il talk show settimanale ***Pianeta Catania Calcionate TV*** approfondisce il post-partita domenicale e le dinamiche di calciomercato:
 
-* **Ospiti e Inchieste**: La trasmissione ha ospitato storiche firme del giornalismo d'inchiesta come l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], conducendo rigorosi approfondimenti legali e finanziari nei momenti più bui del club (dal fallimento del 2021-2022 fino al monitoraggio del budget e dei bilanci societari del Catania FC nel 2026).
+* **Ospiti e Inchieste**: La trasmissione ha ospitato storiche firme del giornalismo d'inchiesta come l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], conducendo rigorosi approfondimenti legali e finanziari nei momenti più bui del club (dal fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]] fino al monitoraggio del budget e dei bilanci societari del Catania FC nel 2026).
 * **Indipendenza Editoriale**: Mantenendo un profilo di assoluta indipendenza dalla società sportiva, *Pianeta Catania* è divenuto un autentico organo di vigilanza civica e critica per la tifoseria rossazzurra.
 
 ---

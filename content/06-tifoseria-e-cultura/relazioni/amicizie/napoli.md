@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1980
 origin_district: "Catania e Napoli"
 stadium_sector: "Curva Nord, Curva Sud e Curve Partenopee"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Diego Armando Maradona"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Diego Armando Maradona"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -50,6 +50,14 @@ Nata sul finire degli anni Ottanta, l'alleanza tra etnei e partenopei ha profond
 ## 2. L'Asse Internazionale con Dortmund
 
 Il legame si è proiettato anche sulla scena europea: gli ultras della Curva A e Curva B di Napoli hanno condiviso con gli etnei la solida amicizia con la *Südtribüne* del [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]] (*Desperados 1999*), dando vita a una triangolazione ultras Napoli-Catania-Dortmund che ha fatto scuola nel panorama del tifo continentale.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

@@ -44,7 +44,7 @@ Insieme a Carmelo Gennaro ha dato alle stampe nel **1958** la prima grande opera
 
 Attivo fin dagli anni Trenta, Prestinenza ha vissuto e documentato tutte le fasi cruciali del calcio a Catania:
 * Ha assistito alla nascita della *SS Catania* nel 1929, alle gare del vecchio Campo di Piazza Verga e all'inaugurazione del Cibali nel 1937.
-* Nel dopoguerra ha partecipato alla ricostruzione del *Club Calcio Catania* nel 1946 e ha immortalato sulle colonne de *La Sicilia* la prima storica promozione in massima serie del 1954 sotto la presidenza di Santi Maimone e la guida tecnica di Piero Andreoli.
+* Nel dopoguerra ha partecipato alla ricostruzione del *Club Calcio Catania* nel 1946 e ha immortalato sulle colonne de *La Sicilia* la prima storica promozione in massima serie del 1954 sotto la presidenza di [[01-societa/presidenti/santi-maimone|Santi Maimone]] e la guida tecnica di [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]].
 
 ---
 

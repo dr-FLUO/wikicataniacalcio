@@ -17,7 +17,7 @@ league_appearances: 52
 total_goals: 14
 league_goals: 19
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
 tags:
 - calciatori
 - attaccanti
@@ -116,7 +116,7 @@ tm_id: 159337
 
 **Roberto Inglese** (Lucera, 12 novembre 1991) è un calciatore italiano, nel ruolo di centravanti. Giunto a Catania nell'agosto **2024** dopo una prestigiosa carriera in Serie A con ChievoVerona, Parma e Napoli (con quasi 40 reti nella massima serie italiana), è stato il grande colpo di mercato dell'era Pelligra voluto dal tecnico Domenico Toscano e dal ds Daniele Faggiano.
 
-Attaccante elegante, forte nel gioco aereo, formidabile nel gioco di sponda per i compagni e letale in area, Inglese si è imposto come il trascinatore assoluto del Catania nella [[stagioni/2024-2025|Stagione 2024-2025]] (11 reti in campionato) e nella successiva [[stagioni/2025-2026|Stagione 2025-2026]], garantendo leadership e carisma da categoria superiore.
+Attaccante elegante, forte nel gioco aereo, formidabile nel gioco di sponda per i compagni e letale in area, Inglese si è imposto come il trascinatore assoluto del Catania nella [[02-cronistoria/stagioni/2024-2025|Stagione 2024-2025]] (11 reti in campionato) e nella successiva [[02-cronistoria/stagioni/2025-2026|Stagione 2025-2026]], garantendo leadership e carisma da categoria superiore.
 
 > [!abstract] La Classe Superiore della Serie A al Massimino
 > - **Leader Offensivo dell'Era Pelligra:** Acquistato nell'estate 2024 come colpo da novanta per la scalata in Serie B.

@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 2022-2023
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club (2022-Oggi)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD / Catania Football Club (2022-Oggi)]]'
 image: assets/images/allenatori/giovanni-ferraro.jpg
 image_credits:
 - image_path: assets/images/allenatori/giovanni-ferraro.jpg
@@ -116,7 +116,16 @@ Ha conquistato la promozione matematica in Serie C con ben sei giornate d'antici
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2022-2023\|2022-2023]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2022-2023\|2022-2023]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

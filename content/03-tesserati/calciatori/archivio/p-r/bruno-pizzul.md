@@ -86,10 +86,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Bruno Pizzul** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Bruno Pizzul** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
 Celebre telecronista Rai e precedentemente calciatore professionista. Mediano metodista elegante ed energico, milita nel Club Calcio Catania nella Serie B 1958-1959 collezionando 26 presenze e 1 rete, prima che un grave infortunio al ginocchio ne interrompa prematuramente la promettente carriera agonistica sul campo.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1958-1959, totalizzando **26 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Bruno Pizzul*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Bruno_Pizzul).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -20,7 +20,7 @@ total_goals: 1
 league_goals: 1
 serie_a_goals: 1
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - difensori
@@ -114,7 +114,7 @@ tm_id: 169654
   </table>
 </div>
 
-**Claudio Ranieri** (Roma, 20 ottobre 1951) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di terzino e difensore centrale. Giunto a Catania nell'estate del **1982** dopo una lunga e prestigiosa militanza nel Catanzaro in Serie A, ha rappresentato il leader carismatico, il capitano e il punto di riferimento morale della retroguardia etnea guidata da [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], artefice della promozione in Serie A nella [[stagioni/1982-1983|Stagione 1982-1983]].
+**Claudio Ranieri** (Roma, 20 ottobre 1951) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di terzino e difensore centrale. Giunto a Catania nell'estate del **1982** dopo una lunga e prestigiosa militanza nel Catanzaro in Serie A, ha rappresentato il leader carismatico, il capitano e il punto di riferimento morale della retroguardia etnea guidata da [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], artefice della promozione in Serie A nella [[02-cronistoria/stagioni/1982-1983|Stagione 1982-1983]].
 
 > [!abstract] La Colonna Difensiva della Serie A 1983
 > - **Ruolo Tattico:** Terzino metodico e difensore d'esperienza, capace di guidare con fermezza i compagni di reparto Roberto Sorrentino, Giorgio Mastropasqua e Pier Giuseppe Mosti.

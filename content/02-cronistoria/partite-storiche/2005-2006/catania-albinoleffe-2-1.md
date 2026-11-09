@@ -6,15 +6,15 @@ description: 'Tabellino e cronaca di Catania-AlbinoLeffe 2-1 del 28 maggio 2006 
 slug: 02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1
 entity_type: tabellino_gara
 match_date: '2006-05-28'
-season_ref: '[[stagioni/2005-2006|Stagione 2005-2006]]'
+season_ref: '[[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]]'
 competition: Serie B
 matchday: 42ª Giornata
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 attendance: 23000
 referee: Tiziano Pieri (Lucca)
-home_team: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]'
+home_team: '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]]'
 away_team: Unione Calcio AlbinoLeffe
-home_coach: '[[tesserati/allenatori/pasquale-marino|Pasquale Marino]]'
+home_coach: '[[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]'
 away_coach: Emiliano Mondonico
 score_home: 2
 score_away: 1
@@ -64,10 +64,10 @@ aliases:
 ---
 # Catania - AlbinoLeffe 2-1 (28 Maggio 2006)
 
-Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B 2005-2006, rappresenta una delle pagine più gloriose della storia contemporanea del club etneo, sancendo la **promozione in Serie A dopo ventidue anni di attesa** (dalla stagione 1983-1984).
+Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B 2005-2006, rappresenta una delle pagine più gloriose della storia contemporanea del club etneo, sancendo la **promozione in Serie A dopo ventidue anni di attesa** (dalla stagione 1983-1984).
 
 > [!abstract] La Partita della Liberazione e il Gol di Del Core
-> Davanti a oltre 23.000 spettatori che gremivano ogni ordine di posto al Massimino, il Catania di [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] conquistò i tre punti decisivi per il 2º posto finale (78 punti) e la promozione diretta: al vantaggio iniziale di Gionatha Spinesi (15') rispose al 41' il pareggio seriano di Cellini, prima del memorabile pallonetto vincente di **Umberto Del Core al 54'** che scatenò una festa incontenibile in tutta la città.
+> Davanti a oltre 23.000 spettatori che gremivano ogni ordine di posto al Massimino, il Catania di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] conquistò i tre punti decisivi per il 2º posto finale (78 punti) e la promozione diretta: al vantaggio iniziale di [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] (15') rispose al 41' il pareggio seriano di Cellini, prima del memorabile pallonetto vincente di **[[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]] al 54'** che scatenò una festa incontenibile in tutta la città.
 
 ---
 
@@ -77,7 +77,7 @@ Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** al
 | :--- | :--- |
 | **Competizione** | Serie B 2005-2006 (42ª Giornata) |
 | **Data e Ora** | Domenica 28 maggio 2006, ore 15:00 |
-| **Stadio** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania |
+| **Stadio** | [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Angelo Massimino]], Catania |
 | **Spettatori** | 23.000 (Tutto esaurito) |
 | **Arbitro** | Tiziano Pieri (Lucca) |
 | **Marcatori** | 15' Spinesi (C), 41' Cellini (A), 54' Del Core (C) |
@@ -86,7 +86,7 @@ Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** al
 
 ## Formazioni in Campo
 
-* **Calcio Catania (4-3-3):** Pantanelli; Silvestri, Sottil, César, Lucenti; Baiocco, Biso, Caserta; Mascara (85' De Zerbi), Spinesi, Del Core (78' O. Russo). All.: [[tesserati/allenatori/pasquale-marino|Pasquale Marino]].
+* **Calcio Catania (4-3-3):** Pantanelli; Silvestri, Sottil, César, Lucenti; Baiocco, Biso, Caserta; Mascara (85' De Zerbi), Spinesi, Del Core (78' O. Russo). All.: [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]].
 * **U.C. AlbinoLeffe (4-4-2):** Ginestra; Colombo, Teani, Minelli, Regonesi; Gori, Del Prato, Poloni, Testini (62' Joelson); Cellini (70' Bonazzi), Araboni. All.: Emiliano Mondonico.
 
 ---

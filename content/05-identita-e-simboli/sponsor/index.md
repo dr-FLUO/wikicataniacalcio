@@ -9,21 +9,10 @@ last_verified_date: 2026-10-30
 image: assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp
 image_credits:
 - image_path: assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp
-  alt_text: Divisa storica da gioco del Catania con l'iconico sponsor Haribo
+  alt_text: La formazione del Calcio Catania in divisa da trasferta con lo sponsor Haribo
   author_or_archive: Archivio Storico Calcio Catania
   year: 1983
   license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
-- image_path: assets/images/maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp
-  alt_text: Maglia del Calcio Catania con lo sponsor commerciale SP Energia Siciliana
-  author_or_archive: Archivio Fotografico Wiki Catania Calcio
-  year: 2009
-  license_type: Creative Commons CC BY-SA 4.0
-- image_path: assets/images/maglie-e-simboli/sponsor/sponsor-storico-giovi-calcio-catania-anni-1990.webp
-  alt_text: La storica divisa da gioco del Catania con sponsor commerciale negli anni
-    Novanta
-  author_or_archive: Archivio Storico Fotografico Calcio Catania
-  year: 1994
-  license_type: Pubblico Dominio
 tags:
 - sponsor
 - sponsor-tecnici
@@ -84,8 +73,6 @@ aliases:
 
 # Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)
 
-![Divisa storica da gioco del Catania con l'iconico sponsor Haribo](/assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp)
-
 L'evoluzione della **cultura materiale**, del design tessile e delle strategie di sponsorizzazione del **Calcio Catania** riflette fedelmente oltre quarant'anni di trasformazioni industriali, normative ed economiche del calcio italiano. La comparsa dei marchi sulle casacche da gioco è stata scandita da due storiche riforme federali varate a cavallo tra la fine degli anni Settanta e i primi anni Ottanta:
 
 1. **La Delibera FIGC del 1979 (Fornitori Tecnici):** autorizzò per la prima volta l'esposizione del marchio del fabbricante di abbigliamento sportivo (massimo 12 cm² sul petto). Il club etneo passò dai laboratori sartoriali locali al primo accordo industriale con la prestigiosa **NR (Ennerre)** di Nicola Raccuglia nella vittoriosa [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980]].
@@ -108,9 +95,20 @@ Il legame tra il Catania e i suoi partner tecnici ha attraversato diverse ere ma
 
 ---
 
-## 2. Evoluzione Economica degli Sponsor Commerciali di Maglia
 
-![Maglia del Calcio Catania con lo sponsor commerciale SP Energia Siciliana in Serie A](/assets/images/maglie-e-simboli/sponsor/sponsor-sp-energia-siciliana-calcio-catania-serie-a-2006-2012.webp)
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp" data-caption="La formazione del Calcio Catania schierata sul campo con la divisa bianca con lo storico sponsor commerciale HARIBO (Serie A 1983-1984) · Archivio Storico Catania">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/maglie-e-simboli/sponsor/maglia-calcio-catania-sponsor-haribo-serie-a-1983-1984.webp" alt="Maglia Catania con sponsor Haribo 1983-1984" loading="lazy" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">Sponsor Haribo 1983</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Il Mito Haribo (1982–1983)</span>
+    <span class="wiki-inset-photo__meta">Il primo storico main sponsor commerciale sulle maglie del Catania</span>
+  </div>
+</div>
+
+## 2. Evoluzione Economica degli Sponsor Commerciali di Maglia
 
 Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sportive del club:
 
@@ -121,6 +119,10 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 
 ---
 
+
+
+
+<div class="wiki-clearfix"></div>
 ## 3. Matrice Cronologica Integrata Sponsor Tecnici e Commerciali (1979–Oggi)
 
 | Stagioni Agonistiche | Fornitore Tecnico (Kit) | Main Sponsor Ufficiale (Fronte) | Co-Sponsor, Sleeve e Retro | Categoria / Traguardi Storici |
@@ -187,6 +189,6 @@ Al di là dei singoli accordi commerciali, la divisa del Calcio Catania rispetta
 
 * [[05-identita-e-simboli/index|Indice Generale Identità, Simboli e Tradizioni]]
 * [[05-identita-e-simboli/araldica-e-scudetti/index|Araldica, Simbologia e Scudetti Storici]]
-* [[05-identita-e-simboli/araldica-e-scudetti/loghi-storici-liotru|Evoluzione dello Stemma Storico e dei Quattro Loghi Ufficiali]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Evoluzione dello Stemma Storico e dei Quattro Loghi Ufficiali]]
 * [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Simbologia dei Colori Sociali e Genesi Araldica]]
 * [[05-identita-e-simboli/mascotte-e-inni|Mascotte Agatino e Inni Ufficiali del Calcio Catania]]

@@ -5,10 +5,10 @@ description: Biografia, presenze e statistiche ufficiali di Marco Perrotta, dife
 slug: 03-tesserati/calciatori/rosa-attuale/marco-perrotta
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
 current_squad: true
-total_appearances: 9
+total_appearances: 10
 seasons_count: 1
 image: assets/images/calciatori/marco-perrotta.jpg
 image_credits:
@@ -53,9 +53,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 717
+minutes_played: 807
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 171696
 ---
@@ -89,7 +89,7 @@ tm_id: 171696
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>9</td>
+        <td>10</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -97,7 +97,7 @@ tm_id: 171696
   </table>
 </div>
 
-**Marco Perrotta** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Marco Perrotta** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -105,21 +105,21 @@ tm_id: 171696
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Difensore centrale | 9 | 0 | 0 | 1 | 0 | 717' |
-| **TOTALE** | — | **9** | **0** | **0** | **1** | **0** | **717'** |
+| **2026-2027** | Difensore centrale | 10 | 0 | 0 | 1 | 0 | 807' |
+| **TOTALE** | — | **10** | **0** | **0** | **1** | **0** | **807'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **717 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **807 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1985-1986
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/antonio-colomban.jpg
 image_credits:
 - image_path: assets/images/allenatori/antonio-colomban.jpg
@@ -100,13 +100,13 @@ Antonio Colomban, ex ala di Cagliari, Messina e Spal negli anni Cinquanta, guid�
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò al fianco del D.T. Guido Mazzetti cercando di infondere disciplina tattica e rigore atletico in un campionato cadetto estremamente equilibrato.
+Lavorò al fianco del D.T. [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] cercando di infondere disciplina tattica e rigore atletico in un campionato cadetto estremamente equilibrato.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -18,7 +18,7 @@ league_appearances: 130
 total_goals: 33
 league_goals: 28
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -101,12 +101,12 @@ tm_id: 335683
 
 **Carlo Borghi** (Castiglione della Pescaia, 1 gennaio 1958) è un ex calciatore italiano, nel ruolo di ala destra e seconda punta. Acquistato dal presidente Angelo Massimino nel **1979**, divenne rapidamente uno degli idoli incontrastati dello Stadio Cibali per la straordinaria velocità, il dribbling ubriacante e la capacità di finalizzazione.
 
-Protagonista della vittoria del campionato di Serie C1 1979-1980, tornò a vestire il rossazzurro a metà degli anni Ottanta, laureandosi capocannoniere della squadra nella [[stagioni/1985-1986|Stagione 1985-1986]] in Serie B con **10 reti**.
+Protagonista della vittoria del campionato di Serie C1 1979-1980, tornò a vestire il rossazzurro a metà degli anni Ottanta, laureandosi capocannoniere della squadra nella [[02-cronistoria/stagioni/1985-1986|Stagione 1985-1986]] in Serie B con **10 reti**.
 
 > [!abstract] La Freccia della Fascia in Due Decenni
 > - **145 Presenze e 32 Reti:** Protagonista in due distinti cicli rossazzurri (1979-1982 e 1985-1988).
-> - **Eroe della Promozione 1979-1980:** Vincente in Serie C1 con Lino De Petrillo e Angelo Massimino.
-> - **Capocannoniere in Serie B 1985-1986:** 10 reti in 35 gare cadette con Gennaro Rambone.
+> - **Eroe della Promozione 1979-1980:** Vincente in Serie C1 con [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] e Angelo Massimino.
+> - **Capocannoniere in Serie B 1985-1986:** 10 reti in 35 gare cadette con [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]].
 
 ---
 
@@ -114,7 +114,7 @@ Protagonista della vittoria del campionato di Serie C1 1979-1980, tornò a vesti
 
 ### Due Cicli Trionfali al Cibali
 
-Nel primo triennio (1979-1982) formò un tandem irresistibile con Damiano Morra e Marco Piga. Richiamato da Massimino nel 1985, disputò altri tre campionati ad alto livello, raggiungendo il traguardo di 145 presenze e 32 reti prima del trasferimento alla Torres.
+Nel primo triennio (1979-1982) formò un tandem irresistibile con [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] e [[03-tesserati/calciatori/archivio/m-o/marco-piga|Marco Piga]]. Richiamato da Massimino nel 1985, disputò altri tre campionati ad alto livello, raggiungendo il traguardo di 145 presenze e 32 reti prima del trasferimento alla Torres.
 
 ---
 

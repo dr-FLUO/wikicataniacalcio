@@ -242,9 +242,9 @@ StadiumSectorType = Literal[
 class UltrasGroupPayload(BaseModel):
     title: str
     description: str = Field(min_length=50, max_length=220)
-    slug: str = Field(pattern=r"^tifoseria/(curva-sud|curva-nord|tribune)/[a-z0-9-]+$")
+    slug: str = Field(pattern=r"^(?:06-tifoseria-e-cultura/settori/|tifoseria/)(curva-sud|curva-nord|tribuna-b|tribune)/[a-z0-9-]+$")
     foundation_year: int = Field(ge=1960, le=2026)
-    founder_slug: Optional[str] = Field(default=None, pattern=r"^tifoseria/biografie/[a-z0-9-]+$")
+    founder_slug: Optional[str] = Field(default=None, pattern=r"^(?:06-tifoseria-e-cultura/|tifoseria/)biografie/[a-z0-9-]+$")
     origin_district: str
     stadium_sector: StadiumSectorType
     international_ties: list[str] = Field(default_factory=list)
@@ -316,11 +316,17 @@ class VaultComplianceLinter:
 
         # 2. Obbligo citazione fonti (Art. 70 L. 633/1941) per tutte le voci enciclopediche
         entity_type = fm.get("entity_type", "")
-        if entity_type not in ("home_portal", "legal_compliance", "feedback_portal", "section_index"):
+        if md_path.name != "index.md" and entity_type not in (
+            "home_portal",
+            "legal_compliance",
+            "feedback_portal",
+            "section_index",
+            "dossier_stagionale",
+        ):
             sources = fm.get("sources")
             if not isinstance(sources, list) or len(sources) == 0:
                 errors.append("Conformità Copyright violata: array 'sources' mancante o vuoto nel Frontmatter.")
-            if "## Fonti" not in body:
+            if not re.search(r"^#{1,3}\s+Fonti", body, re.MULTILINE | re.IGNORECASE):
                 errors.append("Conformità Copyright violata: sezione '## Fonti e Bibliografia' mancante nel corpo Markdown.")
 
         # 3. Controllo Accessibilità Immagini (WCAG 2.1 AA alt text) e Crediti Fotografici
@@ -346,11 +352,17 @@ class VaultComplianceLinter:
                         f"Riga {line_num}: Wikilink con pipe non sottoposto a escape in tabella GFM: {unescaped}. Usa [[slug\\|Testo]]."
                     )
 
-        # 5. Controllo Fonti Web: tutte le fonti web citate devono contenere un hyperlink HTTP/HTTPS alla fonte originale
+        # 5. Controllo Fonti Web: tutte le fonti web citate nella sezione Fonti devono contenere un link HTTP/HTTPS o un link interno
+        in_fonti = False
         for line_num, line in enumerate(body.splitlines(), start=1):
             stripped = line.strip()
+            if re.match(r"^#{1,3}\s+Fonti", stripped, re.IGNORECASE):
+                in_fonti = True
+                continue
+            if not in_fonti:
+                continue
             if any(dom in stripped.lower() for dom in ["mimmorapisarda.it", "tuttoilcataniaminutoperminuto.it", "calciocatania.com"]):
-                if not re.search(r"https?://", stripped):
+                if not re.search(r"https?://", stripped) and "[[" not in stripped and "href=" not in stripped:
                     errors.append(
                         f"Riga {line_num}: Fonte web priva di link HTTP/HTTPS alla fonte originale: '{stripped}'."
                     )

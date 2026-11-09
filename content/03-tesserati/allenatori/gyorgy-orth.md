@@ -14,7 +14,7 @@ nationality: Ungheria
 catania_periods:
 - 1939-1940
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 image: assets/images/allenatori/gyorgy-orth.jpg
 image_credits:
 - image_path: assets/images/allenatori/gyorgy-orth.jpg
@@ -114,7 +114,16 @@ Con la sua straordinaria visione tattica impostò una squadra rapida e tecnica s
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1939-1940\|1939-1940]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1939-1940\|1939-1940]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

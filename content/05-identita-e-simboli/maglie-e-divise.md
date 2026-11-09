@@ -57,7 +57,7 @@ La divisa del Catania possiede regole estetiche codificate da quasi un secolo di
 
 ### 1.1 La Prima Maglia (Home Kit)
 Maglia a **strisce verticali alternate rosse (#d11317) e azzurre (#0cb2d9)**. La larghezza della palatura ha conosciuto diverse modulazioni stilistiche:
-- **Pali fitti e sottili:** caratteristici degli anni Cinquanta e Sessanta, epoca d'oro di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], [[03-tesserati/calciatori/adelmo-prenna|Adelmo Prenna]] e [[03-tesserati/calciatori/alvaro-biagini|Alvaro Biagini]].
+- **Pali fitti e sottili:** caratteristici degli anni Cinquanta e Sessanta, epoca d'oro di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], [[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]] e [[03-tesserati/calciatori/archivio/a-c/alvaro-biagini|Alvaro Biagini]].
 - **Pali larghi e geometrici:** introdotti a fine anni Settanta da *NR Ennerre* e consolidati negli anni Ottanta (*Adidas*, *Latas*) e Duemila (*Legea*, *Givova*).
 - **Trame e texture moderne:** con la rinascita del 2022, *Erreà* ha arricchito i pali con sfumature antracite richiamanti il basalto lavico e finiture dorate (#d29933) in omaggio alle insegne civiche e a Sant'Agata.
 
@@ -78,7 +78,7 @@ Introdotta stabilmente a partire dagli anni Novanta in ossequio alle normative t
 - **Nero antracite / fumo di lava (#191919):** evocazione diretta della pietra vulcanica eruttata dall'Etna, arricchita spesso da dettagli fluo o bordature rosso magma.
 
 ### 1.5 Le Maglie dei Portieri
-La scuola dei numeri uno etnei (da [[03-tesserati/calciatori/giuseppe-vavassori|Giuseppe Vavassori]] e Rado a Sorrentino, Muraro, Iezzo e Andújar) ha attraversato due grandi epoche:
+La scuola dei numeri uno etnei (da [[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]] e Rado a Sorrentino, Muraro, Iezzo e Andújar) ha attraversato due grandi epoche:
 - **Epoca Classica (1929–1985):** maglie rigorosamente monocromatiche grigie, nere o verde scuro con colletto a polo bianco, calzoncini neri e stemma sul cuore.
 - **Epoca Moderna (1985–Oggi):** kit tecnici multicolori ad alta visibilità (arancione lava, verde acido, giallo sole e celeste), spesso dotati di imbottiture ergonomiche.
 
@@ -139,7 +139,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2026-2027</span>
+<span class="season-year">[[02-cronistoria/stagioni/2026-2027|2026-2027]]</span>
 <span class="season-cat-badge">Serie C - Girone C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2026-2027" class="season-card-link" title="Vai al dossier di stagione 2026-2027">Scheda ↗</a>
@@ -179,7 +179,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2025-2026</span>
+<span class="season-year">[[02-cronistoria/stagioni/2025-2026|2025-2026]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2025-2026" class="season-card-link" title="Vai al dossier di stagione 2025-2026">Scheda ↗</a>
@@ -224,7 +224,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2024-2025</span>
+<span class="season-year">[[02-cronistoria/stagioni/2024-2025|2024-2025]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2024-2025" class="season-card-link" title="Vai al dossier di stagione 2024-2025">Scheda ↗</a>
@@ -264,7 +264,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2023-2024</span>
+<span class="season-year">[[02-cronistoria/stagioni/2023-2024|2023-2024]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2023-2024" class="season-card-link" title="Vai al dossier di stagione 2023-2024">Scheda ↗</a>
@@ -309,7 +309,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2022-2023</span>
+<span class="season-year">[[02-cronistoria/stagioni/2022-2023|2022-2023]]</span>
 <span class="season-cat-badge">Serie D</span>
 </div>
 <a href="/02-cronistoria/stagioni/2022-2023" class="season-card-link" title="Vai al dossier di stagione 2022-2023">Scheda ↗</a>
@@ -339,7 +339,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2021-2022</span>
+<span class="season-year">[[02-cronistoria/stagioni/2021-2022|2021-2022]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2021-2022" class="season-card-link" title="Vai al dossier di stagione 2021-2022">Scheda ↗</a>
@@ -389,7 +389,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2020-2021</span>
+<span class="season-year">[[02-cronistoria/stagioni/2020-2021|2020-2021]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2020-2021" class="season-card-link" title="Vai al dossier di stagione 2020-2021">Scheda ↗</a>
@@ -441,7 +441,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2019-2020</span>
+<span class="season-year">[[02-cronistoria/stagioni/2019-2020|2019-2020]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2019-2020" class="season-card-link" title="Vai al dossier di stagione 2019-2020">Scheda ↗</a>
@@ -481,7 +481,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2018-2019</span>
+<span class="season-year">[[02-cronistoria/stagioni/2018-2019|2018-2019]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2018-2019" class="season-card-link" title="Vai al dossier di stagione 2018-2019">Scheda ↗</a>
@@ -521,7 +521,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2017-2018</span>
+<span class="season-year">[[02-cronistoria/stagioni/2017-2018|2017-2018]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/2017-2018" class="season-card-link" title="Vai al dossier di stagione 2017-2018">Scheda ↗</a>
@@ -551,7 +551,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2016-2017</span>
+<span class="season-year">[[02-cronistoria/stagioni/2016-2017|2016-2017]]</span>
 <span class="season-cat-badge">Lega Pro</span>
 </div>
 <a href="/02-cronistoria/stagioni/2016-2017" class="season-card-link" title="Vai al dossier di stagione 2016-2017">Scheda ↗</a>
@@ -581,7 +581,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2015-2016</span>
+<span class="season-year">[[02-cronistoria/stagioni/2015-2016|2015-2016]]</span>
 <span class="season-cat-badge">Lega Pro</span>
 </div>
 <a href="/02-cronistoria/stagioni/2015-2016" class="season-card-link" title="Vai al dossier di stagione 2015-2016">Scheda ↗</a>
@@ -601,7 +601,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2014-2015</span>
+<span class="season-year">[[02-cronistoria/stagioni/2014-2015|2014-2015]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/2014-2015" class="season-card-link" title="Vai al dossier di stagione 2014-2015">Scheda ↗</a>
@@ -626,7 +626,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2013-2014</span>
+<span class="season-year">[[02-cronistoria/stagioni/2013-2014|2013-2014]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2013-2014" class="season-card-link" title="Vai al dossier di stagione 2013-2014">Scheda ↗</a>
@@ -666,7 +666,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2012-2013</span>
+<span class="season-year">[[02-cronistoria/stagioni/2012-2013|2012-2013]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2012-2013" class="season-card-link" title="Vai al dossier di stagione 2012-2013">Scheda ↗</a>
@@ -701,7 +701,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2011-2012</span>
+<span class="season-year">[[02-cronistoria/stagioni/2011-2012|2011-2012]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2011-2012" class="season-card-link" title="Vai al dossier di stagione 2011-2012">Scheda ↗</a>
@@ -731,7 +731,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2010-2011</span>
+<span class="season-year">[[02-cronistoria/stagioni/2010-2011|2010-2011]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2010-2011" class="season-card-link" title="Vai al dossier di stagione 2010-2011">Scheda ↗</a>
@@ -783,7 +783,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2009-2010</span>
+<span class="season-year">[[02-cronistoria/stagioni/2009-2010|2009-2010]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2009-2010" class="season-card-link" title="Vai al dossier di stagione 2009-2010">Scheda ↗</a>
@@ -823,7 +823,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2008-2009</span>
+<span class="season-year">[[02-cronistoria/stagioni/2008-2009|2008-2009]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2008-2009" class="season-card-link" title="Vai al dossier di stagione 2008-2009">Scheda ↗</a>
@@ -858,7 +858,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2007-2008</span>
+<span class="season-year">[[02-cronistoria/stagioni/2007-2008|2007-2008]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2007-2008" class="season-card-link" title="Vai al dossier di stagione 2007-2008">Scheda ↗</a>
@@ -893,7 +893,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2006-2007</span>
+<span class="season-year">[[02-cronistoria/stagioni/2006-2007|2006-2007]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/2006-2007" class="season-card-link" title="Vai al dossier di stagione 2006-2007">Scheda ↗</a>
@@ -923,7 +923,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2005-2006</span>
+<span class="season-year">[[02-cronistoria/stagioni/2005-2006|2005-2006]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/2005-2006" class="season-card-link" title="Vai al dossier di stagione 2005-2006">Scheda ↗</a>
@@ -958,7 +958,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2004-2005</span>
+<span class="season-year">[[02-cronistoria/stagioni/2004-2005|2004-2005]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/2004-2005" class="season-card-link" title="Vai al dossier di stagione 2004-2005">Scheda ↗</a>
@@ -988,7 +988,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2003-2004</span>
+<span class="season-year">[[02-cronistoria/stagioni/2003-2004|2003-2004]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/2003-2004" class="season-card-link" title="Vai al dossier di stagione 2003-2004">Scheda ↗</a>
@@ -1028,7 +1028,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2002-2003</span>
+<span class="season-year">[[02-cronistoria/stagioni/2002-2003|2002-2003]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/2002-2003" class="season-card-link" title="Vai al dossier di stagione 2002-2003">Scheda ↗</a>
@@ -1058,7 +1058,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2001-2002</span>
+<span class="season-year">[[02-cronistoria/stagioni/2001-2002|2001-2002]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/2001-2002" class="season-card-link" title="Vai al dossier di stagione 2001-2002">Scheda ↗</a>
@@ -1088,7 +1088,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">2000-2001</span>
+<span class="season-year">[[02-cronistoria/stagioni/2000-2001|2000-2001]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/2000-2001" class="season-card-link" title="Vai al dossier di stagione 2000-2001">Scheda ↗</a>
@@ -1140,7 +1140,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1999-2000</span>
+<span class="season-year">[[02-cronistoria/stagioni/1999-2000|1999-2000]]</span>
 <span class="season-cat-badge">Serie C1 - gir. B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1999-2000" class="season-card-link" title="Vai al dossier di stagione 1999-2000">Scheda ↗</a>
@@ -1165,7 +1165,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1998-1999</span>
+<span class="season-year">[[02-cronistoria/stagioni/1998-1999|1998-1999]]</span>
 <span class="season-cat-badge">Serie C2</span>
 </div>
 <a href="/02-cronistoria/stagioni/1998-1999" class="season-card-link" title="Vai al dossier di stagione 1998-1999">Scheda ↗</a>
@@ -1190,7 +1190,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1997-1998</span>
+<span class="season-year">[[02-cronistoria/stagioni/1997-1998|1997-1998]]</span>
 <span class="season-cat-badge">Serie C2, Girone C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1997-1998" class="season-card-link" title="Vai al dossier di stagione 1997-1998">Scheda ↗</a>
@@ -1220,7 +1220,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1996-1997</span>
+<span class="season-year">[[02-cronistoria/stagioni/1996-1997|1996-1997]]</span>
 <span class="season-cat-badge">Serie C2</span>
 </div>
 <a href="/02-cronistoria/stagioni/1996-1997" class="season-card-link" title="Vai al dossier di stagione 1996-1997">Scheda ↗</a>
@@ -1233,7 +1233,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1995-1996</span>
+<span class="season-year">[[02-cronistoria/stagioni/1995-1996|1995-1996]]</span>
 <span class="season-cat-badge">Serie C2</span>
 </div>
 <a href="/02-cronistoria/stagioni/1995-1996" class="season-card-link" title="Vai al dossier di stagione 1995-1996">Scheda ↗</a>
@@ -1253,7 +1253,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1994-1995</span>
+<span class="season-year">[[02-cronistoria/stagioni/1994-1995|1994-1995]]</span>
 <span class="season-cat-badge">C.N.D.</span>
 </div>
 <a href="/02-cronistoria/stagioni/1994-1995" class="season-card-link" title="Vai al dossier di stagione 1994-1995">Scheda ↗</a>
@@ -1278,7 +1278,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1993-1994</span>
+<span class="season-year">[[02-cronistoria/stagioni/1993-1994|1993-1994]]</span>
 <span class="season-cat-badge">Eccellenza</span>
 </div>
 <a href="/02-cronistoria/stagioni/1993-1994" class="season-card-link" title="Vai al dossier di stagione 1993-1994">Scheda ↗</a>
@@ -1298,7 +1298,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1992-1993</span>
+<span class="season-year">[[02-cronistoria/stagioni/1992-1993|1992-1993]]</span>
 <span class="season-cat-badge">Serie C1 - gir. B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1992-1993" class="season-card-link" title="Vai al dossier di stagione 1992-1993">Scheda ↗</a>
@@ -1311,7 +1311,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1991-1992</span>
+<span class="season-year">[[02-cronistoria/stagioni/1991-1992|1991-1992]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1991-1992" class="season-card-link" title="Vai al dossier di stagione 1991-1992">Scheda ↗</a>
@@ -1331,7 +1331,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1990-1991</span>
+<span class="season-year">[[02-cronistoria/stagioni/1990-1991|1990-1991]]</span>
 <span class="season-cat-badge">Serie C1 - gir. B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1990-1991" class="season-card-link" title="Vai al dossier di stagione 1990-1991">Scheda ↗</a>
@@ -1366,7 +1366,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1989-1990</span>
+<span class="season-year">[[02-cronistoria/stagioni/1989-1990|1989-1990]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1989-1990" class="season-card-link" title="Vai al dossier di stagione 1989-1990">Scheda ↗</a>
@@ -1379,7 +1379,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1988-1989</span>
+<span class="season-year">[[02-cronistoria/stagioni/1988-1989|1988-1989]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1988-1989" class="season-card-link" title="Vai al dossier di stagione 1988-1989">Scheda ↗</a>
@@ -1392,7 +1392,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1987-1988</span>
+<span class="season-year">[[02-cronistoria/stagioni/1987-1988|1987-1988]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1987-1988" class="season-card-link" title="Vai al dossier di stagione 1987-1988">Scheda ↗</a>
@@ -1405,7 +1405,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1986-1987</span>
+<span class="season-year">[[02-cronistoria/stagioni/1986-1987|1986-1987]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1986-1987" class="season-card-link" title="Vai al dossier di stagione 1986-1987">Scheda ↗</a>
@@ -1425,7 +1425,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1985-1986</span>
+<span class="season-year">[[02-cronistoria/stagioni/1985-1986|1985-1986]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1985-1986" class="season-card-link" title="Vai al dossier di stagione 1985-1986">Scheda ↗</a>
@@ -1438,7 +1438,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1984-1985</span>
+<span class="season-year">[[02-cronistoria/stagioni/1984-1985|1984-1985]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1984-1985" class="season-card-link" title="Vai al dossier di stagione 1984-1985">Scheda ↗</a>
@@ -1451,7 +1451,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1983-1984</span>
+<span class="season-year">[[02-cronistoria/stagioni/1983-1984|1983-1984]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1983-1984" class="season-card-link" title="Vai al dossier di stagione 1983-1984">Scheda ↗</a>
@@ -1476,7 +1476,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1982-1983</span>
+<span class="season-year">[[02-cronistoria/stagioni/1982-1983|1982-1983]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1982-1983" class="season-card-link" title="Vai al dossier di stagione 1982-1983">Scheda ↗</a>
@@ -1501,7 +1501,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1981-1982</span>
+<span class="season-year">[[02-cronistoria/stagioni/1981-1982|1981-1982]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1981-1982" class="season-card-link" title="Vai al dossier di stagione 1981-1982">Scheda ↗</a>
@@ -1514,7 +1514,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1980-1981</span>
+<span class="season-year">[[02-cronistoria/stagioni/1980-1981|1980-1981]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1980-1981" class="season-card-link" title="Vai al dossier di stagione 1980-1981">Scheda ↗</a>
@@ -1549,7 +1549,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1979-1980</span>
+<span class="season-year">[[02-cronistoria/stagioni/1979-1980|1979-1980]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1979-1980" class="season-card-link" title="Vai al dossier di stagione 1979-1980">Scheda ↗</a>
@@ -1574,7 +1574,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1978-1979</span>
+<span class="season-year">[[02-cronistoria/stagioni/1978-1979|1978-1979]]</span>
 <span class="season-cat-badge">Serie C1</span>
 </div>
 <a href="/02-cronistoria/stagioni/1978-1979" class="season-card-link" title="Vai al dossier di stagione 1978-1979">Scheda ↗</a>
@@ -1594,7 +1594,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1977-1978</span>
+<span class="season-year">[[02-cronistoria/stagioni/1977-1978|1977-1978]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1977-1978" class="season-card-link" title="Vai al dossier di stagione 1977-1978">Scheda ↗</a>
@@ -1607,7 +1607,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1976-1977</span>
+<span class="season-year">[[02-cronistoria/stagioni/1976-1977|1976-1977]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1976-1977" class="season-card-link" title="Vai al dossier di stagione 1976-1977">Scheda ↗</a>
@@ -1632,7 +1632,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1975-1976</span>
+<span class="season-year">[[02-cronistoria/stagioni/1975-1976|1975-1976]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1975-1976" class="season-card-link" title="Vai al dossier di stagione 1975-1976">Scheda ↗</a>
@@ -1657,7 +1657,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1974-1975</span>
+<span class="season-year">[[02-cronistoria/stagioni/1974-1975|1974-1975]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1974-1975" class="season-card-link" title="Vai al dossier di stagione 1974-1975">Scheda ↗</a>
@@ -1670,7 +1670,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1973-1974</span>
+<span class="season-year">[[02-cronistoria/stagioni/1973-1974|1973-1974]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1973-1974" class="season-card-link" title="Vai al dossier di stagione 1973-1974">Scheda ↗</a>
@@ -1695,7 +1695,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1972-1973</span>
+<span class="season-year">[[02-cronistoria/stagioni/1972-1973|1972-1973]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1972-1973" class="season-card-link" title="Vai al dossier di stagione 1972-1973">Scheda ↗</a>
@@ -1708,7 +1708,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1971-1972</span>
+<span class="season-year">[[02-cronistoria/stagioni/1971-1972|1971-1972]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1971-1972" class="season-card-link" title="Vai al dossier di stagione 1971-1972">Scheda ↗</a>
@@ -1721,7 +1721,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1970-1971</span>
+<span class="season-year">[[02-cronistoria/stagioni/1970-1971|1970-1971]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1970-1971" class="season-card-link" title="Vai al dossier di stagione 1970-1971">Scheda ↗</a>
@@ -1756,7 +1756,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1969-1970</span>
+<span class="season-year">[[02-cronistoria/stagioni/1969-1970|1969-1970]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1969-1970" class="season-card-link" title="Vai al dossier di stagione 1969-1970">Scheda ↗</a>
@@ -1769,7 +1769,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1968-1969</span>
+<span class="season-year">[[02-cronistoria/stagioni/1968-1969|1968-1969]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1968-1969" class="season-card-link" title="Vai al dossier di stagione 1968-1969">Scheda ↗</a>
@@ -1782,7 +1782,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1967-1968</span>
+<span class="season-year">[[02-cronistoria/stagioni/1967-1968|1967-1968]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1967-1968" class="season-card-link" title="Vai al dossier di stagione 1967-1968">Scheda ↗</a>
@@ -1795,7 +1795,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1966-1967</span>
+<span class="season-year">[[02-cronistoria/stagioni/1966-1967|1966-1967]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1966-1967" class="season-card-link" title="Vai al dossier di stagione 1966-1967">Scheda ↗</a>
@@ -1808,7 +1808,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1965-1966</span>
+<span class="season-year">[[02-cronistoria/stagioni/1965-1966|1965-1966]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1965-1966" class="season-card-link" title="Vai al dossier di stagione 1965-1966">Scheda ↗</a>
@@ -1821,7 +1821,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1964-1965</span>
+<span class="season-year">[[02-cronistoria/stagioni/1964-1965|1964-1965]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1964-1965" class="season-card-link" title="Vai al dossier di stagione 1964-1965">Scheda ↗</a>
@@ -1846,7 +1846,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1963-1964</span>
+<span class="season-year">[[02-cronistoria/stagioni/1963-1964|1963-1964]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1963-1964" class="season-card-link" title="Vai al dossier di stagione 1963-1964">Scheda ↗</a>
@@ -1859,7 +1859,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1962-1963</span>
+<span class="season-year">[[02-cronistoria/stagioni/1962-1963|1962-1963]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1962-1963" class="season-card-link" title="Vai al dossier di stagione 1962-1963">Scheda ↗</a>
@@ -1872,7 +1872,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1961-1962</span>
+<span class="season-year">[[02-cronistoria/stagioni/1961-1962|1961-1962]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1961-1962" class="season-card-link" title="Vai al dossier di stagione 1961-1962">Scheda ↗</a>
@@ -1885,7 +1885,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1960-1961</span>
+<span class="season-year">[[02-cronistoria/stagioni/1960-1961|1960-1961]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1960-1961" class="season-card-link" title="Vai al dossier di stagione 1960-1961">Scheda ↗</a>
@@ -1920,7 +1920,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1959-1960</span>
+<span class="season-year">[[02-cronistoria/stagioni/1959-1960|1959-1960]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1959-1960" class="season-card-link" title="Vai al dossier di stagione 1959-1960">Scheda ↗</a>
@@ -1933,7 +1933,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1958-1959</span>
+<span class="season-year">[[02-cronistoria/stagioni/1958-1959|1958-1959]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1958-1959" class="season-card-link" title="Vai al dossier di stagione 1958-1959">Scheda ↗</a>
@@ -1946,7 +1946,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1957-1958</span>
+<span class="season-year">[[02-cronistoria/stagioni/1957-1958|1957-1958]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1957-1958" class="season-card-link" title="Vai al dossier di stagione 1957-1958">Scheda ↗</a>
@@ -1959,7 +1959,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1956-1957</span>
+<span class="season-year">[[02-cronistoria/stagioni/1956-1957|1956-1957]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1956-1957" class="season-card-link" title="Vai al dossier di stagione 1956-1957">Scheda ↗</a>
@@ -1972,7 +1972,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1955-1956</span>
+<span class="season-year">[[02-cronistoria/stagioni/1955-1956|1955-1956]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1955-1956" class="season-card-link" title="Vai al dossier di stagione 1955-1956">Scheda ↗</a>
@@ -1985,7 +1985,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1954-1955</span>
+<span class="season-year">[[02-cronistoria/stagioni/1954-1955|1954-1955]]</span>
 <span class="season-cat-badge">Serie A</span>
 </div>
 <a href="/02-cronistoria/stagioni/1954-1955" class="season-card-link" title="Vai al dossier di stagione 1954-1955">Scheda ↗</a>
@@ -1998,7 +1998,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1953-1954</span>
+<span class="season-year">[[02-cronistoria/stagioni/1953-1954|1953-1954]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1953-1954" class="season-card-link" title="Vai al dossier di stagione 1953-1954">Scheda ↗</a>
@@ -2011,7 +2011,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1952-1953</span>
+<span class="season-year">[[02-cronistoria/stagioni/1952-1953|1952-1953]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1952-1953" class="season-card-link" title="Vai al dossier di stagione 1952-1953">Scheda ↗</a>
@@ -2024,7 +2024,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1951-1952</span>
+<span class="season-year">[[02-cronistoria/stagioni/1951-1952|1951-1952]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1951-1952" class="season-card-link" title="Vai al dossier di stagione 1951-1952">Scheda ↗</a>
@@ -2037,7 +2037,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1950-1951</span>
+<span class="season-year">[[02-cronistoria/stagioni/1950-1951|1950-1951]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1950-1951" class="season-card-link" title="Vai al dossier di stagione 1950-1951">Scheda ↗</a>
@@ -2072,7 +2072,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1949-1950</span>
+<span class="season-year">[[02-cronistoria/stagioni/1949-1950|1949-1950]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1949-1950" class="season-card-link" title="Vai al dossier di stagione 1949-1950">Scheda ↗</a>
@@ -2085,7 +2085,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1948-1949</span>
+<span class="season-year">[[02-cronistoria/stagioni/1948-1949|1948-1949]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1948-1949" class="season-card-link" title="Vai al dossier di stagione 1948-1949">Scheda ↗</a>
@@ -2098,7 +2098,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1947-1948</span>
+<span class="season-year">[[02-cronistoria/stagioni/1947-1948|1947-1948]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1947-1948" class="season-card-link" title="Vai al dossier di stagione 1947-1948">Scheda ↗</a>
@@ -2111,7 +2111,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1946-1947</span>
+<span class="season-year">[[02-cronistoria/stagioni/1946-1947|1946-1947]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1946-1947" class="season-card-link" title="Vai al dossier di stagione 1946-1947">Scheda ↗</a>
@@ -2124,7 +2124,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1942-1943</span>
+<span class="season-year">[[02-cronistoria/stagioni/1942-1943|1942-1943]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1942-1943" class="season-card-link" title="Vai al dossier di stagione 1942-1943">Scheda ↗</a>
@@ -2137,7 +2137,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1941-1942</span>
+<span class="season-year">[[02-cronistoria/stagioni/1941-1942|1941-1942]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1941-1942" class="season-card-link" title="Vai al dossier di stagione 1941-1942">Scheda ↗</a>
@@ -2150,7 +2150,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1940-1941</span>
+<span class="season-year">[[02-cronistoria/stagioni/1940-1941|1940-1941]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1940-1941" class="season-card-link" title="Vai al dossier di stagione 1940-1941">Scheda ↗</a>
@@ -2185,7 +2185,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1939-1940</span>
+<span class="season-year">[[02-cronistoria/stagioni/1939-1940|1939-1940]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1939-1940" class="season-card-link" title="Vai al dossier di stagione 1939-1940">Scheda ↗</a>
@@ -2198,7 +2198,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1938-1939</span>
+<span class="season-year">[[02-cronistoria/stagioni/1938-1939|1938-1939]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1938-1939" class="season-card-link" title="Vai al dossier di stagione 1938-1939">Scheda ↗</a>
@@ -2211,7 +2211,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1937-1938</span>
+<span class="season-year">[[02-cronistoria/stagioni/1937-1938|1937-1938]]</span>
 <span class="season-cat-badge">Serie C</span>
 </div>
 <a href="/02-cronistoria/stagioni/1937-1938" class="season-card-link" title="Vai al dossier di stagione 1937-1938">Scheda ↗</a>
@@ -2224,7 +2224,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1936-1937</span>
+<span class="season-year">[[02-cronistoria/stagioni/1936-1937|1936-1937]]</span>
 <span class="season-cat-badge">Serie B 1936-1937</span>
 </div>
 <a href="/02-cronistoria/stagioni/1936-1937" class="season-card-link" title="Vai al dossier di stagione 1936-1937">Scheda ↗</a>
@@ -2237,7 +2237,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1935-1936</span>
+<span class="season-year">[[02-cronistoria/stagioni/1935-1936|1935-1936]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1935-1936" class="season-card-link" title="Vai al dossier di stagione 1935-1936">Scheda ↗</a>
@@ -2250,7 +2250,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1934-1935</span>
+<span class="season-year">[[02-cronistoria/stagioni/1934-1935|1934-1935]]</span>
 <span class="season-cat-badge">Serie B</span>
 </div>
 <a href="/02-cronistoria/stagioni/1934-1935" class="season-card-link" title="Vai al dossier di stagione 1934-1935">Scheda ↗</a>
@@ -2263,7 +2263,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1933-1934</span>
+<span class="season-year">[[02-cronistoria/stagioni/1933-1934|1933-1934]]</span>
 <span class="season-cat-badge">Prima Divisione (Girone H e Girone Finale D)</span>
 </div>
 <a href="/02-cronistoria/stagioni/1933-1934" class="season-card-link" title="Vai al dossier di stagione 1933-1934">Scheda ↗</a>
@@ -2276,7 +2276,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1932-1933</span>
+<span class="season-year">[[02-cronistoria/stagioni/1932-1933|1932-1933]]</span>
 <span class="season-cat-badge">Prima Divisione</span>
 </div>
 <a href="/02-cronistoria/stagioni/1932-1933" class="season-card-link" title="Vai al dossier di stagione 1932-1933">Scheda ↗</a>
@@ -2289,7 +2289,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1931-1932</span>
+<span class="season-year">[[02-cronistoria/stagioni/1931-1932|1931-1932]]</span>
 <span class="season-cat-badge">Prima Divisione</span>
 </div>
 <a href="/02-cronistoria/stagioni/1931-1932" class="season-card-link" title="Vai al dossier di stagione 1931-1932">Scheda ↗</a>
@@ -2302,7 +2302,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1930-1931</span>
+<span class="season-year">[[02-cronistoria/stagioni/1930-1931|1930-1931]]</span>
 <span class="season-cat-badge">Prima Divisione</span>
 </div>
 <a href="/02-cronistoria/stagioni/1930-1931" class="season-card-link" title="Vai al dossier di stagione 1930-1931">Scheda ↗</a>
@@ -2337,7 +2337,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 <div class="season-kit-card is-no-photo">
 <div class="season-card-head">
 <div class="season-head-title">
-<span class="season-year">1929-1930</span>
+<span class="season-year">[[02-cronistoria/stagioni/1929-1930|1929-1930]]</span>
 <span class="season-cat-badge">Seconda Divisione</span>
 </div>
 <a href="/02-cronistoria/stagioni/1929-1930" class="season-card-link" title="Vai al dossier di stagione 1929-1930">Scheda ↗</a>
@@ -2351,3 +2351,11 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 </div>
 </details>
 
+---
+
+## Fonti e Bibliografia
+
+1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, Appendice Iconografica Maglie, Stemmi, Sponsor e Divise da Gioco.
+2. **Roberto Quartarone**, *Gli sponsor tecnici e commerciali del Catania dal 1979 ad oggi*, [tuttoilcataniaminutoperminuto.it](https://www.tuttoilcataniaminutoperminuto.it/), 2024, Cronologia dei fornitori di abbigliamento sportivo e contratti pubblicitari.
+3. **Archivio Storico Mimmo Rapisarda**, *Museo virtuale delle maglie storiche e dei fornitori del Calcio Catania*, [mimmorapisarda.it](https://www.mimmorapisarda.it/), 2024, Collezione fotografica e schede delle divise storiche.
+4. **Carlo Fontanelli, Roberto Quartarone, Alessandro Russo**, *Il rosso e l'azzurro. Novant'anni di una maglia*, GEO Edizioni, Empoli, 2020, Censimento completo delle maglie e varianti cromatiche 1929-2020.

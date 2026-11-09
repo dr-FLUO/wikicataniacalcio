@@ -10,7 +10,7 @@ entity_type: evento_tifo
 foundation_year: 2007
 origin_district: Catania, Quartiere Cibali e Piazza Spedini
 stadium_sector: Piazza Spedini ed esterno Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-29
 tags:
@@ -61,9 +61,9 @@ aliases:
 
 # Il Derby del 2 Febbraio 2007: La Morte dell'Ispettore Filippo Raciti e la Riforma Amato
 
-La sera di venerdì **2 febbraio 2007**, l'anticipo del campionato di Serie A tra Catania e [[tifoseria/rivalita/palermo|Palermo]] allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] segnò un punto di frattura irreversibile e uno spartiacque epocale nella storia dell'ordine pubblico e della legislazione sportiva italiana.
+La sera di venerdì **2 febbraio 2007**, l'anticipo del campionato di Serie A tra Catania e [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]] allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] segnò un punto di frattura irreversibile e uno spartiacque epocale nella storia dell'ordine pubblico e della legislazione sportiva italiana.
 
-Durante i gravissimi disordini scoppiati all'esterno dell'impianto, in Piazza Spedini e a ridosso dei varchi della [[tifoseria/curva-nord/index|Curva Nord]], perse la vita l'**Ispettore Capo della Polizia di Stato Filippo Raciti**, 40 anni, in servizio presso il X Reparto Mobile di Catania. L'evento provocò l'interruzione immediata di tutti i campionati calcistici sul territorio nazionale da parte del Commissario Straordinario della FIGC Luca Pancalli e portò in pochi giorni al varo della più incisiva riforma legislativa antiviolenza della Repubblica (**Legge 41/2007**).
+Durante i gravissimi disordini scoppiati all'esterno dell'impianto, in Piazza Spedini e a ridosso dei varchi della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], perse la vita l'**Ispettore Capo della Polizia di Stato Filippo Raciti**, 40 anni, in servizio presso il X Reparto Mobile di Catania. L'evento provocò l'interruzione immediata di tutti i campionati calcistici sul territorio nazionale da parte del Commissario Straordinario della FIGC Luca Pancalli e portò in pochi giorni al varo della più incisiva riforma legislativa antiviolenza della Repubblica (**Legge 41/2007**).
 
 > [!abstract] Scheda Sinottica Giudiziaria e di Ordine Pubblico
 > - **Codice Scheda:** `SCHEDA-2007-MASSIMINO`
@@ -71,7 +71,7 @@ Durante i gravissimi disordini scoppiati all'esterno dell'impianto, in Piazza Sp
 > - **Luogo:** Catania, Stadio Angelo Massimino (Piazza Spedini e via Cibele).
 > - **Tipologia / Natura Evento:** Guerriglia urbana preordinata, fitto lancio di bombe carta, sassi e corpi contundenti, cariche di polizia, omicidio di un appartenente alle forze dell'ordine.
 > - **Conseguenze Normative Nazionali:** Emanazione del D.L. 8/2007 convertito nella **Legge 4 aprile 2007, n. 41** (cd. Legge Amato-Melandri); introduzione su scala nazionale di tornelli ad altezza intera con lettori ottici, telecamere biometriche a circuito chiuso, biglietti nominativi con controllo identità, steward privati, divieto assoluto di striscioni non censiti dal GOS, e consolidamento dell'**arresto in flagranza differita entro 48 ore** (art. 8 comma 1-bis L. 401/89).
-> - **Esiti Giudiziari Penali:** Condanne definitive pronunciate dalla Corte Suprema di Cassazione il **14 novembre 2012** per omicidio preterintenzionale: [[tifoseria/biografie/antonino-speziale|Antonino Speziale]] (all'epoca minorenne, 8 anni di reclusione) e Daniele Micale (11 anni di reclusione).
+> - **Esiti Giudiziari Penali:** Condanne definitive pronunciate dalla Corte Suprema di Cassazione il **14 novembre 2012** per omicidio preterintenzionale: [[06-tifoseria-e-cultura/biografie/antonino-speziale|Antonino Speziale]] (all'epoca minorenne, 8 anni di reclusione) e Daniele Micale (11 anni di reclusione).
 > - **Fonti Documentali:** *Gazzetta Ufficiale n. 80/2007*, Sentenze *Corte di Cassazione*, *Corriere della Sera*, *La Repubblica*, *ANSA*.
 
 ---
@@ -100,7 +100,7 @@ La morte dell'Ispettore Raciti scosse l'intero Paese e determinò la transizione
 ## 3. L'Iter Processuale e le Sentenze della Cassazione
 
 L'attività investigativa coordinata dalla Procura della Repubblica di Catania e dalla Procura per i Minorenni portò al fermo e al rinvio a giudizio di diversi soggetti:
-- **[[tifoseria/biografie/antonino-speziale|Antonino Speziale]]:** Minorenne all'epoca dell'evento, venne accusato di aver concorso al colpo fatale sferrato con una barriera metallica (un sottolavello o carrello di ferro) contro il corpo dell'ispettore. Dopo un lungo percorso dibattimentale nei tre gradi di giudizio del Tribunale per i Minorenni, la Corte di Cassazione confermò in via definitiva il **14 novembre 2012** la condanna a **8 anni di reclusione per omicidio preterintenzionale**. Speziale ha scontato interamente la pena ed è tornato in libertà nel dicembre 2020.
+- **[[06-tifoseria-e-cultura/biografie/antonino-speziale|Antonino Speziale]]:** Minorenne all'epoca dell'evento, venne accusato di aver concorso al colpo fatale sferrato con una barriera metallica (un sottolavello o carrello di ferro) contro il corpo dell'ispettore. Dopo un lungo percorso dibattimentale nei tre gradi di giudizio del Tribunale per i Minorenni, la Corte di Cassazione confermò in via definitiva il **14 novembre 2012** la condanna a **8 anni di reclusione per omicidio preterintenzionale**. Speziale ha scontato interamente la pena ed è tornato in libertà nel dicembre 2020.
 - **[[06-tifoseria-e-cultura/biografie/daniele-natale-micale|Daniele Natale Micale]]:** Maggiorenne all'epoca dei fatti, giudicato dal Tribunale ordinario e dalla Corte d'Assise d'Appello di Catania, venne riconosciuto colpevole in concorso per omicidio preterintenzionale e condannato in via definitiva dalla Suprema Corte a **11 anni di reclusione** (condanna confermata il 14 novembre 2012).
 
 I processi hanno costituito un caposaldo del diritto penale italiano in tema di cooperazione nel delitto preterintenzionale in contesti di violenza di piazza e sommovimento collettivo.

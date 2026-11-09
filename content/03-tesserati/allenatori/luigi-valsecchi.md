@@ -19,8 +19,8 @@ catania_periods:
 - 1973-1974
 - 1976-1977
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-sessanta
@@ -95,32 +95,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Luigi Valsecchi</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1921</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1965–1966, 1967–1968, 1971–1972, 1973–1974, 1976–1977</strong> (dal 16/01/1966 al 31/03/1974)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>52</td>
-        <th>Media Punti</th>
-        <td>1,21</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Luigi Valsecchi** (Lecco, Italia, 1921 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1965-1966, 1967-1968, 1971-1972, 1973-1974, 1976-1977**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967), Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -143,11 +117,11 @@ Guidò il Catania in Serie A nel 1965-1966 e 1971-1972, e in Serie B nel 1967-19
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1965-1966\|1965-1966]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1967-1968\|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1971-1972\|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1973-1974\|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1976-1977\|1976-1977]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1965-1966\|1965-1966]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1967-1968\|1967-1968]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1971-1972\|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1973-1974\|1973-1974]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1976-1977\|1976-1977]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

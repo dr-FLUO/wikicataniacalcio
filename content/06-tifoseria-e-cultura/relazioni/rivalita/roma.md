@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2006
 origin_district: "Catania e Roma"
 stadium_sector: "Curve Massimino e Curva Sud Roma"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Olimpico di Roma"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Olimpico di Roma"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:

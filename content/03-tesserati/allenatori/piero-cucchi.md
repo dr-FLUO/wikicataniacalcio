@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1998-1999
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image_credits:
 - image_path: assets/images/allenatori/piero-cucchi.jpg
   alt_text: Ritratto ufficiale di Piero Cucchi in maglia rossazzurra
@@ -103,32 +103,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Piero Cucchi</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1939</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1998–1999</strong> (dal 01/07/1998 al 30/06/1999)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,74</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Piero Cucchi** (Boffalora sopra Ticino (MI), Italia, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1998-1999**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -151,7 +125,16 @@ Con un calcio cinico, potente ed entusiasmante guidato dai gol di Cicconi e Pass
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1998-1999\|1998-1999]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1998-1999\|1998-1999]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

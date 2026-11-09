@@ -17,7 +17,7 @@ league_appearances: 56
 total_goals: 14
 league_goals: 7
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - difensori
@@ -101,7 +101,7 @@ tm_id: 521826
 
 **Adriano Polenta** (Osimo, 23 novembre 1958) è un ex calciatore italiano, nel ruolo di libero e difensore centrale. Giunto a Catania nel **1986** in Serie B, fu il carismatico regista difensivo della squadra etnea per due campionati consecutivi.
 
-Nella drammatica [[stagioni/1987-1988|Stagione 1987-1988]] in Serie C1, Polenta si distinse per un primato singolare: risultò il **miglior marcatore stagionale della squadra con 6 reti** (di cui 4 realizzate con glaciale freddezza su calcio di rigore), guidando poi la difesa nello spareggio-salvezza vinto per 2-0 contro la Nocerina allo Stadio San Vito di Cosenza.
+Nella drammatica [[02-cronistoria/stagioni/1987-1988|Stagione 1987-1988]] in Serie C1, Polenta si distinse per un primato singolare: risultò il **miglior marcatore stagionale della squadra con 6 reti** (di cui 4 realizzate con glaciale freddezza su calcio di rigore), guidando poi la difesa nello spareggio-salvezza vinto per 2-0 contro la Nocerina allo Stadio San Vito di Cosenza.
 
 > [!abstract] Il Libero con il Vizietto del Gol
 > - **Capocannoniere Difensore 1987-1988:** 6 reti in campionato (4 su rigore) in Serie C1.

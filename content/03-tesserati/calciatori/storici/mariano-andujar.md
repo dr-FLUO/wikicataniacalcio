@@ -21,7 +21,7 @@ total_goals: 0
 league_goals: 0
 serie_a_goals: 0
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - portieri
@@ -128,12 +128,12 @@ tm_id: 35491
   </table>
 </div>
 
-**Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) è un ex calciatore argentino, nel ruolo di portiere. Arrivato al [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] nell'estate del **2009** fresco vincitore della Copa Libertadores con l'Estudiantes de La Plata, ha difeso i pali etnei per cinque stagioni in massima serie, totalizzando **135 presenze in Serie A** e conquistando da titolare rossazzurro la convocazione con la Nazionale argentina ai Mondiali di Sudafrica 2010 e Brasile 2014 (vicecampione del mondo).
+**Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) è un ex calciatore argentino, nel ruolo di portiere. Arrivato al [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] nell'estate del **2009** fresco vincitore della Copa Libertadores con l'Estudiantes de La Plata, ha difeso i pali etnei per cinque stagioni in massima serie, totalizzando **135 presenze in Serie A** e conquistando da titolare rossazzurro la convocazione con la Nazionale argentina ai Mondiali di Sudafrica 2010 e Brasile 2014 (vicecampione del mondo).
 
 > [!abstract] Primati con il Catania in Massima Divisione
 > - **Presenze Ufficiali:** 141 gare complessive (135 in Serie A, 6 in Coppa Italia).
-> - **Il Record Storico dei 56 Punti:** Portiere titolare inamovibile nella [[stagioni/2012-2013|Stagione 2012-2013]] con [[tesserati/allenatori/rolando-maran|Rolando Maran]], conclusa all'**8º posto con 56 punti** e sole 46 reti subite in 38 giornate.
-> - **Invulnerabilità Interna:** Baluardo del fortino dello [[stadio/angelo-massimino|Stadio Angelo Massimino]], dove il Catania centrò 12 vittorie casalinghe su 19 gare nel 2012-2013.
+> - **Il Record Storico dei 56 Punti:** Portiere titolare inamovibile nella [[02-cronistoria/stagioni/2012-2013|Stagione 2012-2013]] con [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], conclusa all'**8º posto con 56 punti** e sole 46 reti subite in 38 giornate.
+> - **Invulnerabilità Interna:** Baluardo del fortino dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], dove il Catania centrò 12 vittorie casalinghe su 19 gare nel 2012-2013.
 > - **Le Grandi Parate:** Decisivo nei successi storici contro l'Inter (3-1 nel 2010 e 2-1 nel 2011), la Juventus a Torino (1-2) e la Roma (1-0).
 
 ---

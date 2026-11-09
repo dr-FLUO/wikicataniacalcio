@@ -97,29 +97,29 @@ Lo storico debutto di un calciatore del Catania con la maglia dell'**Italia magg
 | :--- | :--- | :--- | :--- | :--- |
 | **[[03-tesserati/calciatori/storici/giuseppe-mascara\|Giuseppe Mascara]]** | Attaccante | **Italia (Maggiore)** | 2009 | 1 presenza (Italia-Irlanda del Nord 3-0, 06/06/2009) |
 | **[[03-tesserati/calciatori/storici/marco-biagianti\|Marco Biagianti]]** | Centrocampista | **Italia (Maggiore)** | 2009 | Convocato dal c.t. Marcello Lippi per Svizzera-Italia |
-| **Marco Onorati** | Portiere | **Italia Under-21** | 1985 | Storico portiere cresciuto nel vivaio etneo |
-| **Cristiano Biraghi** | Difensore | **Italia Under-21** | 2013 | 4 presenze durante la militanza in Serie A |
+| **[[03-tesserati/calciatori/archivio/m-o/marco-onorati\|Marco Onorati]]** | Portiere | **Italia Under-21** | 1985 | Storico portiere cresciuto nel vivaio etneo |
+| **[[03-tesserati/calciatori/archivio/a-c/cristiano-biraghi\|Cristiano Biraghi]]** | Difensore | **Italia Under-21** | 2013 | 4 presenze durante la militanza in Serie A |
 | **Giuseppe Bellusci** | Difensore | **Italia Under-21** | 2009–2010 | 6 presenze nelle qualificazioni all'Europeo U-21 |
-| **Michele Paolucci** | Attaccante | **Italia Under-21** | 2008–2009 | Convocazioni durante il prestito con 7 reti in A |
-| **Graziano Pellè** | Attaccante | **Italia Under-20** | 2005 | **4 reti** ai Mondiali FIFA U-20 2005 in Olanda |
+| **[[03-tesserati/calciatori/archivio/m-o/michele-paolucci\|Michele Paolucci]]** | Attaccante | **Italia Under-21** | 2008–2009 | Convocazioni durante il prestito con 7 reti in A |
+| **[[03-tesserati/calciatori/archivio/g-l/graziano-pelle\|Graziano Pellè]]** | Attaccante | **Italia Under-20** | 2005 | **4 reti** ai Mondiali FIFA U-20 2005 in Olanda |
 | **Luca Moro** | Attaccante | **Italia Under-20** | 2021–2022 | Capocannoniere del girone C di Serie C |
-| **Jean Freddi Greco** | Centrocampista | **Italia Under-20** | 2021–2022 | Convocazioni stabili nel Torneo 8 Nazioni U-20 |
+| **[[03-tesserati/calciatori/archivio/g-l/jean-freddi-greco\|Jean Freddi Greco]]** | Centrocampista | **Italia Under-20** | 2021–2022 | Convocazioni stabili nel Torneo 8 Nazioni U-20 |
 | **Fabio Sciacca** | Centrocampista | **Italia Under-20** | 2009 | Talento del vivaio catanese ai Giochi del Mediterraneo |
-| **Luigi Della Rocca** | Attaccante | **Italia Under-20** | 2004–2005 | Presenze nella rassegna giovanile internazionale |
-| **Fabio Gatti** | Centrocampista | **Italia Under-20** | 2002–2003 | Presenze nel Torneo Quattro Nazioni U-20 |
-| **Gerardo Strumbo** | Difensore | **Italia Under-20** | 2010 | Centrale difensivo del settore giovanile rossazzurro |
-| **Matteo Pessina** | Centrocampista | **Italia Under-19** | 2015–2016 | Futuro campione d'Europa 2020 con l'Italia maggiore |
-| **Mattia Rossetti** | Attaccante | **Italia Under-19** | 2014–2015 | Autore del gol nel derby con il Trapani in Serie B |
+| **[[03-tesserati/calciatori/archivio/g-l/luigi-della-rocca\|Luigi Della Rocca]]** | Attaccante | **Italia Under-20** | 2004–2005 | Presenze nella rassegna giovanile internazionale |
+| **[[03-tesserati/calciatori/archivio/d-f/fabio-gatti\|Fabio Gatti]]** | Centrocampista | **Italia Under-20** | 2002–2003 | Presenze nel Torneo Quattro Nazioni U-20 |
+| **[[03-tesserati/calciatori/archivio/g-l/gerardo-strumbo\|Gerardo Strumbo]]** | Difensore | **Italia Under-20** | 2010 | Centrale difensivo del settore giovanile rossazzurro |
+| **[[03-tesserati/calciatori/archivio/m-o/matteo-pessina\|Matteo Pessina]]** | Centrocampista | **Italia Under-19** | 2015–2016 | Futuro campione d'Europa 2020 con l'Italia maggiore |
+| **[[03-tesserati/calciatori/archivio/m-o/mattia-rossetti\|Mattia Rossetti]]** | Attaccante | **Italia Under-19** | 2014–2015 | Autore del gol nel derby con il Trapani in Serie B |
 | **Simone Iannelli** | Difensore | **Italia Under-19** | 2002 | Prodotto del settore giovanile etneo |
-| **Fabio Aveni** | Attaccante | **Italia U-17 / U-19 / U-20** | 2011–2014 | Trafila completa delle selezioni giovanili azzurre |
-| **Francesco Borriello** | Portiere | **Italia Under-17** | 2021 | Estremo difensore delle giovanili rossazzurre |
-| **Alfonso Sessa** | Centrocampista | **Italia Under-16** | 2012 | Convocazioni nei tornei UEFA giovanili |
+| **[[03-tesserati/calciatori/archivio/d-f/fabio-aveni\|Fabio Aveni]]** | Attaccante | **Italia U-17 / U-19 / U-20** | 2011–2014 | Trafila completa delle selezioni giovanili azzurre |
+| **[[03-tesserati/calciatori/archivio/d-f/francesco-borriello\|Francesco Borriello]]** | Portiere | **Italia Under-17** | 2021 | Estremo difensore delle giovanili rossazzurre |
+| **[[03-tesserati/calciatori/archivio/a-c/alfonso-sessa\|Alfonso Sessa]]** | Centrocampista | **Italia Under-16** | 2012 | Convocazioni nei tornei UEFA giovanili |
 
 ---
 
 ## 2. I Calciatori Stranieri e le Coppe del Mondo
 
-Il primo calciatore del Catania a scendere in campo in una fase finale dei **Mondiali di calcio** fu il mediano tedesco **Horst Szymaniak**, pilastro della **Germania Ovest** alla Coppa del Mondo di **Cile 1962** (4 presenze da titolare fino ai quarti di finale), reduce dalla storica stagione di Serie A 1961-1962 con Carmelo Di Bella.
+Il primo calciatore del Catania a scendere in campo in una fase finale dei **Mondiali di calcio** fu il mediano tedesco **[[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]]**, pilastro della **Germania Ovest** alla Coppa del Mondo di **Cile 1962** (4 presenze da titolare fino ai quarti di finale), reduce dalla storica stagione di Serie A 1961-1962 con [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
 
 Un traguardo unico nella storia del club spetta al trequartista serbo **Filip Janković**: durante la sua permanenza contrattuale con il Catania, vinse da protagonista la **Coppa del Mondo Under-20 FIFA 2015** in Nuova Zelanda, laureandosi campione del mondo con la maglia della Serbia.
 
@@ -128,22 +128,22 @@ Un traguardo unico nella storia del club spetta al trequartista serbo **Filip Ja
 | Calciatore | Nazionalità | Ruolo | Periodo a Catania | Convocazioni / Partecipazioni Internazionali |
 | :--- | :--- | :--- | :--- | :--- |
 | **Horst Szymaniak** | 🇩🇪 Germania Ovest | Centrocampista | 1961–1963 | **Mondiale Cile 1962** (4 gare da titolare); 43 presenze totali nella Germania |
-| **Mariano Andújar** | 🇦🇷 Argentina | Portiere | 2009–2014 | **Mondiale Sudafrica 2010** e **Brasile 2014** (Vicecampione del Mondo); Copa América 2011 |
-| **Juan Manuel Vargas** | 🇵🇪 Perù | Terzino / Ala | 2006–2008 | Titolare inamovibile della Nazionale peruviana nelle qualificazioni mondiali |
+| **[[03-tesserati/calciatori/storici/mariano-andujar\|Mariano Andújar]]** | 🇦🇷 Argentina | Portiere | 2009–2014 | **Mondiale Sudafrica 2010** e **Brasile 2014** (Vicecampione del Mondo); Copa América 2011 |
+| **[[03-tesserati/calciatori/archivio/g-l/juan-manuel-vargas\|Juan Manuel Vargas]]** | 🇵🇪 Perù | Terzino / Ala | 2006–2008 | Titolare inamovibile della Nazionale peruviana nelle qualificazioni mondiali |
 | **Jorge Andrés Martínez** | 🇺🇾 Uruguay | Ala | 2007–2010 | Convocato della *Celeste* nelle qualificazioni CONMEBOL per i Mondiali 2010 |
-| **Pablo Ledesma** | 🇦🇷 Argentina | Centrocampista | 2008–2012 | Nazionale argentino con presenze nelle qualificazioni mondiali |
-| **Gino Peruzzi** | 🇦🇷 Argentina | Terzino | 2013–2015 | Convocato dall'Argentina maggiore durante la Serie A |
-| **Takayuki Morimoto** | 🇯🇵 Giappone | Attaccante | 2006–2011 | **Olimpiadi Pechino 2008** (Giappone U-23) e Nazionale maggiore nipponica (3 reti) |
+| **[[03-tesserati/calciatori/archivio/p-r/pablo-ledesma\|Pablo Ledesma]]** | 🇦🇷 Argentina | Centrocampista | 2008–2012 | Nazionale argentino con presenze nelle qualificazioni mondiali |
+| **[[03-tesserati/calciatori/archivio/g-l/gino-peruzzi\|Gino Peruzzi]]** | 🇦🇷 Argentina | Terzino | 2013–2015 | Convocato dall'Argentina maggiore durante la Serie A |
+| **[[03-tesserati/calciatori/archivio/s-z/takayuki-morimoto\|Takayuki Morimoto]]** | 🇯🇵 Giappone | Attaccante | 2006–2011 | **Olimpiadi Pechino 2008** (Giappone U-23) e Nazionale maggiore nipponica (3 reti) |
 | **Jaroslav Plašil** | 🇨🇿 Rep. Ceca | Centrocampista | 2013–2014 | Titolare della Repubblica Ceca nelle qualificazioni mondiali UEFA |
 | **Panagiōtīs Tachtsidīs** | 🇬🇷 Grecia | Centrocampista | 2013–2014 | **Mondiale Brasile 2014** (convocato nella Grecia agli ottavi) |
-| **Norbert Gyömbér** | 🇸🇰 Slovacchia | Difensore | 2013–2015 | Convocato nella Slovacchia maggiore ed Europeo Under-21 |
-| **Nicolae Dică** | 🇷🇴 Romania | Trequartista | 2008–2009 | Titolare della Romania nelle gare di qualificazione mondiale |
-| **Edgar Çani** | 🇦🇱 Albania | Attaccante | 2013–2015 | Convocato nell'Albania di Gianni De Biasi |
-| **Ilčo Naumoski** | 🇲🇰 Macedonia del Nord | Attaccante | 2004–2005 | Presenze e gol con la Nazionale macedone |
-| **Jamal Alioui** | 🇲🇦 Marocco | Difensore | 2004–2005 | **Olimpiadi Atene 2004** e Coppa d'Africa con il Marocco |
-| **Jehad Muntasser** | 🇱🇾 Libia | Centrocampista | 2001–2002 | Titolare della Nazionale libica nelle qualificazioni CAF |
-| **Kalifa Manneh** | 🇬🇲 Gambia | Ala | 2017–2021 | Convocato nella Nazionale maggiore del Gambia cresciuto nel vivaio etneo |
-| **Klavs Bethers** | 🇱🇻 Lettonia | Portiere | 2022–Oggi | Portiere titolare della Lettonia Under-21 durante la militanza rossazzurra |
+| **[[03-tesserati/calciatori/archivio/m-o/norbert-gyomber\|Norbert Gyömbér]]** | 🇸🇰 Slovacchia | Difensore | 2013–2015 | Convocato nella Slovacchia maggiore ed Europeo Under-21 |
+| **[[03-tesserati/calciatori/archivio/m-o/nicolae-dic\|Nicolae Dică]]** | 🇷🇴 Romania | Trequartista | 2008–2009 | Titolare della Romania nelle gare di qualificazione mondiale |
+| **[[03-tesserati/calciatori/archivio/d-f/edgar-çani\|Edgar Çani]]** | 🇦🇱 Albania | Attaccante | 2013–2015 | Convocato nell'Albania di Gianni De Biasi |
+| **[[03-tesserati/calciatori/archivio/g-l/il-o-naumoski\|Ilčo Naumoski]]** | 🇲🇰 Macedonia del Nord | Attaccante | 2004–2005 | Presenze e gol con la Nazionale macedone |
+| **[[03-tesserati/calciatori/archivio/g-l/jamal-alioui\|Jamal Alioui]]** | 🇲🇦 Marocco | Difensore | 2004–2005 | **Olimpiadi Atene 2004** e Coppa d'Africa con il Marocco |
+| **[[03-tesserati/calciatori/archivio/g-l/jehad-muntasser\|Jehad Muntasser]]** | 🇱🇾 Libia | Centrocampista | 2001–2002 | Titolare della Nazionale libica nelle qualificazioni CAF |
+| **[[03-tesserati/calciatori/archivio/g-l/kalifa-manneh\|Kalifa Manneh]]** | 🇬🇲 Gambia | Ala | 2017–2021 | Convocato nella Nazionale maggiore del Gambia cresciuto nel vivaio etneo |
+| **[[03-tesserati/calciatori/archivio/a-c/klavs-bethers\|Klavs Bethers]]** | 🇱🇻 Lettonia | Portiere | 2022–Oggi | Portiere titolare della Lettonia Under-21 durante la militanza rossazzurra |
 | **Filip Janković** | 🇷🇸 Serbia | Centrocampista | 2014–2016 | **Campione del Mondo FIFA Under-20 (Nuova Zelanda 2015)** |
 
 ---

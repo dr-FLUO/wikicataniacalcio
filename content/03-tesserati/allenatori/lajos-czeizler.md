@@ -14,7 +14,7 @@ nationality: Ungheria
 catania_periods:
 - 1932-1933
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 image: assets/images/allenatori/lajos-czeizler.jpg
 image_credits:
 - image_path: assets/images/allenatori/lajos-czeizler.jpg
@@ -112,7 +112,16 @@ A Catania Czeizler portò un rigore tattico senza precedenti e una concezione av
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1932-1933\|1932-1933]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1932-1933\|1932-1933]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

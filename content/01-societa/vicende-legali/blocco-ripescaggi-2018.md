@@ -7,11 +7,11 @@ slug: 01-societa/vicende-legali/blocco-ripescaggi-2018
 entity_type: vicenda_legale
 date_start: 2018-07-16
 date_end: 2018-11-15
-season_ref: '[[stagioni/2015-2016|Ciclo Serie C 2015-2020 (Estate 2018)]]'
-club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
+season_ref: '[[02-cronistoria/stagioni/2015-2016|Ciclo Serie C 2015-2020 (Estate 2018)]]'
+club_entity: '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
 figc_matricola: '11700'
 protagonists:
-- '[[societa/presidenti/pietro-lo-monaco]] |Pietro Lo Monaco (Amministratore Delegato
+- '[[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco (Amministratore Delegato
   Calcio Catania S.p.A.)]]'
 - Roberto Fabbricini (Commissario Straordinario FIGC)
 - Mauro Balata (Presidente Lega Nazionale Professionisti B)
@@ -61,17 +61,17 @@ aliases:
 
 # Il Contenzioso sui Ripescaggi e la Serie B a 19 Squadre (2018)
 
-Il **Contenzioso sui Ripescaggi dell'Estate 2018** è stata una complessa controversia giuridico-amministrativa che ha visto il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] (guidato dall'amministratore delegato [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]]) opporsi, insieme a Novara, Robur Siena, Ternana, Pro Vercelli e Virtus Entella, alla decisione assunta il **13 agosto 2018** dal Commissario Straordinario della FIGC **Roberto Fabbricini** e dal presidente della Lega B **Mauro Balata** di bloccare i ripescaggi e ridurre in corso d'opera l'organico della Serie B 2018-2019 da **22 a 19 squadre**.
+Il **Contenzioso sui Ripescaggi dell'Estate 2018** è stata una complessa controversia giuridico-amministrativa che ha visto il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] (guidato dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]]) opporsi, insieme a Novara, Robur Siena, Ternana, Pro Vercelli e Virtus Entella, alla decisione assunta il **13 agosto 2018** dal Commissario Straordinario della FIGC **Roberto Fabbricini** e dal presidente della Lega B **Mauro Balata** di bloccare i ripescaggi e ridurre in corso d'opera l'organico della Serie B [[02-cronistoria/stagioni/2018-2019|2018-2019]] da **22 a 19 squadre**.
 
 > [!abstract] Sintesi del Cortocircuito Giurisdizionale
-> A seguito della mancata iscrizione per dissesto finanziario di **Bari, Cesena e Avellino**, il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] — reduce dal 2º posto nel Girone C di Serie C 2017-2018 (74 punti con Cristiano Lucarelli) e dalla semifinale playoff persa ai rigori contro il Siena — presentò regolare domanda di ripescaggio. Per oltre tre mesi (agosto–novembre 2018), un conflitto di competenza tra TFN, CFA, Collegio di Garanzia del CONI, TAR del Lazio e Consiglio di Stato paralizzò l'avvio della Serie C, chiudendosi con la cristallizzazione del campionato cadetto a 19 squadre.
+> A seguito della mancata iscrizione per dissesto finanziario di **Bari, Cesena e Avellino**, il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] — reduce dal 2º posto nel Girone C di Serie C [[02-cronistoria/stagioni/2017-2018|2017-2018]] (74 punti con [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]]) e dalla semifinale playoff persa ai rigori contro il Siena — presentò regolare domanda di ripescaggio. Per oltre tre mesi (agosto–novembre 2018), un conflitto di competenza tra TFN, CFA, Collegio di Garanzia del CONI, TAR del Lazio e Consiglio di Stato paralizzò l'avvio della Serie C, chiudendosi con la cristallizzazione del campionato cadetto a 19 squadre.
 
 ---
 
 ## I Presupposti di Fatto e i Due Fronti del Contenzioso
 
-Nella primavera-estate del 2018 il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] affrontò una duplice battaglia legale:
-1. **La questione dell'ammissibilità soggettiva del Catania (C.U. n. 54 del 30 maggio 2018):** le norme sul ripescaggio escludevano i club sanzionati per illecito sportivo nel triennio precedente ([[vicende-legali/treni-del-gol-2015|Treni del Gol 2015]]). Sebbene un filone secondario avesse comportato una sanzione accessoria in primo grado nel luglio 2018, il Catania ottenne in sede cautelare dal TFN e dal TAR la sospensione dell'effetto preclusivo, rivendicando il primo posto nella graduatoria dei ripescaggi per storia sportiva, bacino d'utenza dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] e classifica.
+Nella primavera-estate del 2018 il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] affrontò una duplice battaglia legale:
+1. **La questione dell'ammissibilità soggettiva del Catania (C.U. n. 54 del 30 maggio 2018):** le norme sul ripescaggio escludevano i club sanzionati per illecito sportivo nel triennio precedente ([[01-societa/vicende-legali/treni-del-gol-2015|Treni del Gol 2015]]). Sebbene un filone secondario avesse comportato una sanzione accessoria in primo grado nel luglio 2018, il Catania ottenne in sede cautelare dal TFN e dal TAR la sospensione dell'effetto preclusivo, rivendicando il primo posto nella graduatoria dei ripescaggi per storia sportiva, bacino d'utenza dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e classifica.
 2. **Il colpo di mano sul format a 19 squadre (13 agosto 2018):** anziché procedere all'integrazione dell'organico di Serie B rimasto orfano di Bari, Cesena e Avellino, la Lega B di **Mauro Balata** chiese e ottenne dal Commissario Straordinario FIGC **Roberto Fabbricini** l'emanazione dei **Comunicati Ufficiali nn. 47, 48 e 49 del 13 agosto 2018**, con i quali venne modificato d'imperio l'art. 49 delle NOIF portando il campionato cadetto da 22 a **19 squadre** a poche ore dalla compilazione dei calendari.
 
 ---
@@ -80,7 +80,7 @@ Nella primavera-estate del 2018 il [[societa/2004-era-pulvirenti|Calcio Catania 
 
 | Data | Organo Giudicante | Provvedimento e Motivazione Giuridica | Effetto per il Calcio Catania S.p.A. |
 | :--- | :--- | :--- | :--- |
-| **Luglio 2018** | Co.Vi.So.C. / Consiglio Federale | Esclusione definitiva dalla Serie B 2018-2019 di **Bari, Cesena e Avellino**; si aprono tre posti vacanti nell'organico a 22 squadre. | Il [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] guidato da [[societa/presidenti/pietro-lo-monaco\|Pietro Lo Monaco]] deposita domanda di ripescaggio con le relative fideiussioni. |
+| **Luglio 2018** | Co.Vi.So.C. / Consiglio Federale | Esclusione definitiva dalla Serie B 2018-2019 di **Bari, Cesena e Avellino**; si aprono tre posti vacanti nell'organico a 22 squadre. | Il [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] guidato da [[01-societa/dirigenti/pietro-lo-monaco\|Pietro Lo Monaco]] deposita domanda di ripescaggio con le relative fideiussioni. |
 | **9 agosto 2018** | Tribunale Federale Nazionale (TFN) | Accoglie il ricorso cautelare di Novara e Catania sulla graduatoria dei ripescaggi, sospendendo le preclusioni temporali. | Il Catania torna virtualmente in pole position per il ripescaggio in Serie B. |
 | **13 agosto 2018** | Commissario Straordinario FIGC (Roberto Fabbricini) | Emanazione dei **CC.UU. nn. 47, 48 e 49**: deroga all'art. 49 NOIF, blocco totale dei ripescaggi e varo della **Serie B a 19 squadre**. | Esclusione de facto di tutte le società aspiranti al ripescaggio; la Lega Pro rinvia l'inizio della Serie C per i club ricorrenti. |
 | **11 settembre 2018** | Collegio di Garanzia dello Sport CONI (Sez. Unite) | Presieduto da Franco Frattini, dichiara inammissibili/improcedibili i ricorsi contro la Serie B a 19 squadre, rimettendo agli organi endofederali (TFN) la competenza in primo grado. | La Serie B prosegue a 19 squadre; le prime cinque giornate del Catania in Serie C vengono rinviate d'ufficio. |
@@ -90,7 +90,7 @@ Nella primavera-estate del 2018 il [[societa/2004-era-pulvirenti|Calcio Catania 
 
 ## Conseguenze Economiche e Agonistiche
 
-La mancata riammissione in Serie B nell'estate 2018 privò il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] dei ricavi televisivi e di mutualità della cadetteria, aggravando in modo irreversibile l'esposizione debitoria della società e della controllante *Finaria* verso l'erario e l'Istituto per il Credito Sportivo (mutuo per [[stadio/torre-del-grifo|Torre del Grifo Village]]), crisi che avrebbe condotto nel 2020 alla cessione all'asta alla [[societa/2020-sigi-e-fallimento|SIGI]] e nel dicembre 2021 al [[vicende-legali/fallimento-2021-art52-noif|fallimento della matricola 11700]].
+La mancata riammissione in Serie B nell'estate 2018 privò il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] dei ricavi televisivi e di mutualità della cadetteria, aggravando in modo irreversibile l'esposizione debitoria della società e della controllante *Finaria* verso l'erario e l'Istituto per il Credito Sportivo (mutuo per [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]]), crisi che avrebbe condotto nel 2020 alla cessione all'asta alla [[01-societa/epoche/2020-sigi-e-fallimento|SIGI]] e nel dicembre 2021 al [[01-societa/vicende-legali/fallimento-2021-art52-noif|fallimento della matricola 11700]].
 
 ---
 

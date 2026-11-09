@@ -43,7 +43,7 @@ Cresciuto professionalmente al fianco del decano [[07-media-e-comunicazione/firm
 
 ## 1. Il Ruolo di Guida nella Redazione de "La Sicilia"
 
-Entrato al quotidiano di Domenico Sanfilippo negli anni Cinquanta, in piena epoca d'oro del Catania di Piero Andreoli e Carmelo Di Bella:
+Entrato al quotidiano di Domenico Sanfilippo negli anni Cinquanta, in piena epoca d'oro del Catania di [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]:
 
 * **Il Coordinamento delle Pagine Sportive**: Giuffrida si impose per una straordinaria capacità organizzativa nel coordinamento della fitta rete di corrispondenti provinciali e regionali. Le pagine dello sport de *La Sicilia* divennero sotto la sua cura un modello di completezza informativa: non solo la prima squadra in Serie A o Serie B, ma un monitoraggio scrupoloso dei campionati dilettantistici, del settore giovanile rossazzurro e dell'intero movimento polisportivo cittadino.
 * **L'Equilibrio Cronachistico**: Dotato di una prosa elegante, essenziale e asciutta, Giuffrida si distinse per la capacità di mantenere equilibrio e lucidità anche nei momenti di massima tensione agonistica, come le convulse vigilie dei derby siciliani contro il Palermo o le accese battaglie societarie dell'era di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].

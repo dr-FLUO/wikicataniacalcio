@@ -12,18 +12,18 @@ date_end: 1993-10-15
 legal_form: Società per Azioni (S.p.A.)
 figc_matricola: '11700'
 presidents_refs:
-- '[[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio (1967-1969)]]'
-- '[[societa/presidenti/angelo-massimino|Angelo Massimino (1969-1987 e 1992-1996)]]'
+- '[[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio (1967-1969)]]'
+- '[[01-societa/presidenti/angelo-massimino|Angelo Massimino (1969-1987 e 1992-1996)]]'
 - Bruno Ficili (1987-1988) e Franco Proto (1988-1992)
 coaches_refs:
-- '[[tesserati/allenatori/egizio-rubino|Egizio Rubino]]'
+- '[[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]'
 - Guido Mazzetti
 - Lino De Petrillo
-- '[[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]'
+- '[[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]'
 stadium_refs:
-- '[[stadio/angelo-massimino|Stadio Cibali]]'
-prev_era: '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
-next_era: '[[societa/2000-era-gaucci]] |Calcio Catania S.p.A. — Risalita dall''Eccellenza
+- '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]'
+prev_era: '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+next_era: '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. — Risalita dall''Eccellenza
   e Gestione Gaucci (1993-2004)]]'
 tags:
 - calcio-catania-spa
@@ -62,26 +62,26 @@ image_credits:
 
 # Calcio Catania S.p.A. — Era Massimino (1967–1993)
 
-Il **Calcio Catania S.p.A.** venne costituito con atto notarile il **17 settembre 1967**, trasformando in società per azioni il precedente [[societa/1946-club-calcio-catania|Club Calcio Catania]] in ottemperanza alla riforma federale delle leghe professionistiche e conservando senza soluzione di continuità la **matricola FIGC 11700**. Dopo l'ultimo biennio di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], nell'estate del **1969** l'imprenditore edile [[societa/presidenti/angelo-massimino|Angelo Massimino]] (*«Il Presidentissimo»*) acquisì il controllo del pacchetto azionario, inaugurando un'epopea popolare e sportiva lunga oltre un quarto di secolo (interrotta soltanto nel quinquennio **1987–1992** dalla gestione di **Franco Proto**).
+Il **Calcio Catania S.p.A.** venne costituito con atto notarile il **17 settembre 1967**, trasformando in società per azioni il precedente [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] in ottemperanza alla riforma federale delle leghe professionistiche e conservando senza soluzione di continuità la **matricola FIGC 11700**. Dopo l'ultimo biennio di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], nell'estate del **1969** l'imprenditore edile [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] (*«Il Presidentissimo»*) acquisì il controllo del pacchetto azionario, inaugurando un'epopea popolare e sportiva lunga oltre un quarto di secolo (interrotta soltanto nel quinquennio **1987–1992** dalla gestione di **Franco Proto**).
 
 > [!abstract] I Traguardi Simbolo dell'Epopea Massimino (1969–1993)
-> Sotto la presidenza di [[societa/presidenti/angelo-massimino|Angelo Massimino]], il Calcio Catania S.p.A. ha conquistato **due promozioni in Serie A** (nella [[stagioni/1969-1970|Stagione 1969-1970]] con [[tesserati/allenatori/egizio-rubino|Egizio Rubino]] e nella [[stagioni/1982-1983|Stagione 1982-1983]] con [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] negli spareggi dell'Olimpico di Roma davanti ai [[tifoseria/eventi/esodo-roma-1983|40.000 tifosi catanesi]]), due promozioni dalla Serie C alla Serie B (1974-1975 e [[stagioni/1979-1980|1979-1980]]) e ha visto consacrata la bandiera [[tesserati/calciatori/damiano-morra|Damiano Morra]] (281 presenze ufficiali).
+> Sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il Calcio Catania S.p.A. ha conquistato **due promozioni in Serie A** (nella [[02-cronistoria/stagioni/1969-1970|Stagione 1969-1970]] con [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e nella [[02-cronistoria/stagioni/1982-1983|Stagione 1982-1983]] con [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] negli spareggi dell'Olimpico di Roma davanti ai [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|40.000 tifosi catanesi]]), due promozioni dalla Serie C alla Serie B ([[02-cronistoria/stagioni/1974-1975|1974-1975]] e [[02-cronistoria/stagioni/1979-1980|1979-1980]]) e ha visto consacrata la bandiera [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] (281 presenze ufficiali).
 
 ---
 
 ## Dalla Costituzione della S.p.A. (1967) alle Promozioni degli Anni Settanta
 
-Costituita la società per azioni il **17 settembre 1967**, il passaggio di consegne del **1969** a [[societa/presidenti/angelo-massimino|Angelo Massimino]] coincise con l'immediato ritorno in massima serie nella [[stagioni/1969-1970|Stagione 1969-1970]]: la squadra guidata da [[tesserati/allenatori/egizio-rubino|Egizio Rubino]] chiuse al 3º posto in Serie B suggellando la promozione il **14 giugno 1970** con la vittoria per 3-1 sul campo della Reggina (doppietta di Aquilino Bonfanti e rete di Limena).
+Costituita la società per azioni il **17 settembre 1967**, il passaggio di consegne del **1969** a [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] coincise con l'immediato ritorno in massima serie nella [[02-cronistoria/stagioni/1969-1970|Stagione 1969-1970]]: la squadra guidata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] chiuse al 3º posto in Serie B suggellando la promozione il **14 giugno 1970** con la vittoria per 3-1 sul campo della Reggina (doppietta di [[03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti|Aquilino Bonfanti]] e rete di Limena).
 
-Dopo l'immediata retrocessione del 1970-1971 e la discesa in Serie C nel 1974, Massimino e [[tesserati/allenatori/egizio-rubino|Rubino]] riportarono subito gli etnei in Serie B nel **1974-1975** (con i gol di Giampietro Spagnolo e Claudio Ciceri). Retrocesso nuovamente nel 1977 e sconfitto per 1-2 nello spareggio di Catanzaro contro la Nocerina nel 1978, il Catania — nel frattempo segnato dalla nascita in [[tifoseria/curva-sud/index|Curva Sud]] della [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto (1979)]] di [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]] — dominò il Girone B di Serie C1 nella [[stagioni/1979-1980|Stagione 1979-1980]] con Lino De Petrillo in panchina e la coppia gol Marco Piga – Lorenzo Barlassina.
+Dopo l'immediata retrocessione del [[02-cronistoria/stagioni/1970-1971|1970-1971]] e la discesa in Serie C nel 1974, Massimino e [[03-tesserati/allenatori/egizio-rubino|Rubino]] riportarono subito gli etnei in Serie B nel **1974-1975** (con i gol di [[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]] e [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]]). Retrocesso nuovamente nel 1977 e sconfitto per 1-2 nello spareggio di Catanzaro contro la Nocerina nel 1978, il Catania — nel frattempo segnato dalla nascita in [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto (1979)]] di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] — dominò il Girone B di Serie C1 nella [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980]] con [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] in panchina e la coppia gol [[03-tesserati/calciatori/archivio/m-o/marco-piga|Marco Piga]] – [[03-tesserati/allenatori/lorenzo-barlassina|Lorenzo Barlassina]].
 
 ---
 
 ## Il Trionfo di Roma (1983), la Serie A 1983-1984 e la Parentesi Proto (1987–1992)
 
-L'apice emotivo della gestione [[societa/presidenti/angelo-massimino|Massimino]] venne raggiunto nella [[stagioni/1982-1983|Stagione 1982-1983]]: classificatosi al 3º posto in Serie B a quota 45 punti a pari merito con Como e Cremonese, il Catania di [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] (con Roberto Sorrentino, [[tesserati/calciatori/damiano-morra|Damiano Morra]], Claudio Ranieri, Ennio Mastalli e Aldo Cantarutti) conquistò la Serie A negli spareggi dello Stadio Olimpico di Roma battendo **1-0 il Como** ([[partite/1982-1983/spareggio-catania-como-1-0|18 giugno 1983]], gol di Angelo Crialesi) e pareggiando **0-0 con la Cremonese** ([[partite/1982-1983/spareggio-catania-cremonese-0-0|25 giugno 1983]]) davanti allo storico [[tifoseria/eventi/esodo-roma-1983|esodo di 40.000 catanesi]].
+L'apice emotivo della gestione [[01-societa/presidenti/angelo-massimino|Massimino]] venne raggiunto nella [[02-cronistoria/stagioni/1982-1983|Stagione 1982-1983]]: classificatosi al 3º posto in Serie B a quota 45 punti a pari merito con Como e Cremonese, il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] (con [[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]], [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]], [[03-tesserati/calciatori/archivio/a-c/claudio-ranieri|Claudio Ranieri]], [[03-tesserati/calciatori/archivio/d-f/ennio-mastalli|Ennio Mastalli]] e [[03-tesserati/calciatori/storici/aldo-cantarutti|Aldo Cantarutti]]) conquistò la Serie A negli spareggi dello Stadio Olimpico di Roma battendo **1-0 il Como** ([[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0|18 giugno 1983]], gol di [[03-tesserati/calciatori/archivio/a-c/angelo-crialesi|Angelo Crialesi]]) e pareggiando **0-0 con la Cremonese** ([[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0|25 giugno 1983]]) davanti allo storico [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|esodo di 40.000 catanesi]].
 
-La successiva [[stagioni/1983-1984|Stagione 1983-1984]] in Serie A — nonostante l'arrivo dei brasiliani Pedrinho e Luvanor — si chiuse tuttavia all'ultimo posto con soli **12 punti** (1 vittoria, 10 pareggi e 19 sconfitte) e lunghe squalifiche dello [[stadio/angelo-massimino|Stadio Cibali]]. Scivolato in Serie C1 nel **1987**, Massimino cedette la guida a una cordata capeggiata da **Franco Proto** (con l'avvocato Bruno Ficili presidente nel 1987-1988 e lo stesso Proto dal 1988 al 1992). Nell'aprile **1992** [[societa/presidenti/angelo-massimino|Angelo Massimino]] riacquistò la maggioranza del club, difendendone l'esistenza nell'estate **1993** dinanzi al TAR e al CGA nel [[vicende-legali/caso-catania-1993-eccellenza|contenzioso contro la FIGC di Matarrese]].
+La successiva [[02-cronistoria/stagioni/1983-1984|Stagione 1983-1984]] in Serie A — nonostante l'arrivo dei brasiliani Pedrinho e Luvanor — si chiuse tuttavia all'ultimo posto con soli **12 punti** (1 vittoria, 10 pareggi e 19 sconfitte) e lunghe squalifiche dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]. Scivolato in Serie C1 nel **1987**, Massimino cedette la guida a una cordata capeggiata da **Franco Proto** (con l'avvocato Bruno Ficili presidente nel [[02-cronistoria/stagioni/1987-1988|1987-1988]] e lo stesso Proto dal 1988 al 1992). Nell'aprile **1992** [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] riacquistò la maggioranza del club, difendendone l'esistenza nell'estate **1993** dinanzi al TAR e al CGA nel [[01-societa/vicende-legali/caso-catania-1993-eccellenza|contenzioso contro la FIGC di Matarrese]].
 
 ---
 
@@ -89,11 +89,11 @@ La successiva [[stagioni/1983-1984|Stagione 1983-1984]] in Serie A — nonostant
 
 | Periodo | Presidente / Proprietà | Allenatori Simbolo | Categoria | Eventi Chiave |
 | :--- | :--- | :--- | :--- | :--- |
-| **1967–1969** | [[societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] | Luigi Valsecchi, Egizio Rubino | Serie B | Costituzione del **Calcio Catania S.p.A.** il **17/09/1967** (matricola 11700). |
-| **1969–1974** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] (1º ciclo) | [[tesserati/allenatori/egizio-rubino\|Egizio Rubino]], Carmelo Di Bella | Serie B ➔ Serie A ➔ Serie B | **Promozione in Serie A** nella [[stagioni/1969-1970\|Stagione 1969-1970]] (Reggina-Catania 1-3). |
-| **1974–1987** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] | [[tesserati/allenatori/egizio-rubino\|Egizio Rubino]], Lino De Petrillo, [[tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]] | Serie C ➔ Serie B ➔ Serie A | Promozioni in B (1974-75 e [[stagioni/1979-1980\|1979-80]]); **Promozione in Serie A agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|spareggi di Roma]]** ([[stagioni/1982-1983\|1982-1983]]); ultimo posto a 12 pt in [[stagioni/1983-1984\|Serie A 1983-1984]]. |
-| **1987–1992** | Bruno Ficili (1987-88), Franco Proto (1988-92) | Bruno Pace, Carmelo Russo, Angelo Sormani, Giuseppe Caramanno | Serie C1 | Cinque stagioni in Serie C1; semifinale Coppa Italia Serie C 1989-90. |
-| **1992–1993** | [[societa/presidenti/angelo-massimino\|Angelo Massimino]] (2º ciclo) | Salvatore Bianchetti | Serie C1 | Ritorno di Massimino; [[vicende-legali/caso-catania-1993-eccellenza\|contenzioso estivo 1993 al TAR/CGA]], salvataggio della matricola 11700 e ripartenza dall'[[stagioni/1993-1994\|Eccellenza 1993-1994]]. |
+| **1967–1969** | [[01-societa/presidenti/ignazio-marcoccio\|Ignazio Marcoccio]] | [[03-tesserati/allenatori/luigi-valsecchi\|Luigi Valsecchi]], Egizio Rubino | Serie B | Costituzione del **Calcio Catania S.p.A.** il **17/09/1967** (matricola 11700). |
+| **1969–1974** | [[01-societa/presidenti/angelo-massimino\|Angelo Massimino]] (1º ciclo) | [[03-tesserati/allenatori/egizio-rubino\|Egizio Rubino]], [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]] | Serie B ➔ Serie A ➔ Serie B | **Promozione in Serie A** nella [[02-cronistoria/stagioni/1969-1970\|Stagione 1969-1970]] (Reggina-Catania 1-3). |
+| **1974–1987** | [[01-societa/presidenti/angelo-massimino\|Angelo Massimino]] | [[03-tesserati/allenatori/egizio-rubino\|Egizio Rubino]], Lino De Petrillo, [[03-tesserati/allenatori/gianni-di-marzio\|Gianni Di Marzio]] | Serie C ➔ Serie B ➔ Serie A | Promozioni in B (1974-75 e [[02-cronistoria/stagioni/1979-1980\|1979-80]]); **Promozione in Serie A agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|spareggi di Roma]]** ([[02-cronistoria/stagioni/1982-1983\|1982-1983]]); ultimo posto a 12 pt in [[02-cronistoria/stagioni/1983-1984\|Serie A 1983-1984]]. |
+| **1987–1992** | Bruno Ficili (1987-88), Franco Proto (1988-92) | [[03-tesserati/allenatori/bruno-pace\|Bruno Pace]], [[03-tesserati/allenatori/carmelo-russo\|Carmelo Russo]], [[03-tesserati/allenatori/angelo-sormani\|Angelo Sormani]], [[03-tesserati/allenatori/giuseppe-caramanno\|Giuseppe Caramanno]] | Serie C1 | Cinque stagioni in Serie C1; semifinale Coppa Italia Serie C 1989-90. |
+| **1992–1993** | [[01-societa/presidenti/angelo-massimino\|Angelo Massimino]] (2º ciclo) | [[03-tesserati/allenatori/salvatore-bianchetti\|Salvatore Bianchetti]] | Serie C1 | Ritorno di Massimino; [[01-societa/vicende-legali/caso-catania-1993-eccellenza\|contenzioso estivo 1993 al TAR/CGA]], salvataggio della matricola 11700 e ripartenza dall'[[02-cronistoria/stagioni/1993-1994\|Eccellenza 1993-1994]]. |
 
 ---
 

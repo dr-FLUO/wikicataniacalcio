@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1979-1981
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/lino-de-petrillo.jpg
 image_credits:
 - image_path: assets/images/allenatori/lino-de-petrillo.jpg
@@ -109,7 +109,7 @@ Il 25 maggio 1980 a Reggio Calabria guidò i rossazzurri nella vittoria per 1-0 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1979-1980\|1979-1980]], [[stagioni/1980-1981\|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1979-1980\|1979-1980]], [[02-cronistoria/stagioni/1980-1981\|1980-1981]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

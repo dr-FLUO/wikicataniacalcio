@@ -18,7 +18,7 @@ league_appearances: 48
 total_goals: 13
 league_goals: 12
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/calciatori/caetano-calil.jpg
   alt_text: Ritratto ufficiale di Caetano Calil in maglia rossazzurra
@@ -116,7 +116,7 @@ tm_id: 56723
   </table>
 </div>
 
-**Caetano Prata Calil** (Guaxupé, 20 maggio 1984) è un ex calciatore brasiliano, nel ruolo di attaccante e seconda punta. Acquistato dal Catania nell'agosto **2015** dopo aver trascinato la Salernitana alla promozione, fu il perno offensivo della complessa [[stagioni/2015-2016|Stagione 2015-2016]] in Lega Pro.
+**Caetano Prata Calil** (Guaxupé, 20 maggio 1984) è un ex calciatore brasiliano, nel ruolo di attaccante e seconda punta. Acquistato dal Catania nell'agosto **2015** dopo aver trascinato la Salernitana alla promozione, fu il perno offensivo della complessa [[02-cronistoria/stagioni/2015-2016|Stagione 2015-2016]] in Lega Pro.
 
 In un'annata drammatica iniziata con una penalizzazione federale di 9 punti conseguente all'inchiesta *I Treni del Gol*, Calil prese per mano la squadra allenata da Giuseppe Pancaro, realizzando **11 reti** decisive che valsero la conquista della salvezza diretta senza passare dai playout.
 

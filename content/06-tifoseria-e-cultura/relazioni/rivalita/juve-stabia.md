@@ -45,7 +45,7 @@ La rivalità tra **Catania** e **Juve Stabia** è una contrapposizione sportiva 
 
 ## 1. Origini della Frizione a Fine Anni Novanta
 
-I primi attriti significativi tra le due compagini risalgono alla fine degli anni Novanta, nel campionato di Serie C1 1999-2000:
+I primi attriti significativi tra le due compagini risalgono alla fine degli anni Novanta, nel campionato di Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2000]]:
 - Lo Stadio Romeo Menti di Castellammare di Stabia, caratterizzato da gradinate a ridosso del terreno di gioco e varchi d'accesso angusti nel fitto tessuto urbano cittadino, si è sempre rivelato un terreno particolarmente ostile per le tifoserie ospiti.
 - La presenza numerosa di tifosi catanesi in Campania in quegli anni accese dispute territoriali con i gruppi organizzati stabiesi (tra cui la *Curva Sud Castellammare*).
 
@@ -56,6 +56,14 @@ I primi attriti significativi tra le due compagini risalgono alla fine degli ann
 Con la contemporanea militanza nel girone C di Serie C:
 - I confronti tra le due squadre hanno registrato momenti di elevata tensione: nel 2019 e nel 2021 si verificarono tentativi di contatto all'esterno dello stadio, con fitto lancio di fumogeni e bottiglie all'arrivo dei convogli etnei scortati dalla polizia.
 - Le divergenze di alleanze nel panorama del tifo meridionale hanno consolidato l'inimicizia, sfociata in frequenti divieti di vendita dei biglietti per motivi di sicurezza pubblica decretati dal prefetto di Napoli.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

@@ -12,7 +12,7 @@ nationality: Italia
 catania_periods:
 - 1993-1994
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-novanta
@@ -78,32 +78,6 @@ aliases:
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Franco Indelicato</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>ND</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1993–1994</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Franco Indelicato** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -126,7 +100,16 @@ Diresse la compagine etnea nelle prime 22 giornate, affrontando campi polverosi 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1993-1994\|1993-1994]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1993-1994\|1993-1994]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

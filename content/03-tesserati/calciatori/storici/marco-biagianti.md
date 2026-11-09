@@ -22,7 +22,7 @@ serie_a_appearances: 148
 serie_a_goals: 3
 total_goals: 12
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - capitano
@@ -122,41 +122,41 @@ tm_id: 47646
   </table>
 </div>
 
-**Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[societa/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **255 in campionato regolare**, **11 nei play-off** e **18 nelle coppe**, per un totale di **148 gare e 3 reti in Serie A** e **12 reti complessive**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
+**Marco Biagianti** (Firenze, 19 aprile 1984) è un ex calciatore e dirigente sportivo italiano, di ruolo centrocampista. È il **primatista assoluto di presenze ufficiali nella storia del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania]]** con **284 gare complessive** (di cui **255 in campionato regolare**, **11 nei play-off** e **18 nelle coppe**, per un totale di **148 gare e 3 reti in Serie A** e **12 reti complessive**), disputate nell'arco di undici stagioni suddivise in due cicli (2007–2013 e 2016–2020) indossando la storica maglia numero 27 e la fascia di capitano sia in massima serie sia in terza divisione.
 
 ## Il Primo Ciclo in Serie A (2007–2013): Da Mediano di Rottura a Capitano
 
-Cresciuto nel settore giovanile della Fiorentina e affermatosi tra Chieti e Pro Vasto, Marco Biagianti approda alle pendici dell'Etna nel **gennaio 2007**, fortemente voluto dall'amministratore delegato [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] durante la presidenza di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]. Esordisce in Serie A con il tecnico [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] il **4 marzo 2007** sul campo neutro di Rimini contro il Siena (1-1), nella complessa seconda metà di stagione seguita ai [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]].
+Cresciuto nel settore giovanile della Fiorentina e affermatosi tra Chieti e Pro Vasto, Marco Biagianti approda alle pendici dell'Etna nel **gennaio 2007**, fortemente voluto dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] durante la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]. Esordisce in Serie A con il tecnico [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] il **4 marzo 2007** sul campo neutro di Rimini contro il Siena (1-1), nella complessa seconda metà di stagione seguita ai [[01-societa/vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]].
 
-A partire dal campionato 2007-2008 (con Silvio Baldini e poi Walter Zenga in panchina), Biagianti si impone come perno inamovibile della mediana rossazzurra per temperamento agonistico, capacità di interdizione e inserimento senza palla. Il **1º marzo 2009**, nello storico trionfo esterno per **0-4** sul campo del [[partite/precedenti/palermo|Palermo]] nel *Derby di Sicilia*, realizza di testa sugli sviluppi di un corner la sua prima rete in Serie A (il momentaneo 0-2 dopo il gol di Pablo Ledesma e prima della leggendaria parabola da centrocampo di [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]]).
+A partire dal campionato 2007-2008 (con [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] e poi [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] in panchina), Biagianti si impone come perno inamovibile della mediana rossazzurra per temperamento agonistico, capacità di interdizione e inserimento senza palla. Il **1º marzo 2009**, nello storico trionfo esterno per **0-4** sul campo del [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo]] nel *Derby di Sicilia*, realizza di testa sugli sviluppi di un corner la sua prima rete in Serie A (il momentaneo 0-2 dopo il gol di [[03-tesserati/calciatori/archivio/p-r/pablo-ledesma|Pablo Ledesma]] e prima della leggendaria parabola da centrocampo di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]]).
 
-Nominato capitano della squadra, guida lo spogliatoio nelle salvezze firmate da Siniša Mihajlović (2009-2010), [[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]] (2010-2011), Vincenzo Montella ([[stagioni/2011-2012|2011-2012]], in cui segna nel 3-3 esterno contro l'[[partite/precedenti/inter|Inter]] a San Siro) e [[tesserati/allenatori/rolando-maran|Rolando Maran]] nella storica [[stagioni/2012-2013|Stagione 2012-2013]] chiusa con il record di 56 punti. Nell'agosto 2013, dopo le prime gare del torneo [[stagioni/2013-2014|2013-2014]], si trasferisce al Livorno lasciando temporaneamente Catania con 160 presenze all'attivo.
+Nominato capitano della squadra, guida lo spogliatoio nelle salvezze firmate da [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] (2009-2010), [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]] (2010-2011), [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] ([[02-cronistoria/stagioni/2011-2012|2011-2012]], in cui segna nel 3-3 esterno contro l'[[02-cronistoria/partite-storiche/precedenti/inter|Inter]] a San Siro) e [[03-tesserati/allenatori/rolando-maran|Rolando Maran]] nella storica [[02-cronistoria/stagioni/2012-2013|Stagione 2012-2013]] chiusa con il record di 56 punti. Nell'agosto 2013, dopo le prime gare del torneo [[02-cronistoria/stagioni/2013-2014|2013-2014]], si trasferisce al Livorno lasciando temporaneamente Catania con 160 presenze all'attivo.
 
 ## Il Ritorno per Amore in Serie C (2016–2020) e il Record dei 284 Incontri
 
-Nell'estate del **2016**, con il club sprofondato in terza serie e gravato dalle penalizzazioni seguite all'inchiesta [[vicende-legali/treni-del-gol-2015|I Treni del Gol]], Biagianti compie una scelta di appartenenza identitaria tornando a parametro zero a Catania in Lega Pro per guidare la ricostruzione tecnica e morale nello [[stadio/angelo-massimino|Stadio Angelo Massimino]] e nel centro sportivo di [[stadio/torre-del-grifo|Torre del Grifo Village]].
+Nell'estate del **2016**, con il club sprofondato in terza serie e gravato dalle penalizzazioni seguite all'inchiesta [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]], Biagianti compie una scelta di appartenenza identitaria tornando a parametro zero a Catania in Lega Pro per guidare la ricostruzione tecnica e morale nello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e nel centro sportivo di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]].
 
-Ripresa la fascia di capitano (condivisa con [[tesserati/calciatori/francesco-lodi|Francesco Lodi]]), disputa quattro stagioni consecutive in Serie C sfiorando per due volte il ritorno in cadetteria nelle drammatiche semifinali playoff del 2017-2018 (sotto Cristiano Lucarelli, annata seguita dal [[vicende-legali/blocco-ripescaggi-2018|blocco dei ripescaggi in Serie B]]) e del 2018-2019. Il **3 novembre 2019**, scendendo in campo contro il Bari allo Stadio Massimino, raggiunge e supera lo storico primato di **281 presenze** appartenuto per 35 anni a [[tesserati/calciatori/damiano-morra|Damiano Morra]], portando l'asticella definitiva a **284 apparizioni ufficiali**.
+Ripresa la fascia di capitano (condivisa con [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]), disputa quattro stagioni consecutive in Serie C sfiorando per due volte il ritorno in cadetteria nelle drammatiche semifinali playoff del 2017-2018 (sotto [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]], annata seguita dal [[01-societa/vicende-legali/blocco-ripescaggi-2018|blocco dei ripescaggi in Serie B]]) e del 2018-2019. Il **3 novembre 2019**, scendendo in campo contro il Bari allo Stadio Massimino, raggiunge e supera lo storico primato di **281 presenze** appartenuto per 35 anni a [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]], portando l'asticella definitiva a **284 apparizioni ufficiali**.
 
 ### Dettaglio Statistico per Stagione nel Catania
 
 | Stagione | Società / Matricola | Categoria | Presenze Camp. (Playoff) | Reti Camp. | Coppe Ufficiali (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2006-2007** (gen.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 21 | 0 | 4 (0) | **25 (0)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 2 | 1 (0) | **33 (2)** |
-| **2009-2010** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 0 | 2 (0) | **30 (0)** |
-| **2010-2011** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 15 | 0 | 0 (0) | **15 (0)** |
-| **[[stagioni/2011-2012\|2011-2012]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 1 | 1 (0) | **20 (1)** |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 0 | 2 (0) | **37 (0)** |
-| **[[stagioni/2013-2014\|2013-2014]]** (ago.) | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1 | 0 | 0 (0) | **1 (0)** |
-| **2016-2017** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Lega Pro | 31 (+1 PO) | 1 | 1 (0) | **33 (1)** |
-| **2017-2018** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 28 (+4 PO) | 0 | 1 (0) | **33 (0)** |
-| **2018-2019** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 32 (+5 PO) | 1 | 2 (1) | **39 (2)** |
-| **2019-2020** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 14 (+1 PO) | 0 | 1 (0) | **16 (0)** |
+| **2006-2007** (gen.) | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 2 | 0 | 0 (0) | **2 (0)** |
+| **2007-2008** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 21 | 0 | 4 (0) | **25 (0)** |
+| **2008-2009** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 32 | 2 | 1 (0) | **33 (2)** |
+| **2009-2010** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 28 | 0 | 2 (0) | **30 (0)** |
+| **2010-2011** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 15 | 0 | 0 (0) | **15 (0)** |
+| **[[02-cronistoria/stagioni/2011-2012\|2011-2012]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 19 | 1 | 1 (0) | **20 (1)** |
+| **[[02-cronistoria/stagioni/2012-2013\|2012-2013]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 35 | 0 | 2 (0) | **37 (0)** |
+| **[[02-cronistoria/stagioni/2013-2014\|2013-2014]]** (ago.) | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1 | 0 | 0 (0) | **1 (0)** |
+| **2016-2017** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Lega Pro | 31 (+1 PO) | 1 | 1 (0) | **33 (1)** |
+| **2017-2018** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 28 (+4 PO) | 0 | 1 (0) | **33 (0)** |
+| **2018-2019** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 32 (+5 PO) | 1 | 2 (1) | **39 (2)** |
+| **2019-2020** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie C | 14 (+1 PO) | 0 | 1 (0) | **16 (0)** |
 | **Totale Carriera** | **11 Stagioni in Rossazzurro** | **Serie A / Serie C** | **258 (+11 PO)** | **5** | **15 (1)** | **284 (6)** |
 
-Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]] guidata dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[societa/presidenti/vincenzo-grella|Vincenzo Grella]], Biagianti è rientrato nei quadri societari come team manager e dirigente del settore giovanile, partecipando dalla panchina alla vittoria della [[stagioni/2022-2023|Serie D 2022-2023]].
+Dopo la rifondazione societaria del [[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD / Catania Football Club]] guidata dal presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]], Biagianti è rientrato nei quadri societari come team manager e dirigente del settore giovanile, partecipando dalla panchina alla vittoria della [[02-cronistoria/stagioni/2022-2023|Serie D 2022-2023]].
 
 ---
 
@@ -165,7 +165,7 @@ Dopo la rifondazione societaria del [[societa/2022-pelligra-catania-fc|Catania S
 <details class="nfc-stat-accordion">
 <summary><strong>Sintesi Statistica e Primato Storico</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
-- **Presenze Ufficiali Totali:** **284** (1º posto assoluto nella Hall of Fame rossazzurra, davanti a [[tesserati/calciatori/damiano-morra|Damiano Morra]] a quota 281 e [[tesserati/calciatori/mariano-izco|Mariano Izco]] a quota 280).
+- **Presenze Ufficiali Totali:** **284** (1º posto assoluto nella Hall of Fame rossazzurra, davanti a [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] a quota 281 e [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]] a quota 280).
 - **Dettaglio Competizioni:** 255 presenze in campionati regolari (148 in Serie A con 3 reti, 107 in Serie C con 8 reti), 11 presenze nei Playoff di Serie C, 18 presenze nelle coppe (11 in Coppa Italia maggiore, 7 con 1 rete in Coppa Italia Serie C) per complessive 284 presenze ufficiali e 12 reti.
 - **Riconoscimenti:** Convocazione in Nazionale Italiana (stage CT Cesare Prandelli, giugno 2009) e inserimento tra gli 11 più grandi calciatori della storia etnea nel sondaggio del settantennale del 1946.
 

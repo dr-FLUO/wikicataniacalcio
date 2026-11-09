@@ -6,7 +6,7 @@ entity_type: "evento_giudiziario"
 foundation_year: 2026
 origin_district: "Piazza Maria Montessori e vie limitrofe (Catania)"
 stadium_sector: "Esterno stadio / Area urbana di raccordo"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:

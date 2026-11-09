@@ -7,7 +7,7 @@ entity_type: gruppo_ultras
 foundation_year: 2004
 origin_district: Rione Passarello (tra Picanello, Ognina e Centro, Catania)
 stadium_sector: Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:
@@ -54,6 +54,14 @@ Gli **Skizzati Passarello** costituiscono una delle espressioni più autentiche 
 All'interno della **stagione calcistica 2026**, il gruppo mantiene una collocazione stabile nel cuore della Curva Nord:
 - Rappresenta una sentinella generazionale tra i vicoli del Passarello e la gradinata, aggregando nuove leve attorno ai principi della lealtà verso la maglia rossazzurra e del presenzialismo al Cibali.
 - Partecipa alle iniziative solidali di quartiere promosse dalla Curva Nord e cura il materiale visivo con caratteri che richiamano l'identità marinara e rionale della zona nord-orientale di Catania.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

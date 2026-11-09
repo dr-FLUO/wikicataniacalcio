@@ -12,7 +12,7 @@ nationality: Italia
 catania_periods:
 - 1988-1990
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-ottanta
@@ -83,32 +83,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Carmelo Russo</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1939</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1988–1990</strong> (dal 01/07/1988 al 30/06/1990)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,24</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Carmelo Russo** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1988-1990**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -121,7 +95,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Carmelo Russo guidò il Catania in Serie C1 tra il 1988 e il 1990, subentrando a Bruno Pace nel 1988-1989 e venendo confermato alla guida della squadra nel 1989-1990 per le prime 17 giornate.
+Carmelo Russo guidò il Catania in Serie C1 tra il 1988 e il 1990, subentrando a [[03-tesserati/allenatori/bruno-pace|Bruno Pace]] nel 1988-1989 e venendo confermato alla guida della squadra nel 1989-1990 per le prime 17 giornate.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -131,7 +105,7 @@ Nel 1988-1989 risalì la classifica fino a un dignitoso 10º posto finale con 31
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1988-1989\|1988-1989]], [[stagioni/1989-1990\|1989-1990]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1988-1989\|1988-1989]], [[02-cronistoria/stagioni/1989-1990\|1989-1990]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

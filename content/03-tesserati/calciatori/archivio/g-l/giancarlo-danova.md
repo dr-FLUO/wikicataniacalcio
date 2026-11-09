@@ -21,7 +21,7 @@ total_goals: 21
 league_goals: 10
 serie_a_goals: 10
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -121,7 +121,7 @@ Nel biennio 1964-1966 totalizzò 57 presenze e 10 reti in massima divisione, ris
 
 ### Il Biennio in Serie A al Cibali
 
-Nella stagione d'esordio 1964-1965 realizzò 6 reti fondamentali, tra cui il gol-vittoria contro la Lazio e marcature prestigiose a San Siro. Riconfermato nella [[stagioni/1965-1966|Stagione 1965-1966]], lottò fino all'ultima giornata segnando altre 4 reti prima del ritorno al Nord, lasciando un ricordo indelebile di correttezza e classe cristallina.
+Nella stagione d'esordio 1964-1965 realizzò 6 reti fondamentali, tra cui il gol-vittoria contro la Lazio e marcature prestigiose a San Siro. Riconfermato nella [[02-cronistoria/stagioni/1965-1966|Stagione 1965-1966]], lottò fino all'ultima giornata segnando altre 4 reti prima del ritorno al Nord, lasciando un ricordo indelebile di correttezza e classe cristallina.
 
 ---
 

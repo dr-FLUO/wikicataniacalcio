@@ -18,7 +18,7 @@ league_appearances: 69
 total_goals: 6
 league_goals: 16
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -99,7 +99,7 @@ tm_id: 389885
   </table>
 </div>
 
-**Orazio Sorbello** (Acireale, 10 agosto 1959) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Cresciuto calcisticamente in Sicilia e maturato nei campionati professionistici, vestì la maglia del Catania per la prima volta nella [[stagioni/1986-1987|Stagione 1986-1987]] in Serie B, risultando il capocannoniere della squadra con 6 reti in 30 partite.
+**Orazio Sorbello** (Acireale, 10 agosto 1959) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di centravanti. Cresciuto calcisticamente in Sicilia e maturato nei campionati professionistici, vestì la maglia del Catania per la prima volta nella [[02-cronistoria/stagioni/1986-1987|Stagione 1986-1987]] in Serie B, risultando il capocannoniere della squadra con 6 reti in 30 partite.
 
 Dopo importanti esperienze in giro per l'Italia, tornò a Catania nel 1991, difendendo i colori rossazzurri in Serie C1 per altri due tornei e siglando altre 12 reti prima dell'esclusione della società nel 1993.
 

@@ -66,6 +66,14 @@ L'intensità dell'ostilità non si è affievolita con il passare delle generazio
 
 ---
 
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
 ## Fonti Certificate
 
 1. **Il Mattino / Cronaca Avellino**, *Tafferugli al Partenio-Lombardi durante Avellino-Catania*, ilmattino.it, 2021.

@@ -1,14 +1,14 @@
 ---
 title: Michael Liguori — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Michael Liguori, attaccante del Calcio Catania con 10 presenze
+description: Biografia, presenze e statistiche ufficiali di Michael Liguori, attaccante del Calcio Catania con 11 presenze
   e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/michael-liguori
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Attaccante
 current_squad: true
-total_appearances: 10
+total_appearances: 11
 seasons_count: 3
 tags:
 - calciatori
@@ -59,9 +59,9 @@ catania_periods:
 - 2024-
 total_goals: 1
 total_assists: 1
-minutes_played: 232
+minutes_played: 261
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 484703
 ---
@@ -95,7 +95,7 @@ tm_id: 484703
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>10</td>
+        <td>11</td>
         <th>Goal / Assist</th>
         <td>1 / 1</td>
       </tr>
@@ -103,7 +103,7 @@ tm_id: 484703
   </table>
 </div>
 
-**Michael Liguori** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
+**Michael Liguori** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
@@ -113,21 +113,21 @@ tm_id: 484703
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2018-2019** | Ala destra | 2 | 0 | 0 | 1 | 0 | 15' |
 | **2019-2020** | Ala destra | 0 | 0 | 0 | 0 | 0 | 0' |
-| **2026-2027** | Ala destra | 8 | 1 | 1 | 1 | 0 | 217' |
-| **TOTALE** | — | **10** | **1** | **1** | **2** | **0** | **232'** |
+| **2026-2027** | Ala destra | 9 | 1 | 1 | 1 | 0 | 246' |
+| **TOTALE** | — | **11** | **1** | **1** | **2** | **0** | **261'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **232 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **261 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

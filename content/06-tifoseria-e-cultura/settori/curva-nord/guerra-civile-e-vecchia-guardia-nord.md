@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 1986
 origin_district: Quartieri Popolari Centro-Nord (Catania)
 stadium_sector: Curva Nord (Secondo Anello)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:

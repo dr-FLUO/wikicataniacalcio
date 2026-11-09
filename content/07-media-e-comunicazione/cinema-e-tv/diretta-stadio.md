@@ -46,7 +46,7 @@ Trascendendo la dimensione di semplice trasmissione d'informazione sportiva, *Di
 
 ## 1. Genesi e Struttura del Format con Angelo Micale
 
-La genesi della trasmissione si colloca nella stagione 1986-1987, quando la redazione giornalistica di Telecolor — allora guidata da Nino Lombardo e Mario Quintarelli — decise di affiancare alla storica radiocronaca domenicale un format televisivo agile e partecipativo:
+La genesi della trasmissione si colloca nella stagione [[02-cronistoria/stagioni/1986-1987|1986-1987]], quando la redazione giornalistica di Telecolor — allora guidata da Nino Lombardo e Mario Quintarelli — decise di affiancare alla storica radiocronaca domenicale un format televisivo agile e partecipativo:
 
 * **La Conduzione di Angelo Micale**: Figura cardine, ideatore e conduttore del programma per oltre un trentennio, [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale]] ha impresso alla trasmissione un'identità inconfondibile, caratterizzata da rigore cronachistico, equilibrio nei giudizi, eleganza nella gestione degli ospiti e una profonda deontologia professionale.
 * **La Squadra Storica degli Anni Novanta**: Negli anni Novanta, la conduzione in studio è stata impreziosita dalla presenza di figure quali **Antonella Gurrieri** (volto storico del TG Telecolor), **Niky Pandolfini** (curatore dell'amata rubrica di costume e colore *Fuorigioco*), Alfio Trovato e Sergio Tasca.
@@ -58,9 +58,9 @@ La genesi della trasmissione si colloca nella stagione 1986-1987, quando la reda
 
 L'anima pulsante dei collegamenti in diretta dallo stadio è legata indissolubilmente al timbro vocale e alla passione viscerale di [[07-media-e-comunicazione/firme-e-voci/angelo-patane|Angelo Patanè]]:
 
-* **Dalle Frequenze Radio allo Schermo TV**: Inviato di punta dai box della tribuna stampa del [[01-societa/strutture/stadio-angelo-massimino|Cibali/Massimino]] e nei principali stadi d'Italia sin dal 1995, Patanè ha raccontato oltre mille partite ufficiali del Catania, rendendo celebri le sue enfatiche descrizioni dei gol e dei salvataggi sulla linea.
-* **Il Commento Tecnico**: Al suo fianco, nelle telecronache integrali differite e nei commenti in tempo reale, si sono alternati allenatori esperti del calcio etneo quali Angelo Busetta, Carlo Breve e Maurizio Pellegrino, garantendo una lettura tecnica delle scelte tattiche.
-* **Le Partite Epiche**: Dalla promozione di Taranto nel 2002, alla cavalcata trionfale della Serie B 2005-2006, ai leggendari successi di Serie A (Catania-Inter 3-1 nel 2010 con i gol di Maxi López, Mascara e Martínez), la telecronaca di Patanè è divenuta la colonna sonora ufficiale della memoria collettiva dei sostenitori.
+* **Dalle Frequenze Radio allo Schermo TV**: Inviato di punta dai box della tribuna stampa del [[04-strutture/stadio-massimino/angelo-massimino|Cibali/Massimino]] e nei principali stadi d'Italia sin dal 1995, Patanè ha raccontato oltre mille partite ufficiali del Catania, rendendo celebri le sue enfatiche descrizioni dei gol e dei salvataggi sulla linea.
+* **Il Commento Tecnico**: Al suo fianco, nelle telecronache integrali differite e nei commenti in tempo reale, si sono alternati allenatori esperti del calcio etneo quali [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]], Carlo Breve e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]], garantendo una lettura tecnica delle scelte tattiche.
+* **Le Partite Epiche**: Dalla promozione di Taranto nel 2002, alla cavalcata trionfale della Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], ai leggendari successi di Serie A (Catania-Inter 3-1 nel 2010 con i gol di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], Mascara e Martínez), la telecronaca di Patanè è divenuta la colonna sonora ufficiale della memoria collettiva dei sostenitori.
 
 ---
 
@@ -69,7 +69,7 @@ L'anima pulsante dei collegamenti in diretta dallo stadio è legata indissolubil
 Nel corso del suo quarto decennio, *Diretta Stadio* ha saputo rinnovare radicalmente il proprio impianto tecnologico senza intaccare la fedeltà del pubblico:
 
 1. **La Convergenza Digitale su Siciliaweb**: Con il passaggio all'alta definizione e l'integrazione nell'ecosistema digitale multimediale *Siciliaweb*, il programma ha ampliato la propria platea grazie allo streaming online in tempo reale, permettendo alle storiche comunità di emigrati catanesi in Germania, Svizzera, Nord Italia, Australia e Americhe di vivere la partita in sincronia con la città.
-2. **Le 9 Trasferte del Quarantennale in Chiaro**: In occasione della stagione agonistica **2026/2027**, a coronamento dei quarant'anni esatti dalla prima puntata (1986–2026), Telecolor ha acquisito e trasmesso in chiaro all'interno di *Diretta Stadio* ben **nove trasferte ufficiali** del Catania FC guidato da Emilio Longo, confermando ascolti da record regionale sul canale 11 del digitale terrestre.
+2. **Le 9 Trasferte del Quarantennale in Chiaro**: In occasione della stagione agonistica **2026/2027**, a coronamento dei quarant'anni esatti dalla prima puntata (1986–2026), Telecolor ha acquisito e trasmesso in chiaro all'interno di *Diretta Stadio* ben **nove trasferte ufficiali** del Catania FC guidato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], confermando ascolti da record regionale sul canale 11 del digitale terrestre.
 
 ---
 

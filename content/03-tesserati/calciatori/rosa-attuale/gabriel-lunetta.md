@@ -1,11 +1,11 @@
 ---
 title: Gabriel Lunetta — Centrocampista e Cursore di Fascia del Catania FC
 description: Biografia, presenze e statistiche ufficiali di Gabriel Lunetta, esterno di centrocampo / cursore sinistro del
-  Calcio Catania con 76 presenze e 16 gol registrati in maglia rossazzurra.
+  Calcio Catania con 78 presenze e 16 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/gabriel-lunetta
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 birth_date: '1996-08-10'
 birth_place: Milano, Italia
 nationality: Italia
@@ -13,12 +13,12 @@ role: Esterno di centrocampo / Cursore sinistro
 current_squad: true
 catania_periods:
 - 2024-
-total_appearances: 76
+total_appearances: 78
 league_appearances: 32
 total_goals: 16
 league_goals: 4
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/gabriel-lunetta.jpg
 image_credits:
 - image_path: assets/images/calciatori/gabriel-lunetta.jpg
@@ -63,9 +63,9 @@ seasons_count: 3
 height: 186 cm
 foot: Sinistro
 total_assists: 9
-minutes_played: 4440
+minutes_played: 4574
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 287710
 ---
@@ -99,7 +99,7 @@ tm_id: 287710
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>76</td>
+        <td>78</td>
         <th>Goal / Assist</th>
         <td>16 / 9</td>
       </tr>
@@ -114,7 +114,7 @@ Nato a Milano il **10 agosto 1996**, **Gabriel Lunetta** è un centrocampista es
 ## 1. Il Percorso nei Settori Giovanili e in Serie B
 
 Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida esperienza tra Serie C e Serie B con le maglie di Gubbio, Reggiana, Alessandria, Crotone e Südtirol:
-* Giunto a Catania nell'estate del **2024**, si è rapidamente imposto come uno degli interpreti ideali per il modulo 3-4-2-1 prediletto dall'allenatore [[tesserati/allenatori/domenico-toscano|Domenico Toscano]].
+* Giunto a Catania nell'estate del **2024**, si è rapidamente imposto come uno degli interpreti ideali per il modulo 3-4-2-1 prediletto dall'allenatore [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]].
 
 ---
 
@@ -122,7 +122,7 @@ Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida es
 
 Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenza aerobica:
 * Garantisce copertura sull'out mancino e pericolosità sui calci piazzati offensivi.
-* Nella [[stagioni/2026-2027|stagione 2026-2027]], con l'avvento in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], si è distinto come pendolino di centrocampo per continuità di rendimento e 2 gol pesanti nelle sfide di vertice.
+* Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], con l'avvento in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], si conferma pendolino insostituibile sulla corsia mancina con 15 presenze ufficiali, 1 rete (nel 4-0 interno al Cosenza) e 2 assist.
 
 ---
 
@@ -132,20 +132,20 @@ Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenz
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Esterno di sinistra | 25 | 6 | 1 | 2 | 0 | 1570' |
 | **2025-2026** | Esterno di sinistra | 38 | 9 | 6 | 5 | 1 | 2209' |
-| **2026-2027** | Esterno di sinistra | 13 | 1 | 2 | 4 | 0 | 661' |
-| **TOTALE** | — | **76** | **16** | **9** | **11** | **1** | **4440'** |
+| **2026-2027** | Esterno di sinistra | 15 | 1 | 2 | 5 | 0 | 795' |
+| **TOTALE** | — | **78** | **16** | **9** | **12** | **1** | **4574'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **76 presenze ufficiali**, disputando **4440 minuti** di gioco effettivo, siglando **16 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **78 presenze ufficiali**, disputando **4574 minuti** di gioco effettivo, siglando **16 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[02-cronistoria/stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano e compagno di catena]]
 * [[03-tesserati/calciatori/rosa-attuale/salvatore-aloi|Salvatore Aloi: Centrocampista]]
 * [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore attuale]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
+* [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
 
 ---
 

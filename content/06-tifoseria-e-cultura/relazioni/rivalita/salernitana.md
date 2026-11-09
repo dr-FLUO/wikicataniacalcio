@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1980
 origin_district: "Catania e Salerno"
 stadium_sector: "Curve Massimino e Curva Sud Siberiano Salerno"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Arechi"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Arechi"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -48,6 +48,14 @@ L'ostilità affonda le radici negli anni Settanta e Ottanta, quando le due forma
 ## 2. Matrice Campanilistica
 
 L'inimicizia è alimentata anche da un forte orgoglio campanilistico contrapposto: Salerno e Catania rivendicano entrambe un ruolo di leadership e di compattezza numerica nel Mezzogiorno continentale e insulare, rendendo la sfida un classico ad altissimo rischio per l'Osservatorio Nazionale sulle Manifestazioni Sportive.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

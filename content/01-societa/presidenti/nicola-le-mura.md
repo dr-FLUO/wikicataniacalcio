@@ -5,7 +5,7 @@ slug: "01-societa/presidenti/nicola-le-mura"
 entity_type: "dirigente"
 date_start: 2020-07-23
 date_end: 2021-11-16
-club_entity: "[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]"
+club_entity: "[[01-societa/epoche/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]"
 figc_matricola: "11700"
 tags:
   - nicola-le-mura
@@ -31,16 +31,16 @@ aliases:
 ---
 # Nicola Le Mura (Amministratore Unico Calcio Catania S.p.A.)
 
-**Nicola Le Mura** (Catania, 1960) è un commercialista e manager sportivo, **Amministratore Unico del [[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A.]] dal 23 luglio 2020 al 16 novembre 2021**.
+**Nicola Le Mura** (Catania, 1960) è un commercialista e manager sportivo, **Amministratore Unico del [[01-societa/epoche/2020-sigi-e-fallimento|Calcio Catania S.p.A.]] dal 23 luglio 2020 al 16 novembre 2021**.
 
 > [!abstract] La Transizione SIGI e la Stagione della Resistenza
-> Il 23 luglio 2020, con l'aggiudicazione all'asta competitiva del Tribunale di Catania da parte della cordata SIGI (Sport Investment Group Italia), si chiuse formalmente l'era Finaria/Pulvirenti salvando in extremis la matricola **11700** dal fallimento immediato. Nicola Le Mura venne designato Amministratore Unico della società, guidando il club per l'intera annata di Serie C 2020-2021 e per i primi mesi del campionato successivo prima del passaggio di consegne a Sergio Santagati.
+> Il 23 luglio 2020, con l'aggiudicazione all'asta competitiva del Tribunale di Catania da parte della cordata SIGI (Sport Investment Group Italia), si chiuse formalmente l'era Finaria/Pulvirenti salvando in extremis la matricola **11700** dal fallimento immediato. Nicola Le Mura venne designato Amministratore Unico della società, guidando il club per l'intera annata di Serie C [[02-cronistoria/stagioni/2020-2021|2020-2021]] e per i primi mesi del campionato successivo prima del passaggio di consegne a Sergio Santagati.
 
 ---
 
 ## 1. La Stagione 2020-2021 in Serie C
 
-* In un contesto finanziario di eccezionale severità, Le Mura affidò la conduzione tecnica a [[tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] e successivamente a [[tesserati/allenatori/francesco-baldini|Francesco Baldini]].
+* In un contesto finanziario di eccezionale severità, Le Mura affidò la conduzione tecnica a [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] e successivamente a [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]].
 * Sul campo, la squadra disputò un campionato encomiabile, conquistando il **6º posto** nel Girone C con 59 punti e qualificandosi ai playoff promozione, onorando fino in fondo la maglia rossazzurra e il pubblico del Cibali-Massimino.
 
 ---

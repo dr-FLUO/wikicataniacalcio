@@ -15,7 +15,7 @@ catania_periods:
 - 1985-1986
 - 1992-1993
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image_credits:
 - image_path: assets/images/allenatori/salvatore-bianchetti.jpg
   alt_text: Ritratto ufficiale di Salvatore Bianchetti in maglia rossazzurra
@@ -100,32 +100,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Salvatore Bianchetti</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1950</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1985–1986, 1992–1993</strong> (dal 01/07/1992 al 30/06/1993)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,32</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Salvatore Bianchetti** (Catania, Italia, 1950) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986, 1992-1993**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -148,8 +122,8 @@ Nel 1992-1993 ottenne una straordinaria salvezza sul campo all'ottavo posto con 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1992-1993\|1992-1993]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1985-1986\|1985-1986]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1992-1993\|1992-1993]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

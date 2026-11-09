@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1995-1996
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - calciatori
@@ -88,32 +88,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Mario Russo</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1948</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1995–1996</strong> (dal 01/07/1995 al 30/06/1996)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,41</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Mario Russo** (Lecce, Italia, 1948 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -126,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Russo, generoso mediano del Catania in Serie B nella stagione 1972-1973, guidò gli etnei dalla 5ª alla 34ª giornata della Serie C2 1995-1996.
+Mario Russo, generoso mediano del Catania in Serie B nella stagione [[02-cronistoria/stagioni/1972-1973|1972-1973]], guidò gli etnei dalla 5ª alla 34ª giornata della Serie C2 1995-1996.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -136,7 +110,7 @@ Sotto la sua gestione la squadra sfiorò i play-off promozione chiudendo all'8º
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1995-1996\|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1995-1996\|1995-1996]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

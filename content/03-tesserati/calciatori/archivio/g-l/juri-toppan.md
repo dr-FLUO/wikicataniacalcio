@@ -81,10 +81,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Juri Toppan** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Juri Toppan** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
 Nato a Treviso (1990-01-20), Juri Toppan ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
 
 Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikidata Contributors**, *Scheda Biografica Entità Q6315113 (Juri Toppan)*, Wikimedia Foundation, 2026, Registro anagrafico e identificativo sportivo internazionale, [Wikimedia Foundation](https://www.wikidata.org/wiki/Q6315113).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

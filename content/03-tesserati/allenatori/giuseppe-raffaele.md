@@ -14,7 +14,7 @@ image: assets/images/allenatori/giuseppe-raffaele.jpg
 catania_periods:
 - 2020-2021
 club_entities:
-- '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
+- '[[01-societa/epoche/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
 image_credits:
 - image_path: assets/images/allenatori/giuseppe-raffaele.jpg
   alt_text: Ritratto ufficiale di Giuseppe Raffaele in maglia rossazzurra
@@ -112,13 +112,13 @@ Giuseppe Raffaele fu il primo allenatore della rinascita societaria sotto la pro
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante le pesanti sanzioni e la pandemia di COVID-19, tenne la squadra stabilmente nelle prime posizioni della classifica prima del passaggio di consegne a Francesco Baldini.
+Nonostante le pesanti sanzioni e la pandemia di COVID-19, tenne la squadra stabilmente nelle prime posizioni della classifica prima del passaggio di consegne a [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2020-2021\|2020-2021]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2020-2021\|2020-2021]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

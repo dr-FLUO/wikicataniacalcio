@@ -7,16 +7,16 @@ description: Storia e tabellino della Finale della Coppa delle Alpi 1964 disputa
 slug: 02-cronistoria/partite-storiche/1963-1964/finale-coppa-delle-alpi-1964
 entity_type: tabellino_gara
 match_date: 1964-07-01
-season_ref: '[[stagioni/1963-1964|Stagione 1963-1964]]'
+season_ref: '[[02-cronistoria/stagioni/1963-1964|Stagione 1963-1964]]'
 competition: Coppa delle Alpi 1964 (Finale Internazionale)
 matchday: Finale Unica
 stadium_ref: Wankdorfstadion, Berna (Svizzera)
 attendance: 12000
 referee: Gottfried Dienst (Svizzera)
-home_team: '[[tifoseria/gemellaggi/genoa|Genoa C.F.C.]]'
-away_team: '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+home_team: '[[06-tifoseria-e-cultura/relazioni/gemellaggi/genoa|Genoa C.F.C.]]'
+away_team: '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 home_coach: Beniamino Santos
-away_coach: '[[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]'
+away_coach: '[[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]'
 score_home: 2
 score_away: 0
 scorers:
@@ -59,10 +59,10 @@ aliases:
 
 # Genoa - Catania 2-0 (Finale Coppa delle Alpi, 1º Luglio 1964)
 
-La partecipazione alla **Coppa delle Alpi 1964**, culminata nella **finale internazionale di Berna del 1º luglio 1964** contro il [[tifoseria/gemellaggi/genoa|Genoa]], rappresenta il più alto traguardo mai raggiunto dal [[societa/1946-club-calcio-catania|Club Calcio Catania]] in una competizione internazionale ufficiale per club. Al termine della [[stagioni/1963-1964|Stagione 1963-1964]] — chiusa per la seconda volta nella storia all'**8º posto in Serie A** sotto la presidenza di [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e la guida tecnica di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] — la compagine rossazzurra vinse a punteggio pieno il proprio girone in terra elvetica, conquistando l'accesso alla finalissima del leggendario *Wankdorfstadion* di Berna.
+La partecipazione alla **Coppa delle Alpi 1964**, culminata nella **finale internazionale di Berna del 1º luglio 1964** contro il [[06-tifoseria-e-cultura/relazioni/gemellaggi/genoa|Genoa]], rappresenta il più alto traguardo mai raggiunto dal [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] in una competizione internazionale ufficiale per club. Al termine della [[02-cronistoria/stagioni/1963-1964|Stagione 1963-1964]] — chiusa per la seconda volta nella storia all'**8º posto in Serie A** sotto la presidenza di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e la guida tecnica di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] — la compagine rossazzurra vinse a punteggio pieno il proprio girone in terra elvetica, conquistando l'accesso alla finalissima del leggendario *Wankdorfstadion* di Berna.
 
 > [!abstract] Il Percorso Netto nel Girone Elvetico (Giugno 1964)
-> Inserito nel Gruppo A insieme alla Roma e agli svizzeri di Zurigo e Servette, il Catania di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] (trascinato da Giancarlo Danova, Cinesinho, Bruno Fanello e Salvador Calvanese) conquistò **3 vittorie su 3 incontri**:
+> Inserito nel Gruppo A insieme alla Roma e agli svizzeri di Zurigo e Servette, il Catania di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] (trascinato da [[03-tesserati/calciatori/archivio/g-l/giancarlo-danova|Giancarlo Danova]], Cinesinho, Bruno Fanello e [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]]) conquistò **3 vittorie su 3 incontri**:
 > 1. **20 giugno 1964 (Ginevra):** Servette – **Catania** **2-3**
 > 2. **24 giugno 1964 (Zurigo):** Zurigo – **Catania** **2-3**
 > 3. **27 giugno 1964 (Bienne):** **Catania** – Roma **4-2** (qualificazione in finale al 1º posto del Girone A con 6 punti).
@@ -71,7 +71,7 @@ La partecipazione alla **Coppa delle Alpi 1964**, culminata nella **finale inter
 
 ## La Finalissima del Wankdorfstadion di Berna (1º Luglio 1964)
 
-Mercoledì **1º luglio 1964**, sul prato del *Wankdorfstadion* di Berna (lo stadio della finale mondiale del 1954), si disputò la finale tutta italiana tra il [[tifoseria/gemellaggi/genoa|Genoa]] (vincitore del Gruppo B davanti a Atalanta, Basilea e Grasshoppers) e il [[societa/1946-club-calcio-catania|Club Calcio Catania]], seguita sugli spalti da migliaia di lavoratori ed emigrati siciliani residenti in Svizzera.
+Mercoledì **1º luglio 1964**, sul prato del *Wankdorfstadion* di Berna (lo stadio della finale mondiale del 1954), si disputò la finale tutta italiana tra il [[06-tifoseria-e-cultura/relazioni/gemellaggi/genoa|Genoa]] (vincitore del Gruppo B davanti a Atalanta, Basilea e Grasshoppers) e il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], seguita sugli spalti da migliaia di lavoratori ed emigrati siciliani residenti in Svizzera.
 
 Arbitrata dal celebre direttore di gara internazionale elvetico **Gottfried Dienst** (che avrebbe poi diretto la finale dei Mondiali 1966 a Wembley e di Euro 1968), la sfida restò in equilibrio per tutto il primo tempo, prima che nella ripresa una doppietta dell'attaccante rossoblù **Sauro Piaceri** (al 51' e all'80') consegnasse il trofeo ai liguri per **2-0**.
 
@@ -84,7 +84,7 @@ Arbitrata dal celebre direttore di gara internazionale elvetico **Gottfried Dien
 | **1ª Giornata Gir. A** | **20 giugno 1964** — Ginevra | **Servette - Catania** | **2-3** | Esordio vittorioso contro il club ginevrino. |
 | **2ª Giornata Gir. A** | **24 giugno 1964** — Zurigo | **Zurigo - Catania** | **2-3** | Seconda vittoria esterna consecutiva in Svizzera. |
 | **3ª Giornata Gir. A** | **27 giugno 1964** — Bienne | **Catania - Roma** | **4-2** | Trionfo sui giallorossi e **1º posto nel Girone A** (6 punti). |
-| **FINALE** | **1º luglio 1964** — Berna (*Wankdorf*) | **[[tifoseria/gemellaggi/genoa\|Genoa]] - [[societa/1946-club-calcio-catania\|Catania]]** | **2-0** | Reti di Piaceri al 51' e all'80' (Arbitro: Gottfried Dienst). **Catania Vicecampione della Coppa delle Alpi 1964**. |
+| **FINALE** | **1º luglio 1964** — Berna (*Wankdorf*) | **[[06-tifoseria-e-cultura/relazioni/gemellaggi/genoa\|Genoa]] - [[01-societa/epoche/1946-club-calcio-catania\|Catania]]** | **2-0** | Reti di Piaceri al 51' e all'80' (Arbitro: Gottfried Dienst). **Catania Vicecampione della Coppa delle Alpi 1964**. |
 
 ---
 

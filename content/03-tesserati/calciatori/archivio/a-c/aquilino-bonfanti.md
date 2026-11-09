@@ -21,7 +21,7 @@ total_goals: 28
 league_goals: 29
 serie_a_goals: 5
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -108,7 +108,7 @@ tm_id: 399595
   </table>
 </div>
 
-**Aquilino Bonfanti** (Milano, 25 febbraio 1943 – Milano, 2 marzo 2016) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nel **1968**, è stato il centravanti principe e l'eroe della cavalcata trionfale della [[stagioni/1969-1970|Stagione 1969-1970]], culminata con la promozione in Serie A.
+**Aquilino Bonfanti** (Milano, 25 febbraio 1943 – Milano, 2 marzo 2016) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nel **1968**, è stato il centravanti principe e l'eroe della cavalcata trionfale della [[02-cronistoria/stagioni/1969-1970|Stagione 1969-1970]], culminata con la promozione in Serie A.
 
 Centravanti rapido, generoso e letale in acrobazia, Bonfanti fu il perno tattico della squadra costruita da Egizio Rubino, realizzando **13 reti** decisive in cadetteria e confermandosi anche l'anno seguente in Serie A.
 
@@ -123,7 +123,7 @@ Centravanti rapido, generoso e letale in acrobazia, Bonfanti fu il perno tattico
 
 ### Dalla Serie B alla Serie A (1968-1972)
 
-Nella stagione [[stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 reti; nel 1969-1970 visse l'apoteosi firmando gol storici contro Atalanta, Foggia e Reggina. Nella successiva [[stagioni/1970-1971|Stagione 1970-1971]] in Serie A realizzò 5 reti contro Milan, Fiorentina e Roma, rimanendo in rossazzurro fino al 1972 con un bilancio complessivo di 109 gare e 30 reti.
+Nella stagione [[02-cronistoria/stagioni/1968-1969|1968-1969]] fu tra i più positivi con 6 reti; nel 1969-1970 visse l'apoteosi firmando gol storici contro Atalanta, Foggia e Reggina. Nella successiva [[02-cronistoria/stagioni/1970-1971|Stagione 1970-1971]] in Serie A realizzò 5 reti contro Milan, Fiorentina e Roma, rimanendo in rossazzurro fino al 1972 con un bilancio complessivo di 109 gare e 30 reti.
 
 ---
 

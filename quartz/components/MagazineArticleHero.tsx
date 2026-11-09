@@ -35,7 +35,7 @@ function selectHeroMedia(slug: string, fm: Record<string, any>): HeroMedia | nul
     return {
       file: "mascara-tifosi.jpg",
       caption:
-        "Giuseppe Mascara acclamato dai tifosi rossazzurri: 236 presenze e 61 reti complessive con la maglia dell'Elefante.",
+        "Giuseppe Mascara acclamato dai tifosi rossazzurri: 238 presenze e 60 reti complessive con la maglia dell'Elefante.",
       credit: "Foto: Roberto Quartarone · Licenza: CC BY-SA 2.5",
       aspect: "portrait",
     }
@@ -107,7 +107,7 @@ function selectHeroMedia(slug: string, fm: Record<string, any>): HeroMedia | nul
     return {
       file: "francesco-lodi.jpg",
       caption:
-        "Francesco «Ciccio» Lodi, regista e specialista dei calci piazzati in tre diversi cicli storici a Catania (52 reti complessive).",
+        "Francesco «Ciccio» Lodi, regista e specialista dei calci piazzati in quattro diversi cicli storici a Catania (54 reti complessive).",
       credit: "Foto: Filippo Mancuso · Licenza: CC BY-SA 3.0",
       aspect: "portrait",
     }

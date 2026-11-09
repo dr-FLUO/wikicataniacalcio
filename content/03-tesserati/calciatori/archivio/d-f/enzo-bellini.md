@@ -19,7 +19,7 @@ league_appearances: 41
 total_goals: 2
 league_goals: 15
 club_entities:
-- '[[societa/1929-ss-catania|Associazione Fascista Calcio Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Associazione Fascista Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -99,7 +99,7 @@ tm_id: 614043
   </table>
 </div>
 
-**Enzo Bellini** (Bondeno, 14 febbraio 1917 – Ferrara, 11 agosto 2001) è stato un calciatore e allenatore di calcio italiano, di ruolo ala destra. Giunto a Catania nel **1938** dalla SPAL, fu il grande trascinatore offensivo della [[stagioni/1938-1939|Stagione 1938-1939]], culminata con il primo posto nel Girone H di Serie C e la vittoria del girone finale promozione per il ritorno in Serie B.
+**Enzo Bellini** (Bondeno, 14 febbraio 1917 – Ferrara, 11 agosto 2001) è stato un calciatore e allenatore di calcio italiano, di ruolo ala destra. Giunto a Catania nel **1938** dalla SPAL, fu il grande trascinatore offensivo della [[02-cronistoria/stagioni/1938-1939|Stagione 1938-1939]], culminata con il primo posto nel Girone H di Serie C e la vittoria del girone finale promozione per il ritorno in Serie B.
 
 Con 12 reti in 21 gare di campionato, Bellini fu il capocannoniere indiscusso dell'undici guidato dal tecnico ungherese György Orth. Rimasto in rossazzurro anche nel successivo campionato cadetto 1939-1940, totalizzò complessivamente 45 presenze e 16 reti, tornando poi alle falde dell'Etna a metà degli anni Cinquanta nelle vesti di allenatore.
 

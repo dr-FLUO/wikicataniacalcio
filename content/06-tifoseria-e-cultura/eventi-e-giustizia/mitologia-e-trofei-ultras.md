@@ -60,7 +60,7 @@ Tra gli episodi più surreali e grotteschi tramandati nelle sfide contro il [[06
 ## 3. L'Arte Urbana: Il Murale *«Cinquanta volti per il Cibali»* (2018)
 
 La consacrazione visiva dell'amore popolare per il Catania è avvenuta nel **2018** con la realizzazione dell'opera monumentale di street art ***Cinquanta volti per il Cibali***, dipinta dall'artista catanese **Andrea Marusic**:
-- Realizzato lungo il muro perimetrale esterno della Curva Sud e della Tribuna B in via Cifali, il murale raffigura cinquanta icone indelebili della storia calcistica etnea: da Géza Kertész a Carmelo Di Bella, dal Cavaliere Angelo Massimino a Ciccio Famoso, fino a Stefania Sberna e ai campioni della Serie A.
+- Realizzato lungo il muro perimetrale esterno della Curva Sud e della Tribuna B in via Cifali, il murale raffigura cinquanta icone indelebili della storia calcistica etnea: da [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], dal Cavaliere Angelo Massimino a Ciccio Famoso, fino a Stefania Sberna e ai campioni della Serie A.
 - L'opera rappresenta un unicum in Italia: un pantheon laico all'aperto dove la memoria sportiva e la cultura ultras si fondono nel patrimonio identitario della città.
 
 ---

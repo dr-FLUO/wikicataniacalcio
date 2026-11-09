@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1951-1952
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 tags:
 - allenatori
 - anni-cinquanta
@@ -86,32 +86,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Rodolfo Brondi</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1912</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1951–1952</strong> (dal 13/01/1952 al 08/06/1952)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>20</td>
-        <th>Media Punti</th>
-        <td>1,55</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Rodolfo Brondi** (Livorno, Italia, 1912 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1951-1952**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -134,7 +108,16 @@ Impresse un'ottima organizzazione difensiva e compattezza di reparto, sfiorando 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1951-1952\|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1951-1952\|1951-1952]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

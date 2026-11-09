@@ -49,9 +49,24 @@ aliases:
 
 # I Campi Storici Pionieristici del Calcio Catania (1929–1937)
 
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/partite-storiche/catania-livorno-1935-1936.jpg" data-caption="Una fase di gioco sul campo di Piazza Esposizione (Piazza Verga) negli anni Trenta: si notano la tribuna in legno e il pubblico a ridosso delle linee laterali · Archivio Fotografico E. Umana">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/partite-storiche/catania-livorno-1935-1936.jpg" alt="Azione di gioco sul campo di Piazza Esposizione anni '30" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">Piazza Esposizione '30</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Il Campo di Piazza Esposizione</span>
+    <span class="wiki-inset-photo__meta">Azione di gioco degli anni Trenta con la storica tribuna coperta in legno</span>
+  </div>
+</div>
+
+
 Prima della costruzione e dell'inaugurazione ufficiale dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali (poi Stadio Angelo Massimino)]] il **28 novembre 1937**, le vicende della compagine etnea — fondata nel giugno 1929 come [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] — furono scritte su due storici terreni di gioco cittadini in terra battuta: il **Campo dei Due Obelischi** e il celebre **Campo di Piazza Esposizione (Piazza Giovanni Verga)**.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## 1. Il Campo dei Due Obelischi: La Culla del Debutto Rossazzurro (1929)
 

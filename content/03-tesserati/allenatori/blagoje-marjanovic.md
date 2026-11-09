@@ -14,7 +14,7 @@ nationality: Jugoslavia
 catania_periods:
 - 1958-1959
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/blagoje-marjanovic.jpg
 image_credits:
 - image_path: assets/images/allenatori/blagoje-marjanovic.jpg
@@ -108,13 +108,13 @@ Blagoje «Moša» Marjanović è una delle massime leggende del calcio jugoslavo
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con la sua autorevolezza internazionale impostò schemi offensivi moderni e valorizzò la prima linea etnea, prima del passaggio di testimone a Carmelo Di Bella nel dicembre 1958.
+Con la sua autorevolezza internazionale impostò schemi offensivi moderni e valorizzò la prima linea etnea, prima del passaggio di testimone a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] nel dicembre 1958.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

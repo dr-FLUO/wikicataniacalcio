@@ -6,7 +6,7 @@ entity_type: "evento_giudiziario"
 foundation_year: 2024
 origin_district: "Padova, Stadio Euganeo e Catania"
 stadium_sector: "Settore Ospiti e Pista d'Atletica Euganeo"
-stadium_ref: "Stadio Euganeo (Padova) e [[stadio/angelo-massimino|Stadio Angelo Massimino]]"
+stadium_ref: "Stadio Euganeo (Padova) e [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:

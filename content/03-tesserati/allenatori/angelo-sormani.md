@@ -13,7 +13,7 @@ nationality: Brasile / Italia
 catania_periods:
 - 1989-1991
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/angelo-sormani.jpg
 image_credits:
 - image_path: assets/images/allenatori/angelo-sormani.jpg
@@ -114,7 +114,7 @@ Nel 1989-1990 condusse gli etnei al sesto posto; nel 1990-1991 guidò la squadra
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1989-1990\|1989-1990]], [[stagioni/1990-1991\|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1989-1990\|1989-1990]], [[02-cronistoria/stagioni/1990-1991\|1990-1991]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

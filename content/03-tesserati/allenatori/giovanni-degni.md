@@ -16,8 +16,8 @@ catania_periods:
 - 1937-1939
 - 1948-1949
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/giovanni-degni.jpg
 image_credits:
 - image_path: assets/images/allenatori/giovanni-degni.jpg
@@ -112,8 +112,8 @@ Nel 1938-1939 conquistò una trionfale promozione in Serie B vincendo il girone 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1937-1938\|1937-1938]], [[stagioni/1938-1939\|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1937-1938\|1937-1938]], [[02-cronistoria/stagioni/1938-1939\|1938-1939]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

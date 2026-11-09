@@ -19,7 +19,7 @@ league_appearances: 64
 total_goals: 21
 league_goals: 21
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -114,7 +114,7 @@ Forte fisicamente, abile nel proteggere palla e dotato di un potente tiro al vol
 
 ### Dalla Stagione 1952-1953 al Trionfo del 1954
 
-Dopo aver segnato 8 reti nel 1951-1952, nella [[stagioni/1952-1953|Stagione 1952-1953]] Micheloni fu letale per le difese cadette, siglando reti decisive contro Genoa, Cagliari e Vicenza. L'anno seguente partecipò alla storica cavalcata della promozione in Serie A 1953-1954 sotto la direzione di Piero Andreoli, completando un ciclo indimenticabile in maglia etnea.
+Dopo aver segnato 8 reti nel 1951-1952, nella [[02-cronistoria/stagioni/1952-1953|Stagione 1952-1953]] Micheloni fu letale per le difese cadette, siglando reti decisive contro Genoa, Cagliari e Vicenza. L'anno seguente partecipò alla storica cavalcata della promozione in Serie A 1953-1954 sotto la direzione di Piero Andreoli, completando un ciclo indimenticabile in maglia etnea.
 
 ---
 

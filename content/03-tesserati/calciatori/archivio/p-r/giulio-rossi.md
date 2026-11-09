@@ -29,13 +29,6 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp
-image_credits:
-- image_path: assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp
-  alt_text: Ritratto fotografico di Giulio Rossi calciatore del Calcio Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/giulio-rossi
 - giulio-rossi
@@ -54,8 +47,10 @@ tm_id: 545443
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/giulio-rossi.webp" alt="Giulio Rossi" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Giulio Rossi calciatore del Calcio Catania</div>
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -89,7 +84,7 @@ tm_id: 545443
   </table>
 </div>
 
-**Giulio Rossi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Giulio Rossi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
@@ -106,3 +101,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1939-1941, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Giulio Rossi*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Giulio_Rossi_(calciatore_1912)).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

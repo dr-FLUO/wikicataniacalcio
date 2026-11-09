@@ -18,7 +18,7 @@ league_appearances: 84
 serie_a_appearances: 0
 total_goals: 1
 club_entities:
-- '[[societa/1929-ss-catania|Societ Sportiva Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Societ Sportiva Catania]]'
 image_credits:
 - image_path: https://commons.wikimedia.org
   alt_text: Mario Miltone difensore della SS Catania negli anni Trenta
@@ -107,11 +107,11 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Mario Miltone** (Torino, 24 marzo 1906) è stato un difensore italiano che ha vestito la maglia rossazzurra dell'[[societa/1929-ss-catania|S.S. Catania]] tra il 1934 e il 1937. Punto fermo del reparto arretrato etneo, vanta 84 presenze ufficiali in campionato, contribuendo alle solide stagioni del Catania nei primi campionati nazionali a girone unico di Serie B.
+**Mario Miltone** (Torino, 24 marzo 1906) è stato un difensore italiano che ha vestito la maglia rossazzurra dell'[[01-societa/epoche/1929-ss-catania|S.S. Catania]] tra il 1934 e il 1937. Punto fermo del reparto arretrato etneo, vanta 84 presenze ufficiali in campionato, contribuendo alle solide stagioni del Catania nei primi campionati nazionali a girone unico di Serie B.
 
 ## Collegamenti Correlati
-* [[stagioni/1934-1935|Stagione 1934-1935]]
-* [[tesserati/calciatori/nicolo-nicolosi|Nicol Nicolosi]]
+* [[02-cronistoria/stagioni/1934-1935|Stagione 1934-1935]]
+* [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicol Nicolosi]]
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mario Miltone](https://it.wikipedia.org/wiki/Mario_Miltone)*.

@@ -19,7 +19,7 @@ league_appearances: 30
 total_goals: 9
 league_goals: 9
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -106,7 +106,7 @@ tm_id: 249227
 
 **Riccardo Carapellese** (Cerignola, 1 luglio 1922 – Rapallo, 20 ottobre 1995) è stato un calciatore e allenatore di calcio italiano, tra le più grandi ali sinistre del calcio nazionale del dopoguerra. Storico capitano della Nazionale Italiana ai Mondiali del 1950 in Brasile e del Torino post-Superga, approdò al Catania nel **1957** all'età di 35 anni.
 
-Nonostante l'età avanzata, Carapellese incantò lo Stadio Cibali con la sua classe sopraffina, la precisione nei cross e la proverbiale freddezza, laureandosi capocannoniere della squadra nella [[stagioni/1957-1958|Stagione 1957-1958]] con 6 reti in sole 19 presenze.
+Nonostante l'età avanzata, Carapellese incantò lo Stadio Cibali con la sua classe sopraffina, la precisione nei cross e la proverbiale freddezza, laureandosi capocannoniere della squadra nella [[02-cronistoria/stagioni/1957-1958|Stagione 1957-1958]] con 6 reti in sole 19 presenze.
 
 > [!abstract] La Leggenda Azzurra e Guida Etnea
 > - **Caratura Storica:** Capitano del Torino dopo Superga e capitano della Nazionale Italiana (16 presenze e 10 reti agli ordini di Ferruccio Novo).

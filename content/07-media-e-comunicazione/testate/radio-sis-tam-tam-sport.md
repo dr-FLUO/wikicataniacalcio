@@ -41,7 +41,7 @@ Ideato, curato e condotto dal giornalista professionista [[07-media-e-comunicazi
 Nata nell'autunno del 1992, la trasmissione si trovò a svolgere un ruolo di straordinaria coesione comunitaria durante la drammatica estate del 1993, quando la FIGC revocò l'affiliazione professionistica al Catania del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]:
 
 * I microfoni di *Radio Sis* divennero l'altoparlante delle proteste popolari, dei comitati cittadini e dei collegamenti in tempo reale dalle aule dei tribunali amministrativi (TAR e Consiglio di Giustizia Amministrativa).
-* Durante la forzata ripartenza dal campionato dilettantistico di Eccellenza siciliana (1993-1994) e la risalita nel C.N.D., *Tam Tam Sport* ha garantito una copertura professionale e puntuale, impedendo che l'attenzione attorno alla matricola rossazzurra scemasse.
+* Durante la forzata ripartenza dal campionato dilettantistico di Eccellenza siciliana ([[02-cronistoria/stagioni/1993-1994|1993-1994]]) e la risalita nel C.N.D., *Tam Tam Sport* ha garantito una copertura professionale e puntuale, impedendo che l'attenzione attorno alla matricola rossazzurra scemasse.
 
 ---
 

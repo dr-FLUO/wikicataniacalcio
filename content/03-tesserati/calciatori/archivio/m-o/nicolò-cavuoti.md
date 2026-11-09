@@ -1,13 +1,14 @@
 ---
 title: Nicolò Cavuoti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista del Calcio Catania con 8 presenze
+description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista del Calcio Catania con 10 presenze
   e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Centrocampista
-total_appearances: 8
+current_squad: true
+total_appearances: 10
 seasons_count: 1
 tags:
 - calciatori
@@ -49,9 +50,9 @@ aliases:
 - calciatori/nicolò-cavuoti
 total_goals: 2
 total_assists: 2
-minutes_played: 483
+minutes_played: 599
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 701842
 ---
@@ -85,7 +86,7 @@ tm_id: 701842
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>8</td>
+        <td>10</td>
         <th>Goal / Assist</th>
         <td>2 / 2</td>
       </tr>
@@ -93,7 +94,7 @@ tm_id: 701842
   </table>
 </div>
 
-**Nicolò Cavuoti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nicolò Cavuoti** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Centrocampista**.
 
 ---
 
@@ -101,21 +102,21 @@ tm_id: 701842
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Trequartista | 8 | 2 | 2 | 1 | 0 | 483' |
-| **TOTALE** | — | **8** | **2** | **2** | **1** | **0** | **483'** |
+| **2026-2027** | Trequartista | 10 | 2 | 2 | 1 | 0 | 599' |
+| **TOTALE** | — | **10** | **2** | **2** | **1** | **0** | **599'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **483 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **599 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 2001-2003
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image: assets/images/allenatori/francesco-graziani.jpg
 image_credits:
 - image_path: assets/images/allenatori/francesco-graziani.jpg
@@ -120,13 +120,13 @@ Francesco «Ciccio» Graziani, Campione del Mondo a Spagna 1982 e storico centra
 
 ## 2. La Conduzione Tecnica del Catania
 
-In coppia con Maurizio Pellegrino compì un autentico capolavoro psicologico e tattico, venendo confermato alla guida della squadra anche nella Serie B 2002-2003.
+In coppia con [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]] compì un autentico capolavoro psicologico e tattico, venendo confermato alla guida della squadra anche nella Serie B 2002-2003.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]], [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2001-2002\|2001-2002]], [[02-cronistoria/stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

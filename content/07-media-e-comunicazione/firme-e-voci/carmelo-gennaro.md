@@ -47,16 +47,16 @@ A lui si deve la prima opera editoriale organica mai data alle stampe sul calcio
 Nel **1958**, in occasione del cinquantenario del primo calcio organizzato a Catania (convenzionalmente fatto risalire alla fondazione della *Pro Patria 1908* da parte di Gaetano Ventimiglia e compagni), Carmelo Gennaro e Luigi Prestinenza pubblicarono per le Industrie Grafiche Siciliane il monumentale volume ***Dal fondo... ai vertici (1908-1958)***:
 
 * **Un Lavoro Pionieristico**: In un'epoca priva di archivi digitali o banche dati informatizzate, Gennaro e Prestinenza trascorsero mesi a scartabellare le collezioni cartacee rilegate de *Il Giornale dell'Isola*, del *Popolo di Sicilia* e del *Corriere di Sicilia*, recuperando formazioni, tabellini e verbali federali di tornei pre-bellici caduti nell'oblio.
-* **Il Racconto Epico**: Il testo documentò per la prima volta con precisione filologica la nascita della *Società Sportiva Catania* nel 1929 sotto la presidenza di Santi Quasimodo, le promozioni in Serie B con il tecnico ungherese Géza Kertész negli anni Trenta e la leggendaria prima scalata in Serie A nel campionato 1953-1954 con Piero Andreoli in panchina.
+* **Il Racconto Epico**: Il testo documentò per la prima volta con precisione filologica la nascita della *Società Sportiva Catania* nel 1929 sotto la presidenza di Santi Quasimodo, le promozioni in Serie B con il tecnico ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] negli anni Trenta e la leggendaria prima scalata in Serie A nel campionato [[02-cronistoria/stagioni/1953-1954|1953-1954]] con [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] in panchina.
 * **Il Valore Documentale**: L'opera ha rappresentato per decenni l'unica fonte attendibile per storici dello sport, giornalisti e collezionisti.
 
 ---
 
 ## 2. Dalla Promozione del 1983 a "Dal fondo un traversone" (2004)
 
-Nel corso della sua lunga attività giornalistica, Gennaro continuò a narrare le alterne vicende del Catania, vivendo in prima persona il ciclo di Carmelo Di Bella negli anni Sessanta e i venticinque anni di presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]:
+Nel corso della sua lunga attività giornalistica, Gennaro continuò a narrare le alterne vicende del Catania, vivendo in prima persona il ciclo di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta e i venticinque anni di presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]:
 
-* **La Guida del 1983**: In occasione dello storico spareggio promozione dell'Olimpico di Roma del giugno 1983, curò con il collega [[07-media-e-comunicazione/firme-e-voci/luigi-tripisciano|Luigi Tripisciano]] la fortunata *Guida del Catania: tutto sui rossazzurri*, distribuita in decine di migliaia di copie per celebrare il ritorno in Serie A della squadra di Gianni Di Marzio.
+* **La Guida del 1983**: In occasione dello storico spareggio promozione dell'Olimpico di Roma del giugno 1983, curò con il collega [[07-media-e-comunicazione/firme-e-voci/luigi-tripisciano|Luigi Tripisciano]] la fortunata *Guida del Catania: tutto sui rossazzurri*, distribuita in decine di migliaia di copie per celebrare il ritorno in Serie A della squadra di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]].
 * **L'Aggiornamento del 2004**: A distanza di quasi mezzo secolo dalla prima edizione, il progetto storiografico originario venne ripreso e notevolmente ampliato nel volume ***Dal fondo un traversone*** (pubblicato da Bonanno Editore nel 2003 e riedito da A&B Editrice nel 2004): l'opera integrò quarantacinque anni di cronache inedite, documentando gli anni ruggenti della Serie A anni Sessanta, le amarezze della Serie C e la lenta rinascita degli anni Duemila.
 
 ---

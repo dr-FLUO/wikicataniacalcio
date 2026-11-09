@@ -13,7 +13,7 @@ nationality: Argentina / Italia
 catania_periods:
 - 2001-2002
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 tags:
 - allenatori
 - anni-duemila
@@ -85,32 +85,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Aldo Ammazzalorso</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1951</td>
-        <th>Nazionalità</th>
-        <td>Argentina / Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2001–2002</strong> (dal 23/06/2001 al 18/12/2001)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>19</td>
-        <th>Media Punti</th>
-        <td>1,42</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Aldo Ammazzalorso** (Buenos Aires, Argentina, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -127,13 +101,13 @@ Aldo Ammazzalorso, tecnico italo-argentino reduce da grandi stagioni con Ancona 
 
 ## 2. La Conduzione Tecnica del Catania
 
-Mantenne la squadra costantemente al vertice della classifica conquistando 29 punti prima dell'avvicendamento di dicembre con Pietro Vierchowod.
+Mantenne la squadra costantemente al vertice della classifica conquistando 29 punti prima dell'avvicendamento di dicembre con [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2001-2002\|2001-2002]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

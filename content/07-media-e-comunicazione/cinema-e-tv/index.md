@@ -65,7 +65,7 @@ Le monografie dedicate ai due capolavori della commedia all'italiana degli anni 
 ## 3. Documentari, Archivi Storici e Serie Audiovisive
 
 * **[[07-media-e-comunicazione/cinema-e-tv/documentari-e-serie-rossazzurre|Documentari, Serie Audiovisive e Produzioni Storiche sul Catania]]**: Censimento monografico delle grandi opere audiovisive: dai cinegiornali d'archivio dell'Istituto Luce (anni '50-'70) alla monumentale serie audio-documentaria *Quelli del '46* di Radio Lab (2014, in 21 puntate condotta da Gianluca Virgilio e [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]]), fino ai film celebrativi delle promozioni in Serie A e agli instant doc sulla rinascita sportiva (2022-2026).
-* **[[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]**: Quadro sintetico generale su tutte le citazioni filmiche (*Malizia*, *Il bestione*, *La vita è una cosa meravigliosa*) e sulle rappresentazioni teatrali, compresa la pièce teatrale e televisiva *Clamoroso al Cibali* con [[03-tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]].
+* **[[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]**: Quadro sintetico generale su tutte le citazioni filmiche (*Malizia*, *Il bestione*, *La vita è una cosa meravigliosa*) e sulle rappresentazioni teatrali, compresa la pièce teatrale e televisiva *Clamoroso al Cibali* con [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]].
 
 ---
 

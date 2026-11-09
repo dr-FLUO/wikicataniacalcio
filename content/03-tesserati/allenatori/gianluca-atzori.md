@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2009-2010
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/gianluca-atzori.jpg
 image_credits:
 - image_path: assets/images/allenatori/gianluca-atzori.jpg
@@ -116,13 +116,13 @@ Gianluca Atzori guidò il Catania nelle prime 15 giornate del campionato di Seri
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante le difficoltà di punteggio, curò l'inserimento in squadra di pedine fondamentali prima del subentro di Siniša Mihajlović.
+Nonostante le difficoltà di punteggio, curò l'inserimento in squadra di pedine fondamentali prima del subentro di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2009-2010\|2009-2010]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2009-2010\|2009-2010]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

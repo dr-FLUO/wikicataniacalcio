@@ -17,7 +17,7 @@ league_appearances: 70
 total_goals: 19
 league_goals: 20
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -105,7 +105,7 @@ tm_id: 430421
 
 **Fulvio Francesconi** (Pordenone, 19 novembre 1944) è un ex calciatore italiano, nel ruolo di ala tornante e attaccante. Acquistato dal Catania nell'estate del **1971** dalla Sampdoria, fu il faro dell'attacco etneo per due campionati consecutivi di Serie B sotto la guida tecnica di Salvador Calvanese e Carmelo Di Bella.
 
-Giocatore generoso, dotato di grande intelligenza tattica e tiro potente, Francesconi si laureò capocannoniere della squadra sia nella [[stagioni/1971-1972|Stagione 1971-1972]] (10 reti in 35 gare) sia nella successiva [[stagioni/1972-1973|Stagione 1972-1973]] (10 reti in 35 gare).
+Giocatore generoso, dotato di grande intelligenza tattica e tiro potente, Francesconi si laureò capocannoniere della squadra sia nella [[02-cronistoria/stagioni/1971-1972|Stagione 1971-1972]] (10 reti in 35 gare) sia nella successiva [[02-cronistoria/stagioni/1972-1973|Stagione 1972-1973]] (10 reti in 35 gare).
 
 > [!abstract] L'Ala dai Dieci Gol a Stagione
 > - **Doppio Titolo di Capocannoniere Etneo:** 10 reti nel 1971-1972 e 10 reti nel 1972-1973 in Serie B.

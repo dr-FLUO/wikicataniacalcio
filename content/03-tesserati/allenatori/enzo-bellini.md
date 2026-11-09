@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1955-1956
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 tags:
 - allenatori
 - anni-cinquanta
@@ -99,7 +99,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Enzo Bellini è una delle figure storiche più amate del Club Calcio Catania: bandiera in campo negli anni Quaranta e Cinquanta, subentrò a Piero Andreoli nelle ultime 7 giornate della Serie B 1955-1956.
+Enzo Bellini è una delle figure storiche più amate del Club Calcio Catania: bandiera in campo negli anni Quaranta e Cinquanta, subentrò a [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] nelle ultime 7 giornate della Serie B 1955-1956.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -109,7 +109,7 @@ Guidò la squadra con polso fermo in un momento delicato successivo alla retroce
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1955-1956\|1955-1956]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1955-1956\|1955-1956]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

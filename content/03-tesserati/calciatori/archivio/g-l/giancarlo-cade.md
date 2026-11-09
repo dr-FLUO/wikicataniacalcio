@@ -95,7 +95,7 @@ tm_id: 437369
   </table>
 </div>
 
-**Giancarlo Cadé** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Giancarlo Cadé** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera
 
@@ -112,3 +112,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **24 presenze ufficiali**, disputando **2160 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Giancarlo Cadé*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Giancarlo_Cad%C3%A9).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giancarlo Cadè*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 756, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Cade-756).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

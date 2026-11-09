@@ -4,7 +4,14 @@ description: 'Monografia commemorativa su Stefania Sberna: per venticinque anni 
 slug: 07-media-e-comunicazione/firme-e-voci/stefania-sberna
 entity_type: biografia_giornalista
 status: verified
-last_verified_date: 2026-11-03
+last_verified_date: 2026-11-06
+image: assets/images/media-e-stampa/stefania-sberna-the-voice-speaker-stadio-massimino-calcio-catania.jpg
+image_credits:
+- image_path: assets/images/media-e-stampa/stefania-sberna-the-voice-speaker-stadio-massimino-calcio-catania.jpg
+  alt_text: Stefania Sberna con il microfono e le distinte a bordo campo allo Stadio Angelo Massimino
+  author_or_archive: Archivio Fotografico Calcio Catania / Famiglia Sberna
+  year: 2018
+  license_type: Documento Commemorativo (Fair Use)
 tags:
 - stefania-sberna
 - the-voice
@@ -35,17 +42,31 @@ aliases:
 
 # Stefania Sberna: "The Voice" del Massimino e Icona della Fede Rossazzurra (1966-2021)
 
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/media-e-stampa/stefania-sberna-the-voice-speaker-stadio-massimino-calcio-catania.jpg" data-caption="Stefania Sberna (1966–2021), «The Voice» del Massimino, a bordo campo con microfono e distinte di gara prima della partita · Stadio Angelo Massimino">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/media-e-stampa/stefania-sberna-the-voice-speaker-stadio-massimino-calcio-catania.jpg" alt="Stefania Sberna al microfono dello Stadio Angelo Massimino" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">The Voice</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Stefania Sberna (1966–2021)</span>
+    <span class="wiki-inset-photo__meta">Per oltre venticinque anni voce ufficiale del Massimino</span>
+  </div>
+</div>
+
 Nata a Catania nel **1966** e scomparsa prematuramente il **23 marzo 2021** all'età di 54 anni dopo aver lottato a lungo contro un male incurabile affrontato con straordinario coraggio e umiltà, **Stefania Sberna** è stata per quasi un quarto di secolo la speaker ufficiale, conduttrice e volto indimenticabile del Calcio Catania.
 
 Ribattezzata dal suo pubblico ***"The Voice"*** e considerata unanimemente dalla curva e dalla tribuna come ***"il dodicesimo uomo in campo"*** per il suo entusiasmo, l'altruismo e l'energia contagiosa, Stefania Sberna ha scandito con il suo timbro vocale caldo e vibrante un quarto di secolo di storia sportiva cittadina.
+
+<div class="wiki-clearfix"></div>
 
 ---
 
 ## 1. Venticinque Anni al Microfono dello Stadio Cibali / Angelo Massimino
 
-Iniziata la carriera negli anni Ottanta nell'emittenza radiofonica locale e approdata al microfono dello [[01-societa/strutture/stadio-angelo-massimino|Stadio Cibali (poi intitolato ad Angelo Massimino)]] sotto la presidenza del "Cavaliere", Stefania Sberna ha accompagnato la squadra attraverso tutte le categorie:
-* Ha annunciato formazioni, sostituzioni e marcature dalla polvere dell'Eccellenza siciliana nel 1993-1994, attraverso la scalata della Serie C1 e della Serie B con la famiglia Gaucci, fino agli otto anni consecutivi della Serie A (2006-2014).
-* Il suo celebre annuncio dei gol, scandito con pause calcolate che chiamavano all'unisono il boato dei ventimila del Massimino sul cognome del marcatore, è diventato patrimonio sonoro della città: dalle reti salvezza di Jorge Martínez contro la Roma nel 2008, alle prodezze di Giuseppe Mascara nel derby, fino ai gol di Maxi López e Gonzalo Bergessio.
+Iniziata la carriera negli anni Ottanta nell'emittenza radiofonica locale e approdata al microfono dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali (poi intitolato ad Angelo Massimino)]] sotto la presidenza del "Cavaliere", Stefania Sberna ha accompagnato la squadra attraverso tutte le categorie:
+* Ha annunciato formazioni, sostituzioni e marcature dalla polvere dell'Eccellenza siciliana nel [[02-cronistoria/stagioni/1993-1994|1993-1994]], attraverso la scalata della Serie C1 e della Serie B con la famiglia Gaucci, fino agli otto anni consecutivi della Serie A (2006-2014).
+* Il suo celebre annuncio dei gol, scandito con pause calcolate che chiamavano all'unisono il boato dei ventimila del Massimino sul cognome del marcatore, è diventato patrimonio sonoro della città: dalle reti salvezza di [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]] contro la Roma nel 2008, alle prodezze di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] nel derby, fino ai gol di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]] e [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]].
 
 ---
 
@@ -69,7 +90,7 @@ Con delibera ufficiale del **marzo 2021**, la **Tribuna Stampa dello Stadio Ange
 
 * [[07-media-e-comunicazione/index|L'Ecosistema dei Media e dell'Informazione Rossazzurra]]
 * [[07-media-e-comunicazione/testate/telecolor|Telecolor e le Collaborazioni Televisive]]
-* [[01-societa/strutture/stadio-angelo-massimino|Lo Stadio Angelo Massimino e la Tribuna Stampa Stefania Sberna]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Lo Stadio Angelo Massimino e la Tribuna Stampa Stefania Sberna]]
 * [[06-tifoseria-e-cultura/settori/curva-nord/coreografie-storiche-massimino|La Curva Nord e la Memoria Sonora]]
 
 ---

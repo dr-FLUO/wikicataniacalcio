@@ -7,7 +7,7 @@ birth_year: 1957
 death_year: 2017
 origin_district: "Rione Castello Ursino (Catania)"
 stadium_sector: "Curva Nord (1979-2015), Curva Sud (2015-2017)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -40,12 +40,27 @@ aliases:
 
 # Francesco "Ciccio" Famoso (1957–2017)
 
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/tifoseria-e-curva/curva-nord-catania-coreografia-ciccio-famoso-stadio-massimino.webp" data-caption="Curva Nord Stadio Angelo Massimino · La spettacolare coreografia tributo dedicata a Francesco «Ciccio Falange» Famoso · Archivio Ultras Catania">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/tifoseria-e-curva/curva-nord-catania-coreografia-ciccio-famoso-stadio-massimino.webp" alt="Coreografia tributo per Ciccio Famoso" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge">Tributo a Ciccio</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">La Nord per il suo Capo</span>
+    <span class="wiki-inset-photo__meta">Coreografia tributo allo Stadio Massimino</span>
+  </div>
+</div>
+
+
 Nel pantheon del tifo rossazzurro, nessuna figura ha incarnato l'essenza antropologica, la viscerale passione e la dedizione assoluta ai colori del Catania quanto **Francesco "Ciccio" Famoso**, noto in tutta Italia con il soprannome di **"Ciccio Falange"**.
 
 Scomparso all'inizio di febbraio 2017 all'età di sessant'anni dopo una lunga malattia, Famoso è stato per quasi quarant'anni il punto di riferimento carismatico dell'intero movimento ultras etneo, l'unico leader a cui la curva abbia mai dedicato un coro personale cantato all'unisono da tutto lo stadio:
 > *«Ciccio è qua, e canta con gli ultrà!»* / *«Ciccio, Ciccio è il capo degli Ultrà!»*
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## 1. La Fondazione della Falange d'Assalto (1979)
 
@@ -70,7 +85,7 @@ La militanza di Ciccio Famoso trascendeva i novanta minuti della domenica:
 
 La statura etica di Ciccio Famoso nel mondo ultras si è manifestata in maniera eccezionale nei giorni del suo commiato:
 - Durante la degenza in ospedale, delegazioni di curve storicamente rivali si sono recate personalmente al suo capezzale.
-- Nei giorni successivi alla morte, oltre all'omaggio sul campo del Calcio Catania e di calciatori bandiera come Davide Baiocco e Adrian Ricchiuti, striscioni di cordoglio sono stati esposti negli stadi di **Genova, Napoli, Parma e Benevento**, nella Südtribüne del **Borussia Dortmund** e del **Bayern Monaco**, e — fatto senza precedenti nella storia ultras — persino nelle curve delle acerrime rivali storiche: **Palermo, Messina e Siracusa**.
+- Nei giorni successivi alla morte, oltre all'omaggio sul campo del Calcio Catania e di calciatori bandiera come [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]] e Adrian Ricchiuti, striscioni di cordoglio sono stati esposti negli stadi di **Genova, Napoli, Parma e Benevento**, nella Südtribüne del **Borussia Dortmund** e del **Bayern Monaco**, e — fatto senza precedenti nella storia ultras — persino nelle curve delle acerrime rivali storiche: **Palermo, Messina e Siracusa**.
 
 ---
 
@@ -79,4 +94,4 @@ La statura etica di Ciccio Famoso nel mondo ultras si è manifestata in maniera 
 1. **La Sicilia**, *Falange d'Assalto perde il suo leader: morto Ciccio Famoso*, 2-3 febbraio 2017.
 2. **MeridioNews**, *Ultras Catania, scomparso Ciccio Falange Famoso*, 2017.
 3. **LiveSicilia**, *Chiedi chi era Ciccio Famoso*, febbraio 2017.
-4. **CalcioCatania.com**, *Questo era Ciccio, il capo ultrà del Catania*, febbraio 2017.
+4. **CalcioCatania.com**, *Questo era Ciccio, il capo ultrà del Catania*, [calciocatania.com](https://www.calciocatania.com/), febbraio 2017.

@@ -18,7 +18,7 @@ league_appearances: 19
 total_goals: 6
 league_goals: 6
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - attaccanti
@@ -118,7 +118,7 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-**Jeda**, all'anagrafe **Jedaias Capucho Neves** (Santarém, 15 aprile 1979), è un allenatore di calcio ed ex calciatore brasiliano, nel ruolo di attaccante. Acquistato nel gennaio **2005** dalla neonata dirigenza di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e Pietro Lo Monaco per rinforzare la squadra nella difficile [[stagioni/2004-2005|Stagione 2004-2005]], si rivelò l'autentico salvatore della patria cadetta.
+**Jeda**, all'anagrafe **Jedaias Capucho Neves** (Santarém, 15 aprile 1979), è un allenatore di calcio ed ex calciatore brasiliano, nel ruolo di attaccante. Acquistato nel gennaio **2005** dalla neonata dirigenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e Pietro Lo Monaco per rinforzare la squadra nella difficile [[02-cronistoria/stagioni/2004-2005|Stagione 2004-2005]], si rivelò l'autentico salvatore della patria cadetta.
 
 In soli cinque mesi di militanza collezionò 19 presenze e realizzò **6 reti pesantissime**, risultando il miglior marcatore della squadra etnea e regalando al club la permanenza in Serie B propedeutica alla cavalcata trionfale della stagione successiva.
 

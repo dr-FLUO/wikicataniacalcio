@@ -19,7 +19,7 @@ league_appearances: 23
 total_goals: 18
 league_goals: 18
 club_entities:
-- '[[societa/1929-ss-catania|Associazione Fascista Calcio Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Associazione Fascista Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -99,7 +99,7 @@ locked_by: certificazione_archivio_storico_ufficiale
 Il suo impatto con il calcio siciliano fu travolgente: in sole 23 presenze ufficiali realizzò ben **18 reti**, risultando il secondo miglior marcatore di tutti i gironi di Serie C e sfiorando la qualificazione alle finali promozione. Le sue prestazioni al Cibali convinsero la Lazio ad acquistarlo in Serie A, dove disputò stagioni memorabili.
 
 > [!abstract] La Macchina da Gol Viennese
-> - **Media Realizzativa Straordinaria:** 18 reti in appena 23 presenze (0,78 gol a partita) nella [[stagioni/1941-1942|Stagione 1941-1942]].
+> - **Media Realizzativa Straordinaria:** 18 reti in appena 23 presenze (0,78 gol a partita) nella [[02-cronistoria/stagioni/1941-1942|Stagione 1941-1942]].
 > - **Potenza e Freddezza:** Centravanti classico della scuola danubiana, forte fisicamente e implacabile nei sedici metri.
 > - **Carriera d'Élite:** Dopo Catania giocò ad altissimi livelli in Serie A con Lazio, Fiorentina, Genoa e Sampdoria.
 

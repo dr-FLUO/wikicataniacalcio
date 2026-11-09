@@ -113,7 +113,7 @@ tm_id: 30654
   </table>
 </div>
 
-**Adrián Ricchiuti** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Adrián Ricchiuti** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera
 
@@ -133,3 +133,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **91 presenze ufficiali**, disputando **4725 minuti** di gioco effettivo, siglando **4 gol** e servendo **8 assist** distribuiti su **4 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Adrián Ricchiuti*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Adri%C3%A1n_Ricchiuti).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Adrián Ricchiuti*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 1, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Ricchiuti-1).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

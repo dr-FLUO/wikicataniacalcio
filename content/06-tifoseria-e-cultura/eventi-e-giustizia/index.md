@@ -46,17 +46,17 @@ La storia del tifo a Catania ha incrociato drammaticamente la storia del diritto
 
 | Data Evento | Evento / Incontro | Tipologia e Bilancio | Documento Correlato |
 | :--- | :--- | :--- | :--- |
-| **12 Giugno 1983** | Catania-Perugia | Sparatoria del custode Angelo Grasso dalla Curva Sud: 1 morto (Lorenzo Marino) e 32 feriti. | [[06-tifoseria-e-cultura/eventi-e-giustizia/tragedia-custode-cibali-1983|Dossier Tragedia 1983]] |
-| **25 Giugno 1983** | Catania-Cremonese | Esodo oceanico dei 40.000 all'Olimpico di Roma per la Serie A. | [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|Dossier Esodo Roma]] |
-| **31 Luglio 1993** | Radiazione FIGC | Rivolta popolare, blocco dei binari, incatenamento a Roma e presidi civili. | [[06-tifoseria-e-cultura/eventi-e-giustizia/radiazione-1993-rivolta-urbana|Dossier Radiazione 1993]] |
-| **17 Giugno 2001** | Messina-Catania | Morte di Antonino Currò allo stadio Celeste per lancio di bomba carta dal settore ospiti. | [[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro|Dossier Tragedia Currò]] |
-| **28 Maggio 2006** | Catania-AlbinoLeffe | L'esodo dei 12.000 allo Stadio Dall'Ara di Bologna e il ritorno in Serie A dopo 22 anni. | [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-bologna-2006-promozione-a|Dossier Esodo Bologna 2006]] |
-| **2 Febbraio 2007** | Catania-Palermo | Guerriglia al Massimino durante Sant'Agata; morte dell'Ispettore Filippo Raciti e Legge 41/2007. | [[06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti|Dossier 2 Febbraio 2007]] |
-| **Estate 2015** | Treni del Gol | Declassamento in Serie C, cortei di sdegno e scissione interna sulla Tessera del Tifoso. | [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|Dossier Treni del Gol 2015]] |
-| **19 Marzo 2024** | Padova-Catania | Invasione all'Euganeo per gemellaggio Padova-Palermo; 11 arresti, 28 DASPO e recidiva del 2007. | [[06-tifoseria-e-cultura/eventi-e-giustizia/finale-coppa-euganeo-padova-2024|Dossier Padova 2024]] |
-| **2020–2022** | Fallimento e Ripartenza | La battaglia delle curve per la matricola 11700, i sit-in in Tribunale e i 16.000 in D con Pelligra. | [[06-tifoseria-e-cultura/eventi-e-giustizia/difesa-della-matricola-11700-anni-2020-2022|Dossier Difesa Matricola 11700]] |
-| **19 Settembre 2026** | Catania-Barletta | Scontro fratricida in Piazza Maria Montessori tra cento ultras di Curva Nord e Curva Sud. | [[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-piazza-montessori-2026|Dossier Piazza Montessori]] |
-| **Tradizione Orale** | Mitologia e Folklore | Il furto striscione Fighters Juve, il caso South Lander, il frigorifero al Celeste e il murale del 2018. | [[06-tifoseria-e-cultura/eventi-e-giustizia/mitologia-e-trofei-ultras|Dossier Mitologia e Trofei]] |
+| **12 Giugno 1983** | Catania-Perugia | Sparatoria del custode Angelo Grasso dalla Curva Sud: 1 morto (Lorenzo Marino) e 32 feriti. | [[06-tifoseria-e-cultura/eventi-e-giustizia/tragedia-custode-cibali-1983\|Dossier Tragedia 1983]] |
+| **25 Giugno 1983** | Catania-Cremonese | Esodo oceanico dei 40.000 all'Olimpico di Roma per la Serie A. | [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983\|Dossier Esodo Roma]] |
+| **31 Luglio 1993** | Radiazione FIGC | Rivolta popolare, blocco dei binari, incatenamento a Roma e presidi civili. | [[06-tifoseria-e-cultura/eventi-e-giustizia/radiazione-1993-rivolta-urbana\|Dossier Radiazione 1993]] |
+| **17 Giugno 2001** | Messina-Catania | Morte di Antonino Currò allo stadio Celeste per lancio di bomba carta dal settore ospiti. | [[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro\|Dossier Tragedia Currò]] |
+| **28 Maggio 2006** | Catania-AlbinoLeffe | L'esodo dei 12.000 allo Stadio Dall'Ara di Bologna e il ritorno in Serie A dopo 22 anni. | [[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-bologna-2006-promozione-a\|Dossier Esodo Bologna 2006]] |
+| **2 Febbraio 2007** | Catania-Palermo | Guerriglia al Massimino durante Sant'Agata; morte dell'Ispettore Filippo Raciti e Legge 41/2007. | [[06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti\|Dossier 2 Febbraio 2007]] |
+| **Estate 2015** | Treni del Gol | Declassamento in Serie C, cortei di sdegno e scissione interna sulla Tessera del Tifoso. | [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi\|Dossier Treni del Gol 2015]] |
+| **19 Marzo 2024** | Padova-Catania | Invasione all'Euganeo per gemellaggio Padova-Palermo; 11 arresti, 28 DASPO e recidiva del 2007. | [[06-tifoseria-e-cultura/eventi-e-giustizia/finale-coppa-euganeo-padova-2024\|Dossier Padova 2024]] |
+| **2020–2022** | Fallimento e Ripartenza | La battaglia delle curve per la matricola 11700, i sit-in in Tribunale e i 16.000 in D con Pelligra. | [[06-tifoseria-e-cultura/eventi-e-giustizia/difesa-della-matricola-11700-anni-2020-2022\|Dossier Difesa Matricola 11700]] |
+| **19 Settembre 2026** | Catania-Barletta | Scontro fratricida in Piazza Maria Montessori tra cento ultras di Curva Nord e Curva Sud. | [[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-piazza-montessori-2026\|Dossier Piazza Montessori]] |
+| **Tradizione Orale** | Mitologia e Folklore | Il furto striscione Fighters Juve, il caso South Lander, il frigorifero al Celeste e il murale del 2018. | [[06-tifoseria-e-cultura/eventi-e-giustizia/mitologia-e-trofei-ultras\|Dossier Mitologia e Trofei]] |
 
 ---
 

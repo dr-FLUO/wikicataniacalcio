@@ -96,7 +96,7 @@ tm_id: 608913
   </table>
 </div>
 
-**Gino Menozzi** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Gino Menozzi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -114,3 +114,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **34 presenze ufficiali**, disputando **3060 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Gino Menozzi*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Gino_Menozzi).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.
+3. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Giovanni Menozzi*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 695, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Menozzi-695).

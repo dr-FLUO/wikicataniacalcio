@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1991-1992
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/franco-vannini.jpg
 image_credits:
 - image_path: assets/images/allenatori/franco-vannini.jpg
@@ -96,7 +96,7 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Franco Vannini, soprannominato "Il Condor" e leggendaria mezzala del Perugia dei miracoli imbattuto nel 1978-1979, guidò il Catania per l'intero campionato di Serie C1 1991-1992.
+Franco Vannini, soprannominato "Il Condor" e leggendaria mezzala del Perugia dei miracoli imbattuto nel [[02-cronistoria/stagioni/1978-1979|1978-1979]], guidò il Catania per l'intero campionato di Serie C1 1991-1992.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -106,7 +106,7 @@ Condusse i rossazzurri a un onorevole sesto posto finale con 34 punti, proponend
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1991-1992\|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1991-1992\|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

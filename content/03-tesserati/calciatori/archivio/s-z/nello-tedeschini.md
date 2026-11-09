@@ -29,13 +29,6 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp
-image_credits:
-- image_path: assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp
-  alt_text: Ritratto fotografico di Nello Tedeschini calciatore del Calcio Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/nello-tedeschini
 - nello-tedeschini
@@ -54,8 +47,10 @@ tm_id: 546441
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/nello-tedeschini.webp" alt="Nello Tedeschini" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Nello Tedeschini calciatore del Calcio Catania</div>
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -89,7 +84,7 @@ tm_id: 546441
   </table>
 </div>
 
-**Nello Tedeschini** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Nello Tedeschini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
@@ -106,3 +101,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1938-1940, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **2 presenze ufficiali**, disputando **180 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Nello Tedeschini*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Nello_Tedeschini).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2020-2022
 club_entities:
-- '[[societa/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
+- '[[01-societa/epoche/2020-sigi-e-fallimento|Calcio Catania S.p.A. (Gestione SIGI)]]'
 image: assets/images/allenatori/francesco-baldini.jpg
 image_credits:
 - image_path: assets/images/allenatori/francesco-baldini.jpg
@@ -124,7 +124,7 @@ Nonostante mesi senza stipendi e la revoca dell'esercizio provvisorio il 9 april
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2020-2021\|2020-2021]], [[stagioni/2021-2022\|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2020-2021\|2020-2021]], [[02-cronistoria/stagioni/2021-2022\|2021-2022]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

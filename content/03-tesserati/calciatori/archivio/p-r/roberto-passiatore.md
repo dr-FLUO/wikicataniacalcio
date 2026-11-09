@@ -17,7 +17,7 @@ league_appearances: 58
 total_goals: 18
 league_goals: 18
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza (1993-2000)]]'
 tags:
 - calciatori
 - attaccanti
@@ -98,7 +98,7 @@ image: assets/images/players/213_francesco-passiatore.jpg
 
 **Roberto Passiatore** (Taranto, 12 giugno 1971) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal Catania nell'estate del **1998**, fu il terminale offensivo di riferimento per due campionati indimenticabili, conquistando due titoli consecutivi di capocannoniere interno.
 
-Nel 1998-1999 firmò 8 reti decisive per la vittoria del campionato di Serie C2 con Piero Cucchi. L'anno seguente, nella [[stagioni/1999-2000|Stagione 1999-2000]] in Serie C1, si superò realizzando **10 reti in 31 partite**, confermandosi un bomber di razza per la categoria.
+Nel 1998-1999 firmò 8 reti decisive per la vittoria del campionato di Serie C2 con Piero Cucchi. L'anno seguente, nella [[02-cronistoria/stagioni/1999-2000|Stagione 1999-2000]] in Serie C1, si superò realizzando **10 reti in 31 partite**, confermandosi un bomber di razza per la categoria.
 
 > [!abstract] Il Due Volte Capocannoniere della Rinascita
 > - **Doppio Titolo dei Bomber:** Capocannoniere nel 1998-1999 (8 reti, vittoria Serie C2) e nel 1999-2000 (10 reti in Serie C1).

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2019-2020
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/andrea-camplone.jpg
 image_credits:
 - image_path: assets/images/allenatori/andrea-camplone.jpg
@@ -117,13 +117,13 @@ Andrea Camplone, ex terzino di Pescara e Perugia e allenatore votato al calcio d
 
 ## 2. La Conduzione Tecnica del Catania
 
-Inaugurò il campionato con squillanti vittorie offensive prima dell'avvicendamento di ottobre che segnò il ritorno di Cristiano Lucarelli.
+Inaugurò il campionato con squillanti vittorie offensive prima dell'avvicendamento di ottobre che segnò il ritorno di [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2019-2020\|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2019-2020\|2019-2020]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -46,7 +46,7 @@ Affiancata storicamente dall'esperienza pionieristica di ***Teletna*** — su cu
 ## 1. La Nascita di "Salastampa" con Nuccio Schillirò e Natale Zennaro
 
 All'inizio degli anni Ottanta, sotto l'impulso ideativo di Nuccio Schillirò e la regia di Natale Zennaro, nacque il rotocalco domenicale del dopopartita ***Salastampa***:
-* Il programma rivoluzionò il modo di raccontare il calcio in Sicilia, portando in diretta le interviste a caldo dalla sala stampa dello [[01-societa/strutture/stadio-angelo-massimino|Stadio Cibali]], le moviole analitiche e il confronto con dirigenti e campioni nazionali.
+* Il programma rivoluzionò il modo di raccontare il calcio in Sicilia, portando in diretta le interviste a caldo dalla sala stampa dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], le moviole analitiche e il confronto con dirigenti e campioni nazionali.
 * Durante la storica promozione in Serie A del 1983 allo Stadio Olimpico di Roma, le telecamere di Antenna Sicilia documentarono l'imponente esodo dei 40.000 tifosi etnei e la festa oceanica in Piazza Duomo.
 
 ---

@@ -14,7 +14,7 @@ image: assets/images/allenatori/luca-tabbiani.jpg
 catania_periods:
 - 2023-2024
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
 image_credits:
 - image_path: assets/images/allenatori/luca-tabbiani.jpg
   alt_text: Ritratto ufficiale di Luca Tabbiani in maglia rossazzurra
@@ -112,13 +112,13 @@ Luca Tabbiani, fautore di un 4-3-3 propositivo distintosi alla guida del Fiorenz
 
 ## 2. La Conduzione Tecnica del Catania
 
-Diresse gli etnei nelle prime 12 giornate prima dell'avvicendamento di novembre con Michele Zeoli e Cristiano Lucarelli.
+Diresse gli etnei nelle prime 12 giornate prima dell'avvicendamento di novembre con [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] e [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2023-2024\|2023-2024]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2023-2024\|2023-2024]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -39,30 +39,30 @@ aliases:
 
 # Precedenti Ufficiali Catania - Casarano
 
-I confronti ufficiali tra il **Calcio Catania** e il **Casarano Calcio** rivestono una particolare suggestione cromatica e storiografica nel panorama calcistico italiano: il club salentino (noto come *"le Serpi"*) è infatti una delle pochissime altre società professionistiche italiane a condividere storicamente con gli etnei i colori sociali **rosso e azzurro** (vedi [[maglie/loghi-storici-liotru|Museo delle Maglie e Araldica Rossazzurra]]).
+I confronti ufficiali tra il **Calcio Catania** e il **Casarano Calcio** rivestono una particolare suggestione cromatica e storiografica nel panorama calcistico italiano: il club salentino (noto come *"le Serpi"*) è infatti una delle pochissime altre società professionistiche italiane a condividere storicamente con gli etnei i colori sociali **rosso e azzurro** (vedi [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Museo delle Maglie e Araldica Rossazzurra]]).
 
 > [!abstract] L'Anomalia del Primo Confronto: Coppa Italia 1984-1985 in Campo Neutro
-> Il primo dei **8 confronti casalinghi ufficiali** tra Catania e Casarano non si disputò allo [[stadio/angelo-massimino|Stadio Cibali]], bensì in **campo neutro** nel mese di agosto 1984, durante i gironi eliminatori della **Coppa Italia 1984-1985**. Il [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], appena retrocesso al termine della tormentata [[stagioni/1983-1984|Serie A 1983-1984]], doveva infatti ancora finire di scontare la lunghissima squalifica del proprio impianto casalingo inflitta dalla Commissione Disciplinare dopo gli incidenti del match *Catania-Milan* dell'autunno 1983.
+> Il primo dei **8 confronti casalinghi ufficiali** tra Catania e Casarano non si disputò allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], bensì in **campo neutro** nel mese di agosto 1984, durante i gironi eliminatori della **Coppa Italia 1984-1985**. Il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], appena retrocesso al termine della tormentata [[02-cronistoria/stagioni/1983-1984|Serie A 1983-1984]], doveva infatti ancora finire di scontare la lunghissima squalifica del proprio impianto casalingo inflitta dalla Commissione Disciplinare dopo gli incidenti del match *Catania-Milan* dell'autunno 1983.
 
 ---
 
 ## Le 8 Sfide Interne e i Confronti in Serie C1 (1984–1999)
 
-Dopo il battesimo in Coppa Italia nell'estate 1984, Catania e Casarano si sono incrociati regolarmente nel **Girone B di Serie C1** lungo tutti gli anni Ottanta e Novanta (dal 1987-1988 fino alla stagione [[stagioni/1993-1994|1992-1993]] prima del contenzioso estivo con la FIGC), ritrovandosi poi al ritorno degli etnei in terza serie sul finire del decennio.
+Dopo il battesimo in Coppa Italia nell'estate 1984, Catania e Casarano si sono incrociati regolarmente nel **Girone B di Serie C1** lungo tutti gli anni Ottanta e Novanta (dal 1987-1988 fino alla stagione [[02-cronistoria/stagioni/1993-1994|1992-1993]] prima del contenzioso estivo con la FIGC), ritrovandosi poi al ritorno degli etnei in terza serie sul finire del decennio.
 
 | Periodo / Stagione | Competizione | Sede dell'Incontro Interno | Contesto Storico e Note |
 | :--- | :--- | :--- | :--- |
-| **Agosto 1984 (1984-1985)** | Coppa Italia (Girone Eliminatorio) | **Campo Neutro** (squalifica Cibali) | Primo incrocio assoluto; il Catania sconta la coda della maxi-squalifica ereditata dalla [[stagioni/1983-1984\|Serie A 1983-1984]]. |
-| **1987–1993** | Serie C1 — Girone B (6 stagioni consecutive) | [[stadio/angelo-massimino\|Stadio Cibali]], Catania | Sfide classiche della terza serie durante la gestione di Franco Proto e il ritorno di [[societa/presidenti/angelo-massimino\|Angelo Massimino]]. |
-| **Fine Anni '90 / Recenti** | Serie C1 / Serie C | [[stadio/angelo-massimino\|Stadio Cibali / Angelo Massimino]] | Completano il quadro degli **8 confronti interni** tra le due compagini rossazzurre. |
+| **Agosto 1984 (1984-1985)** | Coppa Italia (Girone Eliminatorio) | **Campo Neutro** (squalifica Cibali) | Primo incrocio assoluto; il Catania sconta la coda della maxi-squalifica ereditata dalla [[02-cronistoria/stagioni/1983-1984\|Serie A 1983-1984]]. |
+| **1987–1993** | Serie C1 — Girone B (6 stagioni consecutive) | [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Cibali]], Catania | Sfide classiche della terza serie durante la gestione di Franco Proto e il ritorno di [[01-societa/presidenti/angelo-massimino\|Angelo Massimino]]. |
+| **Fine Anni '90 / Recenti** | Serie C1 / Serie C | [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Cibali / Angelo Massimino]] | Completano il quadro degli **8 confronti interni** tra le due compagini rossazzurre. |
 
 ---
 
 ## Connessioni nel Grafo Storico
 
-- **Stagione della maxi-squalifica del Cibali:** [[stagioni/1983-1984|Stagione 1983-1984 (Serie A)]]
-- **Impianto sportivo:** [[stadio/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
-- **Cromia e identità rossazzurra:** [[maglie/loghi-storici-liotru|Evoluzione dello Stemma Storico e delle Maglie Rossazzurre]]
+- **Stagione della maxi-squalifica del Cibali:** [[02-cronistoria/stagioni/1983-1984|Stagione 1983-1984 (Serie A)]]
+- **Impianto sportivo:** [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- **Cromia e identità rossazzurra:** [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Evoluzione dello Stemma Storico e delle Maglie Rossazzurre]]
 
 ---
 

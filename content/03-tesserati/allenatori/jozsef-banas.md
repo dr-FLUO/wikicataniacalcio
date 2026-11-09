@@ -14,7 +14,7 @@ nationality: Ungheria
 catania_periods:
 - 1948-1949
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/calciatori/jozsef-banas.jpg
 image_credits:
 - image_path: assets/images/calciatori/jozsef-banas.jpg
@@ -103,7 +103,7 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-József Bánás fu l'artefice principale della storica promozione del Catania in Serie B nella stagione 1948-1949. Subentrato alla 9ª giornata a Giovanni Degni, guidò gli etnei a una travolgente rimonta conclusa con la vittoria dello spareggio promozione contro l'Avellino all'Arena Civica di Milano (1-0).
+József Bánás fu l'artefice principale della storica promozione del Catania in Serie B nella stagione 1948-1949. Subentrato alla 9ª giornata a [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]], guidò gli etnei a una travolgente rimonta conclusa con la vittoria dello spareggio promozione contro l'Avellino all'Arena Civica di Milano (1-0).
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -113,7 +113,7 @@ Ex colonna del Milan negli anni Venti, applicò a Catania un gioco spumeggiante 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1948-1949\|1948-1949]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

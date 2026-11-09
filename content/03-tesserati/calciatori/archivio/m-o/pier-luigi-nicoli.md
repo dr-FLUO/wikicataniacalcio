@@ -94,7 +94,7 @@ tm_id: 224534
   </table>
 </div>
 
-**Pier Luigi Nicoli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Pier Luigi Nicoli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Biografia e Profilo Tecnico
 
@@ -111,3 +111,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1992-1994, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **32 presenze ufficiali**, disputando **2794 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Pier Luigi Nicoli*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Pier_Luigi_Nicoli).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

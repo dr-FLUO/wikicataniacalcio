@@ -10,7 +10,7 @@ entity_type: evento_tifo
 foundation_year: 2017
 origin_district: Catania, Quartiere Castello Ursino e Quartiere Cibali
 stadium_sector: Terreno di Gioco e sotto la Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -56,9 +56,9 @@ aliases:
 
 # Le Esequie di Ciccio Famoso e il Rito al Massimino: Rilievo Giudiziario e Istituzionale (2017)
 
-Il **1° febbraio 2017** morì all'età di 63 anni [[tifoseria/biografie/ciccio-famoso|Francesco "Ciccio" Famoso]], universalmente noto nell'ambiente subculturale italiano come **"Ciccio Falange"**. Considerato tra i padri fondatori del movimento ultras in Italia e guida carismatica della [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto Rossazzurra]] (fondata nel 1979 nel rione popolare di Castello Ursino), la sua figura rappresentava un'icona trasversale dell'identità cittadina ed etnea.
+Il **1° febbraio 2017** morì all'età di 63 anni [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Francesco "Ciccio" Famoso]], universalmente noto nell'ambiente subculturale italiano come **"Ciccio Falange"**. Considerato tra i padri fondatori del movimento ultras in Italia e guida carismatica della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto Rossazzurra]] (fondata nel 1979 nel rione popolare di Castello Ursino), la sua figura rappresentava un'icona trasversale dell'identità cittadina ed etnea.
 
-Le celebrazioni esequiali, svoltesi tra il 2 e il 3 febbraio 2017 con l'ingresso del feretro sul prato dello [[stadio/angelo-massimino|Stadio Angelo Massimino]], assunsero una rilevanza nazionale dal punto di vista dell'ordine pubblico e della gestione dei beni demaniali sportivi, aprendo un serrato confronto istituzionale tra la DIGOS, il Comune di Catania e la Lega Pro.
+Le celebrazioni esequiali, svoltesi tra il 2 e il 3 febbraio 2017 con l'ingresso del feretro sul prato dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], assunsero una rilevanza nazionale dal punto di vista dell'ordine pubblico e della gestione dei beni demaniali sportivi, aprendo un serrato confronto istituzionale tra la DIGOS, il Comune di Catania e la Lega Pro.
 
 > [!abstract] Scheda Sinottica Giudiziaria e di Ordine Pubblico
 > - **Codice Scheda:** `SCHEDA-2017-FAMOSO`
@@ -75,7 +75,7 @@ Le celebrazioni esequiali, svoltesi tra il 2 e il 3 febbraio 2017 con l'ingresso
 
 Dopo la veglia funebre nel cuore del quartiere popolare di Castello Ursino, un imponente corteo composto da migliaia di cittadini e ultras scortò il carro funebre attraverso le vie cittadine fino allo Stadio Angelo Massimino:
 - **L'Accesso al Campo di Gioco:** Intorno a mezzogiorno del 2 febbraio 2017, uno dei varchi carrai dello stadio venne aperto, consentendo al carro funebre e a centinaia di sostenitori di entrare nel recinto di gioco.
-- **L'Omaggio Sotto la Curva Nord:** La bara in legno massello venne estratta e adagiata direttamente sul manto erboso sotto il settore della [[tifoseria/curva-nord/index|Curva Nord]], dove vennero accesi decine di torce e fumogeni rossazzurri al ritmo di tamburi e cori da stadio.
+- **L'Omaggio Sotto la Curva Nord:** La bara in legno massello venne estratta e adagiata direttamente sul manto erboso sotto il settore della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], dove vennero accesi decine di torce e fumogeni rossazzurri al ritmo di tamburi e cori da stadio.
 - **La Partecipazione delle Tifoserie Italiane ed Estere:** Al rito presero parte delegazioni ufficiali con propri drappi e stendardi giunte da ogni parte della penisola e dall'estero, comprese tifoserie gemellate e rivali storiche che intesero rendere onore alla lealtà del personaggio: gruppi di Napoli, Roma, Crotone, Reggina, Genoa, Lazio e gli ultras tedeschi dei *Desperados 1999* del Borussia Dortmund.
 
 ---

@@ -1,13 +1,14 @@
 ---
 title: Salvatore Caturano — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Salvatore Caturano, attaccante del Calcio Catania con 34 presenze
+description: Biografia, presenze e statistiche ufficiali di Salvatore Caturano, attaccante del Calcio Catania con 36 presenze
   e 5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/salvatore-caturano
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Attaccante
-total_appearances: 34
+current_squad: true
+total_appearances: 36
 seasons_count: 2
 tags:
 - calciatori
@@ -49,9 +50,9 @@ aliases:
 - calciatori/salvatore-caturano
 total_goals: 5
 total_assists: 2
-minutes_played: 1209
+minutes_played: 1254
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 56898
 ---
@@ -85,7 +86,7 @@ tm_id: 56898
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>34</td>
+        <td>36</td>
         <th>Goal / Assist</th>
         <td>5 / 2</td>
       </tr>
@@ -93,7 +94,7 @@ tm_id: 56898
   </table>
 </div>
 
-**Salvatore Caturano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Salvatore Caturano** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
@@ -102,11 +103,11 @@ tm_id: 56898
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Punta centrale | 29 | 4 | 2 | 0 | 0 | 1082' |
-| **2026-2027** | Punta centrale | 5 | 1 | 0 | 1 | 0 | 127' |
-| **TOTALE** | — | **34** | **5** | **2** | **1** | **0** | **1209'** |
+| **2026-2027** | Punta centrale | 7 | 1 | 0 | 1 | 0 | 172' |
+| **TOTALE** | — | **36** | **5** | **2** | **1** | **0** | **1254'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **34 presenze ufficiali**, disputando **1209 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **1254 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -117,10 +118,10 @@ Attaccante classe 1990, **Salvatore Caturano** ha militato nelle file rossazzurr
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

@@ -41,22 +41,22 @@ sources:
 
 La **Matricola Federale 11700** ha rappresentato per 75 anni l'identità giuridica e sportiva ufficiale del **Calcio Catania** nell'ordinamento della Federazione Italiana Giuoco Calcio. 
 
-Assegnata nell'autunno del 1946 all'atto della fusione tra la *Società Sportiva Catanese* e la *Virtus Catania* sotto la presidenza di [[societa/presidenti/michele-finocchiaro|Michele Finocchiaro]], la matricola 11700 ha accompagnato il club etneo attraverso tutte le epoche gloriose della sua storia:
-* La prima promozione in Serie A del 1953-1954 con il presidente [[societa/presidenti/santi-maimone|Santi Maimone]];
+Assegnata nell'autunno del 1946 all'atto della fusione tra la *Società Sportiva Catanese* e la *Virtus Catania* sotto la presidenza di [[01-societa/presidenti/michele-finocchiaro|Michele Finocchiaro]], la matricola 11700 ha accompagnato il club etneo attraverso tutte le epoche gloriose della sua storia:
+* La prima promozione in Serie A del [[02-cronistoria/stagioni/1953-1954|1953-1954]] con il presidente [[01-societa/presidenti/santi-maimone|Santi Maimone]];
 * Gli anni d'oro del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]" in Serie A negli anni Sessanta;
-* La lunga era guidata dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]];
-* Gli otto campionati consecutivi di Serie A sotto la gestione di [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]].
+* La lunga era guidata dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]];
+* Gli otto campionati consecutivi di Serie A sotto la gestione di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]].
 
 ## Epilogo Giudiziario e Continuità dei Beni Immateriali
 
 Il 22 dicembre 2021 la Sezione Fallimentare del Tribunale di Catania ha dichiarato il fallimento del *Calcio Catania S.p.A.*, disponendo l'esercizio provvisorio fino al 9 aprile 2022, data in cui la FIGC ha deliberato la revoca definitiva dell'affiliazione e lo svincolo dei tesserati.
 
-Nel luglio 2022, con la nascita del gruppo guidato da [[societa/presidenti/ross-pelligra|Ross Pelligra]], il nuovo sodalizio **Catania Football Club** ha rilevato all'asta fallimentare i diritti di utilizzo del marchio storico, dei simboli, della denominazione e del patrimonio archivistico della matricola 11700, assicurando la piena continuità morale e identitaria tra la tradizione del 1946 e l'era contemporanea.
+Nel luglio 2022, con la nascita del gruppo guidato da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il nuovo sodalizio **Catania Football Club** ha rilevato all'asta fallimentare i diritti di utilizzo del marchio storico, dei simboli, della denominazione e del patrimonio archivistico della matricola 11700, assicurando la piena continuità morale e identitaria tra la tradizione del 1946 e l'era contemporanea.
 
 ## Collegamenti Correlati
-* [[societa/1946-club-calcio-catania|Club Calcio Catania (1946)]]
-* [[societa/2022-pelligra-catania-fc|Catania Football Club (2022)]]
-* [[maglie/simbologia-colori-scudetti|Simbologia, Colori Araldici e Scudetti]]
+* [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946)]]
+* [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (2022)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Simbologia, Colori Araldici e Scudetti]]
 
 ## Fonti e Bibliografia
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

@@ -56,7 +56,7 @@ Con uno stile sobrio, tecnicamente impeccabile e lontano da eccessi retorici, Sc
 
 Alla fine degli anni Settanta, con l'avvio delle trasmissioni di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] (ammiraglia del gruppo Ciancio) e la regia di Natale Zennaro, Schillirò fu l'ideatore e il **primo conduttore storico della trasmissione domenicale *Salastampa***:
 
-* Impose un modello di rotocalco del dopo-gara moderno e dinamico, basato su moviole analitiche, collegamenti a caldo dagli spogliatoi del [[01-societa/strutture/stadio-angelo-massimino|Cibali]] e dibattiti accesi ma sempre improntati al massimo rispetto istituzionale.
+* Impose un modello di rotocalco del dopo-gara moderno e dinamico, basato su moviole analitiche, collegamenti a caldo dagli spogliatoi del [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] e dibattiti accesi ma sempre improntati al massimo rispetto istituzionale.
 * *Salastampa* si affermò in breve come la trasmissione sportiva più vista dell'isola, aprendo la strada che sarebbe stata poi percorsa e ampliata da [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]].
 
 ---

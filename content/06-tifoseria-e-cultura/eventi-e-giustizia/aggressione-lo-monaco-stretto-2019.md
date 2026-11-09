@@ -9,7 +9,7 @@ entity_type: evento_tifo
 foundation_year: 2019
 origin_district: Stretto di Messina, motonave Caronte & Tourist
 stadium_sector: Trasferta marittima ed extrapolare
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -62,7 +62,7 @@ aliases:
 
 # L'Aggressione a Pietro Lo Monaco sullo Stretto di Messina (27 Novembre 2019)
 
-Nel pieno della logorante crisi finanziaria ed economica pre-fallimentare che travolse il Calcio Catania durante la [[stagioni/2019-2020|Stagione 2019-2020]] di Serie C, la contestazione ultras nei confronti dell'amministratore delegato **Pietro Lo Monaco** superò i limiti delle proteste verbali e simboliche, sfociando in una violenta aggressione fisica premeditata in mare aperto.
+Nel pieno della logorante crisi finanziaria ed economica pre-fallimentare che travolse il Calcio Catania durante la [[02-cronistoria/stagioni/2019-2020|Stagione 2019-2020]] di Serie C, la contestazione ultras nei confronti dell'amministratore delegato **Pietro Lo Monaco** superò i limiti delle proteste verbali e simboliche, sfociando in una violenta aggressione fisica premeditata in mare aperto.
 
 La mattina di mercoledì **27 novembre 2019**, intorno alle ore 08:00, il dirigente etneo si trovava a bordo della motonave *Telepass* della compagnia Caronte & Tourist, in traversata marittima da Messina a Villa San Giovanni, per raggiungere la prima squadra impegnata nel pomeriggio in Basilicata per la gara di Coppa Italia di Serie C contro il Potenza.
 
@@ -72,7 +72,7 @@ La mattina di mercoledì **27 novembre 2019**, intorno alle ore 08:00, il dirige
 > - **Luogo:** Stretto di Messina (motonave *Telepass* della Caronte & Tourist in navigazione verso Villa San Giovanni).
 > - **Tipologia / Natura Evento:** Aggressione fisica pianificata, lesioni personali, violenza privata aggravata finalizzata a costringere un dirigente sportivo alle dimissioni societarie.
 > - **Conseguenze Giudiziarie e Misure Applicate:**
->   1. Arresto in flagranza differita (ex art. 8 comma 1-bis L. 401/1989) a carico di **Rosario Piacenti**, leader storico del gruppo [[tifoseria/curva-sud/irriducibili-1991|Irriducibili 1991]] della Curva Sud;
+>   1. Arresto in flagranza differita (ex art. 8 comma 1-bis L. 401/1989) a carico di **Rosario Piacenti**, leader storico del gruppo [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili 1991]] della Curva Sud;
 >   2. Notifica di provvedimento di **DASPO della durata di 10 anni** con obbligo di firma emesso dal Questore di Reggio Calabria;
 >   3. Avvio della procedura di prevenzione della **Sorveglianza Speciale di Pubblica Sicurezza ex D.Lgs. 159/2011 (Codice Antimafia)**, tra i primi casi in Italia di applicazione delle misure di prevenzione personali antimafia per condotte connesse alla violenza da stadio "fuori contesto".
 > - **Fonti Documentali:** *Il Fatto Quotidiano*, *Sky Sport*, *MeridioNews*, *Questura di Reggio Calabria*, *ANSA*.

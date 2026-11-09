@@ -6,7 +6,7 @@ entity_type: "dirigente"
 date_start: 2026-07-01
 catania_periods:
   - 2026-Oggi
-club_entity: "[[societa/2022-pelligra-catania-fc|Catania Football Club]]"
+club_entity: "[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]"
 figc_matricola: "955013"
 image: "assets/images/presidenti-dirigenti/fortunato-varra.jpg"
 cover_image: "fortunato-varra.jpg"
@@ -48,7 +48,7 @@ aliases:
 
 # Fortunato Varrà (Direttore Sportivo Catania FC)
 
-**Fortunato Varrà** (Rosarno, 25 agosto 1978) è un dirigente sportivo italiano, **Direttore Sportivo del [[societa/2022-pelligra-catania-fc|Catania Football Club]]** a partire dal **1° luglio 2026**.
+**Fortunato Varrà** (Rosarno, 25 agosto 1978) è un dirigente sportivo italiano, **Direttore Sportivo del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** a partire dal **1° luglio 2026**.
 
 > [!abstract] Il Nuovo Corso Tecnico Rossazzurro
 > Ufficializzato dalla società etnea con un contratto biennale fino al **30 giugno 2028**, Fortunato Varrà è subentrato a [[01-societa/dirigenti/daniele-faggiano|Daniele Faggiano]] alla guida dell'area sportiva per impostare il nuovo ciclo tecnico ed economico del club di [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] e del vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]]. In sinergia con il tecnico [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Varrà ha improntato il calciomercato su una marcata rimodulazione della rosa e sull'abbassamento dell'età media della squadra.

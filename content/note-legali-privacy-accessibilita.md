@@ -66,3 +66,17 @@ In conformità alla **Direttiva (UE) 2019/882 (European Accessibility Act)**, al
    - **Pubblico Dominio in Italia (Art. 92 L. 633/1941):** fotografie semplici (prive di carattere creativo d'autore, quali foto di formazioni schierate o cronaca sportiva ordinaria) per le quali sono decorsi **oltre 20 anni** dalla data di produzione/pubblicazione, fermo restando l'obbligo morale di citare l'archivio o il fotografo d'origine.
    - **Licenze Aperte (Creative Commons):** immagini rilasciate dagli autori sotto licenza `CC BY-SA 4.0`, `CC BY 4.0` o `CC0`, con attribuzione completa e link alla licenza.
    - **Procedura di Rimozione o Rettifica Immediata (*Notice & Take-Down*):** Qualora un avente diritto riscontrasse un'inesattezza nei crediti fotografici o desiderasse richiedere la rimozione di un contenuto, può inviare una comunicazione immediata tramite la pagina **[[segnala-correzione|Segnala una correzione o aggiornamento]]**.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+
+---
+
+## Fonti e Bibliografia
+
+1. **Parlamento Europeo e Consiglio dell'Unione Europea**, *Regolamento (UE) 2016/679 (GDPR), Direttiva (UE) 2019/882 (European Accessibility Act) e Direttiva (UE) 2019/790 (Copyright DSM)*, Gazzetta Ufficiale dell'Unione Europea, 2019.

@@ -9,7 +9,7 @@ founder: Collettivo dei clan storici rionali catanesi
 origin_district: Monte Po', Librino, San Giorgio, Piazza Palestro, Stazione, Cibali
   (Catania)
 stadium_sector: Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 international_ties:
 - Südtribüne Borussia Dortmund
 status: verified
@@ -49,10 +49,10 @@ aliases:
 
 # Mecha Katane e la Cultura dei Clan Rionali della Curva Nord
 
-L'identità antropologica, visiva e comportamentale della [[tifoseria/curva-nord/index|Curva Nord]] dello [[stadio/angelo-massimino|Stadio Angelo Massimino (Cibali)]] si fonda sul binomio inscindibile tra l'orgoglio delle radici magnogreche della città — riassunte nell'antico toponimo **Katane** (*Katànē*, *Κατάνη*, fondata dai calcidesi nel 729 a.C.) — e la dinamica reticolare dei **clan di quartiere**. Nel linguaggio del tifo organizzato catanese, il termine ***Mecha*** richiama la "miccia" inestinguibile dell'innesco vulcanico, la scintilla ribelle che accende il fuoco etneo (#d11317) e l'ardore di una costellazione di formazioni territoriali radicate nelle periferie e nei rioni storici della città.
+L'identità antropologica, visiva e comportamentale della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] si fonda sul binomio inscindibile tra l'orgoglio delle radici magnogreche della città — riassunte nell'antico toponimo **Katane** (*Katànē*, *Κατάνη*, fondata dai calcidesi nel 729 a.C.) — e la dinamica reticolare dei **clan di quartiere**. Nel linguaggio del tifo organizzato catanese, il termine ***Mecha*** richiama la "miccia" inestinguibile dell'innesco vulcanico, la scintilla ribelle che accende il fuoco etneo (#d11317) e l'ardore di una costellazione di formazioni territoriali radicate nelle periferie e nei rioni storici della città.
 
 > [!abstract] La Struttura Policentrica della Curva Nord
-> Mentre la [[tifoseria/curva-sud/index|Curva Sud]] ha storicamente gravitato attorno al modello carismatico e unificato della [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto]] fondata nel rione Castello Ursino da [[tifoseria/biografie/ciccio-famoso|Ciccio Famoso]], la [[tifoseria/curva-nord/index|Curva Nord]] si è affermata come una vera **federazione orizzontale di clan rionali**. Ciascun rione custodisce il proprio vessillo, i propri codici di quartiere e la propria autonomia operativa, convergendo a difesa della maglia rossazzurra e dell'onore cittadino.
+> Mentre la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] ha storicamente gravitato attorno al modello carismatico e unificato della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] fondata nel rione Castello Ursino da [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] si è affermata come una vera **federazione orizzontale di clan rionali**. Ciascun rione custodisce il proprio vessillo, i propri codici di quartiere e la propria autonomia operativa, convergendo a difesa della maglia rossazzurra e dell'onore cittadino.
 
 ---
 
@@ -60,7 +60,7 @@ L'identità antropologica, visiva e comportamentale della [[tifoseria/curva-nord
 
 L'evocazione di *Katane* nel tessuto ultras rossazzurro trascende la mera archeologia:
 - **L'Asprezza della Pietra Lavica:** Il nome greco *Katane* (interpretato tradizionalmente come "scabra", "rupe lavica" o "grattugia") riflette la natura basaltica della terra etnea, richiamando l'indomita resistenza della popolazione alle calamità vulcaniche e ai terremoti, metafora perfetta della resilienza del tifoso di fronte alle retrocessioni e ai fallimenti societari.
-- **La Miccia Vulcanica (*Mecha*):** Nel gergo identitario dei gruppi, la *mecha* rappresenta l'innesco sempre vivo: una fiamma che non si spegne mai, a prescindere che il Catania militi in [[stagioni/2012-2013|Serie A]] o nei campi polverosi dell'[[stagioni/1993-1994|Eccellenza Sicilia 1993-1994]].
+- **La Miccia Vulcanica (*Mecha*):** Nel gergo identitario dei gruppi, la *mecha* rappresenta l'innesco sempre vivo: una fiamma che non si spegne mai, a prescindere che il Catania militi in [[02-cronistoria/stagioni/2012-2013|Serie A]] o nei campi polverosi dell'[[02-cronistoria/stagioni/1993-1994|Eccellenza Sicilia 1993-1994]].
 - **La Simbologia delle Lame e della Fierezza:** L'assonanza con le armi da taglio tradizionali e la fierezza guerriera orientale ha generato nel corso dei decenni fanzine, motti e stendardi in cui il nome ancestrale della città è stato accostato all'iconografia dell'elefante combattente (*u Liotru*) e del fuoco etneo.
 
 ---
@@ -85,15 +85,15 @@ La Curva Nord rappresenta lo specchio fedele delle complesse dinamiche urbane di
 
 | Sigla o Clan Rionale | Quartiere o Comune d'Origine | Epoca d'Affermazione | Tratti Identitari e Simbologia | Settore di Schieramento |
 | :--- | :--- | :---: | :--- | :--- |
-| **Quartiere Monte Po'** | Monte Po' (Periferia Ovest) | Anni '90 | Baluardo storico; stile intransigente, fedeltà cieca alla maglia. | [[tifoseria/curva-nord/index\|Curva Nord]] (Balaustra superiore) |
-| **Librino Catania** | Librino (Periferia Sud) | Anni 2000 | Blocco numerico imponente; senso di riscatto sociale rionale. | [[tifoseria/curva-nord/index\|Curva Nord]] (Settore centrale) |
-| **San Giorgio** | San Giorgio (Catania Sud) | Anni '90 | Presenza costante in trasferta; attaccamento viscerale al rione. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Piazza Palestro** | Quartiere Fortino / Piazza Palestro | Anni '80 | Tradizione verace del centro storico; fierezza civica. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Stazione Clan** | Stazione Centrale di Catania | Anni '90 | Avanguardia dei viaggi in treno; memoria delle trasferte epiche. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Cibali Ultras** | Quartiere Cibali | Anni '80 | Custodi del territorio dell'[[stadio/angelo-massimino\|Angelo Massimino]]. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Via San Jacopo** | San Cristoforo | Anni 2000 | Nucleo ad alta intensità; drappo celebre per le diffide (DASPO). | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Essere Ultras / Dannatamente Innamorati** | Interquartiere cittadino | Anni 2010 | Componente ideologica; fedeltà assoluta allo stile ultras classico. | [[tifoseria/curva-nord/index\|Curva Nord]] |
-| **Zafferana Rossoazzurra** | Zafferana Etnea (Area Pedemontana) | Anni 2000 | Presidio territoriale dei comuni alle falde dell'Etna. | [[tifoseria/curva-nord/index\|Curva Nord]] |
+| **Quartiere Monte Po'** | Monte Po' (Periferia Ovest) | Anni '90 | Baluardo storico; stile intransigente, fedeltà cieca alla maglia. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] (Balaustra superiore) |
+| **Librino Catania** | Librino (Periferia Sud) | Anni 2000 | Blocco numerico imponente; senso di riscatto sociale rionale. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] (Settore centrale) |
+| **San Giorgio** | San Giorgio (Catania Sud) | Anni '90 | Presenza costante in trasferta; attaccamento viscerale al rione. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Piazza Palestro** | Quartiere Fortino / Piazza Palestro | Anni '80 | Tradizione verace del centro storico; fierezza civica. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Stazione Clan** | Stazione Centrale di Catania | Anni '90 | Avanguardia dei viaggi in treno; memoria delle trasferte epiche. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Cibali Ultras** | Quartiere Cibali | Anni '80 | Custodi del territorio dell'[[04-strutture/stadio-massimino/angelo-massimino\|Angelo Massimino]]. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Via San Jacopo** | San Cristoforo | Anni 2000 | Nucleo ad alta intensità; drappo celebre per le diffide (DASPO). | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Essere Ultras / Dannatamente Innamorati** | Interquartiere cittadino | Anni 2010 | Componente ideologica; fedeltà assoluta allo stile ultras classico. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
+| **Zafferana Rossoazzurra** | Zafferana Etnea (Area Pedemontana) | Anni 2000 | Presidio territoriale dei comuni alle falde dell'Etna. | [[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]] |
 
 ---
 
@@ -104,10 +104,10 @@ Un fenomeno sociologico quasi unico nel panorama del tifo italiano è la presenz
 Tra queste formazioni spicca la nascita, nel **2015**, del **[[06-tifoseria-e-cultura/settori/tribuna-b/index|Ultras Mecha Klan Catania (MCK)]]** in Tribuna B:
 - **Origine e Scissione:** Sorto per iniziativa di militanti provenienti da esperienze pregresse tra Curva Sud e Nord desiderosi di vivere la gradinata con un approccio autonomo, il Mecha Klan si è posizionato al centro della Tribuna B, affiancato da sigle come *Banda Principe*, *Tana Rossazzurra* e *Simpson Boys*.
 - **Etica del No-Profit:** Il gruppo ha fatto del rifiuto del lucro e dell'autofinanziamento un dogma invalicabile, sintetizzato nello slogan esposto sulle proprie pezze: *"I nostri sacrifici sono d'amore & mentalità / Ultras Catania: scopo di lucro zero"*.
-- **La Difesa della Matricola 11700 nel 2020:** Nel luglio 2020, durante la drammatica crisi finanziaria del club e il concordato preventivo, il Mecha Klan fu protagonista di una clamorosa e pacifica manifestazione di fronte al Palazzo di Giustizia di Catania con lo striscione: *"A voi il dovere di giudicare, a noi la possibilità di amare"*, ribadendo l'indissolubilità del legame popolare prima del [[vicende-legali/fallimento-2021-art52-noif|fallimento societario del dicembre 2021]].
-- **Lo Scioglimento post Catania-Ascoli (2026):** In seguito ai gravi disordini verificatisi nei playoff di ritorno Catania-Ascoli del 27 maggio 2026 al Massimino, una pioggia di Daspo e denunce della Digos (che ha colpito quasi 20 dei 25 militanti attivi) ha portato lo storico gruppo di Tribuna B a deliberare il proprio scioglimento definitivo il 12 giugno 2026, sancendo la propria assenza dai gradoni a partire dalla stagione sportiva 2026-2027.
+- **La Difesa della Matricola 11700 nel 2020:** Nel luglio 2020, durante la drammatica crisi finanziaria del club e il concordato preventivo, il Mecha Klan fu protagonista di una clamorosa e pacifica manifestazione di fronte al Palazzo di Giustizia di Catania con lo striscione: *"A voi il dovere di giudicare, a noi la possibilità di amare"*, ribadendo l'indissolubilità del legame popolare prima del [[01-societa/vicende-legali/fallimento-2021-art52-noif|fallimento societario del dicembre 2021]].
+- **Lo Scioglimento post Catania-Ascoli (2026):** In seguito ai gravi disordini verificatisi nei playoff di ritorno Catania-Ascoli del 27 maggio 2026 al Massimino, una pioggia di Daspo e denunce della Digos (che ha colpito quasi 20 dei 25 militanti attivi) ha portato lo storico gruppo di Tribuna B a deliberare il proprio scioglimento definitivo il 12 giugno 2026, sancendo la propria assenza dai gradoni a partire dalla stagione sportiva [[02-cronistoria/stagioni/2026-2027|2026-2027]].
 
-Questa vivacità delle tribune affonda le radici nella storia della Curva Nord: la stessa **[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]]** nacque originariamente nel **2000** proprio in [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]], prima di trasferirsi stabilmente nella Nord per diventarne una delle colonne portanti assieme ad [[tifoseria/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede]].
+Questa vivacità delle tribune affonda le radici nella storia della Curva Nord: la stessa **[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]]** nacque originariamente nel **2000** proprio in [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]], prima di trasferirsi stabilmente nella Nord per diventarne una delle colonne portanti assieme ad [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede]].
 
 ---
 

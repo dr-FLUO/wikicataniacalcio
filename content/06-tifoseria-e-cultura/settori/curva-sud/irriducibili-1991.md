@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 1991
 origin_district: San Cristoforo, Librino, Villaggio Sant'Agata, Via Plebiscito (Catania)
 stadium_sector: Curva Sud (Anello Superiore)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:

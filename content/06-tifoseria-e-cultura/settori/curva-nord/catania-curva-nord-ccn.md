@@ -6,7 +6,7 @@ entity_type: "gruppo_ultras"
 foundation_year: 2022
 origin_district: "Tutti i Quartieri Popolari di Catania (San Cristoforo, Picanello, Monte Po', Stazione, Librino, Cibali)"
 stadium_sector: "Curva Nord (Secondo Anello - Balconata Centrale)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]]"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-11-03
 tags:
@@ -47,7 +47,7 @@ aliases:
 
 # Catania Curva Nord (CCN) — Il Gruppo Reggente del Settore Settentrionale
 
-**Catania Curva Nord**, universalmente identificato attraverso la sigla **CCN**, è il **gruppo reggente** e l'organismo direttivo unitario che coordina, guida e rappresenta la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[stadio/angelo-massimino|Stadio Angelo Massimino]].
+**Catania Curva Nord**, universalmente identificato attraverso la sigla **CCN**, è il **gruppo reggente** e l'organismo direttivo unitario che coordina, guida e rappresenta la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
 Nato come evoluzione e sintesi delle componenti storiche del settore settentrionale all'indomani del fallimento del Calcio Catania S.p.A. nel 2022 e della ripartenza societaria in Serie D, il CCN incarna il punto d'incontro tra l'ortodossia ultras classica e la rete capillare dei clan territoriali cittadini.
 

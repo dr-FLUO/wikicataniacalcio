@@ -94,7 +94,7 @@ tm_id: 394030
   </table>
 </div>
 
-**Nicola D'Ottavio** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Nicola D'Ottavio** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 
@@ -112,3 +112,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 1988-1990, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **51 presenze ufficiali**, disputando **4039 minuti** di gioco effettivo, siglando **10 gol** e servendo **0 assist** distribuiti su **2 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Nicola D'Ottavio*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Nicola_D%27Ottavio).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

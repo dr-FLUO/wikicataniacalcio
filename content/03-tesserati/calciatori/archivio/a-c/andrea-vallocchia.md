@@ -1,13 +1,14 @@
 ---
 title: Andrea Vallocchia — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Vallocchia, centrocampista del Calcio Catania con 9 presenze
+description: Biografia, presenze e statistiche ufficiali di Andrea Vallocchia, centrocampista del Calcio Catania con 11 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-vallocchia
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Centrocampista
-total_appearances: 9
+current_squad: true
+total_appearances: 11
 seasons_count: 1
 image: assets/images/calciatori/andrea-vallocchia.jpg
 image_credits:
@@ -44,9 +45,9 @@ aliases:
 - calciatori/andrea-vallocchia
 total_goals: 0
 total_assists: 1
-minutes_played: 708
+minutes_played: 800
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 355929
 ---
@@ -80,7 +81,7 @@ tm_id: 355929
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>9</td>
+        <td>11</td>
         <th>Goal / Assist</th>
         <td>0 / 1</td>
       </tr>
@@ -88,7 +89,7 @@ tm_id: 355929
   </table>
 </div>
 
-**Andrea Vallocchia** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Andrea Vallocchia** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Centrocampista**.
 
 ---
 
@@ -96,21 +97,21 @@ tm_id: 355929
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Centrocampista | 9 | 0 | 1 | 1 | 0 | 708' |
-| **TOTALE** | — | **9** | **0** | **1** | **1** | **0** | **708'** |
+| **2026-2027** | Centrocampista | 11 | 0 | 1 | 1 | 0 | 800' |
+| **TOTALE** | — | **11** | **0** | **1** | **1** | **0** | **800'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **708 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **800 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

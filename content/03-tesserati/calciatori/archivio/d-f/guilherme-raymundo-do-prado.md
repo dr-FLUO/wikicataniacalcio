@@ -31,14 +31,6 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp
-image_credits:
-- image_path: assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp
-  alt_text: Ritratto fotografico di Guilherme Raymundo do Prado calciatore del Calcio
-    Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/guilherme-raymundo-do-prado
 - guilherme-raymundo-do-prado
@@ -53,8 +45,10 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/guilherme-raymundo-do-prado.webp" alt="Guilherme Raymundo do Prado" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Guilherme Raymundo do Prado calciatore del Calcio Catania</div>
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -88,10 +82,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Guilherme Raymundo do Prado** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista Offensivo**.
+**Guilherme Raymundo do Prado** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista Offensivo**.
 
 ## Biografia e Profilo Tecnico
 
 Trequartista brasiliano di grande eleganza e visione di gioco (Guly do Prado). Arriva a Catania nell'estate 2002 durante la gestione Gaucci, segnando reti pesantissime nella combattutissima stagione di Serie B 2002-2003.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2002-2003, totalizzando **20 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Guilherme Raymundo do Prado*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Guilherme_Raymundo_do_Prado).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

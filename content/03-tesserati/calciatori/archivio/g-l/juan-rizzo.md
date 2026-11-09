@@ -84,7 +84,7 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Juan Rizzo** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Juan Rizzo** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -100,3 +100,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 | **TOTALE** | — | **13** | **1** | **0** | **0** | **0** | **1170'** |
 
 *Dati statistici ufficiali aggregati e certificati per il Calcio Catania: 13 presenze e 1 reti complessive.*
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Juan Rizzo*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Juan_Rizzo).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -49,7 +49,7 @@ image_credits:
 L'espressione **«Clamoroso al Cibali!»**, pronunciata dal radiocronista [[07-media-e-comunicazione/firme-e-voci/sandro-ciotti|Sandro Ciotti]] il **4 giugno 1961** nel corso della trasmissione radiofonica *Tutto il calcio minuto per minuto*, rappresenta una delle formule verbali più celebri dell'intera storia delle comunicazioni di massa in Italia.
 
 > [!abstract] La Partita del Secolo Rossazzurra
-> Pronunciata in occasione di [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania - Inter 2-0]] (34ª giornata del campionato di Serie A 1960-1961), la frase sottolineava l'incredibile vittoria della matricola etnea — neopromossa e guidata da [[societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] — contro la corazzata di Helenio Herrera, privando i nerazzurri del titolo italiano a favore della Juventus.
+> Pronunciata in occasione di [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania - Inter 2-0]] (34ª giornata del campionato di Serie A [[02-cronistoria/stagioni/1960-1961|1960-1961]]), la frase sottolineava l'incredibile vittoria della matricola etnea — neopromossa e guidata da [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] — contro la corazzata di Helenio Herrera, privando i nerazzurri del titolo italiano a favore della Juventus.
 
 ---
 
@@ -59,7 +59,7 @@ Quel pomeriggio di inizio estate, il conduttore dallo studio centrale Roberto Bo
 
 > _«Clamoroso al Cibali! Il Catania è passato in vantaggio al venticinquesimo del primo tempo con un tiro ravvicinato di Castellazzi!»_
 
-Al settantesimo minuto, con il raddoppio firmato da [[tesserati/calciatori/salvador-calvanese|Salvador Calvanese]], il destino della gara venne sigillato tra l'entusiasmo incontenibile dei venticinquemila spettatori assiepati sulle gradinate dello [[stadio/angelo-massimino|Stadio Cibali]].
+Al settantesimo minuto, con il raddoppio firmato da [[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador Calvanese]], il destino della gara venne sigillato tra l'entusiasmo incontenibile dei venticinquemila spettatori assiepati sulle gradinate dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
 
 ---
 

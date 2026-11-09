@@ -54,10 +54,10 @@ aliases:
 
 Il **14 ottobre 2026**, la storica cornice di **Piazza Dante** — dominata dalla monumentale facciata della Chiesa di San Nicolò l'Arena e dell'ex Monastero dei Benedettini, nel cuore pulsante del centro storico di Catania — è stata teatro di una delle più significative manifestazioni comunitarie e sociali promosse dal tifo organizzato etneo: la giornata di festa e aggregazione popolare intitolata **«Catania Siamo Noi»**.
 
-Ideata e organizzata dai ragazzi della **[[tifoseria/curva-nord/index|Curva Nord]]** del Catania in stretta collaborazione con l'associazione socioculturale **«Oltre»**, l'iniziativa è stata dedicata esplicitamente ai **bambini e alle famiglie**, trasformando la piazza in un campo da gioco a cielo aperto tra sport, laboratori educativi e colori rossazzurri.
+Ideata e organizzata dai ragazzi della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Catania in stretta collaborazione con l'associazione socioculturale **«Oltre»**, l'iniziativa è stata dedicata esplicitamente ai **bambini e alle famiglie**, trasformando la piazza in un campo da gioco a cielo aperto tra sport, laboratori educativi e colori rossazzurri.
 
 > [!abstract] Il Significato Civico e Identitario dell'Evento
-> L'evento **«Catania Siamo Noi»** ha espresso con forza la vocazione territoriale del tifo organizzato della [[tifoseria/curva-nord/index|Curva Nord]], tradizionalmente radicato nei rioni storici e popolari del capoluogo etneo. Riunire centinaia di giovanissimi e genitori in piazza ha risposto a un duplice obiettivo:
+> L'evento **«Catania Siamo Noi»** ha espresso con forza la vocazione territoriale del tifo organizzato della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], tradizionalmente radicato nei rioni storici e popolari del capoluogo etneo. Riunire centinaia di giovanissimi e genitori in piazza ha risposto a un duplice obiettivo:
 > 1. **Pedagogia dell'appartenenza:** educare le nuove generazioni all'amore autentico per la maglia e per la propria terra attraverso la partecipazione fisica, il gioco e la socialità dal vivo, lontani dalla passività del calcio televisivo.
 > 2. **Difesa della memoria collettiva:** affermare il principio secondo cui i simboli, la storia e la tradizione calcistica di Catania appartengono anzitutto alla sua gente e ai suoi tifosi, e non possono essere mercificati o ridotti a meri lotti finanziari.
 
@@ -73,7 +73,7 @@ Di fronte al rischio concreto che il simbolo identitario potesse finire nelle ma
 
 > *«La storia, la passione e l'amore per questa città non si comprano e non si vendono all'asta. Lo stemma appartiene al popolo di Catania, ai padri che l'hanno tramandato e ai bambini che oggi corrono dietro a un pallone con i nostri colori.»*
 
-La mobilitazione popolare di Piazza Dante contribuì in modo determinante a sensibilizzare l'opinione pubblica e la dirigenza del [[societa/2022-pelligra-catania-fc|Catania Football Club]]: pochi giorni dopo, il **22 ottobre 2026**, il club guidato dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] partecipò con fermezza all'asta telematica, aggiudicandosi in via definitiva lo storico marchio per **250.000 euro** dopo un serrato duello di rilanci e riconsegnando ufficialmente il *Liotru* alla sua naturale casa sportiva.
+La mobilitazione popolare di Piazza Dante contribuì in modo determinante a sensibilizzare l'opinione pubblica e la dirigenza del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]: pochi giorni dopo, il **22 ottobre 2026**, il club guidato dal presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] partecipò con fermezza all'asta telematica, aggiudicandosi in via definitiva lo storico marchio per **250.000 euro** dopo un serrato duello di rilanci e riconsegnando ufficialmente il *Liotru* alla sua naturale casa sportiva.
 
 ---
 
@@ -90,7 +90,7 @@ Accanto ai campetti, è stato istituito un grande spazio creativo curato dagli a
 - Uno spazio per i pensieri e le dediche, in cui i bambini hanno scritto brevi frasi su cosa significhi per loro tifare per la squadra della propria terra natale.
 
 ### La Partecipazione dei Calciatori del Catania FC
-Nel pomeriggio, la festa ha visto l'arrivo a sorpresa di una delegazione ufficiale di calciatori del [[societa/2022-pelligra-catania-fc|Catania Football Club]]. I tesserati rossazzurri si sono intrattenuti con i piccoli tifosi, firmando autografi su maglie e quaderni, scattando fotografie ricordo e partecipando a brevi scambi di palla con i giovani partecipanti del torneo, suggellando la ritrovata armonia tra la prima squadra e il tessuto popolare etneo.
+Nel pomeriggio, la festa ha visto l'arrivo a sorpresa di una delegazione ufficiale di calciatori del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]. I tesserati rossazzurri si sono intrattenuti con i piccoli tifosi, firmando autografi su maglie e quaderni, scattando fotografie ricordo e partecipando a brevi scambi di palla con i giovani partecipanti del torneo, suggellando la ritrovata armonia tra la prima squadra e il tessuto popolare etneo.
 
 ---
 
@@ -101,10 +101,10 @@ Nel pomeriggio, la festa ha visto l'arrivo a sorpresa di una delegazione ufficia
 | **Denominazione Ufficiale** | **«Catania Siamo Noi»** |
 | **Data di Svolgimento** | **14 Ottobre 2026** |
 | **Luogo e Quartiere** | **Piazza Dante**, Quartiere Antico Corso, Catania (davanti al Monastero dei Benedettini) |
-| **Entità Promotrici** | **[[tifoseria/curva-nord/index\|Curva Nord Catania]]** in collaborazione con l'associazione **«Oltre»** |
+| **Entità Promotrici** | **[[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord Catania]]** in collaborazione con l'associazione **«Oltre»** |
 | **Target Principale** | Famiglie, residenti e bambini dai 6 ai 12 anni |
 | **Attività Cardine** | Torneo di calcio per bambini, laboratorio artistico *«La Catania che vorrei»*, animazione popolare |
-| **Presenze Straordinarie** | Delegazione ufficiale di atleti della prima squadra del [[societa/2022-pelligra-catania-fc\|Catania Football Club]] |
+| **Presenze Straordinarie** | Delegazione ufficiale di atleti della prima squadra del [[01-societa/epoche/2022-pelligra-catania-fc\|Catania Football Club]] |
 | **Contesto Storico-Giuridico** | Vigilia dell'apertura dell'asta telematica fallimentare per l'assegnazione dello **storico marchio FIGC 11700** |
 | **Epilogo Connesso** | Riacquisto ufficiale del logo storico da parte del club il **22 ottobre 2026** per 250.000 € |
 

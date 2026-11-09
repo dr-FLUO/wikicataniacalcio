@@ -15,7 +15,7 @@ catania_periods:
 - 2007-2008
 - 2008-2009
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - allenatori
 - serie-a
@@ -103,7 +103,7 @@ tm_id: 1799
   </table>
 </div>
 
-**Walter Zenga** (Milano, 28 aprile 1960) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di portiere. Arrivato sulla panchina del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] il **1º aprile 2008** in sostituzione dell'esonerato Silvio Baldini a sette giornate dal termine della [[stagioni/2007-2008|Stagione 2007-2008]], ha legato il proprio nome a uno dei cicli più entusiasmanti e spettacolari della storia etnea in massima serie.
+**Walter Zenga** (Milano, 28 aprile 1960) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di portiere. Arrivato sulla panchina del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] il **1º aprile 2008** in sostituzione dell'esonerato [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] a sette giornate dal termine della [[02-cronistoria/stagioni/2007-2008|Stagione 2007-2008]], ha legato il proprio nome a uno dei cicli più entusiasmanti e spettacolari della storia etnea in massima serie.
 
 > [!abstract] Bilancio sulla Panchina Etnea (2008–2009)
 > - **Panchine Ufficiali Complessive:** 55 (45 in Serie A, 10 in Coppa Italia).
@@ -114,17 +114,17 @@ tm_id: 1799
 
 ## 1. La Salvezza Miracolosa del 2007–2008
 
-Chiamato dal presidente [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] in una situazione di profonda crisi di classifica, Zenga debuttò con una vittoria per 3-0 contro il Napoli allo [[stadio/angelo-massimino|Stadio Angelo Massimino]], conquistando la semifinale di Coppa Italia (eliminato solo dalla Roma poi vincitrice del torneo).
+Chiamato dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] in una situazione di profonda crisi di classifica, Zenga debuttò con una vittoria per 3-0 contro il Napoli allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], conquistando la semifinale di Coppa Italia (eliminato solo dalla Roma poi vincitrice del torneo).
 
-All'ultima giornata di campionato, il **18 maggio 2008**, il Catania ospitò la Roma in lotta per lo scudetto contro l'Inter: sotto di un gol firmato da Vučinić, i rossazzurri trovarono all'85º minuto il pareggio liberatorio con Jorge Martínez, festeggiando una drammatica salvezza mentre i tifosi romanisti applaudivano sportivamente l'impresa etnea.
+All'ultima giornata di campionato, il **18 maggio 2008**, il Catania ospitò la Roma in lotta per lo scudetto contro l'Inter: sotto di un gol firmato da Vučinić, i rossazzurri trovarono all'85º minuto il pareggio liberatorio con [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]], festeggiando una drammatica salvezza mentre i tifosi romanisti applaudivano sportivamente l'impresa etnea.
 
 ---
 
 ## 2. Il Campionato dei Record e il 4-0 di Palermo (2008–2009)
 
-Nella [[stagioni/2008-2009|Stagione 2008-2009]], Zenga impose un calcio offensivo, aggressivo e spregiudicato, basato sul tridente d'attacco con [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]], [[tesserati/calciatori/gionatha-spinesi|Gionatha Spinesi]] o Michele Paolucci e Takayuki Morimoto, riforniti dagli assist di Michele Fini e dalla grinta di [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] e [[tesserati/calciatori/mariano-izco|Mariano Izco]].
+Nella [[02-cronistoria/stagioni/2008-2009|Stagione 2008-2009]], Zenga impose un calcio offensivo, aggressivo e spregiudicato, basato sul tridente d'attacco con [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] o [[03-tesserati/calciatori/archivio/m-o/michele-paolucci|Michele Paolucci]] e [[03-tesserati/calciatori/archivio/s-z/takayuki-morimoto|Takayuki Morimoto]], riforniti dagli assist di [[03-tesserati/calciatori/storici/michele-fini|Michele Fini]] e dalla grinta di [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]] e [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]].
 
-Il momento più alto della sua gestione si consumò il **1º marzo 2009**: nel derby siciliano contro il [[tifoseria/rivalita/palermo|Palermo]] allo Stadio Renzo Barbera, il Catania si impose con un travolgente **4-0**, la più ampia vittoria esterna della storia nei derby di Sicilia, impreziosita dalla rete al volo scagliata da 50 metri da Mascara. A fine stagione la squadra conquistò 43 punti, all'epoca primato societario in Serie A a 20 squadre.
+Il momento più alto della sua gestione si consumò il **1º marzo 2009**: nel derby siciliano contro il [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]] allo Stadio Renzo Barbera, il Catania si impose con un travolgente **4-0**, la più ampia vittoria esterna della storia nei derby di Sicilia, impreziosita dalla rete al volo scagliata da 50 metri da Mascara. A fine stagione la squadra conquistò 43 punti, all'epoca primato societario in Serie A a 20 squadre.
 
 ---
 

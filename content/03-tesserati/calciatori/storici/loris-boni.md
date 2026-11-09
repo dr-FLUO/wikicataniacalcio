@@ -18,7 +18,7 @@ league_appearances: 32
 serie_a_appearances: 0
 total_goals: 1
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
 image_credits:
 - image_path: https://commons.wikimedia.org
   alt_text: Figurina Panini di Loris Boni in maglia rossazzurra 1979-1980
@@ -103,11 +103,11 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Loris Boni** (Remedello, 14 gennaio 1953) è stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore Lino De Petrillo. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
+**Loris Boni** (Remedello, 14 gennaio 1953) è stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]]. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
 
 ## Collegamenti Correlati
-* [[stagioni/1979-1980|Stagione 1979-1980 — Promozione in Serie B]]
-* [[societa/presidenti/angelo-massimino|Angelo Massimino]]
+* [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980 — Promozione in Serie B]]
+* [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]
 
 ## Fonti e Bibliografia
 * Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.

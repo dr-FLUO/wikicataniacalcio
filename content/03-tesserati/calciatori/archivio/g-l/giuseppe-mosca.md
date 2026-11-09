@@ -18,7 +18,7 @@ league_appearances: 56
 total_goals: 37
 league_goals: 37
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino]] |Calcio Catania S.p.A. — Risalita dall''Eccellenza
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. — Risalita dall''Eccellenza
   (1993-2000)]]'
 tags:
 - calciatori
@@ -110,7 +110,7 @@ In due stagioni di memorabile foga agonistica mise a referto ben **37 reti uffic
 
 ### Dalla Polvere dell'Eccellenza al Trionfo nel C.N.D.
 
-Nella [[stagioni/1993-1994|Stagione 1993-1994]] guidò l'attacco rossazzurro sui campi polverosi della Sicilia con 18 reti. Nel successivo torneo di Campionato Nazionale Dilettanti [[stagioni/1994-1995|1994-1995]], sotto la gestione di Angelo Busetta, fu devastante: realizzò **19 reti**, trascinando il Catania al primo posto davanti al Milazzo con 84 punti e riconquistando la Serie C2 tra il tripudio dei 20.000 del Cibali.
+Nella [[02-cronistoria/stagioni/1993-1994|Stagione 1993-1994]] guidò l'attacco rossazzurro sui campi polverosi della Sicilia con 18 reti. Nel successivo torneo di Campionato Nazionale Dilettanti [[02-cronistoria/stagioni/1994-1995|1994-1995]], sotto la gestione di Angelo Busetta, fu devastante: realizzò **19 reti**, trascinando il Catania al primo posto davanti al Milazzo con 84 punti e riconquistando la Serie C2 tra il tripudio dei 20.000 del Cibali.
 
 ---
 

@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2010
 origin_district: "Catania, Dortmund (Germania) e Bytom (Polonia)"
 stadium_sector: "Curva Sud, Curva Nord e Südtribüne Dortmund"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]] e Signal Iduna Park (Westfalenstadion)"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]] e Signal Iduna Park (Westfalenstadion)"
 international_ties:
   - "Desperados 1999 / The Unity (Borussia Dortmund)"
   - "Ultras Polonia Bytom (Polonia)"
@@ -53,4 +53,4 @@ Nonostante il Catania non abbia mai incrociato il Borussia Dortmund in gare uffi
 ## Fonti Certificate
 
 1. **La Sicilia**, *Da Dortmund a Monaco di Baviera: l'omaggio delle curve tedesche a Ciccio Famoso*, 2017.
-2. **Archivio Storico Mimmo Rapisarda**, *Le amicizie internazionali della Curva Sud*, mimmorapisarda.it, 2018.
+2. **Archivio Storico Mimmo Rapisarda**, *Le amicizie internazionali della Curva Sud*, [mimmorapisarda.it](https://www.mimmorapisarda.it/), 2018.

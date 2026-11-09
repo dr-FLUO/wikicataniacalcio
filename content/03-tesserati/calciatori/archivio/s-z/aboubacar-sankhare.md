@@ -30,13 +30,6 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/aboubacar-sankhare.webp
-image_credits:
-- image_path: assets/images/calciatori/archivio-calciocatania/aboubacar-sankhare.webp
-  alt_text: Ritratto fotografico di Aboubacar Sankharé calciatore del Calcio Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/aboubacar-sankhare
 - aboubacar-sankhare
@@ -51,8 +44,10 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/aboubacar-sankhare.webp" alt="Aboubacar Sankharé" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Aboubacar Sankharé calciatore del Calcio Catania</div>
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -86,10 +81,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Aboubacar Sankharé** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Aboubacar Sankharé** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Biografia e Profilo Tecnico
 
 Difensore maliano con passaporto francese, possente e roccioso. Ingaggiato dal Catania nella trionfale stagione di Serie C1 2001-2002 culminata nella promozione in Serie B dopo la memorabile finale playoff contro il Taranto.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando **18 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Aboubacar Sankharé*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Aboubacar_Sankhar%C3%A9).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

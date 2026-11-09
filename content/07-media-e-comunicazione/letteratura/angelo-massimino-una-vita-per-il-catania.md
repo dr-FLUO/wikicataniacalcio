@@ -38,7 +38,7 @@ aliases:
 
 Pubblicata nel **2007** da Edizioni La Rocca e successivamente riedita da **GEO Edizioni** nel **2020**, ***Angelo Massimino. Una vita per (il) Catania*** rappresenta la biografia storica di riferimento sul presidente più iconico, longevo e amato della storia del club rossazzurro.
 
-Scritta dal medico e scrittore catanese [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] — nipote diretto del Cavaliere, cresciuto respirando quotidianamente l'atmosfera di Piazza Duomo, degli uffici di via Cimarosa e degli spogliatoi dello [[01-societa/strutture/stadio-angelo-massimino|Stadio Cibali]] — l'opera restituisce per la prima volta un ritratto a tutto tondo, rigorosamente documentato e lontano dai facili luoghi comuni o dalle deformazioni farsesche che per decenni avevano caratterizzato la narrazione dei media nazionali.
+Scritta dal medico e scrittore catanese [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] — nipote diretto del Cavaliere, cresciuto respirando quotidianamente l'atmosfera di Piazza Duomo, degli uffici di via Cimarosa e degli spogliatoi dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] — l'opera restituisce per la prima volta un ritratto a tutto tondo, rigorosamente documentato e lontano dai facili luoghi comuni o dalle deformazioni farsesche che per decenni avevano caratterizzato la narrazione dei media nazionali.
 
 ---
 
@@ -55,8 +55,8 @@ Uno dei meriti storiografici primari del saggio risiede nello smontaggio critico
 
 Il volume si distingue per una ricchissima messe di documenti originali d'archivio pubblicati per la prima volta:
 
-* **I Contratti di Luvanor e Pedrinho (1983)**: La trattativa condotta a Roma con Gianni Di Marzio nell'estate del 1983 per portare in Sicilia i due assi della Nazionale brasiliana, strappati alla concorrenza di club di vertice metropolitani.
-* **Le Tre Promozioni in Serie A**: Le cronache dettagliate dei trionfi del 1970 (con Egizio Rubino) e del 1983 allo Stadio Olimpico di Roma (con oltre 40.000 tifosi al seguito), documentando la venerazione popolare che circondava il presidente nelle strade della città.
+* **I Contratti di Luvanor e Pedrinho (1983)**: La trattativa condotta a Roma con [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] nell'estate del 1983 per portare in Sicilia i due assi della Nazionale brasiliana, strappati alla concorrenza di club di vertice metropolitani.
+* **Le Tre Promozioni in Serie A**: Le cronache dettagliate dei trionfi del 1970 (con [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]) e del 1983 allo Stadio Olimpico di Roma (con oltre 40.000 tifosi al seguito), documentando la venerazione popolare che circondava il presidente nelle strade della città.
 * **La Riconquista della Serie B (1975 e 1980)**: Le vittorie sofferte nei campionati di Serie C e il rapporto viscerale con la tifoseria organizzata, testimoniato dalle visite costanti alla sede della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] di Ciccio Famoso.
 
 ---
@@ -85,7 +85,7 @@ La seconda parte del volume è dominata dalla narrazione dolorosa e appassionata
 ## 5. Collegamenti e Voci Correlate
 
 * [[01-societa/presidenti/angelo-massimino|Angelo Massimino: Scheda del Presidente]]
-* [[01-societa/strutture/stadio-angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
 * [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo: Biografo e Medico Scrittore]]
 * [[07-media-e-comunicazione/letteratura/tutto-il-catania-minuto-per-minuto|Tutto il Catania minuto per minuto]]
 * [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|La Falange d'Assalto e il Legame col Cavaliere]]

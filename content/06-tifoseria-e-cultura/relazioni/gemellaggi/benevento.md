@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2000
 origin_district: "Catania e Benevento"
 stadium_sector: "Curva Nord, Curva Sud e Settori Ospiti"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Ciro Vigorito"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Ciro Vigorito"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -48,6 +48,14 @@ Il rapporto che lega la tifoseria del Catania a quella del **Benevento** rappres
 La profondità del legame si è manifestata in maniera toccante nei momenti più difficili vissuti dalle due comunità:
 - Nel febbraio 2017, in occasione della scomparsa dello storico capo degli ultras catanesi [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la Curva Sud di Benevento ha esposto striscioni di profondo cordoglio e rispetto per onorare il leader etneo.
 - Analoghi attestati di vicinanza sono stati puntualmente tributati dalla Curva Nord e dalla Curva Sud di Catania nei confronti di militanti sanniti prematuramente scomparsi.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

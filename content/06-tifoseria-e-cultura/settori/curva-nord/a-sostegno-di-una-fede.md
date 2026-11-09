@@ -9,7 +9,7 @@ foundation_year: 1993
 founder: Michele Spampinato e Collettivo Militante della Nord
 origin_district: Via Belfiore / San Cristoforo e Centro Storico (Catania)
 stadium_sector: Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:

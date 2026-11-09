@@ -17,7 +17,7 @@ catania_periods:
 - 1979-1980
 - 1985-1987
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/gennaro-rambone.jpg
 image_credits:
 - image_path: assets/images/allenatori/gennaro-rambone.jpg
@@ -119,9 +119,9 @@ Nel 1979-1980 avviò la cavalcata vincente in Serie C1 conquistando 11 punti nel
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1974-1975\|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1979-1980\|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
-| [[stagioni/1985-1986\|1985-1986]], [[stagioni/1986-1987\|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1974-1975\|1974-1975]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1979-1980\|1979-1980]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1985-1986\|1985-1986]], [[02-cronistoria/stagioni/1986-1987\|1986-1987]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -19,7 +19,7 @@ league_appearances: 60
 total_goals: 15
 league_goals: 10
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -106,7 +106,7 @@ image: assets/images/calciatori/karl-heinz-spikofski.jpg
 
 **Guido Spikofski** (all'anagrafe **György Spikofszky**, Budapest, 25 luglio 1923 – Budapest, 2 settembre 2007) è stato un calciatore e allenatore di calcio ungherese, di ruolo ala destra. Ingaggiato dal Club Calcio Catania nel **1955** dopo le esperienze con Roma e Palermo, incantò il Cibali per due stagioni con giocate di pura classe magistrale.
 
-Nel campionato di Serie B [[stagioni/1955-1956|1955-1956]] fu il trascinatore offensivo della squadra, laureandosi capocannoniere con **10 reti** e portando il Catania al 5º posto a ridosso della zona promozione.
+Nel campionato di Serie B [[02-cronistoria/stagioni/1955-1956|1955-1956]] fu il trascinatore offensivo della squadra, laureandosi capocannoniere con **10 reti** e portando il Catania al 5º posto a ridosso della zona promozione.
 
 > [!abstract] La Fantasia Danubiana al Servizio del Cibali
 > - **Capocannoniere 1955-1956:** 10 reti in 34 partite di Serie B sotto la guida di Enzo Bellini.

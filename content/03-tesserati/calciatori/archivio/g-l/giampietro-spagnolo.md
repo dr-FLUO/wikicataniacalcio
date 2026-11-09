@@ -17,7 +17,7 @@ league_appearances: 129
 total_goals: 43
 league_goals: 47
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -101,7 +101,7 @@ tm_id: 500108
 
 **Giampietro Spagnolo** (Lonigo, 20 ottobre 1947) è un ex calciatore italiano, nel ruolo di centravanti. Soprannominato **"Il Gigante"** per la statura imponente e la straordinaria forza fisica nel gioco aereo, è il **quinto marcatore all-time della storia del Catania con 50 reti ufficiali** messe a segno in **139 presenze** tra il 1973 e il 1977.
 
-Acquistato da Angelo Massimino nel 1973, visse la sua stagione di grazia nel campionato di Serie C [[stagioni/1974-1975|1974-1975]], quando trascinò i rossazzurri al ritorno in Serie B vincendo la classifica cannonieri con ben **20 reti**.
+Acquistato da Angelo Massimino nel 1973, visse la sua stagione di grazia nel campionato di Serie C [[02-cronistoria/stagioni/1974-1975|1974-1975]], quando trascinò i rossazzurri al ritorno in Serie B vincendo la classifica cannonieri con ben **20 reti**.
 
 > [!abstract] Il Gigante della Risalita in Serie B e Re dei Bomber
 > - **50 Reti Ufficiali:** Quinto miglior marcatore assoluto della storia del Catania calcio.
@@ -115,7 +115,7 @@ Acquistato da Angelo Massimino nel 1973, visse la sua stagione di grazia nel cam
 
 ### Dalla Serie B al Trionfo del 1975
 
-Nella stagione cadetta [[stagioni/1973-1974|1973-1974]] Spagnolo fu il capocannoniere etneo con 10 reti. L'anno dopo, affiancato da Claudio Ciceri, costituì la coppia dei *gemelli del gol* più prolifica del dopoguerra siciliano, segnando a ripetizione e infiammando i 30.000 del Cibali. Confermato in Serie B nel biennio 1975-1977 (altre 17 reti complessive), rimane scolpito tra le leggende immortali del club.
+Nella stagione cadetta [[02-cronistoria/stagioni/1973-1974|1973-1974]] Spagnolo fu il capocannoniere etneo con 10 reti. L'anno dopo, affiancato da Claudio Ciceri, costituì la coppia dei *gemelli del gol* più prolifica del dopoguerra siciliano, segnando a ripetizione e infiammando i 30.000 del Cibali. Confermato in Serie B nel biennio 1975-1977 (altre 17 reti complessive), rimane scolpito tra le leggende immortali del club.
 
 ---
 

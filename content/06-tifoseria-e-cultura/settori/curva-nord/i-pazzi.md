@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 1999
 origin_district: Corso Indipendenza e Quartiere San Leone (Catania)
 stadium_sector: Curva Nord (1999–2025) -> Curva Sud - Anello Centrale Superiore (dal 2026)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-02
 tags:
@@ -44,7 +44,7 @@ aliases:
 
 # I Pazzi Rossazzurri (1999)
 
-**I Pazzi** (spesso identificati anche come **I Pazzi Rossazzurri**) sono uno dei gruppi storici più compatti e fedeli del tifo organizzato etneo, fondati nel **1999** nel popolare quartiere di **San Leone**, lungo l'asse viario di **Corso Indipendenza**. Nati e cresciuti per oltre venticinque anni come colonna portante della **Curva Nord**, dall'inizio della **stagione 2026** si sono trasferiti stabilmente nell'**anello centrale superiore della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]].
+**I Pazzi** (spesso identificati anche come **I Pazzi Rossazzurri**) sono uno dei gruppi storici più compatti e fedeli del tifo organizzato etneo, fondati nel **1999** nel popolare quartiere di **San Leone**, lungo l'asse viario di **Corso Indipendenza**. Nati e cresciuti per oltre venticinque anni come colonna portante della **Curva Nord**, dall'inizio della **stagione 2026** si sono trasferiti stabilmente nell'**anello centrale superiore della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]** dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
 ---
 

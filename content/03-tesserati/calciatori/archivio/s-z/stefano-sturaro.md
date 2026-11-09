@@ -18,7 +18,7 @@ league_appearances: 40
 total_goals: 0
 league_goals: 3
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/stefano-sturaro.jpg
 image_credits:
 - image_path: assets/images/calciatori/stefano-sturaro.jpg
@@ -57,6 +57,10 @@ locked: true
 locked_date: '2026-10-30'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 167859
+tags:
+- calciatori
+- centrocampisti
+- serie-c
 ---
 # Stefano Sturaro — Centrocampista Leader e Punto di Riferimento del Catania FC
 
@@ -96,7 +100,7 @@ tm_id: 167859
   </table>
 </div>
 
-Nato a Sanremo il **9 marzo 1993**, **Stefano Sturaro** è un centrocampista di caratura internazionale approdato al Catania Football Club nel gennaio del **2024** per apportare esperienza, carisma e solidità agonistica al progetto di rinascita intrapreso dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]].
+Nato a Sanremo il **9 marzo 1993**, **Stefano Sturaro** è un centrocampista di caratura internazionale approdato al Catania Football Club nel gennaio del **2024** per apportare esperienza, carisma e solidità agonistica al progetto di rinascita intrapreso dal presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -112,8 +116,8 @@ Cresciuto nel vivaio del Genoa, Sturaro ha costruito una carriera di altissimo p
 ## 2. L'Impatto nel Catania FC e la Leadership nello Spogliatoio
 
 Ingaggiato per fungere da guida dentro e fuori dal campo:
-* Ha conquistato la **Coppa Italia Serie C** nell'aprile 2024 sotto la gestione di [[tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
-* Con l'arrivo del tecnico [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] nella [[stagioni/2024-2025|stagione 2024-2025]] e nella successiva [[stagioni/2025-2026|2025-2026]], Sturaro è diventato il punto di riferimento tattico davanti alla difesa, formando con il capitano [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]] e il bomber [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]] l'asse portante della formazione rossazzurra.
+* Ha conquistato la **Coppa Italia Serie C** nell'aprile 2024 sotto la gestione di [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
+* Con l'arrivo del tecnico [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] nella [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]] e nella successiva [[02-cronistoria/stagioni/2025-2026|2025-2026]], Sturaro è diventato il punto di riferimento tattico davanti alla difesa, formando con il capitano [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini]] e il bomber [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]] l'asse portante della formazione rossazzurra.
 
 ---
 
@@ -131,12 +135,12 @@ Ingaggiato per fungere da guida dentro e fuori dal campo:
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
-* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[02-cronistoria/stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[02-cronistoria/stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
 * [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano]]
 * [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Compagno di reparto]]
-* [[societa/presidenti/ross-pelligra|Ross Pelligra: Proprietà societaria]]
+* [[01-societa/presidenti/ross-pelligra|Ross Pelligra: Proprietà societaria]]
 
 ---
 

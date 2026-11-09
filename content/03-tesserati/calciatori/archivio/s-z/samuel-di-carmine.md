@@ -18,7 +18,7 @@ league_appearances: 29
 total_goals: 10
 league_goals: 8
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
 image_credits:
 - image_path: assets/images/calciatori/samuel-di-carmine.jpg
   alt_text: Ritratto ufficiale di Samuel Di Carmine in maglia rossazzurra
@@ -105,7 +105,7 @@ tm_id: 45389
   </table>
 </div>
 
-**Samuel Di Carmine** (Firenze, 29 settembre 1988) è un calciatore italiano, nel ruolo di centravanti. Acquistato nell'agosto **2023** dal presidente [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente Vincenzo Grella per guidare l'attacco del neonato Catania Football Club al ritorno nei professionisti, fu il capocannoniere della [[stagioni/2023-2024|Stagione 2023-2024]].
+**Samuel Di Carmine** (Firenze, 29 settembre 1988) è un calciatore italiano, nel ruolo di centravanti. Acquistato nell'agosto **2023** dal presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente Vincenzo Grella per guidare l'attacco del neonato Catania Football Club al ritorno nei professionisti, fu il capocannoniere della [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]].
 
 Centravanti completo, implacabile negli inserimenti e letale di testa, realizzò 8 reti in campionato e fu determinante nella cavalcata che condusse il Catania alla conquista della **prima Coppa Italia Serie C della sua storia**, vinta il 2 aprile 2024 al Massimino contro il Padova.
 

@@ -12,7 +12,7 @@ nationality: Italia
 catania_periods:
 - '1929'
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 tags:
 - allenatori
 - anni-venti
@@ -79,32 +79,6 @@ aliases:
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Michele Spata</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>ND</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1929</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Michele Spata** (Catania, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -117,7 +91,7 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Michele Spata guidò la neonata Società Sportiva Catania nelle primissime uscite e nelle prime tre giornate del campionato di Seconda Divisione 1929-1930, figurando tra i pionieri della guida tecnica del calcio catanese.
+Michele Spata guidò la neonata Società Sportiva Catania nelle primissime uscite e nelle prime tre giornate del campionato di Seconda Divisione [[02-cronistoria/stagioni/1929-1930|1929-1930]], figurando tra i pionieri della guida tecnica del calcio catanese.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -128,6 +102,15 @@ Rappresenta una figura storica delle origini, protagonista dell'avviamento organ
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
 | 1929 | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

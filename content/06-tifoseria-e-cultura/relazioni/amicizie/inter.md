@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2006
 origin_district: "Catania e Milano"
 stadium_sector: "Curva Nord Milano e Curve Massimino"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Giuseppe Meazza"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Giuseppe Meazza"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -40,6 +40,14 @@ Negli anni della permanenza stabile del Catania in Serie A (2006-2014), tra la t
 - **La Comunità Catanese a Milano:** La massiccia presenza di studenti e lavoratori catanesi nell'area metropolitana milanese ha favorito fin dagli anni Novanta contatti frequenti tra le due realtà.
 - **Accoglienza a San Siro e al Massimino:** In occasione delle sfide di campionato e delle gare di Coppa Italia, i tifosi catanesi al Meazza sono sempre stati accolti con grande correttezza dai vertici del tifo nerazzurro, dando vita a frequenti scambi di sciarpe e stendardi.
 - **Presenze in Trasferta:** Si sono registrate presenze simboliche di ultras etnei nella curva interista durante importanti trasferte europee di Champions League, e viceversa presenze di sostenitori nerazzurri nei settori ospiti al seguito del Catania nel Nord Italia.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

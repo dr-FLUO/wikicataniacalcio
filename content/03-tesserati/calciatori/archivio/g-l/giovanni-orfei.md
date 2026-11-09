@@ -96,7 +96,7 @@ tm_id: 6048
   </table>
 </div>
 
-**Giovanni Orfei** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Giovanni Orfei** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -113,3 +113,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **28 presenze ufficiali**, disputando **2315 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Giovanni Orfei*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Giovanni_Orfei).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.
+3. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Gianni Orfei*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 212, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Orfei-212).

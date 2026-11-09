@@ -25,6 +25,7 @@ const NAV_ITEMS: NavItem[] = [
     prefix: "01-societa",
     subItems: [
       { label: "Epoche Societarie", slug: "01-societa/epoche/index", matchPrefix: "01-societa/epoche" },
+      { label: "Matricola 11700", slug: "01-societa/matricola-11700", matchPrefix: "01-societa/matricola-11700" },
       { label: "Presidenti", slug: "01-societa/presidenti/index", matchPrefix: "01-societa/presidenti" },
       { label: "Dirigenti & DS", slug: "01-societa/dirigenti/index", matchPrefix: "01-societa/dirigenti" },
       { label: "Diritto & Giustizia", slug: "01-societa/vicende-legali/index", matchPrefix: "01-societa/vicende-legali" },
@@ -36,9 +37,10 @@ const NAV_ITEMS: NavItem[] = [
     slug: "02-cronistoria/index",
     prefix: "02-cronistoria",
     subItems: [
-      { label: "Stagioni (1929–2026)", slug: "02-cronistoria/stagioni/index", matchPrefix: "02-cronistoria/stagioni" },
+      { label: "Stagioni (1929–2027)", slug: "02-cronistoria/stagioni/index", matchPrefix: "02-cronistoria/stagioni" },
       { label: "Partite Storiche", slug: "02-cronistoria/partite-storiche/index", matchPrefix: "02-cronistoria/partite-storiche" },
       { label: "Precedenti & Derby", slug: "02-cronistoria/partite-storiche/precedenti/index", matchPrefix: "02-cronistoria/partite-storiche/precedenti" },
+      { label: "Coppa Italia Serie C", slug: "02-cronistoria/coppa-italia-serie-c", matchPrefix: "02-cronistoria/coppa-italia-serie-c" },
     ],
   },
   {
@@ -50,7 +52,8 @@ const NAV_ITEMS: NavItem[] = [
       { label: "Archivio Calciatori A–Z", slug: "03-tesserati/calciatori/archivio/index", matchPrefix: "03-tesserati/calciatori/archivio" },
       { label: "Leggende & Storici", slug: "03-tesserati/calciatori/storici/index", matchPrefix: "03-tesserati/calciatori/storici" },
       { label: "Rosa Attuale", slug: "03-tesserati/calciatori/rosa-attuale/index", matchPrefix: "03-tesserati/calciatori/rosa-attuale" },
-      { label: "Allenatori (1929–2026)", slug: "03-tesserati/allenatori/index", matchPrefix: "03-tesserati/allenatori" },
+      { label: "Nazionali & Mondiali", slug: "03-tesserati/calciatori/contributo-nazionali", matchPrefix: "03-tesserati/calciatori/contributo-nazionali" },
+      { label: "Allenatori (1929–2027)", slug: "03-tesserati/allenatori/index", matchPrefix: "03-tesserati/allenatori" },
     ],
   },
   {
@@ -59,8 +62,11 @@ const NAV_ITEMS: NavItem[] = [
     slug: "04-strutture/index",
     prefix: "04-strutture",
     subItems: [
-      { label: "Stadio Massimino", slug: "04-strutture/stadio-massimino/index", matchPrefix: "04-strutture/stadio-massimino" },
-      { label: "Torre del Grifo", slug: "04-strutture/centri-sportivi/torre-del-grifo", matchPrefix: "04-strutture/centri-sportivi" },
+      { label: "Stadio Massimino", slug: "04-strutture/stadio-massimino/index", matchPrefix: "04-strutture/stadio-massimino/angelo-massimino" },
+      { label: "50 Volti del Cibali", slug: "04-strutture/stadio-massimino/cinquanta-volti-cibali", matchPrefix: "04-strutture/stadio-massimino/cinquanta-volti-cibali" },
+      { label: "Centri Sportivi", slug: "04-strutture/centri-sportivi/index", matchPrefix: "04-strutture/centri-sportivi/index" },
+      { label: "Torre del Grifo", slug: "04-strutture/centri-sportivi/torre-del-grifo", matchPrefix: "04-strutture/centri-sportivi/torre-del-grifo" },
+      { label: "Campo di Nesima", slug: "04-strutture/centri-sportivi/campo-comunale-nesima", matchPrefix: "04-strutture/centri-sportivi/campo-comunale-nesima" },
       { label: "Campi Storici (1910–1937)", slug: "04-strutture/campi-storici/index", matchPrefix: "04-strutture/campi-storici" },
     ],
   },
@@ -85,7 +91,8 @@ const NAV_ITEMS: NavItem[] = [
       { label: "Curva Nord", slug: "06-tifoseria-e-cultura/settori/curva-nord/index", matchPrefix: "06-tifoseria-e-cultura/settori/curva-nord" },
       { label: "Curva Sud", slug: "06-tifoseria-e-cultura/settori/curva-sud/index", matchPrefix: "06-tifoseria-e-cultura/settori/curva-sud" },
       { label: "Tribuna B", slug: "06-tifoseria-e-cultura/settori/tribuna-b/index", matchPrefix: "06-tifoseria-e-cultura/settori/tribuna-b" },
-      { label: "Gemellaggi & Amicizie", slug: "06-tifoseria-e-cultura/relazioni/gemellaggi/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/gemellaggi" },
+      { label: "Gemellaggi", slug: "06-tifoseria-e-cultura/relazioni/gemellaggi/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/gemellaggi" },
+      { label: "Amicizie Storiche", slug: "06-tifoseria-e-cultura/relazioni/amicizie/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/amicizie" },
       { label: "Rivalità & Derby", slug: "06-tifoseria-e-cultura/relazioni/rivalita/index", matchPrefix: "06-tifoseria-e-cultura/relazioni/rivalita" },
       { label: "Biografie & Cronache", slug: "06-tifoseria-e-cultura/biografie/index", matchPrefix: "06-tifoseria-e-cultura/biografie" },
       { label: "Eventi & Giustizia", slug: "06-tifoseria-e-cultura/eventi-e-giustizia/index", matchPrefix: "06-tifoseria-e-cultura/eventi-e-giustizia" },

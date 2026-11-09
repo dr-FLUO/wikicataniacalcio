@@ -9,7 +9,7 @@ entity_type: evento_tifo
 foundation_year: 2001
 origin_district: Messina, Stadio Giovanni Celeste
 stadium_sector: Curva Nord Ospiti e Gradinata Locali
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-29
 tags:
@@ -53,7 +53,7 @@ aliases:
 
 # Il Derby dello Stadio Celeste e la Morte di Antonino Currò (17 Giugno 2001)
 
-Il **17 giugno 2001**, lo Stadio Giovanni Celeste di Messina fu teatro di una delle pagine più drammatiche e oscure della storia del calcio italiano, durante la finale di ritorno dei play-off di Serie C1 (girone B) tra [[tifoseria/rivalita/messina|Messina]] e Catania.
+Il **17 giugno 2001**, lo Stadio Giovanni Celeste di Messina fu teatro di una delle pagine più drammatiche e oscure della storia del calcio italiano, durante la finale di ritorno dei play-off di Serie C1 (girone B) tra [[06-tifoseria-e-cultura/relazioni/rivalita/messina|Messina]] e Catania.
 
 L'accesa rivalità sportiva e campanilistica tra le due sponde dello Stretto degenerò in un sistematico lancio di petardi e oggetti contundenti prima del fischio d'inizio e per tutto il primo tempo. Pochi istanti prima dell'avvio della ripresa, dal settore della Curva Nord occupato dalla tifoseria etnea venne esploso un ordigno pirotecnico ad altissimo potenziale (un **razzo nautico di segnalazione a paracadute** a traiettoria tesa). Il proiettile travolse la rete metallica divisoria e colpì alla testa il giovane tifoso messinese **Antonino (Tonino) Currò**, 24 anni, posizionato nella vicina gradinata.
 
@@ -71,7 +71,7 @@ Trasportato d'urgenza all'Ospedale Policlinico di Messina in condizioni disperat
 
 ## 1. La Dinamica dell'Attentato allo Stadio Celeste
 
-La finale di ritorno dei playoff 2000-2001 (dopo l'1-1 dell'andata al Cibali) attirò allo Stadio Celeste oltre dodicimila spettatori, con circa un migliaio di sostenitori etnei stipati nel settore ospiti della Curva Nord. L'impianto, vetusto e privo di standard moderni di contenimento:
+La finale di ritorno dei playoff [[02-cronistoria/stagioni/2000-2001|2000-2001]] (dopo l'1-1 dell'andata al Cibali) attirò allo Stadio Celeste oltre dodicimila spettatori, con circa un migliaio di sostenitori etnei stipati nel settore ospiti della Curva Nord. L'impianto, vetusto e privo di standard moderni di contenimento:
 - Presentava barriere metalliche basse e reti frangisassi inadeguate rispetto al rischio di lancio parabolare.
 - Difettava di un filtraggio preventivo efficace: ai varchi d'accesso non vennero effettuate perquisizioni personali corporali sufficienti a intercettare ordigni pirotecnici marittimi, dotati di spolette a propulsione e cariche illuminanti ad elevatissimo calore.
 - All'intervallo, mentre l'arbitro si apprestava a far riprendere la gara (poi vinta 1-0 dal Messina con gol su rigore di Sullo), il razzo partì con traiettoria radente, centrando in pieno Antonino Currò tra la folla inerme.

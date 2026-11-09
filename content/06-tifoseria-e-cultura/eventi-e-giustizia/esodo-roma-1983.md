@@ -7,7 +7,7 @@ entity_type: evento_tifo
 foundation_year: 1983
 origin_district: Catania, provincia etnea e comunità di emigrati in Italia
 stadium_sector: Curva Sud - Anello Inferiore
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -65,9 +65,9 @@ aliases:
 *La marea di 40.000 tifosi rossazzurri allo Stadio Olimpico di Roma per gli spareggi di Serie B del giugno 1983 — Licenza: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni) — Crediti: Archivio Storico Calcio Catania*
 
 
-Nel giugno del 1983 si concentrarono nella Capitale due snodi di eccezionale pressione logistica, sportiva e di ordine pubblico legati all'epilogo del campionato di Serie B [[stagioni/1982-1983|1982-1983]]: la trasferta di campionato contro la Lazio (5 giugno 1983) e il successivo triangolare di spareggio promozione contro Como e Cremonese (18-25 giugno 1983).
+Nel giugno del 1983 si concentrarono nella Capitale due snodi di eccezionale pressione logistica, sportiva e di ordine pubblico legati all'epilogo del campionato di Serie B [[02-cronistoria/stagioni/1982-1983|1982-1983]]: la trasferta di campionato contro la Lazio (5 giugno 1983) e il successivo triangolare di spareggio promozione contro Como e Cremonese (18-25 giugno 1983).
 
-L'**Esodo dei 40.000 allo Stadio Olimpico di Roma** rappresenta la più imponente migrazione di una tifoseria in trasferta nella storia del calcio italiano del dopoguerra. In occasione dello spareggio finale contro la Cremonese, decine di migliaia di sostenitori rossazzurri partiti dalla Sicilia e dalle comunità dell'emigrazione etnea nel Centro-Nord tinsero integralmente di rosso e azzurro l'Olimpico, trascinando il [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] del presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] in Serie A dopo tredici anni di assenza.
+L'**Esodo dei 40.000 allo Stadio Olimpico di Roma** rappresenta la più imponente migrazione di una tifoseria in trasferta nella storia del calcio italiano del dopoguerra. In occasione dello spareggio finale contro la Cremonese, decine di migliaia di sostenitori rossazzurri partiti dalla Sicilia e dalle comunità dell'emigrazione etnea nel Centro-Nord tinsero integralmente di rosso e azzurro l'Olimpico, trascinando il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] in Serie A dopo tredici anni di assenza.
 
 > [!abstract] Scheda Sinottica Giudiziaria e di Ordine Pubblico
 > - **Codice Scheda:** `SCHEDA-1983-ROMA`
@@ -91,22 +91,22 @@ La forza pubblica fu costretta a effettuare **ripetute cariche di alleggerimento
 
 ## 2. Il Triangolare di Spareggio: Il Popolo Rossazzurro Conquista Roma
 
-Per assegnare il terzo posto promozione per la [[stagioni/1983-1984|Serie A 1983-1984]], la Lega Nazionale Professionisti scelse il campo neutro dello Stadio Olimpico di Roma per un mini-girone a tre:
-1. **Sabato 18 giugno 1983:** [[partite/1982-1983/spareggio-catania-como-1-0|Catania-Como 1-0]]
+Per assegnare il terzo posto promozione per la [[02-cronistoria/stagioni/1983-1984|Serie A 1983-1984]], la Lega Nazionale Professionisti scelse il campo neutro dello Stadio Olimpico di Roma per un mini-girone a tre:
+1. **Sabato 18 giugno 1983:** [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0|Catania-Como 1-0]]
 2. **Mercoledì 22 giugno 1983:** Cremonese-Como 0-0
-3. **Sabato 25 giugno 1983:** [[partite/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese 0-0]]
+3. **Sabato 25 giugno 1983:** [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0|Catania-Cremonese 0-0]]
 
 ### Catania-Como 1-0 (18 Giugno 1983)
-Nel primo confronto contro il Como di Tarcisio Burgnich, oltre **25.000 sostenitori catanesi** presero posto tra Curva Sud, Tribuna Tevere e Monte Mario. La rete decisiva fu siglata al 71' da **Angelo Crialesi** con un colpo di testa in tuffo su cross di Mastalli.
+Nel primo confronto contro il Como di Tarcisio Burgnich, oltre **25.000 sostenitori catanesi** presero posto tra Curva Sud, Tribuna Tevere e Monte Mario. La rete decisiva fu siglata al 71' da **[[03-tesserati/calciatori/archivio/a-c/angelo-crialesi|Angelo Crialesi]]** con un colpo di testa in tuffo su cross di Mastalli.
 
 ### Catania-Cremonese 0-0 (25 Giugno 1983) e la "Carica dei Quarantamila"
 Dopo il pareggio tra lombardi, al Catania bastava non perdere contro la Cremonese di Emiliano Mondonico e del giovane Gianluca Vialli. Sin dalla notte tra venerdì 24 e sabato 25 giugno, il centro storico di Roma (Piazza di Spagna, Fontana di Trevi, Villa Borghese, Stazione Termini) venne invaso da una fiumana pacifica stimata dalle testate nazionali in **oltre 40.000 tifosi del Catania**.
 
 | Data e Incontro | Risultato | Marcatori | Presenza Stimata Tifosi Catanesi | Esito Finale |
 | :--- | :---: | :--- | :---: | :--- |
-| **18 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-como-1-0\|Catania-Como]] | **1-0** | 71' Angelo Crialesi (C) | ~25.000 spettatori etnei | Catania primo a quota 2 pt. |
+| **18 giugno 1983**<br/>[[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0\|Catania-Como]] | **1-0** | 71' Angelo Crialesi (C) | ~25.000 spettatori etnei | Catania primo a quota 2 pt. |
 | **22 giugno 1983**<br/>Cremonese-Como | **0-0** | — | — | Como eliminato (1 pt); Cremonese a 1 pt. |
-| **25 giugno 1983**<br/>[[partite/1982-1983/spareggio-catania-cremonese-0-0\|Catania-Cremonese]] | **0-0** | — | **~40.000 spettatori etnei** | **Catania promosso in Serie A** (3 pt). |
+| **25 giugno 1983**<br/>[[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0\|Catania-Cremonese]] | **0-0** | — | **~40.000 spettatori etnei** | **Catania promosso in Serie A** (3 pt). |
 
 > [!quote] La Testimonianza Storica di Emiliano Mondonico
 > *"Quando siamo entrati in campo all'Olimpico e abbiamo alzato gli occhi verso gli spalti tutti colorati di rosso e d'azzurro, con quarantamila persone che cantavano per il Catania, abbiamo capito che non stavamo giocando contro una squadra di calcio, ma contro un popolo intero."* — **Emiliano Mondonico**, allenatore della Cremonese.

@@ -17,7 +17,7 @@ league_appearances: 42
 total_goals: 12
 league_goals: 15
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 tags:
 - calciatori
 - attaccanti
@@ -104,7 +104,7 @@ tm_id: 287477
 
 **Alessandro Ambrosi**, universalmente noto come **"Il Re Leone"** per la folta criniera bionda e la potenza devastante nei contrasti (Fiuggi, 12 luglio 1971), è un ex calciatore italiano, nel ruolo di centravanti. Acquistato nell'estate del **2000** dal Crotone dalla nuova proprietà guidata dalla famiglia Gaucci, infiammò l'entusiasmo della piazza etnea.
 
-Nella [[stagioni/2000-2001|Stagione 2000-2001]] fu il capocannoniere del Catania con **12 reti** in 29 gare di campionato, trascinando la squadra guidata da Vincenzo Guerini fino alla storica finale dei playoff di Serie C1 disputata contro il Messina.
+Nella [[02-cronistoria/stagioni/2000-2001|Stagione 2000-2001]] fu il capocannoniere del Catania con **12 reti** in 29 gare di campionato, trascinando la squadra guidata da [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]] fino alla storica finale dei playoff di Serie C1 disputata contro il Messina.
 
 > [!abstract] Il Re Leone del Cibali
 > - **Capocannoniere 2000-2001:** 12 reti in 29 gare di Serie C1, trascinatore del Catania fino alla finale playoff.
@@ -117,7 +117,7 @@ Nella [[stagioni/2000-2001|Stagione 2000-2001]] fu il capocannoniere del Catania
 
 ### La Cavalcata del 2000-2001 e l'Eredità a Baggio
 
-Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e Lodigiani, Ambrosi rimase nella prima parte del 2001-2002 segnando altre 3 reti prima di lasciare spazio al compagno di reparto Eddy Baggio, rimanendo un idolo intramontabile per il tifo rossazzurro.
+Autore di gol spettacolari di testa e di potenza pura contro Palermo, Savoia e Lodigiani, Ambrosi rimase nella prima parte del 2001-2002 segnando altre 3 reti prima di lasciare spazio al compagno di reparto [[03-tesserati/calciatori/archivio/d-f/eddy-baggio|Eddy Baggio]], rimanendo un idolo intramontabile per il tifo rossazzurro.
 
 ---
 

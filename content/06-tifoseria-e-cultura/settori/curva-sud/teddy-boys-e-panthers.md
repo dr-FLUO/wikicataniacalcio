@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 1984
 origin_district: Rioni Popolari Sud e Centro Storico (Catania)
 stadium_sector: Curva Sud
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:

@@ -113,13 +113,16 @@ def validate_vault(content_dir: Path) -> dict:
     report = {
         "total_files": 0,
         "missing_required_frontmatter": [],
+        "broken_frontmatter_wikilinks": [],
         "broken_wikilinks": [],
+        "unescaped_table_pipes": [],
+        "broken_images": [],
         "corrupted_urls": [],
         "nested_wikilinks": [],
         "missing_alt_images": [],
     }
 
-    required_fields = {"title", "slug", "entity_type", "status"}
+    required_fields = {"title", "slug", "entity_type", "status", "tags"}
 
     for md in sorted(content_dir.rglob("*.md")):
         report["total_files"] += 1
@@ -129,6 +132,22 @@ def validate_vault(content_dir: Path) -> dict:
         missing = [k for k in required_fields if not fm.get(k)]
         if missing and md.name != "index.md":
             report["missing_required_frontmatter"].append({"file": rel, "missing": missing})
+
+        # Check frontmatter wikilinks
+        fm_dump = json.dumps(fm, ensure_ascii=False, default=str)
+        for m in WIKILINK_RE.finditer(fm_dump):
+            raw_target = m.group(1).strip().rstrip("\\").strip("/")
+            if not raw_target or raw_target.startswith(("http://", "https://", "mailto:", "assets/")):
+                continue
+            if raw_target not in valid_targets and raw_target.lower() not in valid_targets:
+                report["broken_frontmatter_wikilinks"].append({"file": rel, "target": raw_target})
+
+        # Check frontmatter image existence
+        fm_img = fm.get("image")
+        if fm_img and isinstance(fm_img, str) and not fm_img.startswith(("http://", "https://")):
+            img_clean = fm_img.lstrip("/")
+            if not (content_dir / img_clean).exists() and not (ROOT / "quartz" / img_clean).exists() and not (ROOT / img_clean).exists():
+                report["broken_images"].append({"file": rel, "image": fm_img})
 
         if CORRUPTED_URL_RE.search(body):
             report["corrupted_urls"].append(rel)
@@ -140,7 +159,20 @@ def validate_vault(content_dir: Path) -> dict:
             tag = img_m.group(0)
             if 'alt="' not in tag.lower() and "alt='" not in tag.lower():
                 report["missing_alt_images"].append(rel)
-                break
+            src_m = re.search(r'src=["\']([^"\']+)["\']', tag, flags=re.IGNORECASE)
+            if src_m:
+                src_u = src_m.group(1).strip()
+                if not src_u.startswith(("http://", "https://", "data:")):
+                    u_clean = src_u.lstrip("/")
+                    if not (content_dir / u_clean).exists() and not (ROOT / "quartz" / u_clean).exists() and not (ROOT / u_clean).exists():
+                        report["broken_images"].append({"file": rel, "image": src_u})
+
+        for line in body.splitlines():
+            s = line.strip()
+            if s.startswith("|") and s.endswith("|"):
+                if re.search(r"\[\[[^\]]*(?<!\\)\|[^\]]*\]\]", s):
+                    report["unescaped_table_pipes"].append(rel)
+                    break
 
         for m in WIKILINK_RE.finditer(body):
             raw_target = m.group(1).strip().rstrip("\\").strip("/")
@@ -159,11 +191,14 @@ def main() -> int:
 
     res = validate_vault(CONTENT_DIR)
     print(f"Scanned {res['total_files']} Markdown files in {CONTENT_DIR}:")
-    print(f"  - Missing required frontmatter: {len(res['missing_required_frontmatter'])}")
-    print(f"  - Broken [[wikilinks]]:         {len(res['broken_wikilinks'])}")
-    print(f"  - Corrupted URLs:               {len(res['corrupted_urls'])}")
-    print(f"  - Nested [[wikilinks]]:         {len(res['nested_wikilinks'])}")
-    print(f"  - Images missing alt attribute: {len(res['missing_alt_images'])}")
+    print(f"  - Missing required frontmatter:   {len(res['missing_required_frontmatter'])}")
+    print(f"  - Broken FM [[wikilinks]]:        {len(res['broken_frontmatter_wikilinks'])}")
+    print(f"  - Broken body [[wikilinks]]:      {len(res['broken_wikilinks'])}")
+    print(f"  - Unescaped GFM table pipes:      {len(res['unescaped_table_pipes'])}")
+    print(f"  - Broken image references:        {len(res['broken_images'])}")
+    print(f"  - Corrupted URLs:                 {len(res['corrupted_urls'])}")
+    print(f"  - Nested [[wikilinks]]:           {len(res['nested_wikilinks'])}")
+    print(f"  - Images missing alt attribute:   {len(res['missing_alt_images'])}")
 
     if args.json:
         Path(args.json).write_text(json.dumps(res, indent=2, ensure_ascii=False), encoding="utf-8")

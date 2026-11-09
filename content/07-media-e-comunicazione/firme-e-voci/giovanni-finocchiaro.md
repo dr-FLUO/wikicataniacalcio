@@ -46,7 +46,7 @@ Entrato giovanissimo nella redazione di Viale Odorico da Pordenone compilando ta
 Lungo tre decenni di carriera sul campo, Finocchiaro ha raccontato quotidianamente tutte le transizioni dirigenziali:
 * **Dalla Polvere alla Serie B**: Gli anni bui dell'Eccellenza e del C.N.D. seguiti alla radiazione del 1993 sotto la presidenza Massimino, fino all'avvento della famiglia Gaucci e alla storica vittoria di Taranto nel 2002.
 * **Gli Anni d'Oro della Serie A**: L'era Pulvirenti-Lo Monaco, con reportage esclusivi, interviste approfondite ai massimi dirigenti societari e il resoconto analitico delle memorabili vittorie contro Juventus, Inter, Milan e Roma.
-* **La Crisi e la Rinascita Pelligra**: Le dolorose inchieste del fallimento del 2021-2022, la stagione trionfale in Serie D (2022-2023) e il ritorno al professionismo in Serie C fino alla stagione 2026/2027, raccontando l'assetto del Catania FC guidato da mister Toscano prima e Longo poi.
+* **La Crisi e la Rinascita Pelligra**: Le dolorose inchieste del fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]], la stagione trionfale in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]) e il ritorno al professionismo in Serie C fino alla stagione 2026/2027, raccontando l'assetto del Catania FC guidato da mister Toscano prima e Longo poi.
 
 ---
 

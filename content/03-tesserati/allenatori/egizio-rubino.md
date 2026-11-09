@@ -17,7 +17,7 @@ catania_periods:
 - 1974-1976
 - '1980'
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - serie-a
@@ -98,31 +98,31 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Egizio Rubino** (Siracusa, 30 giugno 1923 – Siracusa, 5 febbraio 2008) è stato un calciatore, allenatore di calcio e dirigente sportivo italiano. Ricordato come il *"Signore della panchina"* per lo stile sobrio e la signorilità fuori dal campo, è stato il **primo grande condottiero dell'epopea presidenziale di [[societa/presidenti/angelo-massimino|Angelo Massimino]]** alla guida del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], firmando **due storiche promozioni** (e collaborando a una terza): il **ritorno in Serie A nella [[stagioni/1969-1970|Stagione 1969-1970]]** e la **vittoria del campionato di Serie C 1974-1975**, per un totale di **168 panchine ufficiali** in rossazzurro.
+**Egizio Rubino** (Siracusa, 30 giugno 1923 – Siracusa, 5 febbraio 2008) è stato un calciatore, allenatore di calcio e dirigente sportivo italiano. Ricordato come il *"Signore della panchina"* per lo stile sobrio e la signorilità fuori dal campo, è stato il **primo grande condottiero dell'epopea presidenziale di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]** alla guida del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], firmando **due storiche promozioni** (e collaborando a una terza): il **ritorno in Serie A nella [[02-cronistoria/stagioni/1969-1970|Stagione 1969-1970]]** e la **vittoria del campionato di Serie C [[02-cronistoria/stagioni/1974-1975|1974-1975]]**, per un totale di **168 panchine ufficiali** in rossazzurro.
 
 
 ## La Promozione in Serie A del 1969–1970 e il Trionfo di Reggio Calabria
 
-Chiamato sulla panchina del Catania nell'autunno del **1968** (subentrando a Luigi Valsecchi e portando la squadra a una tranquilla salvezza in Serie B), nell'estate del **1969** Egizio Rubino riceve la piena fiducia del nuovo presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]].
+Chiamato sulla panchina del Catania nell'autunno del **1968** (subentrando a [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e portando la squadra a una tranquilla salvezza in Serie B), nell'estate del **1969** Egizio Rubino riceve la piena fiducia del nuovo presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
-Per la [[stagioni/1969-1970|Stagione 1969-1970]], Rubino imposta allo [[stadio/angelo-massimino|Stadio Cibali]] un complesso d'acciaio imperniato sulle parate di Rino Rado, sulla linea difensiva guidata da Luciano Buzzacchera e Luciano Limena, sulla regia di Angelo Pereni e Roberto Volpato e sul fiuto del gol dell'ala sinistra **Aquilino Bonfanti**, fortemente voluto dal tecnico siracusano e laureatosi capocannoniere della Serie B con 13 reti. Con appena **19 gol incassati in 38 partite**, il Catania conquista matematicamente la **terza promozione in Serie A della propria storia il 14 giugno 1970** espugnando per **1-3** lo Stadio Comunale di Reggio Calabria contro la Reggina (doppietta di Bonfanti e rete di Limena) davanti a oltre 10.000 tifosi catanesi in festa. Rubino guida poi gli etnei per tutte le 30 giornate della successiva **Serie A 1970-1971** (memorabili il 3-1 alla Lazio, il 2-0 alla Fiorentina e l'1-1 a San Siro col Milan).
+Per la [[02-cronistoria/stagioni/1969-1970|Stagione 1969-1970]], Rubino imposta allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] un complesso d'acciaio imperniato sulle parate di Rino Rado, sulla linea difensiva guidata da [[03-tesserati/calciatori/archivio/g-l/luciano-buzzacchera|Luciano Buzzacchera]] e [[03-tesserati/calciatori/archivio/g-l/luciano-limena|Luciano Limena]], sulla regia di [[03-tesserati/calciatori/storici/angelo-pereni|Angelo Pereni]] e Roberto Volpato e sul fiuto del gol dell'ala sinistra **[[03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti|Aquilino Bonfanti]]**, fortemente voluto dal tecnico siracusano e laureatosi capocannoniere della Serie B con 13 reti. Con appena **19 gol incassati in 38 partite**, il Catania conquista matematicamente la **terza promozione in Serie A della propria storia il 14 giugno 1970** espugnando per **1-3** lo Stadio Comunale di Reggio Calabria contro la Reggina (doppietta di Bonfanti e rete di Limena) davanti a oltre 10.000 tifosi catanesi in festa. Rubino guida poi gli etnei per tutte le 30 giornate della successiva **Serie A [[02-cronistoria/stagioni/1970-1971|1970-1971]]** (memorabili il 3-1 alla Lazio, il 2-0 alla Fiorentina e l'1-1 a San Siro col Milan).
 
 ## La Cavalcata Record in Serie C (1974–1975) e il Sigillo del 1980
 
-Nell'autunno del **1974**, con il Catania scivolato in **Serie C**, Massimino richiama d'urgenza Rubino alla 6ª giornata al posto di Gennaro Rambone. Affidato l'attacco alla prolifica coppia composta da **Claudio Ciceri** (16 reti) e **Giampietro Spagnolo** (13 reti), con Zelico Petrovic in porta e Guido Biondi a centrocampo, Rubino innesta una marcia trionfale: al termine di un duello serratissimo punto a punto con il Bari, il **22 giugno 1975** il Catania travolge per **3-0** in trasferta la Turris a Torre del Greco e vince il campionato con **57 punti** (una sola sconfitta nell'arco della sua gestione), tornando immediatamente in Serie B.
+Nell'autunno del **1974**, con il Catania scivolato in **Serie C**, Massimino richiama d'urgenza Rubino alla 6ª giornata al posto di [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]]. Affidato l'attacco alla prolifica coppia composta da **[[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]]** (16 reti) e **[[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]]** (13 reti), con [[03-tesserati/calciatori/archivio/s-z/zelico-petrovic|Zelico Petrovic]] in porta e [[03-tesserati/calciatori/storici/guido-biondi|Guido Biondi]] a centrocampo, Rubino innesta una marcia trionfale: al termine di un duello serratissimo punto a punto con il Bari, il **22 giugno 1975** il Catania travolge per **3-0** in trasferta la Turris a Torre del Greco e vince il campionato con **57 punti** (una sola sconfitta nell'arco della sua gestione), tornando immediatamente in Serie B.
 
-Dopo aver iniziato anche il torneo cadetto 1975-1976 (lanciando titolare un giovanissimo [[tesserati/calciatori/damiano-morra|Damiano Morra]]), Rubino viene richiamato per l'ultima volta da Massimino nella primavera del **1980**, subentrando a Lino De Petrillo nelle ultime 5 giornate della [[stagioni/1979-1980|Stagione 1979-1980]] per blindare matematicamente il **1º posto in Serie C1** e la nuova promozione in Serie B.
+Dopo aver iniziato anche il torneo cadetto [[02-cronistoria/stagioni/1975-1976|1975-1976]] (lanciando titolare un giovanissimo [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]]), Rubino viene richiamato per l'ultima volta da Massimino nella primavera del **1980**, subentrando a [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] nelle ultime 5 giornate della [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980]] per blindare matematicamente il **1º posto in Serie C1** e la nuova promozione in Serie B.
 
 ### Riepilogo Panchine nel Calcio Catania S.p.A.
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Camp. | V | N | P | Note Storiche |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :--- |
-| **1968-1969** (nov.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | 11º posto (Salvezza) | 32 | 9 | 14 | 9 | Subentra alla 7ª giornata a L. Valsecchi. |
-| **[[stagioni/1969-1970\|1969-1970]]** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (48 pt) — Promosso in Serie A** | 38 | 15 | 18 | 5 | Vittoria decisiva 3-1 a Reggio Calabria (14/06/1970). |
-| **1970-1971** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | 16º posto (21 punti) | 30 | 5 | 11 | 14 | Intero campionato in massima serie. |
-| **1974-1975** (ott.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C (Gir. C) | **1º posto (57 pt) — Promosso in Serie B** | 33 | 18 | 14 | 1 | Subentra alla 6ª giornata; 3-0 a Torre del Greco. |
-| **1975-1976** (fino mar.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 24ª giornata da G. Mazzetti | 24 | 6 | 10 | 8 | Esordio di [[tesserati/calciatori/damiano-morra\|Damiano Morra]]. |
-| **[[stagioni/1979-1980\|1979-1980]]** (mag.) | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **1º posto (44 pt) — Promosso in Serie B** | 5 | 2 | 2 | 1 | Guida la squadra nelle ultime 5 giornate. |
+| **[[02-cronistoria/stagioni/1968-1969\|1968-1969]]** (nov.) | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | 11º posto (Salvezza) | 32 | 9 | 14 | 9 | Subentra alla 7ª giornata a L. Valsecchi. |
+| **[[02-cronistoria/stagioni/1969-1970\|1969-1970]]** | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | **3º posto (48 pt) — Promosso in Serie A** | 38 | 15 | 18 | 5 | Vittoria decisiva 3-1 a Reggio Calabria (14/06/1970). |
+| **1970-1971** | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie A | 16º posto (21 punti) | 30 | 5 | 11 | 14 | Intero campionato in massima serie. |
+| **1974-1975** (ott.) | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C (Gir. C) | **1º posto (57 pt) — Promosso in Serie B** | 33 | 18 | 14 | 1 | Subentra alla 6ª giornata; 3-0 a Torre del Greco. |
+| **1975-1976** (fino mar.) | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie B | Sostituito alla 24ª giornata da G. Mazzetti | 24 | 6 | 10 | 8 | Esordio di [[03-tesserati/calciatori/storici/damiano-morra\|Damiano Morra]]. |
+| **[[02-cronistoria/stagioni/1979-1980\|1979-1980]]** (mag.) | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] (11700) | Serie C1 (Gir. B) | **1º posto (44 pt) — Promosso in Serie B** | 5 | 2 | 2 | 1 | Guida la squadra nelle ultime 5 giornate. |
 | **Totale** | **6 Stagioni in 3 Cicli** | **A / B / C** | **162 panchine Camp. + 6 Coppa Italia = 168** | **162** | **55** | **69** | **38** | **3 Promozioni conquistate col Catania.** |
 
 
@@ -133,9 +133,9 @@ Dopo aver iniziato anche il torneo cadetto 1975-1976 (lanciando titolare un giov
 <details class="nfc-stat-accordion">
 <summary><strong>Sintesi Statistica e Palmarès sulla Panchina del Catania</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
-- **Panchine Ufficiali Totali:** **168** in tre distinti cicli (1968–1971, 1974–1976 e finale della [[stagioni/1979-1980|Stagione 1979-1980]]).
-- **Promozione in Serie A ([[stagioni/1969-1970|1969-1970]]):** **3º posto in Serie B** con 48 punti (miglior difesa del torneo con sole 19 reti subite in 38 gare), suggellato il **14 giugno 1970** dal 3-1 sul campo della Reggina.
-- **Promozioni in Serie B (1974-1975 e [[stagioni/1979-1980|1979-1980]]):** **1º posto nel Girone C di Serie C 1974-1975** con 57 punti dopo il testa a testa leggendario col Bari, più il subentro vincente nelle ultime giornate della Serie C1 1979-1980.
+- **Panchine Ufficiali Totali:** **168** in tre distinti cicli (1968–1971, 1974–1976 e finale della [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980]]).
+- **Promozione in Serie A ([[02-cronistoria/stagioni/1969-1970|1969-1970]]):** **3º posto in Serie B** con 48 punti (miglior difesa del torneo con sole 19 reti subite in 38 gare), suggellato il **14 giugno 1970** dal 3-1 sul campo della Reggina.
+- **Promozioni in Serie B (1974-1975 e [[02-cronistoria/stagioni/1979-1980|1979-1980]]):** **1º posto nel Girone C di Serie C 1974-1975** con 57 punti dopo il testa a testa leggendario col Bari, più il subentro vincente nelle ultime giornate della Serie C1 1979-1980.
 
 </details>
 

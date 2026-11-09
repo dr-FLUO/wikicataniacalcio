@@ -56,7 +56,7 @@ Buemi è stato il primo promotore e coordinatore del nucleo di studiosi che, une
 Con il nome d'arte di **BAnt**, Buemi ha inaugurato una fortunata collana editoriale illustrata che coniuga il rigore storico alla freschezza del disegno caricaturale a colori:
 
 * ***Rossazzurri Indimenticabili: i Presidenti del Catania*** (2022, 110 pagine): Una galleria completa di tutti i massimi dirigenti della storia etnea, raccontati ciascuno con una scheda biografica in prima persona e un ritratto caricaturale digitale ad altissima fedeltà iconica.
-* ***Rossazzurri Indimenticabili: gli Allenatori del Catania*** (2023): Il secondo volume della collana, dedicato a tutte le guide tecniche che si sono sedute sulla panchina del Cibali/Massimino da Piero Andreoli e Carmelo Di Bella fino a Pasquale Marino, Walter Zenga e Diego Simeone.
+* ***Rossazzurri Indimenticabili: gli Allenatori del Catania*** (2023): Il secondo volume della collana, dedicato a tutte le guide tecniche che si sono sedute sulla panchina del Cibali/Massimino da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] fino a [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]], [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] e Diego Simeone.
 * Le sue tavole grafiche sono regolarmente ospitate sul portale [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]], costituendo una preziosa fonte iconografica per l'intera comunità di tifosi.
 
 ---

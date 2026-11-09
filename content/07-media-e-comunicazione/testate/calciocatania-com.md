@@ -69,4 +69,4 @@ Mantenendosi lontano da condizionamenti proprietari, il portale ha esercitato un
 
 1. **CalcioCatania.com**, *CalcioCatania.com 2026/27: un sito nuovo, con tutta la nostra storia*, in [calciocatania.com](https://www.calciocatania.com/articoli/articoli.php?CalcioCatania.com-2026-27-un-sito-nuovo-con-tutta-la-nostra-storia-dentro-20105), 2026.
 2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010.
-3. **Registro Nazionale Stampa Periodica Online**, *Iscrizione Testata Online CalcioCatania.com*, Tribunale di Catania.
+3. **Registro Nazionale Stampa Periodica Online**, *Iscrizione Testata Online [CalcioCatania.com](https://www.calciocatania.com/)*, Tribunale di Catania.

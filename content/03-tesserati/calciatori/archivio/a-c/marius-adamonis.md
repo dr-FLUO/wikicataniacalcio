@@ -18,7 +18,7 @@ league_appearances: 35
 total_goals: 0
 league_goals: 0
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/marius-adamonis.jpg
 image_credits:
 - image_path: assets/images/calciatori/marius-adamonis.jpg
@@ -52,6 +52,10 @@ seasons_count: 1
 locked: true
 locked_date: '2026-10-30'
 locked_by: certificazione_archivio_storico_ufficiale
+tags:
+- calciatori
+- portieri
+- serie-c
 ---
 # Marius Adamonis — Portiere della Nazionale Lituana e del Catania FC
 
@@ -113,11 +117,11 @@ Ingaggiato nell'estate del **2024** per blindare la porta rossazzurra:
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
-* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[02-cronistoria/stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[02-cronistoria/stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
 * [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Capitano e compagno di squadra]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
-* [[societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
+* [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[01-societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
 
 ---
 

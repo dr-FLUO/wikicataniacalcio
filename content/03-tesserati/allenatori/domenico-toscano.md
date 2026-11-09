@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2024-2026
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
 tags:
 - allenatori
 - anni-duemilaventi
@@ -118,13 +118,13 @@ Domenico «Mimmo» Toscano, detto "Il Cannibale" per aver conquistato quattro ca
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; confermato nel 2025-2026 ha guidato la squadra a un sontuoso 2º posto a 75 punti qualificandosi alla semifinale dei play-off.
+Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; confermato nel [[02-cronistoria/stagioni/2025-2026|2025-2026]] ha guidato la squadra a un sontuoso 2º posto a 75 punti qualificandosi alla semifinale dei play-off.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2024-2025\|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2024-2025\|2024-2025]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

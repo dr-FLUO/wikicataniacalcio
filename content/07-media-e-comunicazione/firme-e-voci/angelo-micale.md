@@ -55,7 +55,7 @@ Ideata nel 1986 per offrire ai tifosi esclusi dallo stadio un racconto puntuale 
 Oltre all'impegno della domenica pomeriggio, Angelo Micale è stato per decenni uno dei pilastri del talk show del lunedì sera ***Corner***:
 
 * Ha condotto e coordinato i dibattiti tecnici più incandescenti della Serie A e della Serie B, gestendo il tavolo con figure storiche quali [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]], [[07-media-e-comunicazione/firme-e-voci/angelo-patane|Angelo Patanè]], Giacomo Cagnes e l'opinionista [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]].
-* Nella stagione 2026/2027, Micale continua a intervenire regolarmente come commentatore d'eccezione, analizzando con acume tattico e lucidità le scelte tecniche di mister Emilio Longo e il rendimento dei calciatori rossazzurri.
+* Nella stagione 2026/2027, Micale continua a intervenire regolarmente come commentatore d'eccezione, analizzando con acume tattico e lucidità le scelte tecniche di mister [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] e il rendimento dei calciatori rossazzurri.
 
 ---
 

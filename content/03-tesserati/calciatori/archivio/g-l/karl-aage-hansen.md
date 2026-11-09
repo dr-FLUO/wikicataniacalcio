@@ -21,7 +21,7 @@ total_goals: 6
 league_goals: 7
 serie_a_goals: 3
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - centrocampisti
@@ -116,7 +116,7 @@ tm_id: 519640
 
 **Karl Aage Hansen** (Mesinge, 4 luglio 1921 – Gentofte, 23 novembre 1990) è stato un calciatore danese, nel ruolo di mezzala e regista. Acquistato dal Club Calcio Catania nell'estate del **1954** per affrontare il primo storico campionato di **Serie A** della storia etnea, portò alle pendici dell'Etna un bagaglio di esperienza e caratura tecnica internazionale impareggiabile.
 
-Regista dai piedi vellutati e dalla straordinaria intelligenza tattica, Hansen fu il motore della squadra di Piero Andreoli nella [[stagioni/1954-1955|Stagione 1954-1955]], guidando la formazione rossazzurra a una memorabile salvezza conquistata sul campo con 31 presenze e 3 reti.
+Regista dai piedi vellutati e dalla straordinaria intelligenza tattica, Hansen fu il motore della squadra di Piero Andreoli nella [[02-cronistoria/stagioni/1954-1955|Stagione 1954-1955]], guidando la formazione rossazzurra a una memorabile salvezza conquistata sul campo con 31 presenze e 3 reti.
 
 > [!abstract] La Classe Internazionale al Cibali
 > - **Palmarès Prestigioso:** Medaglia di bronzo alle Olimpiadi di Londra 1948, campione d'Italia con la Juventus prima dell'approdo a Catania.

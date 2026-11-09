@@ -62,7 +62,7 @@ aliases:
 
 # Ordine Pubblico, DASPO e Legislazione Speciale Antiviolenza
 
-La disciplina dell'ordine pubblico e della pubblica sicurezza negli impianti sportivi italiani costituisce uno dei capitoli più complessi, controversi e invasivi del diritto amministrativo e penale del dopoguerra. Nel contesto di **Catania** — piazza passionale e teatro del tragico spartiacque del [[vicende-legali/decreto-2-febbraio-2007|2 febbraio 2007]] —, la progressiva stratificazione di decreti legge d'urgenza e normative speciali ha inciso profondamente sull'assetto urbanistico dello [[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]], sulle abitudini di decine di migliaia di tifosi e sulle dinamiche interne dei gruppi di [[tifoseria/curva-nord/index|Curva Nord (CCN)]] e [[tifoseria/curva-sud/index|Curva Sud]].
+La disciplina dell'ordine pubblico e della pubblica sicurezza negli impianti sportivi italiani costituisce uno dei capitoli più complessi, controversi e invasivi del diritto amministrativo e penale del dopoguerra. Nel contesto di **Catania** — piazza passionale e teatro del tragico spartiacque del [[01-societa/vicende-legali/decreto-2-febbraio-2007|2 febbraio 2007]] —, la progressiva stratificazione di decreti legge d'urgenza e normative speciali ha inciso profondamente sull'assetto urbanistico dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]], sulle abitudini di decine di migliaia di tifosi e sulle dinamiche interne dei gruppi di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord (CCN)]] e [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]].
 
 > [!abstract] La Tensione tra Esigenze di Sicurezza e Garanzie Costituzionali
 > Dalla nascita del **DASPO** nel 1989 all'introduzione dei **tornelli elettronici** e dei **biglietti nominativi** nel 2005, fino all'imposizione dell'**arresto differito** nel 2007 e della **Tessera del Tifoso**, il modello italiano di gestione degli stadi si è configurato come un ordinamento a regime speciale. La giurisprudenza del **TAR Sicilia (Sezione Staccata di Catania)** e dei giudici di merito ha più volte tracciato il confine tra la legittima prevenzione dei reati da stadio e la tutela dei diritti costituzionali fondamentali (art. 13 sulla libertà personale, art. 16 sulla libera circolazione, art. 21 sulla libertà di manifestazione del pensiero e art. 24 sul diritto di difesa).
@@ -92,7 +92,7 @@ Con il **Decreto Legge 17 agosto 2005, n. 162** (convertito con modificazioni ne
 
 ## 3. Il Trauma del 2 Febbraio 2007 e la Legge Amato-Raciti (L. 41/2007)
 
-La sera del **2 febbraio 2007**, in occasione del derby siciliano di Serie A tra [[societa/2004-era-pulvirenti|Catania]] e [[tifoseria/rivalita/palermo|Palermo]] disputato allo [[stadio/angelo-massimino|Stadio Angelo Massimino]], scoppiarono gravi disordini all'esterno della curva nord e della gradinata, durante i quali perse tragicamente la vita l'ispettore capo della Polizia di Stato **Filippo Raciti**.
+La sera del **2 febbraio 2007**, in occasione del derby siciliano di Serie A tra [[01-societa/epoche/2004-era-pulvirenti|Catania]] e [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]] disputato allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], scoppiarono gravi disordini all'esterno della curva nord e della gradinata, durante i quali perse tragicamente la vita l'ispettore capo della Polizia di Stato **Filippo Raciti**.
 
 La risposta normativa del Governo e del Parlamento fu immediata e draconiana. Con il **Decreto Legge 8 febbraio 2007, n. 8** (convertito nella **Legge 4 aprile 2007, n. 41**), il sistema sanzionatorio e procedurale subì un mutamento epocale:
 
@@ -121,8 +121,8 @@ A Catania, l'introduzione della tessera aprì un profondo dibattito etico all'in
 
 | Settore / Gruppo Guida | Posizione Adottata | Motivazione Ideologica e Conseguenze Operative |
 | :--- | :--- | :--- |
-| **[[tifoseria/curva-nord/index\|Curva Nord]]**<br>([[tifoseria/curva-nord/a-sostegno-di-una-fede\|A Sostegno di una fede]]) | **Rifiuto Intransigente** | Netta opposizione al principio della schedatura preventiva e all'abbinamento a circuiti bancari/carte prepagate. Per quasi un decennio il gruppo scelse di disertare tutti i settori ospiti vietati ai non tesserati, sostenendo la squadra solo in casa o all'esterno degli stadi. |
-| **[[tifoseria/curva-sud/index\|Curva Sud]]**<br>([[tifoseria/curva-sud/falange-d-assalto\|Falange d'Assalto]] / [[tifoseria/curva-sud/irriducibili-1991\|Irriducibili]]) | **Adesione Pragmatica** *(dal 2015)* | Dopo la retrocessione in Lega Pro per lo scandalo [[vicende-legali/treni-del-gol-2015\|I Treni del Gol]], la Sud scelse di tesserarsi sotto lo striscione unitario **_Estrema Appartenenza_** per non lasciare sguarniti i gradoni nelle trasferte provinciali della Serie C. |
+| **[[06-tifoseria-e-cultura/settori/curva-nord/index\|Curva Nord]]**<br>([[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede\|A Sostegno di una fede]]) | **Rifiuto Intransigente** | Netta opposizione al principio della schedatura preventiva e all'abbinamento a circuiti bancari/carte prepagate. Per quasi un decennio il gruppo scelse di disertare tutti i settori ospiti vietati ai non tesserati, sostenendo la squadra solo in casa o all'esterno degli stadi. |
+| **[[06-tifoseria-e-cultura/settori/curva-sud/index\|Curva Sud]]**<br>([[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto\|Falange d'Assalto]] / [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991\|Irriducibili]]) | **Adesione Pragmatica** *(dal 2015)* | Dopo la retrocessione in Lega Pro per lo scandalo [[01-societa/vicende-legali/treni-del-gol-2015\|I Treni del Gol]], la Sud scelse di tesserarsi sotto lo striscione unitario **_Estrema Appartenenza_** per non lasciare sguarniti i gradoni nelle trasferte provinciali della Serie C. |
 
 ### Il Protocollo del 4 Agosto 2017 e la Svolta Post-Tessera
 Il 4 agosto 2017, la sottoscrizione del Protocollo d'Intesa tra Ministero dell'Interno, CONI e Federcalcio (*«Il rilancio del tifo: un calcio migliore per una migliore partecipazione»*) ha sancito il superamento della Tessera del Tifoso obbligatoria:
@@ -134,7 +134,7 @@ Il 4 agosto 2017, la sottoscrizione del Protocollo d'Intesa tra Ministero dell'I
 
 ## 5. I Divieti di Trasferta e la Giurisprudenza del TAR Catania
 
-Nonostante il protocollo del 2017, la prassi amministrativa dell'Osservatorio e delle Prefetture ha continuato a fare largo ricorso al **divieto generalizzato di trasferta** basato sulla residenza geografica (es. *"divieto di vendita dei tagliandi per i residenti nella provincia di Catania"*), in particolare nelle sfide contro tifoserie rivali ([[tifoseria/rivalita/palermo|Palermo]], [[tifoseria/rivalita/messina|Messina]], [[tifoseria/rivalita/siracusa|Siracusa]], Catanzaro, Foggia, Juve Stabia, Cavese).
+Nonostante il protocollo del 2017, la prassi amministrativa dell'Osservatorio e delle Prefetture ha continuato a fare largo ricorso al **divieto generalizzato di trasferta** basato sulla residenza geografica (es. *"divieto di vendita dei tagliandi per i residenti nella provincia di Catania"*), in particolare nelle sfide contro tifoserie rivali ([[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], [[06-tifoseria-e-cultura/relazioni/rivalita/messina|Messina]], [[06-tifoseria-e-cultura/relazioni/rivalita/siracusa|Siracusa]], Catanzaro, Foggia, Juve Stabia, Cavese).
 
 ### Il Sindacato di Legittimità del TAR Sicilia — Sezione Staccata di Catania
 Tali provvedimenti prefettizi sono stati ripetutamente impugnati dinanzi al **TAR Sicilia (Sezione di Catania)** da singoli sostenitori, club organizzati e associazioni di tifosi. La giurisprudenza amministrativa etnea ha elaborato principi di assoluto rilievo:
@@ -149,10 +149,10 @@ Tali provvedimenti prefettizi sono stati ripetutamente impugnati dinanzi al **TA
 
 | Fonte Normativa | Anno | Oggetto Principale | Impatto Operativo sul Tifo Rossazzurro |
 | :--- | :---: | :--- | :--- |
-| **Legge 401/1989** | 1989 | Istituzione del DASPO amministrativo e convalida GIP per l'obbligo di firma (art. 6). | Nascita delle prime diffide per i gruppi storici ([[tifoseria/curva-sud/falange-d-assalto\|Falange d'Assalto]], [[tifoseria/curva-sud/irriducibili-1991\|Irriducibili]]). |
-| **Decreto Pisanu (L. 210/2005)** | 2005 | Biglietti nominativi, varchi con tornelli elettronici, steward di società e CCTV. | Ristrutturazione accessi allo [[stadio/angelo-massimino\|Stadio Massimino]] e schedatura anagrafica all'acquisto. |
-| **Legge Amato-Raciti (L. 41/2007)** | 2007 | Arresto differito entro 48h, Daspo preventivo fino a 5-8 anni, censura striscioni al GOS. | Chiusura temporanea del Massimino post [[vicende-legali/decreto-2-febbraio-2007\|fatti del 2 febbraio 2007]]; divieto tamburi e megafoni. |
-| **Determinazioni ONMS** | 2009 | Introduzione della Tessera del Tifoso obbligatoria per le trasferte (art. 9 L. 41/2007). | Frattura decennale: rifiuto totale di [[tifoseria/curva-nord/a-sostegno-di-una-fede\|A Sostegno di una fede]] vs adesione della Sud (*Estrema Appartenenza*). |
+| **Legge 401/1989** | 1989 | Istituzione del DASPO amministrativo e convalida GIP per l'obbligo di firma (art. 6). | Nascita delle prime diffide per i gruppi storici ([[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto\|Falange d'Assalto]], [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991\|Irriducibili]]). |
+| **Decreto Pisanu (L. 210/2005)** | 2005 | Biglietti nominativi, varchi con tornelli elettronici, steward di società e CCTV. | Ristrutturazione accessi allo [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Massimino]] e schedatura anagrafica all'acquisto. |
+| **Legge Amato-Raciti (L. 41/2007)** | 2007 | Arresto differito entro 48h, Daspo preventivo fino a 5-8 anni, censura striscioni al GOS. | Chiusura temporanea del Massimino post [[01-societa/vicende-legali/decreto-2-febbraio-2007\|fatti del 2 febbraio 2007]]; divieto tamburi e megafoni. |
+| **Determinazioni ONMS** | 2009 | Introduzione della Tessera del Tifoso obbligatoria per le trasferte (art. 9 L. 41/2007). | Frattura decennale: rifiuto totale di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede\|A Sostegno di una fede]] vs adesione della Sud (*Estrema Appartenenza*). |
 | **Protocollo 4 agosto 2017** | 2017 | Superamento della Tessera obbligatoria, rientro tamburi/megafoni e Fidelity Card. | Ricomposizione graduale del tifo vocale nelle due curve e ritorno del tifo folkloristico. |
 | **Decreto Sicurezza 2018–2020** | 2018–2020 | Estensione del DASPO "fuori contesto" per reati comuni e inasprimento sanzioni. | Applicazione di misure interdittive anche per condotte non direttamente legate alla partita. |
 | **Giurisprudenza TAR Catania** | 2015–2026 | Annullamento di divieti prefettizi di trasferta sproporzionati e generalizzati. | Riconoscimento del diritto soggettivo del tifoso non violento a seguire la squadra in trasferta. |
@@ -162,18 +162,18 @@ Tali provvedimenti prefettizi sono stati ripetutamente impugnati dinanzi al **TA
 ## Dossier Storico-Giudiziario e Casistica Monografica (1983–2026)
 
 Per la ricostruzione organica e l'evoluzione criminologica degli eventi di ordine pubblico della piazza etnea dal 1983 al 2026, si rinvia al dossier monografico generale:
-👉 **[[tifoseria/eventi/analisi-storico-giudiziaria-ordine-pubblico|Analisi Storico-Giudiziaria del Tifo Organizzato Catanese (1983-2026): Dinamiche di Ordine Pubblico, Rassegna Documentale e Impatto Normativo]]**
+👉 **[[06-tifoseria-e-cultura/eventi-e-giustizia/analisi-storico-giudiziaria-ordine-pubblico|Analisi Storico-Giudiziaria del Tifo Organizzato Catanese (1983-2026): Dinamiche di Ordine Pubblico, Rassegna Documentale e Impatto Normativo]]**
 
 ### Matrice delle 9 Schede Monografiche
-1. **[[tifoseria/eventi/esodo-roma-1983|SCHEDA-1983-ROMA: L'Esodo dei 40.000 allo Stadio Olimpico di Roma (1983)]]**
-2. **[[tifoseria/eventi/radiazione-1993-rivolta-urbana|SCHEDA-1993-RADIAZIONE: La Crisi Istituzionale del 1993, la Rivolta Urbana e la Partita Fantasma]]**
-3. **[[tifoseria/eventi/derby-celeste-messina-2001-curro|SCHEDA-2001-CELESTE: Il Derby dello Stadio Celeste e la Morte di Antonino Currò (2001)]]**
-4. **[[tifoseria/eventi/scontri-2-febbraio-2007-raciti|SCHEDA-2007-MASSIMINO: Il Derby del 2 Febbraio 2007, la Morte dell'Ispettore Raciti e la Legge 41/2007]]**
-5. **[[tifoseria/eventi/treni-del-gol-2015-cortei-tifosi|SCHEDA-2015-TRENI-GOL: L'Inchiesta "I Treni del Gol" e i Cortei Civili della Tifoseria (2015)]]**
-6. **[[tifoseria/eventi/esequie-ciccio-famoso-massimino-2017|SCHEDA-2017-FAMOSO: Le Esequie di Ciccio Famoso e il Rito al Massimino (2017)]]**
-7. **[[tifoseria/eventi/aggressione-lo-monaco-stretto-2019|SCHEDA-2019-LOMONACO: L'Aggressione all'AD Pietro Lo Monaco, Daspo Decennale e Sorveglianza Speciale (2019)]]**
-8. **[[tifoseria/eventi/finale-coppa-euganeo-padova-2024|SCHEDA-2024-EUGANEO: La Finale di Coppa Italia all'Euganeo di Padova, Invasione e Daspo Decennali (2024)]]**
-9. **[[tifoseria/eventi/guerriglia-autostrada-a2-casertana-2025|SCHEDA-2025-AUTOSTRADA: La Guerriglia sull'Autostrada A2 contro la Casertana (2025)]]**
+1. **[[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|SCHEDA-1983-ROMA: L'Esodo dei 40.000 allo Stadio Olimpico di Roma (1983)]]**
+2. **[[06-tifoseria-e-cultura/eventi-e-giustizia/radiazione-1993-rivolta-urbana|SCHEDA-1993-RADIAZIONE: La Crisi Istituzionale del 1993, la Rivolta Urbana e la Partita Fantasma]]**
+3. **[[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro|SCHEDA-2001-CELESTE: Il Derby dello Stadio Celeste e la Morte di Antonino Currò (2001)]]**
+4. **[[06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti|SCHEDA-2007-MASSIMINO: Il Derby del 2 Febbraio 2007, la Morte dell'Ispettore Raciti e la Legge 41/2007]]**
+5. **[[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|SCHEDA-2015-TRENI-GOL: L'Inchiesta "I Treni del Gol" e i Cortei Civili della Tifoseria (2015)]]**
+6. **[[06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017|SCHEDA-2017-FAMOSO: Le Esequie di Ciccio Famoso e il Rito al Massimino (2017)]]**
+7. **[[06-tifoseria-e-cultura/eventi-e-giustizia/aggressione-lo-monaco-stretto-2019|SCHEDA-2019-LOMONACO: L'Aggressione all'AD Pietro Lo Monaco, Daspo Decennale e Sorveglianza Speciale (2019)]]**
+8. **[[06-tifoseria-e-cultura/eventi-e-giustizia/finale-coppa-euganeo-padova-2024|SCHEDA-2024-EUGANEO: La Finale di Coppa Italia all'Euganeo di Padova, Invasione e Daspo Decennali (2024)]]**
+9. **[[06-tifoseria-e-cultura/eventi-e-giustizia/guerriglia-autostrada-a2-casertana-2025|SCHEDA-2025-AUTOSTRADA: La Guerriglia sull'Autostrada A2 contro la Casertana (2025)]]**
 
 ---
 

@@ -17,7 +17,7 @@ league_appearances: 114
 total_goals: 40
 league_goals: 38
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -98,7 +98,7 @@ tm_id: 313466
   </table>
 </div>
 
-**Loriano Cipriani** (San Giovanni Valdarno, 18 ottobre 1964) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1989**, è stato il simbolo assoluto dell'attacco del Calcio Catania per un intero quadriennio, collezionando **125 presenze e 40 reti ufficiali**.
+**Loriano Cipriani** (San Giovanni Valdarno, 18 ottobre 1964) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1989**, è stato il simbolo assoluto dell'attacco del Calcio Catania per un intero quadriennio, collezionando **125 presenze e 40 reti ufficiali**.
 
 Centravanti rapido, implacabile negli spazi stretti e freddo dal dischetto, Cipriani detiene il record storico di **quattro titoli consecutivi di capocannoniere etneo** tra il 1989 e il 1993.
 
@@ -113,7 +113,7 @@ Centravanti rapido, implacabile negli spazi stretti e freddo dal dischetto, Cipr
 
 ### Il Quadriennio delle Meraviglie (1989-1993)
 
-Nel campionato [[stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [[stagioni/1990-1991|1990-1991]] confermò il suo stato di grazia con 11 reti; nel [[stagioni/1991-1992|1991-1992]] mise a segno 6 reti decisive per la salvezza e nel [[stagioni/1992-1993|1992-1993]] toccò quota 11 reti in 30 partite. L'esclusione estiva del 1993 interruppe bruscamente un idillio sportivo che lo colloca di diritto tra i più grandi bomber rossazzurri di sempre.
+Nel campionato [[02-cronistoria/stagioni/1989-1990|1989-1990]] segnò 12 reti in 32 gare; nel [[02-cronistoria/stagioni/1990-1991|1990-1991]] confermò il suo stato di grazia con 11 reti; nel [[02-cronistoria/stagioni/1991-1992|1991-1992]] mise a segno 6 reti decisive per la salvezza e nel [[02-cronistoria/stagioni/1992-1993|1992-1993]] toccò quota 11 reti in 30 partite. L'esclusione estiva del 1993 interruppe bruscamente un idillio sportivo che lo colloca di diritto tra i più grandi bomber rossazzurri di sempre.
 
 ---
 

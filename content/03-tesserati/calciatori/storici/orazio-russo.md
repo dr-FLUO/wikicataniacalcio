@@ -29,9 +29,9 @@ league_appearances: 92
 serie_a_appearances: 1
 total_goals: 13
 club_entities:
-- '[[societa/1946-club-calcio-catania|Calcio Catania S.p.A. (Matricola 11700)]]'
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Calcio Catania S.p.A. (Matricola 11700)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (Era Pelligra)]]'
 tags:
 - calciatori
 - capitano
@@ -135,17 +135,17 @@ tm_id: 22124
   </table>
 </div>
 
-**Orazio Russo** (Misterbianco, 6 ottobre 1973 – Catania, 14 febbraio 2026) è stato un calciatore, allenatore e dirigente sportivo italiano, di ruolo attaccante o ala offensiva. Considerato all'unanimità una delle bandiere più pure, autentiche e viscerali della storia del [[societa/1946-club-calcio-catania|Calcio Catania]], detiene un primato che nessun altro atleta ha mai eguagliato nella storia quasi centenaria dell'Elefante: è **l'unico calciatore ad aver indossato la maglia rossazzurra in tutte le categorie professionistiche del calcio italiano**, dalla Serie C2 alla Serie C1, dalla Serie B fino alla Serie A.
+**Orazio Russo** (Misterbianco, 6 ottobre 1973 – Catania, 14 febbraio 2026) è stato un calciatore, allenatore e dirigente sportivo italiano, di ruolo attaccante o ala offensiva. Considerato all'unanimità una delle bandiere più pure, autentiche e viscerali della storia del [[01-societa/epoche/1946-club-calcio-catania|Calcio Catania]], detiene un primato che nessun altro atleta ha mai eguagliato nella storia quasi centenaria dell'Elefante: è **l'unico calciatore ad aver indossato la maglia rossazzurra in tutte le categorie professionistiche del calcio italiano**, dalla Serie C2 alla Serie C1, dalla Serie B fino alla Serie A.
 
-Attraversando quattro differenti cicli agonistici (1991–1993, 1996–1997, 2004–2006 e 2009–2010) per un totale di **119 presenze ufficiali e 12 reti**, Russo ha incarnato l'anima del calciatore catanese: generosità tattica inesauribile, velocità sulla corsia, dedizione totale alla causa e un senso d'appartenenza che lo ha portato, dopo il ritiro, a dedicare l'intera seconda parte della propria vita alla formazione dei giovani etnei come **Team Manager**, **allenatore della Primavera** e **Responsabile del Settore Giovanile**, da Torre del Grifo fino alla rinascita del [[societa/2022-pelligra-catania-fc|Catania Football Club]] di Ross Pelligra.
+Attraversando quattro differenti cicli agonistici (1991–1993, 1996–1997, 2004–2006 e 2009–2010) per un totale di **119 presenze ufficiali e 12 reti**, Russo ha incarnato l'anima del calciatore catanese: generosità tattica inesauribile, velocità sulla corsia, dedizione totale alla causa e un senso d'appartenenza che lo ha portato, dopo il ritiro, a dedicare l'intera seconda parte della propria vita alla formazione dei giovani etnei come **Team Manager**, **allenatore della Primavera** e **Responsabile del Settore Giovanile**, da Torre del Grifo fino alla rinascita del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] di Ross Pelligra.
 
 ---
 
 ## 1. Dalle Radici di Misterbianco all'Esordio con Angelo Massimino (1991–1993)
 
-Cresciuto calcisticamente nei campetti della provincia etnea e formatosi nelle giovanili del Calcio Catania, Orazio Russo viene aggregato alla prima squadra nei primi anni Novanta sotto la presidenza del *Presidentissimo* [[societa/presidenti/angelo-massimino|Angelo Massimino]].
+Cresciuto calcisticamente nei campetti della provincia etnea e formatosi nelle giovanili del Calcio Catania, Orazio Russo viene aggregato alla prima squadra nei primi anni Novanta sotto la presidenza del *Presidentissimo* [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
-Ala rapida, dotata di scatto bruciante e capacità di saltare l'uomo per andare al cross, fa il suo debutto tra i professionisti nella [[stagioni/1991-1992|Stagione 1991-1992]] in Serie C1. Nel biennio iniziale totalizza **30 presenze e 2 reti**, facendosi apprezzare dalla tifoseria del Cibali per l'ardore agonistico con cui affronta ogni duello, attirando le attenzioni delle categorie superiori.
+Ala rapida, dotata di scatto bruciante e capacità di saltare l'uomo per andare al cross, fa il suo debutto tra i professionisti nella [[02-cronistoria/stagioni/1991-1992|Stagione 1991-1992]] in Serie C1. Nel biennio iniziale totalizza **30 presenze e 2 reti**, facendosi apprezzare dalla tifoseria del Cibali per l'ardore agonistico con cui affronta ogni duello, attirando le attenzioni delle categorie superiori.
 
 ---
 
@@ -155,7 +155,7 @@ Nell'estate del 1993, in concomitanza con la tragica estromissione del Catania d
 - Colleziona **79 presenze complessive e 10 reti** con la maglia giallorossa.
 - Nella stagione 1993-1994 esordisce in **Serie A** a soli vent'anni, affrontando il Milan di Capello e collezionando **28 presenze e 4 gol** in massima serie.
 
-Nel 1996, nonostante le richieste dalla serie cadetta, Orazio decide di ascoltare il richiamo della sua terra e torna a Catania in prestito in **Serie C2**: nella [[stagioni/1996-1997|Stagione 1996-1997]] trascina i rossazzurri con **30 presenze e 3 reti**, sfiorando la promozione e confermando un legame indissolubile con la piazza.
+Nel 1996, nonostante le richieste dalla serie cadetta, Orazio decide di ascoltare il richiamo della sua terra e torna a Catania in prestito in **Serie C2**: nella [[02-cronistoria/stagioni/1996-1997|Stagione 1996-1997]] trascina i rossazzurri con **30 presenze e 3 reti**, sfiorando la promozione e confermando un legame indissolubile con la piazza.
 
 Successivamente milita nella **SPAL** (1997-1998, vittoria della Coppa Italia Serie C), nel **Savoia** (1998-1999, storica promozione in Serie B) e nell'**Acireale**, dove trascorre cinque stagioni da capitano e idolo assoluto (158 gare e 30 gol).
 
@@ -163,8 +163,8 @@ Successivamente milita nella **SPAL** (1997-1998, vittoria della Coppa Italia Se
 
 ## 3. Il Ciclo di Pasquale Marino e la Gloria della Promozione in A (2004–2006)
 
-Nell'estate del 2004 la nuova dirigenza del Catania guidata da Antonino Pulvirenti e Pietro Lo Monaco decide di riportare Orazio Russo a casa. Inizialmente impiegato come jolly offensivo, nella [[stagioni/2005-2006|Stagione 2005-2006]] diventa uno dei protagonisti assoluti della cavalcata trionfale verso la Serie A sotto la guida di [[tesserati/allenatori/pasquale-marino|Pasquale Marino]]:
-- Nel modulo 4-3-3 zemaniano impostato da Marino, Russo garantisce equilibrio, strappi verticali ed esperienza, alternandosi e integrandosi perfettamente con il tandem d'oro composto da [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e [[tesserati/calciatori/gionatha-spinesi|Gionatha Spinesi]].
+Nell'estate del 2004 la nuova dirigenza del Catania guidata da Antonino Pulvirenti e Pietro Lo Monaco decide di riportare Orazio Russo a casa. Inizialmente impiegato come jolly offensivo, nella [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]] diventa uno dei protagonisti assoluti della cavalcata trionfale verso la Serie A sotto la guida di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]:
+- Nel modulo 4-3-3 zemaniano impostato da Marino, Russo garantisce equilibrio, strappi verticali ed esperienza, alternandosi e integrandosi perfettamente con il tandem d'oro composto da [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]].
 - Colleziona **58 presenze e 7 reti** nel biennio cadetto.
 - Il **28 maggio 2006**, nella memorabile vittoria per 2-1 contro l'Albinoleffe al Massimino che sancisce il ritorno del Catania in Serie A dopo ventidue anni d'attesa, Russo è in campo a festeggiare davanti a trentamila concittadini in delirio.
 
@@ -174,8 +174,8 @@ Nell'estate del 2004 la nuova dirigenza del Catania guidata da Antonino Pulviren
 
 Dopo un'esperienza biennale a Padova e a Gela, nel gennaio 2010 il Catania richiama Orazio Russo per offrirgli un ruolo nello spogliatoio e coronare il cerchio della sua carriera.
 
-Il **16 maggio 2010**, in occasione dell'ultima giornata del campionato di Serie A 2009-2010 ([[partite/2009-2010/catania-inter-3-1|la stagione della rimonta salvezza con Siniša Mihajlović]]), va in scena al Massimino una delle pagine più commoventi della storia etnea:
-- Al minuto 83 di Catania–Genoa (vinta 1-0 con rete di Maxi López), Mihajlović richiama in panchina il compagno e manda sul terreno di gioco **Orazio Russo**, consegnandogli la **fascia di capitano**.
+Il **16 maggio 2010**, in occasione dell'ultima giornata del campionato di Serie A 2009-2010 ([[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|la stagione della rimonta salvezza con Siniša Mihajlović]]), va in scena al Massimino una delle pagine più commoventi della storia etnea:
+- Al minuto 83 di Catania–Genoa (vinta 1-0 con rete di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]]), Mihajlović richiama in panchina il compagno e manda sul terreno di gioco **Orazio Russo**, consegnandogli la **fascia di capitano**.
 - Il boato dello stadio Cibali accoglie il trentaseienne attaccante di Misterbianco: è la sua **prima e unica presenza in Serie A con la maglia del Catania**, il coronamento del sogno di bambino coltivato per oltre vent'anni.
 - Con quel gettone, Orazio Russo diventa **l'unico atleta nella storia ad aver giocato con il Catania in Serie C2, Serie C1, Serie B e Serie A**, chiudendo contestualmente la propria carriera da calciatore professionista.
 
@@ -184,13 +184,13 @@ Il **16 maggio 2010**, in occasione dell'ultima giornata del campionato di Serie
 ## 5. La Seconda Vita: Team Manager, Tecnico della Primavera e Responsabile del Vivaio
 
 Appesi gli scarpini al chiodo il giorno successivo alla gara con il Genoa, Russo entra immediatamente nei quadri dirigenziali del club etneo:
-1. **Team Manager della Prima Squadra (2010–2014)**: lavora quotidianamente al fianco di tecnici come [[tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], [[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]], [[tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] e [[tesserati/allenatori/rolando-maran|Rolando Maran]], fungendo da collante fondamentale tra spogliatoio, dirigenza e città durante gli anni d'oro del record di 56 punti in Serie A.
+1. **Team Manager della Prima Squadra (2010–2014)**: lavora quotidianamente al fianco di tecnici come [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]], [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] e [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], fungendo da collante fondamentale tra spogliatoio, dirigenza e città durante gli anni d'oro del record di 56 punti in Serie A.
 2. **Carriera da Allenatore nel Settore Giovanile**:
-   - Vice-allenatore della prima squadra nel 2017 al fianco di Giovanni Pulvirenti.
+   - Vice-allenatore della prima squadra nel 2017 al fianco di [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]].
    - Tecnico degli Allievi Nazionali (2019–2021).
    - Allenatore della formazione **Primavera del Catania** (2018–2019 e 2021–2022), guidando i giovani rossazzurri anche durante i mesi drammatici dell'esercizio provvisorio e del fallimento societario, trasmettendo dignità sportiva e attaccamento alla maglia.
 3. **Responsabile del Settore Giovanile di Catania FC (2022–2026)**:
-   - Con la ripartenza ex Art. 52 NOIF voluta dall'imprenditore italo-australiano [[societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente Vincenzo Grella, Orazio Russo viene immediatamente richiamato al centro del progetto come punto di riferimento valoriale e coordinatore dell'intero vivaio rossazzurro, ricostruendo da zero la filiera delle formazioni giovanili etnee.
+   - Con la ripartenza ex Art. 52 NOIF voluta dall'imprenditore italo-australiano [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e dal vicepresidente Vincenzo Grella, Orazio Russo viene immediatamente richiamato al centro del progetto come punto di riferimento valoriale e coordinatore dell'intero vivaio rossazzurro, ricostruendo da zero la filiera delle formazioni giovanili etnee.
 
 ---
 
@@ -199,7 +199,7 @@ Appesi gli scarpini al chiodo il giorno successivo alla gara con il Genoa, Russo
 Il **14 febbraio 2026**, all'età di soli 52 anni, Orazio Russo si spegne a Catania dopo aver lottato con encomiabile riserbo e coraggio contro una grave malattia.
 
 La notizia suscita un'ondata di cordoglio oceanica che travolge l'intera Sicilia e il calcio italiano:
-- La [[tifoseria/curva-nord/index|Curva Nord]] e la [[tifoseria/curva-sud/index|Curva Sud]] gli dedicano striscioni storici allo stadio Massimino, ricordandolo come *"Il Figlio dell'Etna che non si è mai arreso"*.
+- La [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] gli dedicano striscioni storici allo stadio Massimino, ricordandolo come *"Il Figlio dell'Etna che non si è mai arreso"*.
 - Il Catania Football Club, la FIGC e tutti i club della sua carriera (Lecce, Acireale, Padova, SPAL) ne celebrano la levatura morale e la lealtà cristallina.
 - La figura di Orazio Russo rimane scolpita nella memoria popolare come il simbolo eterno del riscatto catanese: colui che ha toccato il fango delle categorie minori e il cielo della Serie A senza mai togliere dal cuore la maglia rossazzurra.
 

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1994-1995
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/pier-giuseppe-mosti.jpg
 image_credits:
 - image_path: assets/images/allenatori/pier-giuseppe-mosti.jpg
@@ -103,13 +103,13 @@ Pier Giuseppe Mosti, ex terzino di Pescara, Catania (1980-1985 con 168 presenze 
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò con abnegazione per riassemblare una rosa competitiva adatta al campionato interregionale prima di cedere il timone al vittorioso Angelo Busetta.
+Lavorò con abnegazione per riassemblare una rosa competitiva adatta al campionato interregionale prima di cedere il timone al vittorioso [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1994-1995\|1994-1995]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1994-1995\|1994-1995]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

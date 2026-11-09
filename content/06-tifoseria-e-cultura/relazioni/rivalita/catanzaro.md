@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1980
 origin_district: "Catania e Catanzaro"
 stadium_sector: "Curve Massimino e Curva Massimo Capraro Catanzaro"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Nicola Ceravolo"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Nicola Ceravolo"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -40,6 +40,14 @@ La rivalità tra il Catania e il **Catanzaro** è una delle più incandescenti e
 
 - **L'Episodio del Neutro di Crotone:** La tensione tra le due curve raggiunse l'apice nei primi anni Duemila in occasione di una trasferta in cui i catanesi si recavano a disputare una gara a campo neutro allo stadio Ezio Scida di Crotone. Lungo la dorsale autostradale calabrese, all'altezza di un'area di servizio, le carovane di sostenitori etnei e giallorossi vennero a contatto fisico, dando vita a violenti scontri con lancio di fumogeni e oggetti contundenti.
 - **Alleanze Incrociate:** L'odio sportivo è acuito dalla fraterna alleanza che lega il Catania al [[06-tifoseria-e-cultura/relazioni/gemellaggi/crotone|Crotone]], acerrimo rivale provinciale del Catanzaro. In numerose occasioni, inoltre, gli ultras catanzaresi si sono schierati sugli spalti al fianco di tifoserie campane rivali del Catania.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

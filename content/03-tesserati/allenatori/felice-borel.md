@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1958-1959
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/felice-borel.jpg
 image_credits:
 - image_path: assets/images/allenatori/felice-borel.jpg
@@ -102,13 +102,13 @@ Felice Borel II, detto «Farfallino», Campione del Mondo nel 1934 con l'Italia 
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò al fianco del giovane Carmelo Di Bella dalla 18ª alla 38ª giornata, contribuendo in modo decisivo alla crescita professionale del futuro recordman di presenze sulla panchina rossazzurra.
+Lavorò al fianco del giovane [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] dalla 18ª alla 38ª giornata, contribuendo in modo decisivo alla crescita professionale del futuro recordman di presenze sulla panchina rossazzurra.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1958-1959\|1958-1959]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

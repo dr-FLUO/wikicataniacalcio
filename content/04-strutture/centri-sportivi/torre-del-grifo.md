@@ -63,25 +63,39 @@ aliases:
 - stadio/acquisizione-torre-del-grifo-2025-2026
 ---
 
-![Veduta aerea del Centro Sportivo Torre del Grifo Village a Mascalucia](/assets/images/strutture-e-stadi/torre-del-grifo-village-aerea.jpg)
-*Panoramica aerea del complesso sportivo Torre del Grifo Village a Mascalucia*
+
 
 # Centro Sportivo Torre del Grifo Village (Mascalucia)
+
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp" data-caption="Centro Sportivo Torre del Grifo Village a Mascalucia · Ingresso e campi d'allenamento in erba naturale · Archivio Strutture Catania">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/strutture-e-stadi/centro-sportivo-torre-del-grifo-village-calcio-catania.webp" alt="Centro Sportivo Torre del Grifo Village" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-cyan">Torre del Grifo</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Torre del Grifo Village</span>
+    <span class="wiki-inset-photo__meta">Inaugurato il 18 maggio 2011 a Mascalucia</span>
+  </div>
+</div>
+
 
 Il **Centro Sportivo Polifunzionale Torre del Grifo Village**, situato nel comune etneo di **Mascalucia** ai piedi del vulcano Etna, ha rappresentato una delle strutture di allenamento, medicina dello sport e preparazione atletica più moderne e all'avanguardia del panorama calcistico italiano ed europeo, legando indissolubilmente la propria storia all'apogeo sportivo del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania in Serie A (2011–2014)]], al drammatico [[01-societa/vicende-legali/fallimento-2021-art52-noif|fallimento della matricola 11700 nel dicembre 2021]] e alla successiva storica rinascita con il riacquisto da parte del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC di Ross Pelligra]] nel 2025–2026.
 
 > [!info] Dati Dimensionali e Architettonici del Complesso
 > - **Superficie complessiva dell'area:** circa **150.000 metri quadrati** (15 ettari immersi nel parco lavico pedemontano di Mascalucia).
-> - **Data di inaugurazione:** **18 maggio 2011** (al termine del quinto campionato consecutivo in Serie A, concluso con la salvezza conquistata da Diego Pablo Simeone).
+> - **Data di inaugurazione:** **18 maggio 2011** (al termine del quinto campionato consecutivo in Serie A, concluso con la salvezza conquistata da [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]).
 > - **Dotazione sportiva:** **4 campi da calcio regolamentari** (due in erba naturale e due in erba sintetica di ultima generazione, dotati di tribune), **2 piscine coperte** (una olimpionica da 50 metri e una semi-olimpionica da 25 metri), centro polifunzionale di riabilitazione e fisioterapia, palestre, sale conferenze, sede sociale e **foresteria/hotel a 4 stelle** con oltre 50 camere per il ritiro permanente della prima squadra e del settore giovanile.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## 1. Caratteristiche Tecniche e Funzionali
 
 Progettato per dotare il club di un asset patrimoniale autonomo sul modello dei top club europei (sostituendo lo storico ma ormai angusto campo d'allenamento di Massannunziata), **Torre del Grifo Village** è stato concepito secondo un modello integrato ad altissima efficienza:
 
-1. **Area Agonistica Riservata (Prima Squadra e Giovanili):** Quattro terreni di gioco omologati a dimensioni standard (105×68 m), spogliatoi dedicati, sale video per l'analisi tattica, crioterapia e vasche idroterapiche riservate allo staff tecnico e ai calciatori (qui prepararono le stagioni dei record Rolando Maran, Vincenzo Montella e i campioni del *"Catania degli Argentini"* come Mariano Izco, Marco Biagianti, Francesco Lodi e Gonzalo Bergessio).
+1. **Area Agonistica Riservata (Prima Squadra e Giovanili):** Quattro terreni di gioco omologati a dimensioni standard (105×68 m), spogliatoi dedicati, sale video per l'analisi tattica, crioterapia e vasche idroterapiche riservate allo staff tecnico e ai calciatori (qui prepararono le stagioni dei record [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] e i campioni del *"Catania degli Argentini"* come [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]], [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]], [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] e [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]]).
 2. **Polo Natatorio, Fitness e Riabilitativo (Aperto al Territorio):** Un grande edificio polifunzionale aperto all'utenza esterna con piscine natatorie e riabilitative, centro medico convenzionato e aree wellness, pensato per generare ricavi ricorrenti indipendenti dai risultati agonistici.
 3. **Sede Sociale e Foresteria:** Gli uffici di presidenza e direzione generale, la sala stampa per le conferenze pre-gara e la struttura alberghiera interna.
 

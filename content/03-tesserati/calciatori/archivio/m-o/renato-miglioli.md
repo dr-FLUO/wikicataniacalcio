@@ -90,10 +90,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Renato Miglioli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Renato Miglioli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Biografia e Profilo Tecnico
 
 Centrocampista ed ala di grande tecnica, già bandiera di Atalanta e Inter. Approda al Club Calcio Catania nella Serie B 1952-1953 sfiorando la storica promozione in Serie A e regalando classe cristallina al pubblico del Cibali.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1952-1953, totalizzando **35 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Renato Miglioli*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Renato_Miglioli).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1996-1998
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/giovanni-mei.jpg
 image_credits:
 - image_path: assets/images/allenatori/giovanni-mei.jpg
@@ -112,7 +112,7 @@ Costruì una delle formazioni difensivamente più solide della categoria, valori
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1996-1997\|1996-1997]], [[stagioni/1997-1998\|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1996-1997\|1996-1997]], [[02-cronistoria/stagioni/1997-1998\|1997-1998]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

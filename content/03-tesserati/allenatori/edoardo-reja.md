@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2002-2003
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image: assets/images/allenatori/edoardo-reja.jpg
 image_credits:
 - image_path: assets/images/allenatori/edoardo-reja.jpg
@@ -123,7 +123,7 @@ Assunse l'incarico in una delle fasi più calde della stagione, culminata nella 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2002-2003\|2002-2003]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -94,7 +94,7 @@ tm_id: 28838
   </table>
 </div>
 
-**Christian Kanyengele** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Christian Kanyengele** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 
@@ -113,3 +113,10 @@ Ha vestito la gloriosa maglia rossazzurra nei periodi: 2001-2002, totalizzando *
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **1513 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **3 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Christian Kanyengele*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Christian_Kanyengele).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -9,7 +9,7 @@ entity_type: evento_tifo
 foundation_year: 2015
 origin_district: Catania, Piazza Cavour, Via Etnea e Piazza Duomo
 stadium_sector: Curva Sud, Curva Nord e Piazza Cittadina
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -60,7 +60,7 @@ aliases:
 
 La mattina del **23 giugno 2015**, la Procura della Repubblica di Catania e la locale Squadra Mobile e DIGOS della Polizia di Stato eseguirono sette ordinanze di custodia cautelare nell'ambito della celebre inchiesta giudiziaria denominata **"I treni del gol"**.
 
-L'indagine portò agli arresti domiciliari per truffa e frode in competizioni sportive (art. 1 L. 401/1989) del presidente del Calcio Catania **Antonino Pulvirenti**, dell'amministratore delegato **Pablo Cosentino**, del direttore sportivo Daniele Delli Carri e di vari intermediari del mondo delle scommesse clandestine, accertando l'avvenuta alterazione fraudolenta di almeno cinque match del campionato di Serie B 2014-2015 (Varese, Trapani, Latina, Ternana, Livorno) dietro il pagamento di circa 100.000 euro a partita per scongiurare la caduta in terza serie.
+L'indagine portò agli arresti domiciliari per truffa e frode in competizioni sportive (art. 1 L. 401/1989) del presidente del Calcio Catania **Antonino Pulvirenti**, dell'amministratore delegato **Pablo Cosentino**, del direttore sportivo Daniele Delli Carri e di vari intermediari del mondo delle scommesse clandestine, accertando l'avvenuta alterazione fraudolenta di almeno cinque match del campionato di Serie B [[02-cronistoria/stagioni/2014-2015|2014-2015]] (Varese, Trapani, Latina, Ternana, Livorno) dietro il pagamento di circa 100.000 euro a partita per scongiurare la caduta in terza serie.
 
 La notizia provocò un'ondata di indignazione senza precedenti tra la gente di Catania, sancendo la rottura immediata e irreversibile tra la dirigenza societaria e l'intera comunità dei sostenitori.
 
@@ -78,7 +78,7 @@ La notizia provocò un'ondata di indignazione senza precedenti tra la gente di C
 ## 1. La Reazione della Piazza: Il Grande Corteo di Piazza Cavour
 
 A differenza di altre piazze calcistiche che in analoghe circostanze tentarono di minimizzare o giustificare gli illeciti dei propri patron, il popolo rossazzurro assunse una postura di netta e intransigente condanna morale e civile:
-1. **La Mobilitazione del 25 Giugno 2015:** A quarantotto ore dagli arresti, oltre **cinquemila persone** — tra esponenti della [[tifoseria/curva-nord/index|Curva Nord]], della [[tifoseria/curva-sud/index|Curva Sud]], club di provincia, famiglie e anziani tifosi — si radunarono spontaneamente in **Piazza Cavour** (il tradizionale "Borgo").
+1. **La Mobilitazione del 25 Giugno 2015:** A quarantotto ore dagli arresti, oltre **cinquemila persone** — tra esponenti della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], club di provincia, famiglie e anziani tifosi — si radunarono spontaneamente in **Piazza Cavour** (il tradizionale "Borgo").
 2. **Il Corteo Lungo Via Etnea:** Un immenso corteo scese lungo la principale arteria cittadina senza scandire cori violenti ma intonando inni per la maglia rossazzurra e impugnando striscioni inequivocabili: *"Il Catania siamo noi, Pulvirenti e Cosentino mai più"*, *"La fede non si compra con i treni del gol"* e *"Difendiamo la matricola 11700"*.
 3. **Il Presidio al Palazzo Municipale:** La manifestazione raggiunse Piazza Duomo e si arrestò davanti a Palazzo degli Elefanti, chiedendo l'intervento del Sindaco di Catania e delle istituzioni locali affinché garantissero l'estromissione immediata di tutti i soggetti indagati dalla gestione della società.
 
@@ -88,7 +88,7 @@ A differenza di altre piazze calcistiche che in analoghe circostanze tentarono d
 
 Sul fronte della giustizia disciplinare, la FIGC intervenne con la massima celerità:
 - **La Confessione:** Dinanzi al Procuratore Federale Stefano Palazzi, Antonino Pulvirenti ammise gli addebiti, sostenendo di aver comprato le partite *"per salvare il Catania dalla retrocessione e tutelare gli investimenti societari"*.
-- **Le Sanzioni del Tribunale Federale Nazionale (TFN):** Con sentenza dell'agosto 2015 confermata dalla Corte Federale d'Appello, il Catania venne retrocesso all'ultimo posto del campionato di Serie B 2014-2015 e collocato in Lega Pro per la [[stagioni/2015-2016|Stagione 2015-2016]] con una pesante penalizzazione iniziale di **12 punti** (successivamente ridotta a -9 dal Collegio di Garanzia dello Sport del CONI) e un'ammenda pecuniaria di 150.000 euro.
+- **Le Sanzioni del Tribunale Federale Nazionale (TFN):** Con sentenza dell'agosto 2015 confermata dalla Corte Federale d'Appello, il Catania venne retrocesso all'ultimo posto del campionato di Serie B 2014-2015 e collocato in Lega Pro per la [[02-cronistoria/stagioni/2015-2016|Stagione 2015-2016]] con una pesante penalizzazione iniziale di **12 punti** (successivamente ridotta a -9 dal Collegio di Garanzia dello Sport del CONI) e un'ammenda pecuniaria di 150.000 euro.
 - **La Discesa nel Baratro:** La vicenda segnò l'inizio del tracollo finanziario ed economico dell'era Pulvirenti-Cosentino, innescando anni di agonia gestionale e contenziosi che avrebbero condotto al dissesto, al concordato preventivo e infine al fallimento del Calcio Catania S.p.A. nel dicembre 2021.
 
 ---

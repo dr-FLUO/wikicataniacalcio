@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1930
 origin_district: "Catania e Messina"
 stadium_sector: "Curve Massimino e Curva Sud Celeste / San Filippo"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio San Filippo / Celeste"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio San Filippo / Celeste"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -56,6 +56,14 @@ L'apice drammatico dell'odio sportivo si consumò il **17 giugno 2001**, durante
 - Dalla curva ospiti catanese venne scagliata una potente bomba carta che colpì alla testa il giovane tifoso messinese **Antonino "Tonino" Currò**, ventiquattro anni, causandone il decesso dopo giorni di agonia all'ospedale Papardo ([[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro|dossier evento]]).
 - La tragedia segnò una frattura insanabile tra le due comunità, portando negli anni successivi a frequenti divieti di trasferta e a una rigida militarizzazione dei derby.
 - **L'Inimicizia con Vicenza:** Di riflesso, la vicinanza della tifoseria del Messina a quella del **Vicenza** (storico gemellaggio peloritano) ha generato una dura ostilità dei catanesi anche nei confronti della piazza berica.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

@@ -57,7 +57,7 @@ Nel 2010 è tra gli autori principali di ***Tutto il Catania minuto per minuto**
 Nel suo percorso letterario spiccano inoltre:
 * ***Il Russo-Azzurro*** (Algra Editore, 2016), raccolta di racconti e ritratti memorialistici sui personaggi più iconici del pallone etneo.
 * La cura dell'***Antologia di racconti sul Calcio Catania*** (GEO Edizioni, 2017), in cui ha raccolto il contributo delle migliori penne sportive e culturali della città.
-* I saggi biografici dedicati ai campioni stranieri della storia etnea, in particolare al mediano tedesco Horst Szymaniak.
+* I saggi biografici dedicati ai campioni stranieri della storia etnea, in particolare al mediano tedesco [[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]].
 
 ---
 

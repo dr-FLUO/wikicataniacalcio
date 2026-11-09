@@ -109,7 +109,7 @@ tm_id: 39256
   </table>
 </div>
 
-**Sebastián Leto** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Sebastián Leto** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera
 
@@ -127,3 +127,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **2151 minuti** di gioco effettivo, siglando **6 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Sebastián Leto*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Sebasti%C3%A1n_Leto).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Sebastián Leto*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 805, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Leto-805).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -1192,7 +1192,7 @@ const NUMBERS_POOL: NumberStat[] = [
   {
     id: "dossier-vault-1656",
     kicker: "MONUMENTO DIGITALE",
-    digits: "1.656",
+    digits: "1.690",
     desc: "I dossier, tabellini e schede biografiche certificate (senza duplicati) consultabili in questo archivio.",
     href: "#storie-in-copertina",
   },
@@ -1258,7 +1258,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           </h1>
 
           <p class="nfc-hero-cover__deck">
-            L'archivio enciclopedico e memoriale d'inchiesta sul calcio a Catania: 1.656 dossier e schede
+            L'archivio enciclopedico e memoriale d'inchiesta sul calcio a Catania: 1.690 dossier e schede
             certificate, 95 stagioni complete con quadratura algebrica, tabellini storici, sentenze di
             diritto sportivo e memoria antropologica del tifo rossazzurro.
           </p>

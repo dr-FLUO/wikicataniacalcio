@@ -18,7 +18,7 @@ league_appearances: 110
 total_goals: 6
 league_goals: 7
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/alessio-castellini.jpg
 image_credits:
 - image_path: assets/images/calciatori/alessio-castellini.jpg
@@ -109,7 +109,7 @@ tm_id: 704283
   </table>
 </div>
 
-Nato a Brescia il **12 marzo 2003**, **Alessio Castellini** è il capitano, leader tecnico e autentica bandiera del nuovo corso del Catania Football Club avviato dalla presidenza di [[societa/presidenti/ross-pelligra|Ross Pelligra]].
+Nato a Brescia il **12 marzo 2003**, **Alessio Castellini** è il capitano, leader tecnico e autentica bandiera del nuovo corso del Catania Football Club avviato dalla presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -123,8 +123,8 @@ Cresciuto nel vivaio del Brescia, Castellini ha sposato il progetto catanese nel
 
 ## 2. Duttilità Tattica e Fascia di Capitano
 
-Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno della retroguardia, guidata prima da [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] (2024-2026) e poi da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] (2026-2027):
-* Nella [[stagioni/2026-2027|stagione 2026-2027]], confermato saldamente capitano e bandiera del club, Castellini ha tagliato il traguardo storico delle oltre 120 presenze ufficiali in rossazzurro a soli ventitré anni.
+Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno della retroguardia:
+* Nelle stagioni **2022-2023** e **2023-2024** ha collezionato complessivamente **84 presenze ufficiali e 6 reti** in maglia rossazzurra, indossando la fascia di capitano prima dei prestiti in Serie B a Pisa e Mantova (club a cui è stato ceduto a titolo definitivo nell'estate 2026).
 * La sua compostezza, le doti di leadership e la fedeltà alla maglia ne hanno fatto uno dei calciatori più amati e rispettati della storia recente del club.
 
 ---
@@ -143,13 +143,13 @@ Impiegabile indifferentemente come terzino sinistro, difensore centrale o perno 
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[02-cronistoria/stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore attuale]]
 * [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda: Compagno di squadra]]
 * [[03-tesserati/calciatori/archivio/s-z/stefano-sturaro|Stefano Sturaro: Ex compagno di reparto]]
 * [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Ex compagno di squadra]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
-* [[societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
+* [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano: Ex allenatore]]
+* [[01-societa/presidenti/ross-pelligra|Ross Pelligra: Il patron]]
 
 ---
 

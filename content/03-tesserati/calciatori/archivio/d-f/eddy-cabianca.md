@@ -5,9 +5,10 @@ description: Biografia, presenze e statistiche ufficiali di Eddy Cabianca, difen
 slug: 03-tesserati/calciatori/archivio/d-f/eddy-cabianca
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
-total_appearances: 5
+current_squad: true
+total_appearances: 6
 seasons_count: 1
 image: assets/images/calciatori/eddy-cabianca.jpg
 image_credits:
@@ -44,9 +45,9 @@ aliases:
 - calciatori/eddy-cabianca
 total_goals: 1
 total_assists: 0
-minutes_played: 315
+minutes_played: 405
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 960966
 ---
@@ -80,7 +81,7 @@ tm_id: 960966
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>5</td>
+        <td>6</td>
         <th>Goal / Assist</th>
         <td>1 / 0</td>
       </tr>
@@ -88,7 +89,7 @@ tm_id: 960966
   </table>
 </div>
 
-**Eddy Cabianca** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+**Eddy Cabianca** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -96,21 +97,21 @@ tm_id: 960966
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Difensore centrale | 5 | 1 | 0 | 0 | 0 | 315' |
-| **TOTALE** | — | **5** | **1** | **0** | **0** | **0** | **315'** |
+| **2026-2027** | Difensore centrale | 6 | 1 | 0 | 0 | 0 | 405' |
+| **TOTALE** | — | **6** | **1** | **0** | **0** | **0** | **405'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **315 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **405 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

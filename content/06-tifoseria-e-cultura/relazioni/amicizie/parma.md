@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2000
 origin_district: "Catania e Parma"
 stadium_sector: "Curve Massimino e Curva Nord Tardini"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Ennio Tardini"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Ennio Tardini"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -39,6 +39,14 @@ Un legame di profonda stima e lealtà sportiva unisce da oltre vent'anni gli ult
 
 - **Etica Ultras Tradizionale:** Sia i Boys Parma che i gruppi storici etnei condividono una matrice d'ispirazione classica, fondata sul rifiuto del calcio moderno, sull'autofinanziamento e sul senso di appartenenza rionale e cittadino.
 - **L'Omaggio a Ciccio Famoso (Febbraio 2017):** La conferma più toccante di questa amicizia è giunta nei giorni successivi alla scomparsa di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], quando i Boys Parma hanno esposto in Curva Nord al Tardini un significativo striscione di cordoglio e vicinanza verso gli ultras catanesi, testimoniando un rispetto che supera la distanza chilometrica tra Emilia e Sicilia.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

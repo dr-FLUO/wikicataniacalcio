@@ -19,7 +19,7 @@ league_appearances: 50
 total_goals: 12
 league_goals: 12
 club_entities:
-- '[[societa/1929-ss-catania|Associazione Fascista Calcio Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Associazione Fascista Calcio Catania]]'
 tags:
 - calciatori
 - centrocampisti
@@ -94,7 +94,7 @@ Nonostante il ruolo prettamente difensivo e di costruzione in mediana, Schillani
 
 > [!abstract] La Cerniera Mediana degli Anni Difficili
 > - **Leader Carismatico:** Punto fermo del centrocampo etneo con 54 presenze ufficiali tra il 1940 e il 1942.
-> - **Insolito Bomber:** Capocannoniere della squadra nella [[stagioni/1940-1941|Stagione 1940-1941]] con 7 reti.
+> - **Insolito Bomber:** Capocannoniere della squadra nella [[02-cronistoria/stagioni/1940-1941|Stagione 1940-1941]] con 7 reti.
 > - **Tenacia e Tattica:** Mediano infaticabile, abile nell'interdizione e nei tiri dalla media distanza.
 
 ---

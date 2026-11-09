@@ -21,7 +21,7 @@ total_goals: 19
 league_goals: 24
 serie_a_goals: 9
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -107,7 +107,7 @@ tm_id: 430429
   </table>
 </div>
 
-**Michele Manenti** (Milano, 28 ottobre 1928 – Milano, 30 agosto 1988) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1953**, entrò per sempre nella leggenda rossazzurra come il capocannoniere e trascinatore della prima storica promozione in **Serie A** nella [[stagioni/1953-1954|Stagione 1953-1954]].
+**Michele Manenti** (Milano, 28 ottobre 1928 – Milano, 30 agosto 1988) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1953**, entrò per sempre nella leggenda rossazzurra come il capocannoniere e trascinatore della prima storica promozione in **Serie A** nella [[02-cronistoria/stagioni/1953-1954|Stagione 1953-1954]].
 
 Centravanti di sfondamento, aggressivo sul pallone e freddo implacabile negli ultimi sedici metri, Manenti realizzò 15 reti nel torneo cadetto 1953-1954, formando con Bassetti e Marin un reparto d'attacco devastante orchestrato da Piero Andreoli.
 
@@ -122,7 +122,7 @@ Centravanti di sfondamento, aggressivo sul pallone e freddo implacabile negli ul
 
 ### La Gloria del 1954 e la Serie A 1954-1955
 
-Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patria, Verona e Cagliari, regalando al pubblico del Cibali la prima Serie A della storia cittadina. L'anno successivo, nel massimo campionato [[stagioni/1954-1955|1954-1955]], si confermò bomber di razza anche contro i giganti del calcio italiano, segnando **9 reti in 28 presenze** (tra cui doppiette decisive per la salvezza sul campo).
+Nella trionfale stagione 1953-1954 Manenti decise match cruciali contro Pro Patria, Verona e Cagliari, regalando al pubblico del Cibali la prima Serie A della storia cittadina. L'anno successivo, nel massimo campionato [[02-cronistoria/stagioni/1954-1955|1954-1955]], si confermò bomber di razza anche contro i giganti del calcio italiano, segnando **9 reti in 28 presenze** (tra cui doppiette decisive per la salvezza sul campo).
 
 ---
 

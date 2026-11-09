@@ -7,7 +7,7 @@ slug: 01-societa/dirigenti/pietro-lo-monaco
 entity_type: dirigente
 date_start: 2004-07-01
 date_end: 2019-11-25
-club_entity: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
+club_entity: '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. — Era Pulvirenti]]'
 figc_matricola: '11700'
 tags:
 - pietro-lo-monaco
@@ -41,26 +41,40 @@ aliases:
 - societa/presidenti/pietro-lo-monaco
 - societa/dirigenti/pietro-lo-monaco
 ---
-![Pietro Lo Monaco, storico amministratore delegato del Catania in Serie A — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp)
-*Pietro Lo Monaco, storico amministratore delegato del Catania in Serie A — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
+
 
 
 # Pietro Lo Monaco (Amministratore Delegato)
 
-**Pietro Lo Monaco** (Torre Annunziata, 16 ottobre 1954) è un dirigente sportivo ed ex calciatore italiano, figura cardine dell'**[[societa/2004-era-pulvirenti|Era Pulvirenti]]** in qualità di **amministratore delegato e direttore generale** del **Calcio Catania S.p.A.** (matricola FIGC 11700) in due distinti cicli: dal **luglio 2004 al maggio 2012** (tra Serie B e Serie A) e dal **giugno 2016 al novembre 2019** (in Serie C).
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp" data-caption="Pietro Lo Monaco, storico amministratore delegato artefice del ciclo della Serie A e di Torre del Grifo · Archivio Calcio Catania">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/presidenti-dirigenti/pietro-lo-monaco-calcio-catania-amministratore-delegato-2004-2012.webp" alt="Pietro Lo Monaco, amministratore delegato del Catania" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">Dirigente Serie A</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Pietro Lo Monaco</span>
+    <span class="wiki-inset-photo__meta">Amministratore Delegato e Direttore Generale (2004–2012, 2016–2020)</span>
+  </div>
+</div>
+
+
+**Pietro Lo Monaco** (Torre Annunziata, 16 ottobre 1954) è un dirigente sportivo ed ex calciatore italiano, figura cardine dell'**[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]** in qualità di **amministratore delegato e direttore generale** del **Calcio Catania S.p.A.** (matricola FIGC 11700) in due distinti cicli: dal **luglio 2004 al maggio 2012** (tra Serie B e Serie A) e dal **giugno 2016 al novembre 2019** (in Serie C).
 
 > [!abstract] L'Architetto del «Catania degli Argentini» e di Torre del Grifo
-> Nel suo primo mandato di otto anni (2004–2012), Pietro Lo Monaco ha costruito l'ossatura tecnica e patrimoniale che ha permesso al Catania di conquistare la promozione nella [[stagioni/2005-2006|Stagione 2005-2006]] e di consolidarsi stabilmente in **Serie A**, creando la rete di scouting sudamericana del **[[societa/catania-degli-argentini|Catania degli Argentini]]**, generando ingenti plusvalenze di bilancio (da Juan Manuel Vargas a Matías Silvestre, Jorge Martínez e Maxi López) e sovrintendendo alla realizzazione di **[[stadio/torre-del-grifo|Torre del Grifo Village]]**.
+> Nel suo primo mandato di otto anni (2004–2012), Pietro Lo Monaco ha costruito l'ossatura tecnica e patrimoniale che ha permesso al Catania di conquistare la promozione nella [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]] e di consolidarsi stabilmente in **Serie A**, creando la rete di scouting sudamericana del **[[01-societa/epoche/catania-degli-argentini|Catania degli Argentini]]**, generando ingenti plusvalenze di bilancio (da [[03-tesserati/calciatori/archivio/g-l/juan-manuel-vargas|Juan Manuel Vargas]] a [[03-tesserati/calciatori/storici/matias-silvestre|Matías Silvestre]], [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]] e [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]]) e sovrintendendo alla realizzazione di **[[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]]**.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## I Due Cicli Dirigenziali a Catania (2004–2012 e 2016–2019)
 
 | Periodo | Ruolo | Principali Operazioni Tecniche e Allenatori Scelti | Risultati Sportivi |
 | :--- | :--- | :--- | :--- |
-| **2004–2006** | Amministratore Delegato | Ingaggio di [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]], [[tesserati/calciatori/gionatha-spinesi\|Gionatha Spinesi]], Davide Baiocco, Fabio Caserta e conferma di [[tesserati/calciatori/giuseppe-mascara\|Giuseppe Mascara]]. | **2º posto in [[stagioni/2005-2006\|Serie B 2005-2006]] (78 pt) e Promozione in Serie A**. |
-| **2006–2012** | Amministratore Delegato | Nascita del **[[societa/catania-degli-argentini\|Catania degli Argentini]]** ([[tesserati/calciatori/mariano-izco\|Izco]], Andújar, Spolli, Barrientos, Gómez, [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]]) + [[tesserati/calciatori/marco-biagianti\|Biagianti]] e [[tesserati/calciatori/francesco-lodi\|Lodi]]; panchine a Zenga, Mihajlović, [[tesserati/allenatori/diego-pablo-simeone\|Simeone]] e Montella. | **6 salvezze consecutive in Serie A** con record progressivi di punti fino ai **48 punti** della [[stagioni/2011-2012\|Stagione 2011-2012]] (11º posto). |
-| **2016–2019** | Amministratore Delegato (2º ciclo) | Ritorno dopo il crollo di [[vicende-legali/treni-del-gol-2015\|Treni del Gol]]; panchine a Pino Rigoli, Cristiano Lucarelli e Andrea Sottil; battaglia legale sul [[vicende-legali/blocco-ripescaggi-2018\|blocco dei ripescaggi 2018]]. | Due semifinali Playoff consecutive di Serie C (2017-2018 col Siena e 2018-2019 col Trapani) prima delle dimissioni del novembre 2019. |
+| **2004–2006** | Amministratore Delegato | Ingaggio di [[03-tesserati/allenatori/pasquale-marino\|Pasquale Marino]], [[03-tesserati/calciatori/storici/gionatha-spinesi\|Gionatha Spinesi]], [[03-tesserati/calciatori/storici/davide-baiocco\|Davide Baiocco]], [[03-tesserati/calciatori/archivio/d-f/fabio-caserta\|Fabio Caserta]] e conferma di [[03-tesserati/calciatori/storici/giuseppe-mascara\|Giuseppe Mascara]]. | **2º posto in [[02-cronistoria/stagioni/2005-2006\|Serie B 2005-2006]] (78 pt) e Promozione in Serie A**. |
+| **2006–2012** | Amministratore Delegato | Nascita del **[[01-societa/epoche/catania-degli-argentini\|Catania degli Argentini]]** ([[03-tesserati/calciatori/storici/mariano-izco\|Izco]], Andújar, Spolli, Barrientos, Gómez, [[03-tesserati/calciatori/storici/gonzalo-bergessio\|Bergessio]]) + [[03-tesserati/calciatori/storici/marco-biagianti\|Biagianti]] e [[03-tesserati/calciatori/storici/francesco-lodi\|Lodi]]; panchine a Zenga, Mihajlović, [[03-tesserati/allenatori/diego-pablo-simeone\|Simeone]] e Montella. | **6 salvezze consecutive in Serie A** con record progressivi di punti fino ai **48 punti** della [[02-cronistoria/stagioni/2011-2012\|Stagione 2011-2012]] (11º posto). |
+| **2016–2019** | Amministratore Delegato (2º ciclo) | Ritorno dopo il crollo di [[01-societa/vicende-legali/treni-del-gol-2015\|Treni del Gol]]; panchine a Pino Rigoli, [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] e [[03-tesserati/allenatori/andrea-sottil\|Andrea Sottil]]; battaglia legale sul [[01-societa/vicende-legali/blocco-ripescaggi-2018\|blocco dei ripescaggi 2018]]. | Due semifinali Playoff consecutive di Serie C ([[02-cronistoria/stagioni/2017-2018\|2017-2018]] col Siena e [[02-cronistoria/stagioni/2018-2019\|2018-2019]] col Trapani) prima delle dimissioni del novembre 2019. |
 
 ---
 

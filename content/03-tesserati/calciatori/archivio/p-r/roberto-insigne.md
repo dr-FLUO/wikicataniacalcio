@@ -1,13 +1,14 @@
 ---
 title: Roberto Insigne — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Roberto Insigne, attaccante del Calcio Catania con 7 presenze
+description: Biografia, presenze e statistiche ufficiali di Roberto Insigne, attaccante del Calcio Catania con 9 presenze
   e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/roberto-insigne
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Attaccante
-total_appearances: 7
+current_squad: true
+total_appearances: 9
 seasons_count: 1
 tags:
 - calciatori
@@ -49,9 +50,9 @@ aliases:
 - calciatori/roberto-insigne
 total_goals: 3
 total_assists: 1
-minutes_played: 312
+minutes_played: 396
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 200174
 ---
@@ -85,7 +86,7 @@ tm_id: 200174
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>7</td>
+        <td>9</td>
         <th>Goal / Assist</th>
         <td>3 / 1</td>
       </tr>
@@ -93,7 +94,7 @@ tm_id: 200174
   </table>
 </div>
 
-**Roberto Insigne** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Roberto Insigne** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
@@ -101,21 +102,21 @@ tm_id: 200174
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Ala destra | 7 | 3 | 1 | 1 | 0 | 312' |
-| **TOTALE** | — | **7** | **3** | **1** | **1** | **0** | **312'** |
+| **2026-2027** | Ala destra | 9 | 3 | 1 | 1 | 0 | 396' |
+| **TOTALE** | — | **9** | **3** | **1** | **1** | **0** | **396'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **312 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **396 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

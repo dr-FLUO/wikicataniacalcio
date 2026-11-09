@@ -21,7 +21,7 @@ total_goals: 49
 league_goals: 47
 serie_a_goals: 20
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - marcatori
@@ -128,29 +128,29 @@ tm_id: 22126
   </table>
 </div>
 
-**Gionatha Spinesi**, soprannominato **"Il Gabbiano"** per la caratteristica esultanza a braccia spalancate (Pisa, 9 marzo 1978), è un ex calciatore italiano, di ruolo centravanti. Con **49 reti ufficiali in 143 presenze** tra il **2004 e il 2009**, occupa il **quarto posto assoluto nella classifica dei marcatori della storia del Catania** (alle spalle di [[tesserati/calciatori/nicolo-nicolosi|Nicolò Nicolosi]], [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] e [[tesserati/calciatori/francesco-lodi|Francesco Lodi]]). I suoi **23 gol realizzati nella [[stagioni/2005-2006|Stagione 2005-2006]]** rappresentano il record per un singolo campionato cadetto nella storia rossazzurra e il pilastro della promozione in Serie A firmata da [[tesserati/allenatori/pasquale-marino|Pasquale Marino]].
+**Gionatha Spinesi**, soprannominato **"Il Gabbiano"** per la caratteristica esultanza a braccia spalancate (Pisa, 9 marzo 1978), è un ex calciatore italiano, di ruolo centravanti. Con **49 reti ufficiali in 143 presenze** tra il **2004 e il 2009**, occupa il **quarto posto assoluto nella classifica dei marcatori della storia del Catania** (alle spalle di [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]], [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]). I suoi **23 gol realizzati nella [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]]** rappresentano il record per un singolo campionato cadetto nella storia rossazzurra e il pilastro della promozione in Serie A firmata da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]].
 
 ## I 23 Gol della Promozione in Serie A (2004–2006)
 
-Formatosi nel Pisa e messosi in mostra in Serie A e Serie B con il Bari (oltre che con Castel di Sangro e Arezzo), Gionatha Spinesi viene acquistato nell'estate del **2004** come primo grande colpo di mercato della nuova proprietà guidata da [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]]. Dopo una prima stagione di ambientamento in Serie B (2004-2005, 4 reti in 25 gare sotto Maurizio Costantini e Nedo Sonetti), esplode definitivamente con l'arrivo in panchina di [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] nell'estate 2005.
+Formatosi nel Pisa e messosi in mostra in Serie A e Serie B con il Bari (oltre che con Castel di Sangro e Arezzo), Gionatha Spinesi viene acquistato nell'estate del **2004** come primo grande colpo di mercato della nuova proprietà guidata da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]]. Dopo una prima stagione di ambientamento in Serie B (2004-2005, 4 reti in 25 gare sotto [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]] e [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]]), esplode definitivamente con l'arrivo in panchina di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] nell'estate 2005.
 
-Nella memorabile [[stagioni/2005-2006|Stagione 2005-2006]], indossando la maglia numero 24 al centro del tridente completato da [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]] (14 reti) e dai rifornimenti di Roberto De Zerbi, Davide Baiocco e Fabio Caserta, Spinesi trascina il Catania con **23 reti in 38 partite**. Le sue marcature decisive allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] e in trasferta (tra cui le doppiette a Brescia, Vicenza, Crotone e Cremonese e il gol nella sfida decisiva del **28 maggio 2006** contro l'Albinoleffe per 2-1) riportano il Catania in **Serie A dopo 22 anni**.
+Nella memorabile [[02-cronistoria/stagioni/2005-2006|Stagione 2005-2006]], indossando la maglia numero 24 al centro del tridente completato da [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] (14 reti) e dai rifornimenti di [[03-tesserati/calciatori/archivio/p-r/roberto-de-zerbi|Roberto De Zerbi]], [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]] e [[03-tesserati/calciatori/archivio/d-f/fabio-caserta|Fabio Caserta]], Spinesi trascina il Catania con **23 reti in 38 partite**. Le sue marcature decisive allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e in trasferta (tra cui le doppiette a Brescia, Vicenza, Crotone e Cremonese e il gol nella sfida decisiva del **28 maggio 2006** contro l'Albinoleffe per 2-1) riportano il Catania in **Serie A dopo 22 anni**.
 
 ## I 17 Gol nella Serie A 2006–2007 e le Stagioni Finali
 
-L'impatto di Spinesi con il ritorno nella massima serie nel campionato 2006-2007 è ancor più straordinario: l'attaccante pisano realizza **17 reti in 32 gare di Serie A**, firmando fin dall'esordio la doppietta che espugna Cagliari (0-1) e andando a segno contro [[partite/precedenti/palermo|Palermo]], Torino (tripletta nel 3-2 a Messina), Udinese, Sampdoria e Milan. I suoi gol permettono alla squadra di [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] di accumulare nel girone d'andata un tesoretto fondamentale per resistere al drammatico esilio in campo neutro a porte chiuse seguito ai [[vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]], centrando la salvezza a Bologna contro il Chievo (2-0).
+L'impatto di Spinesi con il ritorno nella massima serie nel campionato 2006-2007 è ancor più straordinario: l'attaccante pisano realizza **17 reti in 32 gare di Serie A**, firmando fin dall'esordio la doppietta che espugna Cagliari (0-1) e andando a segno contro [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo]], Torino (tripletta nel 3-2 a Messina), Udinese, Sampdoria e Milan. I suoi gol permettono alla squadra di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] di accumulare nel girone d'andata un tesoretto fondamentale per resistere al drammatico esilio in campo neutro a porte chiuse seguito ai [[01-societa/vicende-legali/decreto-2-febbraio-2007|fatti del 2 febbraio 2007]], centrando la salvezza a Bologna contro il Chievo (2-0).
 
-Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in carriera contro il Palermo tra Bari e Catania, e gol pesanti nella corsa salvezza con Silvio Baldini e Walter Zenga), prima di chiudere l'esperienza ai piedi dell'Etna e la propria carriera agonistica al termine della stagione 2008-2009 a causa di persistenti problemi al ginocchio, restando stabilmente a vivere a Catania.
+Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in carriera contro il Palermo tra Bari e Catania, e gol pesanti nella corsa salvezza con [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] e [[03-tesserati/allenatori/walter-zenga|Walter Zenga]]), prima di chiudere l'esperienza ai piedi dell'Etna e la propria carriera agonistica al termine della stagione 2008-2009 a causa di persistenti problemi al ginocchio, restando stabilmente a vivere a Catania.
 
 ### Dettaglio Statistico per Stagione nel Catania
 
 | Stagione | Società / Matricola | Categoria | Allenatore | Presenze Campionato | Reti Campionato | Coppa Italia (Reti) | Totale Presenze (Reti) |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: |
-| **2004-2005** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
-| **[[stagioni/2005-2006\|2005-2006]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
-| **2006-2007** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
-| **2007-2008** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
-| **2008-2009** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
+| **2004-2005** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | M. Costantini, N. Sonetti | 25 | 4 | 1 (1) | **26 (5)** |
+| **[[02-cronistoria/stagioni/2005-2006\|2005-2006]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie B | [[03-tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 38 | 23 | 1 (0) | **39 (23)** |
+| **2006-2007** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | [[03-tesserati/allenatori/pasquale-marino\|Pasquale Marino]] | 32 | 17 | 1 (0) | **33 (17)** |
+| **2007-2008** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | S. Baldini, W. Zenga | 32 | 3 | 5 (1) | **37 (4)** |
+| **2008-2009** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | Walter Zenga | 8 | 0 | 0 (0) | **8 (0)** |
 | **Totale Carriera** | **5 Stagioni (2004–2009)** | **Serie A / B** | — | **135 (72 A + 63 B)** | **47 (20 A + 27 B)** | **8 (2)** | **143 (49)** |
 
 ---
@@ -161,8 +161,8 @@ Nella stagione 2007-2008 aggiunge altre **3 reti in Serie A** (7 gol totali in c
 <summary><strong>Sintesi Statistica e Record in Maglia Rossazzurra</strong> (clicca per visualizzare i parametri e la quadratura)</summary>
 
 - **Reti Ufficiali nel Catania:** **49** (4º posto assoluto *all-time*; **47 reti in campionato** — 27 in Serie B e **20 in Serie A** — più 2 in Coppa Italia).
-- **Record Stagionale in Serie B:** **23 reti in 38 gare** nella [[stagioni/2005-2006|Serie B 2005-2006]] (vice-capocannoniere del torneo cadetto dietro a Cristian Bucchi).
-- **Prodezze in Serie A:** **17 reti in 32 presenze** nella Serie A 2006-2007, decisive per la prima storica salvezza dell'[[societa/2004-era-pulvirenti|Era Pulvirenti]].
+- **Record Stagionale in Serie B:** **23 reti in 38 gare** nella [[02-cronistoria/stagioni/2005-2006|Serie B 2005-2006]] (vice-capocannoniere del torneo cadetto dietro a [[03-tesserati/calciatori/archivio/a-c/cristian-bucchi|Cristian Bucchi]]).
+- **Prodezze in Serie A:** **17 reti in 32 presenze** nella Serie A 2006-2007, decisive per la prima storica salvezza dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 </details>
 

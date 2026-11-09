@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1936-1938
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 tags:
 - allenatori
 - anni-trenta
@@ -79,32 +79,6 @@ aliases:
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Pietro Colombati</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1897</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1936–1938</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Pietro Colombati** (Torino, Italia, 1897) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1936-1938**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -121,13 +95,13 @@ Pietro Colombati ha guidato l'AFC Catania tra il 1936 e il 1938, conducendo la s
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1936-1937 affrontò il campionato di Serie B con gli etnei, confermandosi all'inizio della stagione 1937-1938 in Serie C fino all'8ª giornata prima dell'avvicendamento con Giovanni Degni.
+Nel 1936-1937 affrontò il campionato di Serie B con gli etnei, confermandosi all'inizio della stagione 1937-1938 in Serie C fino all'8ª giornata prima dell'avvicendamento con [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1936-1937\|1936-1937]], [[stagioni/1937-1938\|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1936-1937\|1936-1937]], [[02-cronistoria/stagioni/1937-1938\|1937-1938]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

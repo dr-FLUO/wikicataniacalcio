@@ -12,7 +12,7 @@ cover_caption: Spettacolare colpo d'occhio notturno dello Stadio Angelo Massimin
   illuminato da torce, fumogeni e stendardi rossazzurri.
 cover_credit: Archivio Fotografico Wiki Catania Calcio · CC BY-SA 4.0
 image_credits:
-- image_path: quartz/static/images/photos/curva-nord-coreografia.jpg
+- image_path: /assets/images/curva-nord-coreografia.jpg
   alt_text: Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati
   author_or_archive: Archivio Storico Calcio Catania
   year: 2024
@@ -50,44 +50,44 @@ aliases:
 ---
 # Coreografie Storiche della Curva Nord allo Stadio Massimino
 
-Le coreografie monumentali della [[tifoseria/curva-nord/index|Curva Nord]] dello [[stadio/angelo-massimino|Stadio Angelo Massimino (Cibali)]] costituiscono una delle massime espressioni artistiche, visive e popolari del tifo organizzato italiano. Frutto di settimane di pianificazione geometrica, autofinanziamento popolare e notti di lavoro nei magazzini dei rioni (*Monte Po'*, *Librino*, *San Giorgio*, *Cibali*), le scenografie della gradinata settentrionale hanno accompagnato le pagine più gloriose della storia del Calcio Catania: dalla cavalcata trionfale della [[stagioni/2005-2006|promozione in Serie A nel 2006]] alle storiche sfide del [[tifoseria/rivalita/palermo|Derby di Sicilia]], fino al trionfo nella Coppa Italia Serie C del 2024.
+Le coreografie monumentali della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] costituiscono una delle massime espressioni artistiche, visive e popolari del tifo organizzato italiano. Frutto di settimane di pianificazione geometrica, autofinanziamento popolare e notti di lavoro nei magazzini dei rioni (*Monte Po'*, *Librino*, *San Giorgio*, *Cibali*), le scenografie della gradinata settentrionale hanno accompagnato le pagine più gloriose della storia del Calcio Catania: dalla cavalcata trionfale della [[02-cronistoria/stagioni/2005-2006|promozione in Serie A nel 2006]] alle storiche sfide del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]], fino al trionfo nella Coppa Italia Serie C del 2024.
 
-![Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati da torce e fumogeni rossazzurri — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](quartz/static/images/photos/curva-nord-coreografia.jpg)
+![Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati da torce e fumogeni rossazzurri — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/curva-nord-coreografia.jpg)
 *Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati da torce e fumogeni rossazzurri — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
 
 > [!abstract] L'Arte Effimera dell'Identità Rossazzurra
-> Più che un semplice accompagnamento visivo alla partita, la coreografia di curva si configura come un'opera di **arte effimera collettiva**. Attraverso teli monumentali dipinti a mano, mosaici di decine di migliaia di cartoncini coordinati, fumogenate ad anello e drappi metallizzati, la Curva Nord trasforma i gradoni di cemento in un immenso dipinto vivente, esaltando i colori araldici del fuoco dell'Etna (#d11317), del mare ionico (#0cb2d9) e il simbolo ancestrale del [[maglie/loghi-storici-liotru|Liotru]].
+> Più che un semplice accompagnamento visivo alla partita, la coreografia di curva si configura come un'opera di **arte effimera collettiva**. Attraverso teli monumentali dipinti a mano, mosaici di decine di migliaia di cartoncini coordinati, fumogenate ad anello e drappi metallizzati, la Curva Nord trasforma i gradoni di cemento in un immenso dipinto vivente, esaltando i colori araldici del fuoco dell'Etna (#d11317), del mare ionico (#0cb2d9) e il simbolo ancestrale del [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Liotru]].
 
 ---
 
 ## 1. Dalle Fumogenate Pionieristiche ai Mosaici degli Anni Novanta
 
-Negli anni Ottanta e nei primi anni Novanta, l'impatto visivo della [[tifoseria/curva-nord/index|Curva Nord]] — al pari della [[tifoseria/curva-sud/falange-d-assalto|Falange d'Assalto]] in [[tifoseria/curva-sud/index|Curva Sud]] — era incentrato sul dinamismo spontaneo:
+Negli anni Ottanta e nei primi anni Novanta, l'impatto visivo della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] — al pari della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] in [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] — era incentrato sul dinamismo spontaneo:
 - **Le Fumogenate a Giorno:** Batterie di decine di torce navali e fumogeni rossi e azzurri accesi contemporaneamente alla prima apparizione dei calciatori sul terreno di gioco, creando una cortina magmatica che avvolgeva l'intero settore settentrionale.
 - **Le Bandiere Cucite a Mano:** Migliaia di bandiere confezionate artigianalmente nelle case dei quartieri popolari, sventolate senza soluzione di continuità per tutta la durata dell'incontro.
 - **I Rotoli di Carta e i Coriandoli:** Quintali di rotoli di carta srotolati simultaneamente dalla sommità della gradinata verso il fossato, trasformando la curva in una cascata biancorossa e azzurra.
 
-Con la ristrutturazione dello stadio in vista delle Universiadi del 1997 e la fondazione dello storico gruppo [[tifoseria/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede (1998)]], la Curva Nord iniziò a sperimentare forme scenografiche più complesse e strutturate, basate su calcoli planimetrici dei seggiolini e cartoncini colorati.
+Con la ristrutturazione dello stadio in vista delle Universiadi del 1997 e la fondazione dello storico gruppo [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una fede (1998)]], la Curva Nord iniziò a sperimentare forme scenografiche più complesse e strutturate, basate su calcoli planimetrici dei seggiolini e cartoncini colorati.
 
 ---
 
 ## 2. Il Capolavoro della Promozione in Serie A (28 Maggio 2006)
 
-Il **28 maggio 2006**, nell'ultima e decisiva giornata del campionato di Serie B [[stagioni/2005-2006|2005-2006]], il Catania di [[tesserati/allenatori/pasquale-marino|Pasquale Marino]] affrontò l'AlbinoLeffe davanti a oltre 23.000 spettatori per conquistare la matematica certezza del ritorno in Serie A dopo ventitré anni di assenza.
+Il **28 maggio 2006**, nell'ultima e decisiva giornata del campionato di Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], il Catania di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] affrontò l'AlbinoLeffe davanti a oltre 23.000 spettatori per conquistare la matematica certezza del ritorno in Serie A dopo ventitré anni di assenza.
 
 Per l'occasione, la Curva Nord allestì una scenografia entrata nella leggenda del tifo rossazzurro:
 - **Il Drappo Simbolico:** Lungo la recinzione perimetrale superiore e inferiore comparve il monumentale messaggio rivolto alla rivale Torino (impegnata a distanza per la promozione diretta):  
   > ***«TORINO SVEGLIATI... IL SOGNO SI AVVERA»***
-- **La Marea di Bandiere e Cartoncini:** L'intero settore fu trasformato in un moto ondoso ininterrotto di grandi bandiere bicolori e stendardi storici, con un immenso drappo recante lo stemma cittadino sollevato al centro della curva. Al fischio finale e alla vittoria per 2-1 firmata da [[tesserati/calciatori/giuseppe-mascara|Peppe Mascara]] e Umberto Del Core, la curva si accese di decine di torce che illuminarono a giorno il cielo di Piazza Spedini.
+- **La Marea di Bandiere e Cartoncini:** L'intero settore fu trasformato in un moto ondoso ininterrotto di grandi bandiere bicolori e stendardi storici, con un immenso drappo recante lo stemma cittadino sollevato al centro della curva. Al fischio finale e alla vittoria per 2-1 firmata da [[03-tesserati/calciatori/storici/giuseppe-mascara|Peppe Mascara]] e [[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]], la curva si accese di decine di torce che illuminarono a giorno il cielo di Piazza Spedini.
 
 ---
 
 ## 3. L'Epoca d'Oro della Serie A e le Notti del Derby di Sicilia (2006–2014)
 
-Negli otto campionati consecutivi disputati nella massima divisione sotto l'[[societa/2004-era-pulvirenti|Era Pulvirenti]], la Curva Nord divenne celebre a livello nazionale per le sue scenografie nei derby regionali e nelle gare contro le grandi del calcio italiano:
+Negli otto campionati consecutivi disputati nella massima divisione sotto l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], la Curva Nord divenne celebre a livello nazionale per le sue scenografie nei derby regionali e nelle gare contro le grandi del calcio italiano:
 
 ### Il Telo Gigante del Liotru Vulcanico
-In occasione di un attesissimo derby casalingo contro il [[tifoseria/rivalita/palermo|Palermo]], la curva realizzò uno dei teli coprisettore più imponenti mai visti in Sicilia: un dipinto artigianale di oltre 60 metri per 30 raffigurante il **Liotru** con gli occhi infuocati che emergeva dalla lava incandescente dell'Etna, sormontato dal celebre motto latino attribuito alla fenice e a Catania:
+In occasione di un attesissimo derby casalingo contro il [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], la curva realizzò uno dei teli coprisettore più imponenti mai visti in Sicilia: un dipinto artigianale di oltre 60 metri per 30 raffigurante il **Liotru** con gli occhi infuocati che emergeva dalla lava incandescente dell'Etna, sormontato dal celebre motto latino attribuito alla fenice e a Catania:
 > ***«Melior de cinere surgo»*** *(Risorgo più bella dalle mie ceneri)*
 
 ### I Mosaici di Cartoncini a Tutto Settore
@@ -99,9 +99,9 @@ Contro Juventus, Inter e Milan, la Curva Nord perfezionò la tecnica dei mosaici
 
 ## 4. La Rinascita Post-2022 e il Trionfo di Coppa Italia (2024)
 
-Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curva Nord unificata sotto la sigla **Catania Curva Nord (CCN)** ha rinnovato la propria eccellenza scenografica a sostegno del [[societa/2022-pelligra-catania-fc|Catania FC]]:
+Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curva Nord unificata sotto la sigla **Catania Curva Nord (CCN)** ha rinnovato la propria eccellenza scenografica a sostegno del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]:
 
-- **L'Alba della Rinascita in Serie D (2022-2023):** Al debutto casalingo contro il San Luca, la Nord accolse la nuova era con una coreografia di cartoncini bicolori raffigurante l'antico stemma a scacchi rossazzurri, ribadendo la fedeltà eterna della piazza oltre ogni categoria.
+- **L'Alba della Rinascita in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]):** Al debutto casalingo contro il San Luca, la Nord accolse la nuova era con una coreografia di cartoncini bicolori raffigurante l'antico stemma a scacchi rossazzurri, ribadendo la fedeltà eterna della piazza oltre ogni categoria.
 - **La Notte di Gloria della Coppa Italia Serie C (2 Aprile 2024):** Nella finale di ritorno contro il Padova allo Stadio Angelo Massimino, la Curva Nord orchestrò una delle serate più suggestive del decennio:
   - Bandiere monumentali a due aste distribuite a tappeto lungo tutti i gradoni;
   - Spettacolo pirotecnico autorizzato e accensione sincronizzata di torce a luce rossa e azzurra che avvolsero lo stadio in un'atmosfera sudamericana;
@@ -113,10 +113,10 @@ Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curv
 
 | Data / Gara | Competizione | Tipologia Coreografica | Soggetto e Significato Identitario |
 | :--- | :--- | :--- | :--- |
-| **28 maggio 2006**<br>[[partite/2005-2006/catania-albinoleffe-2-1\|Catania-AlbinoLeffe 2-1]] | Serie B | Marea di bandiere, cartoncini e striscione gigante. | Celebrazione del ritorno in Serie A: *«Torino svegliati... il sogno si avvera»*. |
+| **28 maggio 2006**<br>[[02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1\|Catania-AlbinoLeffe 2-1]] | Serie B | Marea di bandiere, cartoncini e striscione gigante. | Celebrazione del ritorno in Serie A: *«Torino svegliati... il sogno si avvera»*. |
 | **2 marzo 2008**<br>Catania-Palermo 3-1 | Serie A | Telo monumentale coprisettore e cartoncini. | Raffigurazione del Liotru emergente dalle colate laviche dell'Etna con motto civico. |
-| **12 marzo 2010**<br>[[partite/2009-2010/catania-inter-3-1\|Catania-Inter 3-1]] | Serie A | Mosaico di cartoncini bicolori a tutto settore. | Scritta gigante **CATANIA** e cornice di plastiche metallizzate riflettenti. |
-| **28 settembre 2022**<br>Catania-San Luca 2-1 | Serie D | Mosaico e stendardi rionali unitari. | Apertura della nuova era societaria sotto la sigla [[tifoseria/curva-nord/index\|Catania Curva Nord (CCN)]]. |
+| **12 marzo 2010**<br>[[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1\|Catania-Inter 3-1]] | Serie A | Mosaico di cartoncini bicolori a tutto settore. | Scritta gigante **CATANIA** e cornice di plastiche metallizzate riflettenti. |
+| **28 settembre 2022**<br>Catania-San Luca 2-1 | Serie D | Mosaico e stendardi rionali unitari. | Apertura della nuova era societaria sotto la sigla [[06-tifoseria-e-cultura/settori/curva-nord/index\|Catania Curva Nord (CCN)]]. |
 | **2 aprile 2024**<br>Catania-Padova 4-2 d.t.s. | Finale Coppa Italia Serie C | Spettacolo notturno di torce, fumogeni e bandieroni. | Notte magica al Cibali culminata nella conquista della Coppa Italia di categoria. |
 
 ---

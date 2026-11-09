@@ -6,15 +6,15 @@ description: 'Tabellino e cronaca di Catania-Palermo 4-0 del 3 aprile 2011 al Ma
 slug: 02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0
 entity_type: tabellino_gara
 match_date: 2011-04-03
-season_ref: '[[societa/2004-era-pulvirenti|Serie A 2010-2011 (Era Pulvirenti)]]'
+season_ref: '[[01-societa/epoche/2004-era-pulvirenti|Serie A 2010-2011 (Era Pulvirenti)]]'
 competition: Serie A
 matchday: 31ª Giornata (12ª di ritorno)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]'
 attendance: 19136
 referee: Emidio Morganti (Ascoli Piceno)
-home_team: '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]]'
-away_team: '[[partite/precedenti/palermo|U.S. Città di Palermo]]'
-home_coach: '[[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]'
+home_team: '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]]'
+away_team: '[[02-cronistoria/partite-storiche/precedenti/palermo|U.S. Città di Palermo]]'
+home_coach: '[[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]'
 away_coach: Serse Cosmi
 score_home: 4
 score_away: 0
@@ -72,12 +72,12 @@ aliases:
 
 # Catania - Palermo 4-0 (3 Aprile 2011)
 
-Il [[partite/precedenti/palermo|Derby di Sicilia]] **Catania-Palermo (4-0)**, disputato domenica **3 aprile 2011** allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] di Catania davanti a **19.136 spettatori** per la 31ª giornata della Serie A 2010-2011, rappresenta la **più larga vittoria interna nella storia dei derby di massima divisione** del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]], bissando a due anni di distanza lo storico [[partite/2008-2009/palermo-catania-0-4|0-4 del Barbera dell'1 marzo 2009]].
+Il [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia]] **Catania-Palermo (4-0)**, disputato domenica **3 aprile 2011** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] di Catania davanti a **19.136 spettatori** per la 31ª giornata della Serie A 2010-2011, rappresenta la **più larga vittoria interna nella storia dei derby di massima divisione** del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]], bissando a due anni di distanza lo storico [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|0-4 del Barbera dell'1 marzo 2009]].
 
-Sotto la guida tecnica dell'argentino **[[tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]** (subentrato a gennaio a Marco Giampaolo), la formazione etnea travolse i rosanero di Serse Cosmi nella ripresa grazie a un'autorete di **Federico Balzaretti** (propiziata dall'aggressivo pressing di **[[tesserati/calciatori/francesco-lodi|Francesco Lodi]]**) e alle marcature di **[[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]]**, **Pablo Ledesma** e **Simone Pesce**, con il talentuoso contributo a gara in corso di **Alejandro *"Papu"* Gómez**.
+Sotto la guida tecnica dell'argentino **[[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]]** (subentrato a gennaio a [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]]), la formazione etnea travolse i rosanero di Serse Cosmi nella ripresa grazie a un'autorete di **Federico Balzaretti** (propiziata dall'aggressivo pressing di **[[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]**) e alle marcature di **[[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]]**, **[[03-tesserati/calciatori/archivio/p-r/pablo-ledesma|Pablo Ledesma]]** e **Simone Pesce**, con il talentuoso contributo a gara in corso di **Alejandro *"Papu"* Gómez**.
 
 > [!quote] Il Poker del Massimino e la Vendetta Perfetta
-> A distanza di venticinque mesi dall'epico poker corsaro a Palermo con il gol da centrocampo di [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]], il Catania del *Cholo* Simeone inflisse la medesima punizione calcistica (4-0) tra le mura amiche del Massimino. L'apoteosi rossazzurra scatenò il tripudio del popolo etneo, blindò la corsa verso la permanenza in Serie A (poi chiusa al 13º posto a quota **46 punti**, record assoluto del club fino a quel momento) e provocò l'immediato esonero del tecnico rosanero Serse Cosmi da parte del presidente Maurizio Zamparini.
+> A distanza di venticinque mesi dall'epico poker corsaro a Palermo con il gol da centrocampo di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], il Catania del *Cholo* Simeone inflisse la medesima punizione calcistica (4-0) tra le mura amiche del Massimino. L'apoteosi rossazzurra scatenò il tripudio del popolo etneo, blindò la corsa verso la permanenza in Serie A (poi chiusa al 13º posto a quota **46 punti**, record assoluto del club fino a quel momento) e provocò l'immediato esonero del tecnico rosanero Serse Cosmi da parte del presidente Maurizio Zamparini.
 
 ---
 
@@ -85,14 +85,14 @@ Sotto la guida tecnica dell'argentino **[[tesserati/allenatori/diego-pablo-simeo
 
 Alla 31ª giornata, il Catania di Simeone cercava punti vitali per staccarsi dalla zona calda della graduatoria, mentre il Palermo si presentava al Cibali con ambizioni europee, schierando il tandem d'attacco formato da Mauricio Pinilla e Abel Hernández, con Javier Pastore inizialmente in panchina:
 
-1. **Primo Tempo Equilibrato ed Elettrico:** la prima frazione fu caratterizzata da una strenua battaglia a centrocampo, con **Ezequiel Carboni** e il regista mancino **[[tesserati/calciatori/francesco-lodi|Francesco Lodi]]** (ingaggiato nel mercato invernale dal Frosinone) a dettare tempi e geometrie, supportati dall'intensità di **Ezequiel Schelotto** e **Adrián Ricchiuti**. Il Palermo fallì una clamorosa occasione con Hernández, mentre il pacchetto arretrato guidato da **Matías Silvestre** e **Nicolás Spolli** respinse ogni sortita ospite.
-2. **3' st (48' — 1-0 Autogol Federico Balzaretti):** in avvio di ripresa, sugli sviluppi di una percussione rossazzurra orchestrata da Lodi, Balzaretti tentò un incauto appoggio all'indietro di petto verso il portiere Salvatore Sirigu; il pallone scavalcò l'estremo difensore in uscita e terminò beffardamente in fondo al sacco sotto la [[tifoseria/curva-nord/index|Curva Nord]].
-3. **16' st (61' — 2-0 Gonzalo Bergessio):** sbandato il Palermo, Ricchiuti pennellò un corridoio verticale magistrale per l'inserimento in velocità di **[[tesserati/calciatori/gonzalo-bergessio|Gonzalo *"El Lavandina"* Bergessio]],** che freddò Sirigu in uscita con un preciso diagonale rasoterra di destro.
-4. **22' st (67' — 3-0 Pablo Ledesma):** subentrato appena due minuti prima a Bergessio, **Pablo Ledesma** fu il più lesto a piombare su una palla vagante in area di rigore dopo un'azione travolgente di Maxi López, insaccando il 3-0 (siglando il suo secondo gol personale in un derby dopo quello del 2009).
+1. **Primo Tempo Equilibrato ed Elettrico:** la prima frazione fu caratterizzata da una strenua battaglia a centrocampo, con **[[03-tesserati/calciatori/archivio/d-f/ezequiel-carboni|Ezequiel Carboni]]** e il regista mancino **[[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]** (ingaggiato nel mercato invernale dal Frosinone) a dettare tempi e geometrie, supportati dall'intensità di **[[03-tesserati/calciatori/archivio/d-f/ezequiel-schelotto|Ezequiel Schelotto]]** e **[[03-tesserati/calciatori/archivio/a-c/adrian-ricchiuti|Adrián Ricchiuti]]**. Il Palermo fallì una clamorosa occasione con Hernández, mentre il pacchetto arretrato guidato da **[[03-tesserati/calciatori/storici/matias-silvestre|Matías Silvestre]]** e **[[03-tesserati/calciatori/archivio/m-o/nicolas-spolli|Nicolás Spolli]]** respinse ogni sortita ospite.
+2. **3' st (48' — 1-0 Autogol Federico Balzaretti):** in avvio di ripresa, sugli sviluppi di una percussione rossazzurra orchestrata da Lodi, Balzaretti tentò un incauto appoggio all'indietro di petto verso il portiere Salvatore Sirigu; il pallone scavalcò l'estremo difensore in uscita e terminò beffardamente in fondo al sacco sotto la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]].
+3. **16' st (61' — 2-0 Gonzalo Bergessio):** sbandato il Palermo, Ricchiuti pennellò un corridoio verticale magistrale per l'inserimento in velocità di **[[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo *"El Lavandina"* Bergessio]],** che freddò Sirigu in uscita con un preciso diagonale rasoterra di destro.
+4. **22' st (67' — 3-0 Pablo Ledesma):** subentrato appena due minuti prima a Bergessio, **Pablo Ledesma** fu il più lesto a piombare su una palla vagante in area di rigore dopo un'azione travolgente di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], insaccando il 3-0 (siglando il suo secondo gol personale in un derby dopo quello del 2009).
 5. **31' st (76' — 4-0 Simone Pesce):** con gli innesti freschi di **Alejandro *"Papu"* Gómez** (entrato per Ricchiuti) e **Simone Pesce** (subentrato a Lodi), il Catania continuò ad attaccare a pieno organico; su cross teso dalla corsia mancina di Giovanni Marchese, Pesce controllò e disegnò un morbido e calibrato pallonetto di sinistro a scavalcare Sirigu, realizzando la sua prima rete assoluta in Serie A.
 
 > [!info] Disambiguazione Storica e Protagonisti: Lodi, Gómez e i Marcatori
-> Nella memoria popolare dei tifosi rossazzurri, la figura di **[[tesserati/calciatori/francesco-lodi|Francesco Lodi]]** è indissolubilmente associata alle punizioni balistiche magistrali che salvarono la squadra nel biennio 2011–2013 (inclusa la decisiva punizione-capolavoro nel successivo derby casalingo vinto **2-0 il 18 dicembre 2011** contro il Palermo di Mangia). Nel 4-0 del 3 aprile 2011, la regia illuminata e i velenosi calci piazzati di Lodi furono determinanti nell'indurre l'errore di Balzaretti al 48', mentre l'esplosività di **Alejandro Gómez** negli ultimi venti minuti mandò in tilt definitivo la retroguardia palermitana.
+> Nella memoria popolare dei tifosi rossazzurri, la figura di **[[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]]** è indissolubilmente associata alle punizioni balistiche magistrali che salvarono la squadra nel biennio 2011–2013 (inclusa la decisiva punizione-capolavoro nel successivo derby casalingo vinto **2-0 il 18 dicembre 2011** contro il Palermo di Mangia). Nel 4-0 del 3 aprile 2011, la regia illuminata e i velenosi calci piazzati di Lodi furono determinanti nell'indurre l'errore di Balzaretti al 48', mentre l'esplosività di **[[03-tesserati/calciatori/storici/alejandro-gomez|Alejandro Gómez]]** negli ultimi venti minuti mandò in tilt definitivo la retroguardia palermitana.
 
 ---
 
@@ -101,10 +101,10 @@ Alla 31ª giornata, il Catania di Simeone cercava punti vitali per staccarsi dal
 | Voce | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
 | **Data e Competizione** | Domenica **3 aprile 2011**, ore 15:00 — Serie A 2010-2011 (31ª giornata) |
-| **Impianto e Spettatori** | [[stadio/angelo-massimino\|Stadio Angelo Massimino]], Catania — **19.136 spettatori** (8.708 paganti, 10.428 abbonati) |
+| **Impianto e Spettatori** | [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Angelo Massimino]], Catania — **19.136 spettatori** (8.708 paganti, 10.428 abbonati) |
 | **Arbitro** | Emidio Morganti della sezione AIA di Ascoli Piceno |
-| **Marcatori** | **3' st aut. Balzaretti** (P, pro Catania), **16' st [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]]** (C), **22' st P. Ledesma** (C), **31' st Pesce** (C) |
-| **Formazione Catania (4-2-3-1)** | Andújar; Pablo Álvarez, Silvestre, Spolli, Marchese; Carboni, [[tesserati/calciatori/francesco-lodi\|Lodi]] (25' st Pesce); Schelotto, Ricchiuti (24' st A. Gómez), [[tesserati/calciatori/gonzalo-bergessio\|Bergessio]] (20' st P. Ledesma); Maxi López. — *A disp.:* Campagnolo, Terlizzi, Augustyn, Morimoto. — **All.:** [[tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]]. |
+| **Marcatori** | **3' st aut. Balzaretti** (P, pro Catania), **16' st [[03-tesserati/calciatori/storici/gonzalo-bergessio\|Bergessio]]** (C), **22' st P. Ledesma** (C), **31' st Pesce** (C) |
+| **Formazione Catania (4-2-3-1)** | Andújar; Pablo Álvarez, Silvestre, Spolli, Marchese; Carboni, [[03-tesserati/calciatori/storici/francesco-lodi\|Lodi]] (25' st Pesce); Schelotto, Ricchiuti (24' st A. Gómez), [[03-tesserati/calciatori/storici/gonzalo-bergessio\|Bergessio]] (20' st P. Ledesma); Maxi López. — *A disp.:* Campagnolo, Terlizzi, Augustyn, Morimoto. — **All.:** [[03-tesserati/allenatori/diego-pablo-simeone\|Diego Pablo Simeone]]. |
 | **Formazione Palermo (3-5-2)** | Sirigu; Muñoz, Goian, Bovo; Cassani, Migliaccio, Bačinović (7' st Pastore), Nocerino, Balzaretti; Pinilla, Hernández. — *A disp.:* Benussi, Anđelković, Darmian, Acquah, Kurtić, Miccoli. — **All.:** Serse Cosmi. |
 | **Provvedimenti Disciplinari** | **Ammoniti:** Silvestre (C); Muñoz (P), Migliaccio (P), Hernández (P), Pastore (P). |
 | **Note Tattiche** | Al termine della gara il presidente del Palermo Maurizio Zamparini esonera il tecnico Serse Cosmi, richiamando Delio Rossi. |

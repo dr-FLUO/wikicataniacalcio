@@ -58,7 +58,7 @@ La linea editoriale di *Unica Sport* — guidata dal direttore responsabile **Fe
 
 Il momento di massima affermazione comunitaria e storiografica del progetto è coinciso con la stagione della rinascita del calcio a Catania:
 
-* **La Cavalcata Trionfale tra i Dilettanti**: A seguito del fallimento della matricola storica 11700 e della ripartenza dal campionato di Serie D 2022-2023 sotto la guida del gruppo Pelligra, la troupe di *Unica Sport* ha seguito e documentato capillarmente ogni singola tappa della cavalcata trionfale della squadra di Giovanni Ferraro, garantendo una copertura audiovisiva completa anche nei campi più remoti di Sicilia e Calabria.
+* **La Cavalcata Trionfale tra i Dilettanti**: A seguito del fallimento della matricola storica 11700 e della ripartenza dal campionato di Serie D [[02-cronistoria/stagioni/2022-2023|2022-2023]] sotto la guida del gruppo Pelligra, la troupe di *Unica Sport* ha seguito e documentato capillarmente ogni singola tappa della cavalcata trionfale della squadra di [[03-tesserati/allenatori/giovanni-ferraro|Giovanni Ferraro]], garantendo una copertura audiovisiva completa anche nei campi più remoti di Sicilia e Calabria.
 * **La Pubblicazione del Volume "Una Stagione Unica 2022/2023"**: Al termine del campionato, la redazione ha pubblicato l'almanacco fotografico e statistico intitolato ***Una Stagione Unica 2022/2023***: un'opera editoriale a colori che raccoglie oltre duecento pagine di scatti esclusivi, tabellini di gara, resoconti e retroscena d'archivio, entrata a far parte della bibliografia documentaria contemporanea del club etneo.
 
 ---

@@ -46,7 +46,7 @@ Sotto la direzione di Giannotta, *TuttoCalcioCatania.com* ha sviluppato un model
 
 ## 2. Il Racconto della Rinascita del Club
 
-Giannotta ha guidato la testata lungo le stagioni più tormentate del club, offrendo una copertura rigorosa e documentata sia nei mesi del fallimento societario del 2021-2022 sia nella stagione del trionfo in Serie D (2022-2023).
+Giannotta ha guidato la testata lungo le stagioni più tormentate del club, offrendo una copertura rigorosa e documentata sia nei mesi del fallimento societario del [[02-cronistoria/stagioni/2021-2022|2021-2022]] sia nella stagione del trionfo in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]).
 
 Nel corso della stagione 2026/2027 in Serie C, la testata continua a rappresentare un punto di riferimento per l'aggiornamento minuto per minuto delle vicende rossazzurre, dialogando con i colleghi delle televisioni e dei portali storici etnei.
 

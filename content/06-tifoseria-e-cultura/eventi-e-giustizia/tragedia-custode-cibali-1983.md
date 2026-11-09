@@ -6,7 +6,7 @@ entity_type: "evento_giudiziario"
 foundation_year: 1983
 origin_district: "Stadio Cibali - Gradinate Curva Sud (Catania)"
 stadium_sector: "Curva Sud (Alloggio di servizio)"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -52,7 +52,7 @@ Per comprendere l'incredibile genesi della tragedia occorre considerare la pecul
 
 ## 2. La Follia delle 16:30: Gli Spari sulla Folla
 
-Il 12 giugno 1983 lo stadio Cibali era colmo all'inverosimile con oltre 35.000 spettatori: il Catania di Gianni Di Marzio si giocava l'accesso agli spareggi per la Serie A.
+Il 12 giugno 1983 lo stadio Cibali era colmo all'inverosimile con oltre 35.000 spettatori: il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] si giocava l'accesso agli spareggi per la Serie A.
 
 Alle **ore 16:30 esatte**, esasperato dall'ennesima pioggia di insulti e oggetti piovuta dagli spalti fin dentro il cortile dell'alloggio, Angelo Grasso perse completamente il lume della ragione:
 1. Rientrò in casa, imbracciò il proprio **fucile da caccia calibro 12** a canne mozze regolarmente denunciato e uscì all'esterno.

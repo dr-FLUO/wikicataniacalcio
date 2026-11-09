@@ -61,7 +61,7 @@ Il passaggio centrale che lega la pellicola alla storia del club etneo si svolge
 L'aspetto più affascinante dell'opera risiede nella perfetta aderenza con la cronaca sportiva dell'epoca, che il regista Sergio Martino e gli sceneggiatori (tra cui Romolo Guerrieri e Franco Verucci) vollero immortalare a caldo:
 
 * **La Serie A Conquistata a Roma**: Fresco della promozione in Serie A ottenuta agli spareggi dell'Olimpico di Roma nel giugno 1983 davanti a oltre 40.000 tifosi, il presidente Angelo Massimino decise di compiere un investimento clamoroso per allestire una squadra competitiva.
-* **L'Arrivo di Pedrinho e Luvanor**: Nell'estate del 1983 il Catania acquistò effettivamente dal Vasco da Gama il terzino sinistro della Nazionale brasiliana **Pedrinho** (Pedro Luís Vicençote) e dal Goiás la talentuosa mezzala **Luvanor** (Luvanor Donizete Borges), battendo sul tempo società metropolitane ben più blasonate.
+* **L'Arrivo di Pedrinho e Luvanor**: Nell'estate del 1983 il Catania acquistò effettivamente dal Vasco da Gama il terzino sinistro della Nazionale brasiliana **Pedrinho** (Pedro Luís Vicençote) e dal Goiás la talentuosa mezzala **Luvanor** ([[03-tesserati/calciatori/archivio/g-l/luvanor-donizete-borges|Luvanor Donizete Borges]]), battendo sul tempo società metropolitane ben più blasonate.
 * **L'Entusiasmo di Piazza**: L'approdo dei due carioca all'Aeroporto di Fontanarossa scatenò un delirio popolare con migliaia di tifosi assiepati per accoglierli, trasformando l'operazione in uno dei massimi argomenti di dibattito sportivo dell'estate '83 sui quotidiani nazionali (*La Gazzetta dello Sport*, *Corriere dello Sport*).
 
 ---
@@ -83,7 +83,7 @@ A distanza di oltre quattro decenni dall'uscita, la scena dell'Hotel Executive h
 * **Casa di Produzione:** Dania Film, Filmes International
 * **Distribuzione (Italia):** VIP International (1984)
 * **Interpreti e Personaggi Principali:** Lino Banfi (Oronzo Canà), Licinia Lentini (signora Borlotti), Camillo Milli (presidente Borlotti), Giuliana Calandra (Mara Canà), Gino Pagnani (presidente del Catania), Gigi e Andrea (Giginho e Bergonzoni).
-* **Partecipazioni Speciali del Calcio Reale:** Gianni Di Marzio, Nils Liedholm, Giancarlo De Sisti, Roberto Pruzzo, Francesco Graziani, Zico, Carlo Ancelotti, Odoacre Chierico.
+* **Partecipazioni Speciali del Calcio Reale:** Gianni Di Marzio, Nils Liedholm, Giancarlo De Sisti, Roberto Pruzzo, [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]], Zico, Carlo Ancelotti, Odoacre Chierico.
 * **Anno:** 1984
 * **Durata:** 98 min
 * **Genere:** Commedia sportiva

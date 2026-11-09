@@ -18,7 +18,7 @@ league_appearances: 71
 total_goals: 27
 league_goals: 26
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image_credits:
 - image_path: assets/images/calciatori/luis-oliveira.jpg
   alt_text: Ritratto ufficiale di Luis Oliveira in maglia rossazzurra
@@ -113,7 +113,7 @@ tm_id: 22087
 
 **Luís Airton Oliveira Barroso**, universalmente noto come **"Lulù" Oliveira** (Faveira, 24 marzo 1969), è un allenatore di calcio ed ex calciatore brasiliano naturalizzato belga, nel ruolo di attaccante. Acquistato dal presidente Luciano Gaucci nell'estate del **2002** per celebrare il ritorno in Serie B, rappresentò uno dei colpi di mercato più prestigiosi della storia etnea.
 
-Attaccante completo, scattante, capace di calciare con entrambi i piedi e di inventare gol spettacolari, fu il capocannoniere del Catania sia nella burrascosa [[stagioni/2002-2003|Stagione 2002-2003]] (13 reti in 34 presenze) sia nella successiva [[stagioni/2003-2004|Stagione 2003-2004]] (13 reti in 37 gare) al fianco del giovane [[tesserati/calciatori/giuseppe-mascara|Giuseppe Mascara]].
+Attaccante completo, scattante, capace di calciare con entrambi i piedi e di inventare gol spettacolari, fu il capocannoniere del Catania sia nella burrascosa [[02-cronistoria/stagioni/2002-2003|Stagione 2002-2003]] (13 reti in 34 presenze) sia nella successiva [[02-cronistoria/stagioni/2003-2004|Stagione 2003-2004]] (13 reti in 37 gare) al fianco del giovane [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]].
 
 > [!abstract] Il Falco Belga-Brasiliano dalle Capriole al Cibali
 > - **28 Reti in Due Campionati Cadetti:** 13 reti nel 2002-2003 e 13 reti nel 2003-2004 di Serie B.

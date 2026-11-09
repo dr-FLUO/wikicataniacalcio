@@ -97,7 +97,7 @@ tm_id: 227402
   </table>
 </div>
 
-**Maurizio Giovannelli** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Maurizio Giovannelli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -116,3 +116,11 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **95 presenze ufficiali**, disputando **8056 minuti** di gioco effettivo, siglando **2 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Maurizio Giovannelli*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Maurizio_Giovannelli).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.
+3. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Maurizio Giovanelli*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 464, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Giovanelli-464).

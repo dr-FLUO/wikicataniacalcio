@@ -41,13 +41,13 @@ aliases:
 
 # L'Esodo di Bologna (28 Maggio 2006): I Dodicimila del Dall'Ara e il Ritorno in Serie A
 
-Il **28 maggio 2006** rappresenta una delle date più radiose e memorabili nella storia moderna del tifo rossazzurro. In occasione della quarantaduesima e ultima giornata del campionato di Serie B 2005-2006, oltre **dodicimila sostenitori del Catania** si riversarono allo **Stadio Renato Dall'Ara di Bologna** per assistere a Catania-AlbinoLeffe (disputata in campo neutro per squalifica dello Stadio Massimino a seguito dei disordini nel derby col Catanzaro).
+Il **28 maggio 2006** rappresenta una delle date più radiose e memorabili nella storia moderna del tifo rossazzurro. In occasione della quarantaduesima e ultima giornata del campionato di Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], oltre **dodicimila sostenitori del Catania** si riversarono allo **Stadio Renato Dall'Ara di Bologna** per assistere a Catania-AlbinoLeffe (disputata in campo neutro per squalifica dello Stadio Massimino a seguito dei disordini nel derby col Catanzaro).
 
 ---
 
 ## 1. La Mobilitazione Oceanica Verso l'Emilia
 
-La posta in palio era immensa: una vittoria avrebbe garantito al club guidato dal presidente Antonino Pulvirenti, dal direttore Pietro Lo Monaco e dal tecnico Pasquale Marino la certezza matematica del secondo posto e la **promozione diretta in Serie A dopo ventidue anni di assenza** (dalla stagione 1983-1984):
+La posta in palio era immensa: una vittoria avrebbe garantito al club guidato dal presidente Antonino Pulvirenti, dal direttore Pietro Lo Monaco e dal tecnico [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] la certezza matematica del secondo posto e la **promozione diretta in Serie A dopo ventidue anni di assenza** (dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]):
 - Nonostante la distanza e la designazione del campo neutro a Bologna a sole due settimane dall'evento, la tifoseria organizzata di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]] e l'intero popolo rossazzurro diedero vita a una mobilitazione logistica senza precedenti:
   - Furono allestiti treni speciali diretti dalla Stazione Centrale di Catania verso Bologna Centrale;
   - Decine di voli charter decollarono da Fontanarossa verso gli aeroporti di Bologna-Borgo Panigale, Forlì e Rimini;
@@ -60,7 +60,7 @@ La posta in palio era immensa: una vittoria avrebbe garantito al club guidato da
 
 Allo stadio Dall'Ara l'atmosfera fu quella di una partita casalinga giocata a mille chilometri dalle pendici dell'Etna:
 - La **Curva San Luca** e l'intera tribuna opposta si tinsero interamente di rosso e azzurro, con stendardi, pezze rionali e tamburi che coprirono d'entusiasmo ogni settore dello storico impianto emiliano.
-- Il match contro l'AlbinoLeffe fu vibrante: il Catania sbloccò il risultato al 15' con un magistrale gol di testa del bomber **Gionatha Spinesi** su cross di Umberto Del Core, raddoppiando all'inizio della ripresa proprio con un colpo sotto di Del Core.
+- Il match contro l'AlbinoLeffe fu vibrante: il Catania sbloccò il risultato al 15' con un magistrale gol di testa del bomber **[[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]]** su cross di [[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]], raddoppiando all'inizio della ripresa proprio con un colpo sotto di Del Core.
 - Il temporaneo accorcio bergamasco non frenò l'urlo liberatorio: al triplice fischio dell'arbitro Farina di Novi Ligure scoppiò l'apoteosi, con l'invasione pacifica di campo dei tifosi che abbracciarono giocatori e staff in lacrime.
 
 ---

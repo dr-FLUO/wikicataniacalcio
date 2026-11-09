@@ -1,14 +1,14 @@
 ---
 title: Edoardo Masciangelo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Edoardo Masciangelo, difensore del Calcio Catania con 8 presenze
+description: Biografia, presenze e statistiche ufficiali di Edoardo Masciangelo, difensore del Calcio Catania con 10 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/edoardo-masciangelo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
 current_squad: true
-total_appearances: 8
+total_appearances: 10
 seasons_count: 1
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 4
-minutes_played: 582
+minutes_played: 674
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 286293
 ---
@@ -94,7 +94,7 @@ tm_id: 286293
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>8</td>
+        <td>10</td>
         <th>Goal / Assist</th>
         <td>0 / 4</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 286293
   </table>
 </div>
 
-**Edoardo Masciangelo** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Edoardo Masciangelo** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -110,21 +110,21 @@ tm_id: 286293
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Terzino sinistro | 8 | 0 | 4 | 0 | 1 | 582' |
-| **TOTALE** | — | **8** | **0** | **4** | **0** | **1** | **582'** |
+| **2026-2027** | Terzino sinistro | 10 | 0 | 4 | 1 | 1 | 674' |
+| **TOTALE** | — | **10** | **0** | **4** | **1** | **1** | **674'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **582 minuti** di gioco effettivo, siglando **0 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **674 minuti** di gioco effettivo, siglando **0 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

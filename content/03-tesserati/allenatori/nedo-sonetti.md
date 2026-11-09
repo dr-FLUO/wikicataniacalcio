@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2004-2005
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/allenatori/nedo-sonetti.jpg
   alt_text: Ritratto ufficiale di Nedo Sonetti in maglia rossazzurra
@@ -102,32 +102,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Nedo Sonetti</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1941</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2004–2005</strong> (dal 31/10/2004 al 30/06/2005)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>31</td>
-        <th>Media Punti</th>
-        <td>1,29</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Nedo Sonetti** (Piombino (LI), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -144,13 +118,13 @@ Nedo Sonetti, decano dei tecnici italiani e autentico specialista delle panchine
 
 ## 2. La Conduzione Tecnica del Catania
 
-Riorganizzò la difesa e valorizzò elementi cardine come Pantanelli, Cesar e Silvestri, preparando il terreno per l'arrivo di Pasquale Marino e la promozione dell'anno successivo.
+Riorganizzò la difesa e valorizzò elementi cardine come Pantanelli, Cesar e Silvestri, preparando il terreno per l'arrivo di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] e la promozione dell'anno successivo.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

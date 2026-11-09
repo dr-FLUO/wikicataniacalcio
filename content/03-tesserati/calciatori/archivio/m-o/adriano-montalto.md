@@ -18,7 +18,7 @@ league_appearances: 30
 total_goals: 3
 league_goals: 7
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/adriano-montalto.jpg
 image_credits:
 - image_path: assets/images/calciatori/adriano-montalto.jpg
@@ -114,7 +114,7 @@ Nato a Erice il **6 aprile 1988**, **Adriano Montalto** è un attaccante central
 
 Conosciuto nell'ambiente calcistico con il soprannome di *"Tagliagole"* per la sua grinta agonistica, Montalto vanta oltre quindici anni di carriera tra Serie B e Serie C:
 * Ha vestito le maglie di Ternana (con cui stabilì il record di 20 reti in Serie B nel 2017-2018, segnando anche 4 gol in una singola gara contro la Pro Vercelli), Cremonese, Venezia, Bari, Reggina e Reggiana.
-* Ha già lavorato con il tecnico [[tesserati/allenatori/domenico-toscano|Domenico Toscano]] alla Reggina, conquistando la promozione in Serie B.
+* Ha già lavorato con il tecnico [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] alla Reggina, conquistando la promozione in Serie B.
 
 ---
 
@@ -139,11 +139,11 @@ Approdato a Catania nell'estate del **2024**:
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
-* [[stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
+* [[02-cronistoria/stagioni/2024-2025|Stagione 2024-2025 del Catania FC]]
+* [[02-cronistoria/stagioni/2025-2026|Stagione 2025-2026 del Catania FC]]
 * [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese: Compagno di reparto]]
-* [[tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
-* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino]]
+* [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano: Allenatore]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Lo Stadio Angelo Massimino]]
 
 ---
 

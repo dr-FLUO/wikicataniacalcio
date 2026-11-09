@@ -7,20 +7,6 @@ slug: 08-settori-paralleli/women
 entity_type: section_index
 status: verified
 last_verified_date: 2026-10-30
-image: assets/images/femminile/scudetto-jolly-catania-1978.jpg
-image_credits:
-- image_path: assets/images/femminile/scudetto-jolly-catania-1978.jpg
-  alt_text: La formazione della Jolly Componibili Catania Campione d'Italia 1978 allo
-    Stadio Cibali
-  author_or_archive: Archivio Storico Famiglia Cutispoti
-  year: 1978
-  license_type: Pubblico Dominio Italia (Art. 92 L. 633/1941 - >20 anni)
-- image_path: assets/images/femminile/catania-women-prima-squadra-nesima-2024.webp
-  alt_text: La prima squadra del Catania Women schierata al Campo Comunale di Nesima
-    Superiore
-  author_or_archive: Catania Football Club / Ufficio Stampa
-  year: 2024
-  license_type: Creative Commons CC BY-SA 4.0
 tags:
 - catania-women
 - calcio-femminile
@@ -62,9 +48,6 @@ aliases:
 - women/scudetto-1978
 - settori-paralleli/women/jolly-cutispoti-1978
 ---
-
-![La formazione della Jolly Componibili Catania Campione d'Italia 1978 allo Stadio Cibali](/assets/images/femminile/scudetto-jolly-catania-1978.jpg)
-*La storica formazione della Jolly Componibili Catania Campione d'Italia 1978 allo Stadio Cibali*
 
 # Catania Women: Storia del Calcio Femminile Rossazzurro (1970–2026)
 

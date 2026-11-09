@@ -100,7 +100,7 @@ Di fronte all'impossibilità oggettiva di garantire la presenza sui gradoni e ri
 
 ## 6. Stagione 2026-2027: L'Assenza in Gradinata e l'Eredità
 
-A partire dalla stagione agonistica **2026-2027**, l'Ultras Mecha Klan **non è più presente in Tribuna B**. 
+A partire dalla stagione agonistica **[[02-cronistoria/stagioni/2026-2027|2026-2027]]**, l'Ultras Mecha Klan **non è più presente in Tribuna B**. 
 
 La scomparsa dell'MCK lascia la Tribuna B priva di un gruppo ultras autonomo, chiudendo l'esperienza del terzo polo militante del Massimino e lasciando il settore animato unicamente da gruppi minori, club moderati e dal pubblico generico.
 

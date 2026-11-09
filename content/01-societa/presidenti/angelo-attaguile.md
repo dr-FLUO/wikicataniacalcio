@@ -7,7 +7,7 @@ slug: 01-societa/presidenti/angelo-attaguile
 entity_type: dirigente
 date_start: 1987-11-01
 date_end: 1991-06-30
-club_entity: '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
+club_entity: '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]'
 figc_matricola: '11700'
 tags:
 - angelo-attaguile
@@ -41,25 +41,39 @@ image_credits:
   license_type: Pubblico Dominio
 ---
 
-![Angelo Attaguile, presidente del Calcio Catania dal 1987 al 1991](/assets/images/presidenti-dirigenti/angelo-attaguile.jpg)
-*Angelo Attaguile, presidente del Calcio Catania S.p.A. dal 1987 al 1991*
+
 
 # Angelo Attaguile (Presidente Calcio Catania S.p.A.)
 
-**Angelo Attaguile** (Grammichele, 12 agosto 1947) è un avvocato, politico e dirigente sportivo italiano, **presidente del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] dal novembre 1987 al giugno 1991**.
+<div class="wiki-inset-photo is-right" data-lightbox-src="/assets/images/presidenti-dirigenti/angelo-attaguile.jpg" data-caption="Ritratto istituzionale di Angelo Attaguile, deputato della Repubblica e presidente del Calcio Catania dal 1987 al 1991 · Archivio Camera dei Deputati">
+  <div class="wiki-inset-photo__img">
+    <img src="/assets/images/presidenti-dirigenti/angelo-attaguile.jpg" alt="Angelo Attaguile, presidente del Catania 1987-1991" loading="eager" />
+    <span class="wiki-inset-photo__zoom">🔍 Ingrandisci</span>
+    <span class="wiki-inset-photo__badge is-dark">Presidenza 1987-1991</span>
+  </div>
+  <div class="wiki-inset-photo__caption">
+    <span class="wiki-inset-photo__title">Angelo Attaguile</span>
+    <span class="wiki-inset-photo__meta">Presidente del Calcio Catania dal 1987 al 1991</span>
+  </div>
+</div>
+
+
+**Angelo Attaguile** (Grammichele, 12 agosto 1947) è un avvocato, politico e dirigente sportivo italiano, **presidente del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] dal novembre 1987 al giugno 1991**.
 
 > [!abstract] La Transizione tra le Gestioni Massimino
-> Rilevata la guida del sodalizio rossazzurro nel tardo autunno del 1987 da una cordata di imprenditori cittadini al termine della prima presidenza di [[societa/presidenti/angelo-massimino|Angelo Massimino]], l'avvocato Attaguile ha guidato il Calcio Catania per quattro campionati consecutivi di Serie C1, affidando la panchina a tecnici di solida reputazione come Bruno Pace, Carmelo Russo e l'ex campione Angelo Benedicto Sormani.
+> Rilevata la guida del sodalizio rossazzurro nel tardo autunno del 1987 da una cordata di imprenditori cittadini al termine della prima presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], l'avvocato Attaguile ha guidato il Calcio Catania per quattro campionati consecutivi di Serie C1, affidando la panchina a tecnici di solida reputazione come Bruno Pace, Carmelo Russo e l'ex campione Angelo Benedicto Sormani.
 
 ---
+
+<div class="wiki-clearfix"></div>
 
 ## 1. Il Quadriennio in Serie C1 (1987–1991)
 
 Durante il suo quadriennio:
-* **Stagione 1987-1988:** Dopo un avvio complesso, l'innesto di mister [[tesserati/allenatori/bruno-pace|Bruno Pace]] consentì una tranquilla salvezza (15º posto).
-* **Stagione 1988-1989:** Con il tecnico etneo [[tesserati/allenatori/carmelo-russo|Carmelo Russo]], il Catania contese fino alla primavera la promozione in Serie B, chiudendo al 6º posto nel Girone B.
-* **Stagione 1989-1990:** Russo e poi l'italo-brasiliano [[tesserati/allenatori/angelo-sormani|Angelo Sormani]] guidarono la squadra a un altro 6º posto con Nicola D'Ottavio miglior marcatore.
-* **Stagione 1990-1991:** Con Sormani confermato, i rossazzurri chiusero all'11º posto. Nell'estate 1991 Attaguile passò il timone della società a Salvatore Massimino, aprendo la strada al successivo ritorno del Cavaliere Angelo Massimino nel 1992.
+* **Stagione [[02-cronistoria/stagioni/1987-1988|1987-1988]]:** Dopo un avvio complesso, l'innesto di mister [[03-tesserati/allenatori/bruno-pace|Bruno Pace]] consentì una tranquilla salvezza (15º posto).
+* **Stagione [[02-cronistoria/stagioni/1988-1989|1988-1989]]:** Con il tecnico etneo [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]], il Catania contese fino alla primavera la promozione in Serie B, chiudendo al 6º posto nel Girone B.
+* **Stagione [[02-cronistoria/stagioni/1989-1990|1989-1990]]:** Russo e poi l'italo-brasiliano [[03-tesserati/allenatori/angelo-sormani|Angelo Sormani]] guidarono la squadra a un altro 6º posto con [[03-tesserati/calciatori/archivio/d-f/nicola-d-ottavio|Nicola D'Ottavio]] miglior marcatore.
+* **Stagione [[02-cronistoria/stagioni/1990-1991|1990-1991]]:** Con Sormani confermato, i rossazzurri chiusero all'11º posto. Nell'estate 1991 Attaguile passò il timone della società a Salvatore Massimino, aprendo la strada al successivo ritorno del Cavaliere Angelo Massimino nel 1992.
 
 ---
 
@@ -67,10 +81,10 @@ Durante il suo quadriennio:
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |
 | :--- | :--- | :--- | :--- |
-| **1987–1988** | Serie C1 (Gir. B) | Osvaldo Jaconi, poi [[tesserati/allenatori/bruno-pace\|Bruno Pace]] | 15º posto |
-| **1988–1989** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo\|Carmelo Russo]] | 6º posto |
-| **1989–1990** | Serie C1 (Gir. B) | [[tesserati/allenatori/carmelo-russo\|Carmelo Russo]], poi [[tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 6º posto |
-| **1990–1991** | Serie C1 (Gir. B) | [[tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 11º posto |
+| **1987–1988** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/osvaldo-jaconi\|Osvaldo Jaconi]], poi [[03-tesserati/allenatori/bruno-pace\|Bruno Pace]] | 15º posto |
+| **1988–1989** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/carmelo-russo\|Carmelo Russo]] | 6º posto |
+| **1989–1990** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/carmelo-russo\|Carmelo Russo]], poi [[03-tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 6º posto |
+| **1990–1991** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/angelo-sormani\|Angelo Sormani]] | 11º posto |
 
 ---
 

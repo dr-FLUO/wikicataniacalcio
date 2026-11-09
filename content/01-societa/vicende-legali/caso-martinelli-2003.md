@@ -103,3 +103,11 @@ Questo atto, considerato dalla dirigenza etnea un vero e proprio "scippo extra-r
 - [[02-cronistoria/stagioni/2002-2003|Stagione 2002-2003]]
 - [[01-societa/epoche/2000-era-gaucci|L'Era Gaucci (2000-2004)]]
 - [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]]
+
+---
+
+## Fonti e Bibliografia
+
+1. **Commissione d'Appello Federale (CAF)**, *Delibera n. 32/C del 15 maggio 2003 — Reclamo Calcio Catania avverso AC Siena*, FIGC — Comunicati Ufficiali, 2003.
+2. **Corte Federale FIGC**, *Delibera del 28 maggio 2003 — Ricorso straordinario FIGC/Siena e revoca vittoria a tavolino*, FIGC — Comunicati Ufficiali, 2003.
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929-2010)*, GEO Edizioni, Empoli, 2010, Capitolo 'Stagione 2002-2003: Lo scontro frontale delle aule di tribunale', pp. 415-420.

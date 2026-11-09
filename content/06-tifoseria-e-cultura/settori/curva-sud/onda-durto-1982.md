@@ -7,7 +7,7 @@ entity_type: gruppo_ultras
 foundation_year: 1982
 origin_district: Quartieri popolari meridionali e Centro Storico (Catania)
 stadium_sector: Curva Sud (Anello Inferiore)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-11-03
 tags:
@@ -34,7 +34,7 @@ aliases:
 
 # Onda d'Urto Curva Sud (1982)
 
-**Onda d'Urto** è stata una delle prime formazioni organizzate del tifo rossazzurro a stabilirsi in modo permanente nei gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali, fondata nell'autunno del **1982** nel corso dell'entusiasmante cavalcata agonistica che condusse il Catania di Gianni Di Marzio alla storica promozione in Serie A.
+**Onda d'Urto** è stata una delle prime formazioni organizzate del tifo rossazzurro a stabilirsi in modo permanente nei gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali, fondata nell'autunno del **1982** nel corso dell'entusiasmante cavalcata agonistica che condusse il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] alla storica promozione in Serie A.
 
 ---
 
@@ -48,7 +48,7 @@ All'inizio degli anni Ottanta, mentre la Curva Nord era già solidamente presidi
 
 ## 2. L'Epopea del 1983 e lo Stile d'Urto
 
-Durante la stagione 1982-1983 e la successiva annata in massima serie 1983-1984:
+Durante la stagione [[02-cronistoria/stagioni/1982-1983|1982-1983]] e la successiva annata in massima serie [[02-cronistoria/stagioni/1983-1984|1983-1984]]:
 - I militanti di Onda d'Urto furono protagonisti attivi dell'[[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|Esodo di Roma del 1983]], partecipando con propri striscioni e stendardi ai quarantamila cuori rossazzurri che invasero lo Stadio Olimpico per gli spareggi contro Como e Cremonese.
 - L'esperienza di Onda d'Urto introdusse in Curva Sud uno stile ribelle, tipico della prima generazione ultras italiana, gettando le fondamenta per la successiva fioritura delle sigle rionali e per l'approdo, quasi un decennio dopo, degli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]].
 

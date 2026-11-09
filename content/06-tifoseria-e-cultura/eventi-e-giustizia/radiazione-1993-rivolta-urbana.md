@@ -10,7 +10,7 @@ entity_type: evento_tifo
 foundation_year: 1993
 origin_district: Catania centro, Stazione Centrale, Stadio Cibali e Roma
 stadium_sector: Intero Stadio Cibali
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-27
 tags:
@@ -53,9 +53,9 @@ aliases:
 
 # La Crisi Istituzionale del 1993: Estromissione FIGC, Rivolta Urbana e la Partita Fantasma
 
-Nell'estate del 1993 il panorama sportivo, istituzionale e sociale catanese fu sconvolto dalla decisione assunta il **31 luglio 1993** dal Consiglio Federale della **FIGC**, presieduto da Antonio Matarrese. La Federcalcio decretò la mancata iscrizione e la decadenza dall'affiliazione del [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] al campionato di Serie C1 1993-1994 per vizi formali e ritardi nella presentazione della fideiussione bancaria a garanzia del bilancio societario.
+Nell'estate del 1993 il panorama sportivo, istituzionale e sociale catanese fu sconvolto dalla decisione assunta il **31 luglio 1993** dal Consiglio Federale della **FIGC**, presieduto da Antonio Matarrese. La Federcalcio decretò la mancata iscrizione e la decadenza dall'affiliazione del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] al campionato di Serie C1 1993-1994 per vizi formali e ritardi nella presentazione della fideiussione bancaria a garanzia del bilancio societario.
 
-Il provvedimento innescò una sollevazione popolare di massa senza precedenti, che vide la convergenza organica tra il presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]], i gruppi ultras della [[tifoseria/curva-sud/index|Curva Sud]] e della [[tifoseria/curva-nord/index|Curva Nord]], il tifo moderato e l'intera cittadinanza etnea.
+Il provvedimento innescò una sollevazione popolare di massa senza precedenti, che vide la convergenza organica tra il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], i gruppi ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] e della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], il tifo moderato e l'intera cittadinanza etnea.
 
 > [!abstract] Scheda Sinottica Giudiziaria e di Ordine Pubblico
 > - **Codice Scheda:** `SCHEDA-1993-RADIAZIONE`
@@ -80,9 +80,9 @@ All'annuncio della mancata iscrizione, centinaia di sostenitori rossazzurri si r
 
 L'episodio più emblematico sul piano identitario e antropologico avvenne domenica **3 ottobre 1993**. Mentre il campionato di Serie C1 1993-1994 si disputava regolarmente senza il Catania, il calendario ufficiale avrebbe previsto per la quarta giornata il match casalingo contro il **Giarre**.
 
-Nonostante la partita fosse inesistente e la squadra estromessa da ogni campionato federale, **oltre 10.000 persone** risposero all'appello congiunto delle curve e acquistarono un tagliando simbolico di sostegno, assiepandosi sugli spalti dello [[stadio/angelo-massimino|Stadio Cibali]].
+Nonostante la partita fosse inesistente e la squadra estromessa da ogni campionato federale, **oltre 10.000 persone** risposero all'appello congiunto delle curve e acquistarono un tagliando simbolico di sostegno, assiepandosi sugli spalti dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
 
-Sul prato verde scesero il presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]], il tecnico [[tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]] e l'intera rosa della prima squadra, tra cui il giovane attaccante catanese [[tesserati/calciatori/orazio-russo|Orazio Russo]]. Davanti a un tifo incessante, si tenne prima una grande assemblea pubblica di rivendicazione della matricola 11700 e successivamente una sgambatura dimostrativa contro la formazione dilettantistica locale della **Palestro**, tra cori, bandiere e l'esposizione di striscioni di sfida contro i palazzi del potere calcistico romano.
+Sul prato verde scesero il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il tecnico [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]] e l'intera rosa della prima squadra, tra cui il giovane attaccante catanese [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]]. Davanti a un tifo incessante, si tenne prima una grande assemblea pubblica di rivendicazione della matricola 11700 e successivamente una sgambatura dimostrativa contro la formazione dilettantistica locale della **Palestro**, tra cori, bandiere e l'esposizione di striscioni di sfida contro i palazzi del potere calcistico romano.
 
 ---
 
@@ -91,9 +91,9 @@ Sul prato verde scesero il presidente [[societa/presidenti/angelo-massimino|Ange
 Sul piano giurisdizionale, la dirigenza assistita dagli avvocati Enzo Ingrassia e Nino Taormina intraprese un durissimo contenzioso contro la Federazione:
 - **Il Ricorso al TAR Toscana:** Il Tribunale Amministrativo Regionale della Toscana riconobbe vizi procedurali ed eccesso di potere nella delibera di radiazione della FIGC, accordando misure cautelari a tutela del sodalizio etneo.
 - **L'Intransigenza Federale e il Consiglio di Giustizia Amministrativa (CGA):** Nonostante i pronunciamenti favorevoli della giustizia amministrativa statale, la FIGC oppose la pregiudiziale dell'ordinamento sportivo e minacciò il blocco dell'intero sistema calcistico nazionale.
-- **La Delibera del 19 Ottobre 1993:** Dopo mesi di stallo, il Consiglio Federale presieduto da Matarrese approvò una soluzione di compromesso che salvò l'affiliazione della storica **matricola federale 11700**, ammettendo il Catania in soprannumero non in C1, bensì nel campionato regionale di [[stagioni/1993-1994|Eccellenza Siciliana 1993-1994]].
+- **La Delibera del 19 Ottobre 1993:** Dopo mesi di stallo, il Consiglio Federale presieduto da Matarrese approvò una soluzione di compromesso che salvò l'affiliazione della storica **matricola federale 11700**, ammettendo il Catania in soprannumero non in C1, bensì nel campionato regionale di [[02-cronistoria/stagioni/1993-1994|Eccellenza Siciliana 1993-1994]].
 
-La risposta del popolo etneo fu travolgente: il Catania disputò il campionato dilettantistico con una media record di circa 9.000 spettatori a partita, vincendo il torneo a mani basse e respingendo contemporaneamente il tentativo di supplenza sportiva perpetrato dall'[[tifoseria/rivalita/atletico-catania|Atletico Catania]].
+La risposta del popolo etneo fu travolgente: il Catania disputò il campionato dilettantistico con una media record di circa 9.000 spettatori a partita, vincendo il torneo a mani basse e respingendo contemporaneamente il tentativo di supplenza sportiva perpetrato dall'[[06-tifoseria-e-cultura/relazioni/rivalita/atletico-catania|Atletico Catania]].
 
 ---
 

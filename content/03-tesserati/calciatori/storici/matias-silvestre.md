@@ -21,7 +21,7 @@ total_goals: 7
 league_goals: 7
 serie_a_goals: 7
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - calciatori
 - difensori
@@ -128,13 +128,13 @@ tm_id: 20003
   </table>
 </div>
 
-**Matías Agustín Silvestre** (Mercedes, 25 settembre 1984) è un calciatore argentino con passaporto italiano, nel ruolo di difensore centrale. Prelevato dal Boca Juniors da [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] nel gennaio **2008**, ha vestito la maglia rossazzurra per tre stagioni e mezzo fino al 2011, affermandosi come uno dei migliori centrali del campionato italiano di Serie A e indossando la fascia di capitano del [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]].
+**Matías Agustín Silvestre** (Mercedes, 25 settembre 1984) è un calciatore argentino con passaporto italiano, nel ruolo di difensore centrale. Prelevato dal Boca Juniors da [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] nel gennaio **2008**, ha vestito la maglia rossazzurra per tre stagioni e mezzo fino al 2011, affermandosi come uno dei migliori centrali del campionato italiano di Serie A e indossando la fascia di capitano del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]].
 
 > [!abstract] Primati e Prestazioni in Massima Divisione
 > - **Presenze Ufficiali:** 126 presenze (118 in Serie A, 8 in Coppa Italia).
 > - **Reti Realizzate da Difensore:** **7 gol in Serie A**, tra cui memorabili stacchi di testa su palla inattiva contro Juventus, Fiorentina e Lecce.
-> - **Perno della Salvezza 2009-2010:** Pilastro inamovibile della difesa di [[tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] che batté Inter (3-1), Juventus (1-2 a Torino) e Fiorentina (1-0).
-> - **Rendimento Costante:** Nella stagione 2010-2011 giocò tutte e 38 le partite di campionato senza saltare un solo minuto, guidando la squadra al record di punti dell'epoca con Marco Giampaolo e [[tesserati/allenatori/diego-pablo-simeone|Diego Simeone]].
+> - **Perno della Salvezza 2009-2010:** Pilastro inamovibile della difesa di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] che batté Inter (3-1), Juventus (1-2 a Torino) e Fiorentina (1-0).
+> - **Rendimento Costante:** Nella stagione 2010-2011 giocò tutte e 38 le partite di campionato senza saltare un solo minuto, guidando la squadra al record di punti dell'epoca con [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]].
 
 ---
 

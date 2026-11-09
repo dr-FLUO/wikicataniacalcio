@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2025-2026
 club_entities:
-- '[[societa/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
+- '[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club (2023-Oggi)]]'
 image: assets/images/allenatori/william-viali.jpg
 image_credits:
 - image_path: assets/images/allenatori/william-viali.jpg
@@ -124,7 +124,16 @@ Chiamato dal DS Ivano Pastore durante un delicato passaggio a vuoto della stagio
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2025-2026\|2025-2026]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2025-2026\|2025-2026]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

@@ -17,7 +17,7 @@ league_appearances: 29
 total_goals: 10
 league_goals: 10
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -92,9 +92,9 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Piero Blengino** (noto nelle cronache dell'epoca anche come **Pierino Blengino**) è stato un calciatore italiano, nel ruolo di ala e attaccante. Entrato nella storia del club etneo come il primo bomber ufficiale della neocostituita [[societa/1929-ss-catania|Società Sportiva Catania]], fu il capocannoniere della squadra nella [[stagioni/1929-1930|Stagione 1929-1930]], la prima in assoluto disputata dalla società rossazzurra nei campionati FIGC.
+**Piero Blengino** (noto nelle cronache dell'epoca anche come **Pierino Blengino**) è stato un calciatore italiano, nel ruolo di ala e attaccante. Entrato nella storia del club etneo come il primo bomber ufficiale della neocostituita [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]], fu il capocannoniere della squadra nella [[02-cronistoria/stagioni/1929-1930|Stagione 1929-1930]], la prima in assoluto disputata dalla società rossazzurra nei campionati FIGC.
 
-In una squadra assemblata dal presidente [[societa/presidenti/santi-quasimodo|Santi Quasimodo]] e affidata alla guida tecnica di Giorgio Armari, Blengino si distinse per rapidità, scatto sulla fascia e senso della posizione in area di rigore, realizzando 7 reti fondamentali per consentire al club di conquistare la permanenza nella divisione e gettare le basi del calcio etneo moderno.
+In una squadra assemblata dal presidente [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]] e affidata alla guida tecnica di Giorgio Armari, Blengino si distinse per rapidità, scatto sulla fascia e senso della posizione in area di rigore, realizzando 7 reti fondamentali per consentire al club di conquistare la permanenza nella divisione e gettare le basi del calcio etneo moderno.
 
 > [!abstract] Il Primo Marcatore dell'Epopea Rossazzurra
 > - **Ruolo Storico:** Primo capocannoniere assoluto del Catania nei campionati ufficiali FIGC.
@@ -107,7 +107,7 @@ In una squadra assemblata dal presidente [[societa/presidenti/santi-quasimodo|Sa
 
 ### La Prima Rete Ufficiale e il Campionato 1929-1930
 
-Nel torneo inaugurale di Seconda Divisione Sud 1929-1930, Blengino fu il perno dell'attacco rossazzurro, guidando i compagni in trasferte insidiose e siglando doppiette decisive contro avversari campani e calabresi. Riconfermato nella stagione successiva [[stagioni/1930-1931|1930-1931]] in Prima Divisione, totalizzò ulteriori 13 presenze e 3 reti al fianco del nuovo idolo etneo Ercole Bodini, chiudendo la sua esperienza catanese con 29 presenze e 10 reti totali.
+Nel torneo inaugurale di Seconda Divisione Sud 1929-1930, Blengino fu il perno dell'attacco rossazzurro, guidando i compagni in trasferte insidiose e siglando doppiette decisive contro avversari campani e calabresi. Riconfermato nella stagione successiva [[02-cronistoria/stagioni/1930-1931|1930-1931]] in Prima Divisione, totalizzò ulteriori 13 presenze e 3 reti al fianco del nuovo idolo etneo Ercole Bodini, chiudendo la sua esperienza catanese con 29 presenze e 10 reti totali.
 
 ---
 

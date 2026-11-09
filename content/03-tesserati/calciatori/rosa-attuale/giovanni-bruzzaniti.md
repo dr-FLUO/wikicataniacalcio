@@ -1,14 +1,14 @@
 ---
 title: Giovanni Bruzzaniti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giovanni Bruzzaniti, attaccante del Calcio Catania con 33 presenze
-  e 3 gol registrati in maglia rossazzurra.
+description: Biografia, presenze e statistiche ufficiali di Giovanni Bruzzaniti, attaccante del Calcio Catania con 35 presenze
+  e 4 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Attaccante
 current_squad: true
-total_appearances: 33
+total_appearances: 35
 seasons_count: 2
 tags:
 - calciatori
@@ -56,11 +56,11 @@ height: 175 cm
 foot: Destro
 catania_periods:
 - 2024-
-total_goals: 3
+total_goals: 4
 total_assists: 4
-minutes_played: 1606
+minutes_played: 1692
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 420460
 ---
@@ -94,15 +94,15 @@ tm_id: 420460
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>33</td>
+        <td>35</td>
         <th>Goal / Assist</th>
-        <td>3 / 4</td>
+        <td>4 / 4</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-**Giovanni Bruzzaniti** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
+**Giovanni Bruzzaniti** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
 
 ---
 
@@ -111,11 +111,11 @@ tm_id: 420460
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Ala sinistra | 22 | 2 | 2 | 1 | 0 | 877' |
-| **2026-2027** | Ala sinistra | 11 | 1 | 2 | 2 | 0 | 729' |
-| **TOTALE** | — | **33** | **3** | **4** | **3** | **0** | **1606'** |
+| **2026-2027** | Ala sinistra | 13 | 2 | 2 | 2 | 0 | 815' |
+| **TOTALE** | — | **35** | **4** | **4** | **3** | **0** | **1692'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **33 presenze ufficiali**, disputando **1606 minuti** di gioco effettivo, siglando **3 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **1692 minuti** di gioco effettivo, siglando **4 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -126,10 +126,10 @@ Originario di Melito di Porto Salvo (RC), Italia (classe 2000), **Giovanni Bruzz
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

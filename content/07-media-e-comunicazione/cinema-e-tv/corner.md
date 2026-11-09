@@ -58,7 +58,7 @@ Nato nella seconda metà degli anni Ottanta per arricchire il palinsesto sportiv
 
 Elemento distintivo che ha reso *Corner* una trasmissione di riferimento anche per le agenzie di stampa nazionali è la profondità delle inchieste giuridiche ed economico-finanziarie:
 
-* **L'Apporto di Alessandro Vagliasindi**: La presenza fissa e qualificata dell'avvocato e giornalista de *La Repubblica* [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]] ha consentito di decrittare con assoluta accuratezza le complesse vicende extracampo che hanno segnato la storia recente del club: i ricorsi amministrativi del 1993 e del 2003 ("Caso Catania"), le sentenze del calcioscommesse nel 2015 ("I Treni del Gol"), l'amministrazione straordinaria e la fallimentare gestione della procedura d'asta del 2021-2022 fino alla cancellazione della matricola 11700.
+* **L'Apporto di Alessandro Vagliasindi**: La presenza fissa e qualificata dell'avvocato e giornalista de *La Repubblica* [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]] ha consentito di decrittare con assoluta accuratezza le complesse vicende extracampo che hanno segnato la storia recente del club: i ricorsi amministrativi del 1993 e del 2003 ("Caso Catania"), le sentenze del calcioscommesse nel 2015 ("I Treni del Gol"), l'amministrazione straordinaria e la fallimentare gestione della procedura d'asta del [[02-cronistoria/stagioni/2021-2022|2021-2022]] fino alla cancellazione della matricola 11700.
 * **Le Finestre di Calciomercato**: Nei mesi di gennaio e durante l'estate, *Corner* si è trasformato nella centrale operativa del mercato rossazzurro, offrendo indiscrezioni verificate, analisi contrattuali e collegamenti diretti con i ritiri precampionato e gli hotel milanesi del mercato.
 
 ---
@@ -68,7 +68,7 @@ Elemento distintivo che ha reso *Corner* una trasmissione di riferimento anche p
 Nel corso della sua storia ultra-trentennale, *Corner* ha mantenuto una linea di rigorosa indipendenza editoriale nei confronti delle proprietà che si sono susseguite alla guida del club:
 
 * **La Mobilitazione del 2008/2009**: Emblematica fu la vicenda che vide coinvolta la redazione di Telecolor nella stagione di Serie A 2008/2009, a seguito di serrate critiche sollevate dalla trasmissione sulla gestione dell'ordine pubblico e della comunicazione societaria in occasione del derby col Palermo. Di fronte a tentativi di boicottaggio e mancata concessione degli accrediti da parte della dirigenza, la comunità dei tifosi rossazzurri scese compattamente in piazza a difesa della libertà di stampa e dell'autonomia di *Corner*.
-* **La Stagione Contemporanea (2026/2027)**: Integrato con la piattaforma interattiva *Siciliaweb*, *Corner* continua a rappresentare sul canale 11 del digitale terrestre il punto di riferimento irrinunciabile per il dibattito tecnico sulla squadra di Emilio Longo in Serie C, coniugando televisione lineare, clip on-demand e interazione con i tifosi.
+* **La Stagione Contemporanea (2026/2027)**: Integrato con la piattaforma interattiva *Siciliaweb*, *Corner* continua a rappresentare sul canale 11 del digitale terrestre il punto di riferimento irrinunciabile per il dibattito tecnico sulla squadra di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] in Serie C, coniugando televisione lineare, clip on-demand e interazione con i tifosi.
 
 ---
 

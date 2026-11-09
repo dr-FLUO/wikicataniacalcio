@@ -7,7 +7,7 @@ slug: 01-societa/presidenti/vespasiano-trigona
 entity_type: dirigente
 date_start: 1932-07-01
 date_end: 1936-06-30
-club_entity: '[[societa/1929-ss-catania|Società Sportiva Catania]]'
+club_entity: '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]'
 figc_matricola: N/A (Pre-1946)
 tags:
 - vespasiano-trigona
@@ -39,10 +39,10 @@ aliases:
 
 # Vespasiano Trigona (Duca di Misterbianco)
 
-**Vespasiano Trigona, Duca di Misterbianco** (Catania, 1898 – 1973), è stato un nobile, sportivo e mecenate siciliano, **presidente della [[societa/1929-ss-catania|Società Sportiva Catania]] dal 1932 al 1936** e primo grande artefice dell'ascesa del calcio catanese nel panorama nazionale.
+**Vespasiano Trigona, Duca di Misterbianco** (Catania, 1898 – 1973), è stato un nobile, sportivo e mecenate siciliano, **presidente della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] dal 1932 al 1936** e primo grande artefice dell'ascesa del calcio catanese nel panorama nazionale.
 
 > [!abstract] Mecenatismo, Prima Serie B e l'Esposizione di 2.600.000 Lire
-> Assunta la guida del club nel 1932, il Duca Trigona ingaggiò l'allenatore ungherese [[tesserati/allenatori/geza-kertesz|Géza Kertész]] e l'attaccante [[tesserati/calciatori/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], conquistando nella [[stagioni/1933-1934|Stagione 1933-1934]] la **prima storica promozione in Serie B** sul campo di [[04-strutture/campi-storici/index|Piazza Esposizione]]. Per sostenere la squadra nei campionati cadetti 1934-1935 (4º posto) e 1935-1936 (8º posto), arrivò ad accumulare un credito personale verso la società di **2.600.000 lire** dell'epoca, cifra imponente che segnò il passaggio nel 1936 alla denominazione CONI di *AFC Catania*.
+> Assunta la guida del club nel 1932, il Duca Trigona ingaggiò l'allenatore ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] e l'attaccante [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]], conquistando nella [[02-cronistoria/stagioni/1933-1934|Stagione 1933-1934]] la **prima storica promozione in Serie B** sul campo di [[04-strutture/campi-storici/index|Piazza Esposizione]]. Per sostenere la squadra nei campionati cadetti [[02-cronistoria/stagioni/1934-1935|1934-1935]] (4º posto) e [[02-cronistoria/stagioni/1935-1936|1935-1936]] (8º posto), arrivò ad accumulare un credito personale verso la società di **2.600.000 lire** dell'epoca, cifra imponente che segnò il passaggio nel 1936 alla denominazione CONI di *AFC Catania*.
 
 ---
 
@@ -50,10 +50,10 @@ aliases:
 
 | Stagione | Categoria | Allenatore | Risultato e Impatto Storico |
 | :--- | :--- | :--- | :--- |
-| **1932–1933** | Prima Divisione (Gir. I) | Mario Sernagiotto | Consolidamento societario e 4º posto in classifica. |
-| **[[stagioni/1933-1934\|1933–1934]]** | Prima Divisione | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **1º posto nel Girone Finale (Promozione in Serie B)** davanti a Savona, Biellese e Reggina. |
-| **1934–1935** | Serie B (Gir. A) | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **4º posto assoluto** all'esordio in cadetteria. |
-| **1935–1936** | Serie B (Girone Unico) | [[tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **8º posto in Serie B**; emersione dell'esposizione di **2.600.000 lire** sostenuta dal Duca Trigona. |
+| **1932–1933** | Prima Divisione (Gir. I) | [[03-tesserati/allenatori/mario-sernagiotto\|Mario Sernagiotto]] | Consolidamento societario e 4º posto in classifica. |
+| **[[02-cronistoria/stagioni/1933-1934\|1933–1934]]** | Prima Divisione | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **1º posto nel Girone Finale (Promozione in Serie B)** davanti a Savona, Biellese e Reggina. |
+| **1934–1935** | Serie B (Gir. A) | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **4º posto assoluto** all'esordio in cadetteria. |
+| **1935–1936** | Serie B (Girone Unico) | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **8º posto in Serie B**; emersione dell'esposizione di **2.600.000 lire** sostenuta dal Duca Trigona. |
 
 ---
 

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 1991-1992
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - anni-novanta
@@ -85,32 +85,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Giuseppe Caramanno</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1940</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1991–1992</strong> (dal 01/07/1991 al 30/06/1992)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>34</td>
-        <th>Media Punti</th>
-        <td>1,38</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Giuseppe Caramanno** (Piana degli Albanesi (PA), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1991-1992**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -127,13 +101,13 @@ Giuseppe Caramanno, celebre docente di tecnica e tattica a Coverciano e protagon
 
 ## 2. La Conduzione Tecnica del Catania
 
-Impostò le basi fisiche e tattiche della squadra rossazzurra prima dell'avvicendamento di settembre a favore di Franco Vannini.
+Impostò le basi fisiche e tattiche della squadra rossazzurra prima dell'avvicendamento di settembre a favore di [[03-tesserati/allenatori/franco-vannini|Franco Vannini]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1991-1992\|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1991-1992\|1991-1992]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

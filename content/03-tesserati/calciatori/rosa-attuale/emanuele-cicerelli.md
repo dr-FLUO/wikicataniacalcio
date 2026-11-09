@@ -1,11 +1,11 @@
 ---
 title: Emmanuele Pio Cicerelli — Attaccante Esterno e Uomo Fantasia del Catania FC
 description: Biografia, presenze e statistiche ufficiali di Emanuele Cicerelli, attaccante esterno / ala sinistra del Calcio
-  Catania con 66 presenze e 14 gol registrati in maglia rossazzurra.
+  Catania con 68 presenze e 15 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/emanuele-cicerelli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 birth_date: '1994-08-12'
 birth_place: San Giovanni Rotondo (FG), Italia
 nationality: Italia
@@ -13,12 +13,12 @@ role: Attaccante esterno / Ala sinistra
 current_squad: true
 catania_periods:
 - 2024-
-total_appearances: 66
+total_appearances: 68
 league_appearances: 38
-total_goals: 14
+total_goals: 15
 league_goals: 8
 club_entities:
-- '[[societa/presidenti/ross-pelligra|Catania Football Club]]'
+- '[[01-societa/presidenti/ross-pelligra|Catania Football Club]]'
 image: assets/images/calciatori/emanuele-cicerelli.jpg
 image_credits:
 - image_path: assets/images/calciatori/emanuele-cicerelli.jpg
@@ -51,12 +51,16 @@ aliases:
 seasons_count: 3
 height: 176 cm
 foot: Destro
-total_assists: 8
-minutes_played: 4106
+total_assists: 9
+minutes_played: 4286
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 265320
+tags:
+- calciatori
+- rosa-attuale
+- attaccanti
 ---
 # Emmanuele Pio Cicerelli — Attaccante Esterno e Uomo Fantasia del Catania FC
 
@@ -88,9 +92,9 @@ tm_id: 265320
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>66</td>
+        <td>68</td>
         <th>Goal / Assist</th>
-        <td>14 / 8</td>
+        <td>15 / 9</td>
       </tr>
     </tbody>
   </table>
@@ -110,8 +114,8 @@ Cresciuto calcisticamente tra Foggia e Salernitana, ha maturato oltre 200 presen
 
 ## 2. Il Protagonismo nel Catania di Emilio Longo
 
-Nella [[stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] come trequartista di sinistra o seconda punta a supporto del bomber [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]]:
-* Ha inanellato prestazioni di altissimo livello, servendo assist decisivi e risultando il miglior marcatore complessivo (5 reti tra campionato e Coppa Italia), tra cui la spettacolare doppietta nel 6-0 contro il Giugliano.
+Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] come trequartista di sinistra o seconda punta a supporto del bomber [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]]:
+* Ha inanellato prestazioni di altissimo livello in tutte le 16 gare ufficiali disputate, servendo 4 assist decisivi e risultando il miglior marcatore complessivo con **6 reti** (5 in Serie C contro Cosenza, Picerno, Casertana, Giugliano e Sorrento, più 1 in Coppa Italia a Vicenza).
 
 ---
 
@@ -121,16 +125,16 @@ Nella [[stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/all
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2023-2024** | Ala sinistra | 26 | 3 | 2 | 5 | 1 | 1434' |
 | **2025-2026** | Ala sinistra | 26 | 6 | 3 | 4 | 0 | 1552' |
-| **2026-2027** | Ala sinistra | 14 | 5 | 3 | 1 | 0 | 1120' |
-| **TOTALE** | — | **66** | **14** | **8** | **10** | **1** | **4106'** |
+| **2026-2027** | Ala sinistra | 16 | 6 | 4 | 1 | 0 | 1300' |
+| **TOTALE** | — | **68** | **15** | **9** | **10** | **1** | **4286'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **66 presenze ufficiali**, disputando **4106 minuti** di gioco effettivo, siglando **14 gol** e servendo **8 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **4286 minuti** di gioco effettivo, siglando **15 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Collegamenti e Voci Correlate
 
-* [[stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
+* [[02-cronistoria/stagioni/2026-2027|Stagione 2026-2027 del Catania FC]]
 * [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda: Compagno di reparto offensivo]]
 * [[03-tesserati/calciatori/archivio/a-c/alessio-castellini|Alessio Castellini: Il capitano]]
 * [[03-tesserati/allenatori/emilio-longo|Emilio Longo: Allenatore]]

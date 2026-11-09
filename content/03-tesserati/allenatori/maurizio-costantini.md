@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2004-2005
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/allenatori/maurizio-costantini.jpg
   alt_text: Ritratto ufficiale di Maurizio Costantini in maglia rossazzurra
@@ -101,32 +101,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Maurizio Costantini</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1962</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>2004–2005</strong> (dal 01/07/2004 al 31/10/2004)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>14</td>
-        <th>Media Punti</th>
-        <td>1,50</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -143,13 +117,13 @@ Maurizio Costantini fu il primo allenatore scelto da Antonino Pulvirenti e Pietr
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò il Catania nelle prime 11 giornate della Serie B 2004-2005, gettando le basi della nuova era societaria prima dell'arrivo di Nedo Sonetti.
+Guidò il Catania nelle prime 11 giornate della Serie B 2004-2005, gettando le basi della nuova era societaria prima dell'arrivo di [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2004-2005\|2004-2005]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -52,7 +52,7 @@ Attivo a Catania tra il **1956** e il **1992**, ***Espresso Sera*** è stato uno
 
 Prima della diffusione capillare delle televisioni private e di Internet, *Espresso Sera* rappresentava l'unico mezzo per conoscere i risultati e le cronache complete delle partite pomeridiane del Calcio Catania poche ore dopo il fischio finale:
 * Le rotative dello stabilimento tipografico di Catania andavano in stampa tra le 17:30 e le 18:00 della domenica.
-* Gli strilloni distribuivano i fascicoli ancora freschi d'inchiostro nei chioschi di Piazza Duomo, Piazza Stesicoro, Corso Sicilia e direttamente all'uscita dello [[01-societa/strutture/stadio-angelo-massimino|Stadio Cibali]].
+* Gli strilloni distribuivano i fascicoli ancora freschi d'inchiostro nei chioschi di Piazza Duomo, Piazza Stesicoro, Corso Sicilia e direttamente all'uscita dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
 * Le celebri locandine gialle appese alle edicole cittadine divennero un tratto distintivo della liturgia calcistica domenicale etnea.
 
 ---

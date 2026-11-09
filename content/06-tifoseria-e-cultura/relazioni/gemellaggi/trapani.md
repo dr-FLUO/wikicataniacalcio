@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1995
 origin_district: "Catania e Trapani"
 stadium_sector: "Curva Nord, Curva Sud e Gradinata Trapani"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Polisportivo Provinciale di Trapani"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Polisportivo Provinciale di Trapani"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -48,6 +48,14 @@ Il gemellaggio è scaturito dall'incrocio di due fattori storici determinanti:
 
 - Nelle sfide disputate al Polisportivo Provinciale di Erice e al Cibali/Massimino, le tifoserie hanno costantemente trasformato la partita in una festa di popolo, esponendo striscioni di fratellanza come *"Trapani e Catania un solo grido"* e intonando cori di scherno condivisi contro il comune rivale rosanero.
 - Il gemellaggio è rimasto saldo anche nelle categorie superiori, rappresentando un'eccezione luminosa di fratellanza all'interno di un panorama regionale storicamente frammentato da duri campanilismi provinciali.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

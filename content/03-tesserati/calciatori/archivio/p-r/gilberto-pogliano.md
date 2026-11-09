@@ -30,13 +30,6 @@ sources:
   publisher: GEO Edizioni, Empoli
   year: 2010
   reference: Registro generale calciatori e presenze ufficiali
-image: assets/images/calciatori/archivio-calciocatania/gilberto-pogliano.webp
-image_credits:
-- image_path: assets/images/calciatori/archivio-calciocatania/gilberto-pogliano.webp
-  alt_text: Ritratto fotografico di Gilberto Pogliano calciatore del Calcio Catania
-  author_or_archive: Wikimedia Commons Contributors
-  year: 2024
-  license_type: Pubblico Dominio (Scadenza termini d'autore)
 aliases:
 - tesserati/calciatori/gilberto-pogliano
 - gilberto-pogliano
@@ -51,8 +44,10 @@ locked_by: certificazione_archivio_storico_ufficiale
 
 <div class="nfc-player-hero-card">
   <div class="nfc-player-photo-block">
-    <img src="/assets/images/calciatori/archivio-calciocatania/gilberto-pogliano.webp" alt="Gilberto Pogliano" class="nfc-player-photo" />
-    <div class="nfc-player-photo-credit">Ritratto fotografico di Gilberto Pogliano calciatore del Calcio Catania</div>
+    <div class="nfc-player-no-photo">
+      <span class="nfc-no-photo-badge">ND</span>
+      <span class="nfc-no-photo-label">Nessuna foto</span>
+    </div>
   </div>
   <table class="nfc-player-table">
     <tbody>
@@ -86,10 +81,17 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Gilberto Pogliano** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Gilberto Pogliano** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Biografia e Profilo Tecnico
 
 Attaccante piemontese rapido e ficcante. Veste la casacca rossazzurra della Società Sportiva Catania nei primi campionati storici di Prima Divisione e Serie B tra il 1933 e il 1935, contribuendo alla prima memorabile ascesa in cadetteria del 1934.
 
 Ha vestito la gloriosa maglia rossazzurra nei periodi: 1933-1935, totalizzando **42 presenze ufficiali** tra campionati e coppe nazionali.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Gilberto Pogliano*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Gilberto_Pogliano).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

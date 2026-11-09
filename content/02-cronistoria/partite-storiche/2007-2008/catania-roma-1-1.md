@@ -1,74 +1,78 @@
 ---
-title: Catania-Roma 1-1 (18 Maggio 2008) — Il Miracolo Salvezza di Jorge Martínez
-description: 'Dossier storico della memorabile ultima giornata di Serie A 2007-2008:
-  al Massimino il gol di Jorge Martínez all''85'' regala la salvezza al Catania di
-  Walter Zenga.'
+title: Catania-Roma 1-1 (18 maggio 2008) — Il Gol Salvezza di Jorge Martínez
+description: Cronaca, tabellino e reperto storico di Catania-Roma 1-1 del 18 maggio 2008 (38ª giornata di Serie A 2007-2008), con la zampata di Jorge Martínez all'85' che regalò la salvezza al Catania di Walter Zenga.
 slug: 02-cronistoria/partite-storiche/2007-2008/catania-roma-1-1
-entity_type: partita
-status: verified
-last_verified_date: '2026-10-28'
-competition: Serie A 2007-2008
-match_date: '2008-05-18'
-stadium: Stadio Angelo Massimino, Catania
+entity_type: tabellino_gara
+match_date: 2008-05-18
+season_ref: '[[02-cronistoria/stagioni/index|Stagione 2007-2008]]'
+competition: Serie A
+matchday: 38ª Giornata
+stadium_ref: '[[04-strutture/stadio-massimino/index|Stadio Angelo Massimino]]'
 attendance: 21148
-score: 1-1
-scorers: 8' Vucinic (R), 85' Martnez (C)
-image_credits:
-- image_path: https://commons.wikimedia.org
-  alt_text: Jorge Martinez festeggia il gol del pareggio salvezza contro la Roma
-  author_or_archive: Archivio Storico Calcio Catania
-  year: 2024
-  license_type: Creative Commons CC BY-SA 4.0
-- image_path: ../../../assets/images/partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp
-  alt_text: Jorge Martinez esulta dopo il gol salvezza in Catania-Roma 1-1 allo Stadio
-    Massimino Solarino
-  author_or_archive: Archivio Storico Calcio Catania
-  year: 2024
-  license_type: Creative Commons CC BY-SA 4.0
+referee: Massimiliano Saccani (Mantova)
+home_team: '[[01-societa/index|Calcio Catania S.p.A.]]'
+away_team: A.S. Roma
+home_coach: '[[03-tesserati/allenatori/walter-zenga|Walter Zenga]]'
+away_coach: Luciano Spalletti
+score_home: 1
+score_away: 1
+scorers:
+- minute: 8
+  player: Mirko Vučinić
+  team: Roma
+- minute: 85
+  player: Jorge Martínez
+  team: Catania
 tags:
-- partite
-- serie-a
+- catania-roma
+- jorge-martinez
+- walter-zenga
 - salvezza
-- martinez
-- zenga
+- serie-a
+status: verified
+last_verified_date: 2026-11-06
 sources:
-- title: Tutto il Catania minuto per minuto
-  author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo
+- author: Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino
+  title: Tutto il Catania minuto per minuto (1929-2010)
   publisher: GEO Edizioni, Empoli
   year: 2010
-  reference: Registro generale calciatori, cronache e tabellini ufficiali
-- title: Almanacco Illustrato del Calcio
-  author: Panini
-  publisher: Panini Edizioni, Modena
-  year: 2024
-  reference: Archivio federale e storico campionati italiani
-- title: Archivio Storico Calcio Catania
-  author: Redazione Storica CalcioCatania.com
-  publisher: calciocatania.com
-  year: 2024
-  url: https://www.calciocatania.com/
-  reference: Documentazione anagrafica e statistiche certificate
+  reference: Capitolo Stagione 2007-2008, Tabellino 38ª giornata (18/05/2008)
+- author: Lega Nazionale Professionisti
+  title: "Referto ufficiale Serie A TIM 2007-2008 — 38ª giornata: Catania-Roma 1-1"
+  publisher: Lega Calcio
+  year: 2008
+  reference: Gara del 18 maggio 2008
 aliases:
 - partite/2007-2008/catania-roma-1-1
 - partite-storiche/2007-2008/catania-roma-1-1
 - 2007-2008/catania-roma-1-1
 - catania-roma-1-1
 ---
-# Catania-Roma 1-1 (18 Maggio 2008)
 
-![Jorge Martinez esulta dopo il gol salvezza in Catania-Roma 1-1 allo Stadio Massimino](../../../assets/images/partite-storiche/catania-roma-1-1-gol-salvezza-martinez-serie-a-2007-2008.webp)
+# Catania - Roma 1-1 (18 Maggio 2008) — Il Miracolo di Martínez
 
-La sfida del **18 maggio 2008** tra Catania e Roma rappresenta uno dei capitoli pi carichi di tensione emotiva e gioia collettiva della storia rossazzurra. All'ultima giornata di campionato la Roma di Spalletti si gioca lo scudetto contro l'Inter, mentre il Catania di [[tesserati/allenatori/walter-zenga|Walter Zenga]] deve fare punti per evitare la retrocessione in Serie B.
+La sfida del **18 maggio 2008** tra Catania e Roma rappresenta uno dei capitoli più carichi di pathos, tensione emotiva e gioia collettiva della storia rossazzurra. All'ultima giornata di campionato la Roma di Luciano Spalletti si gioca lo Scudetto contro l'Inter di Mancini, mentre il Catania guidato da **[[03-tesserati/allenatori/walter-zenga|Walter Zenga]]** deve conquistare almeno un punto per evitare la retrocessione in Serie B a vantaggio dell'Empoli.
 
-## Cronaca della Partita
-All'8' minuto i giallorossi sbloccano la gara con una prodezza di Mirko Vucinic, gelando il Massimino mentre giungono notizie del vantaggio dell'Inter a Parma. Il Catania reagisce con coraggio e all'85', su cross pennellato e mischia in area, l'uruguaiano **Jorge Andrs Martnez** calcia al volo battendo Doni: un gol storico che sigilla l'1-1 finale e garantisce la permanenza aritmetica in Serie A tra il delirio dei 21.000 tifosi etnei.
+Sotto un violento nubifragio che trasformò il manto erboso del Massimino in un pantano, i giallorossi sbloccarono la contesa all'8' con una prodezza di Mirko Vučinić, gelando gli oltre 21.000 cuori etnei mentre da Parma giungeva la notizia dell'iniziale 0-0 nerazzurro che assegnava virtualmente il titolo ai capitolini e condannava il Catania.
 
-## Collegamenti Correlati
-* [[stagioni/2007-2008|Stagione 2007-2008]]
-* [[tesserati/allenatori/walter-zenga|Walter Zenga]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino]]
+La compagine rossazzurra, tuttavia, non si arrese: spinta dall'incessante incitamento delle due curve, continuò ad attaccare a testa bassa fino al minuto 85 quando, sugli sviluppi di una concitata mischia in area, l'uruguaiano **Jorge *"Malaka"* Martínez** scagliò al volo un destro violento che trafisse Doni. Fu il pareggio dell'apoteosi: l'1-1 finale sancì la permanenza aritmetica del Catania in Serie A tra l'invasione pacifica di campo dei tifosi etnei.
+
+---
+
+## Tabellino Ufficiale dell'Incontro
+
+| Dati Gara | Dettaglio Ufficiale Certificato |
+| :--- | :--- |
+| **Data e Ora** | Domenica **18 maggio 2008**, ore 15:00 — Serie A 2007-2008 (38ª giornata) |
+| **Impianto e Spettatori** | [[04-strutture/stadio-massimino/index\|Stadio Angelo Massimino]], Catania — **21.148 spettatori** |
+| **Arbitro** | Massimiliano Saccani della sezione AIA di Mantova |
+| **Marcatori** | **8' pt Vučinić** (R), **40' st J. Martínez** (C) |
+| **Formazione Catania (4-3-3)** | Bizzarri; Álvarez, Silvestre, Terlizzi, Silvestri; Baiocco, Edusei (12' st Colucci), Biagianti (23' st Izco); Martínez, Spinesi, Mascara. — **All.:** [[03-tesserati/allenatori/walter-zenga\|Walter Zenga]]. |
+| **Formazione Roma (4-2-3-1)** | Doni; Cicinho, Mexès, Panucci, Tonetto; De Rossi, Pizarro; Giuly (10' st Aquilani), Perrotta (33' st Brighi), Mancini (24' st Esposito); Vučinić. — **All.:** Luciano Spalletti. |
+
+---
 
 ## Fonti e Bibliografia
-* Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010.
-* *Almanacco Illustrato del Calcio*, Panini Edizioni, Modena.
-* [CalcioCatania.com](https://www.calciocatania.com/) — Archivio storico e statistiche ufficiali.
+
+1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
+2. **Lega Nazionale Professionisti**, *Tabellino Ufficiale Serie A 2007-2008 — 38ª giornata: Catania-Roma 1-1*, 18 maggio 2008.

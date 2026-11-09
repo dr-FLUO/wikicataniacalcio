@@ -20,7 +20,7 @@ total_goals: 27
 league_goals: 24
 serie_a_goals: 4
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - calciatori
 - attaccanti
@@ -113,19 +113,19 @@ tm_id: 222973
   </table>
 </div>
 
-**Aldo Cantarutti** (Manzano, 17 ottobre 1958) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1981**, ha vestito la maglia rossazzurra per tre campionati consecutivi fino al 1984, entrando nella storia del club come il capocannoniere e trascinatore offensivo della cavalcata trionfale della [[stagioni/1982-1983|Stagione 1982-1983]], culminata nel ritorno in Serie A agli spareggi dello Stadio Olimpico di Roma davanti a 40.000 etnei.
+**Aldo Cantarutti** (Manzano, 17 ottobre 1958) è un ex calciatore italiano, nel ruolo di centravanti. Acquistato dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del **1981**, ha vestito la maglia rossazzurra per tre campionati consecutivi fino al 1984, entrando nella storia del club come il capocannoniere e trascinatore offensivo della cavalcata trionfale della [[02-cronistoria/stagioni/1982-1983|Stagione 1982-1983]], culminata nel ritorno in Serie A agli spareggi dello Stadio Olimpico di Roma davanti a 40.000 etnei.
 
 > [!abstract] Primati e Riferimenti Storici in Maglia Etnea
 > - **Presenze Ufficiali:** 96 (84 in campionato di cui 23 in Serie A e 2 negli spareggi promozione, 10 in Coppa Italia).
 > - **Reti Complessive:** 28 (24 in campionato di cui 4 in Serie A, 4 in Coppa Italia).
-> - **Capocannoniere Promozione 1982-1983:** **12 reti** in 36 gare di Serie B, punto di riferimento avanzato nel modulo tattico di [[tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]].
+> - **Capocannoniere Promozione 1982-1983:** **12 reti** in 36 gare di Serie B, punto di riferimento avanzato nel modulo tattico di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]].
 > - **Gli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|Gli Spareggi di Roma]]:** Titolare inamovibile nel triangolare di spareggio contro Como (1-0) e Cremonese (0-0) che regalò al Catania la quarta Serie A della sua storia.
 
 ---
 
 ## 1. La Stagione Perfetta del 1982–1983
 
-Forte fisicamente, dotato di eccezionale elevazione aerea e fiuto del gol da rapace d'area, Cantarutti formò con Angelo Crialesi e Claudio Pellegrini un trio offensivo micidiale. Tra i suoi gol memorabili dell'annata 1982-1983 si ricordano la doppietta alla Sambenedettetta (3-0), la rete decisiva nel derby contro il Palermo al Cibali (1-1) e i gol pesantissimi in trasferta a Pistoia e Foggia.
+Forte fisicamente, dotato di eccezionale elevazione aerea e fiuto del gol da rapace d'area, Cantarutti formò con [[03-tesserati/calciatori/archivio/a-c/angelo-crialesi|Angelo Crialesi]] e Claudio Pellegrini un trio offensivo micidiale. Tra i suoi gol memorabili dell'annata 1982-1983 si ricordano la doppietta alla Sambenedettetta (3-0), la rete decisiva nel derby contro il Palermo al Cibali (1-1) e i gol pesantissimi in trasferta a Pistoia e Foggia.
 
 Negli spareggi dell'Olimpico del 18 e 25 giugno 1983, lottò come un leone contro le difese avversarie, propiziando l'azione del gol-partita di Crialesi contro il Como che aprì le porte della massima divisione.
 

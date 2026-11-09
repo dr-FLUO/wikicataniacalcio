@@ -19,7 +19,7 @@ league_appearances: 37
 total_goals: 10
 league_goals: 11
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -103,7 +103,7 @@ citizenship: Regno d'Italia
   </table>
 </div>
 
-**Goffredo Romani** (Roma, 19 maggio 1926 – Roma, 14 gennaio 2008) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1949** per affrontare il ritorno in Serie B dopo gli anni di gavetta post-bellica, fu il capocannoniere e punto di riferimento offensivo della [[stagioni/1949-1950|Stagione 1949-1950]].
+**Goffredo Romani** (Roma, 19 maggio 1926 – Roma, 14 gennaio 2008) è stato un calciatore italiano, nel ruolo di centravanti. Acquistato dal Club Calcio Catania nell'estate del **1949** per affrontare il ritorno in Serie B dopo gli anni di gavetta post-bellica, fu il capocannoniere e punto di riferimento offensivo della [[02-cronistoria/stagioni/1949-1950|Stagione 1949-1950]].
 
 Sotto la guida tecnica dell'ex juventino Mario Varglien, Romani disputò 37 delle 42 gare di campionato, mettendo a referto **11 reti** decisive per la salvezza e per il consolidamento degli etnei nella seconda serie nazionale.
 

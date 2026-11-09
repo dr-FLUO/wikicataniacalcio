@@ -22,7 +22,7 @@ total_goals: 27
 league_goals: 23
 serie_a_goals: 17
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]]'
 tags:
 - calciatori
 - attaccanti
@@ -111,7 +111,7 @@ tm_id: 488215
 
 **Salvador Calvanese**, affettuosamente ribattezzato dai tifosi **"Todo Calvanese"** (Buenos Aires, 17 agosto 1934 – Buenos Aires, 5 novembre 2019), è stato un calciatore e allenatore di calcio argentino, nel ruolo di centravanti. Acquistato dall'Atlanta di Buenos Aires nell'estate del **1960**, è stato una delle figure più iconiche e amate dell'intera storia calcistica etnea.
 
-Attaccante generoso, grintoso e dotato di eccellente fiuto per il gol, legò indissolubilmente il proprio nome al Catania di [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], segnando il gol del 2-0 nella celebre sfida del 4 giugno 1961 contro l'Inter di Helenio Herrera che originò la storica locuzione radiofonica di Sandro Ciotti: *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*.
+Attaccante generoso, grintoso e dotato di eccellente fiuto per il gol, legò indissolubilmente il proprio nome al Catania di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], segnando il gol del 2-0 nella celebre sfida del 4 giugno 1961 contro l'Inter di Helenio Herrera che originò la storica locuzione radiofonica di Sandro Ciotti: *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*.
 
 > [!abstract] L'Eroe Argentino dell'Era d'Oro di Carmelo Di Bella
 > - **L'Inno al Cibali:** Autore del gol del 2-0 nella storica vittoria contro l'Inter di Herrera il 4 giugno 1961 (*[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»*).
@@ -125,7 +125,7 @@ Attaccante generoso, grintoso e dotato di eccellente fiuto per il gol, legò ind
 
 ### Il Ritorno e il Tridente dei Sogni (1964-1967)
 
-Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[stagioni/1964-1965|Stagione 1964-1965]] fu il centravanti titolare dell'undici che conquistò lo storico **8º posto in Serie A**, formando un tridente memorabile con [[tesserati/calciatori/giancarlo-danova|Giancarlo Danova]] e Carlo Facchin. Nella successiva stagione [[stagioni/1966-1967|1966-1967]] guidò i compagni al terzo posto in Serie B e alla pronta risalita in massima divisione, chiudendo la carriera a Catania con 117 presenze ufficiali. Nel 1971-1972 guidò il club anche da allenatore.
+Dopo una parentesi ad Atlanta, Calvanese tornò a Catania nel 1964: nella [[02-cronistoria/stagioni/1964-1965|Stagione 1964-1965]] fu il centravanti titolare dell'undici che conquistò lo storico **8º posto in Serie A**, formando un tridente memorabile con [[03-tesserati/calciatori/archivio/g-l/giancarlo-danova|Giancarlo Danova]] e Carlo Facchin. Nella successiva stagione [[02-cronistoria/stagioni/1966-1967|1966-1967]] guidò i compagni al terzo posto in Serie B e alla pronta risalita in massima divisione, chiudendo la carriera a Catania con 117 presenze ufficiali. Nel 1971-1972 guidò il club anche da allenatore.
 
 ---
 

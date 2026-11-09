@@ -14,7 +14,7 @@ image: assets/images/allenatori/mario-petrone.jpg
 catania_periods:
 - 2016-2017
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/allenatori/mario-petrone.jpg
   alt_text: Ritratto ufficiale di Mario Petrone in maglia rossazzurra
@@ -122,13 +122,13 @@ Mario Petrone diresse il Catania per tre gare nel febbraio-marzo 2017 (26ª-28ª
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante la brevità dell'esperienza concluse la sua avventura rassegnando le dimissioni per favorire la soluzione interna con Giovanni Pulvirenti.
+Nonostante la brevità dell'esperienza concluse la sua avventura rassegnando le dimissioni per favorire la soluzione interna con [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2016-2017\|2016-2017]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

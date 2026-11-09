@@ -14,7 +14,7 @@ image: assets/images/allenatori/vincenzo-montella.jpg
 catania_periods:
 - 2011-2012
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - allenatori
 - serie-a
@@ -106,12 +106,12 @@ tm_id: 11795
   </table>
 </div>
 
-**Vincenzo Montella** (Pomigliano d'Arco, 18 giugno 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di attaccante. Ingaggiato dal presidente [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]] il **9 giugno 2011**, ha guidato il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] nella [[stagioni/2011-2012|Stagione 2011-2012]], trasformando la compagine etnea in una delle squadre più spettacolari ed efficaci del campionato italiano di massima divisione.
+**Vincenzo Montella** (Pomigliano d'Arco, 18 giugno 1974) è un allenatore di calcio ed ex calciatore italiano, nel ruolo di attaccante. Ingaggiato dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] il **9 giugno 2011**, ha guidato il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] nella [[02-cronistoria/stagioni/2011-2012|Stagione 2011-2012]], trasformando la compagine etnea in una delle squadre più spettacolari ed efficaci del campionato italiano di massima divisione.
 
 > [!abstract] La Stagione dei Record del «Catania dei Piccoletti»
 > - **Bilancio in Campionato:** **48 punti** in 38 giornate (11 vittorie, 15 pareggi, 12 sconfitte; 47 reti realizzate, 52 subite; **11º posto finale**).
-> - **Primato Storico di Punti:** All'epoca stabilì il record assoluto di punti del Catania in Serie A (superato l'anno seguente dai 56 di Rolando Maran).
-> - **Filosofia Tattica:** Modulo 4-3-3 con fraseggio corto, possesso palla rapido e costante aggressione offensiva, esaltato dalla fantasia di [[tesserati/calciatori/francesco-lodi|Francesco Lodi]] in cabina di regia e dal tridente dei "piccoletti" argentini con [[tesserati/calciatori/alejandro-gomez|Papu Gómez]], [[tesserati/calciatori/pablo-barrientos|Pablo Barrientos]] e [[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]].
+> - **Primato Storico di Punti:** All'epoca stabilì il record assoluto di punti del Catania in Serie A (superato l'anno seguente dai 56 di [[03-tesserati/allenatori/rolando-maran|Rolando Maran]]).
+> - **Filosofia Tattica:** Modulo 4-3-3 con fraseggio corto, possesso palla rapido e costante aggressione offensiva, esaltato dalla fantasia di [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] in cabina di regia e dal tridente dei "piccoletti" argentini con [[03-tesserati/calciatori/storici/alejandro-gomez|Papu Gómez]], [[03-tesserati/calciatori/archivio/p-r/pablo-barrientos|Pablo Barrientos]] e [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]].
 
 ---
 

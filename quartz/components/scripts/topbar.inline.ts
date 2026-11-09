@@ -133,10 +133,7 @@ function initTopBarNav() {
   }
 }
 
-function initJerseyLightbox() {
-  const triggers = document.querySelectorAll<HTMLElement>(".jersey-thumb-card")
-  if (triggers.length === 0) return
-
+function initUniversalLightbox() {
   let modal = document.getElementById("jersey-lightbox-modal")
   if (!modal) {
     modal = document.createElement("div")
@@ -178,31 +175,92 @@ function initJerseyLightbox() {
   const modalImg = modal.querySelector<HTMLImageElement>(".jersey-lightbox-img")
   const modalCaption = modal.querySelector<HTMLElement>(".jersey-lightbox-caption")
 
-  triggers.forEach((trigger) => {
-    const openPopup = (e: Event) => {
+  const openModalWith = (src: string, caption: string) => {
+    if (!modalImg || !src) return
+    modalImg.src = src
+    modalImg.alt = caption
+    if (modalCaption) {
+      modalCaption.textContent = caption
+    }
+    modal?.classList.add("is-open")
+    modal?.setAttribute("aria-hidden", "false")
+    document.body.classList.add("jersey-lightbox-locked")
+  }
+
+  // Non attivare mai il lightbox nella homepage (MagazineHome / data-slug="index")
+  if (document.body.getAttribute("data-slug") === "index") {
+    return
+  }
+
+  // 1. Elementi contenitori con attributi espliciti
+  const cardTriggers = document.querySelectorAll<HTMLElement>(
+    ".jersey-thumb-card, .wiki-photo-card, .wiki-photo-figure, .wiki-inset-photo, [data-lightbox-src]",
+  )
+  cardTriggers.forEach((trigger) => {
+    if (trigger.getAttribute("data-lb-bound") === "true") return
+    if (trigger.closest(".nfc-home")) return
+    trigger.setAttribute("data-lb-bound", "true")
+
+    const handleOpen = (e: Event) => {
       e.preventDefault()
       e.stopPropagation()
-      const src = trigger.getAttribute("data-lightbox-src") || ""
-      const caption = trigger.getAttribute("data-caption") || ""
-      const img = trigger.querySelector("img")
-      const alt = img?.alt || caption
-
-      if (modalImg && src) {
-        modalImg.src = src
-        modalImg.alt = alt
-        if (modalCaption) {
-          modalCaption.textContent = caption
-        }
-        modal?.classList.add("is-open")
-        modal?.setAttribute("aria-hidden", "false")
-        document.body.classList.add("jersey-lightbox-locked")
-      }
+      const src =
+        trigger.getAttribute("data-lightbox-src") ||
+        trigger.querySelector<HTMLImageElement>("img")?.src ||
+        ""
+      const caption =
+        trigger.getAttribute("data-caption") ||
+        trigger.querySelector<HTMLImageElement>("img")?.alt ||
+        trigger.querySelector(".wiki-photo-caption")?.textContent ||
+        trigger.querySelector("figcaption")?.textContent ||
+        ""
+      openModalWith(src, caption)
     }
 
-    trigger.addEventListener("click", openPopup)
+    trigger.addEventListener("click", handleOpen)
     trigger.addEventListener("keydown", (e: KeyboardEvent) => {
       if (e.key === "Enter" || e.key === " ") {
-        openPopup(e)
+        handleOpen(e)
+      }
+    })
+  })
+
+  // 2. Immagini generiche negli articoli di contenuto (escluse homepage e immagini dentro link <a>)
+  const articleImgs = document.querySelectorAll<HTMLImageElement>(
+    "article img:not(.no-lightbox):not(.nfc-no-photo-badge)",
+  )
+  articleImgs.forEach((img) => {
+    if (img.getAttribute("data-lb-bound") === "true") return
+    // Salta se l'immagine è nella homepage, dentro un link di navigazione o già figlia di una card trigger
+    if (
+      img.closest(
+        ".nfc-home, .nfc-story-card, .nfc-portrait-card, a[href], .jersey-thumb-card, .wiki-photo-card, .wiki-photo-figure, .wiki-inset-photo, [data-lightbox-src]",
+      )
+    ) {
+      return
+    }
+    img.setAttribute("data-lb-bound", "true")
+    img.classList.add("wiki-lightbox-img")
+    img.setAttribute("role", "button")
+    img.setAttribute("tabindex", "0")
+    img.setAttribute("title", "Clicca per ingrandire")
+
+    const handleOpen = (e: Event) => {
+      e.preventDefault()
+      e.stopPropagation()
+      const src = img.getAttribute("src") || img.currentSrc
+      const caption =
+        img.getAttribute("alt") ||
+        img.getAttribute("title") ||
+        img.closest("figure")?.querySelector("figcaption")?.textContent ||
+        ""
+      openModalWith(src, caption)
+    }
+
+    img.addEventListener("click", handleOpen)
+    img.addEventListener("keydown", (e: KeyboardEvent) => {
+      if (e.key === "Enter" || e.key === " ") {
+        handleOpen(e)
       }
     })
   })
@@ -227,7 +285,7 @@ function initMaglieAccordionToggle() {
 
 function initAllModules() {
   initTopBarNav()
-  initJerseyLightbox()
+  initUniversalLightbox()
   initMaglieAccordionToggle()
 }
 

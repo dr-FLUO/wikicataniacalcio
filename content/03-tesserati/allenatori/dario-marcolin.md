@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2014-2015
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/dario-marcolin.jpg
 image_credits:
 - image_path: assets/images/allenatori/dario-marcolin.jpg
@@ -122,7 +122,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Dario Marcolin, già vice-allenatore di Siniša Mihajlović nella trionfale Serie A 2009-2010, tornò a Catania da primo allenatore per dirigere le ultime 21 giornate della Serie B 2014-2015.
+Dario Marcolin, già vice-allenatore di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] nella trionfale Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]], tornò a Catania da primo allenatore per dirigere le ultime 21 giornate della Serie B 2014-2015.
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -132,7 +132,7 @@ Infilò una serie impressionante di cinque successi consecutivi nella primavera 
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2014-2015\|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2014-2015\|2014-2015]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

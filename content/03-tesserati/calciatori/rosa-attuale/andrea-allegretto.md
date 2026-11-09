@@ -1,14 +1,14 @@
 ---
 title: Andrea Allegretto — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Allegretto, difensore del Calcio Catania con 36 presenze
+description: Biografia, presenze e statistiche ufficiali di Andrea Allegretto, difensore del Calcio Catania con 37 presenze
   e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-allegretto
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
 current_squad: true
-total_appearances: 36
+total_appearances: 37
 seasons_count: 3
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 1
 total_assists: 0
-minutes_played: 2214
+minutes_played: 2304
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 492786
 ---
@@ -94,7 +94,7 @@ tm_id: 492786
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>36</td>
+        <td>37</td>
         <th>Goal / Assist</th>
         <td>1 / 0</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 492786
   </table>
 </div>
 
-**Andrea Allegretto** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Andrea Allegretto** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -112,11 +112,11 @@ tm_id: 492786
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Difensore centrale | 11 | 0 | 0 | 0 | 0 | 488' |
 | **2025-2026** | Difensore centrale | 19 | 0 | 0 | 3 | 0 | 1255' |
-| **2026-2027** | Difensore centrale | 6 | 1 | 0 | 4 | 0 | 471' |
-| **TOTALE** | — | **36** | **1** | **0** | **7** | **0** | **2214'** |
+| **2026-2027** | Difensore centrale | 7 | 1 | 0 | 5 | 0 | 561' |
+| **TOTALE** | — | **37** | **1** | **0** | **8** | **0** | **2304'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **2214 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **37 presenze ufficiali**, disputando **2304 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -127,10 +127,10 @@ Difensore nato a Napoli, Italia nel 2001, **Andrea Allegretto** ha militato nell
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

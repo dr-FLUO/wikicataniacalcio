@@ -5,9 +5,9 @@ description: Biografia, presenze e statistiche ufficiali di Mario Ierardi, difen
 slug: 03-tesserati/calciatori/rosa-attuale/mario-ierardi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Difensore
-total_appearances: 66
+total_appearances: 67
 seasons_count: 3
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 8
 total_assists: 1
-minutes_played: 5113
+minutes_played: 5203
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 370704
 ---
@@ -94,7 +94,7 @@ tm_id: 370704
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>66</td>
+        <td>67</td>
         <th>Goal / Assist</th>
         <td>8 / 1</td>
       </tr>
@@ -102,7 +102,7 @@ tm_id: 370704
   </table>
 </div>
 
-**Mario Ierardi** è un calciatore del [[societa/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+**Mario Ierardi** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
 
 ---
 
@@ -112,11 +112,11 @@ tm_id: 370704
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Difensore centrale | 28 | 2 | 0 | 11 | 0 | 2238' |
 | **2025-2026** | Difensore centrale | 27 | 4 | 1 | 1 | 1 | 1954' |
-| **2026-2027** | Difensore centrale | 11 | 2 | 0 | 1 | 0 | 921' |
-| **TOTALE** | — | **66** | **8** | **1** | **13** | **1** | **5113'** |
+| **2026-2027** | Difensore centrale | 12 | 2 | 0 | 1 | 0 | 1011' |
+| **TOTALE** | — | **67** | **8** | **1** | **13** | **1** | **5203'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **66 presenze ufficiali**, disputando **5113 minuti** di gioco effettivo, siglando **8 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **67 presenze ufficiali**, disputando **5203 minuti** di gioco effettivo, siglando **8 gol** e servendo **1 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
@@ -127,10 +127,10 @@ Originario di Magenta (MI), Italia (classe 1998), **Mario Ierardi** ha militato 
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 1930
 origin_district: "Catania e Siracusa"
 stadium_sector: "Curve Massimino e Gradinata Nicola De Simone Siracusa"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Nicola De Simone"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Nicola De Simone"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -47,6 +47,14 @@ Nel corso degli anni Settanta, Ottanta e Novanta, nei campionati di Serie C, la 
 ## 2. Il Legame Siracusa-Palermo
 
 L'astio è stato ulteriormente alimentato per oltre un ventennio dallo storico **gemellaggio ufficiale** che univa la curva del Siracusa a quella del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]]: la fratellanza aretuseo-palermitana ha reso ogni derby con il Siracusa una replica provinciale del Derby di Sicilia.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

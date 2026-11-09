@@ -9,7 +9,7 @@ foundation_year: 1979
 founder: Francesco 'Ciccio' Famoso
 origin_district: Castello Ursino e Quartieri Popolari del Centro Storico (Catania)
 stadium_sector: Curva Nord (1979–2015) -> Curva Sud (dal 2015)
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 international_ties:
 - Desperados 1999 (Borussia Dortmund)
 - Polonia Bytom
@@ -46,6 +46,10 @@ aliases:
 ---
 
 # Falange d'Assalto Rossazzurra (1979)
+
+
+  
+
 
 La **Falange d'Assalto Rossazzurra** è il gruppo storico fondativo del movimento ultras a Catania, nato nel **1979** nel popolare rione del **Castello Ursino** su iniziativa di **Francesco Famoso**, universalmente noto nel panorama delle curve italiane ed europee come *"Ciccio Falange"*.
 

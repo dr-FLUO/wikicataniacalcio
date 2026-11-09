@@ -14,7 +14,7 @@ image: assets/images/allenatori/silvio-baldini.jpg
 catania_periods:
 - 2007-2008
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image_credits:
 - image_path: assets/images/allenatori/silvio-baldini.jpg
   alt_text: Ritratto ufficiale di Silvio Baldini in maglia rossazzurra
@@ -122,13 +122,13 @@ Silvio Baldini guidò il Catania in Serie A nella stagione 2007-2008 per 31 gior
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico sanguigno e profondamente amato dai suoi calciatori, lasciò un segno indelebile per intensità e coraggio prima del passaggio di testimone a Walter Zenga.
+Tecnico sanguigno e profondamente amato dai suoi calciatori, lasciò un segno indelebile per intensità e coraggio prima del passaggio di testimone a [[03-tesserati/allenatori/walter-zenga|Walter Zenga]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2007-2008\|2007-2008]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2007-2008\|2007-2008]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

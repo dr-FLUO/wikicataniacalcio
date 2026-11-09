@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1957-1958
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 tags:
 - allenatori
 - anni-cinquanta
@@ -97,32 +97,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Riccardo Carapellese</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1922</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1957–1958</strong> (dal 08/12/1957 al 29/12/1957)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>3</td>
-        <th>Media Punti</th>
-        <td>1,33</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 *Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
 **Riccardo Carapellese** (Cerignola (FG), Italia, 1922 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
@@ -147,7 +121,16 @@ Icona indiscussa del calcio italiano del dopoguerra, a Catania mise a disposizio
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1957-1958\|1957-1958]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+
+---
+
+## Voci Correlate
+
+- [[03-tesserati/allenatori/index|Albo Storico degli Allenatori del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
+- [[03-tesserati/index|Hall of Fame Tesserati: Primatisti e Condottieri]]
 
 ---
 

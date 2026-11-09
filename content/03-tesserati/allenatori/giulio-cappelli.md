@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1952-1953
 club_entities:
-- '[[societa/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
+- '[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania (1946-1967)]]'
 image: assets/images/allenatori/giulio-cappelli.jpg
 image_credits:
 - image_path: assets/images/allenatori/giulio-cappelli.jpg
@@ -102,13 +102,13 @@ Giulio Cappelli, oro olimpico a Berlino 1936 e futuro mitico dirigente e D.T. de
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorando in perfetta sinergia con Fioravante Baldi, creò una delle compagini etnee più forti del dopoguerra, chiudendo il campionato a 41 punti sul podio cadetto.
+Lavorando in perfetta sinergia con [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]], creò una delle compagini etnee più forti del dopoguerra, chiudendo il campionato a 41 punti sul podio cadetto.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1952-1953\|1952-1953]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -119,7 +119,7 @@ tm_id: 78496
   </table>
 </div>
 
-**Tomáš Košický** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+**Tomáš Košický** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
 
 ## Profilo Biografico e Carriera
 
@@ -139,3 +139,11 @@ Ha vestito la maglia rossazzurra nel periodo 2008-2012.
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **777 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikipedia Italia**, *Voce Enciclopedica Ufficiale — Tomáš Košický*, Wikimedia Foundation, 2026, Dati anagrafici, carriera e presenze verificate, [Wikimedia Foundation](https://it.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Ko%C5%A1ick%C3%BD).
+2. **Salvatore Giovanni Emanuele, Max Licari**, *Scheda anagrafica e statistiche di Tomàs Kosicky*, calciocatania.com, 2024, Archivio Giocatori CalcioCatania.com - ID 28, [calciocatania.com](https://www.calciocatania.com/giocatori/giocatori.php?Kosicky-28).
+3. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

@@ -6,8 +6,8 @@ slug: 01-societa/vicende-legali/caso-catania-2003
 entity_type: vicenda_legale
 date_start: 2003-04-12
 date_end: 2003-08-19
-season_ref: '[[stagioni/2002-2003|Stagione 2002-2003]]'
-club_entity: '[[societa/index|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+season_ref: '[[02-cronistoria/stagioni/2002-2003|Stagione 2002-2003]]'
+club_entity: '[[01-societa/index|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 figc_matricola: '11700'
 protagonists:
 - Riccardo Gaucci (Presidente Calcio Catania)
@@ -70,7 +70,7 @@ aliases:
 
 # Il Caso Catania (2003)
 
-Il **Caso Catania** (noto nella dottrina giuspubblicistica anche come *[[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]]* o *Caso Catania II* per distinguerlo dal [[vicende-legali/index|contenzioso amministrativo dell'estate 1993]]) rappresenta una controversia giudiziaria e amministrativa esplosa nella primavera-estate del 2003 in relazione al campionato di [[02-cronistoria/stagioni/index|Serie B 2002-2003]]. Scaturita dal reclamo presentato dal presidente **Riccardo Gaucci** per la posizione irregolare del difensore del Siena **Luigi Martinelli**, la vicenda ha scardinato l'interpretazione autarchica del *vincolo di giustizia sportiva*, culminando nell'allargamento della Serie B 2003-2004 a 24 squadre e nell'emanazione della **Legge 17 ottobre 2003, n. 280**.
+Il **Caso Catania** (noto nella dottrina giuspubblicistica anche come *[[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]]* o *Caso Catania II* per distinguerlo dal [[01-societa/vicende-legali/index|contenzioso amministrativo dell'estate 1993]]) rappresenta una controversia giudiziaria e amministrativa esplosa nella primavera-estate del 2003 in relazione al campionato di [[02-cronistoria/stagioni/index|Serie B 2002-2003]]. Scaturita dal reclamo presentato dal presidente **Riccardo Gaucci** per la posizione irregolare del difensore del Siena **Luigi Martinelli**, la vicenda ha scardinato l'interpretazione autarchica del *vincolo di giustizia sportiva*, culminando nell'allargamento della Serie B [[02-cronistoria/stagioni/2003-2004|2003-2004]] a 24 squadre e nell'emanazione della **Legge 17 ottobre 2003, n. 280**.
 
 > [!abstract] Impatto Storico-Giuridico nell'Ordinamento Italiano
 > L'ordinanza cautelare n. 1054/2003 pronunciata dal TAR Sicilia – Sezione staccata di Catania il **5 giugno 2003** ha sancito per la prima volta che il *vincolo di giustizia sportiva* opera esclusivamente per le questioni tecnico-sportive e i diritti disponibili, ma non può precludere la tutela giurisdizionale degli interessi legittimi dinanzi al giudice amministrativo statale (artt. 24, 103 e 113 Cost.) quando un organo federale annulla illegittimamente un verdetto definitivo di secondo grado.
@@ -79,7 +79,7 @@ Il **Caso Catania** (noto nella dottrina giuspubblicistica anche come *[[01-soci
 
 ## Genesi della Controversia: Il [[01-societa/vicende-legali/caso-martinelli-2003|Il Caso Martinelli]]
 
-Il sabato **5 aprile 2003**, in occasione della 29ª giornata di Serie B che vedeva la prima squadra del Siena impegnata contro il Napoli, il difensore bianconero **Luigi Martinelli** (gravato da un turno di squalifica inflitto dal Giudice Sportivo di Serie B) venne schierato fuori quota nella formazione **Primavera** del Siena contro i pari età della Ternana. Ritenendo così estinta la sanzione, il sabato successivo (**12 aprile 2003**), nel match del 30º turno **Catania-Siena (1-1)** disputato allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] (con un calcio di rigore fallito da Vito Grieco), Martinelli rimase in campo per tutti i 90 minuti.
+Il sabato **5 aprile 2003**, in occasione della 29ª giornata di Serie B che vedeva la prima squadra del Siena impegnata contro il Napoli, il difensore bianconero **Luigi Martinelli** (gravato da un turno di squalifica inflitto dal Giudice Sportivo di Serie B) venne schierato fuori quota nella formazione **Primavera** del Siena contro i pari età della Ternana. Ritenendo così estinta la sanzione, il sabato successivo (**12 aprile 2003**), nel match del 30º turno **Catania-Siena (1-1)** disputato allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] (con un calcio di rigore fallito da [[03-tesserati/calciatori/archivio/s-z/vito-grieco|Vito Grieco]]), Martinelli rimase in campo per tutti i 90 minuti.
 
 ---
 
@@ -90,7 +90,7 @@ Il sabato **5 aprile 2003**, in occasione della 29ª giornata di Serie B che ved
 | **17 aprile 2003** | Reclamo LNP | Riccardo Gaucci presenta esposto ex art. 17 c. 5 C.G.S. chiedendo la vittoria per 2-0 a tavolino per il Catania: l'impiego in Primavera non estingue la squalifica della prima squadra. | In attesa di giudizio (41 punti sul campo a fine torneo) |
 | **24 aprile 2003** | Commissione Disciplinare LNP | Rigetto del reclamo catanese in primo grado e omologazione del risultato del campo (1-1). | Catania in zona retrocessione (41 pt) |
 | **28 aprile 2003** | Commissione d'Appello Federale (CAF) | Accoglimento del gravame etneo ex art. 31 Statuto FIGC; assegnazione della vittoria a tavolino per **2-0 al Catania** con decisione inappellabile di 2º grado. | **+2 punti al Catania** (43 pt, quota salvezza) |
-| **22 maggio 2003** | Corte Federale FIGC | Su ricorso del Siena avallato da 8 club cadetti (Ascoli, Bari, Cosenza, Genoa, Hellas Verona, Messina, Napoli, Venezia) ex art. 32 c. 5 Statuto FIGC, annulla il verdetto CAF per lesione dell'interesse di classifica di terzi. | **-2 punti al Catania** (ripristino 1-1; retrocessione in C1 a fine torneo con Vincenzo Guerini) |
+| **22 maggio 2003** | Corte Federale FIGC | Su ricorso del Siena avallato da 8 club cadetti (Ascoli, Bari, Cosenza, Genoa, Hellas Verona, Messina, Napoli, Venezia) ex art. 32 c. 5 Statuto FIGC, annulla il verdetto CAF per lesione dell'interesse di classifica di terzi. | **-2 punti al Catania** (ripristino 1-1; retrocessione in C1 a fine torneo con [[03-tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]]) |
 | **5 giugno 2003** | TAR Sicilia (Sez. Catania) | Il Pres. Vincenzo Zingales (Ord. n. 1054/2003) accoglie l'istanza cautelare rossazzurra: la Corte Federale non aveva potere di terzo grado sul merito. Sospesa la delibera della Corte Federale. | **Ripristino cautelare del 2-0 CAF** (43 pt) |
 | **26 giu – 31 lug 2003** | CGA Regione Siciliana | Su appello della FIGC di Franco Carraro, annulla l'ordinanza del TAR per difetto procedurale di notifica ai controinteressati; nuovo ricorso etneo al TAR Catania. | Caos istituzionale e compilazione di doppi calendari |
 | **13 agosto 2003** | TAR Sicilia (Sez. Catania) | Accoglie un ulteriore ricorso cautelare del Catania disponendo l'esclusione del Napoli per fideiussioni SBC contraffatte. | Boicottaggio di 19 club cadetti e paralisi dei tornei |

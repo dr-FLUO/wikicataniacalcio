@@ -14,7 +14,7 @@ image: assets/images/allenatori/andrea-sottil.jpg
 catania_periods:
 - 2018-2019
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 tags:
 - allenatori
 - calciatori
@@ -135,13 +135,13 @@ Andrea Sottil, insuperabile difensore centrale del Catania in Serie A dal 2005 a
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse la squadra a 65 punti al quarto posto, richiamato alla vigilia degli spareggi promozione dopo la breve parentesi di Walter Novellino.
+Condusse la squadra a 65 punti al quarto posto, richiamato alla vigilia degli spareggi promozione dopo la breve parentesi di [[03-tesserati/allenatori/walter-novellino|Walter Novellino]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2018-2019\|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2018-2019\|2018-2019]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -5,7 +5,7 @@ slug: "01-societa/presidenti/santi-quasimodo"
 entity_type: "dirigente"
 date_start: 1929-06-27
 date_end: 1930-06-30
-club_entity: "[[societa/1929-ss-catania|Società Sportiva Catania]]"
+club_entity: "[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]"
 figc_matricola: "N/A (Pre-1946)"
 tags:
   - santi-quasimodo
@@ -32,7 +32,7 @@ aliases:
 ---
 # Santi Quasimodo (Primo Presidente Società Sportiva Catania)
 
-**Santi Quasimodo** (Catania, 1887 – Catania, 1967) è stato un dirigente sportivo e funzionario pubblico italiano, **primo presidente storico della [[societa/1929-ss-catania|Società Sportiva Catania]]** nella stagione inaugurale **1929-1930**.
+**Santi Quasimodo** (Catania, 1887 – Catania, 1967) è stato un dirigente sportivo e funzionario pubblico italiano, **primo presidente storico della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]** nella stagione inaugurale **[[02-cronistoria/stagioni/1929-1930|1929-1930]]**.
 
 > [!abstract] L'Atto di Fondazione del 1929 e la Prima Promozione
 > Il 27 giugno 1929, al termine di un vivace dibattito cittadino teso a unificare le forze calcistiche etnee (in primis l'Unione Sportiva Catanese) per dotare la città di una compagine all'altezza del panorama nazionale, nacque ufficialmente la **Società Sportiva Catania** con la caratteristica divisa a strisce verticali rosse e azzurre. Santi Quasimodo — cugino di primo grado del celebre poeta e futuro Premio Nobel per la Letteratura Salvatore Quasimodo — venne eletto all'unanimità presidente del sodalizio, guidando la squadra alla vittoria immediata del campionato di Seconda Divisione (Girone A Sud).
@@ -41,10 +41,10 @@ aliases:
 
 ## 1. La Stagione di Esordio (1929-1930)
 
-Sotto la guida direttiva di Quasimodo e la conduzione tecnica di Giorgio Armari:
+Sotto la guida direttiva di Quasimodo e la conduzione tecnica di [[03-tesserati/allenatori/giorgio-armari|Giorgio Armari]]:
 * La squadra disputò le proprie gare interne sul terreno di [[04-strutture/campi-storici/index|Piazza Esposizione]], gremito di appassionati.
 * Nel Girone A Sud di Seconda Divisione, il Catania conquistò il **1º posto in classifica** con 24 punti in 16 gare (10 vittorie, 4 pareggi e sole 2 sconfitte), realizzando 41 reti e subendone appena 13.
-* Tra i protagonisti sul campo si distinsero il cannoniere Piero Blengino (autore di oltre 15 reti), Mario Verova e il portiere Dario Caviglia.
+* Tra i protagonisti sul campo si distinsero il cannoniere [[03-tesserati/calciatori/archivio/p-r/piero-blengino|Piero Blengino]] (autore di oltre 15 reti), Mario Verova e il portiere Dario Caviglia.
 
 ---
 

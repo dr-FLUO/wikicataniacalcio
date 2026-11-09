@@ -53,7 +53,7 @@ Le prime gare ad alta tensione tra etnei e salentini si verificarono nei campion
 
 ## 2. Le Sfide Decisive per la Serie A (Anni 2000)
 
-Il punto più alto della rivalità si è consumato tra la stagione cadetta 2002-2003 e gli anni della massima serie (2008–2012):
+Il punto più alto della rivalità si è consumato tra la stagione cadetta [[02-cronistoria/stagioni/2002-2003|2002-2003]] e gli anni della massima serie (2008–2012):
 - **Battaglie Promozione:** Le sfide allo Stadio Via del Mare e al Massimino registrarono presenze oceaniche di sostenitori al seguito (oltre millecinquecento catanesi in Salento e corposi contingenti giallorossi in Sicilia).
 - **Incidenti e DASPO:** Nel corso degli anni Duemila si verificarono contatti fisici nei piazzali esterni degli impianti, lanci di pietre verso i pullman dei tifosi ospiti e conseguenti emissioni di DASPO di massa da parte delle questure di Catania e Lecce.
 
@@ -62,6 +62,14 @@ Il punto più alto della rivalità si è consumato tra la stagione cadetta 2002-
 ## 3. Il Confronto nei Playoff di Serie C
 
 La riedizione della rivalità tra il 2016 e il 2018 nei gironi meridionali di Serie C ha visto rinnovarsi l'antica animosità, trasformando ogni incrocio in una sfida dall'alto profilo di rischio per l'ordine pubblico, spesso regolata da severe restrizioni sulla vendita dei tagliandi per i settori ospiti.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

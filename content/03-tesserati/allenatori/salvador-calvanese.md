@@ -14,7 +14,7 @@ nationality: Argentina / Italia
 catania_periods:
 - 1971-1972
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 tags:
 - allenatori
 - calciatori
@@ -93,32 +93,6 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Salvador Calvanese</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1934</td>
-        <th>Nazionalità</th>
-        <td>Argentina / Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1971–1972</strong> (dal 01/07/1971 al 10/10/1971)</td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>7</td>
-        <th>Media Punti</th>
-        <td>1,14</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Salvador Calvanese** (Buenos Aires, Argentina, 1934 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1971-1972**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -131,7 +105,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Salvador «Todo» Calvanese è stato uno dei più celebri e amati attaccanti argentini della storia etnea negli anni d'oro della Serie A (1960-1967). Tornato a Catania come tecnico, guidò la squadra in Serie B nelle prime tre giornate del 1971-1972 in coppia con Luigi Valsecchi.
+[[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador «Todo» Calvanese]] è stato uno dei più celebri e amati attaccanti argentini della storia etnea negli anni d'oro della Serie A (1960-1967). Tornato a Catania come tecnico, guidò la squadra in Serie B nelle prime tre giornate del 1971-1972 in coppia con [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]].
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -141,7 +115,7 @@ Simbolo indelebile dell'epopea del [[07-media-e-comunicazione/firme-e-voci/clamo
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1971-1972\|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1971-1972\|1971-1972]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2013-2014
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/luigi-de-canio.jpg
 image_credits:
 - image_path: assets/images/allenatori/luigi-de-canio.jpg
@@ -112,7 +112,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Luigi «Gigi» De Canio guidò il Catania in Serie A dalla 9ª alla 19ª giornata della stagione 2013-2014, subentrando a Rolando Maran.
+Luigi «Gigi» De Canio guidò il Catania in Serie A dalla 9ª alla 19ª giornata della stagione 2013-2014, subentrando a [[03-tesserati/allenatori/rolando-maran|Rolando Maran]].
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -122,7 +122,7 @@ Conquistò una prestigiosa vittoria interna contro il Milan (sfiorata) e il succ
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2013-2014\|2013-2014]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2013-2014\|2013-2014]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

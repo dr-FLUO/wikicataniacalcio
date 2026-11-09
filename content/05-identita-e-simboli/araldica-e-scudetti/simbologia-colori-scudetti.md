@@ -67,12 +67,12 @@ L'identità iconografica, cromatica e araldica del club calcistico etneo affonda
 
 ## 1. Genesi Cromatica: Il Rosso della Lava e l'Azzurro del Mare
 
-I colori sociali adottati formalmente nel **1929** alla nascita della [[societa/1929-ss-catania|Società Sportiva Catania]] traggono ispirazione diretta dallo stemma e dal gonfalone civico della città:
+I colori sociali adottati formalmente nel **1929** alla nascita della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] traggono ispirazione diretta dallo stemma e dal gonfalone civico della città:
 
 * **Rosso cremisi**: evoca il magma incandescente dell'Etna, vulcano attivo che sovrasta e forgia l'indole della comunità catanese.
 * **Azzurro ciano / cobalto**: simboleggia le acque profonde del Golfo di Catania e del Mare Jonio, fonte di vita e scambi commerciali per il porto etneo.
 
-Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da Santi Quasimodo (fratello del futuro Nobel Salvatore) e dal presidente nobile [[societa/presidenti/vespasiano-trigona-di-misterbianco|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[04-strutture/campi-storici/index|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
+Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da Santi Quasimodo (fratello del futuro Nobel Salvatore) e dal presidente nobile [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[04-strutture/campi-storici/index|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
 
 ![Seconda divisa da trasferta del Catania bianca con banda diagonale rossazzurra](/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp)
 
@@ -86,8 +86,8 @@ Il nome popolare ***"Liotru"*** scaturisce dalla corruzione del nome di **Eliodo
 
 Nel calcio cittadino, la figura del Liotru:
 1. Compare nel primo logo circolare del 1929 in posizione eretta e rampante.
-2. Viene stilizzata sopra un pallone di cuoio a 18 pannelli nelle formazioni del dopoguerra del [[societa/1946-club-calcio-catania|Club Calcio Catania]].
-3. Assume la forma iconica con proboscide sollevata verso l'alto (segno di buon auspicio e vigore atletico) nello scudo gotico della [[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]].
+2. Viene stilizzata sopra un pallone di cuoio a 18 pannelli nelle formazioni del dopoguerra del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]].
+3. Assume la forma iconica con proboscide sollevata verso l'alto (segno di buon auspicio e vigore atletico) nello scudo gotico della [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]].
 
 ---
 
@@ -95,10 +95,10 @@ Nel calcio cittadino, la figura del Liotru:
 
 | Periodo | Denominazione Ufficiale | Descrizione Araldica dello Stemma | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| **1929–1936** | [[societa/1929-ss-catania\|S.S. Catania]] | Scudo ovale bordato d'oro con strisce verticali alternate rosso/azzurro ed elefante nero centrale | Debutto ufficiale nei campionati FIGC |
-| **1936–1943** | [[societa/1936-afc-catania\|A.F.C. Catania]] | Scudo svizzero a strisce rossazzurre con fascio littorio laterale ed elefante sormontato da corona | Anni della Serie B fascista e Seconda Guerra Mondiale |
-| **1946–1967** | [[societa/1946-club-calcio-catania\|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[societa/presidenti/santi-maimone\|Santi Maimone]] |
-| **1967–2022** | [[societa/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[societa/matricola-11700\|Matricola 11700]] |
+| **1929–1936** | [[01-societa/epoche/1929-ss-catania\|S.S. Catania]] | Scudo ovale bordato d'oro con strisce verticali alternate rosso/azzurro ed elefante nero centrale | Debutto ufficiale nei campionati FIGC |
+| **1936–1943** | [[01-societa/epoche/1929-ss-catania\|A.F.C. Catania]] | Scudo svizzero a strisce rossazzurre con fascio littorio laterale ed elefante sormontato da corona | Anni della Serie B fascista e Seconda Guerra Mondiale |
+| **1946–1967** | [[01-societa/epoche/1946-club-calcio-catania\|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[01-societa/presidenti/santi-maimone\|Santi Maimone]] |
+| **1967–2022** | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[01-societa/matricola-11700\|Matricola 11700]] |
 | **2022–2023** | Catania SSD | Scudetto circolare con Liotru geometrico moderno e strisce verticali stilizzate | Campionato vinto di Serie D con record di punti |
 | **2026–Oggi** | Catania FC | Ritorno allo stemma storico originario dopo aggiudicazione all'asta fallimentare del 22 ottobre 2026 per 250.000 € | [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026\|Asta Marchio Storico 2026]] |
 
@@ -108,7 +108,7 @@ Nel calcio cittadino, la figura del Liotru:
 
 Il fallimento del Calcio Catania S.p.A. decretato dal Tribunale il **22 dicembre 2021** e la successiva revoca dell'affiliazione FIGC con decadenza della storica **Matricola Federale 11700** rischiarono di congelare a tempo indeterminato l'araldica storica. 
 
-Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprenditore italo-australiano [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] dovette utilizzare una denominazione e uno stemma contemporanei (*Catania SSD*, poi *Catania FC* con la "C" sveva). Il **22 ottobre 2026**, al termine della gara telematica asincrona della Curatela Fallimentare (procedura n. 158/2021 - 254/2021) conclusasi alle ore 12:11 dopo oltre un'ora di rilanci a oltranza contro *Revolution Group S.r.l.*, il Catania Football Club si è aggiudicato in via definitiva per **250.000 euro** (base d'asta 55.000 euro) tutti i marchi, stemmi e denominazioni storiche del club, riallacciando formalmente e patrimonialmente la continuità grafica e araldica con la tradizione ultracentenaria rossazzurra.
+Durante la stagione [[02-cronistoria/stagioni/2022-2023|2022-2023]] in Serie D, la nuova società fondata dall'imprenditore italo-australiano [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] dovette utilizzare una denominazione e uno stemma contemporanei (*Catania SSD*, poi *Catania FC* con la "C" sveva). Il **22 ottobre 2026**, al termine della gara telematica asincrona della Curatela Fallimentare (procedura n. 158/2021 - 254/2021) conclusasi alle ore 12:11 dopo oltre un'ora di rilanci a oltranza contro *Revolution Group S.r.l.*, il Catania Football Club si è aggiudicato in via definitiva per **250.000 euro** (base d'asta 55.000 euro) tutti i marchi, stemmi e denominazioni storiche del club, riallacciando formalmente e patrimonialmente la continuità grafica e araldica con la tradizione ultracentenaria rossazzurra.
 
 > [!tip] Dossier Monografico
 > Per la cronistoria completa dell'asta giudiziaria e i verbali fallimentari, consulta: **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|L'Acquisizione dello Storico Marchio del Calcio Catania all'Asta del 22 Ottobre 2026]]**.
@@ -119,10 +119,10 @@ Durante la stagione 2022-2023 in Serie D, la nuova società fondata dall'imprend
 
 * [[05-identita-e-simboli/sponsor/index|Fornitori e Sponsor Tecnici del Calcio Catania (1979–Oggi)]]
 * [[05-identita-e-simboli/sponsor/index|Storia degli Sponsor Commerciali del Calcio Catania (1982–2026)]]
-* [[societa/1929-ss-catania|Nascita della Società Sportiva Catania nel 1929]]
-* [[societa/1946-club-calcio-catania|La Rinascita post-bellica del 1946]]
-* [[societa/presidenti/angelo-massimino|Angelo Massimino e i trent'anni della Matricola 11700]]
-* [[stadio/angelo-massimino|Lo Stadio Angelo Massimino (ex Cibali)]]
+* [[01-societa/epoche/1929-ss-catania|Nascita della Società Sportiva Catania nel 1929]]
+* [[01-societa/epoche/1946-club-calcio-catania|La Rinascita post-bellica del 1946]]
+* [[01-societa/presidenti/angelo-massimino|Angelo Massimino e i trent'anni della Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Lo Stadio Angelo Massimino (ex Cibali)]]
 
 ---
 

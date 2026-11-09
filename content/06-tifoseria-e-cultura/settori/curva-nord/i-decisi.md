@@ -8,7 +8,7 @@ entity_type: gruppo_ultras
 foundation_year: 1994
 origin_district: San Cristoforo, Picanello e Tunniceddu (Catania)
 stadium_sector: Curva Nord
-stadium_ref: '[[stadio/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
+stadium_ref: '[[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali / Angelo Massimino]]'
 status: verified
 last_verified_date: 2026-10-29
 tags:
@@ -43,6 +43,14 @@ aliases:
 - **La Scissione dalla Falange:** La nascita de I Decisi scaturì da una divergenza generazionale e strategica all'interno della Falange: una parte più giovane e aggressiva dei quartieri San Cristoforo e Picanello scelse di rendersi autonoma per attuare una presenza marcatamente orientata allo scontro fisico con le tifoserie rivali.
 - **Repressione Giudiziaria:** L'elevata propensione allo scontro e la partecipazione a numerosi tafferugli sia in casa che in trasferta resero I Decisi il bersaglio principale delle prime ondate di provvedimenti DASPO e di diffide emesse dalla Questura di Catania tra la fine degli anni Novanta e i primi anni Duemila.
 - **Scioglimento:** La progressiva decapitazione del nucleo storico a causa delle misure restrittive e dei carichi penali portò allo scioglimento della sigla nei primi anni Duemila, con la confluenza dei militanti superstiti in altre realtà di quartiere della Nord.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

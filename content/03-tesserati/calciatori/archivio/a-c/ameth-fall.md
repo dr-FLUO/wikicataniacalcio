@@ -93,7 +93,7 @@ tm_id: 122637
   </table>
 </div>
 
-**Ameth Fall** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+**Ameth Fall** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
 ## Profilo Biografico e Carriera Sportiva
 
@@ -110,3 +110,10 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **0 presenze ufficiali**, disputando **0 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+
+---
+
+## Fonti e Bibliografia
+
+1. **Wikidata Contributors**, *Scheda Biografica Entità Q4745920 (Ameth Fall)*, Wikimedia Foundation, 2026, Registro anagrafico e identificativo sportivo internazionale, [Wikimedia Foundation](https://www.wikidata.org/wiki/Q4745920).
+2. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto*, GEO Edizioni, Empoli, 2010, Registro generale calciatori e presenze ufficiali.

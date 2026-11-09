@@ -1,13 +1,14 @@
 ---
 title: Fabrizio Caligara — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fabrizio Caligara, centrocampista del Calcio Catania con 3 presenze
+description: Biografia, presenze e statistiche ufficiali di Fabrizio Caligara, centrocampista del Calcio Catania con 5 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fabrizio-caligara
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-09'
 role: Centrocampista
-total_appearances: 3
+current_squad: true
+total_appearances: 5
 seasons_count: 1
 image: assets/images/calciatori/fabrizio-caligara.jpg
 image_credits:
@@ -44,9 +45,9 @@ aliases:
 - calciatori/fabrizio-caligara
 total_goals: 0
 total_assists: 0
-minutes_played: 119
+minutes_played: 207
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-09'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 386574
 ---
@@ -80,7 +81,7 @@ tm_id: 386574
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>3</td>
+        <td>5</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -88,7 +89,7 @@ tm_id: 386574
   </table>
 </div>
 
-**Fabrizio Caligara** è stato un calciatore del [[societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+**Fabrizio Caligara** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Centrocampista**.
 
 ---
 
@@ -96,21 +97,21 @@ tm_id: 386574
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Centrocampista | 3 | 0 | 0 | 0 | 0 | 119' |
-| **TOTALE** | — | **3** | **0** | **0** | **0** | **0** | **119'** |
+| **2026-2027** | Centrocampista | 5 | 0 | 0 | 1 | 0 | 207' |
+| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **207'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **3 presenze ufficiali**, disputando **119 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **207 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---
 
 ## Collegamenti e Voci Correlate
 
-* [[societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
-* [[stadio/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
-* [[maglie/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
-* [[media/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
+* [[01-societa/matricola-11700|Calcio Catania: La storia societaria e la Matricola 11700]]
+* [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (ex Cibali)]]
+* [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|I colori e la simbologia rossazzurra]]
+* [[07-media-e-comunicazione/testate/calciocatania-com|Archivio Storico e Portale d'Informazione CalcioCatania]]
 
 ---
 

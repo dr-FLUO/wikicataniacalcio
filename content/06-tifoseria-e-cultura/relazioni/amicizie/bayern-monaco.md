@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2015
 origin_district: "Catania e Monaco di Baviera (Germania)"
 stadium_sector: "Curve Massimino e Südkurve München"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Allianz Arena"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Allianz Arena"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -39,6 +39,14 @@ Oltre alla celebre alleanza con i Desperados del Borussia Dortmund, il movimento
 
 - **Contatti tra Emigrati e Bavaresi:** Monaco di Baviera ospita una delle comunità siciliane e catanesi più numerose della Germania federale, elemento che ha facilitato contatti stabili tra ultras etnei residenti all'estero e militanti del tifo bavarese.
 - **Lo Striscione all'Allianz Arena (Febbraio 2017):** In occasione della morte di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], nel settore caldo della *Südkurve* di Monaco di Baviera durante una partita ufficiale di Bundesliga è comparso uno striscione ufficiale in lingua italiana recante la scritta: *"Riposa in pace Ciccio, capo degli ultrà"*, a dimostrazione della statura mitica raggiunta dal fondatore della Falange d'Assalto anche oltre le Alpi.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

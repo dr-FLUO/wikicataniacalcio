@@ -6,7 +6,7 @@ entity_type: "relazione_tifo"
 foundation_year: 2002
 origin_district: "Catania e Taranto"
 stadium_sector: "Curve Massimino e Curva Nord Taranto"
-stadium_ref: "[[stadio/angelo-massimino|Stadio Angelo Massimino]] e Stadio Erasmo Iacovone"
+stadium_ref: "[[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] e Stadio Erasmo Iacovone"
 status: "verified"
 last_verified_date: 2026-10-29
 tags:
@@ -32,7 +32,7 @@ aliases:
 
 # Rivalità Catania-Taranto: I Playoff 2002 e l'Offesa a Sant'Agata
 
-La rivalità tra le tifoserie del Catania e del **Taranto** è caratterizzata da un tasso di acredine unico, esploso in maniera irrimediabile nel corso della doppia finale dei **Playoff di Serie C1 2001-2002**.
+La rivalità tra le tifoserie del Catania e del **Taranto** è caratterizzata da un tasso di acredine unico, esploso in maniera irrimediabile nel corso della doppia finale dei **Playoff di Serie C1 [[02-cronistoria/stagioni/2001-2002|2001-2002]]**.
 
 ---
 
@@ -49,6 +49,14 @@ Mentre fino al 2001 i rapporti tra le due tifoserie erano caratterizzati da una 
 Il 9 giugno 2002, nella gara di ritorno allo stadio Iacovone, un Catania coriaceo pareggiò per **0-0** difendendo la vittoria per 1-0 conquistata all'andata al Cibali (gol di Cicconi) e conquistando la **promozione in Serie B**:
 - Nel settore ospiti tarantino, assediato da un ambiente ostile e rabbioso, circa 1.500 tifosi rossazzurri vissero un'estasi collettiva rimasta nella leggenda del club, rimanendo sugli spalti a piangere di gioia per oltre un'ora e mezza dopo il fischio finale.
 - Da quella data, ogni successivo Catania-Taranto è stato classificato come match ad altissimo profilo di rischio per l'ordine pubblico.
+
+---
+
+## Voci Correlate
+
+- [[01-societa/index|Storia Societaria e Ragioni Sociali del Calcio Catania]]
+- [[02-cronistoria/stagioni/index|Almanacco delle Stagioni Agonistiche del Calcio Catania (1929–Oggi)]]
+- [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Stadio Cibali)]]
 
 ---
 

@@ -42,7 +42,7 @@ aliases:
 
 # La Curva Sud del Massimino: Tradizione Popolare e Appartenenza
 
-La **Curva Sud** dello [[stadio/angelo-massimino|Stadio Angelo Massimino]] rappresenta storicamente l'anima più verace, rionale e calda del tifo rossazzurro. Definita dalle cronache degli anni Ottanta come il settore più turbolento dello stadio, la Sud ha sviluppato un'identità autonoma fondata sul presenzialismo continuo e sull'attaccamento viscerale alla maglia.
+La **Curva Sud** dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] rappresenta storicamente l'anima più verace, rionale e calda del tifo rossazzurro. Definita dalle cronache degli anni Ottanta come il settore più turbolento dello stadio, la Sud ha sviluppato un'identità autonoma fondata sul presenzialismo continuo e sull'attaccamento viscerale alla maglia.
 
 ---
 

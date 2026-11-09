@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1986-1989
 club_entities:
-- '[[societa/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
+- '[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A. (Era Massimino)]]'
 image: assets/images/allenatori/bruno-pace.jpg
 image_credits:
 - image_path: assets/images/allenatori/bruno-pace.jpg
@@ -115,7 +115,7 @@ Nel giugno 1988 a Cosenza guidò il Catania nel doppio spareggio salvezza contro
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1986-1987\|1986-1987]], [[stagioni/1987-1988\|1987-1988]], [[stagioni/1988-1989\|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1986-1987\|1986-1987]], [[02-cronistoria/stagioni/1987-1988\|1987-1988]], [[02-cronistoria/stagioni/1988-1989\|1988-1989]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

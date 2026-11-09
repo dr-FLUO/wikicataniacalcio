@@ -14,7 +14,7 @@ nationality: Italia
 catania_periods:
 - 1939-1940
 club_entities:
-- '[[societa/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
+- '[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania / AFC Catania (1929-1943)]]'
 tags:
 - allenatori
 - anni-trenta
@@ -80,32 +80,6 @@ citizenship: Italia
   </table>
 </div>
 
-<table class="nfc-player-table nfc-coach-table">
-    <tbody>
-      <tr>
-        <th>Nome e cognome</th>
-        <td colspan="3">Mario Sernagiotto</td>
-      </tr>
-      <tr>
-        <th>Anno</th>
-        <td>1906</td>
-        <th>Nazionalità</th>
-        <td>Italia</td>
-      </tr>
-      <tr>
-        <th>Al Catania</th>
-        <td colspan="3"><strong>1939–1940</strong></td>
-      </tr>
-      <tr class="nfc-stats-row">
-        <th>Partite</th>
-        <td>ND</td>
-        <th>Media Punti</th>
-        <td>ND</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 **Mario Sernagiotto** (Montebelluna (TV), Italia, 1906 – 1983) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
@@ -118,7 +92,7 @@ citizenship: Italia
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Sernagiotto guidò l'AFC Catania nelle prime tre giornate del campionato di Serie B 1939-1940, prima di lasciare la panchina al maestro ungherese György Orth.
+Mario Sernagiotto guidò l'AFC Catania nelle prime tre giornate del campionato di Serie B 1939-1940, prima di lasciare la panchina al maestro ungherese [[03-tesserati/allenatori/gyorgy-orth|György Orth]].
 
 ## 2. La Conduzione Tecnica del Catania
 
@@ -128,7 +102,7 @@ Ex calciatore professionista, curò la preparazione precampionato e l'avvio dell
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/1939-1940\|1939-1940]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/1939-1940\|1939-1940]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

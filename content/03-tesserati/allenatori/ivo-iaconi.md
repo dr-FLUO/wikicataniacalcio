@@ -13,7 +13,7 @@ nationality: Italia
 catania_periods:
 - 2000-2001
 club_entities:
-- '[[societa/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
+- '[[01-societa/epoche/2000-era-gaucci|Calcio Catania S.p.A. (Gestione Gaucci)]]'
 image: assets/images/allenatori/ivo-iaconi.jpg
 image_credits:
 - image_path: assets/images/allenatori/ivo-iaconi.jpg
@@ -106,13 +106,13 @@ Ivo Iaconi fu il primo tecnico ingaggiato da Luciano e Riccardo Gaucci nell'esta
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico rigoroso e metodico, gettò le basi della rosa che avrebbe poi raggiunto la finale play-off contro il Messina sotto la guida di Vincenzo Guerini.
+Tecnico rigoroso e metodico, gettò le basi della rosa che avrebbe poi raggiunto la finale play-off contro il Messina sotto la guida di [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 
 | Periodo | Incarico | Competizioni Ufficiali | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| [[stagioni/2000-2001\|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
+| [[02-cronistoria/stagioni/2000-2001\|2000-2001]] | Conduzione Tecnica | Campionato e Coppe Ufficiali | Presenze e direzione tecnica certificate |
 
 ---
 

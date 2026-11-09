@@ -14,7 +14,7 @@ catania_periods:
 - 2012-2013
 - 2014 (Gennaio - Aprile)
 club_entities:
-- '[[societa/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
+- '[[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A. (Era Pulvirenti)]]'
 image: assets/images/allenatori/rolando-maran.jpg
 image_credits:
 - image_path: assets/images/allenatori/rolando-maran.jpg
@@ -94,32 +94,32 @@ tm_id: 3018
   </table>
 </div>
 
-**Rolando Maran** (Trento, 14 luglio 1963) è un allenatore di calcio ed ex calciatore italiano. È il tecnico che ha condotto il [[societa/2004-era-pulvirenti|Calcio Catania S.p.A.]] al **punto più alto della sua storia statistica e agonistica in Serie A**: nella memorabile [[stagioni/2012-2013|Stagione 2012-2013]], la formazione rossazzurra da lui guidata ha conquistato l'**8º posto in classifica** (eguagliando il miglior piazzamento di sempre stabilito da [[tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta) e ha fissato il **record assoluto di punti (56)**, di **vittorie complessive (15)**, di **vittorie interne (12 su 19)** e di **reti segnate (50)** nella Serie A moderna a 20 squadre, sfiorando per un solo punto la qualificazione alla UEFA Europa League.
+**Rolando Maran** (Trento, 14 luglio 1963) è un allenatore di calcio ed ex calciatore italiano. È il tecnico che ha condotto il [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] al **punto più alto della sua storia statistica e agonistica in Serie A**: nella memorabile [[02-cronistoria/stagioni/2012-2013|Stagione 2012-2013]], la formazione rossazzurra da lui guidata ha conquistato l'**8º posto in classifica** (eguagliando il miglior piazzamento di sempre stabilito da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] negli anni Sessanta) e ha fissato il **record assoluto di punti (56)**, di **vittorie complessive (15)**, di **vittorie interne (12 su 19)** e di **reti segnate (50)** nella Serie A moderna a 20 squadre, sfiorando per un solo punto la qualificazione alla UEFA Europa League.
 
-> [!abstract] I Record Storici della [[stagioni/2012-2013|Stagione 2012-2013]]
-> - **Record Assoluto di Punti in Serie A:** **56 punti** in 38 giornate ($15\text{ V} \times 3 + 11\text{ N} = 56\text{ pt}$), superando di 8 lunghezze il precedente primato di 48 punti di Vincenzo Montella ([[stagioni/2011-2012|2011-2012]]).
-> - **Record di Vittorie in Serie A:** **15 vittorie totali** (di cui **12 allo [[stadio/angelo-massimino|Stadio Angelo Massimino]]** e 3 in trasferta), eguagliando il numero assoluto di successi del [[stagioni/1960-1961|1960-1961]].
+> [!abstract] I Record Storici della [[02-cronistoria/stagioni/2012-2013|Stagione 2012-2013]]
+> - **Record Assoluto di Punti in Serie A:** **56 punti** in 38 giornate ($15\text{ V} \times 3 + 11\text{ N} = 56\text{ pt}$), superando di 8 lunghezze il precedente primato di 48 punti di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] ([[02-cronistoria/stagioni/2011-2012|2011-2012]]).
+> - **Record di Vittorie in Serie A:** **15 vittorie totali** (di cui **12 allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]** e 3 in trasferta), eguagliando il numero assoluto di successi del [[02-cronistoria/stagioni/1960-1961|1960-1961]].
 > - **Piazzamento e Coppa Italia:** **8º posto finale in Serie A** (a -1 dalla Lazio 7ª, poi qualificata in Europa) e **Quarti di Finale di Coppa Italia**.
 
 ## La Sinfonia Perfetta della Stagione 2012–2013
 
-Ingaggiato nell'**estate del 2012** dal presidente [[societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dal nuovo direttore generale [[societa/presidenti/sergio-gasparin|Sergio Gasparin]] (subentrato a [[societa/presidenti/pietro-lo-monaco|Pietro Lo Monaco]]) dopo l'ottimo lavoro svolto in Serie B col Varese, Rolando Maran eredita a [[stadio/torre-del-grifo|Torre del Grifo Village]] il nucleo storico del *"Catania degli Argentini"* lasciato da Vincenzo Montella e sceglie con grande intelligenza di non stravolgerne i meccanismi, perfezionando il 4-3-3 (e all'occorrenza 4-2-3-1) con una straordinaria solidità difensiva e letali combinazioni palla a terra.
+Ingaggiato nell'**estate del 2012** dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dal nuovo direttore generale [[01-societa/dirigenti/sergio-gasparin|Sergio Gasparin]] (subentrato a [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]]) dopo l'ottimo lavoro svolto in Serie B col Varese, Rolando Maran eredita a [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]] il nucleo storico del *"Catania degli Argentini"* lasciato da Vincenzo Montella e sceglie con grande intelligenza di non stravolgerne i meccanismi, perfezionando il 4-3-3 (e all'occorrenza 4-2-3-1) con una straordinaria solidità difensiva e letali combinazioni palla a terra.
 
-Con Mariano Andújar tra i pali, Pablo Álvarez, Nicola Legrottaglie, Nicolás Spolli e Giovanni Marchese in difesa, il trio di centrocampo formato da capitan [[tesserati/calciatori/mariano-izco|Mariano Izco]], **Francesco Lodi** ([[tesserati/calciatori/francesco-lodi|regista da 6 gol e 8 assist]]) e Sergio Almiron (alternato a [[tesserati/calciatori/marco-biagianti|Marco Biagianti]] e **Lucas Castro**), e il tridente d'attacco composto da **Pablo Barrientos**, **Alejandro "Papu" Gómez** (8 reti) e **[[tesserati/calciatori/gonzalo-bergessio|Gonzalo Bergessio]]** (capocannoniere con 13 reti in A e 15 totali), il Catania disputa una stagione leggendaria:
+Con [[03-tesserati/calciatori/storici/mariano-andujar|Mariano Andújar]] tra i pali, Pablo Álvarez, [[03-tesserati/calciatori/archivio/m-o/nicola-legrottaglie|Nicola Legrottaglie]], [[03-tesserati/calciatori/archivio/m-o/nicolas-spolli|Nicolás Spolli]] e Giovanni Marchese in difesa, il trio di centrocampo formato da capitan [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]], **Francesco Lodi** ([[03-tesserati/calciatori/storici/francesco-lodi|regista da 6 gol e 8 assist]]) e Sergio Almiron (alternato a [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]] e **[[03-tesserati/calciatori/archivio/g-l/lucas-castro|Lucas Castro]]**), e il tridente d'attacco composto da **[[03-tesserati/calciatori/archivio/p-r/pablo-barrientos|Pablo Barrientos]]**, **Alejandro "Papu" Gómez** (8 reti) e **[[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]]** (capocannoniere con 13 reti in A e 15 totali), il Catania disputa una stagione leggendaria:
 
-- Allo [[stadio/angelo-massimino|Stadio Angelo Massimino]] cadono una dopo l'altra **Lazio (4-0)** il 4 novembre 2012, **Chievo (2-1)**, **Genoa (3-2)**, **Atalanta (2-1)**, **Sampdoria (3-1)**, **Roma (1-0)**, **Fiorentina (2-1)**, **Bologna (1-0)**, **Udinese (3-1)**, **Siena (3-0)** e **Pescara (1-0)** (successo del 12 maggio 2013 che sancisce il nuovo record assoluto di punti).
+- Allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] cadono una dopo l'altra **Lazio (4-0)** il 4 novembre 2012, **Chievo (2-1)**, **Genoa (3-2)**, **Atalanta (2-1)**, **Sampdoria (3-1)**, **Roma (1-0)**, **Fiorentina (2-1)**, **Bologna (1-0)**, **Udinese (3-1)**, **Siena (3-0)** e **Pescara (1-0)** (successo del 12 maggio 2013 che sancisce il nuovo record assoluto di punti).
 - In **Coppa Italia**, dopo aver eliminato Cittadella (3-1) e Parma ai calci di rigore allo Stadio Tardini, i rossazzurri raggiungono i **Quarti di Finale** (cedendo solo sul campo della Lazio).
 
 ## La Stagione 2013–2014 e il Bilancio Complessivo
 
-Confermato per la [[stagioni/2013-2014|Stagione 2013-2014]], Maran paga lo smantellamento estivo dell'ossatura storica operato dal nuovo amministratore delegato Pablo Cosentino (cessioni di Gómez, Lodi, Marchese e Biagianti) e una serie di gravi infortuni: esonerato una prima volta dopo l'8ª giornata (20 ottobre 2013) a favore di Luigi De Canio e richiamato in panchina il 15 gennaio 2014 (con il ritorno di [[tesserati/calciatori/francesco-lodi|Lodi]] e il 3-1 inflitto alla Lazio), guida la squadra per altre 13 gare fino al 6 aprile 2014, totalizzando complessivamente **63 panchine ufficiali** (59 in Serie A e 4 in Coppa Italia) alla guida del Catania.
+Confermato per la [[02-cronistoria/stagioni/2013-2014|Stagione 2013-2014]], Maran paga lo smantellamento estivo dell'ossatura storica operato dal nuovo amministratore delegato Pablo Cosentino (cessioni di Gómez, Lodi, Marchese e Biagianti) e una serie di gravi infortuni: esonerato una prima volta dopo l'8ª giornata (20 ottobre 2013) a favore di [[03-tesserati/allenatori/luigi-de-canio|Luigi De Canio]] e richiamato in panchina il 15 gennaio 2014 (con il ritorno di [[03-tesserati/calciatori/storici/francesco-lodi|Lodi]] e il 3-1 inflitto alla Lazio), guida la squadra per altre 13 gare fino al 6 aprile 2014, totalizzando complessivamente **63 panchine ufficiali** (59 in Serie A e 4 in Coppa Italia) alla guida del Catania.
 
 ### Riepilogo Statistico sulla Panchina del Calcio Catania
 
 | Stagione | Società / Matricola | Categoria | Piazzamento / Esito | G Serie A | V | N | P | GF | GS | Punti | Coppa Italia |
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[[stagioni/2012-2013\|2012-2013]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
-| **[[stagioni/2013-2014\|2013-2014]]** | [[societa/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
+| **[[02-cronistoria/stagioni/2012-2013\|2012-2013]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | **8º posto — Record storico di 56 punti** | 38 | 15 | 11 | 12 | 50 | 46 | **56** | 3 (1V, 1N, 1P) |
+| **[[02-cronistoria/stagioni/2013-2014\|2013-2014]]** | [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] (11700) | Serie A | 1ª-8ª e 20ª-32ª giornata (20º posto finale) | 21 | 2 | 6 | 13 | 17 | 39 | 12 | 1 (0V, 0N, 1P) |
 | **Totale** | **2 Stagioni (2012–2014)** | **Serie A** | **59 panchine Serie A + 4 Coppa Italia = 63** | **59** | **17** | **17** | **25** | **67** | **85** | **68** | **4** |
 
 ## Fonti e Bibliografia
