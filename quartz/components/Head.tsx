@@ -130,10 +130,14 @@ export default (() => {
           </>
         )}
 
-        <link rel="icon" href={`${faviconIcoPath}?v=wcc1`} sizes="any" />
-        <link rel="icon" type="image/svg+xml" href={`${faviconSvgPath}?v=wcc1`} />
-        <link rel="icon" type="image/png" sizes="32x32" href={`${iconPath}?v=wcc1`} />
-        <link rel="apple-touch-icon" sizes="180x180" href={`${iconPath}?v=wcc1`} />
+        {/* Favicon & Web App Icons - Conforme a Google Search Central & Standard W3C/Apple */}
+        <link rel="icon" href="/favicon.ico" sizes="48x48 32x32 16x16" />
+        <link rel="icon" type="image/svg+xml" href="/static/favicon.svg" />
+        <link rel="icon" type="image/png" sizes="48x48" href="/static/icon-48.png" />
+        <link rel="icon" type="image/png" sizes="192x192" href="/static/icon-192.png" />
+        <link rel="icon" type="image/png" sizes="512x512" href="/static/icon.png" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/icon.png" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 
