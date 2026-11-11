@@ -60,7 +60,7 @@ aliases:
 
 La mattina del **23 giugno 2015**, la Procura della Repubblica di Catania e la locale Squadra Mobile e DIGOS della Polizia di Stato eseguirono sette ordinanze di custodia cautelare nell'ambito della celebre inchiesta giudiziaria denominata **"I treni del gol"**.
 
-L'indagine portò agli arresti domiciliari per truffa e frode in competizioni sportive (art. 1 L. 401/1989) del presidente del Calcio Catania **Antonino Pulvirenti**, dell'amministratore delegato **Pablo Cosentino**, del direttore sportivo Daniele Delli Carri e di vari intermediari del mondo delle scommesse clandestine, accertando l'avvenuta alterazione fraudolenta di almeno cinque match del campionato di Serie B [[02-cronistoria/stagioni/2014-2015|2014-2015]] (Varese, Trapani, Latina, Ternana, Livorno) dietro il pagamento di circa 100.000 euro a partita per scongiurare la caduta in terza serie.
+L'indagine portò agli arresti domiciliari per truffa e frode in competizioni sportive (art. 1 L. 401/1989) del presidente del Calcio Catania **[[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]**, dell'amministratore delegato **Pablo Cosentino**, del direttore sportivo Daniele Delli Carri e di vari intermediari del mondo delle scommesse clandestine, accertando l'avvenuta alterazione fraudolenta di almeno cinque match del campionato di Serie B [[02-cronistoria/stagioni/2014-2015|2014-2015]] (Varese, Trapani, Latina, Ternana, Livorno) dietro il pagamento di circa 100.000 euro a partita per scongiurare la caduta in terza serie.
 
 La notizia provocò un'ondata di indignazione senza precedenti tra la gente di Catania, sancendo la rottura immediata e irreversibile tra la dirigenza societaria e l'intera comunità dei sostenitori.
 
@@ -71,7 +71,7 @@ La notizia provocò un'ondata di indignazione senza precedenti tra la gente di C
 > - **Tipologia / Natura Evento:** Gravissima frode societaria e sportiva, dissenso di massa, cortei urbani ad alta densità partecipativa, difesa della dignità e della matricola 11700.
 > - **Misure Cautelari e Provvedimenti Sportivi:** Arresti domiciliari per i vertici dirigenziali; declassamento d'ufficio del club all'ultimo posto della Serie B 2014-2015 e retrocessione in Lega Pro con -12 punti di penalizzazione (poi ridotti a -9) e 150.000 euro di ammenda; inibizione per 5 anni a Pulvirenti.
 > - **Gestione di Pubblica Sicurezza:** Monitoraggio pacifico e continuo dei cortei da parte della Questura di Catania senza scontri fisici, a fronte di una mobilitazione civile impeccabile che rifiutò ogni complicità con la proprietà corruttrice.
-> - **Fonti Documentali:** *Tribunale di Catania*, Comunicati Ufficiali *FIGC*, *La Sicilia*, *La Gazzetta dello Sport*, *NewSicilia*.
+> - **Fonti Documentali:** *Tribunale di Catania*, Comunicati Ufficiali *FIGC*, *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*, *La Gazzetta dello Sport*, *NewSicilia*.
 
 ---
 
@@ -79,7 +79,7 @@ La notizia provocò un'ondata di indignazione senza precedenti tra la gente di C
 
 A differenza di altre piazze calcistiche che in analoghe circostanze tentarono di minimizzare o giustificare gli illeciti dei propri patron, il popolo rossazzurro assunse una postura di netta e intransigente condanna morale e civile:
 1. **La Mobilitazione del 25 Giugno 2015:** A quarantotto ore dagli arresti, oltre **cinquemila persone** — tra esponenti della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], club di provincia, famiglie e anziani tifosi — si radunarono spontaneamente in **Piazza Cavour** (il tradizionale "Borgo").
-2. **Il Corteo Lungo Via Etnea:** Un immenso corteo scese lungo la principale arteria cittadina senza scandire cori violenti ma intonando inni per la maglia rossazzurra e impugnando striscioni inequivocabili: *"Il Catania siamo noi, Pulvirenti e Cosentino mai più"*, *"La fede non si compra con i treni del gol"* e *"Difendiamo la matricola 11700"*.
+2. **Il Corteo Lungo Via Etnea:** Un immenso corteo scese lungo la principale arteria cittadina senza scandire cori violenti ma intonando inni per la maglia rossazzurra e impugnando striscioni inequivocabili: *"Il Catania siamo noi, Pulvirenti e Cosentino mai più"*, *"La fede non si compra con i treni del gol"* e *"Difendiamo la [[01-societa/matricola-11700|matricola 11700]]"*.
 3. **Il Presidio al Palazzo Municipale:** La manifestazione raggiunse Piazza Duomo e si arrestò davanti a Palazzo degli Elefanti, chiedendo l'intervento del Sindaco di Catania e delle istituzioni locali affinché garantissero l'estromissione immediata di tutti i soggetti indagati dalla gestione della società.
 
 ---
@@ -89,7 +89,7 @@ A differenza di altre piazze calcistiche che in analoghe circostanze tentarono d
 Sul fronte della giustizia disciplinare, la FIGC intervenne con la massima celerità:
 - **La Confessione:** Dinanzi al Procuratore Federale Stefano Palazzi, Antonino Pulvirenti ammise gli addebiti, sostenendo di aver comprato le partite *"per salvare il Catania dalla retrocessione e tutelare gli investimenti societari"*.
 - **Le Sanzioni del Tribunale Federale Nazionale (TFN):** Con sentenza dell'agosto 2015 confermata dalla Corte Federale d'Appello, il Catania venne retrocesso all'ultimo posto del campionato di Serie B 2014-2015 e collocato in Lega Pro per la [[02-cronistoria/stagioni/2015-2016|Stagione 2015-2016]] con una pesante penalizzazione iniziale di **12 punti** (successivamente ridotta a -9 dal Collegio di Garanzia dello Sport del CONI) e un'ammenda pecuniaria di 150.000 euro.
-- **La Discesa nel Baratro:** La vicenda segnò l'inizio del tracollo finanziario ed economico dell'era Pulvirenti-Cosentino, innescando anni di agonia gestionale e contenziosi che avrebbero condotto al dissesto, al concordato preventivo e infine al fallimento del Calcio Catania S.p.A. nel dicembre 2021.
+- **La Discesa nel Baratro:** La vicenda segnò l'inizio del tracollo finanziario ed economico dell'era Pulvirenti-Cosentino, innescando anni di agonia gestionale e contenziosi che avrebbero condotto al dissesto, al concordato preventivo e infine al fallimento del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel dicembre 2021.
 
 ---
 
@@ -97,7 +97,7 @@ Sul fronte della giustizia disciplinare, la FIGC intervenne con la massima celer
 
 L'estate del 2015 è considerata dagli analisti sociologici dello sport come un esempio di straordinaria maturità civile delle curve etnee. Rifiutando qualsiasi compromesso con i vertici proprietari, la tifoseria dimostrò che il legame identitario col club trascendeva le categorie sportive e le figure temporanee di presidenti e dirigenti:
 - Non si registrarono atti di vandalismo o danneggiamento urbano.
-- Venne inaugurata la stagione dello striscione unitario della Curva Sud ***Estrema Appartenenza***, destinato a rappresentare l'attaccamento incondizionato alla maglia indipendentemente dai teatri della Serie C o dei dilettanti.
+- Venne inaugurata la stagione dello striscione unitario della Curva Sud ***[[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza]]***, destinato a rappresentare l'attaccamento incondizionato alla maglia indipendentemente dai teatri della Serie C o dei dilettanti.
 
 ---
 

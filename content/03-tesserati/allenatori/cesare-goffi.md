@@ -98,7 +98,7 @@ seasons_count: 4
   </table>
 </div>
 
-**Cesare Goffi** (Torino, Italia, 1920 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
+**[[03-tesserati/calciatori/archivio/a-c/cesare-goffi|Cesare Goffi]]** (Torino, Italia, 1920 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Portiere

@@ -46,7 +46,7 @@ aliases:
 
 # Estrema Appartenenza Curva Sud Catania (2015)
 
-**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **[[02-cronistoria/stagioni/2015-2016|2015-2016]]** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Angelo Massimino per identificare la propria presenza collettiva nelle partite in trasferta lungo tutta la penisola.
+**Estrema Appartenenza** è la sigla unitaria adottata a partire dalla stagione **[[02-cronistoria/stagioni/2015-2016|2015-2016]]** dagli ultras della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per identificare la propria presenza collettiva nelle partite in trasferta lungo tutta la penisola.
 
 ---
 

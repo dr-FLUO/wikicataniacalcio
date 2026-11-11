@@ -84,7 +84,7 @@ aliases:
   </table>
 </div>
 
-**Gabriele Matricciani** (Pescara, Italia, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
+**Gabriele Matricciani** (Pescara, Italia, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -100,7 +100,7 @@ Gabriele Matricciani guidò il Catania in Serie B nella titanica stagione a 24 s
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse gli etnei a un eccellente 9º posto finale con 67 punti, valorizzando giocatori come [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], Luis Oliveira e [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]].
+Condusse gli etnei a un eccellente 9º posto finale con 67 punti, valorizzando giocatori come [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Luis Oliveira]] e [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

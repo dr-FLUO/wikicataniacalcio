@@ -88,7 +88,7 @@ aliases:
   </table>
 </div>
 
-**Franco Gagliardi** (Reggio Calabria, Italia, 1943) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1997-1998**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Franco Gagliardi** (Reggio Calabria, Italia, 1943) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1997-1998**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore

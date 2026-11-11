@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Domenico Toscano** (Cardeto (RC), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2024-2026**, legando il proprio nome alla storia societaria di Catania Football Club (2023-Oggi).
+**Domenico Toscano** (Cardeto (RC), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2024-2026**, legando il proprio nome alla storia societaria di [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] (2023-Oggi).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista

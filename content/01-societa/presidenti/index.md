@@ -50,15 +50,15 @@ La storia del Calcio Catania è indissolubilmente legata alle figure dei suoi pr
 - [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo (1929-1930)]] — Fondatore e primo presidente della Società Sportiva Catania.
 - [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona, duca di Misterbianco (1931-1936)]] — Il nobile che guidò la prima storica scalata in Serie B nel 1934.
 - [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca (1936-1940)]] — Presidente durante l'inaugurazione dello Stadio Cibali nel 1937.
-- **Filippo Filippi** (1940-1941)
+- **Filippo Filippi** ([[02-cronistoria/stagioni/1940-1941|1940-1941]])
 - **Angelo Vasta** (1941-1943)
 
 ### La Ricostruzione e la Prima Serie A (1946-1969)
-- [[01-societa/presidenti/santi-manganaro-passanisi|Santi Manganaro Passanisi (1946-1948)]] — Demiurgo della rifondazione del Club Calcio Catania nel 1946 (Matricola 11700).
+- [[01-societa/presidenti/santi-manganaro-passanisi|Santi Manganaro Passanisi (1946-1948)]] — Demiurgo della rifondazione del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nel 1946 (Matricola 11700).
 - [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio (1948-1951)]]
 - [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti (1951-1954)]] — Conquista la storica prima promozione in Serie A nel 1954.
-- **Giuseppe Ingrassia** (1954-1955)
-- **Michele Giuffrida** (1955-1959)
+- **Giuseppe Ingrassia** ([[02-cronistoria/stagioni/1954-1955|1954-1955]])
+- **[[07-media-e-comunicazione/firme-e-voci/michele-giuffrida|Michele Giuffrida]]** (1955-1959)
 - [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio (1959-1969)]] — Il presidente dell'era d'oro in Serie A, artefice del *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* (1961).
 
 ### L'Era Massimino (1969-1996)
@@ -73,7 +73,7 @@ La storia del Calcio Catania è indissolubilmente legata alle figure dei suoi pr
 - [[01-societa/presidenti/davide-franco|Davide Franco (2015-2020)]]
 
 ### La Rinascita Contemporanea (2022-2027)
-- [[01-societa/presidenti/ross-pelligra|Ross Pelligra (2022-2027)]] — Imprenditore italo-australiano a capo del Pelligra Group, vincitore del bando comunale per la rinascita del Catania F.C., dominatore della Serie D 2022-2023 a quota 88 punti e trionfatore della Coppa Italia Serie C 2024.
+- [[01-societa/presidenti/ross-pelligra|Ross Pelligra (2022-2027)]] — Imprenditore italo-australiano a capo del Pelligra Group, vincitore del bando comunale per la rinascita del Catania F.C., dominatore della Serie D [[02-cronistoria/stagioni/2022-2023|2022-2023]] a quota 88 punti e trionfatore della [[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]] 2024.
 
 
 

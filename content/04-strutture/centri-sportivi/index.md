@@ -24,7 +24,7 @@ aliases:
 
 # Centri Sportivi e Strutture di Allenamento
 
-Oltre al terreno principale dello Stadio Angelo Massimino, il club ha fatto riferimento a vari complessi comunali per la preparazione atletica della prima squadra e delle formazioni giovanili.
+Oltre al terreno principale dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], il club ha fatto riferimento a vari complessi comunali per la preparazione atletica della prima squadra e delle formazioni giovanili.
 
 ---
 

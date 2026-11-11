@@ -139,7 +139,7 @@ Il **12 marzo 2010** va in scena al Massimino uno dei momenti più gloriosi dell
 2. All'81', fallo di mano sulla riga di Sulley Muntari (espulso) e rigore per gli etnei: [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] beffa Júlio César con uno sfrontato tocco a cucchiaio centrale per il 2-1.
 3. Al 90', contropiede solitario di [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]], che scavalca Chivu con un sombrero volante e deposita il pallone del **3-1** all'incrocio dei pali.
 
-La vittoria sull'Inter scatena l'entusiasmo della città ed è seguita, il **3 aprile 2010**, da un altro trionfo trionfale: il **2-0 nel Derby di Sicilia contro il [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo]]**, firmato da una splendida doppietta di Maxi López.
+La vittoria sull'Inter scatena l'entusiasmo della città ed è seguita, il **3 aprile 2010**, da un altro trionfo trionfale: il **2-0 nel [[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Derby di Sicilia]] contro il [[02-cronistoria/partite-storiche/precedenti/palermo|Palermo]]**, firmato da una splendida doppietta di Maxi López.
 
 ---
 

@@ -63,7 +63,7 @@ Il provvedimento innescò una sollevazione popolare di massa senza precedenti, c
 > - **Teatri dell'Azione:** Catania (Stazione Centrale, svincoli della Tangenziale, vie cittadine, Stadio Cibali) e Roma (Sede FIGC di Via Allegri).
 > - **Tipologia / Natura Evento:** Sommosse civili di piazza, blocchi delle infrastrutture di trasporto, picchetti dimostrativi, contenzioso amministrativo d'urgenza.
 > - **Conseguenze Giudiziarie e Provvedimenti:** Denunce penali ex art. 1-bis D.Lgs. 50/1948 per blocco ferroviario; identificazioni per adunata sediziosa e interruzione di pubblico servizio a Roma; ordinanze cautelari del TAR Toscana e del CGA; delibera FIGC di riammissione in soprannumero nel campionato di Eccellenza siciliana.
-> - **Fonti Documentali:** *La Sicilia* (02/08/1993 e 21/08/1993), *Corriere dello Sport* (01/10/1993, 04/10/1993 e 19/10/1993), Atti Parlamentari dell'XI Legislatura.
+> - **Fonti Documentali:** *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]* (02/08/1993 e 21/08/1993), *Corriere dello Sport* (01/10/1993, 04/10/1993 e 19/10/1993), Atti Parlamentari dell'XI Legislatura.
 
 ---
 
@@ -82,7 +82,7 @@ L'episodio più emblematico sul piano identitario e antropologico avvenne domeni
 
 Nonostante la partita fosse inesistente e la squadra estromessa da ogni campionato federale, **oltre 10.000 persone** risposero all'appello congiunto delle curve e acquistarono un tagliando simbolico di sostegno, assiepandosi sugli spalti dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
 
-Sul prato verde scesero il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il tecnico [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]] e l'intera rosa della prima squadra, tra cui il giovane attaccante catanese [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]]. Davanti a un tifo incessante, si tenne prima una grande assemblea pubblica di rivendicazione della matricola 11700 e successivamente una sgambatura dimostrativa contro la formazione dilettantistica locale della **Palestro**, tra cori, bandiere e l'esposizione di striscioni di sfida contro i palazzi del potere calcistico romano.
+Sul prato verde scesero il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il tecnico [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]] e l'intera rosa della prima squadra, tra cui il giovane attaccante catanese [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]]. Davanti a un tifo incessante, si tenne prima una grande assemblea pubblica di rivendicazione della [[01-societa/matricola-11700|matricola 11700]] e successivamente una sgambatura dimostrativa contro la formazione dilettantistica locale della **Palestro**, tra cori, bandiere e l'esposizione di striscioni di sfida contro i palazzi del potere calcistico romano.
 
 ---
 

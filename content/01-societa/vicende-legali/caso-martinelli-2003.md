@@ -53,7 +53,7 @@ aliases:
 
 # Il Caso Martinelli (2003) — L'Impiego Irregolare e il Contenzioso Disciplinare
 
-Il **Caso Martinelli** rappresenta l'origine giurisprudenziale e materiale da cui scaturì il più ampio [[01-societa/vicende-legali/caso-catania-2003|Caso Catania dell'estate 2003]]. La controversia nacque sul terreno di gioco dello Stadio Cibali il **12 aprile 2003**, in occasione della 30ª giornata del campionato di Serie B: la gara [[02-cronistoria/partite-storiche/2002-2003/catania-siena-1-1|Catania-Siena si concluse sul campo 1-1]], ma il club toscano schierò per l'intera durata dell'incontro il difensore **Luigi Martinelli**, gravato da un turno di squalifica non scontato maturato nel Campionato Primavera.
+Il **Caso Martinelli** rappresenta l'origine giurisprudenziale e materiale da cui scaturì il più ampio [[01-societa/vicende-legali/caso-catania-2003|Caso Catania dell'estate 2003]]. La controversia nacque sul terreno di gioco dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] il **12 aprile 2003**, in occasione della 30ª giornata del campionato di Serie B: la gara [[02-cronistoria/partite-storiche/2002-2003/catania-siena-1-1|Catania-Siena si concluse sul campo 1-1]], ma il club toscano schierò per l'intera durata dell'incontro il difensore **Luigi Martinelli**, gravato da un turno di squalifica non scontato maturato nel Campionato Primavera.
 
 ---
 

@@ -107,13 +107,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Cristiano Lucarelli** (Livorno, Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2017-2018, 2019-2020, 2023-2024**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti), Catania Football Club (2023-Oggi).
+**Cristiano Lucarelli** (Livorno, Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2017-2018, 2019-2020, 2023-2024**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]), [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] (2023-Oggi).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centravanti
 > - **Periodo a Catania:** 2017-2018, 2019-2020, 2023-2024
 > - **Denominazione Sociale:** Calcio Catania S.p.A. (Era Pulvirenti), Catania Football Club (2023-Oggi)
-> - **Epiteto / Ruolo Storico:** Tre Volte Condottiero e Trionfatore in Coppa Italia Serie C
+> - **Epiteto / Ruolo Storico:** Tre Volte Condottiero e Trionfatore in [[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]]
 
 ---
 

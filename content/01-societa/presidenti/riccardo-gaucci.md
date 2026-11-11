@@ -48,10 +48,10 @@ aliases:
 
 | Stagione | Categoria | Allenatori Principali | Risultato e Snodi Storici |
 | :--- | :--- | :--- | :--- |
-| **2000–2001** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/ivo-iaconi\|Ivo Iaconi]], [[03-tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] | 3º posto e finale playoff persa col [[06-tifoseria-e-cultura/relazioni/rivalita/messina\|Messina]]. |
+| **[[02-cronistoria/stagioni/2000-2001\|2000–2001]]** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/ivo-iaconi\|Ivo Iaconi]], [[03-tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] | 3º posto e finale playoff persa col [[06-tifoseria-e-cultura/relazioni/rivalita/messina\|Messina]]. |
 | **[[02-cronistoria/stagioni/2001-2002\|2001–2002]]** | Serie C1 (Gir. B) | Ammazzalorso, Vierchowod, Ciccio Graziani & [[03-tesserati/allenatori/maurizio-pellegrino\|Maurizio Pellegrino]] | **Promozione in Serie B** nella [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0\|finale playoff contro il Taranto (1-0 / 0-0)]]. |
 | **[[02-cronistoria/stagioni/2002-2003\|2002–2003]]** | Serie B | Jaconi, Pellegrino, Toshack, Reja, [[03-tesserati/allenatori/vincenzo-guerini\|Vincenzo Guerini]] | Reclamo su [[02-cronistoria/partite-storiche/2002-2003/catania-siena-1-1\|Catania-Siena 1-1]] e vittoria al TAR nel **[[01-societa/vicende-legali/caso-catania-2003\|Caso Catania (2003)]]**. |
-| **[[02-cronistoria/stagioni/2003-2004\|2003–2004]]** | Serie B (a 24 squadre) | [[03-tesserati/allenatori/stefano-colantuono\|Stefano Colantuono]] | **9º posto (67 punti)** con l'esplosione di [[03-tesserati/calciatori/storici/giuseppe-mascara\|Giuseppe Mascara]] e Luís Oliveira; cessione a [[01-societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]. |
+| **[[02-cronistoria/stagioni/2003-2004\|2003–2004]]** | Serie B (a 24 squadre) | [[03-tesserati/allenatori/stefano-colantuono\|Stefano Colantuono]] | **9º posto (67 punti)** con l'esplosione di [[03-tesserati/calciatori/storici/giuseppe-mascara\|Giuseppe Mascara]] e [[03-tesserati/calciatori/archivio/g-l/luis-oliveira\|Luís Oliveira]]; cessione a [[01-societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]. |
 
 ---
 

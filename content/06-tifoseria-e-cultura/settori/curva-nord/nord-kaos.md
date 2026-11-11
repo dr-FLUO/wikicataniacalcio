@@ -38,7 +38,7 @@ aliases:
 
 # Nord Kaos Valverde (Primi Anni 2000)
 
-Il **Nord Kaos** è uno dei gruppi più dinamici e continuativi della **Curva Nord** del Massimino, sorto nei primi anni Duemila e contraddistinto dal solido radicamento nel comune etneo di **Valverde**.
+Il **Nord Kaos** è uno dei gruppi più dinamici e continuativi della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino, sorto nei primi anni Duemila e contraddistinto dal solido radicamento nel comune etneo di **Valverde**.
 
 Guidato fin dalla fondazione da figure storiche del tifo pedemontano come Daniele Magni, il gruppo testimonia come la passione per i colori rossazzurri travalichi i confini urbani per coinvolgere con costanza l'intera cintura metropolitana etnea.
 
@@ -47,7 +47,7 @@ Guidato fin dalla fondazione da figure storiche del tifo pedemontano come Daniel
 ## 1. Caratteristiche e Presenza Fuori Casa
 
 - **Spirito di Gruppo e Mobilità:** Contraddistinto da una militanza giovanile e compatta, il Nord Kaos si è fatto apprezzare nel corso dei decenni per la costante presenza in trasferta, garantendo il presidio dello stendardo sia durante i tornei di massima serie sia nelle categorie minori.
-- **Difesa dei Valori Tradizionali:** Insieme ad *A Sostegno di una Fede*, il gruppo ha respinto l'adesione alla Tessera del Tifoso nel 2015, prendendo parte a tutte le mobilitazioni per la salvaguardia della mentalità e dei diritti dei gradoni.
+- **Difesa dei Valori Tradizionali:** Insieme ad *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]*, il gruppo ha respinto l'adesione alla Tessera del Tifoso nel 2015, prendendo parte a tutte le mobilitazioni per la salvaguardia della mentalità e dei diritti dei gradoni.
 
 ---
 

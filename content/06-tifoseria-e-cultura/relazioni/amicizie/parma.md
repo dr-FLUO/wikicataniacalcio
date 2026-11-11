@@ -31,7 +31,7 @@ aliases:
 
 # Amicizia e Rispetto Catania-Parma (Boys Parma 1977)
 
-Un legame di profonda stima e lealtà sportiva unisce da oltre vent'anni gli ultras del Catania ai **Boys Parma 1977**, gruppo guida della Curva Nord dello Stadio Ennio Tardini.
+Un legame di profonda stima e lealtà sportiva unisce da oltre vent'anni gli ultras del Catania ai **Boys Parma 1977**, gruppo guida della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Ennio Tardini.
 
 ---
 

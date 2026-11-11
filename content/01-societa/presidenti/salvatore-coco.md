@@ -34,7 +34,7 @@ aliases:
 **Salvatore Coco** (Catania, 1925 – Catania, 2008) è stato un imprenditore etneo e dirigente sportivo, **presidente del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione di Serie B [[02-cronistoria/stagioni/1973-1974|1973-1974]]**.
 
 > [!abstract] La Presidenza nella Cadetteria degli Anni Settanta
-> Assunta la massima carica societaria nell'estate del 1973 nel contesto della complessa dialettica azionaria attorno alla figura del patron Angelo Massimino, Salvatore Coco resse le sorti del club per l'intera annata cadetta 1973-1974, guidata dal veterano della panchina [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e poi da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]].
+> Assunta la massima carica societaria nell'estate del 1973 nel contesto della complessa dialettica azionaria attorno alla figura del patron [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], Salvatore Coco resse le sorti del club per l'intera annata cadetta 1973-1974, guidata dal veterano della panchina [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e poi da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]].
 
 ---
 

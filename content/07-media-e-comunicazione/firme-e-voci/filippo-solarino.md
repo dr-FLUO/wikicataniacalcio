@@ -48,14 +48,14 @@ Membro fondatore del collettivo di ricerca **"Quelli del '46"** — assieme ad [
 L'apporto di Filippo Solarino è stato determinante per la realizzazione dell'opera omnia definitiva sulla storia del club, ***[[07-media-e-comunicazione/letteratura/index|Tutto il Catania minuto per minuto (1929-2010)]]***, pubblicata da GEO Edizioni nel 2010 (528 pagine, riedita nel 2011):
 
 * **La Bonifica dei Tabellini**: In un panorama editoriale precedente spesso viziato da imprecisioni o trascrizioni superficiali tramandatesi per decenni, Solarino ha coordinato il riscontro incrociato di centinaia di tabellini di campionati di Serie C, Serie C1 e Serie B.
-* **Lo Spoglio delle Fonti Primarie**: Ha condotto estese campagne di consultazione presso le emeroteche comunali e regionali, scandagliando quotidiani storici come *Il Popolo di Sicilia*, il *Corriere di Sicilia*, *Espresso Sera* e *La Sicilia*, confrontandoli sistematicamente con i bollettini ufficiali della FIGC e della Lega Nazionale Professionisti.
+* **Lo Spoglio delle Fonti Primarie**: Ha condotto estese campagne di consultazione presso le emeroteche comunali e regionali, scandagliando quotidiani storici come *Il Popolo di Sicilia*, il *Corriere di Sicilia*, *[[07-media-e-comunicazione/testate/espresso-sera|Espresso Sera]]* e *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*, confrontandoli sistematicamente con i bollettini ufficiali della FIGC e della Lega Nazionale Professionisti.
 * **La Precisione Algebrica**: Particolare attenzione è stata riservata alla certificazione esatta dei marcatori, dei minutaggi delle reti, delle ammonizioni e delle espulsioni, permettendo di consegnare agli studiosi un archivio inoppugnabile.
 
 ---
 
 ## 2. Lo Studio Araldico: "Il rosso, l'azzurro" (2020)
 
-Nel **2020**, in occasione delle celebrazioni per i novant'anni dalla fondazione della *SS Catania* (1929), Solarino è stato co-autore di un altro caposaldo della bibliografia rossazzurra: ***Il rosso, l'azzurro. Novant'anni di una maglia*** (GEO Edizioni):
+Nel **2020**, in occasione delle celebrazioni per i novant'anni dalla fondazione della *[[01-societa/epoche/1929-ss-catania|SS Catania]]* (1929), Solarino è stato co-autore di un altro caposaldo della bibliografia rossazzurra: ***Il rosso, l'azzurro. Novant'anni di una maglia*** (GEO Edizioni):
 
 * **Il Censimento Tessile e Cromatico**: Un'indagine filologica inedita che ha catalogato, stagione per stagione, ogni singola muta da gioco indossata dai calciatori etnei: dalle prime casacche a strisce strette con colletto stringato degli anni Trenta, al passaggio alla lana pesante negli anni Cinquanta e Sessanta, fino ai tessuti sintetici, all'avvento degli sponsor tecnici (Ennerre, Adidas, Galex, Legea, Givova) e commerciali.
 * **L'Evoluzione degli Stemmi**: Ricostruzione analitica di tutti i loghi societari con l'elefante Liotru, correggendo anacronismi iconografici diffusi nel collezionismo sportivo.
@@ -66,7 +66,7 @@ Nel **2020**, in occasione delle celebrazioni per i novant'anni dalla fondazione
 
 Solarino è tra i curatori e redattori costanti del portale storiografico [[07-media-e-comunicazione/testate/tuttoilcataniaminutoperminuto-it|TuttoilCataniaMinutoperMinuto.it]], dove continua a pubblicare saggi e note d'archivio:
 
-* **I Pionieri e le Storie Dimenticate**: Ha contribuito al recupero biografico delle prime figure societarie e dirigenziali dell'anteguerra (da Santi Quasimodo al Duca di Misterbianco).
+* **I Pionieri e le Storie Dimenticate**: Ha contribuito al recupero biografico delle prime figure societarie e dirigenziali dell'anteguerra (da [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]] al [[01-societa/presidenti/vespasiano-trigona|Duca di Misterbianco]]).
 * **Consulenza Storiografica**: Il suo archivio documentario costituisce un punto di riferimento insostituibile per colleghi giornalisti, autori di mostre celebrative e istituzioni sportive che necessitino di certificare precedenti e dati storici ufficiali del club.
 
 ---

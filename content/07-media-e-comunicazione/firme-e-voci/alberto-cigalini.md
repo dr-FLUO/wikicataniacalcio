@@ -46,7 +46,7 @@ Attivo contemporaneamente sulla carta stampata nazionale e regionale e negli stu
 
 Cigalini ha presidiato la piazza calcistica etnea per conto di due testate di primaria importanza:
 * **Corriere dello Sport - Stadio**: Storico corrispondente da Catania, ha curato la copertura capillare degli anni della Serie A, dei ritiri precampionato, delle sessioni milanesi di calciomercato e delle vicissitudini legate alla Serie C e alla Serie D.
-* **La Sicilia**: Collaboratore delle pagine sportive, si è distinto per i corsivi d'analisi, le pagelle analitiche del lunedì e le inchieste sulle rose avversarie.
+* **[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]**: Collaboratore delle pagine sportive, si è distinto per i corsivi d'analisi, le pagelle analitiche del lunedì e le inchieste sulle rose avversarie.
 
 ---
 
@@ -56,7 +56,7 @@ Sul versante audiovisivo, Cigalini si è affermato come il conduttore di riferim
 
 * **La Conduzione di "Corner" e "Diretta Stadio"**: Ha guidato con ritmo e precisione i dibattiti del talk show del lunedì, orchestrando il confronto tra opinionisti, calciatori, ex glorie rossazzurre e collegamenti esterni.
 * **Sport Sicilia su Globus TV**: Ha ideato e condotto trasmissioni d'approfondimento sul circuito regionale di *Globus Television* (canale 15 DTT), valorizzando anche le discipline sportive etnee extra-calcistiche.
-* Nel corso della stagione 2026/2027, la sua conduzione dei pre e post-partita delle gare del Catania FC garantisce al pubblico un commento tattico equilibrato e profondo.
+* Nel corso della stagione 2026/2027, la sua conduzione dei pre e post-partita delle gare del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] garantisce al pubblico un commento tattico equilibrato e profondo.
 
 ---
 

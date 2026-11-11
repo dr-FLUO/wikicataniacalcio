@@ -42,7 +42,7 @@ Nel pomeriggio afoso del **31 luglio 1993**, quando la FIGC deliberò l'estromis
 
 ## 2. L'Opera Letteraria: *«Quando saremo tutti nella Nord»*
 
-Nel 2014, insieme al giornalista e scrittore Luigi Pulvirenti, Spampinato ha dato alle stampe il volume ***Quando saremo tutti nella Nord*** (Euno Edizioni / Eclettica), considerato dalla critica sociologica una delle testimonianze più lucide e disincantate sulla subcultura ultras in Italia:
+Nel 2014, insieme al giornalista e scrittore Luigi Pulvirenti, Spampinato ha dato alle stampe il volume ***[[07-media-e-comunicazione/letteratura/quando-saremo-tutti-nella-nord|Quando saremo tutti nella Nord]]*** (Euno Edizioni / Eclettica), considerato dalla critica sociologica una delle testimonianze più lucide e disincantate sulla subcultura ultras in Italia:
 - Il libro documenta senza ipocrisie la complessità del governare una curva divenuta fenomeno di massa con migliaia di giovani, il trauma dei provvedimenti DASPO e la progressiva militarizzazione degli stadi.
 - Nel testo viene rievocata con fierezza la sottrazione dello striscione dei *Fighters Juventus*, colpo memorabile inferto a una delle tifoserie più blasonate d'Europa, analizzando al contempo il mutamento antropologico degli spalti prima dello spartiacque del 2 febbraio 2007.
 

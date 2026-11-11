@@ -40,7 +40,7 @@ La rivalità tra gli ultras del Catania e quelli della **Roma** è una delle pi�
 
 La matrice profonda dell'astio tra catanesi e romanisti è squisitamente diplomatica:
 - Gli ultras del Catania sono legati da una storica fratellanza con gli ultras del [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]], acerrimi nemici storici della tifoseria romanista sin dagli anni Ottanta.
-- Di contro, frange organizzate della Curva Sud di Roma hanno intrattenuto frequenti contatti di stima e avvicinamento con gli ultras del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], nemico giurato del Catania. Questa polarizzazione ha trasformato ogni confronto tra Roma e Catania in una prosecuzione ideale delle faide tra le capitali del Sud.
+- Di contro, frange organizzate della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] di Roma hanno intrattenuto frequenti contatti di stima e avvicinamento con gli ultras del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], nemico giurato del Catania. Questa polarizzazione ha trasformato ogni confronto tra Roma e Catania in una prosecuzione ideale delle faide tra le capitali del Sud.
 
 ---
 

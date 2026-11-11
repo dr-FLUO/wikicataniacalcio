@@ -42,7 +42,7 @@ Accanto ai resoconti delle partite e alle cronache giudiziarie, la storia del ti
 ## 1. I Grandi Cimeli di Curva: Fighters Juve e South Lander
 
 Nel mondo ultras la sottrazione dello striscione principale a una tifoseria avversaria rappresenta il massimo atto di supremazia sul campo:
-- **Lo Striscione dei Fighters Juventus:** Come documentato da [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] in *Quando saremo tutti nella Nord*, uno dei colpi di maggiore risonanza continentale messo a segno dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] fu la cattura dello striscione ufficiale dei *Fighters* bianconeri, un vessillo storico esposto negli stadi di mezza Europa:
+- **Lo Striscione dei Fighters Juventus:** Come documentato da [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] in *[[07-media-e-comunicazione/letteratura/quando-saremo-tutti-nella-nord|Quando saremo tutti nella Nord]]*, uno dei colpi di maggiore risonanza continentale messo a segno dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] fu la cattura dello striscione ufficiale dei *Fighters* bianconeri, un vessillo storico esposto negli stadi di mezza Europa:
   > *«Abbiamo preso lo striscione Fighters. Uno dei gruppi più importanti della Juve... La portata di quello che abbiamo fatto è enorme.»*
 - **Il Drappo South Lander del Siracusa:** Nelle accese sfide regionali contro gli storici rivali aretusei, gli ultras catanesi riuscirono a sottrarre lo striscione guida del gruppo aretuseo *South Lander*, conservandolo come cimelio storico a testimonianza dell'egemonia etnea nella Sicilia orientale.
 - **La Beffa del Riscatto da 20.000 Euro:** La memoria orale della curva tramanda inoltre la cattura dello striscione di un noto gruppo rivale che, pur di non sciogliersi secondo il codice d'onore, accettò di recuperare il drappo pagando una mediazione pecuniaria di 20.000 euro; gli etnei restituirono il vessillo, marchiando per sempre i rivali con lo stigma di "tifoseria commerciale".
@@ -59,8 +59,8 @@ Tra gli episodi più surreali e grotteschi tramandati nelle sfide contro il [[06
 
 ## 3. L'Arte Urbana: Il Murale *«Cinquanta volti per il Cibali»* (2018)
 
-La consacrazione visiva dell'amore popolare per il Catania è avvenuta nel **2018** con la realizzazione dell'opera monumentale di street art ***Cinquanta volti per il Cibali***, dipinta dall'artista catanese **Andrea Marusic**:
-- Realizzato lungo il muro perimetrale esterno della Curva Sud e della Tribuna B in via Cifali, il murale raffigura cinquanta icone indelebili della storia calcistica etnea: da [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], dal Cavaliere Angelo Massimino a Ciccio Famoso, fino a Stefania Sberna e ai campioni della Serie A.
+La consacrazione visiva dell'amore popolare per il Catania è avvenuta nel **2018** con la realizzazione dell'opera monumentale di street art ***[[04-strutture/stadio-massimino/cinquanta-volti-cibali|Cinquanta volti per il Cibali]]***, dipinta dall'artista catanese **Andrea Marusic**:
+- Realizzato lungo il muro perimetrale esterno della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] e della [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]] in via Cifali, il murale raffigura cinquanta icone indelebili della storia calcistica etnea: da [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], dal Cavaliere [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] a [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], fino a [[07-media-e-comunicazione/firme-e-voci/stefania-sberna|Stefania Sberna]] e ai campioni della Serie A.
 - L'opera rappresenta un unicum in Italia: un pantheon laico all'aperto dove la memoria sportiva e la cultura ultras si fondono nel patrimonio identitario della città.
 
 ---

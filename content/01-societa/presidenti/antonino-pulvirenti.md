@@ -73,7 +73,7 @@ aliases:
 
 ## Cronologia della Presidenza e Proprietà Pulvirenti (2004–2020)
 
-| Data / Stagione | Snodo Storico, Sportivo e Giudiziario | Impatto sul Calcio Catania S.p.A. |
+| Data / Stagione | Snodo Storico, Sportivo e Giudiziario | Impatto sul [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] |
 | :--- | :--- | :--- |
 | **Estate 2004** | Acquisizione del Calcio Catania S.p.A. dalla [[01-societa/epoche/2000-era-gaucci\|famiglia Gaucci]] per circa 15 milioni di euro. | Nomina di [[01-societa/dirigenti/pietro-lo-monaco\|Pietro Lo Monaco]] quale amministratore delegato. |
 | **28 maggio 2006** | **Promozione in Serie A** nella [[02-cronistoria/stagioni/2005-2006\|Stagione 2005-2006]] con [[03-tesserati/allenatori/pasquale-marino\|Pasquale Marino]]. | Ritorno in massima serie dopo 22 anni grazie al 2º posto (78 punti) e ai 23 gol di [[03-tesserati/calciatori/storici/gionatha-spinesi\|Gionatha Spinesi]]. |

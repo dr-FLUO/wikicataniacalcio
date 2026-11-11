@@ -64,7 +64,7 @@ aliases:
 ---
 # Catania - AlbinoLeffe 2-1 (28 Maggio 2006)
 
-Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B 2005-2006, rappresenta una delle pagine più gloriose della storia contemporanea del club etneo, sancendo la **promozione in Serie A dopo ventidue anni di attesa** (dalla stagione 1983-1984).
+Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], rappresenta una delle pagine più gloriose della storia contemporanea del club etneo, sancendo la **promozione in Serie A dopo ventidue anni di attesa** (dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]).
 
 > [!abstract] La Partita della Liberazione e il Gol di Del Core
 > Davanti a oltre 23.000 spettatori che gremivano ogni ordine di posto al Massimino, il Catania di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] conquistò i tre punti decisivi per il 2º posto finale (78 punti) e la promozione diretta: al vantaggio iniziale di [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] (15') rispose al 41' il pareggio seriano di Cellini, prima del memorabile pallonetto vincente di **[[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]] al 54'** che scatenò una festa incontenibile in tutta la città.

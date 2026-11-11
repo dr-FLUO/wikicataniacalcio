@@ -43,7 +43,7 @@ aliases:
 
 # L'Ecosistema dei Media e dell'Informazione Rossazzurra
 
-Il racconto delle vicende sportive del **Calcio Catania** ha rappresentato, sin dalla fondazione della *SS Catania* nel 1929 e dalla rinascita post-bellica del 1946, uno dei motori trainanti dell'industria editoriale, della comunicazione giornalistica e dell'identità civile in Sicilia. La passione viscerale della piazza etnea ha alimentato un apparato informativo strutturalmente sovradimensionato rispetto alle contingenze di categoria, mantenendo standard produttivi, pluralismo di testate e consumo mediatico tipici di una metropoli di Serie A anche nei momenti di militanza nelle serie inferiori o dilettantistiche.
+Il racconto delle vicende sportive del **Calcio Catania** ha rappresentato, sin dalla fondazione della *[[01-societa/epoche/1929-ss-catania|SS Catania]]* nel 1929 e dalla rinascita post-bellica del 1946, uno dei motori trainanti dell'industria editoriale, della comunicazione giornalistica e dell'identità civile in Sicilia. La passione viscerale della piazza etnea ha alimentato un apparato informativo strutturalmente sovradimensionato rispetto alle contingenze di categoria, mantenendo standard produttivi, pluralismo di testate e consumo mediatico tipici di una metropoli di Serie A anche nei momenti di militanza nelle serie inferiori o dilettantistiche.
 
 ---
 
@@ -51,7 +51,7 @@ Il racconto delle vicende sportive del **Calcio Catania** ha rappresentato, sin 
 
 L'analisi diacronica del sistema dei media catanesi dagli anni Novanta al 2026 rivela due direttrici interpretative fondamentali:
 
-1. **Supplenza Istituzionale nei Vuoti Societari**: Nei momenti di vacanza o di collasso della forma giuridica del club (la revoca dell'affiliazione e l'esclusione del **1993-1994**, nonché il fallimento e la cancellazione della matricola storica 11700 nel **2021-2022**), l'apparato dei media locali — composto da televisioni storiche, archivi web, quotidiani e storici — si è sostituito alla società sportiva quale custode della continuità identitaria e della memoria collettiva, traghettando la comunità dei tifosi verso la rinascita del *Catania FC*.
+1. **Supplenza Istituzionale nei Vuoti Societari**: Nei momenti di vacanza o di collasso della forma giuridica del club (la revoca dell'affiliazione e l'esclusione del **[[02-cronistoria/stagioni/1993-1994|1993-1994]]**, nonché il fallimento e la cancellazione della matricola storica 11700 nel **[[02-cronistoria/stagioni/2021-2022|2021-2022]]**), l'apparato dei media locali — composto da televisioni storiche, archivi web, quotidiani e storici — si è sostituito alla società sportiva quale custode della continuità identitaria e della memoria collettiva, traghettando la comunità dei tifosi verso la rinascita del *[[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]*.
 2. **Ibridazione Cumulativa**: A Catania l'avvento del web e dei social network non ha decretato l'estinzione della televisione locale o della carta stampata, bensì una straordinaria simbiosi. Nel 2026, trasmissioni analogiche nate negli anni Ottanta come *Diretta Stadio* (quarant'anni di storia) e *Corner* convivono quotidianamente con piattaforme digitali nate nei primi anni Duemila (*CalcioCatania.com*, *Pianeta Catania*, *Catanista*, *TuttoCalcioCatania.com*), integrando digitale terrestre (LCN 11), app mobili (*Siciliaweb*) e streaming live su YouTube e Facebook.
 
 ---

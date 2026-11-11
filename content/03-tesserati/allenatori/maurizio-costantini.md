@@ -101,7 +101,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
+**Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -113,7 +113,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Maurizio Costantini fu il primo allenatore scelto da Antonino Pulvirenti e Pietro Lo Monaco all'inizio della loro trionfale gestione societaria nel luglio 2004.
+Maurizio Costantini fu il primo allenatore scelto da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] all'inizio della loro trionfale gestione societaria nel luglio 2004.
 
 ## 2. La Conduzione Tecnica del Catania
 

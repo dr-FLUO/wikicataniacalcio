@@ -51,8 +51,8 @@ aliases:
 
 > [!abstract] I Quattro Traguardi Storici della Presidenza Pelligra (2022–2026)
 > 1. **La Rifondazione e il Ritorno tra i Professionisti (2022–2023):** selezionato dal Comune di Catania il **24 giugno 2022** ex [[01-societa/vicende-legali/fallimento-2021-art52-noif|art. 52 comma 10 NOIF]], ha riportato immediatamente il Catania in Serie C dominando la [[02-cronistoria/stagioni/2022-2023|Serie D 2022-2023]] con 88 punti.
-> 2. **Il Primo Trofeo Nazionale (2 aprile 2024):** la conquista della **Coppa Italia Serie C** nella [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]] battendo in finale il Padova ([[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|4-2 d.t.s.]]).
-> 3. **Il Riacquisto di Torre del Grifo Village (2025–2026):** l'aggiudicazione all'asta per **5,5 milioni di euro** del centro sportivo di Mascalucia ([[04-strutture/centri-sportivi/torre-del-grifo|23 ottobre 2025 – 19 febbraio 2026]]).
+> 2. **Il Primo Trofeo Nazionale (2 aprile 2024):** la conquista della **[[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]]** nella [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]] battendo in finale il Padova ([[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|4-2 d.t.s.]]).
+> 3. **Il Riacquisto di Torre del Grifo Village ([[02-cronistoria/stagioni/2025-2026|2025–2026]]):** l'aggiudicazione all'asta per **5,5 milioni di euro** del centro sportivo di Mascalucia ([[04-strutture/centri-sportivi/torre-del-grifo|23 ottobre 2025 – 19 febbraio 2026]]).
 > 4. **Il Riacquisto dello Storico Marchio del Calcio Catania (22 ottobre 2026):** la vittoria dell'asta telematica a quota **250.000 euro** che ha restituito al club lo [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|stemma storico del 1946/1996]].
 
 ---

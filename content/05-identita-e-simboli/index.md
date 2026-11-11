@@ -43,8 +43,8 @@ La presente sezione raccoglie la catalogazione sistematica di questo patrimonio 
 Dossier dedicati alla genealogia grafica dei loghi societari, all'origine dei colori statutari e alle vicende giuridiche di riscatto dei marchi immateriali:
 
 * **[[05-identita-e-simboli/araldica-e-scudetti/index|Hub Araldica, Simbologia e Stemmi Storici (u Liotru)]]**: la monografia unificata sulla genealogia dei quattro grandi stemmi ufficiali dal 1929 a oggi, il significato dei colori dell'Etna e del mare Jonio e la vicenda del riscatto dello stemma all'asta fallimentare del 2026.
-* **[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Simbologia, Colori Sociali e Stemmi Ufficiali (1929–2026)]]**: le origini del rosso e dell'azzurro codificate da Santi Quasimodo, il mito bizantino di Eliodoro e la cronistoria dei quattro stemmi societari.
-* **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|L'Acquisizione del Marchio Storico all'Asta del 2026]]**: il dossier giuridico sull'aggiudicazione telematica competitiva dei marchi della matricola 11700 da parte del Catania FC di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]].
+* **[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|Simbologia, Colori Sociali e Stemmi Ufficiali (1929–2026)]]**: le origini del rosso e dell'azzurro codificate da [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]], il mito bizantino di Eliodoro e la cronistoria dei quattro stemmi societari.
+* **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|L'Acquisizione del Marchio Storico all'Asta del 2026]]**: il dossier giuridico sull'aggiudicazione telematica competitiva dei marchi della [[01-societa/matricola-11700|matricola 11700]] da parte del Catania FC di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]].
 
 ---
 
@@ -55,7 +55,7 @@ Dossier analitici sull'evoluzione tessile e commerciale delle casacche rossazzur
 * **[[05-identita-e-simboli/maglie-e-divise|Maglie, Divise da Gioco e Colori Sociali (1929–Oggi)]]**: la monografia completa sull'anatomia della prima maglia a pali rossazzurri, la regola aurea dei **calzettoni neri con risvolto rossazzurro**, le maglie da trasferta, le terze divise, i portieri e la **timeline fotografica continua per decenni** con le gallerie delle casacche stagione per stagione.
 * **[[05-identita-e-simboli/sponsor/index|Hub Sponsor Tecnici e Commerciali del Calcio Catania (1979–Oggi)]]**: il quadro normativo FIGC sulle delibere 1979 (marchio tecnico) e 1981 (sponsor pubblicitari).
 * **[[05-identita-e-simboli/sponsor/index#1-cronistoria-dei-fornitori-tecnici-e-della-cultura-tessile|Fornitori e Sponsor Tecnici (1979–Oggi)]]**: la storia dei produttori di abbigliamento sportivo (da Ennerre, Adidas e Puma a Galex, Legea, Givova ed Erreà), l'evoluzione dalla pesante "lanetta" al poliestere lavico.
-* **[[05-identita-e-simboli/sponsor/index#2-evoluzione-economica-degli-sponsor-commerciali-di-maglia|Storia degli Sponsor Commerciali (1982–2026)]]**: la cronologia di tutti i marchi commerciali apparsi sulle casacche etnee, dal pioniere **Haribo** (1982-83) e Pasta Poiatti fino al lungo sodalizio di Serie A con **SP Energia Siciliana** e all'era contemporanea con **SuperConveniente (Gruppo Arena)** e **Replay**.
+* **[[05-identita-e-simboli/sponsor/index#2-evoluzione-economica-degli-sponsor-commerciali-di-maglia|Storia degli Sponsor Commerciali (1982–2026)]]**: la cronologia di tutti i marchi commerciali apparsi sulle casacche etnee, dal pioniere **Haribo** ([[02-cronistoria/stagioni/1982-1983|1982-83]]) e Pasta Poiatti fino al lungo sodalizio di Serie A con **SP Energia Siciliana** e all'era contemporanea con **SuperConveniente (Gruppo Arena)** e **Replay**.
 
 ---
 

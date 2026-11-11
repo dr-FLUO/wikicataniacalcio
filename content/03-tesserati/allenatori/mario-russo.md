@@ -88,7 +88,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Mario Russo** (Lecce, Italia, 1948 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Mario Russo** (Lecce, Italia, 1948 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Mediano
@@ -104,7 +104,7 @@ Mario Russo, generoso mediano del Catania in Serie B nella stagione [[02-cronist
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione la squadra sfiorò i play-off promozione chiudendo all'8º posto con 48 punti, in una stagione tragicamente segnata dalla scomparsa del presidente Angelo Massimino nel marzo 1996.
+Sotto la sua gestione la squadra sfiorò i play-off promozione chiudendo all'8º posto con 48 punti, in una stagione tragicamente segnata dalla scomparsa del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nel marzo 1996.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -85,13 +85,13 @@ L'evoluzione della **cultura materiale**, del design tessile e delle strategie d
 Il legame tra il Catania e i suoi partner tecnici ha attraversato diverse ere manifatturiere:
 
 * **L'Era della Lanetta e Ennerre (1979–1981):** maglie in pesante filato misto lana-acrilico con scollo a V bicolore e stemma svizzero ricamato a mano sul cuore, con cui il club vinse il girone B di Serie C1 nel 1979-1980.
-* **I Primi Anni Ottanta — Bobos, Degi, Adidas e Uhlsport (1981–1987):** colletti a costine con **Bobos** (1981-82), la maglia della promozione in A con **Degi** (1982-83) e il quadriennio con **Adidas** (1983-1987) con le inconfondibili tre strisce bianche sulle maniche e capi portiere **Uhlsport**.
-* **I Marchi Italiani degli Anni Difficili (1987–1993):** la palatura classica di **Latas** (1987-89), l'avvento dei tessuti sintetici lucidi in poliestere con **Icos** (1989-90 e 1991-92) ed **Essegi** (1990-91), fino ad **ABM** (1992-93).
-* **Dall'Eccellenza al Ritorno tra i Professionisti (1993–1996):** le divise **California** con cui la matricola 11700 vinse sia l'Eccellenza 1993-1994 che il Campionato Nazionale Dilettanti 1994-1995; poi **Devis Sport** (1994-1996) con i colletti vintage a laccetti in Serie C2.
-* **Admiral, Puma e l'Epoca Gaucci con Galex (1996–2005):** il cinquantenario con **Admiral** (1996-97), il triennio sobrio **Puma** (1997-2000, vittoria C2 1998-99) e il quinquennio **Galex** (2000-2005) caratterizzato da kit elasticizzati e dalla promozione in Serie B a Taranto nel 2002.
-* **Il Ciclo Storico di Legea (2005–2010):** promozione in Serie A nel 2005-2006, la striscia di salvezze nella massima serie, lo storico [[02-cronistoria/partite-storiche/index|0-4 al Barbera contro il Palermo]] (2009) e il 3-1 all'Inter di Mourinho (2010).
-* **L'Apice Givova e l'Intermezzo Macron (2010–2021):** con **Givova** (2010-2015) il Catania conquistò il record storico di **56 punti** e l'8º posto in Serie A nel 2012-2013 con Rolando Maran. Dopo il biennio sartoriale **Macron** (2015-2017) in Lega Pro, Givova tornò (2017-2021) firmando le maglie del centenario della nascita di Angelo Massimino.
-* **Nike e la Rinascita Identitaria con Erreà (2021–Oggi):** dopo l'ultimo anno di Serie C con **Nike** (2021-2022), la rifondazione voluta da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] ha inaugurato l'alleanza con **Erreà** (2022-Oggi), caratterizzata da texture vulcaniche di basalto lavico, dettagli in oro (#d29933) e il motto civico latino: *"Melior de cinere surgo"*.
+* **I Primi Anni Ottanta — Bobos, Degi, Adidas e Uhlsport (1981–1987):** colletti a costine con **Bobos** ([[02-cronistoria/stagioni/1981-1982|1981-82]]), la maglia della promozione in A con **Degi** ([[02-cronistoria/stagioni/1982-1983|1982-83]]) e il quadriennio con **Adidas** (1983-1987) con le inconfondibili tre strisce bianche sulle maniche e capi portiere **Uhlsport**.
+* **I Marchi Italiani degli Anni Difficili (1987–1993):** la palatura classica di **Latas** (1987-89), l'avvento dei tessuti sintetici lucidi in poliestere con **Icos** ([[02-cronistoria/stagioni/1989-1990|1989-90]] e [[02-cronistoria/stagioni/1991-1992|1991-92]]) ed **Essegi** ([[02-cronistoria/stagioni/1990-1991|1990-91]]), fino ad **ABM** ([[02-cronistoria/stagioni/1992-1993|1992-93]]).
+* **Dall'Eccellenza al Ritorno tra i Professionisti (1993–1996):** le divise **California** con cui la [[01-societa/matricola-11700|matricola 11700]] vinse sia l'Eccellenza [[02-cronistoria/stagioni/1993-1994|1993-1994]] che il Campionato Nazionale Dilettanti [[02-cronistoria/stagioni/1994-1995|1994-1995]]; poi **Devis Sport** (1994-1996) con i colletti vintage a laccetti in Serie C2.
+* **Admiral, Puma e l'Epoca Gaucci con Galex (1996–2005):** il cinquantenario con **Admiral** ([[02-cronistoria/stagioni/1996-1997|1996-97]]), il triennio sobrio **Puma** (1997-2000, vittoria C2 [[02-cronistoria/stagioni/1998-1999|1998-99]]) e il quinquennio **Galex** (2000-2005) caratterizzato da kit elasticizzati e dalla promozione in Serie B a Taranto nel 2002.
+* **Il Ciclo Storico di Legea (2005–2010):** promozione in Serie A nel [[02-cronistoria/stagioni/2005-2006|2005-2006]], la striscia di salvezze nella massima serie, lo storico [[02-cronistoria/partite-storiche/index|0-4 al Barbera contro il Palermo]] (2009) e il 3-1 all'Inter di Mourinho (2010).
+* **L'Apice Givova e l'Intermezzo Macron (2010–2021):** con **Givova** (2010-2015) il Catania conquistò il record storico di **56 punti** e l'8º posto in Serie A nel [[02-cronistoria/stagioni/2012-2013|2012-2013]] con Rolando Maran. Dopo il biennio sartoriale **Macron** (2015-2017) in Lega Pro, Givova tornò (2017-2021) firmando le maglie del centenario della nascita di Angelo Massimino.
+* **Nike e la Rinascita Identitaria con Erreà (2021–Oggi):** dopo l'ultimo anno di Serie C con **Nike** ([[02-cronistoria/stagioni/2021-2022|2021-2022]]), la rifondazione voluta da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] ha inaugurato l'alleanza con **Erreà** (2022-Oggi), caratterizzata da texture vulcaniche di basalto lavico, dettagli in oro (#d29933) e il motto civico latino: *"Melior de cinere surgo"*.
 
 ---
 
@@ -112,10 +112,10 @@ Il legame tra il Catania e i suoi partner tecnici ha attraversato diverse ere ma
 
 Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sportive del club:
 
-* **Il Mito Haribo e gli Anni Ottanta:** nel 1982-1983 il logo delle caramelle **Haribo** con l'orsetto dorato divenne leggenda negli spareggi dell'Olimpico di Roma con 40.000 catanesi al seguito. Seguirono **S7 Supermercati** (Serie A 1983-84), lo storico pastificio trapanese **Pasta Poiatti** (1984-85), l'immobiliare **CasaMercato** (1985-86), le assicurazioni **Eurass** (1986-87), l'elettronica **CosmoTV Color** (1987-88) e il cemento prefabbricato **Proter** (1988-1992, quattro stagioni consecutive in C1).
-* **Dalla Radiazione del 1993 alla Serie C2:** **Jolly Componibili** (cucine componibili dell'imprenditore etneo Angelo Cutispoti) affiancò fedelmente Massimino nella risalita dall'Eccellenza 1993 al CND 1995. Nel 1995-1996 comparve il colosso petrolifero **Tamoil**; nel 1996-1997 la scritta commemorativa **Angelo Massimino** dopo la scomparsa del patron, poi **Oranfresh**.
-* **Il Quindicennio d'Oro con SP Energia Siciliana (1998–2012):** sodalizio più longevo nella storia del club (famiglia Pulvirenti). Dalla C2 alla Serie A (con l'intermezzo **Toyota** nel 2003-2004), il marchio SP ha campeggiato sul petto etneo in tutti i grandi successi di massima serie, affiancato da partner di mobilità come la compagnia aerea **Wind Jet** (2007-2009) e le navi **TTT Lines** (2012-2014). Nel 2012-2013 comparve anche il consorzio **Arancia Rossa di Sicilia IGP** e nel 2013-2014 il salumificio **Fiorucci**.
-* **La Grande Distribuzione Siciliana e l'Era SuperConveniente (2015–Oggi):** dopo **Fortè** (2014-15), **Muracel** (2015-16), **DomusBet** (2016-19) e **Crai Gruppo Radenza** (2019-20), dal 2020 le maglie sono griffate **SuperConveniente**, insegna discount del **Gruppo Arena** (leader GDO in Sicilia). Con la rinascita del Catania FC di Pelligra, l'abbinamento è stato esteso con partner internazionali come **Replay** (Official Denim Partner) e regionali come **Funivia dell'Etna** e **Comer Sud**.
+* **Il Mito Haribo e gli Anni Ottanta:** nel 1982-1983 il logo delle caramelle **Haribo** con l'orsetto dorato divenne leggenda negli spareggi dell'Olimpico di Roma con 40.000 catanesi al seguito. Seguirono **S7 Supermercati** (Serie A [[02-cronistoria/stagioni/1983-1984|1983-84]]), lo storico pastificio trapanese **Pasta Poiatti** ([[02-cronistoria/stagioni/1984-1985|1984-85]]), l'immobiliare **CasaMercato** ([[02-cronistoria/stagioni/1985-1986|1985-86]]), le assicurazioni **Eurass** ([[02-cronistoria/stagioni/1986-1987|1986-87]]), l'elettronica **CosmoTV Color** ([[02-cronistoria/stagioni/1987-1988|1987-88]]) e il cemento prefabbricato **Proter** (1988-1992, quattro stagioni consecutive in C1).
+* **Dalla Radiazione del 1993 alla Serie C2:** **[[08-settori-paralleli/women/index|Jolly Componibili]]** (cucine componibili dell'imprenditore etneo Angelo Cutispoti) affiancò fedelmente Massimino nella risalita dall'Eccellenza 1993 al CND 1995. Nel [[02-cronistoria/stagioni/1995-1996|1995-1996]] comparve il colosso petrolifero **Tamoil**; nel 1996-1997 la scritta commemorativa **Angelo Massimino** dopo la scomparsa del patron, poi **Oranfresh**.
+* **Il Quindicennio d'Oro con SP Energia Siciliana (1998–2012):** sodalizio più longevo nella storia del club (famiglia Pulvirenti). Dalla C2 alla Serie A (con l'intermezzo **Toyota** nel [[02-cronistoria/stagioni/2003-2004|2003-2004]]), il marchio SP ha campeggiato sul petto etneo in tutti i grandi successi di massima serie, affiancato da partner di mobilità come la compagnia aerea **Wind Jet** (2007-2009) e le navi **TTT Lines** (2012-2014). Nel 2012-2013 comparve anche il consorzio **Arancia Rossa di Sicilia IGP** e nel [[02-cronistoria/stagioni/2013-2014|2013-2014]] il salumificio **Fiorucci**.
+* **La Grande Distribuzione Siciliana e l'Era SuperConveniente (2015–Oggi):** dopo **Fortè** ([[02-cronistoria/stagioni/2014-2015|2014-15]]), **Muracel** ([[02-cronistoria/stagioni/2015-2016|2015-16]]), **DomusBet** (2016-19) e **Crai Gruppo Radenza** ([[02-cronistoria/stagioni/2019-2020|2019-20]]), dal 2020 le maglie sono griffate **SuperConveniente**, insegna discount del **Gruppo Arena** (leader GDO in Sicilia). Con la rinascita del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] di Pelligra, l'abbinamento è stato esteso con partner internazionali come **Replay** (Official Denim Partner) e regionali come **Funivia dell'Etna** e **Comer Sud**.
 
 ---
 
@@ -127,7 +127,7 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 
 | Stagioni Agonistiche | Fornitore Tecnico (Kit) | Main Sponsor Ufficiale (Fronte) | Co-Sponsor, Sleeve e Retro | Categoria / Traguardi Storici |
 | :--- | :--- | :--- | :--- | :--- |
-| **1979–1981** | **NR (Ennerre)** | *Nessuno sponsor* | Promo *Lemon&Soda* (1980-81) | Serie C1 ➔ Serie B (Promozione 1979-80) |
+| **1979–1981** | **NR (Ennerre)** | *Nessuno sponsor* | Promo *Lemon&Soda* ([[02-cronistoria/stagioni/1980-1981\|1980-81]]) | Serie C1 ➔ Serie B (Promozione 1979-80) |
 | **1981–1982** | **Bobos** | *Nessuno sponsor* | — | Serie B (Primo anno liberalizzazione FIGC) |
 | **1982–1983** | **Degi** | **Haribo** | — | Serie B ➔ **Promozione in Serie A** ([[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983\|Spareggi di Roma]]) |
 | **1983–1984** | **Adidas** | **S7 Supermercati** | *Aiello*, *Casmez* | Serie A |
@@ -135,7 +135,7 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 | **1985–1986** | **Adidas** | **CasaMercato** | — | Serie B |
 | **1986–1987** | **Adidas** *(Uhlsport)* | **Eurass** | — | Serie B |
 | **1987–1988** | **Latas** | **CosmoTV Color** | — | Serie C1 |
-| **1988–1989** | **Latas** | **Proter** | — | Serie C1 |
+| **[[02-cronistoria/stagioni/1988-1989\|1988–1989]]** | **Latas** | **Proter** | — | Serie C1 |
 | **1989–1990** | **Icos** | **Proter** | — | Serie C1 (Tessuti lucidi in poliestere) |
 | **1990–1991** | **Essegi** | **Proter** | — | Serie C1 |
 | **1991–1992** | **Icos** | **Proter** | — | Serie C1 |
@@ -144,33 +144,33 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 | **1994–1995** | **California** | **Jolly Componibili** | — | **C.N.D.** (Vittoria girone e promozione in C2) |
 | **1995–1996** | **Devis Sport** | **Tamoil** | — | Serie C2 (Marchio petrolifero internazionale) |
 | **1996–1997** | **Admiral** | **Angelo Massimino** / **Oranfresh** | — | Serie C2 (Nuovo stemma araldico moderno del 1996) |
-| **1997–1998** | **Puma** | *Nessuno sponsor* | — | Serie C2 |
+| **[[02-cronistoria/stagioni/1997-1998\|1997–1998]]** | **Puma** | *Nessuno sponsor* | — | Serie C2 |
 | **1998–1999** | **Puma** | **SP Energia Siciliana** | *SP Regione Sicilia* | Serie C2 ➔ **Promozione in Serie C1** |
-| **1999–2000** | **Puma** | **SP Energia Siciliana** | — | Serie C1 |
-| **2000–2001** | **Galex** | **SP Energia Siciliana** | — | Serie C1 (Inizio Era Gaucci) |
-| **2001–2002** | **Galex** | **SP Energia Siciliana** | — | Serie C1 ➔ **Promozione in Serie B** (Finale Taranto) |
-| **2002–2003** | **Galex** | **SP Energia Siciliana** | — | Serie B (Caso Catania) |
+| **[[02-cronistoria/stagioni/1999-2000\|1999–2000]]** | **Puma** | **SP Energia Siciliana** | — | Serie C1 |
+| **[[02-cronistoria/stagioni/2000-2001\|2000–2001]]** | **Galex** | **SP Energia Siciliana** | — | Serie C1 (Inizio [[01-societa/epoche/2000-era-gaucci\|Era Gaucci]]) |
+| **[[02-cronistoria/stagioni/2001-2002\|2001–2002]]** | **Galex** | **SP Energia Siciliana** | — | Serie C1 ➔ **Promozione in Serie B** (Finale Taranto) |
+| **[[02-cronistoria/stagioni/2002-2003\|2002–2003]]** | **Galex** | **SP Energia Siciliana** | — | Serie B ([[01-societa/vicende-legali/caso-catania-2003\|Caso Catania]]) |
 | **2003–2004** | **Galex** | **Toyota** | *SP Energia Siciliana* | Serie B (Campionato a 24 squadre) |
-| **2004–2005** | **Galex** | **SP Energia Siciliana** | — | Serie B (Avvento presidenza Pulvirenti) |
+| **[[02-cronistoria/stagioni/2004-2005\|2004–2005]]** | **Galex** | **SP Energia Siciliana** | — | Serie B (Avvento presidenza Pulvirenti) |
 | **2005–2006** | **Legea** | **SP Energia Siciliana** | *Provincia di Catania* | Serie B ➔ **Promozione in Serie A** |
-| **2006–2007** | **Legea** | **SP Energia Siciliana** | *Regione Siciliana* | Serie A |
-| **2007–2008** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (Semifinale Coppa Italia) |
-| **2008–2009** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (0-4 nel derby di Palermo) |
-| **2009–2010** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (3-1 all'Inter del Triplete) |
-| **2010–2011** | **Givova** | **SP Energia Siciliana** | — | Serie A |
-| **2011–2012** | **Givova** | **SP Energia Siciliana** | — | Serie A |
+| **[[02-cronistoria/stagioni/2006-2007\|2006–2007]]** | **Legea** | **SP Energia Siciliana** | *Regione Siciliana* | Serie A |
+| **[[02-cronistoria/stagioni/2007-2008\|2007–2008]]** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (Semifinale Coppa Italia) |
+| **[[02-cronistoria/stagioni/2008-2009\|2008–2009]]** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (0-4 nel derby di Palermo) |
+| **[[02-cronistoria/stagioni/2009-2010\|2009–2010]]** | **Legea** | **SP Energia Siciliana** | **Wind Jet** | Serie A (3-1 all'Inter del Triplete) |
+| **[[02-cronistoria/stagioni/2010-2011\|2010–2011]]** | **Givova** | **SP Energia Siciliana** | — | Serie A |
+| **[[02-cronistoria/stagioni/2011-2012\|2011–2012]]** | **Givova** | **SP Energia Siciliana** | — | Serie A |
 | **2012–2013** | **Givova** | **Arancia Rossa di Sicilia IGP** | **TTT Lines** (retro e pantaloncino) | Serie A (Record storico di **56 punti** e 8º posto) |
 | **2013–2014** | **Givova** | **Fiorucci** | **TTT Lines** | Serie A |
 | **2014–2015** | **Givova** | **Fortè** | **TTT Lines** | Serie B |
 | **2015–2016** | **Macron** | **Muracel** / **EcoGruppo Italia** | **Bacco Pistacchio** | Lega Pro |
-| **2016–2017** | **Macron** | **DomusBet** | **Bacco** | Lega Pro |
-| **2017–2018** | **Givova** | **DomusBet** | **Bacco**, **Caffè Zito** | Serie C |
-| **2018–2019** | **Givova** | **DomusBet** | **Bacco**, **Caffè Zito** | Serie C |
+| **[[02-cronistoria/stagioni/2016-2017\|2016–2017]]** | **Macron** | **DomusBet** | **Bacco** | Lega Pro |
+| **[[02-cronistoria/stagioni/2017-2018\|2017–2018]]** | **Givova** | **DomusBet** | **Bacco**, **Caffè Zito** | Serie C |
+| **[[02-cronistoria/stagioni/2018-2019\|2018–2019]]** | **Givova** | **DomusBet** | **Bacco**, **Caffè Zito** | Serie C |
 | **2019–2020** | **Givova** | **Crai (Gruppo Radenza)** | **Condorelli**, **Porte di Catania** | Serie C |
-| **2020–2021** | **Givova** | **SuperConveniente (Gruppo Arena)** | **Grimaldi Lines**, **Comer Sud** | Serie C |
+| **[[02-cronistoria/stagioni/2020-2021\|2020–2021]]** | **Givova** | **SuperConveniente (Gruppo Arena)** | **Grimaldi Lines**, **Comer Sud** | Serie C |
 | **2021–2022** | **Nike** *(Linea Oro)* | **SuperConveniente (Gruppo Arena)** | **Ulisse**, **Comer Sud** | Serie C (Fine matricola 11700) |
-| **2022–2023** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Replay**, **Funivia dell'Etna** | **Serie D** (Rinascita Pelligra, vittoria girone I) |
-| **2023–2024** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Funivia dell'Etna**, **Comer Sud** | Serie C (Vittoria [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C]]) |
+| **[[02-cronistoria/stagioni/2022-2023\|2022–2023]]** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Replay**, **Funivia dell'Etna** | **Serie D** (Rinascita Pelligra, vittoria girone I) |
+| **[[02-cronistoria/stagioni/2023-2024\|2023–2024]]** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Funivia dell'Etna**, **Comer Sud** | Serie C (Vittoria [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C]]) |
 | **2024–2026** | **Erreà** | **SuperConveniente (Gruppo Arena)** | **Replay**, **Funivia dell'Etna**, **Trilogy**, **Morgante** | Serie C |
 
 ---
@@ -179,7 +179,7 @@ Le partnership commerciali sulle divise hanno accompagnato le alterne vicende sp
 
 Al di là dei singoli accordi commerciali, la divisa del Calcio Catania rispetta rigidi canoni stilistici statutari:
 
-1. **La Tonalità Ufficiale dei Colori:** Il **Rosso Fuoco (#d11317)** della lava etnea e l'**Azzurro Mare (#0cb2d9)** delle acque ioniche, codificati nello statuto fondativo del 1929 redatto da Santi Quasimodo e Vespasiano Trigona.
+1. **La Tonalità Ufficiale dei Colori:** Il **Rosso Fuoco (#d11317)** della lava etnea e l'**Azzurro Mare (#0cb2d9)** delle acque ioniche, codificati nello statuto fondativo del 1929 redatto da [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]] e Vespasiano Trigona.
 2. **Il Tratto Distintivo dei Calzettoni Neri con Risvolto:** A differenza di altri club rossazzurri o rossoblù, la tradizione etnea impone **calzettoni rigorosamente neri (#191919) con risvolto o righe rossazzurre**, elemento di rigore e sobria eleganza quasi centenario.
 3. **Patch Ufficiali e Numerazioni:** Dalla toppa ufficiale della Lega Calcio (1994) e dalla numerazione personalizzata con nome (1995-1996), fino alla coccarda tricolore della [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Coppa Italia Serie C 2023-2024]].
 

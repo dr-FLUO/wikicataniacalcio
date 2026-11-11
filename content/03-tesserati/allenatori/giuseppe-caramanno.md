@@ -85,7 +85,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giuseppe Caramanno** (Piana degli Albanesi (PA), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1991-1992**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Giuseppe Caramanno** (Piana degli Albanesi (PA), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1991-1992**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore

@@ -47,7 +47,7 @@ La rivalità tra **Catania** e **Juve Stabia** è una contrapposizione sportiva 
 
 I primi attriti significativi tra le due compagini risalgono alla fine degli anni Novanta, nel campionato di Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2000]]:
 - Lo Stadio Romeo Menti di Castellammare di Stabia, caratterizzato da gradinate a ridosso del terreno di gioco e varchi d'accesso angusti nel fitto tessuto urbano cittadino, si è sempre rivelato un terreno particolarmente ostile per le tifoserie ospiti.
-- La presenza numerosa di tifosi catanesi in Campania in quegli anni accese dispute territoriali con i gruppi organizzati stabiesi (tra cui la *Curva Sud Castellammare*).
+- La presenza numerosa di tifosi catanesi in Campania in quegli anni accese dispute territoriali con i gruppi organizzati stabiesi (tra cui la *[[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] Castellammare*).
 
 ---
 

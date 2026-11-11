@@ -52,7 +52,7 @@ Martedì **19 marzo 2024**, la finale di andata della Coppa Italia di Serie C tr
 
 L'alta tensione latente tra le due fazioni affondava le radici nella geopolitica del tifo:
 - Gli ultras del Padova sono legati da uno storico e fraterno gemellaggio trentennale con gli ultras del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Palermo]], acerrimi rivali storici del Catania.
-- Al seguito del Catania giunsero in Veneto circa 1.800 sostenitori rossazzurri. Durante l'intervallo della partita (con il Padova in vantaggio per 2-0), un nutrito gruppo di circa sessanta ultras catanesi a volto coperto forzò e divelse i cancelli di sicurezza del settore ospiti Curva Nord, invadendo la pista d'atletica e il terreno di gioco nel tentativo di caricare la curva dei padovani.
+- Al seguito del Catania giunsero in Veneto circa 1.800 sostenitori rossazzurri. Durante l'intervallo della partita (con il Padova in vantaggio per 2-0), un nutrito gruppo di circa sessanta ultras catanesi a volto coperto forzò e divelse i cancelli di sicurezza del settore ospiti [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], invadendo la pista d'atletica e il terreno di gioco nel tentativo di caricare la curva dei padovani.
 - Gli invasori scagliarono petardi, torce pirotecniche e seggiolini divelti verso la tribuna locale, tentando di sottrarre gli striscioni avversari.
 - Il tempestivo intervento dei reparti inquadrati della Polizia di Stato e dei Carabinieri sulla pista d'atletica evitò lo scontro fisico diretto tra le opposte tifoserie; negli scontri corpo a corpo rimasero **contusi 8 agenti di polizia**.
 

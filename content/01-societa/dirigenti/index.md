@@ -36,10 +36,10 @@ L'evoluzione tecnica e patrimoniale del Calcio Catania è stata scandita dall'op
 
 | Dirigente | Ruolo Principale | Periodo Rossazzurro | Era Societaria / Matricola | Documento Correlato |
 | :--- | :--- | :---: | :--- | :--- |
-| **[[01-societa/dirigenti/pietro-lo-monaco\|Pietro Lo Monaco]]** | Amministratore Delegato | 2004–2012 / 2016–2019 | Era Pulvirenti (Matricola 11700) | [[01-societa/dirigenti/pietro-lo-monaco\|Scheda Pietro Lo Monaco]] |
-| **[[01-societa/dirigenti/sergio-gasparin\|Sergio Gasparin]]** | Direttore Generale | 2012–2013 | Record 56 Punti Serie A (Matricola 11700) | [[01-societa/dirigenti/sergio-gasparin\|Scheda Sergio Gasparin]] |
-| **[[01-societa/dirigenti/vincenzo-grella\|Vincenzo Grella]]** | Vicepresidente & AD | 2022–Oggi | Era Pelligra / Catania FC (Matricola 955013) | [[01-societa/dirigenti/vincenzo-grella\|Scheda Vincenzo Grella]] |
-| **[[01-societa/dirigenti/daniele-faggiano\|Daniele Faggiano]]** | Direttore Sportivo | 2024–2025 | Catania FC (Matricola 955013) | [[01-societa/dirigenti/daniele-faggiano\|Scheda Daniele Faggiano]] |
+| **[[01-societa/dirigenti/pietro-lo-monaco\|Pietro Lo Monaco]]** | Amministratore Delegato | 2004–2012 / 2016–2019 | [[01-societa/epoche/2004-era-pulvirenti\|Era Pulvirenti]] ([[01-societa/matricola-11700\|Matricola 11700]]) | [[01-societa/dirigenti/pietro-lo-monaco\|Scheda Pietro Lo Monaco]] |
+| **[[01-societa/dirigenti/sergio-gasparin\|Sergio Gasparin]]** | Direttore Generale | [[02-cronistoria/stagioni/2012-2013\|2012–2013]] | Record 56 Punti Serie A (Matricola 11700) | [[01-societa/dirigenti/sergio-gasparin\|Scheda Sergio Gasparin]] |
+| **[[01-societa/dirigenti/vincenzo-grella\|Vincenzo Grella]]** | Vicepresidente & AD | 2022–Oggi | Era Pelligra / [[01-societa/epoche/2022-pelligra-catania-fc\|Catania FC]] (Matricola 955013) | [[01-societa/dirigenti/vincenzo-grella\|Scheda Vincenzo Grella]] |
+| **[[01-societa/dirigenti/daniele-faggiano\|Daniele Faggiano]]** | Direttore Sportivo | [[02-cronistoria/stagioni/2024-2025\|2024–2025]] | Catania FC (Matricola 955013) | [[01-societa/dirigenti/daniele-faggiano\|Scheda Daniele Faggiano]] |
 | **[[01-societa/dirigenti/fortunato-varra\|Fortunato Varrà]]** | Direttore Sportivo | 2026–Oggi | Catania FC (Matricola 955013) | [[01-societa/dirigenti/fortunato-varra\|Scheda Fortunato Varrà]] |
 
 ---

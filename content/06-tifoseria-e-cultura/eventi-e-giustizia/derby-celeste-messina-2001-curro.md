@@ -55,7 +55,7 @@ aliases:
 
 Il **17 giugno 2001**, lo Stadio Giovanni Celeste di Messina fu teatro di una delle pagine più drammatiche e oscure della storia del calcio italiano, durante la finale di ritorno dei play-off di Serie C1 (girone B) tra [[06-tifoseria-e-cultura/relazioni/rivalita/messina|Messina]] e Catania.
 
-L'accesa rivalità sportiva e campanilistica tra le due sponde dello Stretto degenerò in un sistematico lancio di petardi e oggetti contundenti prima del fischio d'inizio e per tutto il primo tempo. Pochi istanti prima dell'avvio della ripresa, dal settore della Curva Nord occupato dalla tifoseria etnea venne esploso un ordigno pirotecnico ad altissimo potenziale (un **razzo nautico di segnalazione a paracadute** a traiettoria tesa). Il proiettile travolse la rete metallica divisoria e colpì alla testa il giovane tifoso messinese **Antonino (Tonino) Currò**, 24 anni, posizionato nella vicina gradinata.
+L'accesa rivalità sportiva e campanilistica tra le due sponde dello Stretto degenerò in un sistematico lancio di petardi e oggetti contundenti prima del fischio d'inizio e per tutto il primo tempo. Pochi istanti prima dell'avvio della ripresa, dal settore della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] occupato dalla tifoseria etnea venne esploso un ordigno pirotecnico ad altissimo potenziale (un **razzo nautico di segnalazione a paracadute** a traiettoria tesa). Il proiettile travolse la rete metallica divisoria e colpì alla testa il giovane tifoso messinese **Antonino (Tonino) Currò**, 24 anni, posizionato nella vicina gradinata.
 
 Trasportato d'urgenza all'Ospedale Policlinico di Messina in condizioni disperate per via di gravissimi traumi cranio-encefalici, il giovane spirò il 2 luglio 2001 dopo quindici giorni di coma irreversibile.
 
@@ -80,7 +80,7 @@ La finale di ritorno dei playoff [[02-cronistoria/stagioni/2000-2001|2000-2001]]
 
 ## 2. Le Conseguenze Istituzionali e l'Impatto sul Movimento Ultras
 
-La tragedia provocò un moto di profondo sconcerto e condanna unanime in tutta Italia. Entrambe le tifoserie organizzarono veglie di cordoglio, e la Curva Sud del Catania prese pubblicamente e nettamente le distanze dall'accaduto, rifiutando qualsiasi giustificazione per l'introduzione di armi nautiche all'interno degli impianti sportivi.
+La tragedia provocò un moto di profondo sconcerto e condanna unanime in tutta Italia. Entrambe le tifoserie organizzarono veglie di cordoglio, e la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] del Catania prese pubblicamente e nettamente le distanze dall'accaduto, rifiutando qualsiasi giustificazione per l'introduzione di armi nautiche all'interno degli impianti sportivi.
 
 L'episodio mise a nudo il fallimento del cosiddetto **modello di contenimento reattivo (Fase 1)**: affidarsi alla semplice presenza di cordoni di polizia sul piazzale antistante senza pre-filtraggi, metal detector, tornelli e telecamere a circuito chiuso ad alta risoluzione esponeva il pubblico a rischi letali.
 

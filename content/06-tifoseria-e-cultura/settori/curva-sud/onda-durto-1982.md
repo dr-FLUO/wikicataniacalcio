@@ -34,13 +34,13 @@ aliases:
 
 # Onda d'Urto Curva Sud (1982)
 
-**Onda d'Urto** è stata una delle prime formazioni organizzate del tifo rossazzurro a stabilirsi in modo permanente nei gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali, fondata nell'autunno del **1982** nel corso dell'entusiasmante cavalcata agonistica che condusse il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] alla storica promozione in Serie A.
+**Onda d'Urto** è stata una delle prime formazioni organizzate del tifo rossazzurro a stabilirsi in modo permanente nei gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], fondata nell'autunno del **1982** nel corso dell'entusiasmante cavalcata agonistica che condusse il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] alla storica promozione in Serie A.
 
 ---
 
 ## 1. Il Contesto di Nascita e la Collocazione
 
-All'inizio degli anni Ottanta, mentre la Curva Nord era già solidamente presidiata dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] fondata da Ciccio Famoso, il settore meridionale dello stadio etneo viveva una fase di fermento spontaneo:
+All'inizio degli anni Ottanta, mentre la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] era già solidamente presidiata dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] fondata da [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], il settore meridionale dello stadio etneo viveva una fase di fermento spontaneo:
 - Accanto ai pionieri dei [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], un collettivo di giovani provenienti dai quartieri popolari a sud della città (Zia Lisa, San Cristoforo, Angeli Custodi) decise di dotarsi di uno striscione dal forte impatto visivo ed emotivo: nacque così l'insegna *Onda d'Urto*.
 - Il gruppo occupò stabilmente i gradoni inferiori e centrali della Sud, caratterizzandosi per l'impiego massiccio di torce navali, tamburi a percussione pesante e bandiere a scacchi rossazzurri cucite artigianalmente.
 

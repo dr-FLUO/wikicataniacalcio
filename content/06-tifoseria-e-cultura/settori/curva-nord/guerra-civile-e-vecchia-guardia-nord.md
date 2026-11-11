@@ -35,7 +35,7 @@ aliases:
 
 # Guerra Civile e Vecchia Guardia Nord (Anni '80-'90)
 
-Tra la metà degli anni Ottanta e l'inizio degli anni Novanta, la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Cibali fu teatro della fioritura di sigle autonome d'urto e di presidio territoriale che affiancarono la storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], tra le quali si distinsero per temperamento ed estetica i collettivi **Guerra Civile** e **Vecchia Guardia Nord**.
+Tra la metà degli anni Ottanta e l'inizio degli anni Novanta, la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] fu teatro della fioritura di sigle autonome d'urto e di presidio territoriale che affiancarono la storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], tra le quali si distinsero per temperamento ed estetica i collettivi **Guerra Civile** e **[[06-tifoseria-e-cultura/settori/tribuna-b/vecchia-guardia|Vecchia Guardia]] Nord**.
 
 ---
 
@@ -51,7 +51,7 @@ Nata nel **1986** su iniziativa di militanti provenienti dai quartieri popolari 
 
 Contemporaneamente, militanti della prima ora che avevano vissuto gli albori del movimento ultras nel 1979 costituirono la sigla **Vecchia Guardia Nord**:
 - Il loro compito fu essenzialmente quello di custodi della memoria e dei codici di comportamento non scritti dei gradoni: rispetto per i colori storici, disprezzo per il compromesso economico con i vertici societari e lealtà fisica sul campo.
-- Questo nucleo di veterani svolse un ruolo prezioso di cerniera morale e organizzativa durante la crisi del 1993, fornendo supporto ideale e logistico alla nascita di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e alla federazione dei clan rionali come [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]], *Nord Kaos* e *Skizzati Passarello*.
+- Questo nucleo di veterani svolse un ruolo prezioso di cerniera morale e organizzativa durante la crisi del 1993, fornendo supporto ideale e logistico alla nascita di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e alla federazione dei clan rionali come [[06-tifoseria-e-cultura/settori/curva-nord/i-decisi|I Decisi]], *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]* e *[[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]]*.
 
 ---
 

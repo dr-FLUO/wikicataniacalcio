@@ -90,7 +90,7 @@ citizenship: Regno d'Italia
   </table>
 </div>
 
-**Giovanni Degni** (Roma, Italia, 1900 – 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1937-1939, 1948-1949**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943), Club Calcio Catania (1946-1967).
+**Giovanni Degni** (Roma, Italia, 1900 – 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1937-1939, 1948-1949**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943), [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista

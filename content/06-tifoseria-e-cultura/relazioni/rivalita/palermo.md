@@ -33,7 +33,7 @@ aliases:
 
 # Derby di Sicilia: L'Eterna Rivalità Catania-Palermo
 
-Nel panorama del calcio italiano, il **Derby di Sicilia** tra Catania e **Palermo** rappresenta il nemico assoluto per antonomasia: una contrapposizione totale che travalica l'ambito sportivo per farsi scontro antropologico, politico e culturale tra le due capitali storiche dell'isola.
+Nel panorama del calcio italiano, il **[[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Derby di Sicilia]]** tra Catania e **Palermo** rappresenta il nemico assoluto per antonomasia: una contrapposizione totale che travalica l'ambito sportivo per farsi scontro antropologico, politico e culturale tra le due capitali storiche dell'isola.
 
 ---
 

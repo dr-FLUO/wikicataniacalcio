@@ -71,7 +71,7 @@ L'aspetto più affascinante dell'opera risiede nella perfetta aderenza con la cr
 A distanza di oltre quattro decenni dall'uscita, la scena dell'Hotel Executive ha assunto uno status quasi mitologico:
 
 * **Consacrazione di Massimino**: La caricatura bonaria e passionale tracciata da Gino Pagnani contribuì a consacrare la figura del Cavaliere Massimino nell'immaginario collettivo dell'intera nazione come prototipo del presidente passionale, sanguigno e visceralmente attaccato alla propria squadra del cuore.
-* **Eredità Televisiva**: Le battute del film continuano a essere replicate quotidianamente nei talk show sportivi moderni (*Corner*, *Diretta Stadio*, emittenti nazionali) e sui social network, attestando la pervasività del Calcio Catania nella cultura di massa italiana del secondo Novecento.
+* **Eredità Televisiva**: Le battute del film continuano a essere replicate quotidianamente nei talk show sportivi moderni (*Corner*, *[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]*, emittenti nazionali) e sui social network, attestando la pervasività del Calcio Catania nella cultura di massa italiana del secondo Novecento.
 
 ---
 

@@ -38,7 +38,7 @@ aliases:
 
 Medico chirurgo, scrittore e ricercatore storiografico, **Alessandro Russo** è una delle voci letterarie e storiografiche più profonde, raffinate e prolifiche dell'universo narrativo del Calcio Catania.
 
-Membro fondatore del collettivo storiografico **"Quelli del '46"** e co-autore della monumentale enciclopedia *Tutto il Catania minuto per minuto*, Russo si è affermato come il **biografo ufficiale del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]**, unendo la passione viscerale per i colori rossazzurri a uno stile letterario intriso di ironia, lirismo e rigore archivistico.
+Membro fondatore del collettivo storiografico **"Quelli del '46"** e co-autore della monumentale enciclopedia *[[07-media-e-comunicazione/letteratura/tutto-il-catania-minuto-per-minuto|Tutto il Catania minuto per minuto]]*, Russo si è affermato come il **biografo ufficiale del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]**, unendo la passione viscerale per i colori rossazzurri a uno stile letterario intriso di ironia, lirismo e rigore archivistico.
 
 ---
 

@@ -40,7 +40,7 @@ aliases:
 
 In onda ininterrottamente dall'autunno del **1986** sugli schermi di [[07-media-e-comunicazione/testate/telecolor|Telecolor]] (LCN 11 del digitale terrestre), ***Diretta Stadio*** rappresenta il programma sportivo domenicale più longevo dell'emittenza privata regionale e uno dei più duraturi dell'intero panorama radiotelevisivo italiano.
 
-Trascendendo la dimensione di semplice trasmissione d'informazione sportiva, *Diretta Stadio* ha scandito per quattro decenni la liturgia domenicale del popolo rossazzurro, accompagnando generazioni di tifosi dalle faticose domeniche di Serie C degli anni Ottanta e Novanta, attraverso il dramma della retrocessione a tavolino del 1993, fino all'apoteosi degli otto campionati consecutivi di Serie A (2006–2014) e alla rinascita societaria sotto il marchio del *Catania Football Club*.
+Trascendendo la dimensione di semplice trasmissione d'informazione sportiva, *Diretta Stadio* ha scandito per quattro decenni la liturgia domenicale del popolo rossazzurro, accompagnando generazioni di tifosi dalle faticose domeniche di Serie C degli anni Ottanta e Novanta, attraverso il dramma della retrocessione a tavolino del 1993, fino all'apoteosi degli otto campionati consecutivi di Serie A (2006–2014) e alla rinascita societaria sotto il marchio del *[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]*.
 
 ---
 
@@ -60,7 +60,7 @@ L'anima pulsante dei collegamenti in diretta dallo stadio è legata indissolubil
 
 * **Dalle Frequenze Radio allo Schermo TV**: Inviato di punta dai box della tribuna stampa del [[04-strutture/stadio-massimino/angelo-massimino|Cibali/Massimino]] e nei principali stadi d'Italia sin dal 1995, Patanè ha raccontato oltre mille partite ufficiali del Catania, rendendo celebri le sue enfatiche descrizioni dei gol e dei salvataggi sulla linea.
 * **Il Commento Tecnico**: Al suo fianco, nelle telecronache integrali differite e nei commenti in tempo reale, si sono alternati allenatori esperti del calcio etneo quali [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]], Carlo Breve e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]], garantendo una lettura tecnica delle scelte tattiche.
-* **Le Partite Epiche**: Dalla promozione di Taranto nel 2002, alla cavalcata trionfale della Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], ai leggendari successi di Serie A (Catania-Inter 3-1 nel 2010 con i gol di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], Mascara e Martínez), la telecronaca di Patanè è divenuta la colonna sonora ufficiale della memoria collettiva dei sostenitori.
+* **Le Partite Epiche**: Dalla promozione di Taranto nel 2002, alla cavalcata trionfale della Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], ai leggendari successi di Serie A ([[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|Catania-Inter 3-1]] nel 2010 con i gol di [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], Mascara e Martínez), la telecronaca di Patanè è divenuta la colonna sonora ufficiale della memoria collettiva dei sostenitori.
 
 ---
 

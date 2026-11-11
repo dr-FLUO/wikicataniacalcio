@@ -105,7 +105,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nicolò Nicolosi** (Lercara Friddi (PA), Italia, 1912 – 1986) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1947-1948, 1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
+**Nicolò Nicolosi** (Lercara Friddi (PA), Italia, 1912 – 1986) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1947-1948, 1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante

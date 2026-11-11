@@ -38,14 +38,14 @@ aliases:
 
 # Skizzati Passarello (Curva Nord)
 
-Gli **Skizzati Passarello** costituiscono una delle espressioni più autentiche dell'intreccio tra identità rionale e tifo di curva all'interno della **Curva Nord** del Massimino. Radicati nel rione del **Passarello** — area popolare di cerniera tra i quartieri di Picanello, Ognina e il centro storico cittadino —, gli Skizzati hanno saputo mantenere una forte impronta identitaria fin dalla loro nascita nel 2004.
+Gli **Skizzati Passarello** costituiscono una delle espressioni più autentiche dell'intreccio tra identità rionale e tifo di curva all'interno della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino. Radicati nel rione del **Passarello** — area popolare di cerniera tra i quartieri di Picanello, Ognina e il centro storico cittadino —, gli Skizzati hanno saputo mantenere una forte impronta identitaria fin dalla loro nascita nel 2004.
 
 ---
 
 ## 1. Militanza e Ruolo in Curva Nord
 
 - **Radicamento Territoriale:** Come molti altri clan rionali della Nord, l'aggregazione nasce dalla quotidianità dei vicoli del quartiere, dove l'appartenenza al rione si traduce direttamente in compattezza sui gradoni dello stadio.
-- **Ruolo nella Frattura del 2015:** Assieme ad *A Sostegno di una Fede* e *Nord Kaos*, gli Skizzati Passarello sono stati tra i firmatari dei comunicati di rifiuto della Tessera del Tifoso nel 2015, rivendicando con orgoglio la scelta di restare coerenti con il codice non scritto della tradizione ultras.
+- **Ruolo nella Frattura del 2015:** Assieme ad *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]* e *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]*, gli Skizzati Passarello sono stati tra i firmatari dei comunicati di rifiuto della Tessera del Tifoso nel 2015, rivendicando con orgoglio la scelta di restare coerenti con il codice non scritto della tradizione ultras.
 
 ---
 

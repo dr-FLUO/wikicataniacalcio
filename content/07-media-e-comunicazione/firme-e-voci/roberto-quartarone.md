@@ -56,7 +56,7 @@ A soli 24 anni, Quartarone è stato tra i motori propulsori della redazione di *
 La produzione editoriale di Quartarone spazia attraverso ambiti eterogenei dello sport etneo:
 * ***Due eroi in panchina*** (Edizioni InContropiede, 2016): Saggio storico dedicato agli allenatori del Catania d'epoca pionieristica e alle loro avventure umane durante la guerra.
 * ***Il libro del Catania*** (Edizioni InContro, 2013) e ***Due secoli di calcio a Catania*** (Edizioni Koinè, 2018): Trattati sull'origine sociale del football e sui record societari.
-* **La Storia del Calcio Femminile**: Insieme a Sergio Nunzio Capizzi ha pubblicato per le edizioni Quelli del '46 le prime due opere organiche sul calcio rosa siciliano: ***Il cielo è rosa sopra il Cibali*** (2020), sullo scudetto della Jolly Componibili nel 1978, e ***Calcio femminile Gravina - La Stella del Sud*** (2021).
+* **La Storia del Calcio Femminile**: Insieme a Sergio Nunzio Capizzi ha pubblicato per le edizioni Quelli del '46 le prime due opere organiche sul calcio rosa siciliano: ***[[07-media-e-comunicazione/letteratura/il-cielo-e-rosa-sopra-il-cibali|Il cielo è rosa sopra il Cibali]]*** (2020), sullo scudetto della [[08-settori-paralleli/women/index|Jolly Componibili]] nel 1978, e ***Calcio femminile Gravina - La Stella del Sud*** (2021).
 * **Il Basket Catanese**: Autorevolezza confermata anche nella pallacanestro con le opere monumentali *Il libro d'oro del basket catanese 1933-2013* (2013) e *Alle sorgenti dell'Arcobaleno* (2019).
 
 ---

@@ -44,7 +44,7 @@ Curato dal collettivo di ricercatori ed enciclopedisti denominato **"Quelli del 
 La pubblicazione nel 2010 dell'enciclopedia di 500 pagine (immediatamente esaurita e ripubblicata nel 2011) ha richiesto una sede telematica viva e continuativa per aggiornare e ampliare il patrimonio di dati:
 
 * **Tabellini Ufficiali Integrali**: Ricostruzione sistematica, per ogni singola gara ufficiale dal 1929 al presente, di formazioni, sostituzioni, arbitri, spettatori, incassi, marcatori e minutaggi esatti.
-* **Correzione degli Errori Storiografici**: Decenni di almanacchi approssimativi sono stati bonificati attraverso il riscontro diretto sui verbali FIGC, sui fogli notizie arbitrali e sulla carta stampata d'epoca (*La Sicilia*, *Il Popolo di Sicilia*, *La Gazzetta dello Sport*).
+* **Correzione degli Errori Storiografici**: Decenni di almanacchi approssimativi sono stati bonificati attraverso il riscontro diretto sui verbali FIGC, sui fogli notizie arbitrali e sulla carta stampata d'epoca (*[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*, *Il Popolo di Sicilia*, *La Gazzetta dello Sport*).
 
 ---
 
@@ -55,7 +55,7 @@ Nel corso degli anni Venti e fino al 2026, il portale ha ospitato saggi monograf
 1. **La Preistoria e i Pionieri**: Indagini biografiche documentate sui padri fondatori dello sport catanese (Ruggero Albanese, Alberto Pappalardo, il Duca Saverio Gravina di Misterbianco) e sul calciatore-operatore cinematografico Gaetano Ventimiglia, pioniere del cinema muto che lavorò con Alfred Hitchcock.
 2. **Evoluzione Araldica e delle Maglie**: La dettagliata cronistoria filologica di stemmi, loghi e maglie dal 1929 a oggi, sfociata poi nel volume *Il rosso, l'azzurro. Catania, novant'anni di una maglia* (Geo Edizioni, 2020).
 3. **Internazionalismo e Tournée**: Ricostruzioni delle grandi tournée all'estero (come il viaggio in Brasile negli anni Cinquanta) e delle biografie di campioni stranieri (da [[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]] a Pedrinho e Luvanor).
-4. **Calcio Femminile**: Il recupero organico della storia calcistica femminile etnea, culminato negli studi sulle campionesse d'Italia della Jolly Componibili (1978) e sulla gloriosa Stella del Sud di Gravina.
+4. **Calcio Femminile**: Il recupero organico della storia calcistica femminile etnea, culminato negli studi sulle campionesse d'Italia della [[08-settori-paralleli/women/index|Jolly Componibili]] (1978) e sulla gloriosa Stella del Sud di Gravina.
 
 ---
 

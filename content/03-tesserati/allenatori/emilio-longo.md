@@ -93,7 +93,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Emilio Longo** (Salerno, 18 maggio 1973) è l'allenatore responsabile della prima squadra del **Catania Football Club** per la [[02-cronistoria/stagioni/2026-2027|stagione sportiva 2026-2027]] nel campionato di **Serie C (Girone C)**.
+**Emilio Longo** (Salerno, 18 maggio 1973) è l'allenatore responsabile della prima squadra del **[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** per la [[02-cronistoria/stagioni/2026-2027|stagione sportiva 2026-2027]] nel campionato di **Serie C (Girone C)**.
 
 ---
 

@@ -60,7 +60,7 @@ Fondato il **15 marzo 1945** dall'imprenditore Domenico Sanfilippo, il quotidian
 
 ## 1. Dalle Origini ai Grandi Maestri del Novecento
 
-Fin dai campionati del secondo dopoguerra del *Club Calcio Catania 1946*, le pagine sportive del quotidiano — guidate dal decano [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]] — hanno accompagnato l'evoluzione sociale del tifo:
+Fin dai campionati del secondo dopoguerra del *[[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] 1946*, le pagine sportive del quotidiano — guidate dal decano [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]] — hanno accompagnato l'evoluzione sociale del tifo:
 * **La Fucina di Candido Cannavò**: Nel 1949, a soli diciannove anni, esordì in redazione il giovane [[07-media-e-comunicazione/firme-e-voci/candido-cannavo|Candido Cannavò]], che prima di assumere la direzione de *La Gazzetta dello Sport* raccontò per quasi vent'anni le gesta della squadra di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], mantenendo sempre un'assoluta indipendenza etica nei confronti della società.
 * **Luigi Tripisciano**: Mosse i primi passi a *La Sicilia* anche [[07-media-e-comunicazione/firme-e-voci/luigi-tripisciano|Luigi Tripisciano]], prima del passaggio nel 1955 alla RAI e all'epopea di *90° Minuto*.
 * **La Prima Serie A e il [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]**: Le promozioni del 1954 e il celebre [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0 del 4 giugno 1961]] vennero celebrati con titoli cubitali a tutta pagina rimasti impressi nella memoria visiva della città.
@@ -72,8 +72,8 @@ Fin dai campionati del secondo dopoguerra del *Club Calcio Catania 1946*, le pag
 A cavallo tra gli anni Ottanta e Novanta, a plasmare il settore sportivo fu [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] (1948–2014), storico caposervizio e pioniere televisivo.
 
 Lungo gli ultimi trent'anni, il racconto quotidiano del Catania sulle colonne de *La Sicilia* e sul portale *lasicilia.it* si è identificato in modo speciale con la firma di [[07-media-e-comunicazione/firme-e-voci/giovanni-finocchiaro|Giovanni Finocchiaro]]:
-* Dalle serie minori degli anni Novanta fino agli anni della Serie A, ai reportage con Pietro Lo Monaco e alla copertura puntuale della rinascita societaria sotto Ross Pelligra nel 2026/2027.
-* Accanto a Finocchiaro hanno scritto firme autorevoli quali [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] (redattore ordinario 1990–1994, vice caposervizio 2015–2016), [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]] (analisi tattiche), Paolo Russo e Giuseppe Lo Faro, supportati dall'archivio visivo del fotoreporter storico Antonio Parrinello.
+* Dalle serie minori degli anni Novanta fino agli anni della Serie A, ai reportage con [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] e alla copertura puntuale della rinascita societaria sotto [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] nel 2026/2027.
+* Accanto a Finocchiaro hanno scritto firme autorevoli quali [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] (redattore ordinario 1990–1994, vice caposervizio [[02-cronistoria/stagioni/2015-2016|2015–2016]]), [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]] (analisi tattiche), Paolo Russo e Giuseppe Lo Faro, supportati dall'archivio visivo del fotoreporter storico Antonio Parrinello.
 
 ---
 

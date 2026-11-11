@@ -36,7 +36,7 @@ Questa sezione documenta la continuità sportiva, formativa e sociale del Calcio
 ## 1. Settore Giovanile & Primavera
 * [[08-settori-paralleli/giovanili/index|Panoramica Generale Settore Giovanile (1946–2026)]] — La scuola calcio rossazzurra, le strutture e le squadre agonistiche.
 * [[08-settori-paralleli/giovanili/index|Il Catania al Torneo di Viareggio e l'Albo d'Oro Giovanile]] — Le storiche partecipazioni alla Coppa Carnevale e le sfide con Santos, Real Madrid e Juventus.
-* [[08-settori-paralleli/giovanili/index|La Cantera Rossazzurra: Talenti, Bandiere e Campioni del Vivaio]] — Da Orazio Russo e i talenti etnei alle strutture da Nesima a Torre del Grifo.
+* [[08-settori-paralleli/giovanili/index|La Cantera Rossazzurra: Talenti, Bandiere e Campioni del Vivaio]] — Da [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]] e i talenti etnei alle strutture da Nesima a Torre del Grifo.
 
 ---
 

@@ -45,13 +45,13 @@ aliases:
 
 # Irriducibili Curva Sud (1991)
 
-Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.A. - Irriducibili RossAzzurri**) costituiscono dal **1991** la colonna portante della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali / Angelo Massimino.
+Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.A. - Irriducibili RossAzzurri**) costituiscono dal **1991** la colonna portante della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] / Angelo Massimino.
 
 ---
 
 ## 1. Origini: Dal "Primo Amore" agli Irriducibili
 
-- **La Migrazione del 1991:** Il gruppo nacque nel 1991 dall'iniziativa di un collettivo di giovani ultras provenienti dalla Curva Nord che decise di trasferirsi in Curva Sud per animare un settore fino ad allora privo di una leadership centralizzata.
+- **La Migrazione del 1991:** Il gruppo nacque nel 1991 dall'iniziativa di un collettivo di giovani ultras provenienti dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] che decise di trasferirsi in Curva Sud per animare un settore fino ad allora privo di una leadership centralizzata.
 - **La Denominazione:** Inizialmente scelsero il nome poetico di [[06-tifoseria-e-cultura/settori/curva-sud/primo-amore-1991|Primo Amore]], mutato ben presto in *Irriducibili* per sottolineare la natura intransigente, combattiva e battagliera del gruppo nei confronti di ogni avversità societaria o giudiziaria.
 - **Radicamento Popolare:** Il bacino sociale del gruppo si è consolidato nei grandi quartieri popolari della cintura meridionale e centrale di Catania: da San Cristoforo a Librino, da Zia Lisa a via Plebiscito fino al Villaggio Sant'Agata.
 
@@ -59,7 +59,7 @@ Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.
 
 ## 2. Momenti Storici e Scissioni
 
-- **La Scissione dell'A.N.R. (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
+- **La Scissione dell'[[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R.]] (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
 - **La Presenza in Trasferta:** Gli Irriducibili hanno costruito la propria reputazione sulla presenza costante su ogni campo: dai gironi infernali della Serie C2 fino ai palcoscenici della Serie A, garantendo una scorta vocale continua ai colori rossazzurri.
 
 ---

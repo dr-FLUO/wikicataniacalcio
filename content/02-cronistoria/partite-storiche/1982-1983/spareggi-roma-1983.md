@@ -54,7 +54,7 @@ aliases:
 
 # Gli Spareggi di Roma 1983 — L'Invasione dei 40.000 all'Olimpico e il Ritorno in Serie A
 
-Il triangolare di spareggio promozione della **Serie B 1982-1983**, disputato allo **Stadio Olimpico di Roma** tra il 18 e il 25 giugno 1983, rappresenta una delle pagine più leggendarie, romantiche e imponenti della storia del [[01-societa/index|Calcio Catania]]. Al termine della stagione regolare tre formazioni chiusero appaiate al terzo posto con 45 punti: il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], il Como di Tarcisio Burgnich e la Cremonese di Emiliano Mondonico. Per decretare la terza squadra promossa in Serie A (assieme a Milan e Lazio) si rese necessario un mini-torneo in campo neutro nella capitale.
+Il triangolare di spareggio promozione della **Serie B [[02-cronistoria/stagioni/1982-1983|1982-1983]]**, disputato allo **Stadio Olimpico di Roma** tra il 18 e il 25 giugno 1983, rappresenta una delle pagine più leggendarie, romantiche e imponenti della storia del [[01-societa/index|Calcio Catania]]. Al termine della stagione regolare tre formazioni chiusero appaiate al terzo posto con 45 punti: il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], il Como di Tarcisio Burgnich e la Cremonese di Emiliano Mondonico. Per decretare la terza squadra promossa in Serie A (assieme a Milan e Lazio) si rese necessario un mini-torneo in campo neutro nella capitale.
 
 ---
 
@@ -72,7 +72,7 @@ Il triangolare di spareggio promozione della **Serie B 1982-1983**, disputato al
   </div>
 </div>
 
-L'evento assunse immediatamente una rilevanza antropologica e sociale senza precedenti. La Sicilia si mobilitò in massa: treni speciali, traghetti carichi fino all'inverosimile sullo Stretto di Messina, carovane interminabili di automobili e decine di pullman risalirono la penisola lungo l'Autostrada del Sole. 
+L'evento assunse immediatamente una rilevanza antropologica e sociale senza precedenti. [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]] si mobilitò in massa: treni speciali, traghetti carichi fino all'inverosimile sullo Stretto di Messina, carovane interminabili di automobili e decine di pullman risalirono la penisola lungo l'Autostrada del Sole. 
 
 Lo Stadio Olimpico si tinse interamente di rosso e di azzurro, trasformando l'impianto capitolino in una succursale del Cibali, con una presenza stimata di oltre **40.000 sostenitori etnei**, compresi migliaia di emigrati giunti dai centri industriali del Nord Italia e dalla Germania, Svizzera e Belgio. Fu l'esodo di massa più imponente mai registrato da una tifoseria del Mezzogiorno per una gara di calcio.
 

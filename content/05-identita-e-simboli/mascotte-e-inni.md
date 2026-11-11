@@ -52,7 +52,7 @@ La mascotte ufficiale del club è la personificazione dell'**Elefante** (*'U Lio
 - La mascotte raffigura un simpatico e fiero elefante antropomorfo che indossa la divisa ufficiale a bande verticali rossazzurre e scarpe da calcio con tacchetti.
 - Nel **settembre 2014**, la dirigenza del Calcio Catania promosse una consultazione popolare attraverso un sondaggio online sul portale societario ufficiale, chiedendo ai tifosi di scegliere il nome definitivo per la neonata mascotte tra diverse proposte.
 - Con un plebiscito di voti, i sostenitori etnei scelsero il nome **Agatino**, in esplicito e devoto omaggio a **Sant'Agata**, vergine e martire patrona amatissima della città di Catania.
-- Agatino ha animato per anni il pre-partita allo Stadio Angelo Massimino, intrattenendo i tifosi in Tribuna B e nelle Curve, e presenziando alle iniziative di solidarietà e di impegno sociale del club negli ospedali pediatrici e nelle scuole cittadine.
+- Agatino ha animato per anni il pre-partita allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], intrattenendo i tifosi in [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]] e nelle Curve, e presenziando alle iniziative di solidarietà e di impegno sociale del club negli ospedali pediatrici e nelle scuole cittadine.
 
 ---
 

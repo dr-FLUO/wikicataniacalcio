@@ -48,7 +48,7 @@ Frutto di un decennio di indagini archivistiche condotte dal collettivo di ricer
 
 Prima dell'uscita dell'opera, la documentazione storica del Calcio Catania presentava ampie lacune, contraddizioni cronologiche e tabellini frammentari, in particolare per i campionati antecedenti la Seconda guerra mondiale e per i decenni di militanza nelle serie inferiori:
 
-* **La Bonifica delle Fonti Primarie**: Gli autori hanno intrapreso una monumentale campagna di spoglio sistematico delle collezioni cartacee rilegate presso l'Emeroteca della Biblioteca Regionale Universitaria di Catania (*Il Giornale dell'Isola*, *Il Popolo di Sicilia*, *Corriere di Sicilia*, *La Sicilia*, *Espresso Sera*), incrociando i dati con i registri della FIGC, i verbali dei commissari di campo e i fogli notizie arbitrali conservati presso la Federazione.
+* **La Bonifica delle Fonti Primarie**: Gli autori hanno intrapreso una monumentale campagna di spoglio sistematico delle collezioni cartacee rilegate presso l'Emeroteca della Biblioteca Regionale Universitaria di Catania (*Il Giornale dell'Isola*, *Il Popolo di Sicilia*, *Corriere di Sicilia*, *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*, *[[07-media-e-comunicazione/testate/espresso-sera|Espresso Sera]]*), incrociando i dati con i registri della FIGC, i verbali dei commissari di campo e i fogli notizie arbitrali conservati presso la Federazione.
 * **Quadratura Algebrica**: Per ogni singola stagione sportiva è stata effettuata una quadratura algebrica assoluta: la somma dei minuti giocati, dei gol segnati e subiti, dei calci di rigore e delle sanzioni disciplinari coincide matematicamente con i consuntivi stagionali ufficiali.
 * **L'Apporto di Carlo Fontanelli**: Editore specializzato nella memoria del calcio italiano, Fontanelli ha inserito il volume nella prestigiosa collana delle grandi monografie di club (accanto a volumi dedicati a Genoa, Torino, Bologna e Fiorentina), garantendo standard tipografici e iconografici di livello internazionale.
 
@@ -59,7 +59,7 @@ Prima dell'uscita dell'opera, la documentazione storica del Calcio Catania prese
 Il volume è organizzato in rigoroso ordine cronologico, dedicando a ciascuna annata agonistica un apparato completo:
 
 1. **Introduzione Storico-Critica**: Inquadramento del contesto societario, delle scelte della presidenza, delle vicende politiche cittadine e della fisionomia tattica della squadra, con aneddoti di spogliatoio e retroscena di mercato.
-2. **I Tabellini Integrali di Tutte le Gare**: Per ogni singola partita di campionato (dalla Serie A all'Eccellenza regionale), Coppa Italia maggiore, Coppa Italia Serie C e tornei post-campionato, il testo riporta:
+2. **I Tabellini Integrali di Tutte le Gare**: Per ogni singola partita di campionato (dalla Serie A all'Eccellenza regionale), Coppa Italia maggiore, [[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]] e tornei post-campionato, il testo riporta:
    * Data esatta, giornata di campionato e stadio di disputa;
    * Arbitro e città di provenienza della terna;
    * Spettatori paganti, quota abbonati e incasso in lire o euro;

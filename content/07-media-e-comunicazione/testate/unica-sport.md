@@ -68,7 +68,7 @@ Il momento di massima affermazione comunitaria e storiografica del progetto è c
 Nel quadriennio successivo in Serie C (fino alla stagione 2026/2027), *Unica Sport* ha consolidato la propria posizione nel sistema mediatico:
 
 * **Format di Studio e Approfondimento**: Accanto ai reportage sul campo, sono nati format settimanali di dibattito tattico, analisi delle scelte della guida tecnica e approfondimenti sulle trattative di calciomercato.
-* **Copertura Polisportiva e Settore Giovanile**: Oltre alla prima squadra maschile, la testata offre una copertura costante degli impegni del settore giovanile rossazzurro e delle principali realtà sportive della città metropolitana di Catania.
+* **Copertura Polisportiva e [[08-settori-paralleli/giovanili/index|Settore Giovanile]]**: Oltre alla prima squadra maschile, la testata offre una copertura costante degli impegni del settore giovanile rossazzurro e delle principali realtà sportive della città metropolitana di Catania.
 
 ---
 

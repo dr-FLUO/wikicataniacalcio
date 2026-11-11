@@ -78,7 +78,7 @@ Nella primavera-estate del 2018 il [[01-societa/epoche/2004-era-pulvirenti|Calci
 
 ## Cronologia dei Gradi di Giudizio (Luglio – Novembre 2018)
 
-| Data | Organo Giudicante | Provvedimento e Motivazione Giuridica | Effetto per il Calcio Catania S.p.A. |
+| Data | Organo Giudicante | Provvedimento e Motivazione Giuridica | Effetto per il [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] |
 | :--- | :--- | :--- | :--- |
 | **Luglio 2018** | Co.Vi.So.C. / Consiglio Federale | Esclusione definitiva dalla Serie B 2018-2019 di **Bari, Cesena e Avellino**; si aprono tre posti vacanti nell'organico a 22 squadre. | Il [[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]] guidato da [[01-societa/dirigenti/pietro-lo-monaco\|Pietro Lo Monaco]] deposita domanda di ripescaggio con le relative fideiussioni. |
 | **9 agosto 2018** | Tribunale Federale Nazionale (TFN) | Accoglie il ricorso cautelare di Novara e Catania sulla graduatoria dei ripescaggi, sospendendo le preclusioni temporali. | Il Catania torna virtualmente in pole position per il ripescaggio in Serie B. |

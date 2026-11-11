@@ -35,7 +35,7 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 ## Elenco Incontri Monografici
 
 ### [[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|Catania-Inter 3-1 (12 marzo 2010) — Il «Cucchiaio» di Mascara contro l'Inter del Triplete]]
-Tabellino e cronaca di Catania-Inter 3-1 del 12 marzo 2010 allo Stadio Angelo Massimino: la straordinaria rimonta degli uomini di Siniša Mihajlović contro i futuri campioni d'Europa con Maxi López, il rigore a cucchiaio di Mascara e lo slalom di Jorge Martínez.
+Tabellino e cronaca di Catania-Inter 3-1 del 12 marzo 2010 allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]]: la straordinaria rimonta degli uomini di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] contro i futuri campioni d'Europa con [[03-tesserati/calciatori/archivio/m-o/maxi-lopez|Maxi López]], il rigore a cucchiaio di Mascara e lo slalom di Jorge Martínez.
 
 ---
 

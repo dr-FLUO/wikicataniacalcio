@@ -34,7 +34,7 @@ aliases:
 **Davide Franco** (Roma, 1964) è un dirigente d'azienda e commercialista italiano, **presidente del Consiglio di Amministrazione del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] dal 19 aprile 2016 al 18 marzo 2020**.
 
 > [!abstract] La Presidenza nel Post-Treni del Gol e il Rientro di Lo Monaco
-> Nominato alla presidenza della società etnea nella primavera del 2016 dalla controllante Finaria a seguito della retrocessione d'ufficio e dell'interdizione dei vertici societari per l'inchiesta *Treni del Gol*, Davide Franco ha rappresentato la figura istituzionale e legale al vertice del club. In tandem con l'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], ha gestito quattro campionati di Serie C e i relativi playoff promozione.
+> Nominato alla presidenza della società etnea nella primavera del 2016 dalla controllante Finaria a seguito della retrocessione d'ufficio e dell'interdizione dei vertici societari per l'inchiesta *[[01-societa/vicende-legali/treni-del-gol-2015|Treni del Gol]]*, Davide Franco ha rappresentato la figura istituzionale e legale al vertice del club. In tandem con l'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], ha gestito quattro campionati di Serie C e i relativi playoff promozione.
 
 ---
 
@@ -54,8 +54,8 @@ Durante la sua gestione al vertice del CDA:
 | :--- | :--- | :--- | :--- |
 | **2016–2017** | Lega Pro (Gir. C) | [[03-tesserati/allenatori/giuseppe-rigoli\|Giuseppe Rigoli]], Mario Petrone, [[03-tesserati/allenatori/giovanni-pulvirenti\|Giovanni Pulvirenti]] | 11º posto (Primo turno playoff) |
 | **2017–2018** | Serie C (Gir. C) | [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | 2º posto (Semifinale playoff nazionale) |
-| **2018–2019** | Serie C (Gir. C) | Andrea Sottil, [[03-tesserati/allenatori/walter-novellino\|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
-| **2019–2020** | Serie C (Gir. C) | [[03-tesserati/allenatori/andrea-camplone\|Andrea Camplone]], [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
+| **2018–2019** | Serie C (Gir. C) | [[03-tesserati/calciatori/archivio/a-c/andrea-sottil\|Andrea Sottil]], [[03-tesserati/allenatori/walter-novellino\|Walter Novellino]], Andrea Sottil | 4º posto (Semifinale playoff nazionale) |
+| **[[02-cronistoria/stagioni/2019-2020\|2019–2020]]** | Serie C (Gir. C) | [[03-tesserati/allenatori/andrea-camplone\|Andrea Camplone]], [[03-tesserati/allenatori/cristiano-lucarelli\|Cristiano Lucarelli]] | Dimissioni il 18 marzo 2020 |
 
 ---
 

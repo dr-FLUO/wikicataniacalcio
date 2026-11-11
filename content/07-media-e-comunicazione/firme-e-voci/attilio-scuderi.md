@@ -45,8 +45,8 @@ Affiancato storicamente nella conduzione da Stefano Auteri, Scuderi ha impresso 
 ## 1. Il Percorso Professionale e le Cronache Sportive
 
 Attivo fin dalla prima metà degli anni Duemila nell'emittenza privata regionale:
-* **Le Radiocronache e Telecronache**: Ha commentato centinaia di gare per l'emittente regionale *Sestarete* (circuito *7 Gold Sicilia*), curando tra l'altro le dirette dei playoff promozione del Catania FC nel 2026, la Serie C femminile nelle stagioni 2022/2023 e 2023/2024 e la UEFA Futsal Champions League nel 2025.
-* **La Copertura dal Vivo**: Ha seguito costantemente il Calcio Catania in casa e in trasferta, presidiando per anni il centro sportivo di Torre del Grifo e realizzando interviste esclusive ai massimi esponenti societari (tra cui il vicepresidente Vincenzo Grella nell'era Pelligra).
+* **Le Radiocronache e Telecronache**: Ha commentato centinaia di gare per l'emittente regionale *Sestarete* (circuito *7 Gold Sicilia*), curando tra l'altro le dirette dei playoff promozione del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] nel 2026, la Serie C femminile nelle stagioni 2022/2023 e 2023/2024 e la UEFA Futsal Champions League nel 2025.
+* **La Copertura dal Vivo**: Ha seguito costantemente il Calcio Catania in casa e in trasferta, presidiando per anni il centro sportivo di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo]] e realizzando interviste esclusive ai massimi esponenti societari (tra cui il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] nell'era Pelligra).
 
 ---
 

@@ -112,10 +112,10 @@ La formazione dei giovani rossazzurri è stata scandita dall'evoluzione degli im
 | :--- | :--- | :--- |
 | 1960-2010 | [[04-strutture/centri-sportivi/campo-comunale-nesima\|Campo Comunale di Nesima]] | Terreno di allenamento e di gara, terra battuta poi trasformata in sintetico |
 | 2011-2021 | [[04-strutture/centri-sportivi/torre-del-grifo\|Torre del Grifo Village]] (Mascalucia) | Quattro campi regolamentari, foresterie, aule studio, centri medici specializzati |
-| 2022-2026 | Campo di Nesima e Cibalino | Riqualificazione con il Catania FC di Ross Pelligra |
+| 2022-2026 | Campo di Nesima e Cibalino | Riqualificazione con il [[01-societa/epoche/2022-pelligra-catania-fc\|Catania FC]] di Ross Pelligra |
 
 1. **Il Campo Comunale di Nesima (1960-2010)**: per oltre quarant'anni — quasi mezzo secolo — la terra battuta (poi trasformata in sintetico) di [[04-strutture/centri-sportivi/campo-comunale-nesima|Nesima]] è stata l'università calcistica dei talenti catanesi, terreno di allenamento e di gara e teatro della crescita di intere generazioni di giovani promesse sotto la guida di maestri di campo indimenticati.
-2. **Torre del Grifo Village (2011-2021)**: inaugurato nel 2011, il mega-centro sportivo polifunzionale di Mascalucia voluto da Antonino Pulvirenti diede al vivaio una casa all'avanguardia, un'eccellenza europea con quattro campi regolamentari, foresterie, aule studio e centri medici specializzati di medicina dello sport, fino alla crisi del 2021.
+2. **Torre del Grifo Village (2011-2021)**: inaugurato nel 2011, il mega-centro sportivo polifunzionale di Mascalucia voluto da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] diede al vivaio una casa all'avanguardia, un'eccellenza europea con quattro campi regolamentari, foresterie, aule studio e centri medici specializzati di medicina dello sport, fino alla crisi del 2021.
 3. **Il Ritorno a Nesima e Cibalino con il Catania FC (2022-2026)**: con la rifondazione societaria del 2022 e l'avvento della presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il club ha riaperto i poli giovanili periferici, riqualificato il Campo di Nesima e il Cibalino e concentrato lì le squadre agonistiche, riallacciando il legame diretto con il tessuto urbano e le scuole calcio affiliate in tutta la Sicilia orientale.
 
 ---
@@ -139,8 +139,8 @@ Il debutto del vivaio etneo nella competizione risale agli albori degli anni Ses
 
 ### Il ciclo d'oro della Primavera in Serie A (2006-2014)
 
-Con il ritorno del club in Serie A sotto la gestione di Antonino Pulvirenti e del direttore sportivo Pietro Lo Monaco, il settore giovanile venne potenziato fino a diventare un'eccellenza competitiva a livello nazionale:
-* Nel **Torneo di Viareggio 2011**, la Primavera del Catania guidata da Giovanni Pulvirenti compì un cammino memorabile superando la fase a gironi ed eliminando compagini accreditate fino a raggiungere i **Quarti di Finale**, trascinata da talenti come Luca Calapai, il centravanti Fabio Aveni e giovani promesse italo-argentine.
+Con il ritorno del club in Serie A sotto la gestione di Antonino Pulvirenti e del direttore sportivo [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], il settore giovanile venne potenziato fino a diventare un'eccellenza competitiva a livello nazionale:
+* Nel **Torneo di Viareggio 2011**, la Primavera del Catania guidata da [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]] compì un cammino memorabile superando la fase a gironi ed eliminando compagini accreditate fino a raggiungere i **Quarti di Finale**, trascinata da talenti come [[03-tesserati/calciatori/archivio/g-l/luca-calapai|Luca Calapai]], il centravanti [[03-tesserati/calciatori/archivio/d-f/fabio-aveni|Fabio Aveni]] e giovani promesse italo-argentine.
 * Qualificazioni storiche alle **Final Eight del Campionato Primavera**: per due stagioni consecutive, la formazione rossazzurra si qualificò tra le prime otto squadre d'Italia, contendendo il titolo a Roma, Lazio e Inter.
 
 ---
@@ -151,11 +151,11 @@ L'albo d'oro delle categorie giovanili rossazzurre vanta importanti affermazioni
 
 | Competizione | Stagione / Anno | Risultato Conseguito | Note Storiche |
 | :--- | :--- | :--- | :--- |
-| **Campionato De Martino (Serie B)** | 1953-1954 | **Campione di Categoria** | Titolo riservato alle squadre riserve cadette nell'anno della prima promozione in A. |
-| **Campionato Nazionale Dante Berretti** | 1974-1975 | **Finalista Nazionale** | Sotto la guida di tecnici cresciuti nel vivaio etneo. |
-| **Campionato Nazionale Dante Berretti** | 2005-2006 | **Vincitore di Girone** | Dominio interregionale con accesso alle finali scudetto. |
+| **Campionato De Martino (Serie B)** | [[02-cronistoria/stagioni/1953-1954\|1953-1954]] | **Campione di Categoria** | Titolo riservato alle squadre riserve cadette nell'anno della prima promozione in A. |
+| **Campionato Nazionale Dante Berretti** | [[02-cronistoria/stagioni/1974-1975\|1974-1975]] | **Finalista Nazionale** | Sotto la guida di tecnici cresciuti nel vivaio etneo. |
+| **Campionato Nazionale Dante Berretti** | [[02-cronistoria/stagioni/2005-2006\|2005-2006]] | **Vincitore di Girone** | Dominio interregionale con accesso alle finali scudetto. |
 | **Coppa Carnevale di Viareggio** | Edizione 2011 | **Quarti di Finale** | Miglior piazzamento dell'era moderna della Primavera rossazzurra. |
-| **Campionato Primavera 3 (Trofeo Berretti)** | 2020-2021 | **Promozione in Primavera 2** | Vittoria del girone prima della liquidazione societaria. |
+| **Campionato Primavera 3 (Trofeo Berretti)** | [[02-cronistoria/stagioni/2020-2021\|2020-2021]] | **Promozione in Primavera 2** | Vittoria del girone prima della liquidazione societaria. |
 
 ---
 
@@ -166,10 +166,10 @@ Decine di atleti cresciuti nelle giovanili rossazzurre hanno raggiunto i massimi
 | Calciatore | Epoca | Profilo |
 | :--- | :--- | :--- |
 | [[03-tesserati/calciatori/storici/orazio-russo\|Orazio Russo]] | Anni Novanta-Duemila | Nato a Misterbianco, bandiera e poi dirigente del vivaio |
-| Mario Biondi e Guido Biondi | Anni Sessanta-Settanta | Fratelli d'arte, classe e talento del vivaio catanese |
+| Mario Biondi e [[03-tesserati/calciatori/storici/guido-biondi\|Guido Biondi]] | Anni Sessanta-Settanta | Fratelli d'arte, classe e talento del vivaio catanese |
 | Luca Calapai | Era Primavera in Serie A | Terzino destro, poi punto fermo in Serie C |
 | Fabio Aveni | Viareggio 2011 | Centravanti prodigio, debutto in Serie A |
-| Emanuele Pecorino | Era recente | Attaccante catanese di grande potenza fisica |
+| [[03-tesserati/calciatori/archivio/d-f/emanuele-pecorino\|Emanuele Pecorino]] | Era recente | Attaccante catanese di grande potenza fisica |
 
 * **Orazio Russo**: nato a Misterbianco, cresciuto nella scuola calcio etnea fino al debutto a soli diciotto anni in prima squadra. È divenuto una leggenda vivente del club, essendo l'unico calciatore della storia ad aver segnato in maglia rossazzurra in Serie C2, Serie C1, Serie B e Serie A, per poi ricoprire ruoli dirigenziali di primo piano alla guida del settore giovanile.
 * **Mario Biondi & Guido Biondi**: fratelli d'arte che hanno saputo incarnare la classe e il talento del vivaio catanese a cavallo tra gli anni Sessanta e Settanta.

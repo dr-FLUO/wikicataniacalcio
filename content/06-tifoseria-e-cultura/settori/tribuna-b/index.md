@@ -74,7 +74,7 @@ La genesi del gruppo risale alla rottura interna consumatasi nell'estate 2015: d
 L'MCK ha improntato la propria condotta a un rigido codice ultras basato sull'**autofinanziamento integrale**:
 - Sulle pezze ufficiali campeggia il motto: *"I nostri sacrifici sono d'amore & mentalità / Ultras Catania: scopo di lucro zero"*.
 - Rifiuto categorico di agevolazioni o biglietti omaggio da parte societaria, rivendicando piena indipendenza economica.
-- Nel **luglio 2020**, durante la procedura concorsuale per salvare la matricola 11700, il gruppo promosse un imponente presidio pacifico in Piazza Verga con lo striscione simbolo:
+- Nel **luglio 2020**, durante la procedura concorsuale per salvare la [[01-societa/matricola-11700|matricola 11700]], il gruppo promosse un imponente presidio pacifico in Piazza Verga con lo striscione simbolo:
   > *"A voi il dovere di giudicare, a noi la possibilità di amare."*
 
 ### I Disordini di Catania-Ascoli, la Pioggia di Daspo e lo Scioglimento (2026)
@@ -82,7 +82,7 @@ Il ciclo del gruppo si è interrotto bruscamente nella primavera del **2026**:
 - Il **27 maggio 2026**, durante la concitata semifinale playoff di ritorno Catania-Ascoli al Massimino, nei minuti finali è esplosa una veemente contestazione culminata nel fitto lancio di fumogeni e potenti bombe carta dalla Tribuna B verso il campo.
 - La successiva inchiesta della Digos ha portato all'arresto in differita di due elementi di spicco della Tribuna B (con DASPO di 5 anni) e, il 7 giugno 2026, alla denuncia e al divieto di accesso allo stadio per altri 5 militanti del settore identificati dalla Polizia Scientifica.
 - Con quasi **20 membri diffidati su un totale di circa 25 componenti attivi**, il direttivo ha preso atto dell'impossibilità di proseguire l'attività sui gradoni e ha deliberato il **12 giugno 2026** lo **scioglimento ufficiale** dopo 11 anni di presenza.
-- Dalla stagione sportiva **2026-2027**, il Mecha Klan non è più presente in Tribuna B, lasciando il settore privo della propria guida ultras storica.
+- Dalla stagione sportiva **[[02-cronistoria/stagioni/2026-2027|2026-2027]]**, il Mecha Klan non è più presente in Tribuna B, lasciando il settore privo della propria guida ultras storica.
 
 ---
 
@@ -103,7 +103,7 @@ Posizionata al centro della Tribuna B tra il 2000 e il 2003 (gli anni della risa
 Intitolato alla figura carismatica di [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Pippo Tarraresu]] (Giuseppe Spampinato), il **Gruppo Tattaresu** ha incarnato l'anima folkloristica, genuina e indomita del tifo di gradinata negli anni della rinascita dopo la radiazione del 1993.
 
 * **La Difesa della Matricola (1993):** Tarraresu fu tra i protagonisti assoluti della resistenza civile contro l'estromissione arbitraria del Catania, incatenandosi ai cancelli della FIGC a Roma insieme a Ciccio Famoso.
-* **Il Megastriscione di Angelo Massimino:** La formazione si rese protagonista di imponenti coreografie coprenti l'intero settore centrale della gradinata, tra cui il celeberrimo telo monumentale con il volto del Cavaliere Massimino, srotolato nelle gare decisive per il ritorno in Serie B (2002).
+* **Il Megastriscione di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]:** La formazione si rese protagonista di imponenti coreografie coprenti l'intero settore centrale della gradinata, tra cui il celeberrimo telo monumentale con il volto del Cavaliere Massimino, srotolato nelle gare decisive per il ritorno in Serie B (2002).
 
 ---
 

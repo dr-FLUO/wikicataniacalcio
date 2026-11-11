@@ -57,7 +57,7 @@ aliases:
 
 # Palermo - Catania 0-4 (1º Marzo 2009) — Il Derby del Secolo
 
-Il [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia]] **Palermo-Catania (0-4)**, disputato domenica **1º marzo 2009** allo Stadio Renzo Barbera (*La Favorita*) di Palermo per la 26ª giornata della Serie A 2008-2009, rappresenta la **più larga vittoria esterna nella storia ultranovantennale dei derby isolani in massima serie**. 
+Il [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia]] **Palermo-Catania (0-4)**, disputato domenica **1º marzo 2009** allo Stadio Renzo Barbera (*La Favorita*) di Palermo per la 26ª giornata della Serie A [[02-cronistoria/stagioni/2008-2009|2008-2009]], rappresenta la **più larga vittoria esterna nella storia ultranovantennale dei derby isolani in massima serie**. 
 
 Guidato in panchina da **[[03-tesserati/allenatori/walter-zenga|Walter Zenga]]**, il [[01-societa/index|Calcio Catania S.p.A.]] travolse i rivali rosanero con le reti di **[[03-tesserati/calciatori/archivio/p-r/pablo-ledesma|Pablo Ledesma]]**, **[[03-tesserati/calciatori/archivio/s-z/takayuki-morimoto|Takayuki Morimoto]]**, **[[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]]** — autore al 44' di una leggendaria **conclusione al volo da centrocampo (circa 50 metri)** che scavalcò il portiere campione del mondo Marco Amelia — e **[[03-tesserati/calciatori/archivio/m-o/michele-paolucci|Michele Paolucci]]**, sorretto dalla monumentale prova del mastino argentino **[[03-tesserati/calciatori/archivio/d-f/ezequiel-carboni|Ezequiel Carboni]]**.
 

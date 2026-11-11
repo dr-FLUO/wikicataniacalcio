@@ -73,7 +73,7 @@ L'avvenimento ha rappresentato un caso studio di rilievo primario per il Ministe
 > - **Tipologia / Natura Evento:** Agguato e rissa inter-tifoserie con blocco delle corsie di marcia, lancio incrociato di torce, fumogeni, bombe carta, petardi e sassaiole, scontri corpo a corpo con bastoni, cinte e mazze ferrate; panico per centinaia di automobilisti in transito e principio di incendio della boscaglia adiacente.
 > - **Misure Giudiziarie e Penali:** Deferimento in stato di libertà alla Procura della Repubblica di Salerno di **30 soggetti** (appartenenti a entrambe le fazioni, con due minori d'età) per rissa aggravata (art. 588 c.p.), blocco stradale (art. 1-bis D.Lgs. 66/1948), attentato alla sicurezza dei trasporti (art. 432 c.p.) e porto ingiustificato di armi improprie;
 > - **Provvedimenti Amministrativi di Prevenzione:** Notifica di **29 provvedimenti di DASPO** da 3 a 8 anni con obbligo di firma emessi dal Questore di Salerno.
-> - **Fonti Documentali:** *Questura di Salerno*, *Fanpage.it*, *Goal.com*, *Ottopagine Salerno*, *La Sicilia*.
+> - **Fonti Documentali:** *Questura di Salerno*, *Fanpage.it*, *Goal.com*, *Ottopagine Salerno*, *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*.
 
 ---
 

@@ -29,7 +29,7 @@ aliases:
 
 # A.N.R. — Associazione Non Riconosciuta (2000–2003)
 
-Fondata nell'estate del **2000**, la sigla **A.N.R. (Associazione Non Riconosciuta)** nacque per iniziativa di militanti provenienti dall'ala più intransigente degli *Irriducibili 1991* della Curva Sud, intenzionati a creare un nucleo fondato sullo stile *casual* d'impronta britannica: abbigliamento sobrio (marchi inglesi, sciarpe a barre pesanti) e rifiuto di ogni forma di assistenzialismo o compromesso con la dirigenza.
+Fondata nell'estate del **2000**, la sigla **A.N.R. (Associazione Non Riconosciuta)** nacque per iniziativa di militanti provenienti dall'ala più intransigente degli *Irriducibili 1991* della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], intenzionati a creare un nucleo fondato sullo stile *casual* d'impronta britannica: abbigliamento sobrio (marchi inglesi, sciarpe a barre pesanti) e rifiuto di ogni forma di assistenzialismo o compromesso con la dirigenza.
 
 ---
 

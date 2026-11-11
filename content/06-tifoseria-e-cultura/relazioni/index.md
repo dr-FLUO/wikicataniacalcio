@@ -41,8 +41,8 @@ La mappa relazionale del tifo organizzato etneo rispecchia quasi mezzo secolo di
 ## Le Tre Aree Relazionali
 
 1. **[[06-tifoseria-e-cultura/relazioni/gemellaggi/index|Gemellaggi Ufficiali]]**: Le alleanze formali e storicamente consolidate con le tifoserie di **Genoa**, **Crotone**, **Triestina**, **Benevento** e **Trapani**.
-2. **[[06-tifoseria-e-cultura/relazioni/amicizie/index|Patti di Amicizia e Rispetto Reciproco]]**: I legami di profonda stima e fratellanza che uniscono gli etnei a piazze primarie come **Napoli** (asse strategico del Sud), **Inter**, **Parma**, e alle curve estere di **Borussia Dortmund** (*Südtribüne*) e **Bayern Monaco**.
-3. **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: Il quadro delle inimicizie isolane e peninsulari: dal viscerale *Derby di Sicilia* contro il **Palermo** e il derby con il **Messina**, alle faide meridionali (**Salernitana**, **Taranto**, **Catanzaro**, **Reggina**, **Lecce**, **Avellino**, **Foggia**, **Juve Stabia**), fino agli scontri del Centro-Nord (**Roma**, **Perugia**, **Pisa**, **Padova**, **Vicenza**, **Verona**, **Atalanta**).
+2. **[[06-tifoseria-e-cultura/relazioni/amicizie/index|Patti di Amicizia e Rispetto Reciproco]]**: I legami di profonda stima e fratellanza che uniscono gli etnei a piazze primarie come **Napoli** (asse strategico del Sud), **Inter**, **Parma**, e alle curve estere di **[[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]]** (*Südtribüne*) e **[[06-tifoseria-e-cultura/relazioni/amicizie/bayern-monaco|Bayern Monaco]]**.
+3. **[[06-tifoseria-e-cultura/relazioni/rivalita/index|Rivalità Storiche]]**: Il quadro delle inimicizie isolane e peninsulari: dal viscerale *[[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Derby di Sicilia]]* contro il **Palermo** e il derby con il **Messina**, alle faide meridionali (**Salernitana**, **Taranto**, **Catanzaro**, **Reggina**, **Lecce**, **Avellino**, **Foggia**, **Juve Stabia**), fino agli scontri del Centro-Nord (**Roma**, **Perugia**, **Pisa**, **Padova**, **Vicenza**, **Verona**, **Atalanta**).
 
 ---
 

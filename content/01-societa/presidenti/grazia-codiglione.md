@@ -58,10 +58,10 @@ Al termine del campionato di Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2
 
 | Stagione | Campionato | Allenatore | Piazzamento e Note |
 | :--- | :--- | :--- | :--- |
-| **1995–1996** | Serie C2 (Gir. C) | [[03-tesserati/allenatori/aldo-cerantola\|Aldo Cerantola]], poi [[03-tesserati/allenatori/mario-russo\|Mario Russo]] | Subentro alla presidenza a marzo 1996 |
+| **[[02-cronistoria/stagioni/1995-1996\|1995–1996]]** | Serie C2 (Gir. C) | [[03-tesserati/allenatori/aldo-cerantola\|Aldo Cerantola]], poi [[03-tesserati/allenatori/mario-russo\|Mario Russo]] | Subentro alla presidenza a marzo 1996 |
 | **1996–1997** | Serie C2 (Gir. C) | [[03-tesserati/allenatori/giovanni-mei\|Giovanni Mei]] | 4º posto (Semifinale playoff) |
 | **1997–1998** | Serie C2 (Gir. C) | [[03-tesserati/allenatori/giovanni-mei\|Giovanni Mei]] | 10º posto |
-| **1998–1999** | Serie C2 (Gir. C) | Piero Cucchi | **1º posto (Promozione in Serie C1)** e finale Coppa Italia Serie C |
+| **1998–1999** | Serie C2 (Gir. C) | Piero Cucchi | **1º posto (Promozione in Serie C1)** e finale [[02-cronistoria/coppa-italia-serie-c\|Coppa Italia Serie C]] |
 | **1999–2000** | Serie C1 (Gir. B) | [[03-tesserati/allenatori/gianni-simonelli\|Gianni Simonelli]], poi [[03-tesserati/allenatori/salvatore-bianchetti\|Salvatore Bianchetti]] | 7º posto; cessione del club a maggio 2000 |
 
 ---

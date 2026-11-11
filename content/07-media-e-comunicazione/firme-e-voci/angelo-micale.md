@@ -46,7 +46,7 @@ Nel corso del **2026**, Micale ha festeggiato lo storico traguardo dei **quarant
 Ideata nel 1986 per offrire ai tifosi esclusi dallo stadio un racconto puntuale e corale della domenica calcistica, *Diretta Stadio* è cresciuta sotto la regia e la moderazione sobria e professionale di Micale:
 
 * **Lo Studio Corale**: Negli anni Novanta, affiancato da colleghe e colleghi come Antonella Gurrieri e Niky Pandolfini, Micale ha introdotto una conduzione dinamica, capace di coordinare simultaneamente i collegamenti dai box della tribuna stampa del Cibali con le cronache delle gare esterne di tutta la Sicilia e d'Italia.
-* **Il Traguardo del 2026**: In occasione del quarantennale, *Telecolor* ha acquisito e trasmesso in chiaro ben 9 trasferte del Catania FC nella stagione 2026/2027, con lo studio domenicale guidato ancora una volta dall'esperienza e dall'equilibrio di Micale.
+* **Il Traguardo del 2026**: In occasione del quarantennale, *Telecolor* ha acquisito e trasmesso in chiaro ben 9 trasferte del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] nella stagione 2026/2027, con lo studio domenicale guidato ancora una volta dall'esperienza e dall'equilibrio di Micale.
 
 ---
 

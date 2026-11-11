@@ -97,9 +97,9 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-*Ritratto ufficiale di Riccardo Carapellese — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
+*Ritratto ufficiale di [[03-tesserati/calciatori/archivio/p-r/riccardo-carapellese|Riccardo Carapellese]] — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Riccardo Carapellese** (Cerignola (FG), Italia, 1922 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
+**Riccardo Carapellese** (Cerignola (FG), Italia, 1922 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante

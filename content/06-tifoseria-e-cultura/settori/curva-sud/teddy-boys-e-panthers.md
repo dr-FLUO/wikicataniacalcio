@@ -35,13 +35,13 @@ aliases:
 
 # Teddy Boys e Panthers (Curva Sud Anni '80)
 
-Nel corso degli anni Ottanta, la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali fu animata da una costellazione spontanea e vibrante di formazioni giovanili rionali, tra le quali spiccarono con continuità di striscione i **Teddy Boys** e i **Panthers**.
+Nel corso degli anni Ottanta, la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] fu animata da una costellazione spontanea e vibrante di formazioni giovanili rionali, tra le quali spiccarono con continuità di striscione i **Teddy Boys** e i **Panthers**.
 
 ---
 
 ## 1. La Costellazione Giovanile della Sud
 
-A differenza della Curva Nord, accentrata attorno all'autorità carismatica di Ciccio Famoso e della Falange, la Sud degli anni Ottanta visse come un laboratorio orizzontale di aggregazione giovanile:
+A differenza della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], accentrata attorno all'autorità carismatica di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] e della Falange, la Sud degli anni Ottanta visse come un laboratorio orizzontale di aggregazione giovanile:
 - I **Teddy Boys**, fondati a metà degli anni Ottanta da adolescenti cresciuti tra piazza Palestro (il Fortino) e San Cristoforo, si ispiravano all'estetica ribelle dei giovani rockers d'oltremanica, portando sui gradoni sciarpe tubolari di lana, adesivi artigianali e un approccio rumoroso e disincantato.
 - I **Panthers**, contemporaneamente attivi al loro fianco, scelsero la pantera nera ruggente come simbolo di agilità e fierezza territoriale, posizionando il drappo a ridosso delle uscite inferiori della gradinata sud.
 

@@ -31,14 +31,14 @@ aliases:
 
 # Il Ponte con Monaco di Baviera: Rapporti con il Bayern Monaco
 
-Oltre alla celebre alleanza con i Desperados del Borussia Dortmund, il movimento ultras etneo ha sviluppato relazioni di stima personale e rispetto con esponenti della celebre *Südkurve* del **Bayern Monaco** (*Club Bayern München*).
+Oltre alla celebre alleanza con i Desperados del [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]], il movimento ultras etneo ha sviluppato relazioni di stima personale e rispetto con esponenti della celebre *Südkurve* del **Bayern Monaco** (*Club Bayern München*).
 
 ---
 
 ## 1. Origini e Testimonianze
 
 - **Contatti tra Emigrati e Bavaresi:** Monaco di Baviera ospita una delle comunità siciliane e catanesi più numerose della Germania federale, elemento che ha facilitato contatti stabili tra ultras etnei residenti all'estero e militanti del tifo bavarese.
-- **Lo Striscione all'Allianz Arena (Febbraio 2017):** In occasione della morte di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], nel settore caldo della *Südkurve* di Monaco di Baviera durante una partita ufficiale di Bundesliga è comparso uno striscione ufficiale in lingua italiana recante la scritta: *"Riposa in pace Ciccio, capo degli ultrà"*, a dimostrazione della statura mitica raggiunta dal fondatore della Falange d'Assalto anche oltre le Alpi.
+- **Lo Striscione all'Allianz Arena (Febbraio 2017):** In occasione della morte di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], nel settore caldo della *Südkurve* di Monaco di Baviera durante una partita ufficiale di Bundesliga è comparso uno striscione ufficiale in lingua italiana recante la scritta: *"Riposa in pace Ciccio, capo degli ultrà"*, a dimostrazione della statura mitica raggiunta dal fondatore della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] anche oltre le Alpi.
 
 ---
 

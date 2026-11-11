@@ -101,7 +101,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Edoardo Reja** (Lucinico (GO), Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
+**Edoardo Reja** (Lucinico (GO), Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -117,7 +117,7 @@ Edoardo «Edy» Reja, uno degli allenatori più esperti e vincenti del calcio it
 
 ## 2. La Conduzione Tecnica del Catania
 
-Assunse l'incarico in una delle fasi più calde della stagione, culminata nella complessa vertenza giudiziaria del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] e del Caso Catania che riscrisse le regole della Serie B.
+Assunse l'incarico in una delle fasi più calde della stagione, culminata nella complessa vertenza giudiziaria del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] e del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] che riscrisse le regole della Serie B.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

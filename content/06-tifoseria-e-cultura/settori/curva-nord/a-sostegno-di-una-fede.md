@@ -46,13 +46,13 @@ aliases:
 
 # A Sostegno di una Fede (1993)
 
-**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che guida ininterrottamente la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Cibali / Angelo Massimino a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A e mantenendo la leadership del settore fino alla stagione **2026**.
+**A Sostegno di una Fede** (spesso identificato semplicemente come *I Sostenitori*) è il gruppo cardine che guida ininterrottamente la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] / [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] a partire dal **1993**, traghettando il tifo etneo dalle ceneri della radiazione federale fino alla ribalta della Serie A e mantenendo la leadership del settore fino alla stagione **2026**.
 
 ---
 
 ## 1. La Nascita del 31 Luglio 1993
 
-Il gruppo nacque nel giorno più drammatico della storia moderna del Catania: il **31 luglio 1993**, quando il Consiglio Federale della FIGC deliberò l'esclusione della matricola 11700 dal campionato professionistico:
+Il gruppo nacque nel giorno più drammatico della storia moderna del Catania: il **31 luglio 1993**, quando il Consiglio Federale della FIGC deliberò l'esclusione della [[01-societa/matricola-11700|matricola 11700]] dal campionato professionistico:
 - Riunitisi d'urgenza in un garage afoso di via Belfiore nel quartiere San Cristoforo, un nucleo di giovani guidati da [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] decise che proprio nel momento del massimo disonore sportivo occorreva stringersi attorno alla maglia.
 - La denominazione *«A Sostegno di una Fede»* fu scelta per riaffermare che il tifo rossazzurro non dipendeva dai risultati agonistici, dalla categoria o dai presidenti, bensì da un sentimento sacro e incorruttibile.
 
@@ -69,7 +69,7 @@ Sotto la guida di Spampinato, il gruppo introdusse un rigido codice di condotta 
 
 ## 3. Il Rifiuto della Tessera del Tifoso (2015)
 
-Nell'estate del 2015, di fronte al declassamento del club in Serie C per il caso dei [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|Treni del Gol]] e all'obbligo di sottoscrizione della Tessera del Tifoso per le trasferte, *A Sostegno di una Fede* ha guidato il blocco storico della Curva Nord (*Nord Kaos*, *Skizzati Passarello*, *I Pazzi*) nella scelta dell'**intransigenza totale**:
+Nell'estate del 2015, di fronte al declassamento del club in Serie C per il caso dei [[06-tifoseria-e-cultura/eventi-e-giustizia/treni-del-gol-2015-cortei-tifosi|Treni del Gol]] e all'obbligo di sottoscrizione della Tessera del Tifoso per le trasferte, *A Sostegno di una Fede* ha guidato il blocco storico della Curva Nord (*[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]*, *[[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]]*, *I Pazzi*) nella scelta dell'**intransigenza totale**:
 - Il gruppo ha respinto categoricamente la tessera ministeriale, considerandola uno strumento di schedatura di massa lesivo dei diritti civili, scegliendo di restare coerente con la mentalità tradizionale anche a costo di disertare le trasferte soggette a restrizione.
 
 ---

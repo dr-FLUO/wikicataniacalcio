@@ -72,7 +72,7 @@ I colori sociali adottati formalmente nel **1929** alla nascita della [[01-socie
 * **Rosso cremisi**: evoca il magma incandescente dell'Etna, vulcano attivo che sovrasta e forgia l'indole della comunità catanese.
 * **Azzurro ciano / cobalto**: simboleggia le acque profonde del Golfo di Catania e del Mare Jonio, fonte di vita e scambi commerciali per il porto etneo.
 
-Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da Santi Quasimodo (fratello del futuro Nobel Salvatore) e dal presidente nobile [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[04-strutture/campi-storici/index|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
+Questo contrasto cromatico, celebrato dal poeta dialettale Micio Tempio e scolpito nell'immaginario collettivo, fu formalizzato nel primo statuto societario redatto da [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]] (fratello del futuro Nobel Salvatore) e dal presidente nobile [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona duca di Misterbianco]]. La prima maglia ufficiale debuttò il **29 settembre 1929** al [[04-strutture/campi-storici/index|Campo dei Due Obelischi]] in un'amichevole contro il Tommaso Gargallo di Siracusa.
 
 ![Seconda divisa da trasferta del Catania bianca con banda diagonale rossazzurra](/assets/images/maglie-e-simboli/divise/maglia-calcio-catania-seconda-divisa-trasferta-bianca-2026-2027.webp)
 
@@ -99,7 +99,7 @@ Nel calcio cittadino, la figura del Liotru:
 | **1936–1943** | [[01-societa/epoche/1929-ss-catania\|A.F.C. Catania]] | Scudo svizzero a strisce rossazzurre con fascio littorio laterale ed elefante sormontato da corona | Anni della Serie B fascista e Seconda Guerra Mondiale |
 | **1946–1967** | [[01-societa/epoche/1946-club-calcio-catania\|Club Calcio Catania]] | Scudo gotico bipartito con strisce rossazzurre, pallone in cuoio marrone e sagoma dell'elefante | Rinascita post-bellica con [[01-societa/presidenti/santi-maimone\|Santi Maimone]] |
 | **1967–2022** | [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | Scudo svizzero rossazzurro sormontato da elefante grigio rampante con zanne bianche e pallone da calcio bicolore | Lo stemma della storica [[01-societa/matricola-11700\|Matricola 11700]] |
-| **2022–2023** | Catania SSD | Scudetto circolare con Liotru geometrico moderno e strisce verticali stilizzate | Campionato vinto di Serie D con record di punti |
+| **2022–2023** | [[01-societa/epoche/2022-pelligra-catania-fc\|Catania SSD]] | Scudetto circolare con Liotru geometrico moderno e strisce verticali stilizzate | Campionato vinto di Serie D con record di punti |
 | **2026–Oggi** | Catania FC | Ritorno allo stemma storico originario dopo aggiudicazione all'asta fallimentare del 22 ottobre 2026 per 250.000 € | [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026\|Asta Marchio Storico 2026]] |
 
 ---

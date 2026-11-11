@@ -46,14 +46,14 @@ Entrato giovanissimo nella redazione di Viale Odorico da Pordenone compilando ta
 Lungo tre decenni di carriera sul campo, Finocchiaro ha raccontato quotidianamente tutte le transizioni dirigenziali:
 * **Dalla Polvere alla Serie B**: Gli anni bui dell'Eccellenza e del C.N.D. seguiti alla radiazione del 1993 sotto la presidenza Massimino, fino all'avvento della famiglia Gaucci e alla storica vittoria di Taranto nel 2002.
 * **Gli Anni d'Oro della Serie A**: L'era Pulvirenti-Lo Monaco, con reportage esclusivi, interviste approfondite ai massimi dirigenti societari e il resoconto analitico delle memorabili vittorie contro Juventus, Inter, Milan e Roma.
-* **La Crisi e la Rinascita Pelligra**: Le dolorose inchieste del fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]], la stagione trionfale in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]) e il ritorno al professionismo in Serie C fino alla stagione 2026/2027, raccontando l'assetto del Catania FC guidato da mister Toscano prima e Longo poi.
+* **La Crisi e la Rinascita Pelligra**: Le dolorose inchieste del fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]], la stagione trionfale in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]) e il ritorno al professionismo in Serie C fino alla stagione 2026/2027, raccontando l'assetto del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] guidato da mister Toscano prima e Longo poi.
 
 ---
 
 ## 2. L'Attività Saggistica e Letteraria
 
 Accanto all'attività quotidiana sulla carta stampata e sul portale digitale *lasicilia.it*, Finocchiaro ha firmato importanti contributi alla memorialistica del club:
-* Nel **2004** ha pubblicato con il collega Angelo Scaltriti il libro ***"Il volo del Falco. Lulù Oliveira"*** (AG Edizioni), biografia autorizzata del talentuoso centravanti belga-brasiliano Luís Airton Oliveira, autore di 27 reti in maglia rossazzurra e simbolo della risalita tra i cadetti.
+* Nel **2004** ha pubblicato con il collega Angelo Scaltriti il libro ***"Il volo del Falco. [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Lulù Oliveira]]"*** (AG Edizioni), biografia autorizzata del talentuoso centravanti belga-brasiliano Luís Airton Oliveira, autore di 27 reti in maglia rossazzurra e simbolo della risalita tra i cadetti.
 * Ospite e opinionista regolare nei salotti radiotelevisivi regionali, unisce la conoscenza enciclopedica dello spogliatoio rossazzurro a uno stile narrativo scorrevole, asciutto e attento ai risvolti umani degli atleti.
 
 ---

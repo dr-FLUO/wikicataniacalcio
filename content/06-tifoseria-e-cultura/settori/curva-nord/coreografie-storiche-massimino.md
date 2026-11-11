@@ -50,7 +50,7 @@ aliases:
 ---
 # Coreografie Storiche della Curva Nord allo Stadio Massimino
 
-Le coreografie monumentali della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] costituiscono una delle massime espressioni artistiche, visive e popolari del tifo organizzato italiano. Frutto di settimane di pianificazione geometrica, autofinanziamento popolare e notti di lavoro nei magazzini dei rioni (*Monte Po'*, *Librino*, *San Giorgio*, *Cibali*), le scenografie della gradinata settentrionale hanno accompagnato le pagine più gloriose della storia del Calcio Catania: dalla cavalcata trionfale della [[02-cronistoria/stagioni/2005-2006|promozione in Serie A nel 2006]] alle storiche sfide del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]], fino al trionfo nella Coppa Italia Serie C del 2024.
+Le coreografie monumentali della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] costituiscono una delle massime espressioni artistiche, visive e popolari del tifo organizzato italiano. Frutto di settimane di pianificazione geometrica, autofinanziamento popolare e notti di lavoro nei magazzini dei rioni (*Monte Po'*, *Librino*, *San Giorgio*, *Cibali*), le scenografie della gradinata settentrionale hanno accompagnato le pagine più gloriose della storia del Calcio Catania: dalla cavalcata trionfale della [[02-cronistoria/stagioni/2005-2006|promozione in Serie A nel 2006]] alle storiche sfide del [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]], fino al trionfo nella [[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]] del 2024.
 
 ![Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati da torce e fumogeni rossazzurri — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania](/assets/images/curva-nord-coreografia.jpg)
 *Spettacolo notturno della Curva Nord e dello Stadio Angelo Massimino illuminati da torce e fumogeni rossazzurri — Licenza: Creative Commons CC BY-SA 4.0 — Crediti: Archivio Storico Calcio Catania*
@@ -99,7 +99,7 @@ Contro Juventus, Inter e Milan, la Curva Nord perfezionò la tecnica dei mosaici
 
 ## 4. La Rinascita Post-2022 e il Trionfo di Coppa Italia (2024)
 
-Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curva Nord unificata sotto la sigla **Catania Curva Nord (CCN)** ha rinnovato la propria eccellenza scenografica a sostegno del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]:
+Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curva Nord unificata sotto la sigla **[[06-tifoseria-e-cultura/settori/curva-nord/catania-curva-nord-ccn|Catania Curva Nord]] (CCN)** ha rinnovato la propria eccellenza scenografica a sostegno del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]:
 
 - **L'Alba della Rinascita in Serie D ([[02-cronistoria/stagioni/2022-2023|2022-2023]]):** Al debutto casalingo contro il San Luca, la Nord accolse la nuova era con una coreografia di cartoncini bicolori raffigurante l'antico stemma a scacchi rossazzurri, ribadendo la fedeltà eterna della piazza oltre ogni categoria.
 - **La Notte di Gloria della Coppa Italia Serie C (2 Aprile 2024):** Nella finale di ritorno contro il Padova allo Stadio Angelo Massimino, la Curva Nord orchestrò una delle serate più suggestive del decennio:
@@ -117,7 +117,7 @@ Dopo gli anni bui del fallimento societario e la discesa nei dilettanti, la Curv
 | **2 marzo 2008**<br>Catania-Palermo 3-1 | Serie A | Telo monumentale coprisettore e cartoncini. | Raffigurazione del Liotru emergente dalle colate laviche dell'Etna con motto civico. |
 | **12 marzo 2010**<br>[[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1\|Catania-Inter 3-1]] | Serie A | Mosaico di cartoncini bicolori a tutto settore. | Scritta gigante **CATANIA** e cornice di plastiche metallizzate riflettenti. |
 | **28 settembre 2022**<br>Catania-San Luca 2-1 | Serie D | Mosaico e stendardi rionali unitari. | Apertura della nuova era societaria sotto la sigla [[06-tifoseria-e-cultura/settori/curva-nord/index\|Catania Curva Nord (CCN)]]. |
-| **2 aprile 2024**<br>Catania-Padova 4-2 d.t.s. | Finale Coppa Italia Serie C | Spettacolo notturno di torce, fumogeni e bandieroni. | Notte magica al Cibali culminata nella conquista della Coppa Italia di categoria. |
+| **2 aprile 2024**<br>[[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2]] d.t.s. | Finale Coppa Italia Serie C | Spettacolo notturno di torce, fumogeni e bandieroni. | Notte magica al Cibali culminata nella conquista della Coppa Italia di categoria. |
 
 ---
 

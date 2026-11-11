@@ -80,7 +80,7 @@ citizenship: Italia
   </table>
 </div>
 
-**Mario Sernagiotto** (Montebelluna (TV), Italia, 1906 – 1983) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
+**Mario Sernagiotto** (Montebelluna (TV), Italia, 1906 – 1983) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore

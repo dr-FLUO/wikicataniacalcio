@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Carlo Matteucci** (Bologna, Italia, 1927 – 2000) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1977-1978**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Carlo Matteucci** (Bologna, Italia, 1927 – 2000) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1977-1978**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore

@@ -47,7 +47,7 @@ Il **28 maggio 2006** rappresenta una delle date più radiose e memorabili nella
 
 ## 1. La Mobilitazione Oceanica Verso l'Emilia
 
-La posta in palio era immensa: una vittoria avrebbe garantito al club guidato dal presidente Antonino Pulvirenti, dal direttore Pietro Lo Monaco e dal tecnico [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] la certezza matematica del secondo posto e la **promozione diretta in Serie A dopo ventidue anni di assenza** (dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]):
+La posta in palio era immensa: una vittoria avrebbe garantito al club guidato dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], dal direttore [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] e dal tecnico [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] la certezza matematica del secondo posto e la **promozione diretta in Serie A dopo ventidue anni di assenza** (dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]):
 - Nonostante la distanza e la designazione del campo neutro a Bologna a sole due settimane dall'evento, la tifoseria organizzata di [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]] e l'intero popolo rossazzurro diedero vita a una mobilitazione logistica senza precedenti:
   - Furono allestiti treni speciali diretti dalla Stazione Centrale di Catania verso Bologna Centrale;
   - Decine di voli charter decollarono da Fontanarossa verso gli aeroporti di Bologna-Borgo Panigale, Forlì e Rimini;

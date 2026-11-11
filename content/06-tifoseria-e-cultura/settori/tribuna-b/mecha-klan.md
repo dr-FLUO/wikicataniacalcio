@@ -53,7 +53,7 @@ Fondato nell'agosto del **2015** e scioltosi ufficialmente il **12 giugno 2026**
 ## 1. La Scissione dalla Falange d'Assalto (2015)
 
 La genesi dell'MCK affonda le radici nella profonda crisi istituzionale e sportiva che investì il Catania nell'estate del 2015, a seguito dell'inchiesta giudiziaria [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]] e della conseguente retrocessione d'ufficio in Lega Pro:
-* La storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], guidata dai quadri storici di Ciccio Famoso, scelse di abbandonare la Curva Nord per trasferirsi in Curva Sud, accettando al contempo la sottoscrizione della Tessera del Tifoso per poter seguire la squadra in trasferta.
+* La storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], guidata dai quadri storici di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], scelse di abbandonare la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] per trasferirsi in [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], accettando al contempo la sottoscrizione della Tessera del Tifoso per poter seguire la squadra in trasferta.
 * Una componente significativa di militanti storici e giovani leve rifiutò categoricamente sia la tessera sia il trasferimento in Curva Sud, decidendo di fondare una sigla autonoma e di posizionarsi al centro della **Tribuna B**, riaffermando i valori originari del movimento ultras: indipendenza assoluta, no-profit e mentalità senza compromessi.
 
 ---
@@ -65,7 +65,7 @@ L'Ultras Mecha Klan si è caratterizzato per una serie di punti fermi codificati
 1. **Autonomia Totale:** Nessun rapporto di subalternità o coordinamento con i direttivi di Curva Nord e Curva Sud; la Tribuna B ha agito per undici stagioni come un terzo polo rigorosamente indipendente nel panorama del tifo rossazzurro.
 2. **Autofinanziamento Rigoroso:** Rifiuto di qualsiasi forma di contribuzione societaria, omaggi sui biglietti o agevolazioni di trasferta. Sulle pezze ufficiali campeggiava il manifesto identitario:  
    > *«I nostri sacrifici sono d'amore & mentalità / Ultras Catania: scopo di lucro zero»*.
-3. **Legame Territoriale e Civico:** Radicamento profondo nei rioni popolari del centro cittadino. Nel **luglio 2020**, durante la drammatica procedura concorsuale per salvare la matricola 11700, il gruppo promosse un imponente presidio pacifico davanti al Tribunale di Catania in Piazza Verga con lo striscione simbolo:  
+3. **Legame Territoriale e Civico:** Radicamento profondo nei rioni popolari del centro cittadino. Nel **luglio 2020**, durante la drammatica procedura concorsuale per salvare la [[01-societa/matricola-11700|matricola 11700]], il gruppo promosse un imponente presidio pacifico davanti al Tribunale di Catania in Piazza Verga con lo striscione simbolo:  
    > *«A voi il dovere di giudicare, a noi la possibilità di amare»*.
 
 ---
@@ -80,7 +80,7 @@ Con un nucleo attivo stimato in circa **25 militanti assidui** negli ultimi anni
 
 ## 4. I Disordini di Catania-Ascoli (27 Maggio 2026) e i Provvedimenti di DASPO
 
-Il punto di svolta drammatico per le sorti del gruppo si è consumato il **27 maggio 2026**, in occasione della semifinale di ritorno dei play-off di Serie C disputata allo stadio «Angelo Massimino» contro l'**Ascoli**:
+Il punto di svolta drammatico per le sorti del gruppo si è consumato il **27 maggio 2026**, in occasione della semifinale di ritorno dei play-off di Serie C disputata allo stadio «[[01-societa/presidenti/angelo-massimino|Angelo Massimino]]» contro l'**Ascoli**:
 
 * **I disordini in campo:** Nei minuti conclusivi della partita, con la mancata qualificazione alla finale (nonostante il Catania fosse in vantaggio 2-1 sul campo, il risultato aggregato premiava i marchigiani), è esplosa una violenta contestazione dagli spalti. Dalla Tribuna B è partito un fitto e prolungato lancio di fumogeni, bengala e grossi ordigni esplosivi (bombe carta) indirizzati verso il terreno di gioco e la pista di atletica all'indirizzo dei calciatori e della terna arbitrale. La gara è stata temporaneamente sospesa per consentire ai Vigili del Fuoco di spegnere i roghi, con serio rischio per l'incolumità del personale di servizio e delle forze dell'ordine.
 * **Gli arresti differiti (30 maggio 2026):** Nelle 48 ore successive all'incontro, i poliziotti della Digos della Questura di Catania hanno eseguito due arresti in «flagranza differita» (artt. 6-bis e 6-ter legge 401/1989) a carico di due giovani ultras di 21 e 24 anni appartenenti alla Tribuna B, individuati attraverso i filmati della videosorveglianza interna per il lancio di bombe carta. A loro è stato notificato un **DASPO di 5 anni con obbligo di firma**, mentre altri due tifosi sono stati denunciati per possesso di pirotecnici ai prefiltraggi.

@@ -44,7 +44,7 @@ aliases:
 Durante il suo mandato dirigenziale:
 * **Stagione [[02-cronistoria/stagioni/1955-1956|1955-1956]]:** Con [[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]] in panchina, il Catania superò il contraccolpo psicologico della retrocessione chiudendo con un onorevole 5º posto in Serie B.
 * **Stagioni [[02-cronistoria/stagioni/1956-1957|1956-1957]] e [[02-cronistoria/stagioni/1957-1958|1957-1958]]:** Pesce ingaggiò il tecnico [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]], valorizzando atleti del calibro di [[03-tesserati/calciatori/archivio/g-l/karl-aage-hansen|Karl Aage Hansen]], [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]] e il portiere Seveso, consolidando la squadra nelle prime posizioni della cadetteria (4º posto nel 1957).
-* Gettò le basi per l'approdo in panchina di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e per il successivo ciclo aureo di Ignazio Marcoccio negli anni Sessanta.
+* Gettò le basi per l'approdo in panchina di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e per il successivo ciclo aureo di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] negli anni Sessanta.
 
 ---
 
@@ -52,7 +52,7 @@ Durante il suo mandato dirigenziale:
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |
 | :--- | :--- | :--- | :--- |
-| **1955–1956** | Serie B | Enzo Bellini, poi Sebastiano Buzzin | 5º posto |
+| **1955–1956** | Serie B | [[03-tesserati/calciatori/archivio/d-f/enzo-bellini\|Enzo Bellini]], poi Sebastiano Buzzin | 5º posto |
 | **1956–1957** | Serie B | [[03-tesserati/allenatori/gipo-poggi\|Gipo Poggi]] | 4º posto |
 | **1957–1958** | Serie B | [[03-tesserati/allenatori/gipo-poggi\|Gipo Poggi]], poi [[03-tesserati/allenatori/francesco-capocasale\|Francesco Capocasale]] | 11º posto |
 

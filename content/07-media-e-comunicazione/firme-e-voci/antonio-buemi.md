@@ -38,13 +38,13 @@ aliases:
 
 Storico del calcio, ricercatore archivistico e disegnatore con lo pseudonimo artistico di **"BAnt"**, **Antonio Buemi** è una delle colonne portanti della moderna storiografia rossazzurra.
 
-Figura trainante del cantiere che ha dato origine a ***Tutto il Catania minuto per minuto***, Buemi si è distinto per la straordinaria passione collezionistica e iconografica, dedicando decenni di studio meticoloso all'**evoluzione araldica dei simboli, degli stemmi e dei loghi societari del Calcio Catania** dalle origini della *SS Catania 1929* fino alle vicende contemporanee del *Catania FC*.
+Figura trainante del cantiere che ha dato origine a ***[[07-media-e-comunicazione/letteratura/tutto-il-catania-minuto-per-minuto|Tutto il Catania minuto per minuto]]***, Buemi si è distinto per la straordinaria passione collezionistica e iconografica, dedicando decenni di studio meticoloso all'**evoluzione araldica dei simboli, degli stemmi e dei loghi societari del Calcio Catania** dalle origini della *[[01-societa/epoche/1929-ss-catania|SS Catania]] 1929* fino alle vicende contemporanee del *[[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]*.
 
 ---
 
 ## 1. La Genesi di "Tutto il Catania minuto per minuto" (2010)
 
-Buemi è stato il primo promotore e coordinatore del nucleo di studiosi che, unendosi all'editore Carlo Fontanelli e ai colleghi [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] e Filippo Fabio Solarino, ha dato vita al progetto *Tutto il Catania minuto per minuto*:
+Buemi è stato il primo promotore e coordinatore del nucleo di studiosi che, unendosi all'editore Carlo Fontanelli e ai colleghi [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]], [[07-media-e-comunicazione/firme-e-voci/alessandro-russo|Alessandro Russo]] e [[07-media-e-comunicazione/firme-e-voci/filippo-solarino|Filippo Fabio Solarino]], ha dato vita al progetto *Tutto il Catania minuto per minuto*:
 
 * Ha setacciato archivi fotografici storici, collezioni private e archivi di Stato, portando alla luce immagini inedite degli anni Trenta, Quaranta e Cinquanta.
 * Nel **2020** è stato tra gli artefici principali del volume *Il rosso, l'azzurro. Catania, novant'anni di una maglia* (GEO Edizioni), per il quale ha analizzato filologicamente l'adozione dei colori cittadini (il rosso dell'Etna e l'azzurro del cielo e del mare) stabiliti originariamente dallo statuto fondativo del barone Saverio Gravina nel 1929.

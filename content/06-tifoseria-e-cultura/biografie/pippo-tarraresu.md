@@ -35,7 +35,7 @@ aliases:
 ## 1. La Battaglia di Roma del 1993
 
 Il nome di Pippo Tarraresu è legato a doppio filo alla drammatica estate del **1993**, quando la Federcalcio cancellò il Catania dal calcio professionistico:
-- A fianco del Cavaliere Angelo Massimino e del fraterno amico [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], Tarraresu si recò a Roma per presidiare la sede federale di via Allegri.
+- A fianco del Cavaliere [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e del fraterno amico [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], Tarraresu si recò a Roma per presidiare la sede federale di via Allegri.
 - In un gesto eclatante di protesta civile ripreso dai telegiornali nazionali, Tarraresu, Ciccio Famoso, Giovanni Pavone e Michele Romeo **si incatenarono ai cancelli della FIGC**, gridando lo sdegno di un'intera città contro un'ingiustizia sportiva senza precedenti.
 
 ---

@@ -67,7 +67,7 @@ Le celebrazioni esequiali, svoltesi tra il 2 e il 3 febbraio 2017 con l'ingresso
 > - **Tipologia / Natura Evento:** Esequie solenni di figura apicale del movimento ultras, raduno inter-tifoserie con delegazioni nazionali ed europee, ingresso di corteo funebre in impianto sportivo comunale.
 > - **Attività Giudiziaria e Istruttoria:** Acquisizione immediata dei filmati di videosorveglianza da parte della DIGOS della Questura di Catania per accertare eventuali violazioni del regolamento d'uso dell'impianto e favoreggiamento nell'accesso carraio non autorizzato; esame del fascicolo da parte della Procura della Repubblica e successiva archiviazione in assenza di reati penali o danni a cose e persone.
 > - **Controversia Istituzionale Sportiva:** Rifiuto formale della Lega Pro di concedere il minuto di raccoglimento nella gara di campionato Catania-Matera del 4 febbraio 2017, con conseguente contestazione simbolica della tifoseria mediante striscioni e silenzio assordante nei primi minuti di gara.
-> - **Fonti Documentali:** *La Sicilia* (02/02/2017 e 04/02/2017), *LiveUniversity Catania*, *TuttoCalcioCatania*, Relazioni di servizio della Questura di Catania.
+> - **Fonti Documentali:** *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]* (02/02/2017 e 04/02/2017), *LiveUniversity Catania*, *TuttoCalcioCatania*, Relazioni di servizio della Questura di Catania.
 
 ---
 
@@ -93,7 +93,7 @@ L'ingresso della folla e del feretro all'interno di una struttura demaniale pubb
 La tensione si spostò quindi sui binari dell'ordinamento sportivo:
 - **La Richiesta della Tifoseria e del Club:** La società Calcio Catania e le rappresentanze del tifo richiesero alla Lega Pro l'autorizzazione ufficiale per osservare un minuto di silenzio prima del fischio d'inizio di Catania-Matera, in programma sabato 4 febbraio 2017.
 - **Il Diniego di Gabriele Gravina:** Il presidente della Lega Pro respinse la richiesta motivando che i protocolli federali riservano il minuto di raccoglimento esclusivamente a personalità del mondo dello sport istituzionale o a tragedie di carattere generale, non ritenendo opportuno estenderlo a un capo ultras.
-- **La Replica degli Spalti:** Durante Catania-Matera, la Curva Nord e la Curva Sud risposero disertando il tifo per i primi minuti ed esponendo uno striscione rimasto celebre nella memoria della curva: *"Il silenzio non si impone, il rispetto si conquista: ciao Ciccio maestro di vita"*.
+- **La Replica degli Spalti:** Durante Catania-Matera, la Curva Nord e la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] risposero disertando il tifo per i primi minuti ed esponendo uno striscione rimasto celebre nella memoria della curva: *"Il silenzio non si impone, il rispetto si conquista: ciao Ciccio maestro di vita"*.
 
 ---
 

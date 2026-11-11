@@ -87,7 +87,7 @@ seasons_count: 5
   </table>
 </div>
 
-**Lorenzo Barlassina** (Limbiate (MB), Italia, 1948) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**[[03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina|Lorenzo Barlassina]]** (Limbiate (MB), Italia, 1948) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista

@@ -43,7 +43,7 @@ aliases:
 
 * **Stagione [[02-cronistoria/stagioni/1949-1950|1949-1950]] (Serie B):** Il Catania di Fazio, guidato dall'ex azzurro [[03-tesserati/allenatori/mario-magnozzi|Mario Magnozzi]] e poi da Stanislao Klein, concluse al **12º posto** con 40 punti, assicurandosi una brillante salvezza grazie alle 13 reti di Goffi e alla regia di [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]].
 * **Stagione [[02-cronistoria/stagioni/1950-1951|1950-1951]] (Serie B):** Con l'ungherese [[03-tesserati/allenatori/lajos-politzer|Lajos Politzer]] in panchina, i rossazzurri chiusero al **7º posto** con 42 punti (17 vittorie e 59 reti segnate), registrando il miglior rendimento casalingo del torneo sul prato dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
-* Nel 1951 Fazio passò il testimone ad Arturo Michisanti, rimanendo nei quadri dirigenziali come fidato consigliere societario.
+* Nel 1951 Fazio passò il testimone ad [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], rimanendo nei quadri dirigenziali come fidato consigliere societario.
 
 ---
 

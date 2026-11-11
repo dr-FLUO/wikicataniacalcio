@@ -50,7 +50,7 @@ aliases:
 
 | Stagione | Categoria | Allenatore | Risultato e Impatto Storico |
 | :--- | :--- | :--- | :--- |
-| **1932–1933** | Prima Divisione (Gir. I) | [[03-tesserati/allenatori/mario-sernagiotto\|Mario Sernagiotto]] | Consolidamento societario e 4º posto in classifica. |
+| **[[02-cronistoria/stagioni/1932-1933\|1932–1933]]** | Prima Divisione (Gir. I) | [[03-tesserati/allenatori/mario-sernagiotto\|Mario Sernagiotto]] | Consolidamento societario e 4º posto in classifica. |
 | **[[02-cronistoria/stagioni/1933-1934\|1933–1934]]** | Prima Divisione | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **1º posto nel Girone Finale (Promozione in Serie B)** davanti a Savona, Biellese e Reggina. |
 | **1934–1935** | Serie B (Gir. A) | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **4º posto assoluto** all'esordio in cadetteria. |
 | **1935–1936** | Serie B (Girone Unico) | [[03-tesserati/allenatori/geza-kertesz\|Géza Kertész]] | **8º posto in Serie B**; emersione dell'esposizione di **2.600.000 lire** sostenuta dal Duca Trigona. |

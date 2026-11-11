@@ -47,11 +47,11 @@ image_credits:
 ---
 
 ![Stemma storico e marchio commerciale del Calcio Catania S.p.A. dal 2002 al 2022](/assets/images/maglie-e-simboli/stemma-catania-spa-2002-2022.png)
-*Lo stemma del Calcio Catania S.p.A. (2002–2022) con scudo a tre punte, pallone in cuoio ed elefante araldico*
+*Lo stemma del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (2002–2022) con scudo a tre punte, pallone in cuoio ed elefante araldico*
 
 # L'Acquisizione dello Storico Marchio del Calcio Catania (22 Ottobre 2026)
 
-L'**acquisizione dello storico marchio del Calcio Catania**, perfezionata il **22 ottobre 2026** al termine di un'intensa asta competitiva telematica indetta dalla Curatela Fallimentare del Tribunale di Catania, rappresenta uno degli snodi simbolici, patrimoniali e identitari più rilevanti della storia recente rossazzurra. Con un'offerta vincente di **250.000 euro** — quasi cinque volte superiore al prezzo base di 55.000 euro — il **[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** presieduto da **[[01-societa/presidenti/ross-pelligra|Ross Pelligra]]** e diretto dal vicepresidente e amministratore delegato **[[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]]** ha riportato ufficialmente nel patrimonio del club lo **[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|stemma storico del 1996/1946]]**, ricongiungendo l'eredità araldica della storica matricola 11700 con la nuova matricola 955013.
+L'**acquisizione dello storico marchio del Calcio Catania**, perfezionata il **22 ottobre 2026** al termine di un'intensa asta competitiva telematica indetta dalla Curatela Fallimentare del Tribunale di Catania, rappresenta uno degli snodi simbolici, patrimoniali e identitari più rilevanti della storia recente rossazzurra. Con un'offerta vincente di **250.000 euro** — quasi cinque volte superiore al prezzo base di 55.000 euro — il **[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** presieduto da **[[01-societa/presidenti/ross-pelligra|Ross Pelligra]]** e diretto dal vicepresidente e amministratore delegato **[[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]]** ha riportato ufficialmente nel patrimonio del club lo **[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|stemma storico del 1996/1946]]**, ricongiungendo l'eredità araldica della storica [[01-societa/matricola-11700|matricola 11700]] con la nuova matricola 955013.
 
 > [!abstract] Sintesi dell'Operazione Patrimoniale e Simbolica
 > - **Data dell'asta decisiva:** Giovedì **22 ottobre 2026** (conclusa alle ore 12:11 dopo oltre un'ora di rilanci in *extra-time*).

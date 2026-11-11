@@ -80,7 +80,7 @@ aliases:
   </table>
 </div>
 
-**Lorenzo Bergia** (Cuneo, Italia, 1908 – 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
+**Lorenzo Bergia** (Cuneo, Italia, 1908 – 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -96,7 +96,7 @@ Lorenzo Bergia fu il primissimo allenatore del Club Calcio Catania fondato il 24
 
 ## 2. La Conduzione Tecnica del Catania
 
-Già centravanti di spicco della SS Catania negli anni Trenta, mise la sua profonda conoscenza della piazza al servizio della rinascita sportiva etnea post-bellica.
+Già centravanti di spicco della [[01-societa/epoche/1929-ss-catania|SS Catania]] negli anni Trenta, mise la sua profonda conoscenza della piazza al servizio della rinascita sportiva etnea post-bellica.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

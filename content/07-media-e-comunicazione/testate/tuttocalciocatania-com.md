@@ -41,8 +41,8 @@ Grazie a un modello organizzativo improntato sul monitoraggio continuo delle not
 La forza distintiva di *TuttoCalcioCatania.com* consiste nella puntualità capillare e nella neutralità cronachistica:
 
 * **Aggregatore e Produttore di Notizie**: La redazione monitora e indicizza quotidianamente le dichiarazioni dei protagonisti rilasciate a quotidiani, televisioni e radio locali e nazionali, consentendo agli utenti di avere una panoramica completa del dibattito cittadino in un unico punto d'accesso.
-* **Banche Dati e Statistiche**: Ampio risalto viene riservato all'analisi algebrica delle prestazioni del Catania FC: minutaggio, precedenti storici contro ogni rivale, rendimento casa/trasferta, disciplinare e provvedimenti del Giudice Sportivo.
-* **Calciomercato e Settore Giovanile**: Monitoraggio puntuale delle trattative di mercato e delle prestazioni della compagine Primavera, garantendo visibilità costante ai giovani talenti del vivaio etneo.
+* **Banche Dati e Statistiche**: Ampio risalto viene riservato all'analisi algebrica delle prestazioni del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]]: minutaggio, precedenti storici contro ogni rivale, rendimento casa/trasferta, disciplinare e provvedimenti del Giudice Sportivo.
+* **Calciomercato e [[08-settori-paralleli/giovanili/index|Settore Giovanile]]**: Monitoraggio puntuale delle trattative di mercato e delle prestazioni della compagine Primavera, garantendo visibilità costante ai giovani talenti del vivaio etneo.
 
 ---
 
@@ -51,7 +51,7 @@ La forza distintiva di *TuttoCalcioCatania.com* consiste nella puntualità capil
 Negli anni della Serie C, della discesa tra i dilettanti e del nuovo corso societario guidato dal gruppo Pelligra (fino alla stagione 2026/2027), *TuttoCalcioCatania.com* ha svolto una funzione fondamentale di servizio pubblico per la comunità:
 
 * Attraverso i propri profili social (Facebook, Twitter/X, Instagram e canale YouTube), distribuisce aggiornamenti in tempo reale durante le partite in casa e in trasferta.
-* Le sue rassegne e i suoi corsivi analitici sono regolarmente ripresi e citati dai network sportivi nazionali e dalle trasmissioni radiotelevisive regionali (*Corner*, *Diretta Stadio*, *Salastampa*).
+* Le sue rassegne e i suoi corsivi analitici sono regolarmente ripresi e citati dai network sportivi nazionali e dalle trasmissioni radiotelevisive regionali (*Corner*, *[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]*, *[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]*).
 
 ---
 

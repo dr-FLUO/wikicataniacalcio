@@ -47,7 +47,7 @@ Nata nell'autunno del 1992, la trasmissione si trovò a svolgere un ruolo di str
 
 ## 2. La Formula Editoriale e il Dialogo con la Serie A
 
-Con la rinascita societaria sotto la gestione Gaucci e il successivo approdo in Serie A nel 2006 con Antonino Pulvirenti e Pietro Lo Monaco, *Tam Tam Sport* mantenne intatta la propria impronta popolare:
+Con la rinascita societaria sotto la gestione Gaucci e il successivo approdo in Serie A nel 2006 con [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], *Tam Tam Sport* mantenne intatta la propria impronta popolare:
 
 * **Contraddittorio Rigoroso**: Umberto Teghini moderava il confronto con ironia, ritmo incalzante e solida deontologia professionale, ospitando settimanalmente calciatori, allenatori, dirigenti e colleghi delle principali testate cittadine e nazionali.
 * **Format Cult**: La sigla incalzante, i ritornelli musicali e gli slogan coniati dagli ascoltatori divennero espressioni gergali adottate nei bar e nelle curve dello stadio.

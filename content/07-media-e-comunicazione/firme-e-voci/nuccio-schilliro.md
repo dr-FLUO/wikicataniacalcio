@@ -46,7 +46,7 @@ La sua figura lega indissolubilmente il proprio nome alla nascita stessa della t
 
 ## 1. La Storica Prima Telecronaca del 1975 su Teletna
 
-Il **20 marzo 1975**, dagli studi dell'emittente pionieristica ***Teletna***, Schillirò commentò le immagini della partita del Catania Calcio: un evento rivoluzionario che ruppe per la prima volta in Sicilia il monopolio radiotelevisivo della RAI, anticipando di anni le sentenze di liberalizzazione dell'etere.
+Il **20 marzo 1975**, dagli studi dell'emittente pionieristica ***[[07-media-e-comunicazione/testate/teletna|Teletna]]***, Schillirò commentò le immagini della partita del Catania Calcio: un evento rivoluzionario che ruppe per la prima volta in Sicilia il monopolio radiotelevisivo della RAI, anticipando di anni le sentenze di liberalizzazione dell'etere.
 
 Con uno stile sobrio, tecnicamente impeccabile e lontano da eccessi retorici, Schillirò divenne immediatamente un volto familiare per decine di migliaia di sportivi etnei, incarnando la transizione dal radiogiornale alla televisione moderna.
 
@@ -54,7 +54,7 @@ Con uno stile sobrio, tecnicamente impeccabile e lontano da eccessi retorici, Sc
 
 ## 2. La Nascita di "Salastampa" e l'Ammiraglia Antenna Sicilia
 
-Alla fine degli anni Settanta, con l'avvio delle trasmissioni di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] (ammiraglia del gruppo Ciancio) e la regia di Natale Zennaro, Schillirò fu l'ideatore e il **primo conduttore storico della trasmissione domenicale *Salastampa***:
+Alla fine degli anni Settanta, con l'avvio delle trasmissioni di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] (ammiraglia del gruppo Ciancio) e la regia di Natale Zennaro, Schillirò fu l'ideatore e il **primo conduttore storico della trasmissione domenicale *[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]***:
 
 * Impose un modello di rotocalco del dopo-gara moderno e dinamico, basato su moviole analitiche, collegamenti a caldo dagli spogliatoi del [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] e dibattiti accesi ma sempre improntati al massimo rispetto istituzionale.
 * *Salastampa* si affermò in breve come la trasmissione sportiva più vista dell'isola, aprendo la strada che sarebbe stata poi percorsa e ampliata da [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]].

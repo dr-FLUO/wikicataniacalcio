@@ -75,7 +75,7 @@ L'**Esodo dei 40.000 allo Stadio Olimpico di Roma** rappresenta la più imponent
 > - **Luogo:** Roma, Stadio Olimpico, Stazione Roma Termini e direttrice autostradale/ferroviaria tirrenica.
 > - **Tipologia Evento:** Esodo di massa interregionale, tensioni tra tifoserie rivali, cariche di polizia e gestione straordinaria di trasporti speciali.
 > - **Conseguenze di Pubblica Sicurezza:** Cariche di alleggerimento, uso di idranti di sicurezza all'Olimpico, fermi e denunce per porto di oggetti contundenti e danneggiamento di materiale rotabile ferroviario.
-> - **Fonti Principali:** *Stampa Sera* (06/06/1983), *La Stampa*, *La Gazzetta dello Sport* (19/06/1983 e 26/06/1983), *Corriere dello Sport*, *La Sicilia*.
+> - **Fonti Principali:** *Stampa Sera* (06/06/1983), *La Stampa*, *La Gazzetta dello Sport* (19/06/1983 e 26/06/1983), *Corriere dello Sport*, *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*.
 
 ---
 
@@ -83,7 +83,7 @@ L'**Esodo dei 40.000 allo Stadio Olimpico di Roma** rappresenta la più imponent
 
 Il primo momento critico di ordine pubblico si verificò domenica **5 giugno 1983**, in occasione dell'ultima giornata della stagione regolare. Al Catania serviva un punto per blindare la promozione diretta o lo spareggio, mentre la Lazio di Juan Carlos Morrone cercava la certezza matematica della Serie A.
 
-Oltre **15.000 sostenitori etnei** raggiunsero Roma a bordo di treni ordinari e convogli speciali, affollando la Curva Sud e le tribune in una giornata caratterizzata da caldo afoso estremo. La forte rivalità tra le due fazioni sfociò in ripetuti tafferugli sia all'esterno dei tornelli del Foro Italico sia a ridosso dei settori di separazione interni.
+Oltre **15.000 sostenitori etnei** raggiunsero Roma a bordo di treni ordinari e convogli speciali, affollando la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] e le tribune in una giornata caratterizzata da caldo afoso estremo. La forte rivalità tra le due fazioni sfociò in ripetuti tafferugli sia all'esterno dei tornelli del Foro Italico sia a ridosso dei settori di separazione interni.
 
 La forza pubblica fu costretta a effettuare **ripetute cariche di alleggerimento** e ad azionare gli **idranti di sicurezza** della Polizia sia per disperdere i fronti di scontro sia per fronteggiare i frequenti malori e collassi causati dall'ammassamento delle gradinate sotto il sole battente. L'incontro terminò 2-1 per i biancocelesti, costringendo il Catania a disputare gli spareggi a tre per via della parità a quota 45 punti con Como e Cremonese.
 

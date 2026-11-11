@@ -73,7 +73,7 @@ aliases:
 
 # Catania - Padova 4-2 d.t.s. (2 Aprile 2024)
 
-La finale di ritorno della **Coppa Italia Serie C 2023-2024** tra **Catania e Padova (4-2 dopo i tempi supplementari)**, disputata la sera di martedì **2 aprile 2024** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], ha consegnato al [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] del presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e del vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] il **primo trofeo nazionale ufficiale nei 95 anni di storia calcistica rossazzurra** (1929–2024).
+La finale di ritorno della **[[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]] 2023-2024** tra **Catania e Padova (4-2 dopo i tempi supplementari)**, disputata la sera di martedì **2 aprile 2024** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], ha consegnato al [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] del presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e del vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] il **primo trofeo nazionale ufficiale nei 95 anni di storia calcistica rossazzurra** (1929–2024).
 
 > [!abstract] Significato Storico e Agonistico del Trofeo
 > Sconfitto per **2-1** nella finale d'andata allo Stadio Euganeo di Padova il 19 marzo 2024, il Catania guidato in panchina dalla bandiera [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] ha ribaltato il doppio confronto al termine di 120 minuti drammatici (punteggio aggregato di **5-4**). Oltre ad arricchire la bacheca del club con la prima coppa nazionale, il trionfo ha consentito agli etnei — giunti 13º in campionato nella [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]] — di accedere di diritto al **primo turno della fase nazionale dei Playoff di Serie C**, dove avrebbero poi superato l'[[02-cronistoria/partite-storiche/precedenti/atalanta-u23|Atalanta U23]].
@@ -96,7 +96,7 @@ A causa delle sanzioni disciplinari seguite agli incidenti avvenuti all'interval
 | :--- | :--- |
 | **Data e Ora** | Martedì 2 aprile 2024, ore 20:30 |
 | **Impianto** | [[04-strutture/stadio-massimino/angelo-massimino\|Stadio Angelo Massimino]], Catania |
-| **Competizione** | Coppa Italia Serie C [[02-cronistoria/stagioni/2023-2024\|2023-2024]] — Finale di Ritorno (Andata: Padova-Catania 2-1) |
+| **Competizione** | Coppa Italia Serie C [[02-cronistoria/stagioni/2023-2024\|2023-2024]] — Finale di Ritorno (Andata: [[02-cronistoria/partite-storiche/2023-2024/padova-catania-2-1\|Padova-Catania 2-1]]) |
 | **Arbitro** | Stefano Nicolini della sezione AIA di Brescia (VAR attivo per la finale) |
 | **Marcatori** | **3' Bortolussi** (P), **26' rig. Di Carmine** (C), **44' Cicerelli** (C), **73' Perrotta** (P), **89' Marsura** (C), **120' Costantino** (C) |
 | **Formazione Catania (3-5-2)** | Albertoni; Monaco (106' Kontek), Castellini (108' Chiarella), Celli; Bouah (79' Rapisarda), Peralta (65' Chiricò), Quaini, Zammarini, Cicerelli (81' Marsura); Cianci (79' Costantino), Di Carmine. — *A disp.:* Furlan, Donato, Curado, Ndoj, Haveri. — **All.:** [[03-tesserati/allenatori/michele-zeoli\|Michele Zeoli]]. |

@@ -94,7 +94,7 @@ aliases:
   </table>
 </div>
 
-**Angelo Busetta** (Palermo, Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1994-1995, 1996-1997**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Angelo Busetta** (Palermo, Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1994-1995, 1996-1997**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -110,7 +110,7 @@ Angelo Busetta, stimato maestro di calcio siciliano soprannominato "Il Professor
 
 ## 2. La Conduzione Tecnica del Catania
 
-Vincitore dello Scudetto Dilettanti e della promozione in Serie C2 nel 1995 al fianco del presidente Angelo Massimino, tornò sulla panchina etnea anche all'inizio del 1996-1997 in C2.
+Vincitore dello Scudetto Dilettanti e della promozione in Serie C2 nel 1995 al fianco del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], tornò sulla panchina etnea anche all'inizio del 1996-1997 in C2.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

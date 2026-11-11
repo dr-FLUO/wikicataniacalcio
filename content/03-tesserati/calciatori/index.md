@@ -32,10 +32,10 @@ Benvenuti nell'archivio anagrafico e statistico di tutti i calciatori che hanno 
 ## Sezioni dell'Almanacco Calciatori
 
 ### 1. [[03-tesserati/calciatori/rosa-attuale/index|Rosa Attuale (Stagione 2026-2027)]]
-Le schede anagrafiche, tecniche e statistiche di tutti i tesserati attualmente a disposizione della prima squadra guidata da Domenico Toscano nel campionato di Serie C.
+Le schede anagrafiche, tecniche e statistiche di tutti i tesserati attualmente a disposizione della prima squadra guidata da [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] nel campionato di Serie C.
 
 ### 2. [[03-tesserati/calciatori/storici/index|Campioni Storici e Bandiere]]
-Le monografie celebrative delle figure leggendarie che hanno fatto la storia del club: Giuseppe Mascara, Gionatha Spinesi, Marco Biagianti, Gonzalo Bergessio, il "Papu" Alejandro Gómez, Mariano Izco, Horst Szymaniak, Adelmo Prenna, Nicolò Nicolosi e le colonne della Serie A.
+Le monografie celebrative delle figure leggendarie che hanno fatto la storia del club: [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]], [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]], [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]], il "Papu" [[03-tesserati/calciatori/storici/alejandro-gomez|Alejandro Gómez]], [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]], [[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]], [[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]], [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]] e le colonne della Serie A.
 
 ### 3. [[03-tesserati/calciatori/archivio/index|Archivio Alfabetico Generale (A–Z)]]
 L'anagrafe perpetua di tutti i calciatori transitati dal club, suddivisa per lettere:

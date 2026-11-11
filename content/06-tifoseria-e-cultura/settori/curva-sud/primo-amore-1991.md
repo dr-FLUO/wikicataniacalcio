@@ -40,14 +40,14 @@ aliases:
 
 # Primo Amore (1991) — La Genesi degli Irriducibili
 
-**Primo Amore** è stata la formazione embrionale che nella primavera del **1991** ha posto le basi per la nascita della leadership moderna della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello Stadio Cibali, rappresentando il nucleo fondativo da cui scaturirono gli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (I.R.A.)]].
+**Primo Amore** è stata la formazione embrionale che nella primavera del **1991** ha posto le basi per la nascita della leadership moderna della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], rappresentando il nucleo fondativo da cui scaturirono gli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili (I.R.A.)]].
 
 ---
 
 ## 1. La Migrazione dalla Nord e la Scelta del Nome
 
 Sul finire della travagliata stagione di Serie C1 [[02-cronistoria/stagioni/1990-1991|1990-1991]]:
-- Un collettivo di giovani militanti cresciuti all'interno della Curva Nord decise di staccarsi dal settore d'origine. L'obiettivo era ambizioso e pionieristico: attraversare idealmente l'intero rettangolo verde del Cibali per insediarsi stabilmente nella gradinata meridionale, allora priva di un coordinamento strutturato dopo le esperienze di formazioni come [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], [[06-tifoseria-e-cultura/settori/curva-sud/onda-durto-1982|Onda d'Urto]] e [[06-tifoseria-e-cultura/settori/curva-sud/teddy-boys-e-panthers|Teddy Boys]].
+- Un collettivo di giovani militanti cresciuti all'interno della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] decise di staccarsi dal settore d'origine. L'obiettivo era ambizioso e pionieristico: attraversare idealmente l'intero rettangolo verde del Cibali per insediarsi stabilmente nella gradinata meridionale, allora priva di un coordinamento strutturato dopo le esperienze di formazioni come [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], [[06-tifoseria-e-cultura/settori/curva-sud/onda-durto-1982|Onda d'Urto]] e [[06-tifoseria-e-cultura/settori/curva-sud/teddy-boys-e-panthers|Teddy Boys]].
 - Per battezzare la nuova avventura, il collettivo scelse il nome romantico e passionale di **«Primo Amore»**, a simboleggiare l'indissolubilità del legame affettivo verso la maglia con i colori dell'Etna, considerata il primo, autentico e insostituibile amore della giovinezza.
 
 ---

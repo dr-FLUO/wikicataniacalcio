@@ -87,19 +87,19 @@ Le partite casalinghe vennero disputate sul manto erboso dello [[04-strutture/st
 | **Mezzala Sinistra** | Liliana Mammina | Classe cristallina e inserimenti centrali vincenti. |
 | **Ala Sinistra (C)** | Rose Reilly | Capitano, fuoriclasse della Nazionale scozzese, 32 gol in 22 partite. |
 
-Nel 1979 la compagine concluse al terzo posto con lo scudetto sul petto. Successivamente la proprietà Cutispoti cedette il titolo sportivo all'Alaska Lecce, lasciando un'eredità storica celebrata nel 2020 con una stele commemorativa al Cibali e il volume *Il cielo è rosa sopra il Cibali*.
+Nel 1979 la compagine concluse al terzo posto con lo scudetto sul petto. Successivamente la proprietà Cutispoti cedette il titolo sportivo all'Alaska Lecce, lasciando un'eredità storica celebrata nel 2020 con una stele commemorativa al Cibali e il volume *[[07-media-e-comunicazione/letteratura/il-cielo-e-rosa-sopra-il-cibali|Il cielo è rosa sopra il Cibali]]*.
 
 ---
 
 ## 2. Il Dipartimento Ufficiale Catania Women (2022–Oggi)
 
-Con la rifondazione societaria del 2022 dopo il fallimento del Calcio Catania S.p.A., il presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] hanno costituito formalmente il dipartimento **Catania Women**, integrandolo a pieno titolo nell'organigramma del Catania Football Club con strutture, staff e budget dedicati.
+Con la rifondazione societaria del 2022 dopo il fallimento del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], il presidente [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] e il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] hanno costituito formalmente il dipartimento **Catania Women**, integrandolo a pieno titolo nell'organigramma del Catania Football Club con strutture, staff e budget dedicati.
 
 ### Struttura Sportiva e Campionati
 * **Prima Squadra Femminile:** iscritta al campionato nazionale di **Serie C Femminile (Girone C)** della Lega Nazionale Dilettanti, compete contro formazioni del centro-sud Italia per la promozione in Serie B.
 * **Campo di Casa:** le gare interne e le sedute di allenamento si svolgono presso il rinnovato impianto del [[04-strutture/centri-sportivi/campo-comunale-nesima|Campo Comunale di Nesima Superiore]], dotato di manto in sintetico di ultima generazione e tribune dedicate.
 * **Settore Giovanile Femminile:** per la prima volta nella storia del club è stata strutturata una cantera interamente al femminile con formazioni **Under 17**, **Under 15** e una scuola calcio dedicata, creando una filiera di sviluppo territoriale per le atlete siciliane.
-* **Identità Visiva:** le divise ricalcano esattamente i colori statutari della prima squadra maschile (maglia palata a strisce rosse #d11317 e azzurre #0cb2d9, calzoncini azzurri e calzettoni neri con risvolto rossazzurro), con lo stemma ufficiale de *u Liotru* e il main sponsor [[05-identita-e-simboli/sponsor/index|SuperConveniente]].
+* **Identità Visiva:** le divise ricalcano esattamente i colori statutari della prima squadra maschile (maglia palata a strisce rosse #d11317 e azzurre #0cb2d9, calzoncini azzurri e calzettoni neri con risvolto rossazzurro), con lo stemma ufficiale de *[[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti|u Liotru]]* e il main sponsor [[05-identita-e-simboli/sponsor/index|SuperConveniente]].
 
 ---
 

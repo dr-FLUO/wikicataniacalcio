@@ -47,9 +47,9 @@ Questa sezione raccoglie le testimonianze, le analisi filmografiche, teatrali e 
 
 Le trasmissioni cult che hanno scandito per oltre quarant'anni la liturgia sportiva domenicale e settimanale dei tifosi rossazzurri:
 
-* **[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio (1986-2026)]]**: Il programma sportivo domenicale più longevo della televisione siciliana (40 anni su Telecolor), ideato da Angelo Micale con le telecronache storiche di Angelo Patanè.
-* **[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa (1980-2026)]]**: Lo storico rotocalco del dopopartita di Antenna Sicilia nato con Nuccio Schillirò e portato all'apice da Umberto Teghini e Lucy Gullotta (oggi SicraPress).
-* **[[07-media-e-comunicazione/cinema-e-tv/corner|Corner (1986-2026)]]**: Il salotto d'approfondimento del lunedì sera di Telecolor guidato da Alberto Cigalini, con analisi tattica, inchieste legali con Alessandro Vagliasindi e calciomercato.
+* **[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio (1986-2026)]]**: Il programma sportivo domenicale più longevo della televisione siciliana (40 anni su [[07-media-e-comunicazione/testate/telecolor|Telecolor]]), ideato da [[07-media-e-comunicazione/firme-e-voci/angelo-micale|Angelo Micale]] con le telecronache storiche di Angelo Patanè.
+* **[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa (1980-2026)]]**: Lo storico rotocalco del dopopartita di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] nato con [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] e portato all'apice da [[07-media-e-comunicazione/firme-e-voci/umberto-teghini|Umberto Teghini]] e Lucy Gullotta (oggi SicraPress).
+* **[[07-media-e-comunicazione/cinema-e-tv/corner|Corner (1986-2026)]]**: Il salotto d'approfondimento del lunedì sera di Telecolor guidato da [[07-media-e-comunicazione/firme-e-voci/alberto-cigalini|Alberto Cigalini]], con analisi tattica, inchieste legali con [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]] e calciomercato.
 
 ---
 
@@ -65,7 +65,7 @@ Le monografie dedicate ai due capolavori della commedia all'italiana degli anni 
 ## 3. Documentari, Archivi Storici e Serie Audiovisive
 
 * **[[07-media-e-comunicazione/cinema-e-tv/documentari-e-serie-rossazzurre|Documentari, Serie Audiovisive e Produzioni Storiche sul Catania]]**: Censimento monografico delle grandi opere audiovisive: dai cinegiornali d'archivio dell'Istituto Luce (anni '50-'70) alla monumentale serie audio-documentaria *Quelli del '46* di Radio Lab (2014, in 21 puntate condotta da Gianluca Virgilio e [[07-media-e-comunicazione/firme-e-voci/roberto-quartarone|Roberto Quartarone]]), fino ai film celebrativi delle promozioni in Serie A e agli instant doc sulla rinascita sportiva (2022-2026).
-* **[[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]**: Quadro sintetico generale su tutte le citazioni filmiche (*Malizia*, *Il bestione*, *La vita è una cosa meravigliosa*) e sulle rappresentazioni teatrali, compresa la pièce teatrale e televisiva *Clamoroso al Cibali* con [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]].
+* **[[07-media-e-comunicazione/cinema-e-tv/cultura-di-massa|Il Catania nella Cultura di Massa, nel Cinema e nel Teatro]]**: Quadro sintetico generale su tutte le citazioni filmiche (*Malizia*, *Il bestione*, *La vita è una cosa meravigliosa*) e sulle rappresentazioni teatrali, compresa la pièce teatrale e televisiva *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]* con [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]].
 
 ---
 

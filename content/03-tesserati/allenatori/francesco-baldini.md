@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Baldini** (Massa, Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2022**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione SIGI).
+**Francesco Baldini** (Massa, Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2022**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2020-sigi-e-fallimento|Gestione SIGI]]).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore Centrale
@@ -114,7 +114,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Francesco Baldini è entrato per sempre nel cuore della tifoseria etnea come simbolo di dignità, coraggio e fedeltà sportiva durante la straziante agonia del fallimento del Calcio Catania matricola 11700 (2021-2022).
+Francesco Baldini è entrato per sempre nel cuore della tifoseria etnea come simbolo di dignità, coraggio e fedeltà sportiva durante la straziante agonia del fallimento del Calcio Catania [[01-societa/matricola-11700|matricola 11700]] (2021-2022).
 
 ## 2. La Conduzione Tecnica del Catania
 

@@ -111,13 +111,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giovanni Pulvirenti** (Catania, Italia, 1964) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
+**Giovanni Pulvirenti** (Catania, Italia, 1964) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
 > - **Periodo a Catania:** 2016-2017
 > - **Denominazione Sociale:** Calcio Catania S.p.A. (Era Pulvirenti)
-> - **Epiteto / Ruolo Storico:** Dal Settore Giovanile ai Playoff di Lega Pro
+> - **Epiteto / Ruolo Storico:** Dal [[08-settori-paralleli/giovanili/index|Settore Giovanile]] ai Playoff di Lega Pro
 
 ---
 

@@ -56,7 +56,7 @@ aliases:
 | :--- | :--- | :--- |
 | **Giugno – Luglio 2022** | Stesura del piano industriale del Pelligra Group per il bando ex [[01-societa/vicende-legali/fallimento-2021-art52-noif\|art. 52 c. 10 NOIF]] e nomina a Vicepresidente e AD. | Nascita del [[01-societa/epoche/2022-pelligra-catania-fc\|Catania SSD a r.l.]] e avvio della matricola 955013. |
 | **[[02-cronistoria/stagioni/2022-2023\|2022–2023]]** | Direzione dell'area esecutiva nella stagione del ritorno in Serie C. | Vittoria del Girone I di Serie D con **88 punti** e trasformazione in **Catania Football Club S.r.l.** |
-| **2 aprile 2024** | Conquista della **Coppa Italia Serie C [[02-cronistoria/stagioni/2023-2024\|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2 d.t.s.]]). |
+| **2 aprile 2024** | Conquista della **[[02-cronistoria/coppa-italia-serie-c\|Coppa Italia Serie C]] [[02-cronistoria/stagioni/2023-2024\|2023-2024]]**. | Primo trofeo nazionale della storia del Catania ([[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2\|Catania-Padova 4-2 d.t.s.]]). |
 | **19 febbraio 2026** | Sottoscrizione del rogito definitivo per **[[04-strutture/centri-sportivi/torre-del-grifo\|Torre del Grifo Village]]**. | Acquisizione per **5,5 milioni di euro** e riapertura del centro sportivo di Mascalucia. |
 | **22 ottobre 2026** | Coordinamento dell'offerta vincente nell'asta per il **[[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026\|marchio storico del Calcio Catania]]**. | Riacquisto per **250.000 euro** dello [[05-identita-e-simboli/araldica-e-scudetti/simbologia-colori-scudetti\|stemma storico del 1946/1996]]. |
 

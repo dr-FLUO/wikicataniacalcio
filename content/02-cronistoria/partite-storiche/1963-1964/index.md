@@ -35,7 +35,7 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 ## Elenco Incontri Monografici
 
 ### [[02-cronistoria/partite-storiche/1963-1964/finale-coppa-delle-alpi-1964|Genoa-Catania 2-0 (1º luglio 1964) — La Finale della Coppa delle Alpi]]
-Storia e tabellino della Finale della Coppa delle Alpi 1964 disputata al Wankdorfstadion di Berna: il punto più alto del Catania continentale di Ignazio Marcoccio e Carmelo Di Bella.
+Storia e tabellino della Finale della Coppa delle Alpi 1964 disputata al Wankdorfstadion di Berna: il punto più alto del Catania continentale di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e Carmelo Di Bella.
 
 ---
 

@@ -38,14 +38,14 @@ aliases:
 
 # La Tragedia del Custode del Cibali: Catania-Perugia 1983
 
-La vicenda del **"custode del Cibali"** rappresenta una delle pagine più drammatiche, surreali e feroci della storia degli stadi italiani: un fatto di sangue consumatosi domenica **12 giugno 1983** allo Stadio Cibali a pochi minuti dal fischio d'inizio dell'ultima giornata del campionato di Serie B tra Catania e Perugia.
+La vicenda del **"custode del Cibali"** rappresenta una delle pagine più drammatiche, surreali e feroci della storia degli stadi italiani: un fatto di sangue consumatosi domenica **12 giugno 1983** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] a pochi minuti dal fischio d'inizio dell'ultima giornata del campionato di Serie B tra Catania e Perugia.
 
 ---
 
 ## 1. La Genesi: L'Abitazione Sotto la Curva Sud
 
 Per comprendere l'incredibile genesi della tragedia occorre considerare la peculiare struttura architettonica del vecchio stadio Cibali:
-- L'alloggio di servizio di **Angelo Grasso** (53 anni, padre di undici figli e custode dell'impianto municipale da oltre quattordici anni) era ricavato **esattamente sotto i gradoni della Curva Sud**, il settore più incandescente e gremito del tifo popolare.
+- L'alloggio di servizio di **Angelo Grasso** (53 anni, padre di undici figli e custode dell'impianto municipale da oltre quattordici anni) era ricavato **esattamente sotto i gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]**, il settore più incandescente e gremito del tifo popolare.
 - Per anni, durante le partite domenicali, la famiglia del custode era stata bersaglio delle intemperanze e delle vessazioni di gruppi di giovani facinorosi assiepati sopra l'abitazione: sputi, detriti, insulti e minacce continue che avevano progressivamente esasperato l'uomo.
 
 ---

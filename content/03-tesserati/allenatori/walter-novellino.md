@@ -115,7 +115,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di Walter Novellino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Walter Novellino** (Montemarano (AV), Italia, 1953) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Pulvirenti).
+**Walter Novellino** (Montemarano (AV), Italia, 1953) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Ala

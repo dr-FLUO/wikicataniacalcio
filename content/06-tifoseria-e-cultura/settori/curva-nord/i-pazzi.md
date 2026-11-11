@@ -44,21 +44,21 @@ aliases:
 
 # I Pazzi Rossazzurri (1999)
 
-**I Pazzi** (spesso identificati anche come **I Pazzi Rossazzurri**) sono uno dei gruppi storici più compatti e fedeli del tifo organizzato etneo, fondati nel **1999** nel popolare quartiere di **San Leone**, lungo l'asse viario di **Corso Indipendenza**. Nati e cresciuti per oltre venticinque anni come colonna portante della **Curva Nord**, dall'inizio della **stagione 2026** si sono trasferiti stabilmente nell'**anello centrale superiore della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]** dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
+**I Pazzi** (spesso identificati anche come **I Pazzi Rossazzurri**) sono uno dei gruppi storici più compatti e fedeli del tifo organizzato etneo, fondati nel **1999** nel popolare quartiere di **San Leone**, lungo l'asse viario di **Corso Indipendenza**. Nati e cresciuti per oltre venticinque anni come colonna portante della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]**, dall'inizio della **stagione 2026** si sono trasferiti stabilmente nell'**anello centrale superiore della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]** dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
 ---
 
 ## 1. Identità Rionale e Militanza
 
 Nato sul finire degli anni Novanta in coincidenza con la rinascita sportiva del club sotto la presidenza Massimino e Gaucci, il gruppo si è distinto per una coesione rionale fortissima:
-- **Ritrovo Urbano:** Il nucleo fondatore, guidato storicamente da Gaetano Messina, ha fatto di Corso Indipendenza e delle piazze di San Leone il proprio quartier generale permanente, intrecciando amicizie di quartiere e militanza da stadio.
+- **Ritrovo Urbano:** Il nucleo fondatore, guidato storicamente da [[06-tifoseria-e-cultura/biografie/gaetano-messina|Gaetano Messina]], ha fatto di Corso Indipendenza e delle piazze di San Leone il proprio quartier generale permanente, intrecciando amicizie di quartiere e militanza da stadio.
 - **Stile Visivo:** Noti per l'uso spettacolare del materiale pirotecnico (fumogeni, torciate a giorno e bandieroni a due aste), I Pazzi hanno occupato stabilmente per decenni la parte superiore della Curva Nord.
 
 ---
 
 ## 2. Fedeltà alla Linea No-Tessera
 
-Nel 2015, di fronte alla scissione del tifo etneo sulla Tessera del Tifoso, I Pazzi si sono schierati fin dal primo momento a fianco di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *Nord Kaos* a difesa della mentalità ultras classica, rifiutando ogni forma di schedatura ministeriale e sostenendo il Catania con una presenza costante all'esterno dello stadio e nelle trasferte libere.
+Nel 2015, di fronte alla scissione del tifo etneo sulla Tessera del Tifoso, I Pazzi si sono schierati fin dal primo momento a fianco di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]* a difesa della mentalità ultras classica, rifiutando ogni forma di schedatura ministeriale e sostenendo il Catania con una presenza costante all'esterno dello stadio e nelle trasferte libere.
 
 ---
 

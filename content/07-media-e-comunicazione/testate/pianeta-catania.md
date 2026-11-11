@@ -41,7 +41,7 @@ Nato inizialmente come striscia radiofonica e portale telematico di approfondime
 
 Il fulcro produttivo del progetto negli anni Venti e fino alla stagione 2026/2027 è rappresentato da ***Pianeta Rassegna***, il morning-show in diretta streaming trasmesso dal lunedì al venerdì (ore 7:30–9:00) e il sabato mattina (ore 10:00–12:00):
 
-* **Lettura Critica dei Quotidiani**: Condotta da Max Licari, la trasmissione offre un'analisi puntuale e comparata dei principali organi di stampa (*La Sicilia*, *La Gazzetta dello Sport*, *Corriere dello Sport*, agenzie telematiche), smontando retoriche trionfalistiche e scandagliando le scelte tattiche del club.
+* **Lettura Critica dei Quotidiani**: Condotta da Max Licari, la trasmissione offre un'analisi puntuale e comparata dei principali organi di stampa (*[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]*, *La Gazzetta dello Sport*, *Corriere dello Sport*, agenzie telematiche), smontando retoriche trionfalistiche e scandagliando le scelte tattiche del club.
 * **La Squadra Redazionale**: Accanto a Licari, intervengono regolarmente co-conduttori e analisti storici come Piero Italia, Gianfranco Sabella, Alfio Lombardo, Mario Licciardello e Vincenzo La Corte.
 * **Interazione con i Tifosi**: Attraverso la live chat in tempo reale, il programma accoglie quotidianamente centinaia di quesiti di tifosi ed emigrati, ricreando la liturgia comunitaria del "caffè sportivo" in chiave digitale.
 
@@ -51,7 +51,7 @@ Il fulcro produttivo del progetto negli anni Venti e fino alla stagione 2026/202
 
 Accanto alla rassegna mattutina, il talk show settimanale ***Pianeta Catania Calcionate TV*** approfondisce il post-partita domenicale e le dinamiche di calciomercato:
 
-* **Ospiti e Inchieste**: La trasmissione ha ospitato storiche firme del giornalismo d'inchiesta come l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], conducendo rigorosi approfondimenti legali e finanziari nei momenti più bui del club (dal fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]] fino al monitoraggio del budget e dei bilanci societari del Catania FC nel 2026).
+* **Ospiti e Inchieste**: La trasmissione ha ospitato storiche firme del giornalismo d'inchiesta come l'avvocato [[07-media-e-comunicazione/firme-e-voci/alessandro-vagliasindi|Alessandro Vagliasindi]], conducendo rigorosi approfondimenti legali e finanziari nei momenti più bui del club (dal fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]] fino al monitoraggio del budget e dei bilanci societari del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] nel 2026).
 * **Indipendenza Editoriale**: Mantenendo un profilo di assoluta indipendenza dalla società sportiva, *Pianeta Catania* è divenuto un autentico organo di vigilanza civica e critica per la tifoseria rossazzurra.
 
 ---

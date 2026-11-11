@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Lajos Czeizler** (Heves, Ungheria, 1893 – 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1932-1933**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
+**Lajos Czeizler** (Heves, Ungheria, 1893 – 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1932-1933**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore

@@ -83,7 +83,7 @@ aliases:
   </table>
 </div>
 
-**Giorgio Armari** (Ferrara, Italia, 1895 – 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929-1930, 1932-1933**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
+**Giorgio Armari** (Ferrara, Italia, 1895 – 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929-1930, 1932-1933**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore
@@ -99,7 +99,7 @@ Giorgio Armari è stato il primo allenatore della storia ufficiale della Societ�
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1929-1930 prese le redini della squadra etnea conducendola attraverso il primo campionato federale della sua storia sul campo di Piazza Esposizione, gettando le basi della prima identità calcistica cittadina.
+Nel 1929-1930 prese le redini della squadra etnea conducendola attraverso il primo campionato federale della sua storia sul campo di [[04-strutture/campi-storici/index|Piazza Esposizione]], gettando le basi della prima identità calcistica cittadina.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -35,7 +35,7 @@ In questa sezione sono raccolte le monografie documentali, i tabellini ufficiali
 ## Elenco Incontri Monografici
 
 ### [[02-cronistoria/partite-storiche/2007-2008/catania-roma-1-1|Catania-Roma 1-1 (18 maggio 2008) — Il Miracolo Salvezza di Jorge Martínez]]
-Dossier storico della memorabile ultima giornata di Serie A 2007-2008: il pareggio all'85' del «Malaka» Martínez che regala la salvezza al Catania di Walter Zenga e condanna l'Empoli.
+Dossier storico della memorabile ultima giornata di Serie A 2007-2008: il pareggio all'85' del «Malaka» Martínez che regala la salvezza al Catania di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] e condanna l'Empoli.
 
 ---
 

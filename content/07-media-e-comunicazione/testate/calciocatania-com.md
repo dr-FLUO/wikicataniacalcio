@@ -48,7 +48,7 @@ Rinnovato profondamente nella propria architettura software in occasione della s
 ## 2. Autonomia Editoriale e Vigilanza Civica
 
 Mantenendosi lontano da condizionamenti proprietari, il portale ha esercitato una vigilanza critica e costante:
-* Approfondimenti di bilancio societario, analisi tattica post-partita e inchieste sullo stato delle infrastrutture (Torre del Grifo, Stadio Massimino).
+* Approfondimenti di bilancio societario, analisi tattica post-partita e inchieste sullo stato delle infrastrutture ([[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo]], Stadio Massimino).
 * Punto di riferimento accreditato per agenzie di stampa nazionali, storici e trasmissioni televisive regionali per la certificazione di dati archivistici e precedenti di campionato.
 
 ---

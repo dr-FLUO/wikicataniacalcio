@@ -68,7 +68,7 @@ Mentre la maglia e i pantaloncini (tradizionalmente **azzurri**, talvolta neri n
 
 ### 1.3 La Seconda Divisa (Away Kit)
 La divisa da trasferta è storicamente **bianca**, richiamando il candore del tradizionale «sacco» votivo indossato dai devoti durante i festeggiamenti agatini di febbraio e agosto. La casacca bianca è quasi sempre impreziosita da:
-- Una **fascia diagonale bicolore rossazzurra** (omaggio alla storica maglia degli spareggi di Roma del 1983);
+- Una **fascia diagonale bicolore rossazzurra** (omaggio alla storica maglia degli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] del 1983);
 - Una fascia centrale orizzontale o verticale;
 - Bordature e colletto in contrasto cromatico rosso e azzurro.
 
@@ -91,7 +91,7 @@ La storia delle maglie del Catania è indissolubilmente legata alle partnership 
 * **I Fornitori Tecnici Ufficiali:** Dalla delibera federale FIGC del **1979** che consentì per la prima volta l'esposizione del marchio del produttore di abbigliamento sportivo, sulla casacca etnea si sono alternati marchi prestigiosi: **NR (Ennerre)**, **Bobos**, **Degi**, **Adidas**, **Latas**, **Icos**, **Essegi**, **ABM**, **California**, **Devis Sport**, **Admiral**, **Puma**, **Galex**, **Legea**, **Givova**, **Macron**, **Nike** ed **Erreà**.  
   👉 *Dossier dedicato:* [[05-identita-e-simboli/sponsor/index#1-cronistoria-dei-fornitori-tecnici-e-della-cultura-tessile|Cronistoria Completa dei Fornitori Tecnici (1979–Oggi)]].
 
-* **Gli Sponsor Pubblicitari di Maglia:** Con la delibera FIGC del **1981**, il Catania ha inaugurato una ricca tradizione di sponsorizzazioni commerciali, a partire dalla leggendaria intesa del 1982 con il colosso dolciario **Haribo** (promozione in Serie A con 40.000 tifosi a Roma), proseguendo con **S7 Supermercati**, **Pasta Poiatti**, **Proter**, **Jolly Componibili**, fino al quindicennio record con **SP Energia Siciliana** in Serie A (affiancata da **Wind Jet**, **TTT Lines**, **Fiorucci**) e all'attuale partnership con il marchio internazionale **Replay** e **SuperConveniente (Gruppo Arena)**.  
+* **Gli Sponsor Pubblicitari di Maglia:** Con la delibera FIGC del **1981**, il Catania ha inaugurato una ricca tradizione di sponsorizzazioni commerciali, a partire dalla leggendaria intesa del 1982 con il colosso dolciario **Haribo** (promozione in Serie A con 40.000 tifosi a Roma), proseguendo con **S7 Supermercati**, **Pasta Poiatti**, **Proter**, **[[08-settori-paralleli/women/index|Jolly Componibili]]**, fino al quindicennio record con **SP Energia Siciliana** in Serie A (affiancata da **Wind Jet**, **TTT Lines**, **Fiorucci**) e all'attuale partnership con il marchio internazionale **Replay** e **SuperConveniente (Gruppo Arena)**.  
   👉 *Dossier dedicato:* [[05-identita-e-simboli/sponsor/index#2-evoluzione-economica-degli-sponsor-commerciali-di-maglia|Evoluzione degli Sponsor Commerciali (1982–2026)]] e [[05-identita-e-simboli/sponsor/index#3-matrice-cronologica-integrata-sponsor-tecnici-e-commerciali-1979oggi|Matrice Integrata Fornitori e Sponsor]].
 
 ---

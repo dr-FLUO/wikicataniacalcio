@@ -30,7 +30,7 @@ aliases:
 
 # Gruppo Tattaresu (1993–2005)
 
-Intitolato alla figura carismatica e popolare di [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Pippo Tarraresu]] (Giuseppe Spampinato), il **Gruppo Tattaresu** ha incarnato per oltre un decennio l'anima folkloristica, verace e indomita del tifo di **Tribuna B (Gradinata)** allo Stadio Cibali, rappresentando il punto di congiunzione tra l'archetipo dell'ultrà e la passione rionale catanese.
+Intitolato alla figura carismatica e popolare di [[06-tifoseria-e-cultura/biografie/pippo-tarraresu|Pippo Tarraresu]] (Giuseppe Spampinato), il **Gruppo Tattaresu** ha incarnato per oltre un decennio l'anima folkloristica, verace e indomita del tifo di **Tribuna B (Gradinata)** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], rappresentando il punto di congiunzione tra l'archetipo dell'ultrà e la passione rionale catanese.
 
 ---
 
@@ -38,7 +38,7 @@ Intitolato alla figura carismatica e popolare di [[06-tifoseria-e-cultura/biogra
 
 La genesi del gruppo coincise con l'estate drammatica del **1993**, quando la FIGC di Antonio Matarrese decretò la revoca dell'affiliazione e la radiazione del Calcio Catania di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
-Pippo Tarraresu fu tra i protagonisti assoluti della mobilitazione cittadina a difesa della matricola 11700:
+Pippo Tarraresu fu tra i protagonisti assoluti della mobilitazione cittadina a difesa della [[01-societa/matricola-11700|matricola 11700]]:
 * Salì a Roma insieme a [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] per incatenarsi ai cancelli della sede federale di via Allegri.
 * Durante le giornate di blocco stradale e ferroviario a Catania, mantenne compatta la gradinata popolare.
 * Al momento della ripartenza dal Campionato Nazionale Dilettanti nel [[02-cronistoria/stagioni/1993-1994|1993-1994]], fondò formalmente il gruppo in Tribuna B per dare voce alla parte più viscerale dello stadio.

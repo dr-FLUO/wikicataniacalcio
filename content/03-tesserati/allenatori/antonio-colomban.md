@@ -84,7 +84,7 @@ aliases:
   </table>
 </div>
 
-**Antonio Colomban** (Farasina, Italia (Croazia), 1932 – 2020) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Antonio Colomban** (Farasina, Italia (Croazia), 1932 – 2020) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista

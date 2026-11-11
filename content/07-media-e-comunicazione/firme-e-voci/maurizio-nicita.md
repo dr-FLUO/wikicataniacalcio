@@ -65,7 +65,7 @@ L'apporto di Nicita è stato fondamentale nel documentare sulle pagine della *Ga
 
 Accanto alla cronaca di campo, Nicita si è distinto per la puntualità nel trattare i risvolti economici e societari:
 
-* Ha analizzato l'avanguardia del centro sportivo di Torre del Grifo Village come modello infrastrutturale, per poi documentare con rigore doloroso le traversie giudiziarie del 2015 e il fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]].
+* Ha analizzato l'avanguardia del centro sportivo di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]] come modello infrastrutturale, per poi documentare con rigore doloroso le traversie giudiziarie del 2015 e il fallimento del [[02-cronistoria/stagioni/2021-2022|2021-2022]].
 * Autore del volume saggistico ***Pelle di leopardo: storie e leggende di sport e vita*** (Bradipolibri, 2012) e opinionista frequente per emittenti radiofoniche e televisive nazionali (Rai Sport, Radio 24, Sky Sport), Nicita continua a rappresentare una voce critica e autorevole sulla rinascita e l'evoluzione del Catania FC.
 
 ---

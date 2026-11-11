@@ -49,7 +49,7 @@ Assegnata nell'autunno del 1946 all'atto della fusione tra la *Società Sportiva
 
 ## Epilogo Giudiziario e Continuità dei Beni Immateriali
 
-Il 22 dicembre 2021 la Sezione Fallimentare del Tribunale di Catania ha dichiarato il fallimento del *Calcio Catania S.p.A.*, disponendo l'esercizio provvisorio fino al 9 aprile 2022, data in cui la FIGC ha deliberato la revoca definitiva dell'affiliazione e lo svincolo dei tesserati.
+Il 22 dicembre 2021 la Sezione Fallimentare del Tribunale di Catania ha dichiarato il fallimento del *[[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]]*, disponendo l'esercizio provvisorio fino al 9 aprile 2022, data in cui la FIGC ha deliberato la revoca definitiva dell'affiliazione e lo svincolo dei tesserati.
 
 Nel luglio 2022, con la nascita del gruppo guidato da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il nuovo sodalizio **Catania Football Club** ha rilevato all'asta fallimentare i diritti di utilizzo del marchio storico, dei simboli, della denominazione e del patrimonio archivistico della matricola 11700, assicurando la piena continuità morale e identitaria tra la tradizione del 1946 e l'era contemporanea.
 

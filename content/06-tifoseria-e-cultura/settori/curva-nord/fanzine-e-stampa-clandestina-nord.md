@@ -40,7 +40,7 @@ aliases:
 
 # Fanzine e Stampa Clandestina della Curva Nord
 
-La cultura della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello Stadio Angelo Massimino si è storicamente distinta non soltanto per la potenza vocale e la monumentalità coreografica, ma anche per una ricca, continuativa e appassionata **produzione editoriale cartacea e autoprodotta**.
+La cultura della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] si è storicamente distinta non soltanto per la potenza vocale e la monumentalità coreografica, ma anche per una ricca, continuativa e appassionata **produzione editoriale cartacea e autoprodotta**.
 
 Fogli volanti ciclostilati, numeri unici, giornaletti clandestini e fanzine periodiche hanno costituito per decenni lo strumento primario di controinformazione, approfondimento e trasmissione etica per intere generazioni di gradinata.
 
@@ -48,7 +48,7 @@ Fogli volanti ciclostilati, numeri unici, giornaletti clandestini e fanzine peri
 
 ## 1. La Nascita del Periodico "A Sostegno di una Fede" (1994)
 
-All'indomani della radiazione societaria del 1993 e della nascita del gruppo guida [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], il direttivo coordinato da Michele Spampinato e Luigi Pulvirenti comprese l'esigenza di dotarsi di un organo di stampa autonomo:
+All'indomani della radiazione societaria del 1993 e della nascita del gruppo guida [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], il direttivo coordinato da [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] e Luigi Pulvirenti comprese l'esigenza di dotarsi di un organo di stampa autonomo:
 - Nel **1994** vide la luce il primo numero della fanzine omonima, stampata artigianalmente in fotocopia e spillata a mano nei garage di via Belfiore.
 - Il periodico veniva distribuito a offerta libera ai cancelli della Nord e nei bar di quartiere prima di ogni partita interna al Cibali.
 - I contenuti spaziavano dagli editoriali di critica intransigente verso il calcio moderno e le istituzioni calcistiche nazionali (FIGC e Lega) alle cronache dettagliate delle trasferte, fino ai commenti sulle dinamiche del movimento ultras nazionale ed estero.

@@ -53,16 +53,16 @@ La formazione di Teghini matura nella fucina dei quotidiani etnei:
 
 ## 2. Il Venticinquennio ad Antenna Sicilia: Il Regno di "Salastampa" (1994–2016)
 
-Assunto nel 1994 dall'emittente regionale ammiraglia [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] (redattore fino al 2008, poi vice caposervizio dal 2008 al 2016), Teghini raccoglie il testimone della conduzione di ***Salastampa***:
+Assunto nel 1994 dall'emittente regionale ammiraglia [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]] (redattore fino al 2008, poi vice caposervizio dal 2008 al 2016), Teghini raccoglie il testimone della conduzione di ***[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]***:
 
-* Per **ventidue stagioni consecutive** (1994–2016), condivise in studio con la collega Lucy Gullotta, trasforma *Salastampa* nel più autorevole e seguito talk show calcistico del Mezzogiorno, ospitando dirigenti, campioni internazionali e presidenti (da Angelo Massimino a Luciano Gaucci e Antonino Pulvirenti).
+* Per **ventidue stagioni consecutive** (1994–2016), condivise in studio con la collega Lucy Gullotta, trasforma *Salastampa* nel più autorevole e seguito talk show calcistico del Mezzogiorno, ospitando dirigenti, campioni internazionali e presidenti (da [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] a [[01-societa/presidenti/luciano-gaucci|Luciano Gaucci]] e [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]]).
 * Cura e conduce format di grandissimo successo collaterali: *Sabato Sport*, *Fast Time*, *Tweeter* e la fortunata rubrica storiografica *Frammenti di Storia*, oltre a condurre le edizioni di punta del TG Sicilia e gli speciali per le festività agatine e le emergenze etnee.
 
 ---
 
 ## 3. La Direzione di Ultima TV, l'Insegnamento e SicraPress (2016–2026)
 
-Nel 2016, dopo aver ricoperto il ruolo di vice caposervizio a *La Sicilia* (2015–2016), accetta la sfida della fondazione della nuova emittente regionale *Ultima TV*, ricoprendo contestualmente gli incarichi di **direttore responsabile delle news, direttore di rete e direttore artistico** fino al giugno 2017.
+Nel 2016, dopo aver ricoperto il ruolo di vice caposervizio a *La Sicilia* ([[02-cronistoria/stagioni/2015-2016|2015–2016]]), accetta la sfida della fondazione della nuova emittente regionale *Ultima TV*, ricoprendo contestualmente gli incarichi di **direttore responsabile delle news, direttore di rete e direttore artistico** fino al giugno 2017.
 
 Negli anni successivi consolida la sua attività poliedrica:
 * **Docente Universitario**: Dal novembre 2017 insegna Diritto dello Sport presso la Link Campus University di Catania.

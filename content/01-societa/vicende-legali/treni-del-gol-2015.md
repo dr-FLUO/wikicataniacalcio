@@ -106,7 +106,7 @@ Il **29 giugno 2015**, nel corso dell'interrogatorio di garanzia dinanzi al GIP 
 | Soggetto Sanzionato | Ruolo e Qualifica | Sanzione Principale (Inibizione / Declassamento) | Ammenda Pecuniaria | Preclusione (Radiazione FIGC) |
 | :--- | :--- | :--- | :---: | :---: |
 | **[[01-societa/epoche/2004-era-pulvirenti\|Calcio Catania S.p.A.]]** | Società (Resp. diretta ex artt. 4 e 7 C.G.S.) | **Ultimo posto Serie B 2014-2015 (Retrocessione in Lega Pro)** + **9 punti di penalizzazione** (12 in 1º grado) nel [[02-cronistoria/stagioni/2015-2016\|2015-2016]] | **150.000 €** | — |
-| **[[01-societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]** | Presidente C.d.A. Calcio Catania S.p.A. | **5 anni di inibizione** | **300.000 €** | No (attenuante collaborazione ex art. 24 C.G.S.) |
+| **[[01-societa/presidenti/antonino-pulvirenti\|Antonino Pulvirenti]]** | Presidente C.d.A. [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] | **5 anni di inibizione** | **300.000 €** | No (attenuante collaborazione ex art. 24 C.G.S.) |
 | **Pablo Gustavo Cosentino** | Amministratore Delegato Calcio Catania S.p.A. | **4 anni di inibizione** | **50.000 €** | No |
 | **Daniele Delli Carri** | Ex Direttore Sportivo Calcio Catania S.p.A. | **4 anni di inibizione** | **30.000 €** | No |
 | **Piero Di Luzio** | Tesserato / Intermediario | **5 anni di inibizione** | **150.000 €** | **Sì (Preclusione)** |

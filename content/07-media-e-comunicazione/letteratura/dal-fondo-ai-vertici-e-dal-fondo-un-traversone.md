@@ -37,7 +37,7 @@ aliases:
 
 # Dal fondo... ai vertici (1958) e Dal fondo un traversone (2004): Le Opere Pioniere di Gennaro e Prestinenza
 
-Nel panorama editoriale sportivo siciliano, la coppia di volumi costituita da ***Dal fondo... ai vertici (1908-1958)*** e dalla sua continuazione naturale ***Dal fondo un traversone*** (2003–2004), firmati dai decani del giornalismo etneo [[07-media-e-comunicazione/firme-e-voci/carmelo-gennaro|Carmelo Gennaro]] e [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]], occupa un posto d'onore assoluto: rappresentano rispettivamente **la prima monografia storica organica mai pubblicata sul Calcio Catania** e la più autorevole testimonianza cronachistica di prima mano del Novecento calcistico all'ombra dell'Etna.
+Nel panorama editoriale sportivo siciliano, la coppia di volumi costituita da ***Dal fondo... ai vertici (1908-1958)*** e dalla sua continuazione naturale ***Dal fondo un traversone*** ([[02-cronistoria/stagioni/2003-2004|2003–2004]]), firmati dai decani del giornalismo etneo [[07-media-e-comunicazione/firme-e-voci/carmelo-gennaro|Carmelo Gennaro]] e [[07-media-e-comunicazione/firme-e-voci/luigi-prestinenza|Luigi Prestinenza]], occupa un posto d'onore assoluto: rappresentano rispettivamente **la prima monografia storica organica mai pubblicata sul Calcio Catania** e la più autorevole testimonianza cronachistica di prima mano del Novecento calcistico all'ombra dell'Etna.
 
 ---
 
@@ -46,7 +46,7 @@ Nel panorama editoriale sportivo siciliano, la coppia di volumi costituita da **
 Dato alle stampe nel **1958** dalle Industrie Grafiche Siciliane di Catania in occasione del cinquantenario del pionierismo calcistico cittadino (1908–1958):
 
 * **La Ricostruzione delle Origini**: Il volume inaugurò la tradizione storiografica rossazzurra, traendo dall'oblio i primi calci al pallone tirati nel piazzale San Giuliano dai marinai inglesi e dai pionieri della *Pro Patria 1908* (Gaetano Ventimiglia, Alberto Pappalardo, Ruggero Albanese), passando per la fusione del 1910 con l'*Unione Sportiva Catanese*.
-* **La Fondazione del 1929 e l'Era Kertész**: Gennaro e Prestinenza documentarono con verbali e testimonianze dirette la nascita della *Società Sportiva Catania* nel 1929, la scelta dei colori sociali rosso e azzurro e la prima storica promozione in Serie B del 1934 guidata dal tecnico ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]].
+* **La Fondazione del 1929 e l'Era Kertész**: Gennaro e Prestinenza documentarono con verbali e testimonianze dirette la nascita della *[[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]* nel 1929, la scelta dei colori sociali rosso e azzurro e la prima storica promozione in Serie B del 1934 guidata dal tecnico ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]].
 * **La Prima Serie A ([[02-cronistoria/stagioni/1953-1954|1953-1954]])**: Il culmine dell'opera è rappresentato dalla narrazione vibrante della cavalcata trionfale della stagione 1953-1954, conclusa con la conquista della massima serie e la festa di piazza Duomo, immortalando le gesta di campioni quali [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]], [[03-tesserati/calciatori/archivio/m-o/michele-manenti|Michele Manenti]] e [[03-tesserati/calciatori/archivio/g-l/karl-aage-hansen|Karl Aage Hansen]] sotto la presidenza di Arturo Michisanti.
 
 ---
@@ -55,7 +55,7 @@ Dato alle stampe nel **1958** dalle Industrie Grafiche Siciliane di Catania in o
 
 A distanza di quarantacinque anni dalla prima opera, il progetto storiografico venne ripreso e notevolmente espanso nel volume ***Dal fondo un traversone*** (edito nel 2003 da Bonanno Editore e ristampato nel 2004 da A&B Editrice):
 
-* **Gli Anni d'Oro della Serie A (1960–1966)**: Il libro descrive dall'interno il ciclo di Ignazio Marcoccio e dell'allenatore [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], la celebre vittoria per 2-0 contro l'Inter di Herrera del 4 giugno 1961 ("[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]") e le tre memorabili stagioni concluse all'ottavo posto in Serie A.
+* **Gli Anni d'Oro della Serie A (1960–1966)**: Il libro descrive dall'interno il ciclo di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e dell'allenatore [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], la celebre vittoria per 2-0 contro l'Inter di Herrera del 4 giugno 1961 ("[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]") e le tre memorabili stagioni concluse all'ottavo posto in Serie A.
 * **I Venticinque Anni di Angelo Massimino**: Ampio spazio è dedicato alla figura monumentale del Cavaliere [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], patron ininterrotto tra il 1969 e il 1996: le promozioni del 1970 e del 1983, l'acquisto degli assi brasiliani Pedrinho e Luvanor, la drammatica cancellazione federale del 1993 con la ripartenza dall'Eccellenza e la prematura scomparsa in un incidente stradale nel marzo 1996.
 * **La Risalita con la Famiglia Gaucci**: Il volume si chiude con il riscatto degli anni Duemila: il ritorno in Serie B nel 2002 dopo lo spareggio di Taranto e la normalizzazione societaria.
 

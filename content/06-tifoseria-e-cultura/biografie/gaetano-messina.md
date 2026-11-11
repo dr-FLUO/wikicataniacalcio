@@ -55,8 +55,8 @@ Nel **1999**, durante la fase di rinascita agonistica del Catania coincisa con i
 
 ## 2. La Linea No-Tessera del 2015
 
-Nell'estate del 2015, di fronte alla crisi giudiziaria dei *Treni del Gol* e all'obbligo governativo della Tessera del Tifoso:
-- Gaetano Messina mantenne una posizione inflessibile di tutela dei valori tradizionali della cultura ultras, schierando compattamente *I Pazzi* al fianco di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *Nord Kaos* nel rifiuto della fidelizzazione forzata.
+Nell'estate del 2015, di fronte alla crisi giudiziaria dei *[[01-societa/vicende-legali/treni-del-gol-2015|Treni del Gol]]* e all'obbligo governativo della Tessera del Tifoso:
+- Gaetano Messina mantenne una posizione inflessibile di tutela dei valori tradizionali della cultura ultras, schierando compattamente *I Pazzi* al fianco di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]] e *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]* nel rifiuto della fidelizzazione forzata.
 - Nonostante le forti limitazioni alla libertà di movimento e le diffide che colpirono a più riprese i gradoni, la sua guida garantì la sopravvivenza e la compattezza del gruppo anche all'esterno degli stadi e nelle partite a vendita libera.
 
 ---

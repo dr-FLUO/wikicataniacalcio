@@ -39,7 +39,7 @@ aliases:
 
 # Derby di Sicilia (Precedenti Catania - Palermo)
 
-Il **Derby di Sicilia** tra il **Calcio Catania** e il **Palermo** costituisce il principale e più sentito confronto calcistico dell'isola, espressione di un dualismo storico, economico, culturale e territoriale tra i due poli metropolitani della Sicilia orientale e occidentale (approfondito sotto il profilo sociologico nel nodo [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Rivalità Storica Catania-Palermo]]).
+Il **[[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia|Derby di Sicilia]]** tra il **Calcio Catania** e il **Palermo** costituisce il principale e più sentito confronto calcistico dell'isola, espressione di un dualismo storico, economico, culturale e territoriale tra i due poli metropolitani della Sicilia orientale e occidentale (approfondito sotto il profilo sociologico nel nodo [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Rivalità Storica Catania-Palermo]]).
 
 Disputato per la prima volta in gara ufficiale il **1º novembre 1936** in Coppa Italia (vittoria etnea per 1-0 all'allora [[04-strutture/campi-storici/index|Campo di Piazza Esposizione]]) e affrontato in **Serie A**, **Serie B**, **Serie C** e **Coppa Italia** per oltre **85 incontri ufficiali**, il confronto ha vissuto il suo apice tecnico e mediatico nel decennio d'oro dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]] (2006–2013), quando le due compagini siciliane si sono sfidate stabilmente in massima serie.
 
@@ -52,7 +52,7 @@ Disputato per la prima volta in gara ufficiale il **1º novembre 1936** in Coppa
 
 ## Approfondimento: Palermo - Catania 0-4 (1º Marzo 2009)
 
-La 26ª giornata della Serie A 2008-2009 (domenica **1º marzo 2009**, ore 15:00) resta la partita simbolo della supremazia rossazzurra in casa dei rivali. In uno Stadio "Renzo Barbera" vietato ai tifosi ospiti dall'Osservatorio, il Catania di **Walter Zenga** (schierato con un aggressivo 4-1-3-2) travolse il Palermo di Davide Ballardini fin dai primi minuti:
+La 26ª giornata della Serie A [[02-cronistoria/stagioni/2008-2009|2008-2009]] (domenica **1º marzo 2009**, ore 15:00) resta la partita simbolo della supremazia rossazzurra in casa dei rivali. In uno Stadio "Renzo Barbera" vietato ai tifosi ospiti dall'Osservatorio, il Catania di **Walter Zenga** (schierato con un aggressivo 4-1-3-2) travolse il Palermo di Davide Ballardini fin dai primi minuti:
 
 1. **14' p.t. (0-1, Ledesma):** Cross calibrato dalla sinistra di Giovanni Marchese / Capuano e inserimento di testa di **Pablo Ledesma** che batte Marco Amelia. Due minuti dopo (16'), il rosanero Mark Bresciano viene espulso dall'arbitro Roberto Rosetti per un fallo di reazione su [[03-tesserati/calciatori/archivio/s-z/takayuki-morimoto|Takayuki Morimoto]].
 2. **37' p.t. (0-2, Morimoto):** Azione personale travolgente dell'attaccante giapponese **Takayuki Morimoto**, che penetra in area e fulmina Amelia sul primo palo.
@@ -75,14 +75,14 @@ La 26ª giornata della Serie A 2008-2009 (domenica **1º marzo 2009**, ore 15:00
 
 | Data | Competizione | Incontro | Risultato | Marcatori Rossazzurri e Note Storiche |
 | :--- | :--- | :--- | :---: | :--- |
-| **1º novembre 1936** | Coppa Italia 1936-1937 | **Catania - Palermo** | **1-0** | Primo derby ufficiale assoluto (disputato a [[04-strutture/campi-storici/index\|Piazza Esposizione]]). |
-| **3 dicembre 1961** | Serie A 1961-1962 | **Catania - Palermo** | **0-0** | Primo confronto nella massima serie a girone unico sotto la guida di [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
-| **2 febbraio 2007** | Serie A 2006-2007 | **Catania - Palermo** | **1-2** | Rete etnea di Caserta; gara segnata dai tragici scontri esterni e dal [[01-societa/vicende-legali/decreto-2-febbraio-2007\|Decreto-Legge 8/2007]]. |
-| **2 dicembre 2007** | Serie A 2007-2008 | **Catania - Palermo** | **3-1** | Reti di [[03-tesserati/calciatori/storici/giuseppe-mascara\|Mascara]], [[03-tesserati/calciatori/storici/gionatha-spinesi\|Spinesi]] (rig.) e [[03-tesserati/calciatori/storici/jorge-martinez\|Jorge Martínez]]. |
+| **1º novembre 1936** | Coppa Italia [[02-cronistoria/stagioni/1936-1937\|1936-1937]] | **Catania - Palermo** | **1-0** | Primo derby ufficiale assoluto (disputato a [[04-strutture/campi-storici/index\|Piazza Esposizione]]). |
+| **3 dicembre 1961** | Serie A [[02-cronistoria/stagioni/1961-1962\|1961-1962]] | **Catania - Palermo** | **0-0** | Primo confronto nella massima serie a girone unico sotto la guida di [[03-tesserati/allenatori/carmelo-di-bella\|Carmelo Di Bella]]. |
+| **[[06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti\|2 febbraio 2007]]** | Serie A [[02-cronistoria/stagioni/2006-2007\|2006-2007]] | **Catania - Palermo** | **1-2** | Rete etnea di Caserta; gara segnata dai tragici scontri esterni e dal [[01-societa/vicende-legali/decreto-2-febbraio-2007\|Decreto-Legge 8/2007]]. |
+| **2 dicembre 2007** | Serie A [[02-cronistoria/stagioni/2007-2008\|2007-2008]] | **Catania - Palermo** | **3-1** | Reti di [[03-tesserati/calciatori/storici/giuseppe-mascara\|Mascara]], [[03-tesserati/calciatori/storici/gionatha-spinesi\|Spinesi]] (rig.) e [[03-tesserati/calciatori/storici/jorge-martinez\|Jorge Martínez]]. |
 | **1º marzo 2009** | Serie A 2008-2009 | **Palermo - Catania** | **0-4** | [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4\|Ledesma, Morimoto, Mascara (da 50m) e Paolucci]]. |
-| **3 aprile 2011** | Serie A 2010-2011 | **Catania - Palermo** | **4-0** | [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0\|Aut. Balzaretti, Bergessio, Ledesma, Pesce (All. Diego Simeone)]]. |
+| **3 aprile 2011** | Serie A [[02-cronistoria/stagioni/2010-2011\|2010-2011]] | **Catania - Palermo** | **4-0** | [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0\|Aut. Balzaretti, Bergessio, Ledesma, Pesce (All. Diego Simeone)]]. |
 | **18 dicembre 2011** | Serie A [[02-cronistoria/stagioni/2011-2012\|2011-2012]] | **Catania - Palermo** | **2-0** | Reti di [[03-tesserati/calciatori/storici/francesco-lodi\|Francesco Lodi]] su punizione e [[03-tesserati/calciatori/archivio/m-o/maxi-lopez\|Maxi López]] su rigore (All. [[03-tesserati/allenatori/vincenzo-montella\|Vincenzo Montella]]). |
-| **3 marzo 2021** | Serie C 2020-2021 | **Catania - Palermo** | **0-1** | e vittoria etnea all'andata a Catania nel dicembre 2021 (**2-0** con doppietta di Luca Moro prima dell'esclusione del [[02-cronistoria/stagioni/2021-2022\|2021-2022]]). |
+| **3 marzo 2021** | Serie C [[02-cronistoria/stagioni/2020-2021\|2020-2021]] | **Catania - Palermo** | **0-1** | e vittoria etnea all'andata a Catania nel dicembre 2021 (**2-0** con doppietta di [[03-tesserati/calciatori/archivio/g-l/luca-moro\|Luca Moro]] prima dell'esclusione del [[02-cronistoria/stagioni/2021-2022\|2021-2022]]). |
 
 ---
 

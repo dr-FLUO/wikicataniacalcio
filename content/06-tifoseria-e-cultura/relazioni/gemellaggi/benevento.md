@@ -46,8 +46,8 @@ Il rapporto che lega la tifoseria del Catania a quella del **Benevento** rappres
 ## 2. Solidarietà nei Momenti di Lutto
 
 La profondità del legame si è manifestata in maniera toccante nei momenti più difficili vissuti dalle due comunità:
-- Nel febbraio 2017, in occasione della scomparsa dello storico capo degli ultras catanesi [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la Curva Sud di Benevento ha esposto striscioni di profondo cordoglio e rispetto per onorare il leader etneo.
-- Analoghi attestati di vicinanza sono stati puntualmente tributati dalla Curva Nord e dalla Curva Sud di Catania nei confronti di militanti sanniti prematuramente scomparsi.
+- Nel febbraio 2017, in occasione della scomparsa dello storico capo degli ultras catanesi [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] di Benevento ha esposto striscioni di profondo cordoglio e rispetto per onorare il leader etneo.
+- Analoghi attestati di vicinanza sono stati puntualmente tributati dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e dalla Curva Sud di Catania nei confronti di militanti sanniti prematuramente scomparsi.
 
 ---
 

@@ -55,7 +55,7 @@ I rapporti tra le due tifoserie si deteriorarono in modo irreversibile sul finir
 
 Tra il 2015 e il 2024, gli incroci nei campionati di Serie C e nei tabelloni playoff hanno riacceso la miccia dello scontro:
 - **Allo Zaccheria:** Le carovane dei tifosi etnei sono state a più riprese bersaglio di sassi e petardi nei pressi di viale Ofanto, con conseguenti cariche di alleggerimento della polizia e lacrimogeni sparati per disperdere i contendenti.
-- **Al Massimino:** I sostenitori rossoneri sono stati accolti regolarmente da fischiate assordanti, fitti lanci di oggetti verso il settore ospiti e striscioni polemici esposti in Curva Nord e Sud.
+- **Al Massimino:** I sostenitori rossoneri sono stati accolti regolarmente da fischiate assordanti, fitti lanci di oggetti verso il settore ospiti e striscioni polemici esposti in [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e Sud.
 
 ---
 

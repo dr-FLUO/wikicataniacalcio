@@ -42,11 +42,11 @@ aliases:
 
 
 
-***Cinquanta volti per il Cibali*** è un'opera d'arte pubblica monumentale realizzata dall'artista etneo **Andrea Marusic** tra il 2017 e il 2018 sulle mura esterne dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] di Catania, lungo la cinta perimetrale tra la Curva Sud e la Tribuna B (via Cifali). Con i suoi oltre 210 metri lineari di superficie pittorica, rappresenta il murale continuo a tema sportivo unico più lungo d'Italia.
+***Cinquanta volti per il Cibali*** è un'opera d'arte pubblica monumentale realizzata dall'artista etneo **Andrea Marusic** tra il 2017 e il 2018 sulle mura esterne dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] di Catania, lungo la cinta perimetrale tra la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] e la [[06-tifoseria-e-cultura/settori/tribuna-b/index|Tribuna B]] (via Cifali). Con i suoi oltre 210 metri lineari di superficie pittorica, rappresenta il murale continuo a tema sportivo unico più lungo d'Italia.
 
 ## Genesi del Progetto e Realizzazione Artistica
 
-Il progetto nacque dalla sinergia tra la redazione giornalistica di *Tutto il Catania minuto per minuto*, le istituzioni civiche del Comune di Catania, l'emittente culturale *Radio Lab* e una cordata di sponsor privati (con il contributo determinante della CMC di Ravenna per 16.500 euro). L'obiettivo primario fu riqualificare il perimetro esterno del vecchio Cibali, trasformando una grigia recinzione urbana in un tempio a cielo aperto della memoria collettiva etnea.
+Il progetto nacque dalla sinergia tra la redazione giornalistica di *[[07-media-e-comunicazione/letteratura/tutto-il-catania-minuto-per-minuto|Tutto il Catania minuto per minuto]]*, le istituzioni civiche del Comune di Catania, l'emittente culturale *Radio Lab* e una cordata di sponsor privati (con il contributo determinante della CMC di Ravenna per 16.500 euro). L'obiettivo primario fu riqualificare il perimetro esterno del vecchio Cibali, trasformando una grigia recinzione urbana in un tempio a cielo aperto della memoria collettiva etnea.
 
 I cinquanta volti raffigurati furono selezionati attraverso un accurato vaglio storiografico e un sondaggio popolare tra i tifosi rossazzurri, coprendo l'intero arco temporale dal 1929 all'epoca contemporanea: pionieri fondatori, presidenti storici, allenatori leggendari, bomber immortali, capitani simbolo e figure del folklore popolare etneo.
 
@@ -54,15 +54,15 @@ I cinquanta volti raffigurati furono selezionati attraverso un accurato vaglio s
 
 I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cronologica rigorosa:
 
-1. **Santi Quasimodo** — Primo presidente della Società Sportiva Catania (1929).
+1. **[[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]]** — Primo presidente della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] (1929).
 2. **Attilio Mattei** — Capitano e trascinatore della prima promozione in Serie B (1934).
 3. **[[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]]** — *Motorino*, recordman di gol del Catania prebellico (78 reti totali).
 4. **[[03-tesserati/allenatori/geza-kertesz|Géza Kertész]]** — Maestro danubiano della panchina, artefice della Serie B 1934, eroe martire antinazista.
 5. **[[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]]** — Ala e capitano coraggioso degli anni Trenta.
 6. **[[03-tesserati/allenatori/mario-sernagiotto|Mario Sernagiotto]]** — Centrocampista italo-brasiliano di caratura internazionale.
 7. **[[03-tesserati/calciatori/storici/mario-miltone|Mario Miltone]]** — Bandiera e colonna difensiva degli anni Quaranta.
-8. **Santi Passanisi** — Dirigente e presidente del Club Calcio Catania nel dopoguerra.
-9. **Ignazio Marcoccio** — Storico presidente dell'era d'oro degli anni Sessanta e commissario straordinario.
+8. **Santi Passanisi** — Dirigente e presidente del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nel dopoguerra.
+9. **[[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]]** — Storico presidente dell'era d'oro degli anni Sessanta e commissario straordinario.
 10. **[[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]** — L'allenatore più presente nella storia rossazzurra (Serie A 1960-1966).
 11. **Gino Borgo** — Portiere e idolo della rinascita post-bellica del 1946.
 12. **[[03-tesserati/calciatori/archivio/a-c/armando-perrone|Armando Perrone]]** — Terzino metodico e rigoroso del primo dopoguerra.
@@ -77,11 +77,11 @@ I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cron
 21. **[[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]]** — Terzino capitano e colonna inamovibile per un decennio.
 22. **Salvatore Calvanese** — Ala argentina, match winner contro l'Inter di Herrera nel 1961.
 23. **[[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]]** — Campione del mondo tedesco, fuoriclasse del centrocampo rossazzurro.
-24. **Cinesinho** — Virtuoso fantasista brasiliano, idolo incontrastato della platea etnea.
+24. **[[03-tesserati/calciatori/storici/sidney-cunha-cinesinho|Cinesinho]]** — Virtuoso fantasista brasiliano, idolo incontrastato della platea etnea.
 25. **Angelo Massimino** — Il *Presidentissimo*, 27 anni alla guida del club, costruttore di epopee eterne.
 26. **[[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]]** — Il *Sor Guido*, demiurgo tattico delle promozioni del 1970 e 1975.
 27. **[[03-tesserati/calciatori/archivio/a-c/aquilino-bonfanti|Aquilino Bonfanti]]** — Capocannoniere della Serie B [[02-cronistoria/stagioni/1969-1970|1969-1970]] con 13 reti.
-28. **Rino Rado** — Portiere dell'imbattibilità casalinga e della Serie A 1970.
+28. **[[03-tesserati/calciatori/archivio/p-r/rino-rado|Rino Rado]]** — Portiere dell'imbattibilità casalinga e della Serie A 1970.
 29. **[[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]]** — Recordman assoluto di presenze nella storia del Catania (320 partite).
 30. **[[03-tesserati/calciatori/storici/angelo-pereni|Angelo Pereni]]** — Centrocampista e capitano di esemplare lealtà sportiva.
 31. **[[03-tesserati/calciatori/archivio/s-z/zelico-petrovic|Zelico Petrovic]]** — Mediano generoso ed energico degli anni Settanta.
@@ -93,7 +93,7 @@ I personaggi sono disposti lungo il muro perimetrale seguendo una scansione cron
 37. **[[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]]** — Portiere e capitano carismatico della Serie A [[02-cronistoria/stagioni/1983-1984|1983-1984]].
 38. **[[03-tesserati/calciatori/archivio/g-l/loriano-cipriani|Loriano Cipriani]]** — Terzino di spinta e capitano indomito degli anni Ottanta.
 39. **Franco Ghiandi** — Storico massaggiatore, memoria vivente degli spogliatoi per decenni.
-40. **Ciccio Famoso** — *Il Patriarca*, pioniere e fondatore della Falange d'Assalto (1979) e della Curva Nord.
+40. **Ciccio Famoso** — *Il Patriarca*, pioniere e fondatore della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] (1979) e della Curva Nord.
 41. **[[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]]** — Portiere e maestro di stile della Serie A anni Sessanta.
 42. **[[03-tesserati/calciatori/archivio/s-z/vincenzo-del-vecchio|Vincenzo Del Vecchio]]** — Attaccante generoso degli anni Cinquanta.
 43. **[[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]]** — *Il Gabbiano*, 49 reti tra Serie B e Serie A nell'era Marino.

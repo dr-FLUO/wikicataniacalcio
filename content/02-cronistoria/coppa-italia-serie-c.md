@@ -40,7 +40,7 @@ La **Coppa Italia Serie C** (nota in passato come *Coppa Italia Semiprofessionis
 
 ## 1. Dalla Finale Amara del 1999 al Riscatto Storico
 
-Prima della storica affermazione del 2024, il Catania aveva sfiorato il trofeo in una sola occasione: nella stagione **1998-1999** (allora Serie C2), quando la compagine guidata da [[03-tesserati/allenatori/piero-cucchi|Piero Cucchi]] approdò alla doppia finale contro la blasonata **Alzano Virescit** di Claudio Foscarini (futura rivelazione promossa in Serie B). Dopo un pareggio interno al Cibali (2-2), gli etnei vennero superati per 1-0 nella gara di ritorno in Lombardia.
+Prima della storica affermazione del 2024, il Catania aveva sfiorato il trofeo in una sola occasione: nella stagione **[[02-cronistoria/stagioni/1998-1999|1998-1999]]** (allora Serie C2), quando la compagine guidata da [[03-tesserati/allenatori/piero-cucchi|Piero Cucchi]] approdò alla doppia finale contro la blasonata **Alzano Virescit** di Claudio Foscarini (futura rivelazione promossa in Serie B). Dopo un pareggio interno al Cibali (2-2), gli etnei vennero superati per 1-0 nella gara di ritorno in Lombardia.
 
 Venticinque anni più tardi, nell'anno del rilancio tra i professionisti della presidenza di **[[01-societa/presidenti/ross-pelligra|Ross Pelligra]]**, la coppa ha rappresentato non solo un titolo prestigioso da esibire in bacheca e da apporre sulle casacche della stagione successiva, ma anche la chiave d'accesso diretto alla fase nazionale dei play-off promozione.
 

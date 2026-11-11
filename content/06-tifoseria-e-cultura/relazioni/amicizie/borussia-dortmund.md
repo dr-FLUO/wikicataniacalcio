@@ -45,7 +45,7 @@ La proiezione europea del movimento ultras catanese si esprime attraverso due co
 ## 1. Diplomazia Ultras con il "Muro Giallo"
 
 Nonostante il Catania non abbia mai incrociato il Borussia Dortmund in gare ufficiali UEFA, la stima nata durante raduni internazionali e la mediazione dell'asse con [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]] hanno cementato un'amicizia indissolubile con il leggendario *Muro Giallo* del Westfalenstadion:
-- Decine di viaggi reciproci hanno visto drappi e sciarpe rossazzurre campeggiare in Bundesliga e in Champions League a Dortmund, così come striscioni gialloneri dei Desperados sono stati esposti al Massimino sia in Curva Nord che in Curva Sud.
+- Decine di viaggi reciproci hanno visto drappi e sciarpe rossazzurre campeggiare in Bundesliga e in Champions League a Dortmund, così come striscioni gialloneri dei Desperados sono stati esposti al Massimino sia in [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] che in Curva Sud.
 - Nel febbraio 2017, la Südtribüne di Dortmund ha onorato la memoria di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] con cori e striscioni in italiano, confermando l'universalità della figura del leader etneo.
 
 ---

@@ -34,7 +34,7 @@ aliases:
 
 # I Decisi Curva Nord (Anni Novanta)
 
-**I Decisi** hanno rappresentato negli anni Novanta una delle formazioni più temute e conflittuali della **Curva Nord** dello Stadio Cibali. Sorti a metà del decennio da una traumatica scissione interna alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], il gruppo ha incarnato l'ala più intransigente e battagliera del movimento giovanile etneo.
+**I Decisi** hanno rappresentato negli anni Novanta una delle formazioni più temute e conflittuali della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** dello Stadio Cibali. Sorti a metà del decennio da una traumatica scissione interna alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], il gruppo ha incarnato l'ala più intransigente e battagliera del movimento giovanile etneo.
 
 ---
 

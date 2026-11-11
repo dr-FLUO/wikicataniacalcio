@@ -79,7 +79,7 @@ aliases:
   </table>
 </div>
 
-**Pietro Colombati** (Torino, Italia, 1897) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1936-1938**, legando il proprio nome alla storia societaria di Società Sportiva Catania / AFC Catania (1929-1943).
+**Pietro Colombati** (Torino, Italia, 1897) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1936-1938**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore

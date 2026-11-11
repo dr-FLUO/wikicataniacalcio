@@ -49,7 +49,7 @@ aliases:
 
 **Catania Curva Nord**, universalmente identificato attraverso la sigla **CCN**, è il **gruppo reggente** e l'organismo direttivo unitario che coordina, guida e rappresenta la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]].
 
-Nato come evoluzione e sintesi delle componenti storiche del settore settentrionale all'indomani del fallimento del Calcio Catania S.p.A. nel 2022 e della ripartenza societaria in Serie D, il CCN incarna il punto d'incontro tra l'ortodossia ultras classica e la rete capillare dei clan territoriali cittadini.
+Nato come evoluzione e sintesi delle componenti storiche del settore settentrionale all'indomani del fallimento del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel 2022 e della ripartenza societaria in Serie D, il CCN incarna il punto d'incontro tra l'ortodossia ultras classica e la rete capillare dei clan territoriali cittadini.
 
 ---
 
@@ -57,8 +57,8 @@ Nato come evoluzione e sintesi delle componenti storiche del settore settentrion
 
 La linea di successione della guida della Curva Nord riflette i grandi passaggi epocali del tifo etneo:
 1. **L'Epoca del Gruppo Guida (1993–2016):** Per oltre un ventennio la gradinata nord è stata diretta in modo monolitico da [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], che impose il codice morale no-cori per i singoli atleti e l'intransigenza verso la Tessera del Tifoso nel 2015.
-2. **La Parentesi UCN (2016–2022):** Dopo lo scioglimento formale della storica insegna nel dicembre 2016, i medesimi quadri militanti di via Belfiore diedero vita alla sigla **UCN** (*Ultras Curva Nord*), mantenendo il coordinamento del settore affiancati dalle sigle rionali storiche (*Nord Kaos*, *Skizzati Passarello*, *I Pazzi*).
-3. **La Nascita di Catania Curva Nord (CCN):** Nella primavera-estate del 2022, di fronte alla perdita della storica matricola 11700 ([[06-tifoseria-e-cultura/eventi-e-giustizia/difesa-della-matricola-11700-anni-2020-2022|dossier]]) e alla rinascita del club con il Gruppo Pelligra, l'intero popolo della Nord ha avvertito la necessità di unire tutte le anime del tifo sotto una sola denominazione comune e identitaria: **Catania Curva Nord (CCN)**, che assume ufficialmente il ruolo di **gruppo reggente** dell'intera gradinata.
+2. **La Parentesi UCN (2016–2022):** Dopo lo scioglimento formale della storica insegna nel dicembre 2016, i medesimi quadri militanti di via Belfiore diedero vita alla sigla **UCN** (*Ultras Curva Nord*), mantenendo il coordinamento del settore affiancati dalle sigle rionali storiche (*[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]*, *[[06-tifoseria-e-cultura/settori/curva-nord/skizzati-passarello|Skizzati Passarello]]*, *I Pazzi*).
+3. **La Nascita di Catania Curva Nord (CCN):** Nella primavera-estate del 2022, di fronte alla perdita della storica [[01-societa/matricola-11700|matricola 11700]] ([[06-tifoseria-e-cultura/eventi-e-giustizia/difesa-della-matricola-11700-anni-2020-2022|dossier]]) e alla rinascita del club con il Gruppo Pelligra, l'intero popolo della Nord ha avvertito la necessità di unire tutte le anime del tifo sotto una sola denominazione comune e identitaria: **Catania Curva Nord (CCN)**, che assume ufficialmente il ruolo di **gruppo reggente** dell'intera gradinata.
 
 ---
 

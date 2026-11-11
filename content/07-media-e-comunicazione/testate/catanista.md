@@ -50,7 +50,7 @@ La caratteristica fondante di *Catanista* risiede nella sua struttura ibrida e c
 
 * **Sinergia Radiofonica e Televisiva**: Attraverso la storica partnership editoriale con il circuito televisivo *Sestarete* (legato a *7 Gold Sicilia*), il talk show *Catanista* ha unito le trasmissioni radiofoniche pomeridiane al simulcast televisivo sul digitale terrestre, offrendo dirette prima e dopo ogni gara ufficiale.
 * **Presidio Digitale e Web TV**: Attraverso i format *Catanista Live* e *Catanista News* distribuiti su YouTube, Facebook e piattaforme podcast, la redazione garantisce una copertura continua del calciomercato, delle conferenze stampa societarie e degli allenamenti.
-* **Presenza sul Campo e Voci Societarie**: La testata si è distinta per il presidio costante del centro sportivo di Torre del Grifo durante l'era della Serie A e per le interviste esclusive ai massimi dirigenti societari, proseguite con il vicepresidente Vincenzo Grella nell'era del gruppo Pelligra.
+* **Presenza sul Campo e Voci Societarie**: La testata si è distinta per il presidio costante del centro sportivo di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo]] durante l'era della Serie A e per le interviste esclusive ai massimi dirigenti societari, proseguite con il vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] nell'era del gruppo Pelligra.
 
 ---
 

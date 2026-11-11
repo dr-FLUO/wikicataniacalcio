@@ -31,7 +31,7 @@ aliases:
 
 # Rapporto di Rispetto Catania-Inter: Il Ponte Milano-Catania
 
-Negli anni della permanenza stabile del Catania in Serie A (2006-2014), tra la tifoseria etnea e la **Curva Nord dell'Inter** si è sviluppato un solido rapporto di **stima e rispetto reciproco**.
+Negli anni della permanenza stabile del Catania in Serie A (2006-2014), tra la tifoseria etnea e la **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] dell'Inter** si è sviluppato un solido rapporto di **stima e rispetto reciproco**.
 
 ---
 

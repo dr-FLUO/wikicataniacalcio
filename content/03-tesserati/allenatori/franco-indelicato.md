@@ -78,7 +78,7 @@ aliases:
   </table>
 </div>
 
-**Franco Indelicato** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Era Massimino).
+**Franco Indelicato** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -90,7 +90,7 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Franco Indelicato fu l'allenatore a cui Angelo Massimino affidò la guida della squadra nell'estate del drammatico declassamento in Eccellenza Siciliana 1993-1994 a seguito dell'esclusione estiva del 1993.
+Franco Indelicato fu l'allenatore a cui [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] affidò la guida della squadra nell'estate del drammatico declassamento in Eccellenza Siciliana 1993-1994 a seguito dell'esclusione estiva del 1993.
 
 ## 2. La Conduzione Tecnica del Catania
 

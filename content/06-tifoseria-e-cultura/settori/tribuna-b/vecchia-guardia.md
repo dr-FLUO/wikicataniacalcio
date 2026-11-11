@@ -47,7 +47,7 @@ A differenza dell'estetica casual contemporanea introdotta all'inizio del nuovo 
 
 - **Striscione storico**: caratteri rossi su fondo azzurro e bordatura nera, affisso costantemente alla balaustra superiore;
 - **Sciarpate e bandieroni**: utilizzo di materiale tessile classico e cori coordinati con tamburi nei campionati di Serie C1 e Serie B;
-- **Indipendenza da dinamiche di curva**: pur mantenendo rapporti di reciproco rispetto con i gruppi guida della Curva Nord e della Curva Sud, la compagine ha sempre difeso la propria specificità di presidio autonomo in gradinata.
+- **Indipendenza da dinamiche di curva**: pur mantenendo rapporti di reciproco rispetto con i gruppi guida della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]], la compagine ha sempre difeso la propria specificità di presidio autonomo in gradinata.
 
 ---
 

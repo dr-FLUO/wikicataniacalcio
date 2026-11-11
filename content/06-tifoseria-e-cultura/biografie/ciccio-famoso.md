@@ -64,7 +64,7 @@ Scomparso all'inizio di febbraio 2017 all'età di sessant'anni dopo una lunga ma
 
 ## 1. La Fondazione della Falange d'Assalto (1979)
 
-Cresciuto nei vicoli popolari del rione **Castello Ursino**, nel **1979** Famoso diede vita alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], primo storico gruppo ultras di Catania, stabilendone la sede al centro della **Curva Nord**:
+Cresciuto nei vicoli popolari del rione **Castello Ursino**, nel **1979** Famoso diede vita alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], primo storico gruppo ultras di Catania, stabilendone la sede al centro della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]**:
 - Basso di statura, barba fluente, sguardo magnetico e voce roca e inconfondibile al megafono, Famoso rappresentava un calcio popolare e genuino, vissuto come una scelta totale di vita.
 - Al vecchio Cibali le sue esortazioni in dialetto strettissimo (*«Au carusi, cama fari! Auuuu fozza: tifate!»*) e l'intonazione dell'inno identitario (*«Perché il vulcano è la terra che amiamo...»*) erano capaci di trascinare all'entusiasmo anche le tribune più tiepide.
 - A lui si deve il motto divenuto celebre manifesto generazionale: **«Primi a nascere, ultimi a morire»**.
@@ -85,7 +85,7 @@ La militanza di Ciccio Famoso trascendeva i novanta minuti della domenica:
 
 La statura etica di Ciccio Famoso nel mondo ultras si è manifestata in maniera eccezionale nei giorni del suo commiato:
 - Durante la degenza in ospedale, delegazioni di curve storicamente rivali si sono recate personalmente al suo capezzale.
-- Nei giorni successivi alla morte, oltre all'omaggio sul campo del Calcio Catania e di calciatori bandiera come [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]] e Adrian Ricchiuti, striscioni di cordoglio sono stati esposti negli stadi di **Genova, Napoli, Parma e Benevento**, nella Südtribüne del **Borussia Dortmund** e del **Bayern Monaco**, e — fatto senza precedenti nella storia ultras — persino nelle curve delle acerrime rivali storiche: **Palermo, Messina e Siracusa**.
+- Nei giorni successivi alla morte, oltre all'omaggio sul campo del Calcio Catania e di calciatori bandiera come [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]] e Adrian Ricchiuti, striscioni di cordoglio sono stati esposti negli stadi di **Genova, Napoli, Parma e Benevento**, nella Südtribüne del **[[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]]** e del **[[06-tifoseria-e-cultura/relazioni/amicizie/bayern-monaco|Bayern Monaco]]**, e — fatto senza precedenti nella storia ultras — persino nelle curve delle acerrime rivali storiche: **Palermo, Messina e Siracusa**.
 
 ---
 

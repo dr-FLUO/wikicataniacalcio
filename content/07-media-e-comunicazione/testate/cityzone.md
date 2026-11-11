@@ -38,7 +38,7 @@ aliases:
 
 # CiTy Zone: L'Informazione Web-Social e il Linguaggio della Community Digitale (2022-2026)
 
-Registrata presso il Registro Giornali e Periodici del Tribunale di Catania al **n. 6/2022 in data 2 settembre 2022**, ***CiTy Zone*** ([cityzone.eu](https://cityzone.eu/)) rappresenta l'espressione più emblematica della nuova generazione di testate giornalistiche sportive nate a Catania all'indomani della rifondazione societaria del *Catania Football Club*.
+Registrata presso il Registro Giornali e Periodici del Tribunale di Catania al **n. 6/2022 in data 2 settembre 2022**, ***CiTy Zone*** ([cityzone.eu](https://cityzone.eu/)) rappresenta l'espressione più emblematica della nuova generazione di testate giornalistiche sportive nate a Catania all'indomani della rifondazione societaria del *[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]*.
 
 Fondata su iniziativa di un gruppo di giornalisti e professionisti della comunicazione etnea — tra cui figurano i co-fondatori **Marco Zappalà** e **Simone Vicino**, insieme a **Giovanni D'Antoni** per la redazione e **Andrea Messina** per la cura del comparto grafico e visivo — la piattaforma nasce con l'intento programmatico di rinnovare radicalmente la sintassi e l'estetica del racconto sportivo locale, adottando un approccio risolutamente *social-first* e *community-driven*.
 
@@ -46,9 +46,9 @@ Fondata su iniziativa di un gruppo di giornalisti e professionisti della comunic
 
 ## 1. La Nascita con il Catania FC e la Missione Generazionale
 
-L'atto di nascita di *CiTy Zone* coincide esattamente con l'inizio dell'era societaria presieduta da Ross Pelligra nell'estate del 2022:
+L'atto di nascita di *CiTy Zone* coincide esattamente con l'inizio dell'era societaria presieduta da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]] nell'estate del 2022:
 
-* **Sintonia con la Ripartenza**: Con la cancellazione della matricola 11700 e la successiva ripartenza dai dilettanti, la tifoseria ha manifestato una rinnovata esigenza di canali comunicativi freschi, veloci e vicini alla sensibilità della Generazione Z e dei tifosi nativi digitali.
+* **Sintonia con la Ripartenza**: Con la cancellazione della [[01-societa/matricola-11700|matricola 11700]] e la successiva ripartenza dai dilettanti, la tifoseria ha manifestato una rinnovata esigenza di canali comunicativi freschi, veloci e vicini alla sensibilità della Generazione Z e dei tifosi nativi digitali.
 * **Estetica Visuale e Cura Grafica**: A differenza dei portali tradizionali impostati su fitte colonne di testo, *CiTy Zone* ha introdotto una precisa identità grafica d'autore, basata su infografiche ad alto contrasto, copertine accattivanti, statistiche visuali e video reel ottimizzati per la fruizione da smartphone su Instagram, TikTok, Facebook e YouTube.
 * **Linguaggio Dinamico e Deontologia**: La testata affianca alla rapidità e al tono colloquiale dei formati social una rigorosa deontologia professionale, evitando toni sensazionalistici o clickbaiting e garantendo verifiche dirette con le fonti societarie e istituzionali.
 

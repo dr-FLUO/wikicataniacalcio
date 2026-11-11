@@ -39,7 +39,7 @@ aliases:
 
 Pubblicato nel **2014** da **Eclettica Edizioni** (Tivoli), ***Quando saremo tutti nella Nord: storia, aneddoti e racconti del tifo rossazzurro*** è considerato all'unanimità il testo sociologico e documentale di riferimento sulla storia del movimento ultras a Catania.
 
-Scritto a quattro mani dal giornalista **Luigi Pulvirenti** e dallo storico leader e ideologo della Curva Nord [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] (fondatore e anima del gruppo *A Sostegno di una Fede* nel 1993), il volume rappresenta una delle rare opere in Italia in cui la fenomenologia del tifo organizzato viene sviscerata dall'interno con lucidità critica, rigore memorialistico e profonda sensibilità antropologica.
+Scritto a quattro mani dal giornalista **Luigi Pulvirenti** e dallo storico leader e ideologo della [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] [[06-tifoseria-e-cultura/biografie/michele-spampinato|Michele Spampinato]] (fondatore e anima del gruppo *A Sostegno di una Fede* nel 1993), il volume rappresenta una delle rare opere in Italia in cui la fenomenologia del tifo organizzato viene sviscerata dall'interno con lucidità critica, rigore memorialistico e profonda sensibilità antropologica.
 
 ---
 
@@ -48,7 +48,7 @@ Scritto a quattro mani dal giornalista **Luigi Pulvirenti** e dallo storico lead
 L'opera ricostruisce analiticamente oltre trentacinque anni di vita gradinata dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]:
 
 * **La Nascita del Tifo Organizzato (1979)**: Il testo documenta la genesi della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto 1979]] sotto la guida carismatica di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] (*"lo Zio Ciccio"*), analizzando la transizione dal tifo spontaneo rionale alle prime coreografie strutturate con tamburi, fumogeni e striscioni da trasferta.
-* **L'Epoca della Curva Sud**: Il volume narra l'epopea della Sud tra la fine degli anni Settanta e gli anni Ottanta, con i pionieri dell'*Onda d'Urto* e dei *Teddy Boys*, fino alla storica trasferta dei 40.000 a Roma nel giugno 1983.
+* **L'Epoca della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]]**: Il volume narra l'epopea della Sud tra la fine degli anni Settanta e gli anni Ottanta, con i pionieri dell'*[[06-tifoseria-e-cultura/settori/curva-sud/onda-durto-1982|Onda d'Urto]]* e dei *[[06-tifoseria-e-cultura/settori/curva-sud/teddy-boys-e-panthers|Teddy Boys]]*, fino alla storica trasferta dei 40.000 a Roma nel giugno 1983.
 * **Lo Spostamento nella Curva Nord (Anni '90)**: Viene analizzata la complessa frattura generazionale e logistica che a partire dal 1993 portò la nuova guardia dei giovani ultrà a colonizzare l'anello superiore della Curva Nord, dando vita alla confederazione di [[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]], che per oltre vent'anni ha coordinato il cuore del tifo etneo.
 
 ---
@@ -68,7 +68,7 @@ Uno dei capitoli più innovativi del saggio è dedicato all'intreccio tra la cur
 Il libro non elude i momenti più drammatici e controversi della storia della curva:
 
 * **La Rivolta Popolare del 1993**: Il ruolo del tifo organizzato nel presidiare la città durante l'esclusione del Catania di Massimino e i cortei di autodifesa civile.
-* **I Fatti del 2 Febbraio 2007**: La tragica notte del derby contro il Palermo che costò la vita all'ispettore capo Filippo Raciti, analizzata nel suo devastante impatto sociale, giudiziario e umano sulla comunità catanese e sulle normative nazionali di pubblica sicurezza.
+* **I Fatti del 2 Febbraio 2007**: La tragica notte del derby contro il Palermo che costò la vita all'ispettore capo [[06-tifoseria-e-cultura/eventi-e-giustizia/scontri-2-febbraio-2007-raciti|Filippo Raciti]], analizzata nel suo devastante impatto sociale, giudiziario e umano sulla comunità catanese e sulle normative nazionali di pubblica sicurezza.
 * **Gemellaggi e Rivalità**: La genesi dei gemellaggi storici con genoani e napoletani e l'archeologia delle rivalità campanilistiche siciliane (Palermo, Messina, Siracusa).
 
 ---

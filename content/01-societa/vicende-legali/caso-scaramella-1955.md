@@ -71,7 +71,7 @@ Il **Caso Scaramella** è stato il primo grande scandalo arbitrale del secondo d
 
 ## Genesi dello Scandalo: Il Memoriale dell'Arbitro Scaramella e l'Avv. Giulio Galli
 
-Dopo aver conquistato la prima promozione in massima serie nella [[02-cronistoria/stagioni/1953-1954|Stagione 1953-1954]], il Catania presieduto da Arturo Michisanti e [[03-tesserati/calciatori/archivio/g-l/giuseppe-rizzo|Giuseppe Rizzo]] concluse il campionato di [[02-cronistoria/stagioni/1954-1955|Serie A 1954-1955]] al dodicesimo posto a pari merito con Lazio e Triestina (11 vittorie, 8 pareggi e 15 sconfitte, per un totale di **30 punti** in regime di 2 punti a vittoria), precedendo in classifica Novara, Atalanta, Pro Patria e SPAL.
+Dopo aver conquistato la prima promozione in massima serie nella [[02-cronistoria/stagioni/1953-1954|Stagione 1953-1954]], il Catania presieduto da [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] e [[03-tesserati/calciatori/archivio/g-l/giuseppe-rizzo|Giuseppe Rizzo]] concluse il campionato di [[02-cronistoria/stagioni/1954-1955|Serie A 1954-1955]] al dodicesimo posto a pari merito con Lazio e Triestina (11 vittorie, 8 pareggi e 15 sconfitte, per un totale di **30 punti** in regime di 2 punti a vittoria), precedendo in classifica Novara, Atalanta, Pro Patria e SPAL.
 
 Al termine del torneo, tuttavia, il quotidiano *Stadio* e gli ispettori della **Commissione di Controllo della Lega Nazionale** raccolsero le rivelazioni del direttore di gara della sezione di Roma **Giuseppe Scaramella**. Quest'ultimo confessò di essere stato avvicinato e remunerato tramite l'intermediazione dell'avvocato romano **Giulio Galli** per favorire la compagine rossazzurra in due gare interne disputate al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] nel girone d'andata della stagione 1954-1955:
 1. **Catania-Atalanta (1-0)** del **24 ottobre 1954** (6ª giornata, rete decisiva di [[03-tesserati/calciatori/archivio/s-z/vittorio-ghiandi|Vittorio Ghiandi]] al 79');
@@ -94,7 +94,7 @@ Al termine del torneo, tuttavia, il quotidiano *Stadio* e gli ispettori della **
 
 | Soggetto Coinvolto | Qualifica all'Epoca dei Fatti | Sanzione Comminata dalla FIGC |
 | :--- | :--- | :--- |
-| **[[01-societa/epoche/1946-club-calcio-catania\|Club Calcio Catania]]** | Società affiliata (Matricola 11700) | **Retrocessione d'ufficio in Serie B** per la stagione 1955-1956 (annullamento del 12º posto ottenuto sul campo). |
+| **[[01-societa/epoche/1946-club-calcio-catania\|Club Calcio Catania]]** | Società affiliata ([[01-societa/matricola-11700\|Matricola 11700]]) | **Retrocessione d'ufficio in Serie B** per la stagione 1955-1956 (annullamento del 12º posto ottenuto sul campo). |
 | **Associazione Calcio Udinese** | Società affiliata (2ª classificata in Serie A 1954-55) | **Retrocessione d'ufficio in Serie B** per illecito sportivo relativo alla gara Udinese-Pro Patria del 17 maggio 1953. |
 | **Giuseppe "Ugo" Scaramella** | Arbitro effettivo AIA (Sezione di Roma) | **Preclusione a vita (radiazione)** da qualsiasi rango o categoria della FIGC. |
 | **Avv. Giulio Galli** | Intermediario | **Preclusione a vita (radiazione)** e divieto perpetuo di accesso agli impianti sportivi federali. |

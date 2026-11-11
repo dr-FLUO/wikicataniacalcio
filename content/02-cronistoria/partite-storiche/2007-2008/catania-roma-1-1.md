@@ -63,7 +63,7 @@ La compagine rossazzurra, tuttavia, non si arrese: spinta dall'incessante incita
 
 | Dati Gara | Dettaglio Ufficiale Certificato |
 | :--- | :--- |
-| **Data e Ora** | Domenica **18 maggio 2008**, ore 15:00 — Serie A 2007-2008 (38ª giornata) |
+| **Data e Ora** | Domenica **18 maggio 2008**, ore 15:00 — Serie A [[02-cronistoria/stagioni/2007-2008\|2007-2008]] (38ª giornata) |
 | **Impianto e Spettatori** | [[04-strutture/stadio-massimino/index\|Stadio Angelo Massimino]], Catania — **21.148 spettatori** |
 | **Arbitro** | Massimiliano Saccani della sezione AIA di Mantova |
 | **Marcatori** | **8' pt Vučinić** (R), **40' st J. Martínez** (C) |

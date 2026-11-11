@@ -91,7 +91,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Capocasale** (Bari, Italia, 1916 – 1998) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di Club Calcio Catania (1946-1967).
+**Francesco Capocasale** (Bari, Italia, 1916 – 1998) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista

@@ -90,19 +90,19 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Ivo Iaconi** (Teramo, Italia, 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2000-2001**, legando il proprio nome alla storia societaria di Calcio Catania S.p.A. (Gestione Gaucci).
+**Ivo Iaconi** (Teramo, Italia, 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2000-2001**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
 > - **Periodo a Catania:** 2000-2001
 > - **Denominazione Sociale:** Calcio Catania S.p.A. (Gestione Gaucci)
-> - **Epiteto / Ruolo Storico:** Il Tattico Abruzzese della Prima Era Gaucci
+> - **Epiteto / Ruolo Storico:** Il Tattico Abruzzese della Prima [[01-societa/epoche/2000-era-gaucci|Era Gaucci]]
 
 ---
 
 ## 1. Profilo Biografico e Carriera
 
-Ivo Iaconi fu il primo tecnico ingaggiato da Luciano e Riccardo Gaucci nell'estate 2000 per dare l'assalto alla Serie B, guidando la squadra in due frazioni distinte del torneo di Serie C1 2000-2001.
+Ivo Iaconi fu il primo tecnico ingaggiato da Luciano e [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] nell'estate 2000 per dare l'assalto alla Serie B, guidando la squadra in due frazioni distinte del torneo di Serie C1 2000-2001.
 
 ## 2. La Conduzione Tecnica del Catania
 

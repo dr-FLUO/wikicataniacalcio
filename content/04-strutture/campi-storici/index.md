@@ -90,7 +90,7 @@ Situato nel cuore del quartiere Borgo-Sanzio, nell'area che nel 1907 aveva ospit
 
 ### I Traguardi Storici a Piazza Esposizione
 1. **La Prima Storica Promozione in Serie B (1933–1934):** Sotto la presidenza di [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona]] e la guida tattica del tecnico ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]], la squadra dominò il Girone H di Prima Divisione e le finali nazionali contro Savona, Biellese e Reggiana, approdando per la prima volta nel campionato cadetto.
-2. **I Campionati Cadetti e il Primo Derby col Palermo (1934–1937):** Tra il 1934 e il 1937 Piazza Esposizione ospitò la Serie B, registrando nel 1935-1936 il record di pubblico per la sfida contro la capolista Livorno e il **1º novembre 1936** la vittoria nel primo [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia ufficiale contro il Palermo]] (1-0 in Coppa Italia).
+2. **I Campionati Cadetti e il Primo Derby col Palermo (1934–1937):** Tra il 1934 e il 1937 Piazza Esposizione ospitò la Serie B, registrando nel [[02-cronistoria/stagioni/1935-1936|1935-1936]] il record di pubblico per la sfida contro la capolista Livorno e il **1º novembre 1936** la vittoria nel primo [[02-cronistoria/partite-storiche/precedenti/palermo|Derby di Sicilia ufficiale contro il Palermo]] (1-0 in Coppa Italia).
 
 ---
 

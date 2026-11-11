@@ -44,7 +44,7 @@ Fondata a Catania nel **marzo del 1975**, ***Teletna*** rappresenta una pietra m
 
 Il nome di Teletna è scolpito in modo indelebile nella storiografia del calcio italiano per un primato di straordinario rilievo:
 
-* **Il Primato Nazionale**: Il **20 marzo 1975**, il giovane giornalista e caposervizio de *La Sicilia* [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] (1948–2014) realizzò e mandò in onda la **prima telecronaca in assoluto di una gara ufficiale del Catania per una televisione privata italiana**.
+* **Il Primato Nazionale**: Il **20 marzo 1975**, il giovane giornalista e caposervizio de *[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]* [[07-media-e-comunicazione/firme-e-voci/nuccio-schilliro|Nuccio Schillirò]] (1948–2014) realizzò e mandò in onda la **prima telecronaca in assoluto di una gara ufficiale del Catania per una televisione privata italiana**.
 * **La Rivoluzione del Linguaggio**: Fino a quel momento, la visione delle gare era un monopolio rigido del servizio pubblico RAI (attraverso le brevi sintesi di *90° Minuto* o spezzoni della *Domenica Sportiva*). Teletna dimostrò per la prima volta la fattibilità tecnica ed editoriale di trasmettere integralmente in differita la partita del Catania, con telecronaca personalizzata, interviste a bordocampo e primi piani sui protagonisti.
 * **L'Impatto Popolare**: L'esperimento riscosse un successo di pubblico clamoroso in tutta la provincia etnea: le famiglie e i circoli sportivi si radunavano attorno agli apparecchi televisivi per rivedere le azioni della domenica, dando inizio a un'abitudine che avrebbe trasformato per sempre il consumo sportivo cittadino.
 
@@ -54,7 +54,7 @@ Il nome di Teletna è scolpito in modo indelebile nella storiografia del calcio 
 
 Nel corso della seconda metà degli anni Settanta, Teletna continuò a sperimentare nuovi format di racconto dello sport etneo:
 
-* **Attrezzature d'Assalto**: Con telecamere a spalla e regie mobili essenziali, i cronisti dell'emittente cominciarono a seguire la squadra non soltanto nelle gare interne allo Stadio Cibali, ma anche in alcune memorabili trasferte del campionato di Serie B e Serie C.
+* **Attrezzature d'Assalto**: Con telecamere a spalla e regie mobili essenziali, i cronisti dell'emittente cominciarono a seguire la squadra non soltanto nelle gare interne allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], ma anche in alcune memorabili trasferte del campionato di Serie B e Serie C.
 * **L'Evoluzione Editoriale**: Con l'ingresso nel mercato televisivo dell'imprenditore Mario Ciancio Sanfilippo e la fondazione nel giugno 1979 di [[07-media-e-comunicazione/testate/antenna-sicilia|Antenna Sicilia]], Teletna venne progressivamente integrata all'interno del polo editoriale primario di Domenico Sanfilippo Editore.
 * **La Rete Sorella**: Nel nuovo assetto societario, Teletna assunse il ruolo di seconda rete regionale del gruppo, ospitando repliche di gare storiche, finestre d'approfondimento giovanile e rassegne stampa, mentre il core business sportivo confluiva nel format nascente di *[[07-media-e-comunicazione/cinema-e-tv/salastampa|Salastampa]]*.
 
