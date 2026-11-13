@@ -91,7 +91,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Capocasale** (Bari, Italia, 1916 – 1998) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Quarto tecnico chiamato in una stagione travagliata, **Francesco Capocasale** (Bari, 1916 – 1998) seppe ridare ordine ed equilibrio al [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], traghettandolo verso la permanenza nella Serie B [[02-cronistoria/stagioni/1957-1958|1957-1958]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -103,11 +103,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Francesco Capocasale, indimenticato mediano e bandiera del Bari e della Juventus, guidò il Catania nella seconda parte della Serie B 1957-1958 (dalla 17ª alla 34ª giornata).
+Nato a Bari nel 1916 e protagonista da calciatore come elegante centromediano con le maglie di Bari e Juventus, Francesco Capocasale portò in panchina carisma, lucidità tattica e grande conoscenza del calcio meridionale. Arrivò alle pendici dell'Etna nel gennaio 1958, ingaggiato dalla presidenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]] dopo un girone d'andata particolarmente tormentato, caratterizzato dalle precedenti conduzioni di [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]], [[03-tesserati/allenatori/riccardo-carapellese|Riccardo Carapellese]] e [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Subentrato in una stagione complessa caratterizzata da quattro avvicendamenti in panchina, condusse con perizia la formazione etnea a una comoda salvezza chiusa a metà classifica.
+Subentrato dalla diciassettesima giornata, Capocasale esordì il 19 gennaio 1958 con la vittoria interna per 2-1 sul Marzotto Valdagno, avviando un girone di ritorno molto più lineare e produttivo. Nelle diciotto partite dirette in campionato mantenne una media di 1,28 punti (in proiezione a tre punti), ottenendo vittorie fondamentali contro Taranto (2-0) e Prato (1-0), il successo per 2-0 nel derby esterno di Messina alla ventitreesima giornata, il pareggio a reti inviolate contro il Palermo e l'affermazione sul Lecco per 3-1 sul neutro messinese. Sostenuto in attacco dalle sei reti di Sebastiano Buzzin e dello stesso [[03-tesserati/calciatori/archivio/p-r/riccardo-carapellese|Riccardo Carapellese]], condusse il Catania all'undicesimo posto finale con 30 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

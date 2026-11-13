@@ -111,7 +111,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giovanni Pulvirenti** (Catania, Italia, 1964) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Cresciuto per anni come formatore nel vivaio etneo, il catanese **Giovanni Pulvirenti** raccolse nell'emergenza della primavera 2017 l'incarico di guidare la prima squadra del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel finale della Lega Pro [[02-cronistoria/stagioni/2016-2017|2016-2017]], negli anni dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -123,11 +123,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giovanni Pulvirenti, storico formatore e colonna del settore giovanile rossazzurro (protagonista per anni con la Primavera), guidò la prima squadra dalla 29ª alla 38ª giornata e nei play-off 2016-2017.
+Allenatore catanese profondamente legato ai colori della propria città, Giovanni Pulvirenti costruì una lunga militanza nel settore giovanile rossazzurro, raggiungendo tra l'altro i quarti di finale al Torneo di Viareggio 2011 con una formazione Primavera che annoverava talenti come [[03-tesserati/calciatori/archivio/g-l/luca-calapai|Luca Calapai]] e [[03-tesserati/calciatori/archivio/d-f/fabio-aveni|Fabio Aveni]]. Promosso dalla Berretti alla prima squadra l'8 marzo 2017 sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], subentrò dopo l'esonero di [[03-tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]] e le rapide dimissioni di [[03-tesserati/allenatori/mario-petrone|Mario Petrone]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Catanese verace e profondo conoscitore dei giovani talenti, traghettò la squadra con serietà e dignità fino alla sfida play-off di Castellammare di Stabia.
+Chiamato a gestire una rosa segnata da sette punti di penalizzazione e reduce dal ko interno col Melfi in una striscia negativa complessiva di cinque sconfitte consecutive, Pulvirenti diresse le ultime dieci giornate della stagione regolare (29ª-38ª) e il turno play-off. Grazie alle vittorie interne contro Virtus Francavilla (1-0) e Siracusa (3-1) e ai pareggi esterni sui campi di Vibonese e Casertana, portò il Catania all'undicesimo posto a quota 47 punti, utile per accedere agli spareggi promozione, dove il 14 maggio 2017 lo 0-0 sul campo della Juve Stabia premiò i campani per il miglior piazzamento.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

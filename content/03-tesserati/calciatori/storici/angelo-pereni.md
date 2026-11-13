@@ -93,7 +93,8 @@ tm_id: 478868
   </table>
 </div>
 
-**Angelo Pereni** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Sei stagioni di dedizione silenziosa e geometria in mediana legano il nome di **Angelo Pereni** (Gorla Minore, 12 dicembre 1943) alla storia del [[01-societa/matricola-11700|Calcio Catania]], di cui fu pilastro e capitano tra Serie B e Serie A dal 1966 al 1972.
 
 ---
 
@@ -115,7 +116,9 @@ tm_id: 478868
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Gorla Minore (classe 1943), **Angelo Pereni** ha militato nelle file rossazzurre per **6 stagioni** (1966–1972). Punto di riferimento nello scacchiere etneo, ha totalizzato **198 presenze ufficiali** (17.804' minuti effettivi) impreziosite da **8 reti**. La sua annata con il minutaggio più elevato è stata la **1968-1969**, disputata con 37 presenze complessive.
+Prelevato dal Novara nell'estate successiva alla retrocessione dalla massima serie, il centrocampista lombardo s'impose subito nella [[02-cronistoria/stagioni/1966-1967|stagione 1966-1967]] sotto la guida di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] e il commissariamento di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], chiudendo al terzo posto in Serie B con 32 presenze e 3 gol. Dopo un biennio di transizione tra il [[02-cronistoria/stagioni/1967-1968|1967-1968]] (avvicendamento in panchina tra Ballacci e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]) e il [[02-cronistoria/stagioni/1968-1969|1968-1969]] — 37 gettoni e 3.330 minuti agli ordini di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] — divenne l'asse portante della squadra che nel [[02-cronistoria/stagioni/1969-1970|1969-1970]] conquistò la terza promozione in Serie A del club, la prima dell'era di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
+
+In quell'annata impeccabile, costruita sull'imbattibilità interna dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], Pereni disputò tutte le 37 gare a referto siglando 3 reti, compresa la zampata al 14' che spianò il decisivo 1-3 sul campo della Reggina il 14 giugno 1970. Rimase fedele ai colori rossazzurri anche nella sfortunata Serie A [[02-cronistoria/stagioni/1970-1971|1970-1971]] e nella cadetteria [[02-cronistoria/stagioni/1971-1972|1971-1972]] con [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], chiudendo il suo ciclo etneo con **198 presenze ufficiali**, **8 reti** e **17.804 minuti** giocati.
 
 ---
 

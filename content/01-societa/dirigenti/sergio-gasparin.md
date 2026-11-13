@@ -43,6 +43,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Quando il 24 maggio 2012 approdò alle pendici dell'Etna, Sergio Gasparin ereditò una macchina societaria scossa dal fresco divorzio tra [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], oltre che dalle crescenti difficoltà finanziarie legate al crollo di Wind Jet. L'amministratore delegato veneto affrontò il passaggio con pragmatismo istituzionale, evitando rivoluzioni traumatiche e proteggendo l'ossatura tecnica costruita negli anni precedenti.
+
+La sua decisione inaugurale si rivelò determinante: anziché inseguire nomi altisonanti, Gasparin affidò la squadra a [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], allenatore reduce dalla cadetteria ma ideale per dare continuità tattica e disciplina al gruppo del [[01-societa/epoche/catania-degli-argentini|Catania degli Argentini]]. Sul mercato estivo trattenne i pilastri offensivi e difensivi della rosa — da Mariano Andújar a Nicolás Spolli, da Francesco Lodi a Gonzalo Bergessio e Alejandro Gómez — innestando un rinforzo mirato come [[03-tesserati/calciatori/archivio/g-l/lucas-castro|Lucas Castro]]. Ne scaturì la [[02-cronistoria/stagioni/2012-2013|stagione 2012-2013]] più prolifica della storia rossazzurra: 56 punti, 15 vittorie in campionato, ottavo posto finale, quarti di finale di Coppa Italia e semifinale Scudetto per la Primavera. Chiuso il ciclo dopo appena dodici mesi con le dimissioni del 5 giugno 2013, il suo addio segnò il confine netto prima del brusco declino culminato nella retrocessione del 2014.
+
 ## Bilancio della Gestione Gasparin (Stagione 2012-2013)
 
 | Competizione | Piazzamento / Risultato | Dati Statistici Chiave |

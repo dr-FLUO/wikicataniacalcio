@@ -107,7 +107,14 @@ locked_by: certificazione_archivio_storico_ufficiale
   </table>
 </div>
 
-**Mario Miltone** (Torino, 24 marzo 1906) è stato un difensore italiano che ha vestito la maglia rossazzurra dell'[[01-societa/epoche/1929-ss-catania|S.S. Catania]] tra il 1934 e il 1937. Punto fermo del reparto arretrato etneo, vanta 84 presenze ufficiali in campionato, contribuendo alle solide stagioni del Catania nei primi campionati nazionali a girone unico di Serie B.
+
+Terzino tenace e disciplinato, **Mario Miltone** (Torino, 24 marzo 1906) rappresentò una delle colonne difensive della [[01-societa/epoche/1929-ss-catania|S.S. Catania]] tra il 1934 e il 1937, accumulando **84 presenze ufficiali e una rete** nei primi tornei nazionali di Serie B.
+
+## Profilo e Carriera in Rossazzurro
+
+All'indomani dello storico salto dalla Prima Divisione alla serie cadetta, l'arrivo del difensore torinese garantì esperienza e temperamento al reparto arretrato di [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]], sotto la presidenza di [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona di Misterbianco]]. Nella [[02-cronistoria/stagioni/1934-1935|stagione 1934-1935]], disputata sul polveroso rettangolo del Campo dei cent'anni di piazza Verga mentre proseguivano i lavori per il futuro impianto di Cibali, i rossazzurri stupirono il girone A chiudendo al **terzo posto con 37 punti** alle spalle del Genova 1893 e a pari merito col Pisa.
+
+Miltone mantenne il posto da titolare anche nella [[02-cronistoria/stagioni/1935-1936|1935-1936]], prima Serie B riunificata a girone unico, completata all'ottavo posto con 33 punti accanto a giovani talenti come [[03-tesserati/calciatori/storici/amedeo-biavati|Amedeo Biavati]] e al bomber [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]], oltre agli ottavi di Coppa Italia dopo il successo sul Palermo. Visse infine la sofferta annata [[02-cronistoria/stagioni/1936-1937|1936-1937]], con [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca]] alla presidenza e [[03-tesserati/allenatori/pietro-colombati|Pietro Colombati]] in panchina, segnata dai quarti di Coppa Italia e dalla retrocessione agli spareggi estivi contro Messina, Pro Vercelli e Venezia.
 
 ## Collegamenti Correlati
 * [[02-cronistoria/stagioni/1934-1935|Stagione 1934-1935]]

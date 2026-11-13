@@ -99,13 +99,15 @@ citizenship: Italia
   </table>
 </div>
 
-**Alvaro Bravetti** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Conosciuto nelle cronache dell'epoca come *Varo Bravetti*, **Alvaro Bravetti** presidiò la fascia destra del [[01-societa/matricola-11700|Calcio Catania]] per cinque campionati dal 1951 al 1956, collezionando **160 presenze ufficiali** tutte disputate per l'intero arco dei novanta minuti.
 
 ---
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Terni nel 1925, il difensore **Alvaro Bravetti** ha militato nelle file rossazzurre per **5 stagioni** (1951–1956). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **160 presenze ufficiali** (14.400' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1952-1953**, disputata con 35 presenze complessive.
+Terzino destro nato a Terni e giunto dal Pisa nell'estate del 1951, si segnalò per una regolarità atletica fuori dal comune: 14.400 minuti effettivi senza mai subire ammonizioni né espulsioni. Sotto la presidenza di [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] giocò 34 gare nella [[02-cronistoria/stagioni/1951-1952|Serie B 1951-1952]] e toccò il proprio massimo di 35 presenze nella [[02-cronistoria/stagioni/1952-1953|1952-1953]] conclusa con lo spareggio promozione perso a Firenze contro il Legnano sotto [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]].
+
+Nella storica [[02-cronistoria/stagioni/1953-1954|Serie B 1953-1954]], guidata in panchina da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]], formò con il portiere [[03-tesserati/calciatori/archivio/a-c/antonio-seveso|Antonio Seveso]], [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]] e capitan [[03-tesserati/calciatori/archivio/m-o/nicola-fusco|Nicola Fusco]] l'ossatura difensiva che condusse per la prima volta il club in Serie A, scendendo in campo 31 volte. Con identico ruolino affrontò anche la [[02-cronistoria/stagioni/1954-1955|Serie A 1954-1955]], salvata sul campo al dodicesimo posto prima della retrocessione d'ufficio legata al caso Scaramella, congedandosi infine dopo 29 presenze nella [[02-cronistoria/stagioni/1955-1956|1955-1956]] tra le gestioni tecniche di Andreoli ed [[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]] e la presidenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]].
 
 ---
 

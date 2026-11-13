@@ -71,6 +71,12 @@ image_credits:
 
 <div class="wiki-clearfix"></div>
 
+## Profilo Storico e Gestione Societaria
+
+Avvocato e figura cardine dello sport siciliano — destinato poi a presiedere il CONI regionale e il comitato organizzatore delle Universiadi del 1997 — Ignazio Marcoccio assunse la guida del Catania nel marzo 1959 in qualità di commissario straordinario, ereditando una società indebitata e invischiata nella lotta salvezza. La sua prima decisione fu strategica: confermare la fiducia a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], che dopo il sedicesimo posto del [[02-cronistoria/stagioni/1958-1959|1958-1959]] guidò i rossazzurri al terzo posto da 47 punti nella [[02-cronistoria/stagioni/1959-1960|stagione 1959-1960]], riconquistando la Serie A all'ultima giornata nonostante la sconfitta di Brescia.
+
+Sotto la presidenza di Marcoccio si aprì l'età d'oro del club: sei campionati consecutivi nella massima serie dal 1960 al 1966, fondati su una rigorosa disciplina finanziaria, su un legame simbiotico con Di Bella e su un modello di scouting capace di portare al Cibali giocatori come Giuseppe Vavassori, Horst Szymaniak, Carlo Facchin, Giancarlo Danova e Cinesinho. Tre volte ottavo in Serie A — nel [[02-cronistoria/stagioni/1960-1961|1960-1961]] con 36 punti e lo storico 2-0 all'Inter del 4 giugno 1961 immortalato da Sandro Ciotti con «Clamoroso al Cibali!», poi nel [[02-cronistoria/stagioni/1963-1964|1963-1964]] con finale di Coppa delle Alpi a Berna e nel [[02-cronistoria/stagioni/1964-1965|1964-1965]] a quota 32 — il Catania retrocesse solo nel [[02-cronistoria/stagioni/1965-1966|1965-1966]]. Anche negli anni successivi in Serie B, Marcoccio completò un passaggio storico fondamentale: il 17 settembre 1967 trasformò il club in [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], lasciando nel 1969 ad [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] una società strutturata e già pronta al pronto ritorno in A con Egizio Rubino.
+
 ## Tappe Fondamentali della Presidenza Marcoccio (1959–1969)
 
 | Anno / Stagione | Snodo Storico e Sportivo | Dettaglio |

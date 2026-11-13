@@ -93,7 +93,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Bruno Pace** (Pescara, Italia, 1943 – 2018) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1986-1989**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Tecnico anticonformista, diretto e capace di accendere lo spogliatoio nei momenti più drammatici, **Bruno Pace** (Pescara, 1943 – 2018) legò il proprio nome alla storia di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'epopea salvezza della seconda metà degli anni Ottanta.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Ala
@@ -105,11 +105,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Bruno Pace, ex fantasista di Bologna e Palermo e tecnico carismatico e anticonformista, ha allenato il Catania in tre diverse annate: nel finale di Serie B 1986-1987, nel salvataggio epico agli spareggi di Serie C1 1987-1988 e nella Serie C1 1988-1989.
+Ex ala estrosa di Bologna e Palermo, Pace trasferì in panchina la stessa carica di imprevedibilità e carattere. Approdò per la prima volta in rossazzurro nell'aprile 1987 su chiamata del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], subentrando a [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] per le ultime nove gare ufficiali della Serie B [[02-cronistoria/stagioni/1986-1987|1986-1987]], senza riuscire a evitare l'ultimo scivolone verso la Serie C1 (19º posto con 32 punti).
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel giugno 1988 a Cosenza guidò il Catania nel doppio spareggio salvezza contro Nocerina (2-0) e Frentana Val di Sangro, evitando una clamorosa retrocessione in Serie C2.
+Richiamato nella drammatica stagione [[02-cronistoria/stagioni/1987-1988|1987-1988]] sotto la presidenza di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]], rilevò la squadra dalla 23ª giornata dopo le gestioni di [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]] e [[03-tesserati/allenatori/pietro-santin|Pietro Santin]]. Chiusa la stagione regolare al 15º posto con 30 punti ([[03-tesserati/calciatori/archivio/a-c/adriano-polenta|Adriano Polenta]] capocannoniere a quota 6), il 12 giugno 1988 allo stadio San Vito di Cosenza firmò il capolavoro dello spareggio salvezza contro la Nocerina: un 2-0 deciso da Marini e [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]] che evitò la retrocessione in Serie C2.
+
+Confermato per il [[02-cronistoria/stagioni/1988-1989|1988-1989]], lasciò dopo dodici giornate per quattro sconfitte consecutive, cedendo il posto a [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]] (10º posto finale a 34 punti). Il suo bilancio complessivo conta 43 panchine ufficiali e 1,21 punti di media.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

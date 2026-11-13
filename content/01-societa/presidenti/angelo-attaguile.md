@@ -77,6 +77,12 @@ Durante il suo quadriennio:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Nell'estate del 1987, al termine della sofferta discesa dalla Serie B sancita dalla [[02-cronistoria/stagioni/1986-1987|stagione 1986-1987]], Angelo Attaguile raccolse l'eredità di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] alla guida di un club gravato dai debiti e ferito nell'entusiasmo. Il quadriennio dell'ex presidente tra il 1987 e il 1991 fu un esercizio di sopravvivenza agonistica e riassetto societario all'interno di un girone meridionale della Serie C1 allora feroce e molto livellato. Il momento più critico arrivò già al primo anno, nel [[02-cronistoria/stagioni/1987-1988|1987-1988]]: dopo l'avvicendamento tra Osvaldo Jaconi, Pietro Santin e Bruno Pace, la permanenza nella categoria venne salvata soltanto il 12 giugno 1988 allo spareggio neutro di Cosenza, superando la Nocerina per 2-0.
+
+Superato il baratro della C2, la gestione Attaguile seppe restituire graduale dignità alla squadra. Dopo l'annata di transizione [[02-cronistoria/stagioni/1988-1989|1988-1989]] chiusa a quota 34 punti tra Pace e Carmelo Russo, la scelta di chiamare Angelo Sormani in panchina accese la [[02-cronistoria/stagioni/1989-1990|stagione 1989-1990]]: trascinato dai 12 gol di Fabrizio Cipriani, il Catania risalì al sesto posto con 39 punti e raggiunse la semifinale di Coppa Italia Serie C. Confermato Sormani e ancora Cipriani miglior marcatore nel [[02-cronistoria/stagioni/1990-1991|1990-1991]] (undicesimo posto con 33 punti insieme a elementi come D'Aloisio, Del Vecchio e Vanzetto), nell'estate 1991 Attaguile cedette il controllo del sodalizio a Salvatore Massimino.
+
 ## Tappe della Presidenza Attaguile
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |

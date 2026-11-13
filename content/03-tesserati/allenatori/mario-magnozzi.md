@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Mario Magnozzi** (Livorno, Italia, 1902 – 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1949-1950**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Per celebrare il ritorno in Serie B dopo nove anni, nell'estate del 1949 il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] affidò la panchina a una figura leggendaria del calcio italiano anteguerra: **Mario Magnozzi** (Livorno, 1902 – 1971), detto «Motorino», guidò i rossazzurri nella prima fase della stagione [[02-cronistoria/stagioni/1949-1950|1949-1950]] sotto la presidenza di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -104,11 +104,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Magnozzi, straordinario attaccante di Livorno e Milan, capocannoniere della Serie A e bronzo olimpico ad Amsterdam 1928 con l'Italia, allenò il Catania nella prima parte della Serie B 1949-1950 (1ª-15ª giornata).
+Attaccante di straordinaria generosità e tecnica con le maglie di Livorno e Milan, capocannoniere della Divisione Nazionale 1924-1925 e bronzo olimpico con l'Italia ad Amsterdam nel 1928, Magnozzi portò allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] il peso di un passato illustre unito a una consolidata esperienza da allenatore. Sbarcò in Sicilia dopo la promozione ottenuta a tavolino nell'estate del 1949, in un'annata in cui il torneo cadetto prevedeva cinque retrocessioni e richiedeva un immediato salto di qualità rispetto alla Serie C.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Confermò le sue immense doti umane e tecniche impostando un impianto di gioco solido che permise ai rossazzurri di disputare un campionato di vertice in cadetteria.
+La dirigenza mise a disposizione del tecnico toscano innesti di spessore come il difensore [[03-tesserati/calciatori/archivio/a-c/alfredo-piram|Alfredo Piram]], il mediano [[03-tesserati/calciatori/archivio/d-f/dandolo-brondi|Dandolo Brondi]], [[03-tesserati/calciatori/archivio/a-c/bruno-ziz|Bruno Ziz]] e soprattutto l'ala destra Serafino Romani (prelevato dal Modena e futuro capocannoniere di squadra con 11 gol). Nonostante un avvio ordinato nei primi quindici turni del campionato, la società optò prima della trasferta di Modena della 16ª giornata per il cambio tecnico, richiamando l'ungherese [[03-tesserati/allenatori/stanislao-klein|Stanislao Klein]], che completò poi la stagione al 12º posto con 40 punti (15 vittorie, 10 pareggi e 17 sconfitte), garantendo una salvezza tranquilla.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

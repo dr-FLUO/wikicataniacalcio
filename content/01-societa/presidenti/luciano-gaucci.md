@@ -72,6 +72,12 @@ image_credits:
 
 <div class="wiki-clearfix"></div>
 
+## Profilo Storico e Gestione Societaria
+
+Con l'ingresso di Luciano Gaucci nel maggio del 2000, acquisito il controllo integrale della società dagli eredi di Angelo Massimino guidati da [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]], il Catania uscì dalla lunga marginalità della terza serie entrando nell'orbita di una proprietà abituata alla Serie A. Imprenditore romano istrionico e già patron di Perugia e Viterbese, Gaucci affidò formalmente la presidenza al figlio [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], mantenendo però saldamente l'indirizzo strategico e l'investimento sul mercato in tutta l'[[01-societa/epoche/2000-era-gaucci|era Gaucci]].
+
+Dopo la delusione della finale playoff del [[02-cronistoria/stagioni/2000-2001|2000-2001]] persa nel derby contro il Messina, il patron alzò la posta nella [[02-cronistoria/stagioni/2001-2002|stagione 2001-2002]]: cambiò più volte guida tecnica fino alla coppia composta da Ciccio Graziani e Maurizio Pellegrino e costruì una rosa da categoria superiore attorno a Gennaro Iezzo e ai 18 gol di Eddy Baggio, centrando il 9 giugno 2002 a Taranto il ritorno in Serie B dopo quindici anni. Ma il segno più celebre della sua permanenza esplose nella primavera-estate del 2003, quando al termine della [[02-cronistoria/stagioni/2002-2003|stagione 2002-2003]] Gaucci ingaggiò una battaglia giudiziaria senza precedenti attorno al [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] su Catania-Siena: l'ordinanza del TAR Sicilia del 5 giugno 2003 e il conseguente intervento governativo salvarono la categoria portando la [[02-cronistoria/stagioni/2003-2004|Serie B 2003-2004]] a ventiquattro squadre. Archiviato il nono posto con Stefano Colantuono, nell'estate 2004 cedette il club ad [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] per circa quindici milioni di euro.
+
 ## Tappe Chiave della Proprietà Gaucci a Catania
 
 | Anno | Evento Societario e Sportivo | Dettaglio |

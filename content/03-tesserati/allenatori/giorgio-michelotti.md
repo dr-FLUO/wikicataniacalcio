@@ -97,7 +97,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/g-l/giorgio-michelotti|Giorgio Michelotti]]** (Bengasi, Libia, 1936 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1981-1982**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Pochi tesserati hanno servito i colori etnei con la stessa sobrietà e dedizione di **[[03-tesserati/calciatori/archivio/g-l/giorgio-michelotti|Giorgio Michelotti]]** (Bengasi, 1936 – 2017), colonna difensiva nella Serie A degli anni Sessanta e guida tecnica di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'annata 1981-1982.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -109,11 +109,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giorgio Michelotti, storico terzino del Catania di Di Bella in Serie A negli anni Sessanta (133 presenze ufficiali in rossazzurro), guidò gli etnei in Serie B nella stagione 1981-1982 condotta con grande equilibrio e conclusa all'ottavo posto con 38 punti.
+Terzino affidabile e rigoroso del grande Catania di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Michelotti vestì il rossazzurro in sette stagioni totalizzando 113 presenze in campionato prima di stabilirsi definitivamente in città. Nell'estate 1981 il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] gli affidò ufficialmente la prima squadra in affiancamento al direttore tecnico [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], impossibilitato a sedere in panchina per raggiunti limiti di età.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Uomo d'altri tempi e professionista integerrimo, fu tra i rari protagonisti capaci di lasciare un'impronta profonda sia da calciatore nella massima serie sia da allenatore cadetto.
+Nella Serie B [[02-cronistoria/stagioni/1981-1982|1981-1982]], Michelotti raccolse 42 panchine ufficiali (media di 1,24 punti a partita). Il girone d'andata fu esaltante: spinti dalla coppia gol formata da [[03-tesserati/calciatori/storici/aldo-cantarutti|Aldo Cantarutti]] e [[03-tesserati/calciatori/archivio/a-c/angelo-crialesi|Angelo Crialesi]] (10 reti a testa), gli etnei conquistarono 23 punti chiudendo al 3º posto dopo i successi allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] su Sampdoria (1-0), Palermo (3-1) e Verona (2-1).
+
+Nel girone di ritorno una flessione di sedici turni senza vittorie frenò la rincorsa alla Serie A, ma la squadra difese con ordine una posizione tranquilla fino all'8º posto finale con 38 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

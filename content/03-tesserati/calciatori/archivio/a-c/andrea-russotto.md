@@ -103,7 +103,7 @@ tm_id: 20590
   </table>
 </div>
 
-**Andrea Russotto** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+Con **28 reti** e **21 assist** in **134 presenze ufficiali**, **Andrea Russotto** è il realizzatore più prolifico tra le ventisette colonne storiche del [[01-societa/matricola-11700|Calcio Catania]] comprese tra 127 e 256 apparizioni, simbolo di due fasi distinte tra il 2015 e il 2023.
 
 ---
 
@@ -125,7 +125,9 @@ tm_id: 20590
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Roma (classe 1988), **Andrea Russotto** ha militato nelle file rossazzurre per **6 stagioni** (2015–2023). Punto di riferimento nello scacchiere etneo, ha totalizzato **134 presenze ufficiali** (8348' minuti effettivi) impreziosite da **28 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2016-2017**, durante la quale è sceso in campo in 33 occasioni realizzando 2 reti.
+Trequartista romano nato il 25 maggio 1988, giunse dalla Salernitana nell'estate del 2015 dopo il declassamento d'ufficio in terza serie. Nel [[02-cronistoria/stagioni/2015-2016|2015-2016]] guidato da [[03-tesserati/allenatori/giuseppe-pancaro|Giuseppe Pancaro]] e [[03-tesserati/allenatori/francesco-moriero|Francesco Moriero]] (presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]]) segnò 6 reti in 26 gare, tra cui il gol vittoria nel derby col Messina. Dopo le 33 presenze della [[02-cronistoria/stagioni/2016-2017|2016-2017]] con [[03-tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]], toccò il proprio vertice realizzativo nella [[02-cronistoria/stagioni/2017-2018|Serie C 2017-2018]] di [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]], siglando 8 gol e 7 assist in 32 incontri fino alle semifinali play-off.
+
+Rientrato dalla Cavese nella [[02-cronistoria/stagioni/2020-2021|2020-2021]] sotto la gestione SIGI di [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura]] (4 gol in 13 gare tra [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] e [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]]), conservò una presenza omologata nella travagliata [[02-cronistoria/stagioni/2021-2022|2021-2022]] interrotta dall'esclusione del club. Nel [[02-cronistoria/stagioni/2022-2023|2022-2023]] della rinascita targata [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]], si rivelò decisivo con 8 reti e 6 assist in 29 gare per mister [[03-tesserati/allenatori/giovanni-ferraro|Giovanni Ferraro]], trascinando la squadra al trionfo in Serie D.
 
 ---
 

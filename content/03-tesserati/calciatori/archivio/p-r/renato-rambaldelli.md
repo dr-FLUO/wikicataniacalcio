@@ -93,7 +93,7 @@ tm_id: 488214
   </table>
 </div>
 
-**Renato Rambaldelli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Otto stagioni consecutive, **182 presenze ufficiali** e **16.380 minuti** senza mai uscire dal campo prima del fischio finale fanno di **Renato Rambaldelli** uno dei terzini sinistri più longevi nella storia del [[01-societa/matricola-11700|Calcio Catania]].
 
 ---
 
@@ -117,7 +117,9 @@ tm_id: 488214
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Torino nel 1936, **Renato Rambaldelli** ha militato nelle file rossazzurre per **8 stagioni** (1960–1968). Punto di riferimento nello scacchiere etneo, ha totalizzato **182 presenze ufficiali** (16.380' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1966-1967**, disputata con 34 presenze complessive.
+Prelevato dal Como nel 1960, il difensore torinese nato il 2 luglio 1936 si inserì gradualmente nei meccanismi di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] durante i primi due tornei in Serie A, raccogliendo 8 presenze nel [[02-cronistoria/stagioni/1960-1961|1960-1961]] e 15 nel [[02-cronistoria/stagioni/1961-1962|1961-1962]]. Divenne titolare inamovibile a partire dalla [[02-cronistoria/stagioni/1962-1963|1962-1963]], annata in cui collezionò 32 gettoni e decise con una sua rete l'1-0 interno sul Napoli del 10 marzo 1963.
+
+Sotto la gestione commissariale di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], condivise i gradi di capitano con [[03-tesserati/calciatori/archivio/a-c/alvaro-biagini|Alvaro Biagini]] nelle stagioni più brillanti del ciclo etneo in massima serie: l'ottavo posto del [[02-cronistoria/stagioni/1963-1964|1963-1964]] e soprattutto l'ottavo posto solitario record della [[02-cronistoria/stagioni/1964-1965|1964-1965]], impreziosito da 33 presenze e dal sigillo dell'84' nel 3-1 inflitto alla Juventus al Cibali davanti a [[03-tesserati/calciatori/archivio/g-l/giancarlo-danova|Giancarlo Danova]] e [[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador Calvanese]]. Rimase in squadra anche dopo la retrocessione del [[02-cronistoria/stagioni/1965-1966|1965-1966]], toccando le 34 presenze nella [[02-cronistoria/stagioni/1966-1967|Serie B 1966-1967]] allenata da [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] prima di chiudere con le ultime 5 gare del [[02-cronistoria/stagioni/1967-1968|1967-1968]].
 
 ---
 

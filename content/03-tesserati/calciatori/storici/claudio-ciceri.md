@@ -93,7 +93,8 @@ tm_id: 501940
   </table>
 </div>
 
-**Claudio Ciceri** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+
+Finalizzatore implacabile d'area di rigore, il centravanti milanese **Claudio Ciceri** (Milano, 10 maggio 1951) incise profondamente due diversi cicli del [[01-societa/matricola-11700|Calcio Catania]] negli anni Settanta, firmando **38 reti in 101 gare ufficiali**.
 
 ---
 
@@ -112,7 +113,9 @@ tm_id: 501940
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Milano nel 1951, il attaccante **Claudio Ciceri** ha militato nelle file rossazzurre per **3 stagioni** (1974–1979). Punto di riferimento nello scacchiere etneo, ha totalizzato **101 presenze ufficiali** (8676' minuti effettivi) impreziosite da **38 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1975-1976**, durante la quale è sceso in campo in 41 occasioni realizzando 13 reti.
+Prelevato dal Chieti nell'estate del 1974 su impulso del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], deciso a cancellare subito l'amarezza della discesa in terza serie, Ciceri divenne l'arma letale della Serie C [[02-cronistoria/stagioni/1974-1975|1974-1975]]. Affidato dapprima a [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] e subito dopo ad [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], formò con Giampietro Spagnolo una coppia offensiva travolgente: le sue **18 reti in 37 presenze** — tra cui doppiette a Barletta, Cynthia e Acireale e il sigillo che sbloccò lo 0-3 finale a Torre del Greco contro la Turris — riportarono i rossazzurri in Serie B al termine di un duello serrato con il Bari.
+
+Confermato tra i cadetti nella [[02-cronistoria/stagioni/1975-1976|stagione 1975-1976]], vissuta tra Rubino e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], fu il miglior marcatore etneo con **13 gol in 41 partite** (11 in campionato), contribuendo in modo determinante alla salvezza. Dopo una parentesi altrove, Massimino lo richiamò per l'assalto alla promozione nella Serie C1 [[02-cronistoria/stagioni/1978-1979|1978-1979]]: sotto la guida tecnica di [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]], il bomber lombardo aggiunse altri **7 centri in 23 apparizioni**, chiudendo al terzo posto a due punti dalla coppia di testa e toccando quota 8.676 minuti complessivi in maglia etnea.
 
 ---
 

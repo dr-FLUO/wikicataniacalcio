@@ -91,7 +91,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Fioravante Baldi** (Baselice (BN), Italia, 1913 – 1976) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1951-1953**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Tre scudetti vinti da protagonista con la maglia del Bologna avevano temprato il carattere di **Fioravante Baldi** (Baselice, 1913 – 1976) ben prima che il presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] gli confidasse le ambizioni di promozione del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nei primi anni Cinquanta.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -103,11 +103,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Fioravante Baldi, tre volte Campione d'Italia con il leggendario Bologna «che tremare il mondo fa», condusse il Catania al terzo posto finale nella Serie B 1952-1953 sfiorando la promozione e guidò la squadra anche nelle ultime due gare del 1951-1952.
+Centrocampista d'ordine e di sostanza nella grande squadra felsinea degli anni Trenta, Baldi portò a Catania cultura del lavoro ed equilibrio tattico. Chiamato nel giugno 1952 a chiudere il campionato [[02-cronistoria/stagioni/1951-1952|1951-1952]] al posto di [[03-tesserati/allenatori/rodolfo-brondi|Rodolfo Brondi]] — a sua volta subentrato a [[03-tesserati/allenatori/nereo-marini|Nereo Marini]] — completò una Serie B rassicurante al 4º posto con 44 punti, illuminata dai 13 gol di Klein.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1952-1953, in coppia con il D.T. [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]], totalizzò 41 punti al terzo posto a una sola lunghezza dal Legnano promosso, gettando le fondamenta definitive per il trionfo dell'anno successivo con Andreoli.
+Nell'annata [[02-cronistoria/stagioni/1952-1953|1952-1953]], affiancato dal direttore tecnico [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]], Baldi diresse una rincorsa memorabile verso la Serie A. Dopo un avvio altalenante, la squadra cambiò passo nel girone di ritorno spinta dalle reti di [[03-tesserati/calciatori/archivio/a-c/bruno-micheloni|Bruno Micheloni]] (12 centri) e [[03-tesserati/calciatori/archivio/d-f/fabrizio-bartolini|Fabrizio Bartolini]], chiudendo al 3º posto con 41 punti (16 vittorie, 9 pareggi, 9 sconfitte) dopo la vittoria a tavolino di Padova che valse l'aggancio al Legnano.
+
+Lo spareggio disputato a Firenze il 28 luglio 1953 premiò i lombardi per 4-1, ma le 36 panchine di Baldi (media punti 1,75) posero le fondamenta tecniche della promozione centrata l'anno dopo da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

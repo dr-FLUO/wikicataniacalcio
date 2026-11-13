@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**William Viali** (Vaprio d'Adda (MI), Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2025-2026**, legando il proprio nome alla storia societaria di [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] (2023-Oggi).
+Nel finale della stagione regolare [[02-cronistoria/stagioni/2025-2026|2025-2026]], quando una flessione primaverile costò al [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] la vetta del girone C di Serie C, il club di [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] affidò la panchina a **William Viali** (Vaprio d'Adda, 1974).
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore Centrale
@@ -114,11 +114,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-William Viali, ex difensore di Serie A con Lecce, Fiorentina e Palermo e brillante allenatore tra B e C con Cosenza e Ascoli, guidò il Catania nella primavera 2026 tra la 33ª e la 36ª giornata di Serie C.
+Ex difensore di Serie A con Lecce, Fiorentina e Palermo e allenatore affermatosi tra C e B con Cosenza e Ascoli, Viali fu scelto il 17 marzo 2026 dal direttore sportivo Ivano Pastore per rilevare [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] dopo la 32ª giornata. Trovò un organico costruito attorno a [[03-tesserati/calciatori/rosa-attuale/gabriel-lunetta|Gabriel Lunetta]] (9 reti stagionali), [[03-tesserati/calciatori/archivio/d-f/francesco-forte|Francesco Forte]], [[03-tesserati/calciatori/archivio/d-f/francesco-di-tacchio|Francesco Di Tacchio]] e al rinforzo invernale [[03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti|Giovanni Bruzzaniti]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Chiamato dal DS Ivano Pastore durante un delicato passaggio a vuoto della stagione 2025-2026, guidò la squadra per quattro turni prima del ritorno di Mimmo Toscano per la fase finale e i play-off.
+La parentesi di Viali durò ventinove giorni fino al 15 aprile 2026, per quattro gare di campionato (33ª-36ª giornata) chiuse con 4 punti (media 1,00): dopo l'1-1 al [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] con il Casarano e la vittoria per 1-0 a Latina firmata da Bruzzaniti, le sconfitte contro AZ Picerno (1-2) e Crotone (0-2) indussero la società a richiamare Toscano per le ultime due giornate e i play-off, conclusi in semifinale dopo il 2º posto a quota 70 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

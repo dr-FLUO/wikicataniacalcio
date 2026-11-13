@@ -39,23 +39,19 @@ aliases:
 
 # Rivalità Catania-Juve Stabia (Tensioni Campano-Sicule)
 
-La rivalità tra **Catania** e **Juve Stabia** è una contrapposizione sportiva e di gradinata esplosa con vigore a cavallo del nuovo millennio, intensificatasi progressivamente durante i lunghi campionati di terza serie affrontati dalle due formazioni.
+Esplosa tra la fine degli anni Novanta e i primi anni Duemila, la rivalità tra **Catania** e **Juve Stabia** rappresenta una delle contrapposizioni di gradinata più tese maturate nei lunghi campionati di terza serie. A renderla costante nel tempo è stata la frequenza degli incroci nello stesso girone meridionale, in un confronto reso spigoloso dalle caratteristiche ambientali degli impianti e dalla divergenza delle rispettive alleanze.
 
 ---
 
 ## 1. Origini della Frizione a Fine Anni Novanta
 
-I primi attriti significativi tra le due compagini risalgono alla fine degli anni Novanta, nel campionato di Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2000]]:
-- Lo Stadio Romeo Menti di Castellammare di Stabia, caratterizzato da gradinate a ridosso del terreno di gioco e varchi d'accesso angusti nel fitto tessuto urbano cittadino, si è sempre rivelato un terreno particolarmente ostile per le tifoserie ospiti.
-- La presenza numerosa di tifosi catanesi in Campania in quegli anni accese dispute territoriali con i gruppi organizzati stabiesi (tra cui la *[[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] Castellammare*).
+Le prime frizioni rilevanti si registrarono sul finire degli anni Novanta, nel campionato di Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2000]]. Lo Stadio Romeo Menti di Castellammare di Stabia — impianto dalle gradinate addossate al terreno di gioco e dai varchi d'accesso stretti all'interno di un tessuto urbano denso — si impose subito come un contesto difficile per le tifoserie ospiti. La presenza cospicua di sostenitori rossazzurri al seguito della squadra in Campania accese inevitabili dispute territoriali con i gruppi locali, a partire dalla *[[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] Castellammare*.
 
 ---
 
 ## 2. Le Tensioni nel Decennio 2015–2024
 
-Con la contemporanea militanza nel girone C di Serie C:
-- I confronti tra le due squadre hanno registrato momenti di elevata tensione: nel 2019 e nel 2021 si verificarono tentativi di contatto all'esterno dello stadio, con fitto lancio di fumogeni e bottiglie all'arrivo dei convogli etnei scortati dalla polizia.
-- Le divergenze di alleanze nel panorama del tifo meridionale hanno consolidato l'inimicizia, sfociata in frequenti divieti di vendita dei biglietti per motivi di sicurezza pubblica decretati dal prefetto di Napoli.
+Con il ritrovato confronto stabile nel Girone C di Serie C, la tensione si è riaccesa a più riprese. Nel 2019 e nel 2021 si verificarono tentativi di contatto all'esterno del Menti, segnati da lanci di fumogeni e bottiglie all'arrivo dei convogli etnei scortati dalle forze dell'ordine. La distanza netta sul piano delle amicizie meridionali ha così consolidato un'inimicizia sorvegliata costantemente dalle prefetture, spesso sfociata in divieti preventivi di vendita dei tagliandi per ragioni di ordine pubblico.
 
 ---
 

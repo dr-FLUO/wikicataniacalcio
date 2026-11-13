@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Dino Ballacci** (Bologna, Italia, 1924 – 2013) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1966-1968**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967), [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Raccogliere l'eredità di sei anni di Serie A non era impresa agevole nell'estate del 1966, ma **Dino Ballacci** (Bologna, 1924 – 2013) affrontò la sfida cadetta con la tempra del difensore d'acciaio, accompagnando la transizione dal [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] a [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -104,11 +104,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Dino Ballacci, granitico terzino del Bologna e della Nazionale negli anni Cinquanta, allenò il Catania in Serie B nella stagione 1966-1967 (conclusa a un prestigioso 3º posto a pari merito, sfiorando la promozione) e nelle prime 12 gare del 1967-1968.
+Terzino granitico del Bologna e della Nazionale azzurra negli anni Cinquanta, Ballacci si era fatto apprezzare come tecnico severo ed essenziale nella precedente esperienza a Catanzaro. Nel 1966 il commissario straordinario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] puntò sul suo temperamento per ricostruire una squadra rimasta orfana di diversi titolari dopo la retrocessione dalla massima serie.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Impresse alla squadra un carattere indomito e una solidità difensiva proverbiale, disputando un biennio di grande spessore nel campionato cadetto.
+Alla guida del Catania dal 1º luglio 1966 al 26 novembre 1967, Ballacci collezionò 51 panchine ufficiali (media 1,29). Nella Serie B [[02-cronistoria/stagioni/1966-1967|1966-1967]], valorizzando il giovane [[03-tesserati/calciatori/archivio/p-r/pietro-baisi|Pietro Baisi]] (capocannoniere con 9 reti), sfiorò il ritorno immediato in Serie A, chiudendo al 3º posto con 42 punti alla pari con Catanzaro e Reggiana dietro Sampdoria e Varese.
+
+Confermato nel [[02-cronistoria/stagioni/1967-1968|1967-1968]] dopo la trasformazione societaria dell'aprile 1967 in S.p.A., pagò un avvio difficile: dopo la sconfitta interna al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] contro il Palermo di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] alla 12ª giornata, lasciò il posto a [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], che chiuse poi al 10º posto con 40 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

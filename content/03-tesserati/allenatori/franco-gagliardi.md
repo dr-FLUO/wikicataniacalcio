@@ -88,7 +88,7 @@ aliases:
   </table>
 </div>
 
-**Franco Gagliardi** (Reggio Calabria, Italia, 1943) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1997-1998**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Chiamato a stagione in corso nel pieno inverno del 1997, **Franco Gagliardi** (Reggio Calabria, 1943) guidò il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella seconda metà della Serie C2 [[02-cronistoria/stagioni/1997-1998|1997-1998]] sotto la presidenza di [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -100,11 +100,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Franco Gagliardi guidò il Catania dalla 16ª alla 34ª giornata della Serie C2 1997-1998, conducendo la formazione etnea al 10º posto finale con 43 punti.
+Allenatore di solida scuola calabrese, originario di Reggio Calabria, Franco Gagliardi si distinse per pragmatismo tattico e capacità di gestione dei gruppi in contesti complessi della terza e quarta serie nazionale. Giunse alle pendici dell'Etna sul finire del dicembre 1997 per raccogliere l'eredità di [[03-tesserati/allenatori/giovanni-mei|Giovanni Mei]], sollevato dall'incarico dopo la quindicesima giornata di campionato con la squadra a quota 18 punti.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico concreto e preparato della scuola calabrese, seppe compattare la rosa in un'annata transitoria della presidenza di Grazia Codiglione.
+Gagliardi diresse i rossazzurri dalla sedicesima alla trentaquattresima giornata del girone C di Serie C2 [[02-cronistoria/stagioni/1997-1998|1997-1998]], lungo diciannove turni di torneo. Dopo la sconfitta d'esordio sul campo del Trapani (0-3) e due partite interne disputate sul neutro di Lentini per i lavori di manutenzione al Cibali, impresse un passo costante nel girone di ritorno conquistando ben 25 punti. Spiccarono il colpo esterno per 2-1 a Crotone, i netti successi casalinghi contro Cavese (4-1), Castrovillari (3-1) e Trapani (3-2) e il supporto offensivo di [[03-tesserati/calciatori/archivio/g-l/luca-lugnan|Luca Lugnan]], conducendo il Catania fino al decimo posto finale con 43 punti complessivi.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

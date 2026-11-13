@@ -45,37 +45,31 @@ aliases:
 
 # Irriducibili Curva Sud (1991)
 
-Gli **Irriducibili** (spesso identificati attraverso l'acronimo militante **I.R.A. - Irriducibili RossAzzurri**) costituiscono dal **1991** la colonna portante della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] / Angelo Massimino.
+Dal **1991**, gli **Irriducibili** — spesso siglati con l'acronimo militante **I.R.A. - Irriducibili RossAzzurri** — costituiscono la spina dorsale organizzativa della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] / Angelo Massimino. In oltre trentacinque anni di attività ininterrotta, il gruppo ha dato forma, leadership e continuità generazionale a un settore storicamente caldo ma a lungo frammentato.
 
 ---
 
 ## 1. Origini: Dal "Primo Amore" agli Irriducibili
 
-- **La Migrazione del 1991:** Il gruppo nacque nel 1991 dall'iniziativa di un collettivo di giovani ultras provenienti dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] che decise di trasferirsi in Curva Sud per animare un settore fino ad allora privo di una leadership centralizzata.
-- **La Denominazione:** Inizialmente scelsero il nome poetico di [[06-tifoseria-e-cultura/settori/curva-sud/primo-amore-1991|Primo Amore]], mutato ben presto in *Irriducibili* per sottolineare la natura intransigente, combattiva e battagliera del gruppo nei confronti di ogni avversità societaria o giudiziaria.
-- **Radicamento Popolare:** Il bacino sociale del gruppo si è consolidato nei grandi quartieri popolari della cintura meridionale e centrale di Catania: da San Cristoforo a Librino, da Zia Lisa a via Plebiscito fino al Villaggio Sant'Agata.
+La nascita degli Irriducibili risale alla migrazione di settore compiuta nel 1991 da un nucleo di giovani ultras provenienti dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]], decisi a trasferirsi nella gradinata opposta per strutturare una guida stabile in Curva Sud. Ribattezzatisi inizialmente con il nome romantico di [[06-tifoseria-e-cultura/settori/curva-sud/primo-amore-1991|Primo Amore]], scelsero poco dopo l'insegna più combattiva di *Irriducibili*, affermando fin da subito una matrice tenace e popolare radicata nei grandi quartieri meridionali e centrali della città: San Cristoforo, Librino, Zia Lisa, via Plebiscito e Villaggio Sant'Agata.
 
 ---
 
 ## 2. Momenti Storici e Scissioni
 
-- **La Scissione dell'[[06-tifoseria-e-cultura/settori/tribuna-b/anr|A.N.R.]] (2000):** Nel 2000, una fazione interna attratta dallo stile casual e britannico decise di staccarsi dagli Irriducibili, fondando in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]].
-- **La Presenza in Trasferta:** Gli Irriducibili hanno costruito la propria reputazione sulla presenza costante su ogni campo: dai gironi infernali della Serie C2 fino ai palcoscenici della Serie A, garantendo una scorta vocale continua ai colori rossazzurri.
+L'identità del gruppo si forgiò lungo una presenza ininterrotta su tutti i campi d'Italia, dai gironi più duri della Serie C2 fino agli stadi della Serie A, garantendo alla squadra un sostegno vocale costante. Sul piano interno, la tappa più significativa fu la scissione del 2000, quando una fazione attratta dallo stile casual di matrice britannica lasciò il gruppo per fondare in Tribuna B l'[[06-tifoseria-e-cultura/settori/tribuna-b/index|A.N.R. (Associazione Non Riconosciuta)]] ([[06-tifoseria-e-cultura/settori/tribuna-b/anr|scheda A.N.R.]]).
 
 ---
 
 ## 3. L'Adesione alla Tessera e l'Unione con la Falange (2015)
 
-Nell'estate del 2015, di fronte alla retrocessione in Serie C e ai divieti di trasferta, gli Irriducibili decisero di privilegiare il presenzialismo fisico al fianco della squadra, sottoscrivendo la Tessera del Tifoso:
-- La scelta portò all'accoglienza in Curva Sud della storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], con cui venne siglato un patto d'azione unitario per le trasferte sotto lo striscione [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
+Nell'estate del 2015, davanti alla retrocessione d'ufficio in Serie C e alla stretta sui divieti di trasferta, gli Irriducibili scelsero la via del presenzialismo fisico sottoscrivendo la Tessera del Tifoso per non abbandonare la squadra lontano dal Massimino. Tale decisione aprì la strada all'arrivo in Curva Sud della storica [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], con cui fu stretto un patto unitario per le gare esterne sotto l'insegna condivisa di [[06-tifoseria-e-cultura/settori/curva-sud/estrema-appartenenza|Estrema Appartenenza Curva Sud Catania]].
 
 ---
 
 ## 4. L'Assetto nella Stagione 2026
 
-Con l'inizio della **stagione calcistica 2026**, la Curva Sud ha vissuto un ulteriore arricchimento strutturale grazie allo spostamento stabile del gruppo storico [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]] nell'anello centrale superiore:
-- Gli Irriducibili continuano a rappresentare il perno organizzativo della gradinata sud, coordinando la parte centrale dell'anello superiore e garantendo continuità generazionale nel sostegno alla squadra.
-- L'intesa tra Irriducibili, Falange d'Assalto e il neo-approdato nucleo de I Pazzi ha consolidato un muro di tifo compatto e rumoroso in tutte le partite casalinghe al Massimino.
+Con l'avvio della **stagione calcistica 2026**, la gradinata meridionale ha vissuto un ulteriore rafforzamento grazie all'approdo stabile del gruppo storico [[06-tifoseria-e-cultura/settori/curva-nord/i-pazzi|I Pazzi Rossazzurri]] nell'anello centrale superiore. In questo rinnovato equilibrio, gli Irriducibili confermano il proprio ruolo di perno organizzativo del settore, coordinando il cuore dell'anello superiore in piena sinergia con la Falange d'Assalto e con il nucleo de I Pazzi per assicurare al Massimino un muro vocale compatto.
 
 ---
 

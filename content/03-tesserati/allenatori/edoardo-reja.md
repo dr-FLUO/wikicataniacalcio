@@ -101,7 +101,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Edoardo Reja** (Lucinico (GO), Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Nel cuore di una stagione cadetta turbolenta quanto storica, la [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] si affidò alla saggezza tattica di **Edoardo «Edy» Reja** (Lucinico, 1945), decano delle panchine italiane chiamato a rimettere ordine nello spogliatoio etneo.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -113,11 +113,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Edoardo «Edy» Reja, uno degli allenatori più esperti e vincenti del calcio italiano (recordman di promozioni in Serie A con Napoli, Brescia, Vicenza e Cagliari), guidò il Catania dalla 21ª alla 29ª giornata della Serie B 2002-2003.
+Ex centrocampista di lunga militanza e allenatore fra i più esperti del panorama nazionale — capace in carriera di centrare quattro promozioni in Serie A con Brescia, Vicenza, Cagliari e Napoli — Reja raccolse il 29 gennaio 2003 l'eredità di [[03-tesserati/allenatori/john-toshack|John Toshack]] su incarico del presidente [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]]. Il suo arrivo mirava a conferire equilibrio a una neopromossa scossa dai continui cambi di guida tecnica.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Assunse l'incarico in una delle fasi più calde della stagione, culminata nella complessa vertenza giudiziaria del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] e del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] che riscrisse le regole della Serie B.
+Nella Serie B [[02-cronistoria/stagioni/2002-2003|2002-2003]], Reja diresse i rossazzurri dalla 21ª alla 29ª giornata fino al 6 aprile 2003, collezionando 9 panchine ufficiali alla media di 1,00 punto a partita. Sotto la sua gestione arrivarono successi importanti allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] contro Lecce (2-1 all'esordio) e Verona (2-1) oltre al pari con la capolista Sampdoria, sostenuti dai gol di [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Luís Oliveira]] (capocannoniere stagionale con 13 reti).
+
+Dopo l'avvicendamento con [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], la squadra chiuse 17ª con 43 punti sul campo, prima che gli sviluppi del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]] e del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] portassero alla riammissione nella Serie B allargata a 24 squadre.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

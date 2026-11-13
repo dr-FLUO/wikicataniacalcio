@@ -85,7 +85,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giuseppe Caramanno** (Piana degli Albanesi (PA), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1991-1992**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Protagonista di una singolare doppia staffetta in una sola stagione, **Giuseppe Caramanno** (Piana degli Albanesi, 1941) fu l'architetto principale della squadra del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella Serie C1 [[02-cronistoria/stagioni/1991-1992|1991-1992]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -97,11 +97,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giuseppe Caramanno, celebre docente di tecnica e tattica a Coverciano e protagonista di memorabili promozioni col Palermo e con il Foggia, svolse la preparazione precampionato alla guida del Catania nell'estate 1991.
+Stimato docente di tecnica e tattica a Coverciano e allenatore siciliano di riconosciuta esperienza dopo le promozioni ottenute con Palermo e Foggia, Giuseppe «Pino» Caramanno fu scelto nell'estate del 1991 dalla proprietà legata ad [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] per impostare il progetto tecnico della terza serie nazionale. Nonostante un clamoroso esonero già dopo le prime uscite ufficiali, tornò ben presto protagonista della panchina etnea.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Impostò le basi fisiche e tattiche della squadra rossazzurra prima dell'avvicendamento di settembre a favore di [[03-tesserati/allenatori/franco-vannini|Franco Vannini]].
+Dopo aver diretto il precampionato e le prime due sconfitte nel girone di Coppa Italia Serie C contro Acireale e Siracusa, Caramanno venne sostituito da [[03-tesserati/allenatori/franco-vannini|Franco Vannini]]. Chiusa però la breve gestione toscana dopo appena cinque giornate di Serie C1 [[02-cronistoria/stagioni/1991-1992|1991-1992]], la società lo richiamò dalla sesta giornata fino al termine del campionato. Guidando la risalita dalla sedicesima alla sesta posizione finale con 34 punti (13 vittorie, 8 pareggi e 13 sconfitte) e valorizzando i gol di [[03-tesserati/calciatori/archivio/d-f/fabrizio-cipriani|Fabrizio Cipriani]], firmò affermazioni interne su Salernitana, Reggina, Perugia e Fidelis Andria (3-1), oltre ai blitz nei derby esterni a Giarre (2-1) e Siracusa (1-0).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -93,7 +93,7 @@ tm_id: 480781
   </table>
 </div>
 
-**Angelo Volpato** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+Attaccante e centrocampista offensivo dotato di generosità e fiuto dei gol pesanti, **Angelo Volpato** ha scritto un capitolo lungo sei stagioni nel [[01-societa/matricola-11700|Calcio Catania]] tra il 1967 e il 1973, con **136 presenze ufficiali** e **12 reti**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 480781
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Azzano San Paolo nel 1943, il attaccante **Angelo Volpato** ha militato nelle file rossazzurre per **6 stagioni** (1967–1973). Punto di riferimento nello scacchiere etneo, ha totalizzato **136 presenze ufficiali** (11.541' minuti effettivi) impreziosite da **12 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1972-1973**, durante la quale è sceso in campo in 38 occasioni realizzando 2 reti.
+Arrivato dal Torino nel 1967, il giocatore bergamasco nato ad Azzano San Paolo il 7 giugno 1943 lasciò subito il segno nella [[02-cronistoria/stagioni/1967-1968|Serie B 1967-1968]] di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] (presidenza [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]]), totalizzando 29 presenze e 3 reti contro Padova, Lecco e Reggina. Ancora più pesante fu il suo apporto nella difficile [[02-cronistoria/stagioni/1968-1969|1968-1969]] allenata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], in cui disputò 31 gare e firmò alla 35ª giornata l'1-0 esterno a Reggio Calabria determinante per la permanenza in categoria.
+
+Nel biennio successivo, coinciso con la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], fu limitato dagli infortuni: 5 presenze e 2 gol nella promozione della [[02-cronistoria/stagioni/1969-1970|1969-1970]] e 14 gare con un gol (nel 2-0 al Foggia) nella [[02-cronistoria/stagioni/1970-1971|Serie A 1970-1971]]. Ritrovata continuità tra i cadetti sotto [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], mise insieme 19 gettoni e 2 gol nel [[02-cronistoria/stagioni/1971-1972|1971-1972]], toccando infine il proprio massimo di 38 presenze e 3.356 minuti nel quinto posto della [[02-cronistoria/stagioni/1972-1973|1972-1973]] con altre 2 reti.
 
 ---
 

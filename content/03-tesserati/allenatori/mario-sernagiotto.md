@@ -80,7 +80,7 @@ citizenship: Italia
   </table>
 </div>
 
-**Mario Sernagiotto** (Montebelluna (TV), Italia, 1906 – 1983) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+**Mario Sernagiotto** (Montebelluna (TV), Italia, 1906 – 1983) regge provvisoriamente le redini dell'AFC Catania – erede della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] (1929-1943) – all'alba della stagione **1939-1940**, in uno dei passaggi più delicati dell'epoca prebellica.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore
@@ -92,11 +92,11 @@ citizenship: Italia
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Sernagiotto guidò l'AFC Catania nelle prime tre giornate del campionato di Serie B 1939-1940, prima di lasciare la panchina al maestro ungherese [[03-tesserati/allenatori/gyorgy-orth|György Orth]].
+Nato a Montebelluna nel 1906, **Mario Sernagiotto** è stato un portiere professionista di esperienza, legato al club etneo fin dal 1934 e rimasto in organico anche nelle vesti di punto di riferimento dello spogliatoio. Nell'estate del 1939, quando la società guidata dal presidente Vittorio Emanuele Brusca attende invano l'arrivo del nuovo tecnico ungherese István Mészáros – bloccato in patria dalla mobilitazione militare alla vigilia del secondo conflitto mondiale – Sernagiotto si mette a disposizione per garantire continuità al lavoro atletico precampionato.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Ex calciatore professionista, curò la preparazione precampionato e l'avvio della stagione cadetta 1939-1940 in un momento di grande rinnovamento societario.
+Sernagiotto siede così in panchina nelle **prime tre giornate** della [[02-cronistoria/stagioni/1939-1940|Serie B 1939-1940]], affrontando un avvio proibitivo contro avversarie di rango: le trasferte a Siena (**0-2**) e ad Alessandria (**0-4**), seguite dalla sconfitta interna contro l'Atalanta (**1-4**). Subito dopo cede la guida tecnica al prestigioso allenatore magiaro [[03-tesserati/allenatori/gyorgy-orth|György Orth]], in un'annata durissima segnata dai richiami alle armi di giocatori chiave come Violi, Rotta e Bettini, che vedrà il Catania chiudere al 18º e ultimo posto con 19 punti e retrocedere in Serie C.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

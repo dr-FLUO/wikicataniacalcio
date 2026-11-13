@@ -93,7 +93,7 @@ tm_id: 168444
   </table>
 </div>
 
-**Matteo Pisseri** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+Guardiano pressoché inamovibile della porta etnea nel triennio di Serie C 2016–2019, **Matteo Pisseri** chiude l'elenco delle ventisette colonne storiche del [[01-societa/matricola-11700|Calcio Catania]] tra 127 e 256 gettoni con **127 presenze ufficiali**.
 
 ---
 
@@ -113,7 +113,9 @@ tm_id: 168444
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1992, il portiere **Matteo Pisseri** ha militato nelle file rossazzurre per **4 stagioni** (2016–2020). A guardia dei pali etnei ha collezionato **127 presenze ufficiali** (11.423' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2018-2019**, disputata con 43 presenze complessive.
+Arrivato gratuitamente dalla Ternana nell'estate del 2016, l'estremo difensore nato nel 1992 conquistò subito la maglia da titolare nella [[02-cronistoria/stagioni/2016-2017|Lega Pro 2016-2017]] sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]]. Guidato in successione da [[03-tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]], [[03-tesserati/allenatori/mario-petrone|Mario Petrone]] e [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]], disputò 42 incontri risultando tra i protagonisti della miglior difesa del girone d'andata, decisiva per assorbire i sette punti di penalizzazione e raggiungere i play-off.
+
+Nella [[02-cronistoria/stagioni/2017-2018|Serie C 2017-2018]] allenata da [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] aggiunse 41 presenze nella corsa chiusa al secondo posto alle spalle del Lecce e interrotta in semifinale play-off. L'apice di impiego arrivò nella [[02-cronistoria/stagioni/2018-2019|2018-2019]], stagione segnata dal doppio cambio tra [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] e [[03-tesserati/allenatori/walter-novellino|Walter Novellino]], in cui Pisseri scese in campo in 43 occasioni ufficiali per 3.870 minuti complessivi. Dopo un'ultima apparizione nella [[02-cronistoria/stagioni/2019-2020|2019-2020]] (11.423 minuti totali in rossazzurro), proseguì la carriera alla Pistoiese.
 
 ---
 

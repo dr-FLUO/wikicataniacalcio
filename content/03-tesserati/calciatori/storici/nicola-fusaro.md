@@ -98,7 +98,8 @@ tm_id: 475917
   </table>
 </div>
 
-**Nicola Fusaro** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Ala destra estrosa, rapida nello stretto e capace di tagliare verso la porta, **Nicola Fusaro** (Acri, 8 febbraio 1950) vestì i colori del [[01-societa/matricola-11700|Calcio Catania]] per tre campionati consecutivi tra il 1976 e il 1979, totalizzando **64 presenze e 7 reti**.
 
 ---
 
@@ -117,7 +118,9 @@ tm_id: 475917
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Acri nel 1950, il centrocampista **Nicola Fusaro** ha militato nelle file rossazzurre per **3 stagioni** (1976–1979). Punto di riferimento nello scacchiere etneo, ha totalizzato **64 presenze ufficiali** (5047' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1977-1978**, durante la quale è sceso in campo in 28 occasioni realizzando 3 reti.
+Ingaggiato dal Brindisi nell'estate del 1976 nel profondo rinnovamento varato dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], l'attaccante calabrese esordì nella Serie B [[02-cronistoria/stagioni/1976-1977|1976-1977]], vissuta con il ritorno in panchina di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] poi rilevato da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Nonostante l'amaro epilogo della retrocessione al diciottesimo posto, Fusaro si mise in evidenza con **26 presenze e 4 gol**, tra cui i sigilli a Cagliari, contro il Brescia al Cibali e una doppietta a Modena.
+
+Rimasto in Sicilia per tentare l'immediata risalita nella Serie C [[02-cronistoria/stagioni/1977-1978|1977-1978]], raggiunse il picco di continuità con **28 gettoni (2.317 minuti) e 3 reti** pesanti contro Marsala, Trapani e Barletta agli ordini di [[03-tesserati/allenatori/carlo-matteucci|Carlo Matteucci]] e del subentrato [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]]: la corsa si fermò soltanto sul più bello, nello spareggio di Catanzaro perso per 2-1 contro la Nocerina. Nella Serie C1 [[02-cronistoria/stagioni/1978-1979|1978-1979]] con [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]], al fianco del rientrante [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]], aggiunse altre 10 presenze nel terzo posto alle spalle di Matera e Pisa.
 
 ---
 

@@ -91,7 +91,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giuseppe Pancaro** (Cosenza, Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2015-2016**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+In una delle estati più difficili della storia rossazzurra, **Giuseppe Pancaro** (Cosenza, 1971) accettò la sfida di guidare la rinascita sul campo del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella Lega Pro [[02-cronistoria/stagioni/2015-2016|2015-2016]], negli ultimi anni dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Terzino
@@ -103,11 +103,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giuseppe «Pippo» Pancaro, Campione d'Italia con Lazio e Milan e terzino azzurro, guidò il Catania nelle prime 24 giornate della durissima Lega Pro 2015-2016, partendo con una pesante penalizzazione di -9 punti.
+Nato a Cosenza nel 1971 e soprannominato «Pippo», ex terzino campione d'Italia con Lazio e Milan oltre che nazionale azzurro, Giuseppe Pancaro arrivò a Catania il 16 luglio 2015 sotto la presidenza di Carmelo Antonio Milazzo, proseguita poi da Nicolò Micena. Nel clima teso della retrocessione d'ufficio in terza serie e di una squadra allestita tra mille incognite estive, seppe trasmettere subito orgoglio e spirito di rivalsa allo spogliatoio.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Seppe compattare l'ambiente e azzerare l'handicap in poche settimane grazie a un gioco concreto ed entusiasmante al Massimino.
+Partito con nove punti di penalizzazione (divenuti dieci complessivi nel corso del torneo), il Catania di Pancaro azzerò l'handicap già nelle prime tre giornate della Lega Pro [[02-cronistoria/stagioni/2015-2016|2015-2016]] battendo in sequenza Matera (1-0), Monopoli (2-1) e Ischia (4-2). Sospinta dalle reti di [[03-tesserati/calciatori/archivio/a-c/caetano-calil|Caetano Calil]], la formazione etnea superò con autorità anche Catanzaro (4-1), Martina (3-2) e Paganese (3-0), arrivando a ventisette panchine complessive tra coppa e campionato alla media di 1,41 punti. Un netto calo invernale, culminato nello 0-1 interno contro la Casertana del 27 febbraio 2016 alla ventiquattresima giornata, portò il 1° marzo all'avvicendamento con [[03-tesserati/allenatori/francesco-moriero|Francesco Moriero]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

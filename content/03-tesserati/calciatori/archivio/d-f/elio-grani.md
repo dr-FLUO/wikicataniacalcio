@@ -93,7 +93,7 @@ tm_id: 496137
   </table>
 </div>
 
-**Elio Grani** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Guida della difesa e capitano nella storica prima stagione di Serie A dell'era Marcoccio, **Elio Grani** ha vestito la maglia del [[01-societa/matricola-11700|Calcio Catania]] dal 1956 al 1962 con **169 presenze ufficiali** e **6 reti**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 496137
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Castelvetro di Modena nel 1930, **Elio Grani** ha militato nelle file rossazzurre per **6 stagioni** (1956–1962). Punto di riferimento nello scacchiere etneo, ha totalizzato **169 presenze ufficiali** (15.120' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1956-1957**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
+Difensore centrale emiliano, nato a Castelvetro di Modena il 2 giugno 1930 e prelevato dal Bari nell'estate del 1956, esordì con 33 presenze e un gol al Verona nella [[02-cronistoria/stagioni/1956-1957|Serie B 1956-1957]] affidata a [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]] sotto la presidenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]]. Titolare costante per quattro campionati cadetti consecutivi, seppe garantire solidità e pericolosità sulle palle inattive anche nelle difficili annate [[02-cronistoria/stagioni/1957-1958|1957-1958]] e [[02-cronistoria/stagioni/1958-1959|1958-1959]].
+
+Con l'arrivo di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e la gestione commissariale di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], Grani disputò 33 gare condite da 2 gol nella [[02-cronistoria/stagioni/1959-1960|1959-1960]], coronata dalla promozione in massima serie. Nel [[02-cronistoria/stagioni/1960-1961|1960-1961]], promosso capitano della retroguardia al fianco di [[03-tesserati/calciatori/archivio/g-l/giorgio-michelotti|Giorgio Michelotti]] e [[03-tesserati/calciatori/archivio/m-o/mario-corti|Mario Corti]], guidò il reparto verso lo storico ottavo posto in Serie A, scendendo in campo anche nell'impresa del [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|«Clamoroso al Cibali!» contro l'Inter]] del 4 giugno 1961. Concluse il percorso etneo con 13 apparizioni nella [[02-cronistoria/stagioni/1961-1962|1961-1962]].
 
 ---
 

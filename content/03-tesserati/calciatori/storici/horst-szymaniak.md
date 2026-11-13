@@ -114,7 +114,8 @@ tm_id: 110260
   </table>
 </div>
 
-**Horst Szymaniak** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Campione di caratura internazionale e mediano sinistro dal mancino vellutato, il tedesco **Horst Szymaniak** (Erkenschwick, 29 agosto 1934) nobilitò il centrocampo del [[01-societa/matricola-11700|Calcio Catania]] in Serie A dal 1961 al 1963.
 
 ---
 
@@ -132,7 +133,9 @@ tm_id: 110260
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Erkenschwick, Germania (classe 1934), **Horst Szymaniak** ha militato nelle file rossazzurre per **2 stagioni** (1961–1963). Punto di riferimento nello scacchiere etneo, ha totalizzato **63 presenze ufficiali** (5700' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1962-1963**, durante la quale è sceso in campo in 33 occasioni realizzando 5 reti.
+Strappato al Karlsruher SC nell'estate del 1961 grazie all'intraprendenza del commissario straordinario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], il nazionale della Germania Ovest — già protagonista ai Mondiali del 1958 — divenne l'acquisto simbolo della seconda stagione consecutiva in massima serie affidata a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. Schierato da interno ed esterno di sinistra nella [[02-cronistoria/stagioni/1961-1962|stagione 1961-1962]], unì potenza atletica, copertura e inserimenti letali: disputò 30 incontri andando a segno 4 volte contro Fiorentina, Venezia, Lanerossi Vicenza e soprattutto nell'indimenticabile **2-0 inflitto alla Juventus** campione d'Italia al Cibali l'11 febbraio 1962.
+
+Nel campionato [[02-cronistoria/stagioni/1962-1963|1962-1963]], al fianco di compagni del calibro di [[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]], elevò ulteriormente il proprio rendimento giocando **33 gare ufficiali (3.000 minuti)** con **5 reti** all'attivo tra campionato (Genoa, Modena, Lanerossi, Torino) e Coppa Italia (Cosenza), contribuendo all'undicesimo posto e al blitz esterno a Torino contro i bianconeri. Ceduto nell'estate 1963 all'Inter nell'operazione che portò Cinesinho sull'Etna, lasciò Catania con **63 presenze e 9 gol**.
 
 ---
 

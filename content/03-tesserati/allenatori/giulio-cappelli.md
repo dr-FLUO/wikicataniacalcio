@@ -86,7 +86,7 @@ aliases:
   </table>
 </div>
 
-**Giulio Cappelli** (La Spezia, Italia, 1911 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1952-1953**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+L'ambizione di portare la città alle soglie della Serie A spinse nell'estate del 1952 il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] ad affidare la direzione tecnica a **Giulio Cappelli** (La Spezia, 1911 – 1995), campione olimpico a Berlino 1936 e futuro dirigente della Grande Inter, protagonista della combattuta stagione [[02-cronistoria/stagioni/1952-1953|1952-1953]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore, Direttore Tecnico e Ala
@@ -98,11 +98,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Giulio Cappelli, oro olimpico a Berlino 1936 e futuro mitico dirigente e D.T. dell'Inter della Grande Inter di Moratti, fu il Direttore Tecnico del Catania nella splendida stagione di Serie B 1952-1953.
+Ala veloce negli anni Trenta e poi dirigente di altissimo profilo, Cappelli approdò in Sicilia su impulso del presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], deciso a consolidare la crescita di un organico già competitivo nella stagione precedente. La scelta rispondeva all'esigenza di affiancare al lavoro di campo una guida dotata di visione organizzativa, capace di valorizzare uno spogliatoio ricco di personalità quali [[03-tesserati/calciatori/archivio/m-o/narciso-soldan|Narciso Soldan]] ed [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorando in perfetta sinergia con [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]], creò una delle compagini etnee più forti del dopoguerra, chiudendo il campionato a 41 punti sul podio cadetto.
+Operando al [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] in stretta sinergia con [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]], che ne raccolse poi la guida sul campo nella fase decisiva del campionato, Cappelli contribuì a plasmare un'intelaiatura equilibrata tra solidità difensiva (28 reti subite in 34 gare) e finalizzazione, guidata dai 12 centri del capocannoniere Micheloni. Dopo un avvio altalenante, la rimonta primaverile portò il Catania al 3º posto finale con 41 punti (16 vittorie, 9 pareggi, 9 sconfitte), agganciando il Legnano grazie al successo a tavolino di Padova prima dello spareggio perso 4-1 a Firenze il 28 luglio 1953.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

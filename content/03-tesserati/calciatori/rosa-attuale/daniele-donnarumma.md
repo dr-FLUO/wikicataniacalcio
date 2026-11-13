@@ -102,7 +102,7 @@ tm_id: 167900
   </table>
 </div>
 
-**Daniele Donnarumma** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+Mancino educato e terzino di corsa continua, **Daniele Donnarumma** (Gragnano, 12 aprile 1992) presidia dal 2025 la fascia sinistra del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] con esperienza e precisione nei traversoni.
 
 ---
 
@@ -120,7 +120,9 @@ tm_id: 167900
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Gragnano (NA), Italia nel 1992, **Daniele Donnarumma** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **46 presenze ufficiali** (3210' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 39 occasioni realizzando 3 reti.
+Arrivato dal Cesena nell'estate del 2025 per innalzare il tasso tecnico delle corsie laterali volute da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il laterale campano ebbe un impatto immediato nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]]. Schierato da quinto o terzino sinistro prima con [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e poi con [[03-tesserati/allenatori/william-viali|William Viali]], collezionò **39 presenze e 2.790 minuti**, abbinando **3 assist e 3 reti** pesanti: bagnò l'esordio con un gol nel travolgente 6-0 sul Foggia, colpì nel 2-2 di Caserta e andò a segno anche nel pirotecnico 3-3 dei playoff contro il Lecco, torneo chiuso al secondo posto e in semifinale spareggi.
+
+Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], inserito nei meccanismi tattici di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Donnarumma ha messo a referto **7 presenze e 420 minuti** nella prima parte dell'annata, portando il suo rendimento complessivo sotto l'Etna a **46 partite ufficiali, 3 gol, 3 assist e 3.210 minuti** giocati.
 
 ---
 

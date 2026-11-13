@@ -84,7 +84,7 @@ tm_id: 585424
   </table>
 </div>
 
-**Luigi Chiavaro** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Libero di impostazione pulita e forte senso dell'anticipo, **Luigi Chiavaro** ha indossato la maglia del [[01-societa/matricola-11700|Calcio Catania]] per sei stagioni consecutive dal 1975 al 1981, raggiungendo quota **139 presenze ufficiali** e **2 reti**.
 
 ---
 
@@ -106,7 +106,9 @@ tm_id: 585424
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1957, il difensore **Luigi Chiavaro** ha militato nelle file rossazzurre per **6 stagioni** (1975–1981). Punto di riferimento nello scacchiere etneo, ha totalizzato **139 presenze ufficiali** (12.138' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1977-1978**, disputata con 35 presenze complessive.
+Nato nel 1957, esordì appena diciottenne nella [[02-cronistoria/stagioni/1975-1976|Serie B 1975-1976]] allenata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], raccogliendo 8 presenze prima di ritagliarsi uno spazio stabile da 26 apparizioni nella [[02-cronistoria/stagioni/1976-1977|1976-1977]] diretta da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], maturò definitivamente negli anni della terza serie.
+
+Nella [[02-cronistoria/stagioni/1977-1978|Serie C 1977-1978]], guidata da [[03-tesserati/allenatori/carlo-matteucci|Carlo Matteucci]] e poi da Mazzetti fino allo spareggio di Catanzaro perso con la Nocerina, raggiunse il proprio primato personale di 35 partite e 3.150 minuti giocati. Confermatosi con 31 presenze nella [[02-cronistoria/stagioni/1978-1979|1978-1979]] di [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]], recitò un ruolo di primo piano nella [[02-cronistoria/stagioni/1979-1980|Serie C1 1979-1980]]: in 26 incontri siglò le sue uniche 2 reti in rossazzurro e contribuì al primo posto che, grazie al lavoro di [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]], riportò il club in Serie B. Chiuse nel [[02-cronistoria/stagioni/1980-1981|1980-1981]] con 13 gare prima di approdare all'Akragas.
 
 ---
 

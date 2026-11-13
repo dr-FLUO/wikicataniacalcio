@@ -94,7 +94,7 @@ tm_id: 489532
   </table>
 </div>
 
-**Zelico Petrovic** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+Erede di [[03-tesserati/calciatori/archivio/p-r/rino-rado|Rino Rado]] a difesa della porta etnea, **Zelico Petrovic** custodì i pali del [[01-societa/matricola-11700|Calcio Catania]] per quattro tornei consecutivi tra il 1973 e il 1977, totalizzando **155 presenze ufficiali**.
 
 ---
 
@@ -114,7 +114,9 @@ tm_id: 489532
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Pola nel 1948, il portiere **Zelico Petrovic** ha militato nelle file rossazzurre per **4 stagioni** (1973–1977). A guardia dei pali etnei ha collezionato **155 presenze ufficiali** (13.731' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1973-1974**, disputata con 40 presenze complessive.
+Nato a Pola il 14 aprile 1948 e prelevato dal Novara nell'estate del 1973, esordì con 40 apparizioni nella difficile [[02-cronistoria/stagioni/1973-1974|Serie B 1973-1974]], annata di passaggio societario sotto il presidente [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] che vide alternarsi in panchina [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]] fino alla retrocessione in terza serie.
+
+Con il ritorno alla presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], Petrovic fu tra i pilastri dell'immediata riscossa nella [[02-cronistoria/stagioni/1974-1975|Serie C 1974-1975]]: schierato in 38 gare ufficiali agli ordini di [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] e poi di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], blindò la difesa meno battuta del girone C (appena 21 reti incassate in 38 incontri di campionato e una sola sconfitta) davanti ai gol di [[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]] e [[03-tesserati/calciatori/archivio/a-c/adelchi-malaman|Adelchi Malaman]]. Seguirono altre 40 presenze nella salvezza cadetta della [[02-cronistoria/stagioni/1975-1976|1975-1976]] (3.589 minuti, picco personale) e 37 nella [[02-cronistoria/stagioni/1976-1977|1976-1977]] con [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], prima della cessione al Taranto.
 
 ---
 

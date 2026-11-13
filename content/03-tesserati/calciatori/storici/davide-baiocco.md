@@ -109,7 +109,8 @@ tm_id: 5761
   </table>
 </div>
 
-**Davide Baiocco** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Polmone inesauribile e guida morale dello spogliatoio, **Davide Baiocco** (Perugia, 8 maggio 1975) incarnò lo spirito combattivo del [[01-societa/matricola-11700|Calcio Catania]] tra il 2005 e il 2009, accompagnando la scalata dalla Serie B al consolidamento in massima serie.
 
 ---
 
@@ -129,7 +130,9 @@ tm_id: 5761
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Perugia, Italia nel 1975, **Davide Baiocco** ha militato nelle file rossazzurre per **4 stagioni** (2005–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **131 presenze ufficiali** (10.530' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2007-2008**, durante la quale è sceso in campo in 39 occasioni realizzando 1 rete.
+Ingaggiato a parametro zero dal Perugia nell'estate del 2005 da [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] per il progetto di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], il mediano umbro divenne immediatamente l'equilibratore del 4-3-3 di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]. Nella cavalcata della [[02-cronistoria/stagioni/2005-2006|stagione 2005-2006]], chiusa al secondo posto con 78 punti e culminata nel [[02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1|2-1 sull'AlbinoLeffe]] che restituì la Serie A dopo ventidue anni, raccolse 36 presenze garantendo filtro e ritmo alle spalle di Gionatha Spinesi e Giuseppe Mascara.
+
+Nel successivo triennio in massima divisione Baiocco non arretrò mai di un centimetro. Firmò **34 gare e 5 assist** nell'annata [[02-cronistoria/stagioni/2006-2007|2006-2007]], segnata dall'esilio in campo neutro dopo il 2 febbraio e dalla salvezza conquistata all'ultima giornata contro il Chievo. Nella [[02-cronistoria/stagioni/2007-2008|2007-2008]], vissuta tra [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] e [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] fino alla storica semifinale di Coppa Italia, toccò il picco di **39 presenze** segnando il primo gol rossazzurro a Parma. Nel [[02-cronistoria/stagioni/2008-2009|2008-2009]] — tra il 3-2 interno alla Roma con una sua rete e il trionfale [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|0-4 nel derby di Palermo]] — completò il bottino di **131 presenze**, **2 gol**, **7 assist** e 10.530 minuti.
 
 ---
 

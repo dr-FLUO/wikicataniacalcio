@@ -93,7 +93,8 @@ tm_id: 336516
   </table>
 </div>
 
-**Maurizio Longobardo** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Terzino destro di gamba resistente e costante propulsione sulla fascia, **Maurizio Longobardo** (Milano, 12 settembre 1960) difese i colori del [[01-societa/matricola-11700|Calcio Catania]] lungo quattro tornei consecutivi tra Serie B e Serie C1 dal 1984 al 1988. Nelle **104 apparizioni ufficiali** (8.472 minuti) in rossazzurro aggiunse anche **3 reti**.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 336516
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Milano nel 1960, il difensore **Maurizio Longobardo** ha militato nelle file rossazzurre per **4 stagioni** (1984–1988). Punto di riferimento nello scacchiere etneo, ha totalizzato **104 presenze ufficiali** (8472' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1984-1985**, durante la quale è sceso in campo in 39 occasioni realizzando 2 reti.
+
+Arrivato nell'estate del 1984 dopo l'immediata discesa dalla Serie A sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], si impose subito nella [[02-cronistoria/stagioni/1984-1985|1984-1985]] diretta da [[03-tesserati/allenatori/antonio-renna|Antonio Renna]]: 39 presenze (3.506 minuti) e 2 reti pesanti sui campi di Lecce e Triestina nel torneo chiuso al quattordicesimo posto. Confermato pilastro difensivo nella tormentata [[02-cronistoria/stagioni/1985-1986|1985-1986]], giocò 36 volte siglando un gol a Taranto nell'annata segnata dai tre allenatori [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]], [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]] e [[03-tesserati/allenatori/antonio-colomban|Antonio Colomban]], conclusa con la permanenza in B al fianco di [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]].
+
+Meno impiegato nella [[02-cronistoria/stagioni/1986-1987|1986-1987]] della retrocessione in terza serie tra Rambone e [[03-tesserati/allenatori/bruno-pace|Bruno Pace]] (11 presenze), restò fedele alla causa anche nella drammatica [[02-cronistoria/stagioni/1987-1988|1987-1988]] targata [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]], collezionando 18 gare fino alla salvezza in Serie C1 strappata nello spareggio di Cosenza contro la Nocerina tra [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]], [[03-tesserati/allenatori/pietro-santin|Pietro Santin]] e Pace.
 
 ---
 

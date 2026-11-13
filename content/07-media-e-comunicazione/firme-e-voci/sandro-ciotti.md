@@ -35,7 +35,7 @@ aliases:
 ---
 # Sandro Ciotti: La Voce Inconfondibile e il Conio di [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!»
 
-**Sandro Ciotti** (Roma, 4 novembre 1928 – Roma, 18 luglio 2003) è stato uno dei più celebri, autorevoli e imitati giornalisti sportivi italiani del Novecento, colonna portante della trasmissione radiofonica *Tutto il calcio minuto per minuto* e storico conduttore de *La Domenica Sportiva*.
+Poche voci del Novecento italiano hanno saputo trasformare la cronaca sportiva in stile letterario quanto **Sandro Ciotti** (Roma, 4 novembre 1928 – Roma, 18 luglio 2003), maestro indiscusso della radiofonia e della televisione pubblica, colonna storica di *Tutto il calcio minuto per minuto* e volto autorevole de *La Domenica Sportiva*. Nel pantheon rossazzurro il suo nome è scolpito accanto al pomeriggio del **4 giugno 1961**, quando con una sola frase consegnò lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] alla memoria linguistica dell'intero Paese.
 
 > [!abstract] Il Legame Indissolubile con Catania e lo Stadio Cibali
 > Il nome di Sandro Ciotti è legato in maniera indelebile alla storia del Calcio Catania e della lingua italiana per aver coniato, il **4 giugno 1961**, l'iconica esclamazione **_[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]_**. Collegato da bordo campo per l'ultima giornata del campionato di Serie A [[02-cronistoria/stagioni/1960-1961|1960-1961]], Ciotti annunciò con la sua inconfondibile voce roca il vantaggio e poi il raddoppio etneo (2-0) sull'Inter di Helenio Herrera, costata ai nerazzurri la perdita dello Scudetto e consacrando il Catania di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
@@ -44,18 +44,15 @@ aliases:
 
 ## 1. Carriera Giornalistica e Stile Radiofonico
 
-Ex calciatore nelle giovanili della Lazio e musicista (diplomato al Conservatorio), Ciotti entrò in RAI nel 1958, imponendosi per una cifra stilistica inimitabile:
-* **Padronanza Lessicale:** Un vocabolario ricchissimo, ironico, colto e precisissimo, alieno da banalità e luoghi comuni.
-* **Il Timbro Vocale:** Divenuto celeberrimo a causa di un improvviso edema alle corde vocali riportato durante una diretta sotto la pioggia alle Olimpiadi di Tokyo 1964.
-* **La Domenica Sportiva:** Ha condotto la storica trasmissione televisiva di Rai 1 dal 1986 al 1991, intervistando i protagonisti del calcio con eleganza e incisività.
+Ex calciatore nelle giovanili della Lazio e musicista diplomato al Conservatorio, Ciotti approdò in RAI nel 1958 imponendo fin da subito una cifra espressiva inconfondibile. Il suo segreto risiedeva in una padronanza lessicale fuori dal comune — colta, sorvegliata, ironica e refrattaria a ogni luogo comune — unita a un timbro vocale particolarissimo, reso celebre dall'improvviso edema alle corde vocali contratto durante una radiocronaca sotto la pioggia alle Olimpiadi di Tokyo del 1964.
+
+Dalla radio alla televisione, la sua autorevolezza trovò ulteriore conferma tra il 1986 e il 1991 alla conduzione de *La Domenica Sportiva* su Rai 1, salotto nel quale seppe interrogare allenatori e protagonisti del calcio italiano con misura, rigore e spirito critico.
 
 ---
 
 ## 2. L'Eredità Culturale della Frase
 
-La formula [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!», nata dal genio di sintesi di Ciotti durante [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0]], è divenuta parte del patrimonio linguistico nazionale:
-* Registrata nei dizionari della lingua italiana (Zingarelli, Devoto-Oli, Treccani) come locuzione proverbiale per indicare una sconfitta inaspettata dei favoriti contro ogni pronostico.
-* Ciotti ricordò sempre con profondo affetto l'atmosfera calorosa, civile e vibrante dello stadio etneo, tornando frequentemente a commentare le gare interne dei rossazzurri nei decenni successivi.
+È tuttavia la formula *[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]!*», pronunciata in diretta radiofonica durante [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|Catania-Inter 2-0]], a rappresentare il lascito culturale più duraturo di Ciotti. Accolta nei principali dizionari della lingua italiana — dallo Zingarelli al Devoto-Oli fino al Treccani — come locuzione proverbiale per designare un ribaltamento inatteso contro ogni pronostico, la frase riassunse l'impresa della squadra di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. Ciotti serbò sempre un ricordo affettuoso dell'atmosfera calda e civile dello stadio etneo, tornando spesso a raccontare le partite interne del Catania nei decenni successivi.
 
 ---
 

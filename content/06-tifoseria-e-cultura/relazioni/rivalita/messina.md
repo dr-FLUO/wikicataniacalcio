@@ -38,24 +38,23 @@ aliases:
 
 # Derby dello Stretto: La Feroce Rivalità Catania-Messina
 
-La rivalità tra il Catania e il **Messina** è una delle più antiche, viscerali e turbolente del calcio italiano, vissuta da entrambe le popolazioni come una contesa senza quartiere per il primato nella Sicilia orientale.
+Sulle due sponde dello Stretto, la rivalità tra Catania e **Messina** si è sedimentata nel corso di quasi un secolo come una delle contrapposizioni più antiche, viscerali e turbolente del calcio italiano. Visita dopo visita, il cosiddetto *Derby dello Stretto* è stato vissuto da entrambe le città non soltanto come una contesa sportiva, ma come una lotta per il primato morale e calcistico della Sicilia orientale.
 
 ---
 
 ## 1. Gli Anni Ottanta e l'Aneddoto del "Frigorifero Volante"
 
-Nel corso degli anni Ottanta, quando le due compagini si affrontavano regolarmente in Serie B e C1, le trasferte allo Stadio Giovanni Celeste di Messina erano considerate vere e proprie missioni ad altissimo rischio bellico:
-- In un'occasione divenuta celebre nella mitologia delle curve, durante il transito dei sostenitori catanesi scortati dalla polizia nel parterre sotto la gradinata locale, dai gradoni superiori occupati dai messinesi venne sollevato e scagliato nel vuoto un **vero frigorifero**, che si schiantò al suolo mancando per miracolo il corteo.
-- Le cronache dell'epoca riportavano regolarmente cariche, lanci di sassi dalla ferrovia adiacente al Celeste e assalti agli autobus etnei agli imbarchi dei traghetti.
+Nel corso degli anni Ottanta, quando le due squadre si incrociavano con frequenza tra Serie B e Serie C1, le trasferte allo Stadio Giovanni Celeste di Messina assumevano i contorni di vere spedizioni ad altissimo rischio. Le cronache dell'epoca documentavano con regolarità cariche di alleggerimento, lanci di sassi dalla linea ferroviaria adiacente all'impianto e assalti ai pullman etnei in prossimità degli imbarchi dei traghetti.
+
+In quel clima rovente maturò l'episodio rimasto leggendario nella memoria delle curve: mentre il corteo dei sostenitori catanesi scortato dalla polizia sfilava nel parterre sotto la gradinata locale, dai gradoni superiori occupati dai tifosi messinesi fu sollevato e scagliato nel vuoto un **vero frigorifero**, che si schiantò al suolo sfiorando per miracolo la colonna degli ospiti.
 
 ---
 
 ## 2. Il Punto di Non Ritorno: Il Dramma di Tonino Currò (2001)
 
-L'apice drammatico dell'odio sportivo si consumò il **17 giugno 2001**, durante la finale di ritorno dei playoff di Serie C2 allo stadio Celeste:
-- Dalla curva ospiti catanese venne scagliata una potente bomba carta che colpì alla testa il giovane tifoso messinese **Antonino "Tonino" Currò**, ventiquattro anni, causandone il decesso dopo giorni di agonia all'ospedale Papardo ([[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro|dossier evento]]).
-- La tragedia segnò una frattura insanabile tra le due comunità, portando negli anni successivi a frequenti divieti di trasferta e a una rigida militarizzazione dei derby.
-- **L'Inimicizia con Vicenza:** Di riflesso, la vicinanza della tifoseria del Messina a quella del **Vicenza** (storico gemellaggio peloritano) ha generato una dura ostilità dei catanesi anche nei confronti della piazza berica.
+La tensione accumulata in decenni di scontri raggiunse un epilogo tragico il **17 giugno 2001**, durante la finale di ritorno dei playoff della stagione [[02-cronistoria/stagioni/2000-2001|2000-2001]] disputata allo stadio Celeste. Dalla curva ospiti catanese partì un potente ordigno pirotecnico che colpì al capo il ventiquattrenne tifoso messinese **Antonino "Tonino" Currò**, provocandone la morte dopo giorni di agonia all'ospedale Papardo ([[06-tifoseria-e-cultura/eventi-e-giustizia/derby-celeste-messina-2001-curro|dossier evento]]).
+
+Quella tragedia scavò un solco umano e civile incolmabile tra le due comunità, determinando negli anni successivi frequenti divieti di trasferta e una rigida militarizzazione di ogni derby. Di riflesso, lo storico gemellaggio tra la tifoseria peloritana e quella del **Vicenza** ha esteso un'accesa ostilità dei catanesi anche verso la piazza berica.
 
 ---
 

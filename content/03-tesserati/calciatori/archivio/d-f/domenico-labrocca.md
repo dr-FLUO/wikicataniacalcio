@@ -93,7 +93,7 @@ tm_id: 505986
   </table>
 </div>
 
-**Domenico Labrocca** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Sulla fascia destra della difesa etnea, **Domenico Labrocca** ha attraversato otto anni di storia del [[01-societa/matricola-11700|Calcio Catania]] tra Serie B, Serie C1 e Serie A, superando la soglia delle duecento apparizioni con **206 presenze** e **6 reti**.
 
 ---
 
@@ -116,7 +116,9 @@ tm_id: 505986
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Asmara (classe 1952), **Domenico Labrocca** ha militato nelle file rossazzurre per **7 stagioni** (1975–1983). Punto di riferimento nello scacchiere etneo, ha totalizzato **206 presenze ufficiali** (18.113' minuti effettivi) impreziosite da **6 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1976-1977**, durante la quale è sceso in campo in 41 occasioni realizzando 1 rete.
+Nato ad Asmara il 18 agosto 1952 e prelevato dal Siracusa nel 1975, si impose immediatamente nella [[02-cronistoria/stagioni/1975-1976|Serie B 1975-1976]] allenata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], totalizzando 40 presenze. La sua parabola iniziale fu scandita da una curiosa costante statistica: per sei campionati consecutivi, dal 1975-1976 alla [[02-cronistoria/stagioni/1980-1981|1980-1981]], mise sempre a segno esattamente una rete a stagione. Nel [[02-cronistoria/stagioni/1976-1977|1976-1977]] toccò il proprio vertice di impiego con 41 partite e il gol vittoria sul Modena, prima dell'amara retrocessione sotto [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
+
+Sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], affrontò gli anni della terza serie tra la beffa dello spareggio del [[02-cronistoria/stagioni/1977-1978|1977-1978]] e il terzo posto con [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]] nel [[02-cronistoria/stagioni/1978-1979|1978-1979]], fino al trionfo promozione della [[02-cronistoria/stagioni/1979-1980|1979-1980]] orchestrata da [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]]. Tornato in B, firmò il gol partita contro il Cesena nel [[02-cronistoria/stagioni/1980-1981|1980-1981]]. Richiamato nella [[02-cronistoria/stagioni/1982-1983|1982-1983]] da [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], diede il proprio contributo anche nei minuti finali dello [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0|spareggio dell'Olimpico contro il Como]] che riaprì le porte della Serie A.
 
 ---
 

@@ -101,7 +101,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Maurizio Costantini** (San Donà di Piave (VE), Italia, 1962) inaugura sul campo la nuova era di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'estate **2004-2005**, diventando il primo allenatore scelto all'inizio dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -113,11 +113,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Maurizio Costantini fu il primo allenatore scelto da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] all'inizio della loro trionfale gestione societaria nel luglio 2004.
+Veneto di San Donà di Piave, classe 1962, dopo una solida carriera da difensore **Maurizio Costantini** si fa apprezzare tra i dilettanti e la Serie C per l'organizzazione tattica e la capacità di costruire gruppi disciplinati, conquistando promozioni importanti prima della grande occasione in cadetteria. Nel luglio 2004 viene individuato dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] e dal direttore sportivo Roberto Policano come guida ideale per aprire il nuovo ciclo rossazzurro dopo l'uscita di scena della famiglia Gaucci.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò il Catania nelle prime 11 giornate della Serie B 2004-2005, gettando le basi della nuova era societaria prima dell'arrivo di [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]].
+Alla guida della prima squadra dal **1° luglio 2004**, Costantini dirige il Catania nei tre turni di Coppa Italia e nelle **prime 11 giornate** della [[02-cronistoria/stagioni/2004-2005|Serie B 2004-2005]], collezionando **14 panchine ufficiali** alla media di **1,50 punti a partita**. Con una rosa profondamente rinnovata attorno a elementi esperti come Armando Pantanelli, Pietro Fusco, Salvatore Fresi, Michele Zeoli e Orazio Russo, mantiene una buona andatura iniziale prima che una flessione di risultati culmini nella sconfitta casalinga per **0-1** contro il Bari del **29 ottobre 2004**. Esonerato due giorni più tardi, il **31 ottobre**, lascia comunque una base strutturata all'esperto [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

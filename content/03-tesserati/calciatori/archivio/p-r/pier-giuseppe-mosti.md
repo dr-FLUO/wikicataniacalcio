@@ -105,7 +105,7 @@ tm_id: 335139
   </table>
 </div>
 
-**Pier Giuseppe Mosti** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Protagonista sulla corsia mancina del ritorno in Serie A del 1983 e poi allenatore nella difficile ripartenza dilettantistica degli anni Novanta, **Pier Giuseppe Mosti** totalizzò **164 presenze ufficiali** e **9 reti** nel [[01-societa/matricola-11700|Calcio Catania]] tra il 1980 e il 1985.
 
 ---
 
@@ -126,7 +126,9 @@ tm_id: 335139
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Massa (classe 1955), **Pier Giuseppe Mosti** ha militato nelle file rossazzurre per **5 stagioni** (1980–1985). Punto di riferimento nello scacchiere etneo, ha totalizzato **164 presenze ufficiali** (13.128' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 39 occasioni realizzando 2 reti.
+Terzino sinistro nato a Massa il 24 aprile 1955, arrivò dalla Pistoiese nella [[02-cronistoria/stagioni/1980-1981|Serie B 1980-1981]] voluta dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], mettendo subito in mostra notevoli doti offensive: 26 presenze e 5 reti tra cui i gol a Bari e contro la SPAL sotto [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]]. Confermatosi nella [[02-cronistoria/stagioni/1981-1982|1981-1982]] con [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]] (38 gettoni e un gol decisivo al Bari), visse l'apice della carriera rossazzurra nella [[02-cronistoria/stagioni/1982-1983|1982-1983]] di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]].
+
+In quella stagione toccò il proprio massimo di 39 apparizioni e 3.343 minuti, firmando il raddoppio nel 2-0 interno sul Palermo e una rete a San Benedetto del Tronto, prima di scendere in campo da titolare in entrambi gli spareggi dell'Olimpico di Roma contro [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-como-1-0|Como]] e [[02-cronistoria/partite-storiche/1982-1983/spareggio-catania-cremonese-0-0|Cremonese]]. Seguirono la [[02-cronistoria/stagioni/1983-1984|Serie A 1983-1984]] con 34 gare e il torneo [[02-cronistoria/stagioni/1984-1985|1984-1985]] con [[03-tesserati/allenatori/antonio-renna|Antonio Renna]], prima del futuro ritorno da [[03-tesserati/allenatori/pier-giuseppe-mosti|allenatore]] nel [[02-cronistoria/stagioni/1994-1995|CND 1994-1995]].
 
 ---
 

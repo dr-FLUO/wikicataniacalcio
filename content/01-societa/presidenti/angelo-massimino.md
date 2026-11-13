@@ -67,6 +67,12 @@ aliases:
 
 <div class="wiki-clearfix"></div>
 
+## Profilo Storico e Gestione Societaria
+
+Nessuna figura incarna la storia novecentesca del Calcio Catania quanto il Cavaliere del Lavoro Angelo Massimino, imprenditore edile capace di trasformare il proprio patrimonio e il proprio carattere impetuoso in scudo della società per quasi un quarto di secolo, in due cicli separati (1969–1987 e 1992–1996). Rilevato il pacchetto di controllo da [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] nel 1969, celebrò subito la prima promozione in Serie A nella [[02-cronistoria/stagioni/1969-1970|stagione 1969-1970]]: con Egizio Rubino in panchina, i guantoni di Rino Rado (appena 19 reti subite) e i gol di Aquilino Bonfanti, i rossazzurri espugnarono Reggio Calabria il 14 giugno 1970. Dopo la parentesi di [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] nel 1973-1974, Massimino tornò immediatamente al comando vincendo la Serie C 1974-1975 e ancora la C1 nel 1979-1980 con Lino De Petrillo, fino all'apoteosi dell'[[02-cronistoria/stagioni/1982-1983|estate 1983]]: la squadra di Gianni Di Marzio conquistò la Serie A agli spareggi di Roma contro Como e Cremonese davanti a oltre trentacinquemila tifosi catanesi, pagando poi nel [[02-cronistoria/stagioni/1983-1984|1983-1984]] l'isolamento tecnico di un solo successo in trenta giornate nonostante i brasiliani Pedrinho e Luvanor.
+
+La grandezza del Cavaliere rifulse tuttavia nel tramonto più duro. Ceduta la società nel 1987 dopo la discesa in Serie C1, la riacquistò nell'aprile 1992 per impedirne la scomparsa, ma nell'estate del 1993 si trovò davanti alla radiazione federale per il celebre [[01-societa/vicende-legali/caso-catania-1993-eccellenza|Caso Catania]]: impugnò le decisioni della FIGC di Antonio Matarrese fino al TAR di Catania e al CGA di Palermo, ottenendo il 9 ottobre 1993 la riammissione e salvando la [[01-societa/matricola-11700|matricola 11700]]. Ripartito dall'Eccellenza [[02-cronistoria/stagioni/1993-1994|1993-1994]] davanti a novemila spettatori al Cibali e risalito fino alla Serie C2 [[02-cronistoria/stagioni/1995-1996|1995-1996]], scomparve tragicamente il 4 marzo 1996 in un incidente lungo l'autostrada Palermo-Catania presso Scillato; il 16 giugno 2002 la città gli intitolò per sempre lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
+
 ## Tappe Fondamentali della Presidenza Massimino
 
 | Stagione / Data | Snodo Storico e Sportivo | Dettaglio |

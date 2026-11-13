@@ -93,7 +93,8 @@ tm_id: 516041
   </table>
 </div>
 
-**Ferruccio Santamaria** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Mediano di grande sostanza e intelligenza tattica, **Ferruccio Santamaria** (Maddaloni, 4 maggio 1926) giunse dal Palermo nel 1952 per diventare uno dei pilastri della mediana del [[01-societa/matricola-11700|Calcio Catania]] nella sua prima scalata alla massima divisione. Nelle quattro stagioni vissute al Cibali collezionò **109 presenze ufficiali** (9.810 minuti) e **3 reti**.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 516041
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Maddaloni nel 1926, **Ferruccio Santamaria** ha militato nelle file rossazzurre per **4 stagioni** (1952–1956). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (9810' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1952-1953**, durante la quale è sceso in campo in 32 occasioni realizzando 1 rete.
+
+Schierato subito titolare nella [[02-cronistoria/stagioni/1952-1953|1952-1953]] della presidenza di [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], raccolse 32 presenze e un gol decisivo contro il Vicenza sotto [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]] e [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]], fino allo spareggio promozione ceduto al Legnano. Dodici mesi più tardi fu protagonista della storica [[02-cronistoria/stagioni/1953-1954|1953-1954]] diretta da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]]: 31 apparizioni, una rete e una cerniera mediana formidabile alle spalle dei goleador Manenti, Klein e Ghiandi per il primo posto assoluto in Serie B e la prima promozione in Serie A.
+
+Nel torneo d'esordio in massima serie [[02-cronistoria/stagioni/1954-1955|1954-1955]] giocò 27 partite contribuendo alla brillante salvezza sul campo al dodicesimo posto, poi cancellata d'ufficio dal [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]]. Chiuse la sua parabola etnea in cadetteria nella [[02-cronistoria/stagioni/1955-1956|1955-1956]] sotto la reggenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]], totalizzando 19 gare e la rete al 90' contro la Salernitana tra le gestioni di Andreoli e [[03-tesserati/allenatori/enzo-bellini|Enzo Bellini]].
 
 ---
 

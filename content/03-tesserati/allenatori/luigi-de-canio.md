@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Luigi De Canio** (Matera, Italia, 1957) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2013-2014**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Luigi De Canio** (Matera, Italia, 1957) raccoglie nell'ottobre **2013-2014** l'eredità tecnica di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] durante l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], tentando di invertire la rotta di una stagione nata sotto cattivi auspici in Serie A.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Luigi «Gigi» De Canio guidò il Catania in Serie A dalla 9ª alla 19ª giornata della stagione 2013-2014, subentrando a [[03-tesserati/allenatori/rolando-maran|Rolando Maran]].
+Nato a Matera nel 1957, dopo gli esordi da difensore **Luigi «Gigi» De Canio** costruisce un curriculum di primo piano sulle panchine italiane e inglesi, guidando Udinese, Napoli, Genoa, Queens Park Rangers e Lecce tra gestione tattica equilibrata e abilità nella corsa salvezza. Il **20 ottobre 2013** la società del presidente Antonino Pulvirenti si affida alla sua esperienza per rilevare [[03-tesserati/allenatori/rolando-maran|Rolando Maran]] dopo le prime otto giornate di campionato, con l'obiettivo di restituire compattezza a un gruppo scivolato nei bassifondi della classifica.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Conquistò una prestigiosa vittoria interna contro il Milan (sfiorata) e il successo rotondo per 4-1 sul Sassuolo, cercando con determinazione la quadratura tattica in un'annata difficile.
+Alla guida della squadra dalla 9ª alla 19ª giornata di [[02-cronistoria/stagioni/2013-2014|Serie A 2013-2014]], De Canio siede in panchina per **12 partite ufficiali** con una media di **0,67 punti a gara**. Al Massimino arrivano gli squilli interni contro l'Udinese (**1-0** su rigore di Maxi López) e il Bologna (**2-0**, firme di Gonzalo Bergessio e Francesco Lodi dal dischetto), oltre ai pareggi a reti inviolate contro Sassuolo e Verona, mentre in trasferta la squadra fatica a raccogliere punti nonostante l'impegno profuso e un attacco guidato dal solito Bergessio. Il brusco crollo casalingo per **1-4** contro il Siena negli ottavi di finale di Coppa Italia il **15 gennaio 2014** porta il giorno successivo alla separazione consensuale e al richiamo in panchina dello stesso Maran.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

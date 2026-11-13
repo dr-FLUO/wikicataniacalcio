@@ -102,7 +102,7 @@ tm_id: 355444
   </table>
 </div>
 
-**Andrea Dini** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Portiere**.
+Estremo difensore di grande reattività e comando dell'area, **Andrea Dini** (Cattolica, 20 febbraio 1996) custodisce dal 2024 i pali del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] con affidabilità costante.
 
 ---
 
@@ -121,7 +121,9 @@ tm_id: 355444
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Cattolica (RN), Italia (classe 1996), **Andrea Dini** ha militato nelle file rossazzurre per **3 stagioni** (2024–). A guardia dei pali etnei ha collezionato **69 presenze ufficiali** (6210' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2025-2026**, disputata con 43 presenze complessive.
+Giunto dal Catanzaro nel corso della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il portiere romagnolo raccolse immediatamente la fiducia di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] disputando **17 partite ufficiali e 1.530 minuti** senza saltare un istante delle gare giocate. L'anno seguente rappresentò la sua definitiva consacrazione fra i pali del Massimino: nella [[02-cronistoria/stagioni/2025-2026|2025-2026]], vissuta tra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]], Dini difese la porta etnea per **43 incontri interi e 3.870 minuti**, risultando un pilastro della migliore difesa del girone C (soltanto 25 reti incassate nella stagione regolare) nella corsa fino al secondo posto e alla semifinale playoff.
+
+Rimasto guardiano titolare anche nell'avvio della [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]] con [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] sotto l'egida di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], ha già accumulato **11 presenze (990 minuti)** mantenendo inviolata la porta in quattro gare di campionato. Il suo totale rossazzurro sale così a **71 presenze ufficiali e 6.390 minuti**.
 
 ---
 

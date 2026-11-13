@@ -84,7 +84,8 @@ tm_id: 553394
   </table>
 </div>
 
-**Mirko Mattei** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Prelevato ventenne dal Rimini nell'estate del 1987, **Mirko Mattei**, nato nel 1967, accompagnò le sorti del [[01-societa/matricola-11700|Calcio Catania]] lungo un intero quinquennio di Serie C1 fino al 1992. Duttile interprete tra mediana e difesa, costruì il proprio percorso in rossazzurro sulla continuità fisica e sulla disciplina tattica, toccando quota **113 presenze ufficiali** (8.738 minuti).
 
 ---
 
@@ -105,7 +106,10 @@ tm_id: 553394
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1967, il difensore **Mirko Mattei** ha militato nelle file rossazzurre per **5 stagioni** (1987–1992). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **113 presenze ufficiali** (8738' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1987-1988**, disputata con 37 presenze complessive.
+
+L'impatto con la realtà etnea avvenne nella drammatica [[02-cronistoria/stagioni/1987-1988|1987-1988]] della presidenza di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]]: schierato per 37 gare (3.081 minuti) tra gli avvicendamenti tecnici di [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]], [[03-tesserati/allenatori/pietro-santin|Pietro Santin]] e [[03-tesserati/allenatori/bruno-pace|Bruno Pace]], contribuì a scongiurare la discesa in C2 nello spareggio di Cosenza vinto 2-0 sulla Nocerina. Nei tornei successivi mantenne sempre un ruolo centrale nelle rotazioni di centrocampo.
+
+Disputò 25 incontri nella [[02-cronistoria/stagioni/1988-1989|1988-1989]] divisa tra Pace e [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]] (decimo posto), salendo poi al sesto posto nella [[02-cronistoria/stagioni/1989-1990|1989-1990]] con 23 presenze sotto Russo e [[03-tesserati/allenatori/angelo-sormani|Angelo Sormani]]. Confermato da Sormani nella [[02-cronistoria/stagioni/1990-1991|1990-1991]] (21 presenze e undicesima piazza), concluse la militanza catanese con le 7 apparizioni della [[02-cronistoria/stagioni/1991-1992|1991-1992]] — chiusa al sesto posto con il rientro della famiglia [[01-societa/presidenti/angelo-massimino|Massimino]] e le gestioni di [[03-tesserati/allenatori/giuseppe-caramanno|Giuseppe Caramanno]] e [[03-tesserati/allenatori/franco-vannini|Franco Vannini]].
 
 ---
 

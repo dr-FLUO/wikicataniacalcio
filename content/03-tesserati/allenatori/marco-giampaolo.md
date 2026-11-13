@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Marco Giampaolo** (Bellinzona, Svizzera, 1967) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2010-2011**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Marco Giampaolo** (Bellinzona, Svizzera, 1967) raccoglie nell'estate **2010-2011** la panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel periodo d'oro dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], chiamato a dare continuità tecnica e solidità tattica ai rossazzurri nella massima divisione.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Marco Giampaolo, stimato maestro del 4-3-1-2 e della zona pura, allenò il Catania nelle prime 20 giornate della Serie A 2010-2011.
+Nato a Bellinzona nel 1967 ma cresciuto calcisticamente nelle Marche, dopo una lunga carriera da centrocampista **Marco Giampaolo** si afferma come studioso rigoroso del **4-3-1-2** e della difesa a zona sulle panchine di Ascoli, Cagliari e Siena. Il **30 maggio 2010** il presidente Antonino Pulvirenti lo ingaggia con contratto biennale per guidare la squadra etnea dopo l'addio di Siniša Mihajlović, puntando su un tecnico metodico capace di valorizzare il talento offensivo di Maxi López e compagni.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione il Catania vinse il memorabile derby casalingo del 14 novembre 2010 contro il Palermo (1-0), conquistando 22 punti prima dell'arrivo di Diego Simeone.
+Giampaolo dirige il Catania nelle **prime 20 giornate** della [[02-cronistoria/stagioni/2010-2011|Serie A 2010-2011]] e in 3 turni di Coppa Italia, per un totale di **23 panchine ufficiali** e una media di **1,22 punti a gara**. In coppa supera in casa Varese (**4-3**) e Brescia (**5-1**) prima dell'eliminazione agli ottavi contro la Juventus (**2-0**). In campionato trasforma il Massimino in un fortino portando l'imbattibilità interna a **18 partite consecutive** (spezzata solo il **5 dicembre 2010** dalla Juventus per **1-3**) e coglie prestigiosi pareggi esterni per **1-1** a San Siro contro il Milan e contro la Lazio. Tuttavia, il bottino lontano da Catania nel girone d'andata resta fermo a 3 punti e, dopo l'**1-1** casalingo contro il Chievo del gennaio 2011 a quota **22 punti**, matura il **18 gennaio** la risoluzione consensuale che apre le porte a Diego Simeone.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

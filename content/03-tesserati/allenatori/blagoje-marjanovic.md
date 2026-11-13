@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Blagoje Marjanović** (Belgrado, Serbia (Jugoslavia), 1907 – 1984) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1958-1959**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Tra i nomi più illustri sbarcati a Catania nel dopoguerra figura **Blagoje «Moša» Marjanović** (Belgrado, 1907 – 1984), icona del calcio jugoslavo chiamata a guidare il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nell'avvio della Serie B 1958-1959.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -104,11 +104,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Blagoje «Moša» Marjanović è una delle massime leggende del calcio jugoslavo, protagonista assoluto ai Mondiali di Uruguay 1930. Chiamato alla guida del Catania all'inizio della Serie B 1958-1959, diresse la squadra per 13 giornate.
+Attaccante di fama internazionale e protagonista assoluto con la Jugoslavia ai Mondiali di Uruguay 1930, Marjanović approdò in Italia come allenatore dopo aver maturato esperienza sulla panchina del Torino. Nell'estate del 1958, il presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], appena tornato al timone di una società gravata da un pesante disavanzo finanziario, individuò nel tecnico serbo la figura carismatica cui affidare il rinnovamento tecnico della squadra.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con la sua autorevolezza internazionale impostò schemi offensivi moderni e valorizzò la prima linea etnea, prima del passaggio di testimone a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] nel dicembre 1958.
+L'esperienza etnea nella stagione [[02-cronistoria/stagioni/1958-1959|1958-1959]] si articolò in 14 panchine ufficiali, dal debutto fino al 21 dicembre 1958, con una media di 0,86 punti a gara. Dopo l'eliminazione estiva in Coppa Italia contro il Catanzaro, Marjanović impostò un gioco propositivo cercando di valorizzare uomini offensivi come [[03-tesserati/allenatori/riccardo-carapellese|Riccardo Carapellese]], [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]] e Macor (poi capocannoniere stagionale con 10 reti).
+
+Tra i picchi della sua gestione spiccano i netti 3-0 inflitti allo Zenit Modena al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] e al Parma sul neutro di Reggio Calabria. La sconfitta interna per 0-1 contro il Marzotto Valdagno alla 13ª giornata determinò tuttavia l'avvicendamento con [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], poi affiancato da [[03-tesserati/allenatori/felice-borel|Felice Borel]], fino alla salvezza conquistata al 16º posto con 33 punti sotto la reggenza di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

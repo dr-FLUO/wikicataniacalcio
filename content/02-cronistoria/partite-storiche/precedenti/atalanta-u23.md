@@ -38,7 +38,9 @@ aliases:
 
 # Precedenti Ufficiali Catania - Atalanta U23
 
-L'archivio dei confronti ufficiali tra il **[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** e l'**Atalanta Under 23** (seconda squadra professionistica del club orobico istituita nel 2023 e iscritta al Girone A di Serie C) nasce da un incrocio regolamentare unico maturato nella [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]].
+L'archivio dei confronti ufficiali tra il **[[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]]** e l'**Atalanta Under 23** — seconda squadra professionistica del club bergamasco istituita nel 2023 e inserita nel Girone A di Serie C — nasce da un incrocio inedito prodotto dalle dinamiche regolamentari della [[02-cronistoria/stagioni/2023-2024|Stagione 2023-2024]]. Nonostante i due club appartenessero a raggruppamenti geografici differenti, gli spareggi promozione della primavera 2024 li misero l'uno di fronte all'altro in un doppio confronto ad eliminazione diretta ad altissima intensità tattica e atletica.
+
+La cornice particolare della doppia sfida scaturiva dalla posizione asimmetrica delle due contendenti: da un lato la formazione orobica allenata da Francesco Modesto, capace di farsi strada nei primi due turni del Girone A grazie alla freschezza dei propri giovani; dall'altro la squadra etnea guidata da [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]], giunta alla fase nazionale con l'investitura di testa di serie pur avendo faticato per tutto il campionato regolare.
 
 > [!abstract] Il Pass Diretto per i Playoff Nazionali grazie alla Coppa Italia Serie C
 > Pur avendo concluso la stagione regolare del Girone C al **13º posto con 45 punti** (con un solo punto di margine sulla zona Playout), la squadra allenata da [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] ha avuto accesso diretto come **testa di serie** al **Primo Turno della Fase Nazionale dei Playoff di Serie C 2023-2024** in virtù dello storico trionfo del 2 aprile 2024 nella **[[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Finale di Coppa Italia Serie C contro il Padova (4-2 d.t.s.)]]**.
@@ -47,10 +49,11 @@ L'archivio dei confronti ufficiali tra il **[[01-societa/epoche/2022-pelligra-ca
 
 ## Il Doppio Confronto del Maggio 2024 (Qualificazione Etnea)
 
-Sorteggiato contro la giovane e talentuosa **Atalanta U23** di Francesco Modesto (che aveva superato i primi due turni dei playoff del Girone A), il Catania ha conquistato il passaggio ai Quarti di Finale nazionali (Secondo Turno Nazionale) grazie al miglior piazzamento come testa di serie al termine di 180 minuti chiusi in perfetta parità (**1-1 complessivo**):
+Ammesso direttamente al **Primo Turno della Fase Nazionale** grazie alla conquista della [[02-cronistoria/coppa-italia-serie-c|Coppa Italia Serie C]] contro il Padova, il Catania affrontò i nerazzurri nell'arco di 180 minuti equilibratissimi, riuscendo a strappare il pass per il Secondo Turno Nazionale in virtù del miglior piazzamento regolamentare al termine di un **1-1 complessivo**.
 
-1. **Andata a Caravaggio (14 maggio 2024): Atalanta U23 - Catania 0-1.** Sul terreno dello Stadio Comunale di Caravaggio (BG), gli etnei hanno espugnato il campo nerazzurro grazie a un imperioso colpo di testa dell'esterno **[[03-tesserati/calciatori/archivio/d-f/devid-eugene-bouah|Devid Eugene Bouah]]** all'**84'** su cross calibrato del subentrato Andrés Tello.
-2. **Ritorno a Catania (18 maggio 2024): Catania - Atalanta U23 0-1.** Davanti a circa **19.000 spettatori** in uno [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] gremito in ogni ordine di posti, i bergamaschi si sono imposti per 0-1 con una rete in pieno recupero (91') di **Moustapha Cissé**, risultato tuttavia ininfluente per l'eliminazione del Catania, che ha superato il turno in virtù dello status regolamentare di **testa di serie** detentrice della Coppa Italia Serie C.
+Nell'andata di martedì **14 maggio 2024**, sul terreno dello Stadio Comunale di Caravaggio, la squadra di Zeoli interpretò la gara con grande solidità difensiva attorno a Monaco, Quaini e Celli, contenendo le iniziative di Cissé e Capone. La svolta arrivò all'84', quando un cross calibrato del subentrato Andrés Tello pescò in area lo stacco imperioso di **[[03-tesserati/calciatori/archivio/d-f/devid-eugene-bouah|Devid Eugene Bouah]]**, autore del colpo di testa che valse lo 0-1 esterno e un margine prezioso per il ritorno.
+
+Quattro giorni più tardi, sabato **18 maggio 2024**, circa **19.000 spettatori** riempirono ogni ordine di posto dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per difendere il vantaggio. Il Catania controllò a lungo la manovra lombarda, cedendo soltanto in pieno recupero (91') alla rete di **Moustapha Cissé** per lo 0-1 finale: un successo di tappa per l'Atalanta U23 che tuttavia non bastò a ribaltare la qualificazione, premiando la condizione di **testa di serie** dei rossazzurri prima del turno successivo contro l'Avellino.
 
 ---
 

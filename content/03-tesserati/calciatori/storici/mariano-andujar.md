@@ -128,7 +128,8 @@ tm_id: 35491
   </table>
 </div>
 
-**Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) è un ex calciatore argentino, nel ruolo di portiere. Arrivato al [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] nell'estate del **2009** fresco vincitore della Copa Libertadores con l'Estudiantes de La Plata, ha difeso i pali etnei per cinque stagioni in massima serie, totalizzando **135 presenze in Serie A** e conquistando da titolare rossazzurro la convocazione con la Nazionale argentina ai Mondiali di Sudafrica 2010 e Brasile 2014 (vicecampione del mondo).
+
+Estremo difensore di caratura mondiale, **Mariano Gonzalo Andújar** (Buenos Aires, 30 luglio 1983) difese la porta del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] dal 2009 al 2014 per **149 presenze ufficiali**, conquistando da titolare etneo la nazionale argentina ai Mondiali del 2010 e del 2014.
 
 > [!abstract] Primati con il Catania in Massima Divisione
 > - **Presenze Ufficiali:** 141 gare complessive (135 in Serie A, 6 in Coppa Italia).
@@ -152,6 +153,11 @@ tm_id: 35491
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **149 presenze ufficiali**, disputando **13376 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **5 stagioni sportive**.
 
+## Profilo e Carriera in Rossazzurro
+
+Sbarcato ai piedi dell'Etna nell'estate del 2009 fresco campione della Copa Libertadores con l'Estudiantes de La Plata, grazie all'intesa tra [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], il portiere porteño si impose fin dal [[02-cronistoria/stagioni/2009-2010|2009-2010]]. Con 35 presenze tra [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], blindò la risalita fino al tredicesimo posto, risultando decisivo nel blitz di Torino contro la Juventus e nello storico [[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|3-1 sull'Inter]]. Nel [[02-cronistoria/stagioni/2010-2011|2010-2011]] toccò le **37 apparizioni** tra [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]], contribuendo al record di 46 punti e al 4-0 nel derby col Palermo.
+
+Dopo una prima metà del [[02-cronistoria/stagioni/2011-2012|2011-2012]] con [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] (17 gare prima del temporaneo rientro in prestito in Argentina), tornò protagonista nella [[02-cronistoria/stagioni/2012-2013|Stagione 2012-2013]] di [[03-tesserati/allenatori/rolando-maran|Rolando Maran]]: con 35 presenze sostenne l'incredibile ottavo posto a **56 punti**. Nel [[02-cronistoria/stagioni/2013-2014|2013-2014]], tra Maran, [[03-tesserati/allenatori/luigi-de-canio|Luigi De Canio]] e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]], chiuse il quinquennio con 25 gare e 13.376 minuti complessivi prima di trasferirsi al Napoli.
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Mariano Andújar](https://it.wikipedia.org/wiki/Mariano_And%C3%BAjar)*.

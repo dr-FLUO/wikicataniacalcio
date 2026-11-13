@@ -119,7 +119,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di [[03-tesserati/calciatori/archivio/a-c/andrea-sottil|Andrea Sottil]] — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Andrea Sottil** (Venaria Reale (TO), Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Prima di sedere sulla panchina etnea nel 2018, **Andrea Sottil** (Venaria Reale, 1974) aveva già segnato la memoria del [[04-strutture/stadio-massimino/angelo-massimino|Massimino]] da difensore tra il 2005 e il 2008, con 66 presenze e il gol-promozione in Serie A contro l'AlbinoLeffe nel 2006.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore Centrale
@@ -131,11 +131,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Andrea Sottil, insuperabile difensore centrale del Catania in Serie A dal 2005 al 2008 (autore del celebre gol promozione all'Albinoleffe nel 2006), allenò la compagine rossazzurra nella Serie C 2018-2019, guidandola fino alla semifinale dei play-off contro il Trapani.
+Appesi gli scarpini al chiodo, Sottil portò in panchina il pragmatismo del marcatore di razza. Nel luglio 2018 la dirigenza di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]), presieduta da [[01-societa/presidenti/davide-franco|Davide Franco]], gli affidò la prima squadra dopo i play-off vinti con il Livorno. Intorno a [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]], [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]] e [[03-tesserati/calciatori/archivio/a-c/alessandro-marotta|Alessandro Marotta]], il gruppo superò il [[01-societa/vicende-legali/blocco-ripescaggi-2018|blocco dei ripescaggi]] ed esordì soltanto il 29 settembre, dopo le vittorie in Coppa Italia su Como (3-0) ed Hellas Verona (2-0).
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse la squadra a 65 punti al quarto posto, richiamato alla vigilia degli spareggi promozione dopo la breve parentesi di [[03-tesserati/allenatori/walter-novellino|Walter Novellino]].
+Nella Serie C [[02-cronistoria/stagioni/2018-2019|2018-2019]], Sottil tenne i rossazzurri in lotta per il vertice grazie al fortino interno, prima dell'esonero del 25 febbraio 2019 dopo 31 gare (media 1,90). L'interregno di [[03-tesserati/allenatori/walter-novellino|Walter Novellino]] si chiuse con il 4º posto a 65 punti (19 vittorie, 8 pareggi, 9 sconfitte; Lodi capocannoniere a quota 11). Richiamato il 6 maggio per i play-off (36 panchine totali, media 1,83), eliminò Reggina (4-1) e Potenza cedendo in semifinale al Trapani per il piazzamento regolare dopo due pareggi.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

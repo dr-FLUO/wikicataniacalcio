@@ -44,6 +44,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Chiamato a rappresentare la nuova proprietà familiare nell'estate del 2000 ad appena ventidue anni, Riccardo Gaucci divenne il presidente più giovane del calcio professionistico italiano, incarnando la svolta generazionale e comunicativa della [[01-societa/epoche/2000-era-gaucci|gestione Gaucci]] accanto alla regia paterna di [[01-societa/presidenti/luciano-gaucci|Luciano Gaucci]]. Fin dai primi mesi al vertice, il suo compito fu quello di garantire presenza quotidiana in città e dialogo con le istituzioni locali, accompagnando la trasformazione di una squadra reduce da anni di stallo nella terza serie in una candidata dichiarata alla promozione.
+
+Sul piano simbolico e sportivo, il culmine del quadriennio arrivò nel giugno del 2002: prima lo 0-0 del [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|9 giugno allo Iacovone di Taranto]], che dopo l'1-0 firmato da Michele Fini al Cibali sancì la fine dell'esilio quindicennale dalla Serie B; poi, appena una settimana dopo, la scelta storica del 16 giugno 2002 di intitolare lo stadio cittadino alla memoria di [[04-strutture/stadio-massimino/angelo-massimino|Angelo Massimino]]. Nel torneo cadetto [[02-cronistoria/stagioni/2002-2003|2002-2003]], segnato da cinque cambi in panchina fino a Vincenzo Guerini e dai tredici gol di Luís Oliveira, Riccardo firmò in prima persona i ricorsi del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] che portarono alla storica serie B a 24 squadre, chiudendo poi l'esperienza nel 2004 con il sereno nono posto della squadra di Colantuono, Oliveira e Mascara prima del passaggio di consegne ad [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]].
+
 ## Tappe della Presidenza di Riccardo Gaucci (2000–2004)
 
 | Stagione | Categoria | Allenatori Principali | Risultato e Snodi Storici |

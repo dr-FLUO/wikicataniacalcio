@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Moriero** (Lecce, Italia, 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2015-2016**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Chiamato per gli ultimi dieci turni in un clima di forte emergenza tecnica e societaria, **Francesco Moriero** (Lecce, 1969) riuscì a evitare i play-out al [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], siglando una sofferta salvezza nella Lega Pro [[02-cronistoria/stagioni/2015-2016|2015-2016]] durante gli anni finali dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Ala
@@ -104,11 +104,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Francesco «Checco» Moriero, indimenticabile ala dell'Inter e della Nazionale, subentrò alla 25ª giornata della Lega Pro 2015-2016 conducendo il Catania a una sofferta e fondamentale salvezza diretta.
+Nato a Lecce nel 1969 e ribattezzato «Checco», Francesco Moriero fu tra gli esterni offensivi più apprezzati del calcio italiano degli anni Novanta, vestendo le maglie dell'Inter e della Nazionale azzurra prima di avviare il proprio percorso da allenatore. Venne ingaggiato dal Catania il 1° marzo 2016 in sostituzione di [[03-tesserati/allenatori/giuseppe-pancaro|Giuseppe Pancaro]], in una fase di passaggio presidenziale tra Nicolò Micena e [[01-societa/presidenti/davide-franco|Davide Franco]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Il culmine della sua gestione fu il trionfo per 2-1 nel derby contro il Messina al Massimino, garantendo la permanenza tra i professionisti del club etneo.
+Alla venticinquesima giornata di una Lega Pro resa durissima dai dieci punti complessivi di penalizzazione ereditati dalle vicende dell'estate 2015, Moriero raccolse la squadra in piena crisi di risultati. Dopo le difficoltà iniziali contro Martina Franca, Juve Stabia e Akragas, impresse la svolta il 24 marzo 2016 battendo per 2-1 il Messina nel derby del Massimino con reti di [[03-tesserati/calciatori/archivio/a-c/caetano-calil|Caetano Calil]] e Russotto. I successi interni su Lupa Castelli Romani e Melfi e il decisivo 2-1 all'ultima giornata contro la Fidelis Andria (firmato da Bergamelli e Russotto) assicurarono al Catania il tredicesimo posto finale a quota 39 punti e la permanenza diretta tra i professionisti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

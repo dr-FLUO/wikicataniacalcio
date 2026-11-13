@@ -115,7 +115,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di Walter Novellino — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Walter Novellino** (Montemarano (AV), Italia, 1953) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2018-2019**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Nell'inverno del 2019, quando l'inseguimento alla Serie B rischiava di spegnersi, l'ultima stagione dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]] nel solco del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] si affidò all'esperienza di **[[03-tesserati/calciatori/archivio/s-z/walter-alfredo-novellino|Walter Alfredo Novellino]]** (Montemarano, 1953) nella Serie C [[02-cronistoria/stagioni/2018-2019|2018-2019]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Ala
@@ -127,11 +127,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-[[03-tesserati/calciatori/archivio/s-z/walter-alfredo-novellino|Walter Alfredo Novellino]], detto "Monzon", Campione d'Italia con il Milan della Stella e specialista assoluto in promozioni (quattro salite in Serie A con Venezia, Napoli, Piacenza e Sampdoria), allenò il Catania dalla 29ª alla 38ª giornata della Serie C 2018-2019.
+Campione d'Italia con il Milan nel 1979 e poi tecnico specialista in promozioni — quattro le salite in Serie A con Venezia, Napoli, Piacenza e Sampdoria — Novellino accettò la panchina dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] il 27 febbraio 2019. Subentrò ad [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] durante la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], in un torneo segnato in avvio dai ricorsi per i ripescaggi e dal ritardo di preparazione.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Portò la sua sconfinata esperienza e carica emotiva sulla panchina del Massimino, conquistando 15 punti in 10 giornate prima della fase calda dei play-off.
+Il ciclo di «Monzon» durò fino al 6 maggio 2019 per dieci panchine ufficiali (29ª-38ª giornata), fruttando 15 punti (media 1,50). Le due vittorie iniziali su Catanzaro e Juve Stabia riportarono i rossazzurri al secondo posto a quattro punti dalla vetta, sostenuti da [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] (11 reti stagionali), [[03-tesserati/calciatori/archivio/s-z/tommaso-silvestri|Tommaso Silvestri]] e [[03-tesserati/calciatori/archivio/a-c/alessandro-marotta|Alessandro Marotta]]. Un calo finale fece però scivolare il Catania al 4º posto (65 punti), portando al richiamo di Sottil per i play-off.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

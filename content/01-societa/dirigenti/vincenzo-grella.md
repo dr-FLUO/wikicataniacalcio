@@ -50,6 +50,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+A pochi mesi dalla revoca dell'esercizio provvisorio che nell'aprile 2022 aveva spento per sempre la [[01-societa/matricola-11700|matricola 11700]], Vincenzo Grella fu il ponte operativo tra la piazza etnea e il gruppo australiano guidato da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]]. Ex centrocampista della nazionale australiana e profondo conoscitore del calcio italiano, nell'estate del 2022 guidò l'istruttoria per il bando comunale ex art. 52 delle NOIF, dando vita al nuovo sodalizio con la matricola 955013 e costruendo subito la struttura tecnica affidata al direttore sportivo Antonello Laneri e all'allenatore Giovanni Ferraro.
+
+La cavalcata della [[02-cronistoria/stagioni/2022-2023|stagione 2022-2023]] in Serie D, chiusa con 88 punti e oltre undicimila abbonati al Massimino, pose le basi per il ritorno nei professionisti e per l'era del Catania Football Club. In Serie C il vicepresidente ha gestito fasi alterne sul piano sportivo — dai tre cambi in panchina del [[02-cronistoria/stagioni/2023-2024|2023-2024]], riscattati però dalla conquista della Coppa Italia Serie C contro il Padova, fino all'approdo di direttori esperti come [[01-societa/dirigenti/daniele-faggiano|Daniele Faggiano]] e alla corsa fino al secondo posto nel 2025-2026 — affiancando al lavoro di campo una precisa strategia patrimoniale. Il riacquisto di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]] nel febbraio 2026 e l'aggiudicazione dello [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|marchio storico]] nell'ottobre seguente portano direttamente la sua firma manageriale.
+
 ## Tappe Principali della Gestione Dirigenziale a Catania (2022–2026)
 
 | Periodo / Data | Attività ed Evento | Risultato |

@@ -89,7 +89,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Achille Piccini** (Carrara, Italia, 1911 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1947-1948**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Campione olimpico a Berlino 1936 con la Nazionale di Vittorio Pozzo, **Achille Piccini** (Carrara, 1911 – 1995) guidò la panchina del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nei primi passi del torneo di Serie C [[02-cronistoria/stagioni/1947-1948|1947-1948]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -101,11 +101,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Achille Piccini, medaglia d'oro olimpica con la Nazionale italiana a Berlino 1936 ed ex terzino di Fiorentina, Napoli e Bari, allenò il Catania nella prima parte della Serie C 1947-1948 (1ª-12ª giornata).
+Nato a Carrara nel 1911 e formatosi calcisticamente come difensore e mediano di grande temperamento, Achille Piccini legò il proprio nome da giocatore a club di primo piano come Fiorentina, Napoli e Bari, raggiungendo l'apice della carriera con la medaglia d'oro conquistata alle Olimpiadi di Berlino del 1936 sotto la guida del commissario tecnico Vittorio Pozzo. Concluso l'impegno sul campo ad alto livello, intraprese l'attività di allenatore portando con sé l'esperienza tattica maturata nei massimi campionati nazionali.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Portò in terra etnea il carisma e il rigore tattico maturati ai vertici del calcio internazionale azzurro sotto la direzione di Vittorio Pozzo.
+Nell'estate del 1947 la presidenza di [[01-societa/presidenti/santi-manganaro-passanisi|Santi Manganaro-Passanisi]] gli affidò la guida del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] per il girone T della Serie C [[02-cronistoria/stagioni/1947-1948|1947-1948]], campionato reso cruciale dalla riforma federale che avrebbe ammesso alla nuova terza serie nazionale soltanto le prime classificate. Piccini diresse la squadra dalla 1ª alla 12ª giornata, costruendo un avvio molto solido grazie al contributo realizzativo di [[03-tesserati/calciatori/archivio/a-c/arnaldo-cadei|Arnaldo Cadei]]: dopo l'esordio vittorioso contro l'Agrigento e il netto 5-0 rifilato alla Notinese al Cibali, colse successi esterni ad Acireale, Termini Imerese e Canicattì e i pareggi per 1-1 contro ACR Messina e Igea Virtus, lasciando in gennaio una squadra saldamente in corsa prima dell'avvicendamento con [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]], che completò la marcia fino al primo posto con 47 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

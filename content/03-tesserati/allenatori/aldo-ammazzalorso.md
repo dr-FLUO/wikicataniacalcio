@@ -85,7 +85,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Aldo Ammazzalorso** (Buenos Aires, Argentina, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Chiamato nell'estate del 2001 per impostare la rincorsa alla cadetteria, **Aldo Ammazzalorso** (Buenos Aires, 1951) inaugurò la stagione [[02-cronistoria/stagioni/2001-2002|2001-2002]] del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella fase della gestione di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -97,11 +97,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Aldo Ammazzalorso, tecnico italo-argentino reduce da grandi stagioni con Ancona e Ascoli, guidò il Catania nelle prime 16 giornate della Serie C1 2001-2002.
+Nato a Buenos Aires e cresciuto calcisticamente in Italia come centrocampista, Aldo Ammazzalorso si affermò da allenatore soprattutto nelle categorie intermedie e in Serie C1 grazie alle positive esperienze vissute sulle panchine di Ancona e Ascoli. Tecnico pragmatico e attento all'equilibrio tra i reparti, fu scelto dalla dirigenza legata alla [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] il 23 giugno 2001 per valorizzare un organico profondamente rinnovato e ambizioso, guidato in attacco da [[03-tesserati/calciatori/archivio/d-f/eddy-baggio|Eddy Baggio]] e [[03-tesserati/calciatori/archivio/m-o/massimo-cicconi|Massimo Cicconi]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Mantenne la squadra costantemente al vertice della classifica conquistando 29 punti prima dell'avvicendamento di dicembre con [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]].
+Nel girone B della Serie C1 [[02-cronistoria/stagioni/2001-2002|2001-2002]], Ammazzalorso sedette in panchina per diciannove gare ufficiali complessive tra Coppa Italia e campionato. Nelle prime sedici giornate di torneo raccolse sette vittorie — tra cui i successi interni su Benevento, Lanciano, Vis Pesaro, Nocerina e L'Aquila e i colpi esterni a Pescara e Sora — insieme a cinque pareggi e quattro sconfitte, lasciando a dicembre la squadra al quinto posto con 26 punti. Dopo il ko esterno contro il Castel di Sangro, il 18 dicembre 2001 la società optò per il cambio con [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]], cui subentrò poi [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]] fino alla storica vittoria ai play-off per la Serie B.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

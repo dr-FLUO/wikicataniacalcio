@@ -85,7 +85,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Adelmo Capelli** (Castel Goffredo (MN), Italia, 1935 – 1999) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1978-1979**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Alla guida del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella prima edizione assoluta della Serie C1, **Adelmo Capelli** (Castel Goffredo, 1935 – 1999) seppe ricostruire solidità e fiducia nell'ambiente etneo durante la stagione [[02-cronistoria/stagioni/1978-1979|1978-1979]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Mediano
@@ -97,11 +97,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Adelmo Capelli guidò il Catania per l'intera stagione 1978-1979 nella neonata Serie C1 (girone B), conducendo la squadra a un lusinghiero 3º posto finale con 36 punti.
+Ex mediano lombardo originario di Castel Goffredo, Adelmo Capelli maturò una lunga esperienza nelle serie professionistiche prima di dedicarsi alla panchina, dove si distinse per equilibrio tattico, attenzione alla fase difensiva e capacità di valorizzare gruppi reduci da stagioni complesse. Arrivò in Sicilia nell'estate del 1978, chiamato dalla società di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] per rilanciare le ambizioni rossazzurre dopo la delusione dello spareggio promozione perso contro la Nocerina nel campionato precedente.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con una manovra equilibrata e grande compattezza tattica pose le basi del gruppo che avrebbe trionfato nella stagione successiva con la riconquista della Serie B.
+Nel torneo di Serie C1 [[02-cronistoria/stagioni/1978-1979|1978-1979]], girone B, Capelli guidò il Catania per tutte le trentaquattro giornate di campionato, chiudendo al terzo posto finale con 42 punti (13 vittorie, 16 pareggi e sole 5 sconfitte, con 38 reti segnate e 26 subite), appena due lunghezze dietro le promosse Matera e Pisa. Potendo contare sul ritorno in rossazzurro di [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]] e [[03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina|Lorenzo Barlassina]] e sul rendimento di elementi chiave quali [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]], [[03-tesserati/calciatori/archivio/a-c/aldo-raimondi|Aldo Raimondi]], [[03-tesserati/calciatori/archivio/d-f/emilio-frigerio|Emilio Frigerio]] e [[03-tesserati/calciatori/archivio/g-l/giovanni-bertini|Giovanni Bertini]], firmò affermazioni di rilievo al Cibali come il 3-1 sul Pisa, il 5-1 sul Latina e il 4-1 sulla Lucchese. La compattezza costruita sotto la sua gestione gettò le basi tecniche del gruppo che l'anno seguente conquistò la promozione in Serie B.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -101,7 +101,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Andrea Camplone** (Pescara, Italia, 1966) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2019-2020**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Scelto nell'estate del 2019 per rilanciare le ambizioni di promozione diretta del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'ultimo capitolo dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], **Andrea Camplone** (Pescara, 1966) legò la propria parentesi etnea a un inizio travolgente e a un brusco crollo in trasferta nella Serie C [[02-cronistoria/stagioni/2019-2020|2019-2020]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Terzino
@@ -113,11 +113,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Andrea Camplone, ex terzino di Pescara e Perugia e allenatore votato al calcio d'attacco zemaniano, guidò il Catania nelle prime 10 giornate della Serie C 2019-2020.
+Nato a Pescara nel 1966, Andrea Camplone vestì da terzino le maglie di Pescara e Perugia prima di intraprendere una carriera da allenatore improntata al calcio propositivo e al 4-3-3 di matrice zemaniana. Sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], l'8 luglio 2019 ricevette l'incarico di guidare una rosa costruita su veterani come [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]], [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] e [[03-tesserati/calciatori/archivio/s-z/vincenzo-sarno|Vincenzo Sarno]], affiancati da innesti quali [[03-tesserati/calciatori/archivio/g-l/jacopo-furlan|Jacopo Furlan]], [[03-tesserati/calciatori/archivio/a-c/andrea-mazzarani|Andrea Mazzarani]] e [[03-tesserati/calciatori/archivio/d-f/davide-di-molfetta|Davide Di Molfetta]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Inaugurò il campionato con squillanti vittorie offensive prima dell'avvicendamento di ottobre che segnò il ritorno di [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]].
+Dopo i due turni di Coppa Italia contro Fanfulla (3-0) e Venezia (1-2), il debutto in campionato fu spettacolare con il 6-3 inflitto ad Avellino, seguito da quattro successi casalinghi consecutivi al Massimino contro Virtus Francavilla, Viterbese, Cavese (4-0) e Picerno. Fuori casa la squadra mostrò tuttavia gravi fragilità, perdendo a Potenza, Monopoli, Reggio Calabria e Terni fino al pesante 5-0 subito sul campo della Vibonese il 20 ottobre 2019. L'indomani arrivò l'esonero dopo dodici gare ufficiali alla media di 1,50 punti e la società richiamò [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] prima della sospensione dovuta alla pandemia.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

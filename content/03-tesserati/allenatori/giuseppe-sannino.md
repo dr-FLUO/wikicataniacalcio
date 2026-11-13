@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giuseppe Sannino** (Ottaviano (NA), Italia, 1957) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2014-2015**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Giuseppe Sannino** (Ottaviano (NA), Italia, 1957) siede sulla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'autunno **2014-2015**, nel pieno dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], chiamato a raddrizzare il cammino dei rossazzurri dopo la retrocessione dalla massima serie.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giuseppe «Beppe» Sannino condusse il Catania dalla 4ª alla 18ª giornata della Serie B 2014-2015, imprimendo grande generosità e aggressività agonistica alla squadra.
+Nato a Ottaviano nel 1957, **Giuseppe «Beppe» Sannino** matura una lunga gavetta nelle serie minori prima di imporsi all'attenzione nazionale con promozioni e salvezze in Serie B e in Serie A, distinguendosi per temperamento sanguigno, pressing organizzato e calcio verticale. Nel settembre 2014 accetta la chiamata del presidente Antonino Pulvirenti per subentrare a Maurizio Pellegrino dopo un avvio stentato in cadetteria, portando in dote esperienza e carattere a un gruppo ambizioso ma reduce dall'amara discesa dalla Serie A.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione i rossazzurri conquistarono vittorie travolgenti al Massimino (5-1 al Vicenza, 2-1 al Pescara), prima delle inattese dimissioni nel dicembre 2014.
+Assunto l'incarico il **14 settembre 2014**, Sannino guida il Catania dalla 4ª alla 18ª giornata della [[02-cronistoria/stagioni/2014-2015|Serie B 2014-2015]], collezionando **15 panchine ufficiali** in campionato con una media di **1,27 punti a partita**. La sua gestione produce un netto cambio di passo tra le mura amiche dello stadio Angelo Massimino: davanti al pubblico etneo i rossazzurri piegano per **2-1** il Pescara, travolgono la Virtus Entella per **5-1**, superano il Vicenza per **3-1**, regolano il Varese per **2-1** e battono il Latina per **1-0**, esaltando la vena realizzativa del capocannoniere Emanuele Calaiò accanto a interpreti esperti quali Jean-François Gillet, Alessandro Rosina e Lucas Castro. Il rendimento lontano da Catania rimane tuttavia deficitario e, il **19 dicembre 2014**, dopo la 18ª giornata, Sannino rassegna inaspettatamente le dimissioni aprendo la strada al temporaneo ritorno di Pellegrino e al successivo ingaggio di Dario Marcolin.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

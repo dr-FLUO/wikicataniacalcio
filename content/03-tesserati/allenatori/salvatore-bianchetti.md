@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Salvatore Bianchetti** (Catania, Italia, 1950) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986, 1992-1993**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Tra i rari allenatori catanesi doc ad aver guidato la squadra della propria città in frangenti difficili, **Salvatore «Salvo» Bianchetti** (Catania, 1950) ha difeso la dignità tecnica del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] sotto [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], tra la Serie B [[02-cronistoria/stagioni/1985-1986|1985-1986]] e la drammatica stagione [[02-cronistoria/stagioni/1992-1993|1992-1993]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Salvatore «Salvo» Bianchetti è uno dei rari allenatori catanesi doc ad aver guidato il club etneo sia in Serie B (1985-1986 in coppia con Mazzetti) sia per l'intera tormentata stagione di Serie C1 1992-1993.
+Formatosi nel vivaio etneo alla guida della Primavera, Bianchetti esordì in prima squadra nella Serie B 1985-1986: dalla 15ª alla 19ª giornata guidò il gruppo con [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], inserendosi tra [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] e [[03-tesserati/allenatori/antonio-colomban|Antonio Colomban]] in un torneo chiuso con la salvezza all'11º posto (36 punti, 10 gol di [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]]).
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1992-1993 ottenne una straordinaria salvezza sul campo all'ottavo posto con 34 punti in condizioni finanziarie drammatiche prima dell'esclusione estiva del 1993.
+Il suo capolavoro si compì nella Serie C1 [[02-cronistoria/stagioni/1992-1993|1992-1993]], ultimo campionato prima della radiazione estiva e della ripartenza dall'Eccellenza. Tra gravissime difficoltà societarie, Bianchetti tenne compatto lo spogliatoio per tutte le 34 giornate ufficiali (media 1,32 punti nell'arco delle gare stagionali), conquistando un dignitoso 8º posto con 34 punti (11 vittorie, 12 pareggi, 11 sconfitte; 11 reti di [[03-tesserati/calciatori/archivio/g-l/loriano-cipriani|Loriano Cipriani]]), impreziosito dal 2-0 interno sul Messina e dai successi in Coppa Italia su Licata, Siracusa e ancora Messina.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

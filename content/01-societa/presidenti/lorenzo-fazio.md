@@ -47,6 +47,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Assunta la presidenza del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nell'estate del 1949, subito dopo la storica promozione in Serie B vinta da Giuseppe Barreca nello spareggio di Napoli contro l'Avellino, Lorenzo Fazio ebbe il merito di trasformare una neopromossa meridionale in una realtà stabile della cadetteria. Con un approccio pragmatico e attento ai conti, seppe evitare le improvvisazioni tipiche delle piazze alla prima esperienza nazionale, rafforzando progressivamente l'organico sul mercato del Nord.
+
+Nella [[02-cronistoria/stagioni/1949-1950|stagione 1949-1950]], gestita tra la panchina di Mario Magnozzi e il subentro di Stanislao Klein, la squadra centrò una tranquilla salvezza al dodicesimo posto con 40 punti, lanciando in maglia rossazzurra un giovanissimo Enzo Bearzot accanto a elementi di affidamento come Goffredo Romani, Giovanni Piram, Rodolfo Brondi ed Emilio Ziz. L'anno successivo, [[02-cronistoria/stagioni/1950-1951|1950-1951]], con l'ungherese Lajos Politzer in panchina e i 15 gol di Guido Klein sostenuti da Randon e Cappuccini, il Catania salì fino alla parte sinistra della classifica toccando quota 42 punti. Nel 1951 Fazio lasciò la presidenza ad [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], rimanendo al fianco del club come consulente tecnico e direttore sportivo nella scalata verso la Serie A.
+
 ## Tappe della Presidenza Fazio
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |

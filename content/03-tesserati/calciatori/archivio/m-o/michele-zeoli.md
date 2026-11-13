@@ -93,7 +93,8 @@ tm_id: 22096
   </table>
 </div>
 
-**Michele Zeoli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Terzino sinistro generoso e carismatico, prima ancora di sedere sulla panchina etnea come allenatore vincente, **Michele Zeoli** (Civitavecchia, 24 marzo 1974) visse cinque stagioni di intensa militanza agonistica nel [[01-societa/matricola-11700|Calcio Catania]] tra il 2000 e il 2005. Con **112 presenze ufficiali**, 5 reti e 2 assist, divenne uno dei volti simbolo della risalita dalla Serie C1 alla cadetteria.
 
 ---
 
@@ -114,7 +115,10 @@ tm_id: 22096
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Civitavecchia nel 1974, il difensore **Michele Zeoli** ha militato nelle file rossazzurre per **5 stagioni** (2000–2005). Punto di riferimento nello scacchiere etneo, ha totalizzato **112 presenze ufficiali** (9184' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2001-2002**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
+
+Ingaggiato dal Giulianova nel primo anno della gestione di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], Zeoli si impose nella [[02-cronistoria/stagioni/2000-2001|2000-2001]] con 32 gare, 2 reti (a Castel di Sangro e Ascoli) e un assist sotto [[03-tesserati/allenatori/ivo-iaconi|Ivo Iaconi]] e [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], sfiorando la Serie B nella finale play-off persa contro il Messina. Il trionfo arrivò l'anno dopo nella [[02-cronistoria/stagioni/2001-2002|2001-2002]]: con 37 gettoni, un gol alla Torres e un assist tra le gestioni di [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]], [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]] e [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]], alzò la promozione nello [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|spareggio di Taranto]].
+
+Nella travagliata [[02-cronistoria/stagioni/2002-2003|2002-2003]] di Serie B — segnata da quattro allenatori tra cui [[03-tesserati/allenatori/edoardo-reja|Edoardo Reja]] e [[03-tesserati/allenatori/john-toshack|John Toshack]] e dalla battaglia del [[01-societa/vicende-legali/caso-catania-2003|Caso Catania]] — firmò 34 gare e 2 gol. Dopo 9 presenze con [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]] nella [[02-cronistoria/stagioni/2003-2004|2003-2004]], passò al Pescara nella [[02-cronistoria/stagioni/2004-2005|2004-2005]], tornando poi da [[03-tesserati/allenatori/michele-zeoli|allenatore]] a sollevare la Coppa Italia Serie C 2023-2024.
 
 ---
 

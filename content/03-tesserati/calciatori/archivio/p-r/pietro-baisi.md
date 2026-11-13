@@ -94,13 +94,10 @@ tm_id: 370367
   </table>
 </div>
 
-**Pietro Baisi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
 
-## Profilo Biografico e Carriera Sportiva
+Centravanti generoso nel sacrificio e puntuale sotto porta, **Pietro Baisi** (Serramazzoni, 10 settembre 1945) scrisse pagine significative davanti al pubblico dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] in due momenti distinti tra il 1966 e il 1972. Con **102 presenze ufficiali** e **20 reti** con il [[01-societa/matricola-11700|Calcio Catania]], seppe essere capocannoniere cadetto e risorsa preziosa anche in Serie A.
 
-Nato a Serramazzoni (1945-09-10), Pietro Baisi ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
-
-Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+---
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
@@ -113,6 +110,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **102 presenze ufficiali**, disputando **8728 minuti** di gioco effettivo, siglando **20 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+
+
+## Profilo e Carriera in Rossazzurro
+
+Giunto per la prima volta nella [[02-cronistoria/stagioni/1966-1967|1966-1967]] dopo la discesa dalla massima serie, sotto la reggenza di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e la guida energica di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]], Baisi disputò 35 partite andando a segno 9 volte e laureandosi capocannoniere etneo nel torneo di Serie B chiuso al terzo posto.
+
+Richiamato dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del 1970 per il ritorno in massima divisione, visse da titolare la [[02-cronistoria/stagioni/1970-1971|1970-1971]] allenata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]: in 31 apparizioni siglò 4 reti — tra cui i gol al Cibali contro Lazio, Roma e Cagliari — che tuttavia non bastarono a evitare l'ultimo posto. Rimase a guidare l'attacco anche nella [[02-cronistoria/stagioni/1971-1972|1971-1972]] in Serie B tra [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], collezionando 36 gare e 7 gol (decisivi la doppietta al Novara, il colpo esterno di Como e il pareggio nel derby con il Palermo) prima del congedo nell'estate del 1972.
 
 ---
 

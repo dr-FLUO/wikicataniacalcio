@@ -110,7 +110,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Dario Marcolin** (Poncarale (BS), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2014-2015**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Già collaboratore di fiducia nell'esaltante Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]], **Dario Marcolin** (Poncarale, 1971) tornò al [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel gennaio 2015, durante l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], per guidare la squadra nella complessa Serie B [[02-cronistoria/stagioni/2014-2015|2014-2015]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -122,11 +122,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Dario Marcolin, già vice-allenatore di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] nella trionfale Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]], tornò a Catania da primo allenatore per dirigere le ultime 21 giornate della Serie B 2014-2015.
+Ex centrocampista professionista di lunga esperienza in massima serie, Dario Marcolin intraprese la carriera tecnica entrando nello staff di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], esperienza che lo portò a lavorare a Catania già come vice-allenatore nel torneo di Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]]. Il 3 gennaio 2015 la società di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] lo richiamò come primo allenatore in un campionato cadetto già segnato dalle gestioni di [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]] e [[03-tesserati/allenatori/giuseppe-sannino|Giuseppe Sannino]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Infilò una serie impressionante di cinque successi consecutivi nella primavera 2015, conducendo la squadra alla salvezza sul campo prima delle vicende giudiziarie de I Treni del Gol.
+Marcolin assunse la guida tecnica dalla ventiduesima alla quarantaduesima giornata, dirigendo complessivamente ventuno gare alla media di 1,33 punti. Dopo l'esordio negativo a Lanciano (0-3), riscattò la squadra al Massimino battendo Pro Vercelli (4-0) e Perugia (2-0) grazie al contributo offensivo di [[03-tesserati/calciatori/archivio/d-f/emanuele-calaio|Emanuele Calaiò]] (capocannoniere con 17 reti), [[03-tesserati/calciatori/archivio/p-r/riccardo-maniero|Riccardo Maniero]] e [[03-tesserati/calciatori/archivio/a-c/alessandro-rosina|Alessandro Rosina]]. Tra la trentatreesima e la trentasettesima giornata firmò cinque vittorie consecutive contro Avellino, Varese, Trapani (4-1), Latina e Ternana, conducendo il Catania a quota 49 punti prima del procedimento estivo legato all'inchiesta «I Treni del Gol», che determinò la retrocessione d'ufficio al ventiduesimo posto.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

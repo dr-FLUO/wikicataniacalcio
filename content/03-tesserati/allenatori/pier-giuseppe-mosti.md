@@ -87,7 +87,7 @@ seasons_count: 5
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/p-r/pier-giuseppe-mosti|Pier Giuseppe Mosti]]** (Massa, Italia, 1955) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1994-1995**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+**[[03-tesserati/calciatori/archivio/p-r/pier-giuseppe-mosti|Pier Giuseppe Mosti]]** (Massa, Italia, 1955) attraversa due epoche di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], prima da protagonista sulla fascia sinistra negli anni Ottanta e poi alla guida tecnica nella delicata ripartenza del **1994-1995** durante l'Era Massimino.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Terzino
@@ -99,11 +99,11 @@ seasons_count: 5
 
 ## 1. Profilo Biografico e Carriera
 
-Pier Giuseppe Mosti, ex terzino di Pescara, Catania (1980-1985 con 168 presenze e promozione in A) e Genoa, allenò i rossazzurri nelle prime 11 giornate del CND 1994-1995.
+Nato a Massa nel 1955, dopo gli inizi a Pescara **Pier Giuseppe Mosti** diventa uno dei beniamini del Cibali tra il **1980 e il 1985**, totalizzando in maglia rossazzurra **164 presenze ufficiali e 9 reti** in oltre tredicimila minuti giocati, e vivendo da titolare inamovibile la storica cavalcata verso la promozione in Serie A del 1982-1983. Chiusa la carriera agonistica dopo l'esperienza al Genoa, torna a Catania nell'estate 1994 su chiamata del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] per guidare la squadra appena riammessa al Campionato Nazionale Dilettanti.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò con abnegazione per riassemblare una rosa competitiva adatta al campionato interregionale prima di cedere il timone al vittorioso [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]].
+All'esordio nel girone I del [[02-cronistoria/stagioni/1994-1995|CND 1994-1995]], Mosti dirige i rossazzurri nelle **prime 11 giornate** del torneo, lavorando con abnegazione per amalgamare una rosa profondamente rinnovata attorno al bomber Giuseppe Mosca, futuro capocannoniere con 19 reti. Nonostante la difficoltà dell'avvio in una categoria aspra e competitiva, contribuisce a strutturare l'ossatura del gruppo prima di lasciare la panchina ad [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]], che completerà poi la rimonta fino al **1º posto** a quota **74 punti** e al ritorno in Serie C2.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Carlo Matteucci** (Bologna, Italia, 1927 – 2000) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1977-1978**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+All'indomani della retrocessione del 1977, il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] scelse l'esperienza di categoria di **Carlo Matteucci** (Bologna, 1927 – 2000) per restituire immediatamente solidità e ambizioni di vertice a [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -102,11 +102,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Carlo Matteucci guidò il Catania per 29 giornate nel campionato di Serie C 1977-1978, costruendo un impianto difensivo quasi insuperabile e mantenendo la squadra costantemente al primo posto.
+Ex difensore bolognese di solida scuola emiliana, Matteucci si era guadagnato la fama di tecnico accorto e profondo conoscitore dei meccanismi della terza serie. Arrivato nell'estate 1977 dopo un mercato segnato da partenze importanti come quelle di Bortolo Mutti e Lorenzo Barlassina e dai rientri mirati di Luigi Muraro e Federico Righi, lavorò subito sull'equilibrio tattico e sulla compattezza del reparto arretrato.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lasciò la panchina a Mazzetti a nove turni dal termine dopo una cavalcata che portò i rossazzurri a quota 52 punti e allo spareggio per la promozione in Serie B.
+Nella Serie C [[02-cronistoria/stagioni/1977-1978|1977-1978]], Matteucci costruì una macchina difensiva quasi impenetrabile, mantenendo i rossazzurri costantemente ai vertici del girone C lungo ventinove giornate. Tra i successi interni più significativi al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] figurarono il 3-1 al Crotone e soprattutto l'1-0 del 18 dicembre 1977 sulla diretta rivale Nocerina.
+
+All'indomani della sconfitta di misura a Trapani (1-0), il 10 aprile 1978 la società optò per l'avvicendamento con [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] per lo sprint finale. L'archivio ufficiale attribuisce a quell'annata 38 panchine e 1,87 punti di media, a testimonianza di un gruppo chiuso al 2º posto dopo lo spareggio promozione di Catanzaro perso contro la Nocerina (2-1).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

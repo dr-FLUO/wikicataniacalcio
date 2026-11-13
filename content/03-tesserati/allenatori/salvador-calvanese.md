@@ -93,7 +93,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Salvador Calvanese** (Buenos Aires, Argentina, 1934 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1971-1972**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Simbolo indiscusso dell'epoca d'oro della Serie A degli anni Sessanta, **[[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador «Todo» Calvanese]]** (Buenos Aires, 1934 – 2019) legò prima da attaccante e poi da tecnico il proprio nome al [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] presieduto da [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], guidando la prima squadra nell'avvio della stagione [[02-cronistoria/stagioni/1971-1972|1971-1972]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -105,11 +105,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-[[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador «Todo» Calvanese]] è stato uno dei più celebri e amati attaccanti argentini della storia etnea negli anni d'oro della Serie A (1960-1967). Tornato a Catania come tecnico, guidò la squadra in Serie B nelle prime tre giornate del 1971-1972 in coppia con [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]].
+Attaccante argentino di tecnica raffinata e grande generosità, Calvanese vestì la maglia rossazzurra per sei stagioni totalizzando 124 presenze ufficiali e partecipando da protagonista all'epopea del «[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]». Conclusa l'attività agonistica alla fine degli anni Sessanta, restò a Catania entrando nei quadri tecnici del settore giovanile, dove guidò con profitto la formazione Primavera prima di essere chiamato sul ponte di comando della prima squadra nell'estate del 1971, dopo la retrocessione dalla massima serie.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Simbolo indelebile dell'epopea del [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|Clamoroso al Cibali]]», rimase legato a vita alla città etnea come maestro di calcio e formatore di giovani generazioni.
+Poiché Calvanese non possedeva ancora l'abilitazione federale richiesta per la Serie B, la società gli affiancò formalmente [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. La sua gestione durò dal 1º luglio al 10 ottobre 1971 per sette gare ufficiali complessive — tra Coppa Italia e le prime tre giornate di campionato — chiuse con una media di 1,14 punti a partita in una squadra rinnovata dagli arrivi di [[03-tesserati/calciatori/archivio/s-z/ubaldo-spanio|Ubaldo Spanio]] e [[03-tesserati/calciatori/archivio/d-f/fulvio-francesconi|Fulvio Francesconi]] (futuro capocannoniere stagionale con 10 gol). A metà ottobre Massimino optò per il richiamo di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], che condusse poi il gruppo all'8º posto finale a quota 41 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

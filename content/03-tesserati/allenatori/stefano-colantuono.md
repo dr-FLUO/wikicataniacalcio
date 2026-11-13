@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Stefano Colantuono** (Roma, Italia, 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+**Stefano Colantuono** (Roma, Italia, 1962) accende l'entusiasmo del Cibali nella stagione **2003-2004**, diventando uno dei protagonisti della brillante annata disputata da [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'ultimo capitolo della [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Stefano Colantuono guidò il Catania nella memorabile Serie B 2003-2004 a 24 squadre (in coppia con Matricciani), imprimendo un ritmo e un'aggressività tattica che entusiasmarono il Cibali.
+Romano, classe 1962, dopo una lunga e generosa carriera da difensore centrale tra Avellino, Pisa, Como e Sambenedettese, **Stefano Colantuono** muove i primi passi da allenatore proprio sulla panchina marchigiana nell'orbita della famiglia Gaucci. Nell'estate 2003, all'indomani del ripescaggio etneo al termine della lunga vertenza legale del «Caso Martinelli», il presidente Riccardo Gaucci lo chiama in Sicilia per impostare una squadra giovane, aggressiva e votata al calcio d'attacco.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Conquistò 67 punti in 46 partite chiudendo nella parte sinistra della classifica e lanciando il tridente offensivo Mascara-Oliveira-Delvecchio.
+Nell'interminabile [[02-cronistoria/stagioni/2003-2004|Serie B 2003-2004]] a 24 squadre, Colantuono lavora in stretto tandem tecnico con [[03-tesserati/allenatori/gabriele-matricciani|Gabriele Matricciani]] (titolare del patentino di prima categoria in organigramma, mentre il computo statistico individuale accredita a Colantuono 5 panchine ufficiali alla media di **2,00 punti**). Insieme costruiscono un undici travolgente capace di conquistare **67 punti** in 46 partite (31 all'andata e 36 al ritorno) e di chiudere al **9º posto**, trascinato dai gemelli del gol Giuseppe Mascara e Luís Oliveira (13 reti ciascuno) e dagli inserimenti di Gennaro Delvecchio. La stagione si chiude a maggio 2004 con la cessione del club ad Antonino Pulvirenti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

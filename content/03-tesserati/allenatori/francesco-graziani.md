@@ -104,7 +104,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Graziani** (Subiaco (RM), Italia, 1952) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2003**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Poche immagini raccontano la gioia popolare catanese quanto la notte del 9 giugno 2002 a Taranto, quando **Francesco «Ciccio» Graziani** (Subiaco, 1952) guidò [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] fuori da quindici anni di purgatorio in terza serie sotto la [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -116,11 +116,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Francesco «Ciccio» Graziani, Campione del Mondo a Spagna 1982 e storico centravanti di Torino e Roma, è l'allenatore che il 9 giugno 2002 ha riportato il Catania in Serie B dopo quindici anni di assenza vincendo la finale play-off contro il Taranto (1-0 al Cibali, 0-0 allo Iacovone).
+Campione del Mondo a Spagna 1982 e centravanti simbolo di Torino e Roma, Graziani portò in panchina il carisma del fuoriclasse e la capacità di compattare uno spogliatoio sotto pressione. Il presidente [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] lo chiamò il 27 aprile 2002 al posto di [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]] per governare le ultime quattro giornate e gli spareggi della Serie C1 [[02-cronistoria/stagioni/2001-2002|2001-2002]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-In coppia con [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]] compì un autentico capolavoro psicologico e tattico, venendo confermato alla guida della squadra anche nella Serie B 2002-2003.
+In sintonia con [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]], Graziani trasformò il finale di stagione in un capolavoro psicologico e tattico. Spinto dalle 18 reti di [[03-tesserati/calciatori/archivio/d-f/eddy-baggio|Eddy Baggio]] e dalle 10 di [[03-tesserati/calciatori/archivio/m-o/massimo-cicconi|Massimo Cicconi]], il Catania chiuse terzo a 58 punti, eliminò il Pescara in semifinale e conquistò la Serie B superando il Taranto in finale (1-0 allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] firmato da Fini, 0-0 allo Iacovone).
+
+Confermato in coppia con Pellegrino nell'avvio della Serie B [[02-cronistoria/stagioni/2002-2003|2002-2003]], ottenne vittorie di prestigio contro Genoa (3-2) e Salernitana (2-1) prima dell'addio del 12 novembre 2002 e dell'arrivo di [[03-tesserati/allenatori/john-toshack|John Toshack]], chiudendo con 16 panchine ufficiali e 1,19 punti di media.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

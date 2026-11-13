@@ -93,7 +93,7 @@ tm_id: 480766
   </table>
 </div>
 
-**Rino Rado** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+Tra i pali del [[01-societa/matricola-11700|Calcio Catania]] nessun altro portiere ha raggiunto la soglia delle **256 presenze ufficiali** toccata da **Rino Rado**, estremo difensore veneto rimasto a difesa della porta etnea dal 1966 al 1973.
 
 ---
 
@@ -116,7 +116,9 @@ tm_id: 480766
 
 ## Profilo e Carriera in Rossazzurro
 
-Portiere nato a San Stino di Livenza nel 1941, **Rino Rado** ha militato nelle file rossazzurre per **7 stagioni** (1966–1973). A guardia dei pali etnei ha collezionato **256 presenze ufficiali** (22.834' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1971-1972**, disputata con 41 presenze complessive.
+Arrivato dal Bologna nell'estate del 1966, all'indomani della retrocessione dalla massima serie, il numero uno nato a San Stino di Livenza nel 1941 si impose subito nella [[02-cronistoria/stagioni/1966-1967|Serie B 1966-1967]] allenata da [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] sotto la reggenza commissariale di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]]. Dopo due stagioni di assestamento, inclusa la sofferta salvezza del [[02-cronistoria/stagioni/1968-1969|1968-1969]] guidata da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], Rado visse l'apice della propria esperienza siciliana nella [[02-cronistoria/stagioni/1969-1970|1969-1970]], prima annata della presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]. Dietro una linea arretrata sorretta da [[03-tesserati/calciatori/archivio/g-l/luciano-buzzacchera|Luciano Buzzacchera]] e [[03-tesserati/calciatori/archivio/g-l/luciano-limena|Luciano Limena]], disputò tutte le 38 gare di campionato mantenendo la porta inviolata in 24 occasioni e contribuendo al terzo posto che valse la promozione in Serie A a Reggio Calabria.
+
+Il ritorno in massima serie nella [[02-cronistoria/stagioni/1970-1971|1970-1971]] si chiuse con la retrocessione, ma Rado rimase il titolare designato anche nei due successivi tornei cadetti diretti da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]]. Nel [[02-cronistoria/stagioni/1971-1972|1971-1972]] toccò il primato personale di 41 gettoni e 3.628 minuti, chiudendo poi l'esperienza rossazzurra nel [[02-cronistoria/stagioni/1972-1973|1972-1973]] con 37 apparizioni e 22.834 minuti complessivi all'attivo.
 
 ---
 

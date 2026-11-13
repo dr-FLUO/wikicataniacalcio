@@ -32,14 +32,15 @@ aliases:
 
 # Rivalità Catania-Catanzaro: Tafferugli Autostradali e Alleanze Incrociate
 
-La rivalità tra il Catania e il **Catanzaro** è una delle più incandescenti e continuative delle sfide calabro-sicule, alimentata da una lunga serie di incroci nei tornei di Serie B e Serie C.
+Tra i duelli calabro-siculi di maggiore intensità emotiva, la contrapposizione tra Catania e **Catanzaro** occupa uno spazio di rilievo fin dagli anni Ottanta, alimentata da una lunga serie di sfide combattute tra Serie B e Serie C. A trasformare un normale antagonismo agonistico in un'ostilità profonda hanno contribuito sia gli incroci diretti lungo le direttrici stradali del Sud sia la rete incrociata delle alleanze di curva.
 
 ---
 
 ## 1. Origini e Scontri Autostradali
 
-- **L'Episodio del Neutro di Crotone:** La tensione tra le due curve raggiunse l'apice nei primi anni Duemila in occasione di una trasferta in cui i catanesi si recavano a disputare una gara a campo neutro allo stadio Ezio Scida di Crotone. Lungo la dorsale autostradale calabrese, all'altezza di un'area di servizio, le carovane di sostenitori etnei e giallorossi vennero a contatto fisico, dando vita a violenti scontri con lancio di fumogeni e oggetti contundenti.
-- **Alleanze Incrociate:** L'odio sportivo è acuito dalla fraterna alleanza che lega il Catania al [[06-tifoseria-e-cultura/relazioni/gemellaggi/crotone|Crotone]], acerrimo rivale provinciale del Catanzaro. In numerose occasioni, inoltre, gli ultras catanzaresi si sono schierati sugli spalti al fianco di tifoserie campane rivali del Catania.
+La tensione tra le due tifoserie toccò il suo punto più critico nei primi anni Duemila, in coincidenza con una trasferta che vedeva i sostenitori etnei diretti allo Stadio Ezio Scida di Crotone per disputare una gara casalinga in campo neutro. Lungo la dorsale autostradale calabrese, nei pressi di un'area di servizio, le carovane di tifosi catanesi e giallorossi entrarono in rotta di collisione, dando origine a violenti scontri fisici accompagnati dal lancio di fumogeni e oggetti contundenti.
+
+Ad alimentare ulteriormente l'inimicizia contribuisce la geopolitica del tifo ionico: l'odio sportivo verso il Catanzaro è infatti reso ancor più netto dal fraterno gemellaggio che lega gli ultras del Catania al [[06-tifoseria-e-cultura/relazioni/gemellaggi/crotone|Crotone]], acerrimo rivale provinciale dei giallorossi, oltre che dalla frequente presenza dei catanzaresi sugli spalti accanto a tifoserie campane ostili ai colori rossazzurri.
 
 ---
 

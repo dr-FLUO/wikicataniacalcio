@@ -82,7 +82,7 @@ aliases:
   </table>
 </div>
 
-**Gianni Simonelli** (Saviano (NA), Italia, 1952) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1999-2000**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Laureato in lettere e soprannominato «Il Professore di Nola», **Gianni Simonelli** (Saviano, 1952) portò eleganza tattica e calcio arioso nella Serie C1 [[02-cronistoria/stagioni/1999-2000|1999-2000]], l'ultima stagione di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] prima della fine dell'era Massimino.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Portiere
@@ -94,11 +94,13 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Gianni Simonelli, laureato in lettere e filosofo della panchina noto come "Il Professore di Nola", condusse il neopromosso Catania a un entusiasmante campionato di Serie C1 1999-2000 chiuso al 7º posto con 49 punti.
+Ex portiere dotato di spiccata sensibilità culturale e didattica, Simonelli era stato scelto nell'estate 1999 dalla presidenza di [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]] per consolidare in terza serie un Catania appena risalito dalla Serie C2. Lontano da ogni improvvisazione, impostò fin dal ritiro un gioco manovrato e coraggioso, capace di valorizzare le qualità tecniche di un organico esperto e ambizioso.
 
 ## 2. La Conduzione Tecnica del Catania
 
-La sua squadra esprimeva un calcio tatticamente ineccepibile e spettacolare, conquistando successi prestigiosi e gettando le fondamenta per l'acquisto del club da parte della famiglia Gaucci.
+Alla guida della squadra per tutte le 34 gare del girone B di Serie C1 (1,50 punti di media), Simonelli firmò un campionato in costante crescendo. Chiusa l'andata a quota 22 punti, nel girone di ritorno il Catania accelerò raccogliendo 27 punti grazie a prestazioni brillanti allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] come il 5-0 al Marsala e il 2-1 sulla capolista Crotone, trascinato dalle 10 reti di Passiatore.
+
+In Coppa Italia di Serie C i rossazzurri eliminarono il Palermo nei sedicesimi prima di cedere al Crotone agli ottavi. Solo due sconfitte nelle ultime due giornate impedirono l'aggancio ai play-off, fissando il 7º posto finale a 49 punti prima del passaggio societario verso [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

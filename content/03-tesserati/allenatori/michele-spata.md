@@ -79,7 +79,7 @@ aliases:
   </table>
 </div>
 
-**Michele Spata** (Catania, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+**Michele Spata** (Catania, Italia) è il pioniere assoluto della panchina rossazzurra: nel **1929** accompagna i primi passi agonistici della neonata [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] sul terreno del calcio federale meridionale.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Dirigente Sportivo
@@ -91,11 +91,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Michele Spata guidò la neonata Società Sportiva Catania nelle primissime uscite e nelle prime tre giornate del campionato di Seconda Divisione [[02-cronistoria/stagioni/1929-1930|1929-1930]], figurando tra i pionieri della guida tecnica del calcio catanese.
+Figura centrale dello sport catanese tra gli anni Venti e i primi passi del sodalizio etneo, **Michele Spata** unisce la passione pionieristica del dirigente sportivo alla responsabilità diretta dell'allenamento e della conduzione tecnica. Nella stagione d'esordio del nuovo club presieduto da Santi Quasimodo, sorto nel 1929 con i colori rossazzurri sul campo di Piazza Esposizione e del Dopolavoro Ferroviario, si incarica di coordinare l'allestimento atletico e tattico di una squadra composta da elementi locali e rinforzi chiamati a rappresentare per la prima volta Catania nei campionati nazionali.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Rappresenta una figura storica delle origini, protagonista dell'avviamento organizzativo e sportivo della squadra nei primi mesi di vita del club fondato nel 1929.
+Spata guida la Società Sportiva Catania nelle primissime uscite amichevoli e nelle **prime tre giornate** del girone meridionale di Seconda Divisione [[02-cronistoria/stagioni/1929-1930|1929-1930]], quarta serie della piramide calcistica dell'epoca. Successivamente affianca e cede la direzione sul campo a Giorgio Armari, che condurrà i rossazzurri fino al termine di un campionato pionieristico chiuso al **9º posto** con **10 punti** in 18 gare (4 vittorie, 2 pareggi e 12 sconfitte, miglior realizzatore Blengino con 7 reti). Nonostante la brevità del mandato, resta nella memoria storica come il primo tecnico a sedere sulla panchina catanese.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

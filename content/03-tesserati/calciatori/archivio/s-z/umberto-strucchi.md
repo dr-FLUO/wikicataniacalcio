@@ -94,7 +94,7 @@ tm_id: 480770
   </table>
 </div>
 
-**Umberto Strucchi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Duttile interprete tra mediana e retroguardia, **Umberto Strucchi** ha vestito la maglia del [[01-societa/matricola-11700|Calcio Catania]] per cinque stagioni consecutive dal 1967 al 1972, chiudendo con **131 presenze ufficiali** e **1 rete**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 480770
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Scandiano nel 1943, il centrocampista **Umberto Strucchi** ha militato nelle file rossazzurre per **5 stagioni** (1967–1972). Punto di riferimento nello scacchiere etneo, ha totalizzato **131 presenze ufficiali** (11.622' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **1969-1970**, disputata con 38 presenze complessive.
+Nato a Scandiano l'11 gennaio 1943 e ingaggiato dalla Reggiana nell'estate del 1967, debuttò nella [[02-cronistoria/stagioni/1967-1968|Serie B 1967-1968]] sotto la presidenza di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e la guida di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Proprio il 28 gennaio 1968, alla 21ª giornata, firmò l'unico gol della propria esperienza siciliana siglando al 68' il definitivo 2-1 interno sul Livorno.
+
+Conquistò piena centralità nelle due stagioni dirette da [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]: 32 presenze nella sofferta salvezza del [[02-cronistoria/stagioni/1968-1969|1968-1969]] e soprattutto l'en plein di 38 partite e 3.414 minuti nella [[02-cronistoria/stagioni/1969-1970|Serie B 1969-1970]], primo campionato targato [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], in cui sostenne il reparto arretrato di [[03-tesserati/calciatori/archivio/p-r/rino-rado|Rino Rado]] e [[03-tesserati/calciatori/archivio/g-l/luciano-buzzacchera|Luciano Buzzacchera]] fino alla promozione in Serie A. Seguirono 23 apparizioni nella [[02-cronistoria/stagioni/1970-1971|Serie A 1970-1971]] e gli ultimi 15 incontri nella [[02-cronistoria/stagioni/1971-1972|1971-1972]] di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], prima del passaggio al Modena.
 
 ---
 

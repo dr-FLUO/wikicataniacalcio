@@ -102,7 +102,7 @@ tm_id: 392060
   </table>
 </div>
 
-**Alessandro Raimo** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+Laterale destro di spinta e applicazione difensiva, **Alessandro Raimo** (Pontedera, 15 febbraio 1999) veste dal 2024 la maglia del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] nell'era presieduta da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -121,7 +121,9 @@ tm_id: 392060
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Pontedera (PI), Italia (classe 1999), **Alessandro Raimo** ha militato nelle file rossazzurre per **3 stagioni** (2024–). Punto di riferimento nello scacchiere etneo, ha totalizzato **54 presenze ufficiali** (2692' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2024-2025**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
+Prelevato a parametro zero dalla Carrarese nell'estate della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il terzino toscano si conquistò subito un posto sulla corsia destra dello scacchiere affidato a [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]]. In quella prima annata visse il proprio picco statistico in maglia rossazzurra, collezionando **33 presenze ufficiali, 2.050 minuti e 3 assist**, oltre alla rete pesantissima siglata alla 38ª giornata nel 2-1 esterno sul campo del Potenza che suggellò l'accesso ai playoff.
+
+Nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], segnata dall'avvicendamento tra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]] e conclusa con il secondo posto nel girone C fino alla semifinale degli spareggi promozione, Raimo garantì affidabilità nelle rotazioni con **16 apparizioni e 368 minuti**. Confermato in organico anche nella [[02-cronistoria/stagioni/2026-2027|2026-2027]] alle dipendenze di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], ha aggiunto altre **5 partite** (274 minuti), portando il suo bilancio complessivo sotto il Vulcano a **54 presenze, 1 gol, 3 assist e 2.692 minuti** di gioco.
 
 ---
 

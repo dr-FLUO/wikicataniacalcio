@@ -103,7 +103,8 @@ tm_id: 168189
   </table>
 </div>
 
-**Luca Calapai** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Dal debutto in Serie A appena diciottenne fino alla fascia destra presidiata da titolare in Serie C, **Luca Calapai** (Messina, 20 maggio 1993) ha indossato la maglia del [[01-societa/matricola-11700|Calcio Catania]] in **109 incontri ufficiali**, firmando **5 gol e 5 assist** tra il 2011 e il 2022. Spinta costante e attaccamento ai colori ne hanno segnato il doppio percorso etneo.
 
 ---
 
@@ -124,7 +125,10 @@ tm_id: 168189
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Messina nel 1993, il difensore **Luca Calapai** ha militato nelle file rossazzurre per **5 stagioni** (2011–2022). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (8382' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2018-2019**, durante la quale è sceso in campo in 37 occasioni realizzando 3 reti.
+
+Lanciato appena diciottenne da [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] nella Serie A [[02-cronistoria/stagioni/2011-2012|2011-2012]] voluta da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], raccolse il primo gettone nel massimo torneo prima di maturare altrove. Riacquistato a titolo gratuito dal Carpi nell'estate del 2018 durante la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], diventò padrone della fascia destra nella [[02-cronistoria/stagioni/2018-2019|2018-2019]] guidata da [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] e [[03-tesserati/allenatori/walter-novellino|Walter Novellino]]: 37 gare, 2 assist e 3 reti contro Matera, Cavese e Rieti nella corsa fino alle semifinali play-off.
+
+Nella [[02-cronistoria/stagioni/2019-2020|2019-2020]] divisa tra [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]] e [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] aggiunse 34 apparizioni e 2 assist. Confermato titolare anche nella difficile [[02-cronistoria/stagioni/2020-2021|2020-2021]] dell'era [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura]] (36 partite, 2 gol a Bisceglie e Potenza e un assist con [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] e [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]]), disputò un ultimo match nella [[02-cronistoria/stagioni/2021-2022|2021-2022]] prima del trasferimento a Crotone.
 
 ---
 

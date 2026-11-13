@@ -45,6 +45,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Quando il 23 luglio 2020 la [[01-societa/epoche/2020-sigi-e-fallimento|SIGI S.p.A.]] si aggiudicò all'asta fallimentare di Finaria il pacchetto di maggioranza del Calcio Catania — salendo poi al cento per cento nel novembre successivo — l'avvocato Nicola Le Mura venne indicato come Amministratore Unico di una società gravata da oltre cinquantacinque milioni di euro di passivo complessivo. La sua gestione coincise con una corsa contro il tempo per evitare l'immediata estinzione della [[01-societa/matricola-11700|matricola 11700]], tentando di trasformare l'azionariato locale in un ponte verso un investitore internazionale.
+
+Sul tavolo negoziale il capitolo più intenso fu la [[01-societa/vicende-legali/trattativa-sigi-tacopina-2021|trattativa con Joe Tacopina]], formalizzata dal preliminare firmato a Palazzo degli Elefanti il 16 gennaio 2021 ma naufragata nel maggio seguente di fronte ai nodi irrisolti del debito erariale con l'Agenzia delle Entrate e del mutuo sull'impianto di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo]]. Nonostante le difficoltà societarie, sul campo la squadra di Giuseppe Raffaele e poi di Francesco Baldini onorò la [[02-cronistoria/stagioni/2020-2021|stagione 2020-2021]] chiudendo sesta a quota 59 punti nonostante due punti di penalizzazione e ritrovando il derby con il Palermo. Dopo l'avvio del campionato 2021-2022 illuminato dai gol di Luca Moro, il 16 novembre 2021 Le Mura lasciò la carica a Sergio Santagati, poche settimane prima della [[01-societa/vicende-legali/fallimento-2021-art52-noif|sentenza di fallimento]].
+
 ## Fonti e Bibliografia
 
 1. **Calcio Catania S.p.A.**, *Comunicato Ufficiale: Nomina dell'Amministratore Unico Nicola Le Mura*, Calcio Catania, 23 luglio 2020.

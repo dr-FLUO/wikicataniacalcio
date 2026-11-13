@@ -85,7 +85,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Nereo Marini** (Mantova, Italia, 1909) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1950-1952**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Tra il 1950 e il 1952 il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] posò le fondamenta tecniche che lo avrebbero reso competitivo per la lotta al vertice cadetto: al centro di quel salto di qualità ci fu **Nereo Marini** (Mantova, 1909), prima nel ruolo di direttore tecnico e poi come allenatore della prima squadra nelle stagioni [[02-cronistoria/stagioni/1950-1951|1950-1951]] e [[02-cronistoria/stagioni/1951-1952|1951-1952]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Direttore Tecnico
@@ -97,11 +97,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Nereo Marini ricoprì il ruolo di Direttore Tecnico e primo allenatore del Club Calcio Catania tra il 1950 e il 1952, costruendo l'ossatura tecnica che avrebbe portato il club alla storica prima promozione in Serie A.
+Tecnico mantovano di solida scuola calcistica, Marini affiancò inizialmente [[03-tesserati/allenatori/lajos-politzer|Lajos Politzer]] nella seconda metà della Serie B 1950-1951, contribuendo sotto la presidenza di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] al consolidamento di una squadra chiusa al 6º posto con 42 punti. Nell'estate del 1951 il nuovo presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] ne promosse il ruolo affidandogli direttamente la guida tecnica della prima squadra per affrontare un campionato cadetto reso durissimo dalla presenza di retrocesse illustri come Roma e Genoa e aggravato da tre turni iniziali di squalifica dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel campionato 1951-1952 guidò la squadra fino alla 18ª giornata prima del passaggio di consegne a Brondi e Baldi in una stagione chiusa al quarto posto a un soffio dalla massima serie.
+Grazie a innesti mirati quali l'attaccante [[03-tesserati/calciatori/archivio/d-f/fabrizio-bartolini|Fabrizio Bartolini]], il portiere [[03-tesserati/calciatori/archivio/m-o/narciso-soldan|Narciso Soldan]] e il mediano [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]], Marini guidò il Catania per 16 incontri ufficiali fino al 20 gennaio 1952, mantenendo una media di 1,50 punti a partita e valorizzando l'estro realizzativo di [[03-tesserati/calciatori/archivio/g-l/guido-klein|Guido Klein]] (capocannoniere stagionale con 13 reti). Dopo la sconfitta esterna di Venezia (4-1 alla 18ª giornata), cedette la panchina a [[03-tesserati/allenatori/rodolfo-brondi|Rodolfo Brondi]] e poi a [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]], in un'annata conclusa al 4º posto con 44 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

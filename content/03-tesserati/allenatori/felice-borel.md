@@ -86,7 +86,7 @@ aliases:
   </table>
 </div>
 
-**Felice Borel** (Nizza, Francia, 1914 – 1993) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1958-1959**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Un campione del mondo del 1934 al servizio della salvezza cadetta e della formazione del futuro tecnico simbolo rossazzurro: nell'inverno del 1959, **Felice Borel** (Nizza, 1914 – 1993), detto «Farfallino», mise la propria esperienza al fianco del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Direttore Tecnico e Centravanti
@@ -98,11 +98,13 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Felice Borel II, detto «Farfallino», Campione del Mondo nel 1934 con l'Italia di Pozzo e leggendario centravanti della Juventus del Quinquennio d'oro, ricoprì l'incarico di Direttore Tecnico del Catania nella seconda parte della Serie B 1958-1959.
+Centravanti leggendario della Juventus del Quinquennio d'oro e protagonista azzurro ai Mondiali del 1934 con Vittorio Pozzo, Borel aveva già maturato un solido bagaglio dirigenziale e tecnico prima di approdare in Sicilia. La stagione [[02-cronistoria/stagioni/1958-1959|1958-1959]] vedeva il club immerso in una grave crisi finanziaria, segnata dall'avvicendamento tra il presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] e il commissario straordinario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò al fianco del giovane [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] dalla 18ª alla 38ª giornata, contribuendo in modo decisivo alla crescita professionale del futuro recordman di presenze sulla panchina rossazzurra.
+Dopo l'esonero di [[03-tesserati/allenatori/blagoje-marjanovic|Blagoje Marjanović]] alla 13ª giornata e la breve gestione solitaria di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], la società affiancò proprio Borel al giovane allenatore nel ruolo di direttore tecnico dalla 18ª alla 38ª giornata. La sua presenza offrì autorevolezza nello spogliatoio e lucidità nella lettura delle gare in una lotta salvezza logorante.
+
+Sostenuti dalle 10 reti del capocannoniere Macor e da vittorie pesanti allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] nel girone di ritorno — tra cui il 2-1 sul Messina e il decisivo 1-0 sul Como alla 36ª giornata — i rossazzurri centrarono la permanenza in Serie B al 16º posto con 33 punti, completando un apprendistato prezioso per il futuro ciclo di Di Bella.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

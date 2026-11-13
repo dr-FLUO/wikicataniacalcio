@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Francesco Baldini** (Massa, Italia, 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2022**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2020-sigi-e-fallimento|Gestione SIGI]]).
+Nell'ora più buia dalla scomparsa della vecchia [[01-societa/matricola-11700|matricola 11700]], **Francesco Baldini** (Massa, 1974) trasformò uno spogliatoio provato dall'insolvenza societaria in un presidio di dignità sportiva sotto le insegne di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella [[01-societa/epoche/2020-sigi-e-fallimento|Gestione SIGI]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore Centrale
@@ -114,11 +114,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Francesco Baldini è entrato per sempre nel cuore della tifoseria etnea come simbolo di dignità, coraggio e fedeltà sportiva durante la straziante agonia del fallimento del Calcio Catania [[01-societa/matricola-11700|matricola 11700]] (2021-2022).
+Ex difensore centrale di temperamento, Baldini approdò alle pendici dell'Etna il 19 marzo 2021 per sostituire [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] sotto la presidenza di [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura]]. Nello scorcio finale della Serie C [[02-cronistoria/stagioni/2020-2021|2020-2021]], impresse subito ritmo e compattezza (10 panchine registrate nella serie statistica ufficiale alla media di 1,90 punti), conducendo la squadra — trainata dagli 8 gol di [[03-tesserati/calciatori/archivio/m-o/manuel-sarao|Manuel Sarao]] — al 6º posto con 59 punti nonostante i due di penalizzazione, fino all'eliminazione al primo turno play-off con il Foggia (1-3).
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante mesi senza stipendi e la revoca dell'esercizio provvisorio il 9 aprile 2022, condusse la squadra sul campo a risultati straordinari (52 punti conquistati e trionfi memorabili come il 4-0 alla Vibonese e il successo nel derby col Palermo) fino all'esclusione a tre giornate dal termine.
+Confermato con un contratto biennale nell'estate [[02-cronistoria/stagioni/2021-2022|2021-2022]], subito dopo il tramonto definitivo della [[01-societa/vicende-legali/trattativa-sigi-tacopina-2021|trattativa con Joe Tacopina]], Baldini dovette allenare un gruppo giovane e ricostruito tra prestiti e svincolati mentre precipitava la crisi di liquidità destinata a sfociare nel [[01-societa/vicende-legali/fallimento-2021-art52-noif|fallimento]].
+
+Nonostante mesi senza stipendi e quattro punti di penalizzazione, la squadra raccolse 44 punti sul campo (13 vittorie, 9 pareggi, 12 sconfitte), esplodendo con i 18 gol di [[03-tesserati/calciatori/archivio/g-l/luca-moro|Luca Moro]] e il memorabile 2-0 nel derby contro il Palermo allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] del 12 dicembre 2021, prima della revoca dell'esercizio provvisorio e dell'esclusione alla 36ª giornata il 9 aprile 2022.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

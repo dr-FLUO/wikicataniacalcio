@@ -100,21 +100,7 @@ tags:
   </table>
 </div>
 
-Nato a Cremona il **17 settembre 1998**, **Alessandro Quaini** è un centrocampista d'ordine, abile nella prima impostazione dal basso, nel dettare i tempi della manovra e nell'agire all'occorrenza come centrale difensivo.
-
----
-
-## 1. Dalla Cantera del Genoa al Fiorenzuola
-
-Cresciuto nel vivaio del Genoa, Quaini ha maturato importanti esperienze in Serie C con Racing Fondi, Renate, AlbinoLeffe, Monopoli e soprattutto Fiorenzuola, dove sotto la guida di [[03-tesserati/allenatori/luca-tabbiani|Luca Tabbiani]] si è affermato come uno dei migliori registi della terza serie per percentuale di passaggi riusciti e visione periferica.
-
----
-
-## 2. La Consacrazione a Catania
-
-Arrivato in Sicilia nell'estate del **2023**:
-* Ha fatto parte del gruppo che ha alzato al cielo la **Coppa Italia Serie C** nell'aprile 2024.
-* Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], sotto la guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Quaini agisce da perno metodista e difensore aggiunto (sempre presente nelle prime 16 gare ufficiali con 1.297 minuti giocati e 2 assist all'attivo, incluso quello per Cicerelli nel 2-0 sul Sorrento), garantendo equilibrio, geometrie pulite e transizioni rapide da difesa ad attacco.
+Metronomo di centrocampo e difensore aggiunto all'occorrenza, **Alessandro Quaini** (Cremona, 17 settembre 1998) incarna dal 2023 la continuità tattica del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] voluto da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -131,6 +117,13 @@ Arrivato in Sicilia nell'estate del **2023**:
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **127 presenze ufficiali**, disputando **8812 minuti** di gioco effettivo, siglando **1 gol** e servendo **2 assist** distribuiti su **4 stagioni sportive**.
 
+## Profilo e Carriera in Rossazzurro
+
+Formatosi nel vivaio del Genoa e temprato in Serie C con Racing Fondi, Renate, AlbinoLeffe e Monopoli, Quaini si impose definitivamente al Fiorenzuola sotto la guida di [[03-tesserati/allenatori/luca-tabbiani|Luca Tabbiani]] per qualità di palleggio e visione periferica. Proprio la sintonia tecnica con il tecnico ligure ne favorì lo sbarco alle pendici dell'Etna nell'estate del 2023: alla prima annata raccolse **39 presenze e 2.984 minuti**, contribuendo alla vittoria della [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Coppa Italia Serie C]] nella finale vinta per 4-2 ai supplementari sul Padova.
+
+Negli anni successivi il mediano cremonese ha mantenuto un rendimento costante pur cambiando compiti e sistemi di gioco. Nel [[02-cronistoria/stagioni/2024-2025|2024-2025]] totalizzò **36 apparizioni** firmando la sua prima rete rossazzurra contro la Juventus Next Gen, mentre nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], chiusa al secondo posto e fino alla semifinale playoff, replicò le **36 gare ufficiali**. Con l'approdo in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Quaini è rimasto titolare inamovibile nelle prime 16 uscite (1.297 minuti e 2 assist, tra cui quello per Cicerelli nel 2-0 sul Sorrento), toccando **127 presenze, 1 gol, 2 assist e 8.812 minuti**.
+
+---
 
 ## Collegamenti e Voci Correlate
 

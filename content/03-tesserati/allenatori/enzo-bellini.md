@@ -87,7 +87,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/d-f/enzo-bellini|Enzo Bellini]]** (Firenze, Italia, 1917 – 2001) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1955-1956**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Bandiera autentica del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] prima in campo e poi a bordo campo, **[[03-tesserati/calciatori/archivio/d-f/enzo-bellini|Enzo Bellini]]** (Firenze, 1917 – 2001) accettò nella primavera del 1956 il compito di traghettare i rossazzurri fuori dalle secche di una stagione delicata.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -99,11 +99,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Enzo Bellini è una delle figure storiche più amate del Club Calcio Catania: bandiera in campo negli anni Quaranta e Cinquanta, subentrò a [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] nelle ultime 7 giornate della Serie B 1955-1956.
+Attaccante generoso e molto amato dalla tifoseria etnea tra gli anni Quaranta e Cinquanta, Bellini incarnava lo spirito di appartenenza al club. La Serie B [[02-cronistoria/stagioni/1955-1956|1955-1956]] si era aperta sotto il peso della retrocessione a tavolino inflitta per [[01-societa/vicende-legali/caso-scaramella-1955|il Caso Scaramella]] e sotto la reggenza straordinaria guidata anche da [[01-societa/presidenti/agatino-pesce|Agatino Pesce]], in un clima di transizione societaria.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò la squadra con polso fermo in un momento delicato successivo alla retrocessione per il [[01-societa/vicende-legali/caso-scaramella-1955|il Caso Scaramella]], traghettando i rossazzurri al quinto posto finale con 40 punti.
+Quando [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] concluse il proprio mandato alla 27ª giornata, la società si rivolse proprio a Bellini per governare il finale di campionato dal 29 aprile al 30 giugno 1956. In sette panchine ufficiali (dalla 28ª alla 34ª giornata), il neo-tecnico ottenne una media di 1,43 punti a partita, restituendo serenità a una rosa talentuosa ma discontinua, guidata sotto rete dalle 10 marcature stagionali di Bassetti.
+
+Dopo il pareggio interno a reti inviolate contro la capolista Udinese all'esordio, la squadra superò al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] sia il Cagliari (1-0) sia il Messina nel derby siciliano (2-0), chiudendo il torneo al 5º posto con 40 punti (14 vittorie, 12 pareggi, 8 sconfitte) alle spalle delle promosse Udinese e Palermo.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

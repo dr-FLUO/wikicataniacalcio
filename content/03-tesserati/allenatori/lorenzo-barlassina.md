@@ -87,7 +87,7 @@ seasons_count: 5
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina|Lorenzo Barlassina]]** (Limbiate (MB), Italia, 1948) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+**[[03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina|Lorenzo Barlassina]]** (Limbiate (MB), Italia, 1948) lega indissolubilmente il proprio nome ai colori rossazzurri di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] prima come bandiera del centrocampo tra gli anni Settanta e Ottanta e poi come tecnico nell'anno più drammatico della storia etnea, il **1993-1994** dell'Era Massimino.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -99,11 +99,11 @@ seasons_count: 5
 
 ## 1. Profilo Biografico e Carriera
 
-Lorenzo «Lilly» Barlassina, colonna del Catania da giocatore negli anni Settanta in Serie B, subentrò a Indelicato alla 23ª giornata del torneo di Eccellenza 1993-1994.
+Soprannominato «Lilly», **Lorenzo Barlassina** approda giovanissimo in Sicilia diventando uno dei punti di riferimento del Catania dal **1976 al 1982**. In cinque stagioni agonistiche con la maglia rossazzurra tra Serie B e Serie C1 colleziona **171 presenze ufficiali e 18 reti** per oltre quindicimila minuti giocati, distinguendosi per generosità atletica, visione di gioco e attaccamento alla piazza. Terminata l'attività da calciatore, rimane legato all'ambiente etneo iniziando l'attività tecnica proprio nei ranghi del club del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò la squadra nelle ultime 12 giornate centrando il 3º posto a quota 46 punti e gettando il ponte verso l'ammissione al Campionato Nazionale Dilettanti sancita dai tribunali.
+Nell'inverno della stagione di [[02-cronistoria/stagioni/1993-1994|Eccellenza 1993-1994]], con il Catania precipitato nei dilettanti dopo la radiazione estiva del 1993 e le conseguenti battaglie legali, Barlassina subentra in panchina a Franco Indelicato dalla **23ª giornata**. Chiamato a dare continuità tecnica e serenità a un gruppo trascinato in attacco dal capocannoniere Giuseppe Mosca (18 reti), guida la squadra nelle ultime giornate del girone A concludendo il torneo al **3º posto con 47 punti** (frutto di 19 vittorie, 9 pareggi e 4 sconfitte complessive, con 68 gol fatti e 20 subiti). Quel piazzamento, unito al completamento degli organici sancito al termine della stagione, spalanca al club le porte del Campionato Nazionale Dilettanti per la risalita.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

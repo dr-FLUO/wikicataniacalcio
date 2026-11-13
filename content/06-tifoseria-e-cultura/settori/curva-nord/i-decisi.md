@@ -34,15 +34,15 @@ aliases:
 
 # I Decisi Curva Nord (Anni Novanta)
 
-**I Decisi** hanno rappresentato negli anni Novanta una delle formazioni più temute e conflittuali della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** dello Stadio Cibali. Sorti a metà del decennio da una traumatica scissione interna alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], il gruppo ha incarnato l'ala più intransigente e battagliera del movimento giovanile etneo.
+Nella geografia interna della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** degli anni Novanta, **I Decisi** hanno incarnato la stagione più spigolosa e conflittuale del tifo giovanile etneo. Sorti nel 1994 da una scissione traumatica maturata in seno alla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]], seppero ritagliarsi in pochi anni una fisionomia autonoma e intransigente, legando la propria breve ma intensa parabola ai quartieri popolari di San Cristoforo, Picanello e Tunniceddu.
 
 ---
 
 ## 1. Genesi e Conflittualità
 
-- **La Scissione dalla Falange:** La nascita de I Decisi scaturì da una divergenza generazionale e strategica all'interno della Falange: una parte più giovane e aggressiva dei quartieri San Cristoforo e Picanello scelse di rendersi autonoma per attuare una presenza marcatamente orientata allo scontro fisico con le tifoserie rivali.
-- **Repressione Giudiziaria:** L'elevata propensione allo scontro e la partecipazione a numerosi tafferugli sia in casa che in trasferta resero I Decisi il bersaglio principale delle prime ondate di provvedimenti DASPO e di diffide emesse dalla Questura di Catania tra la fine degli anni Novanta e i primi anni Duemila.
-- **Scioglimento:** La progressiva decapitazione del nucleo storico a causa delle misure restrittive e dei carichi penali portò allo scioglimento della sigla nei primi anni Duemila, con la confluenza dei militanti superstiti in altre realtà di quartiere della Nord.
+La rottura con la casa madre nacque da una divergenza insieme generazionale e strategica. Una componente più giovane e impetuosa della Falange scelse infatti di staccarsi per adottare una linea d'azione autonoma, apertamente orientata allo scontro diretto e al presidio fisico contro le tifoserie rivali sui campi di tutta Italia.
+
+Proprio questa esposizione costante ai tafferugli, tanto al Cibali quanto nelle trasferte più calde della penisola, trasformò rapidamente I Decisi nel bersaglio privilegiato delle prime ondate organiche di provvedimenti DASPO e diffide emesse dalla Questura di Catania a cavallo tra la fine degli anni Novanta e i primi anni Duemila. Colpito nei suoi esponenti di riferimento da misure restrittive e procedimenti penali, il nucleo originario andò incontro a una progressiva erosione fino allo scioglimento della sigla all'inizio del nuovo millennio, quando i militanti superstiti confluirono in altre realtà rionali della stessa Curva Nord.
 
 ---
 

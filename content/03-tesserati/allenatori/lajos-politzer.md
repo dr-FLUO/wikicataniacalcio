@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Lajos Politzer** (Ungheria, 1898) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1950-1951**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Nel segno della tradizione magiara che già aveva portato fortuna al club nel dopoguerra, il presidente [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] affidò nell'estate del 1950 la panchina del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] a **Lajos Politzer** (Ungheria, 1898), chiamato a raccogliere l'eredità di [[03-tesserati/allenatori/stanislao-klein|Stanislao Klein]] nella Serie B [[02-cronistoria/stagioni/1950-1951|1950-1951]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Lajos Politzer guidò il Catania nella Serie B 1950-1951, conducendo la squadra per l'intero arco del campionato (collaborando da metà torneo con il D.T. [[03-tesserati/allenatori/nereo-marini|Nereo Marini]]) fino a un brillante 7º posto con 42 punti.
+Ex centrocampista formatosi nella scuola ungherese e profondamente inserito nei circuiti tecnici del calcio italiano postbellico, Politzer sbarcò allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] per guidare una formazione ambiziosa ma rinnovata negli equilibri dopo le partenze di [[03-tesserati/allenatori/cesare-goffi|Cesare Goffi]] e [[03-tesserati/calciatori/archivio/g-l/giovanni-prevosti|Giovanni Prevosti]]. In entrata la società gli mise a disposizione innesti di valore come il portiere Giacomo Cappuccini, il mediano Giancarlo Cadè, la mezzala [[03-tesserati/calciatori/archivio/d-f/francesco-randon|Francesco Randon]], l'ala [[03-tesserati/calciatori/archivio/s-z/silvano-toncelli|Silvano Toncelli]] e soprattutto il centravanti italo-tedesco [[03-tesserati/calciatori/archivio/g-l/guido-klein|Guido Klein]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione il Catania si impose come una delle compagini più temibili del torneo cadetto, centrando vittorie prestigiose e valorizzando campioni come [[03-tesserati/calciatori/archivio/g-l/guido-klein|Guido Klein]] e Manlio Renzulli.
+Politzer rimase in carica per tutte le 40 giornate del torneo cadetto, collaborando nella seconda metà della stagione con il direttore tecnico [[03-tesserati/allenatori/nereo-marini|Nereo Marini]]. Impostando un calcio propositivo e coraggioso — sintetizzato dall'identico bilancio di 63 reti realizzate e 63 subite — trasformò Klein nel terminale principe dell'attacco rossazzurro con 15 marcature. Dietro le corazzate SPAL (58 punti) e Legnano (54), entrambe promosse in Serie A, gli etnei chiusero al 6º posto con 42 punti (17 vittorie, 8 pareggi e 15 sconfitte; media di 1,50 nell'archivio delle 40 panchine ufficiali), consolidando stabilmente il club nella parte alta della cadetteria.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

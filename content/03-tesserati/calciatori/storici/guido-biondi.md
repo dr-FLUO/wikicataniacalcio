@@ -98,7 +98,8 @@ tm_id: 395839
   </table>
 </div>
 
-**Guido Biondi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Mezzala abruzzese di corsa generosa e piedi educati, **Guido Biondi** (Lanciano, 18 luglio 1952) attraversò cinque campionati del [[01-societa/matricola-11700|Calcio Catania]] tra Serie A, Serie B e Serie C negli anni Settanta, collezionando **108 presenze ufficiali**.
 
 ---
 
@@ -119,7 +120,9 @@ tm_id: 395839
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Lanciano nel 1952, il centrocampista **Guido Biondi** ha militato nelle file rossazzurre per **5 stagioni** (1970–1976). Punto di riferimento nello scacchiere etneo, ha totalizzato **108 presenze ufficiali** (9011' minuti effettivi) impreziosite da **6 reti**. La sua annata con il minutaggio più elevato è stata la **1973-1974**, disputata con 35 presenze complessive.
+Affacciatosi in prima squadra appena diciottenne nella Serie A [[02-cronistoria/stagioni/1970-1971|1970-1971]] sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e la guida di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], Biondi mise subito in mostra la propria personalità con 12 apparizioni, un assist e il primo gol nella massima serie contro la Sampdoria. Dopo 16 gettoni nella cadetteria [[02-cronistoria/stagioni/1971-1972|1971-1972]] conclusa all'ottavo posto con [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e una parentesi al Rovereto, tornò in Sicilia nell'autunno [[02-cronistoria/stagioni/1973-1974|1973-1974]], annata amarissima sotto [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] — con [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]] in panchina — in cui toccò comunque il record personale di **35 presenze**.
+
+Ripartito con Massimino e Rubino nella Serie C [[02-cronistoria/stagioni/1974-1975|1974-1975]], il centrocampista di Lanciano partecipò alla trionfale risalita immediata con 19 presenze e 2 reti (al Matera e nel 6-0 all'Acireale), prima di vivere la stagione della definitiva maturità nella Serie B [[02-cronistoria/stagioni/1975-1976|1975-1976]]: 26 presenze e **3 gol pesanti** contro Palermo, Piacenza e Pescara sotto Rubino e Mazzetti per blindare la salvezza, prima del passaggio al Lecce con 6 reti e 9.011 minuti in rossazzurro.
 
 ---
 

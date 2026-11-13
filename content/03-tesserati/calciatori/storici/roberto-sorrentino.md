@@ -99,7 +99,8 @@ tm_id: 222795
   </table>
 </div>
 
-**Roberto Sorrentino** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+
+Tra i numeri uno più amati della storia del [[01-societa/matricola-11700|Calcio Catania]], **Roberto Sorrentino** (Napoli, 14 agosto 1955) ne difese i pali e ne indossò la fascia di capitano dal 1979 al 1984, toccando **180 presenze ufficiali**.
 
 ---
 
@@ -120,7 +121,9 @@ tm_id: 222795
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Napoli nel 1955, il portiere **Roberto Sorrentino** ha militato nelle file rossazzurre per **5 stagioni** (1979–1984). A guardia dei pali etnei ha collezionato **180 presenze ufficiali** (15.905' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1982-1983**, disputata con 42 presenze complessive.
+Prelevato dalla Paganese nel [[02-cronistoria/stagioni/1979-1980|1979-1980]] su volontà del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il portiere partenopeo divenne subito l'idolo di piazza Spedini nella cavalcata dalla Serie C1 alla Serie B guidata da [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] prima e da [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] poi. Nei successivi campionati cadetti consolidò la propria leadership con 41 gettoni nel [[02-cronistoria/stagioni/1980-1981|1980-1981]], tra De Petrillo e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], e 36 presenze nell'ottavo posto [[02-cronistoria/stagioni/1981-1982|1981-1982]] sotto [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]].
+
+La stagione della definitiva apoteosi fu la [[02-cronistoria/stagioni/1982-1983|1982-1983]], con [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] in panchina: Sorrentino collezionò **42 presenze (3.726 minuti)** e guidò la retroguardia insieme a [[03-tesserati/calciatori/storici/giorgio-mastropasqua|Giorgio Mastropasqua]] fino agli storici [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi dell'Olimpico]], sigillati dall'1-0 sul Como e dallo 0-0 contro la Cremonese davanti a trentacinquemila tifosi siciliani. Capitano coraggioso anche nella sfortunata Serie A [[02-cronistoria/stagioni/1983-1984|1983-1984]] — 34 presenze tra Di Marzio e [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]] — lasciò l'Etna dopo **15.905 minuti** tra i pali per trasferirsi al Cagliari.
 
 ---
 

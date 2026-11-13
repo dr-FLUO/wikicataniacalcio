@@ -94,7 +94,8 @@ tm_id: 22082
   </table>
 </div>
 
-**Michele Fini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Il destro a giro che fece esplodere il Cibali il 2 giugno 2002 consegna **Michele Fini** (Sorso, 14 giugno 1974) alla memoria collettiva del [[01-societa/matricola-11700|Calcio Catania]], club in cui collezionò **105 presenze e 9 reti** tra il 2001 e il 2004.
 
 ---
 
@@ -113,7 +114,9 @@ tm_id: 22082
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Sorso nel 1974, **Michele Fini** ha militato nelle file rossazzurre per **3 stagioni** (2001–2004). Punto di riferimento nello scacchiere etneo, ha totalizzato **105 presenze ufficiali** (7851' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2003-2004**, durante la quale è sceso in campo in 37 occasioni realizzando 2 reti.
+Prelevato dall'Avellino nell'estate del 2001 su mandato del presidente [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], il centrocampista sardo unì qualità balistica sui calci da fermo e generosa copertura lungo la fascia. Nella [[02-cronistoria/stagioni/2001-2002|stagione 2001-2002]], attraversata dalle gestioni di [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]], [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]] e [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]], firmò **36 presenze, 5 gol e 3 assist**, trovando la consacrazione nella finale playoff d'andata contro il Taranto: la sua parabola all'incrocio valse l'1-0 che, difeso nello [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|0-0 dello Iacovone]] una settimana dopo, riportò il Catania in Serie B dopo quindici anni.
+
+Confermato protagonista fra i cadetti, nel tormentato campionato [[02-cronistoria/stagioni/2002-2003|2002-2003]] — tra il tandem Graziani–[[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]], [[03-tesserati/allenatori/john-toshack|John Toshack]] e [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]] — disputò 32 partite andando a segno contro Genoa e Lecce fino alla riammissione estiva seguita al Caso Martinelli. Nella Serie B a 24 squadre del [[02-cronistoria/stagioni/2003-2004|2003-2004]], con [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]] e [[03-tesserati/allenatori/gabriele-matricciani|Gabriele Matricciani]], raggiunse il primato personale di **37 apparizioni e 2 gol** per un brillante nono posto.
 
 ---
 

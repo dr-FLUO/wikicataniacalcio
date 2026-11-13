@@ -86,7 +86,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Rodolfo Brondi** (Livorno, Italia, 1912 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1951-1952**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+**Rodolfo Brondi** (Livorno, Italia, 1912 – 1989) guida la rincorsa cadetta del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nella seconda metà della stagione **1951-1952**, portando i rossazzurri a sfiorare la prima storica promozione in Serie A.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -98,11 +98,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Rodolfo Brondi, ex centrocampista di Livorno, Roma e Fiorentina, guidò il Catania dalla 19ª alla 36ª giornata della Serie B 1951-1952, mantenendo la squadra costantemente ai vertici della classifica.
+Nato a Livorno nel 1912, **Rodolfo Brondi** costruisce negli anni Trenta e Quaranta una prestigiosa carriera da centrocampista di temperamento e ordine tattico con le maglie di Livorno, Roma e Fiorentina. Appesi gli scarpini al chiodo, intraprende l'attività di allenatore distinguendosi per rigore metodico e attenzione alla fase difensiva. Nel gennaio 1952 la società presieduta da Arturo Michisanti lo chiama in Sicilia per rilevare Nereo Marini alla guida di una squadra ambiziosa, capace di unire solidità di reparto e qualità individuale.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Impresse un'ottima organizzazione difensiva e compattezza di reparto, sfiorando la promozione diretta in Serie A in un torneo di altissimo livello tecnico.
+Assunto l'incarico nel gennaio 1952 (debutto sul campo nel **4-1** sulla Reggiana del 27 gennaio alla 19ª giornata), Brondi dirige i rossazzurri fino alla 36ª giornata di [[02-cronistoria/stagioni/1951-1952|Serie B 1951-1952]] (sconfitta per **3-0** in casa della Roma l'**8 giugno 1952**), totalizzando **20 panchine ufficiali** comprensive di due gare di recupero con una media di **1,55 punti a partita**. Valorizzando un organico di alto spessore con Narciso Soldan tra i pali, Enzo Bearzot, Fabrizio Bartolini, Dandolo Brondi, Nicola Fusco e il capocannoniere Guido Klein (13 reti), mantiene i rossazzurri nelle posizioni di vertice fino all'avvicendamento delle ultime due giornate con Fioravante Baldi, preludio al **4º posto** finale con **44 punti**.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -54,6 +54,12 @@ Compiuta la missione di collocare la nuova società nel calcio interregionale co
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Nell'estate del 1929, mentre il calcio siciliano cercava una rappresentanza unitaria capace di reggere il confronto con i campionati federali del Centro-Sud, l'ingegnere Santi Quasimodo si assunse la responsabilità di guidare la neonata [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]. La fusione sancita il 19 giugno 1929 tra U.S. Catanese e Unione Sportiva Catania non fu soltanto un atto amministrativo, ma la prima scommessa cittadina su un club organizzato: colori cittadini rosso e azzurro, primo direttivo operativo e iscrizione ai quadri della Seconda Divisione Meridionale.
+
+Sotto il profilo sportivo, l'anno d'esordio rappresentò un duro apprendistato. Affidata alla guida tecnica di [[03-tesserati/allenatori/giorgio-armari|Giorgio Armari]] e sostenuta dalle sette reti del capocannoniere [[03-tesserati/calciatori/archivio/p-r/piero-blengino|Piero Blengino]], la squadra scontò il ritardo di preparazione rispetto alle avversarie e chiuse la [[02-cronistoria/stagioni/1929-1930|stagione 1929-1930]] al nono e penultimo posto con 10 punti in diciotto gare, frutto di quattro vittorie, due pareggi e dodici sconfitte, prima di beneficiare dell'ammissione alla Prima Divisione nell'ambito della riforma dei campionati. L'eredità più duratura di Quasimodo fu tuttavia di natura strutturale: la gestione dei primi impegni interni sul terreno del Dopolavoro Ferroviario e l'avvio della stagione che condusse il club al nuovo campo di Piazza Esposizione sotto la successiva presidenza di Andrea Gaudioso.
+
 ## Fonti e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 13–25.

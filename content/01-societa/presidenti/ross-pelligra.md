@@ -57,6 +57,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Nato a Melbourne da famiglia di radici siciliane, Ross Pelligra raccolse la sfida catanese nella primavera del 2022 all'indomani del [[01-societa/vicende-legali/fallimento-2021-art52-noif|fallimento della matricola 11700]], quando la città cercava una proprietà solida cui affidare la rinascita sportiva. Vinto il bando comunale ex articolo 52 delle NOIF il 24 giugno 2022 e costituita la nuova società il 13 luglio insieme al vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]] e al consigliere Mark Bresciano, il presidente australiano impostò una ricostruzione fondata su sostenibilità aziendale, impianti e radicamento popolare. La risposta della città fu immediata già nella [[02-cronistoria/stagioni/2022-2023|stagione 2022-2023]]: oltre undicimilaquattrocento abbonati al Massimino e promozione in Serie C dominata con 88 punti sotto la guida di Giovanni Ferraro.
+
+Nell'[[01-societa/epoche/2022-pelligra-catania-fc|era Pelligra]] del nuovo Catania Football Club, il salto di categoria ha imposto anche passaggi complessi. Il torneo [[02-cronistoria/stagioni/2023-2024|2023-2024]], segnato da un tredicesimo posto sofferto tra gli avvicendamenti di Tabbiani, Lucarelli e Michele Zeoli, venne tuttavia riscattato dalla storica conquista della [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|Coppa Italia Serie C]] contro il Padova il 2 aprile 2024. Riorganizzato il vertice tecnico con l'approdo di [[01-societa/dirigenti/daniele-faggiano|Daniele Faggiano]] prima e poi di [[01-societa/dirigenti/fortunato-varra|Fortunato Varrà]] e Domenico Toscano fino al secondo posto del [[02-cronistoria/stagioni/2025-2026|2025-2026]], la presidenza Pelligra ha completato due operazioni identitarie decisive nel 2026: il riacquisto di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]] a febbraio e l'aggiudicazione dello [[05-identita-e-simboli/araldica-e-scudetti/acquisizione-marchio-storico-2026|marchio storico]] ad ottobre.
+
 ## Tappe Fondamentali della Presidenza di Ross Pelligra
 
 | Data | Snodo Societario, Sportivo e Patrimoniale | Dettaglio |

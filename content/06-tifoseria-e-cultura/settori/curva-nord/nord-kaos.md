@@ -38,24 +38,21 @@ aliases:
 
 # Nord Kaos Valverde (Primi Anni 2000)
 
-Il **Nord Kaos** è uno dei gruppi più dinamici e continuativi della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino, sorto nei primi anni Duemila e contraddistinto dal solido radicamento nel comune etneo di **Valverde**.
-
-Guidato fin dalla fondazione da figure storiche del tifo pedemontano come Daniele Magni, il gruppo testimonia come la passione per i colori rossazzurri travalichi i confini urbani per coinvolgere con costanza l'intera cintura metropolitana etnea.
+Tra i gruppi più dinamici e longevi della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino, il **Nord Kaos** testimonia sin dai primi anni Duemila come la passione per il Catania superi i confini municipali per radicarsi nella cintura pedemontana. Nato a **Valverde** nel 2001 e guidato fin dalla fondazione da figure storiche dell'hinterland come Daniele Magni, il gruppo ha saputo coniugare continuità generazionale e spirito di appartenenza.
 
 ---
 
 ## 1. Caratteristiche e Presenza Fuori Casa
 
-- **Spirito di Gruppo e Mobilità:** Contraddistinto da una militanza giovanile e compatta, il Nord Kaos si è fatto apprezzare nel corso dei decenni per la costante presenza in trasferta, garantendo il presidio dello stendardo sia durante i tornei di massima serie sia nelle categorie minori.
-- **Difesa dei Valori Tradizionali:** Insieme ad *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]*, il gruppo ha respinto l'adesione alla Tessera del Tifoso nel 2015, prendendo parte a tutte le mobilitazioni per la salvaguardia della mentalità e dei diritti dei gradoni.
+Fin dalle prime apparizioni sui gradoni, il Nord Kaos si è distinto per una militanza giovanile compatta e per una spiccata attitudine alla trasferta. Lo stendardo del gruppo ha accompagnato la squadra lungo ogni latitudine calcistica, dalle grandi platee della Serie A alle piazze periferiche delle categorie inferiori, senza mai smarrire la propria identità.
+
+Sul piano dei principi, nel 2015 il gruppo ha fatto fronte comune con *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]* respingendo la sottoscrizione della Tessera del Tifoso e partecipando alle mobilitazioni a difesa della mentalità tradizionale e dei diritti della curva.
 
 ---
 
 ## 2. Continuità e Attività nella Stagione 2026
 
-Nella **stagione 2026**, il Nord Kaos si conferma come presidio insostituibile nella parte alta della Curva Nord:
-- Assicura un punto di ritrovo e di coordinamento per centinaia di sostenitori provenienti dai centri pedemontani (Valverde, San Gregorio, Aci Bonaccorsi, San Giovanni La Punta).
-- Partecipa attivamente alla quadratura del tifo vocale coordinato dal direttivo centrale della Nord, distinguendosi per pezze e drappi realizzati secondo lo stile classico della tradizione etnea.
+Anche nella **stagione 2026**, il Nord Kaos conferma il proprio ruolo di presidio stabile nella parte alta della Curva Nord. Il gruppo funge tuttora da punto di raccolta e coordinamento per centinaia di sostenitori provenienti dai comuni etnei di Valverde, San Gregorio, Aci Bonaccorsi e San Giovanni La Punta, contribuendo alla compattezza vocale guidata dal direttivo centrale della Nord attraverso pezze e drappi fedeli alla grafica classica del tifo catanese.
 
 ---
 

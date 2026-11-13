@@ -93,7 +93,7 @@ tm_id: 495964
   </table>
 </div>
 
-**Lorenzo Barlassina** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Noto come «Lilly», **Lorenzo Barlassina** ha lasciato un segno profondo nel [[01-societa/matricola-11700|Calcio Catania]] da giocatore tra il 1976 e il 1982, accumulando **171 presenze ufficiali** e **18 reti** prima di tornare in panchina negli anni Novanta.
 
 ---
 
@@ -114,7 +114,9 @@ tm_id: 495964
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Limbiate nel 1948, **Lorenzo Barlassina** ha militato nelle file rossazzurre per **5 stagioni** (1976–1982). Punto di riferimento nello scacchiere etneo, ha totalizzato **171 presenze ufficiali** (15.135' minuti effettivi) impreziosite da **18 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1980-1981**, durante la quale è sceso in campo in 42 occasioni realizzando 7 reti.
+Nato a Limbiate il 7 luglio 1948, approdò una prima volta in Sicilia dal Brindisi nella [[02-cronistoria/stagioni/1976-1977|Serie B 1976-1977]], totalizzando 30 presenze e una rete al Como nella sfortunata annata chiusa con la retrocessione sotto [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Rientrato dalla Pistoiese nel [[02-cronistoria/stagioni/1978-1979|1978-1979]] alla corte di [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]], mise duttilità tattica e fiuto degli inserimenti al servizio della [[02-cronistoria/stagioni/1979-1980|Serie C1 1979-1980]]: con 6 gol in 28 apparizioni ufficiali contribuì in maniera decisiva alla risalita in Serie B costruita dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e da [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]].
+
+Nel difficile torneo cadetto [[02-cronistoria/stagioni/1980-1981|1980-1981]], caratterizzato dal ritorno di Milan e Lazio, Barlassina toccò l'apice personale con 42 presenze, 3.772 minuti e 7 marcature che gli valsero il titolo di capocannoniere della squadra guidata da De Petrillo e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]]. Disputò infine 39 partite con 3 reti nella [[02-cronistoria/stagioni/1981-1982|1981-1982]] sotto [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]], legando poi il proprio nome anche alla guida tecnica del club nel [[02-cronistoria/stagioni/1993-1994|1993-1994]] come [[03-tesserati/allenatori/lorenzo-barlassina|allenatore]].
 
 ---
 

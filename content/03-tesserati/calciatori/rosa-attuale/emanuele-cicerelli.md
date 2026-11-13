@@ -100,22 +100,7 @@ tags:
   </table>
 </div>
 
-Nato a San Giovanni Rotondo il **12 agosto 1994**, **Emmanuele Pio Cicerelli** è un attaccante esterno rapido, imprevedibile nell'uno contro uno e dotato di eccellente visione di gioco, punto di forza del reparto offensivo rossazzurro.
-
----
-
-## 1. Carriera Professionistica tra Serie B e Serie C
-
-Cresciuto calcisticamente tra Foggia e Salernitana, ha maturato oltre 200 presenze nel calcio professionistico italiano:
-* Ha vestito le casacche di Salernitana, Frosinone, Reggina e Lazio in Serie B e Serie A, vincendo campionati di seconda divisione e distinguendosi come uno dei migliori esterni offensivi per numero di cross e dribbling riusciti.
-* Arrivato a Catania nel gennaio **2024**, è uno degli elementi cardine della conquista della **Coppa Italia Serie C**.
-
----
-
-## 2. Il Protagonismo nel Catania di Emilio Longo
-
-Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], schierato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] come trequartista di sinistra o seconda punta a supporto del bomber [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]]:
-* Ha inanellato prestazioni di altissimo livello in tutte le 16 gare ufficiali disputate, servendo 4 assist decisivi e risultando il miglior marcatore complessivo con **6 reti** (5 in Serie C contro Cosenza, Picerno, Casertana, Giugliano e Sorrento, più 1 in Coppa Italia a Vicenza).
+Estro nello stretto, cambio di passo fulmineo e calcio velenoso dalla distanza: **Emmanuele Pio Cicerelli** (San Giovanni Rotondo, 12 agosto 1994) è tra le armi offensive più decisive del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -131,6 +116,13 @@ Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], schierato da [[0
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **4286 minuti** di gioco effettivo, siglando **15 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
+## Profilo e Carriera in Rossazzurro
+
+Formatosi tra Foggia e Salernitana e temprato in oltre duecento gare tra Serie A e Serie B con Salernitana, Frosinone, Reggina e Lazio, approdò alle pendici dell'Etna nel gennaio della [[02-cronistoria/stagioni/2023-2024|stagione 2023-2024]]. Fu subito determinante nella conquista della Coppa Italia Serie C: segnò in semifinale contro il Rimini e firmò un gol nella [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|finale vinta per 4-2 ai supplementari contro il Padova]] sotto [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]], chiudendo l'annata con **26 presenze, 3 gol e 2 assist**.
+
+Dopo una parentesi in prestito alla Ternana nel 2024-2025, rientrò a Catania per la [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], contribuendo con **6 reti e 3 assist in 26 partite** al secondo posto e alla semifinale playoff tra [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e [[03-tesserati/allenatori/william-viali|William Viali]]. Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], guidato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] alle spalle di [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]], ha già firmato **6 gol** (5 in Serie C contro Cosenza, Picerno, Casertana, Giugliano e Sorrento, più 1 a Vicenza) e 4 assist in 16 gare, salendo a **68 presenze, 15 reti, 9 assist e 4.286 minuti**.
+
+---
 
 ## Collegamenti e Voci Correlate
 

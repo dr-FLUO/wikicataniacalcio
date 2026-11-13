@@ -99,7 +99,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di [[03-tesserati/calciatori/archivio/p-r/riccardo-carapellese|Riccardo Carapellese]] — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Riccardo Carapellese** (Cerignola (FG), Italia, 1922 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Nell'inverno del 1957, quando l'avvio negativo in Serie B impose al [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] una scossa d'esperienza, la società si affidò a **Riccardo Carapellese** (Cerignola, 1922 – 1995): ingaggiato a 35 anni per guidare l'attacco, l'ex capitano azzurro assunse anche la panchina nel dicembre [[02-cronistoria/stagioni/1957-1958|1957-1958]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -111,11 +111,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Riccardo Carapellese, storico capitano della Nazionale italiana dopo la tragedia di Superga e stella di Milan, Torino, Juventus e Genoa, ricoprì il ruolo di allenatore-giocatore del Catania nel dicembre 1957 (12ª-14ª giornata di Serie B).
+Ala sinistra tra le più eleganti del dopoguerra, capitano dell'Italia al Mondiale 1950 dopo Superga e protagonista con Milan, Torino, Juventus e Genoa, Carapellese approdò allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] nell'estate del 1957 su impulso del presidente [[01-societa/presidenti/agatino-pesce|Agatino Pesce]], disputando poi due stagioni rossazzurre da 32 presenze ufficiali.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Icona indiscussa del calcio italiano del dopoguerra, a Catania mise a disposizione la sua classe cristallina e il suo prestigio carismatico sia sul rettangolo di gioco sia nello spogliatoio.
+Dopo l'esonero di [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]] all'11ª giornata, Carapellese resse il doppio ruolo di allenatore-giocatore dall'8 al 29 dicembre 1957 per tre turni (12ª-14ª giornata), ottenendo una vittoria, un pareggio e una sconfitta (media 1,33). Dopo lo 0-1 di Brescia, guidò il 2-2 casalingo con il Parma (doppietta di Buzzin) e il 2-0 interno sul Cagliari del 29 dicembre, sigillato proprio da una sua rete all'88' dopo il gol di [[03-tesserati/calciatori/archivio/p-r/renato-gelio|Renato Gelio]]. Lasciata la panchina a [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]] e poi a [[03-tesserati/allenatori/francesco-capocasale|Francesco Capocasale]], chiuse capocannoniere etneo con 6 reti (ex aequo con Buzzin) all'11º posto (30 punti).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

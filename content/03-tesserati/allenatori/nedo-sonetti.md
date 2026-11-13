@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Nedo Sonetti** (Piombino (LI), Italia, 1941) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2004-2005**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Nedo Sonetti** (Piombino (LI), Italia, 1941) porta esperienza, carisma e mestiere alla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione **2004-2005**, diventando il timoniere della tranquilla salvezza cadetta nel primo anno dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -114,11 +114,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Nedo Sonetti, decano dei tecnici italiani e autentico specialista delle panchine cadette, subentrò alla 12ª giornata della Serie B 2004-2005 portando il Catania a una salvezza tranquilla con 55 punti.
+Nato a Piombino nel 1941, dopo una lunga carriera da difensore tra Reggina e Salernitana **Nedo Sonetti** diventa uno dei decani più stimati e vincenti del calcio italiano tra Serie A e Serie B, celebre per la solidità difensiva delle sue squadre e per la schiettezza comunicativa. Il **31 ottobre 2004** accetta l'invito della nuova proprietà catanese a subentrare a [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]] dopo il ko interno con il Bari, portando autorevolezza e pragmatismo in un campionato cadetto lungo ed equilibrato.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Riorganizzò la difesa e valorizzò elementi cardine come Pantanelli, Cesar e Silvestri, preparando il terreno per l'arrivo di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] e la promozione dell'anno successivo.
+Esordisce il **7 novembre 2004** nella vittoria esterna per **1-0** a Piacenza alla 12ª giornata e dirige i rossazzurri fino al termine della [[02-cronistoria/stagioni/2004-2005|Serie B 2004-2005]], collezionando **31 panchine ufficiali** alla media di **1,29 punti a partita**. Chiude il girone d'andata a quota 26 punti e, grazie anche agli innesti invernali di Jeda (capocannoniere con 6 reti) e Matteo Serafini (5 gol) accanto a colonne quali Armando Pantanelli, Thomas Manfredini, Pietro Fusco, Michele Zeoli e Orazio Russo, conduce il Catania al **12º posto con 55 punti** (13 vittorie, 16 pareggi e 13 sconfitte). Consolida così la categoria preparando il terreno al successivo arrivo di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] e alla storica promozione in Serie A del 2006.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

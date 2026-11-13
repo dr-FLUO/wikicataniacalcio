@@ -54,6 +54,12 @@ Dopo la parentesi di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]] segui
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Avvocato di prestigio e figura tra le più lucide della borghesia sportiva catanese, Arturo Michisanti raccolse l'eredità di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] nel 1951 con un progetto chiaro: portare per la prima volta il Catania in Serie A attraverso una programmazione tecnica di alto profilo. Sotto la sua prima gestione il traguardo venne sfiorato per due volte consecutive: quarto posto con 44 punti nel [[02-cronistoria/stagioni/1951-1952|1951-1952]] sotto Nereo Marini, Rodolfo Brondi e Fioravante Baldi, quindi terzo posto nel [[02-cronistoria/stagioni/1952-1953|1952-1953]] a quota 41, con la promozione sfumata soltanto nello spareggio di Firenze perso 4-1 contro il Legnano.
+
+Il disegno di Michisanti si compì nella [[02-cronistoria/stagioni/1953-1954|stagione 1953-1954]], quando la squadra affidata a [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] — capitanata da Nicola Fusco e trascinata dalle reti di Michele Manenti, Guido Klein e Vittorio Ghiandi, insieme a Karl Aage Hansen, Antonio Seveso ed Enzo Bearzot — vinse la Serie B con 43 punti. Dopo l'esordio nella massima serie del [[02-cronistoria/stagioni/1954-1955|1954-1955]] concluso sul campo al dodicesimo posto ma annullato dal [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]], Michisanti rientrò generosamente in scena nell'estate del 1958 in un momento di grave crisi societaria: affidò la panchina a [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e resse l'urto fino al marzo 1959, passando poi il testimone ad [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]].
+
 ## Tappe della Presidenza Michisanti
 
 | Stagione | Categoria | Allenatore | Risultato Finale |

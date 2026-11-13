@@ -84,7 +84,7 @@ aliases:
   </table>
 </div>
 
-**Antonio Colomban** (Farasina, Italia (Croazia), 1932 – 2020) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1985-1986**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Nell'inverno del 1986 il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] affidò a **Antonio Colomban** (Farasina, 1932 – 2020) il delicato compito di raddrizzare il cammino nella Serie B [[02-cronistoria/stagioni/1985-1986|1985-1986]], stagione segnata da una profonda lotta salvezza.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -96,11 +96,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Antonio Colomban, ex ala di Cagliari, Messina e Spal negli anni Cinquanta, guidò il Catania in Serie B tra la 20ª e la 28ª giornata della stagione 1985-1986.
+Originario dell'Istria e formatosi calcisticamente tra le fila di squadre importanti negli anni Cinquanta quali Messina, Cagliari e SPAL, Antonio Colomban portò in panchina una lunga gavetta maturata tra Serie B e Serie C. Chiamato nel gennaio 1986 dalla società presieduta da [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], subentrò in una stagione convulsa già segnata dai precedenti passaggi di [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] e [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Lavorò al fianco del D.T. [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] cercando di infondere disciplina tattica e rigore atletico in un campionato cadetto estremamente equilibrato.
+Affiancato dal direttore tecnico [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], Colomban prese la squadra alla ventesima giornata, esordendo il 26 gennaio 1986 sul campo del Bologna (0-2). In un gruppo che poteva contare sulle reti di [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]] e sull'esperienza di [[03-tesserati/calciatori/archivio/a-c/claudio-onofri|Claudio Onofri]], [[03-tesserati/calciatori/archivio/p-r/roberto-mandressi|Roberto Mandressi]] e [[03-tesserati/calciatori/archivio/p-r/piero-braglia|Piero Braglia]], ottenne due preziose vittorie interne contro l'Arezzo (1-0) e il Campobasso (2-0) oltre al pareggio a reti inviolate contro la capolista Ascoli. Dopo la sconfitta esterna per 1-0 contro la Lazio alla ventottesima giornata, sul finire di marzo lasciò spazio al ritorno di Rambone, che portò poi il Catania alla salvezza a quota 36 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

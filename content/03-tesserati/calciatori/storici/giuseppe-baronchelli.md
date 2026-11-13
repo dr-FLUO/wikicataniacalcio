@@ -93,7 +93,8 @@ tm_id: 30264
   </table>
 </div>
 
-**Giuseppe Baronchelli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Roccioso difensore centrale dotato di grande scelta di tempo nel gioco aereo, **Giuseppe Baronchelli** (Brescia, 9 marzo 1971) legò tre stagioni della propria carriera al [[01-societa/matricola-11700|Calcio Catania]] tra il 2000 e il 2003, vivendo l'epopea della promozione in Serie B.
 
 ---
 
@@ -112,7 +113,9 @@ tm_id: 30264
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Brescia nel 1971, **Giuseppe Baronchelli** ha militato nelle file rossazzurre per **3 stagioni** (2000–2003). Punto di riferimento nello scacchiere etneo, ha totalizzato **61 presenze ufficiali** (5145' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2001-2002**, durante la quale è sceso in campo in 31 occasioni realizzando 1 rete.
+Arrivato dal Cesena nel [[02-cronistoria/stagioni/2000-2001|2000-2001]] per blindare la difesa della squadra guidata dal presidente [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], il centrale lombardo si distinse subito per solidità e pericolosità sui calci piazzati. Agli ordini prima di [[03-tesserati/allenatori/ivo-iaconi|Ivo Iaconi]] e poi di [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], accumulò 25 presenze e 2 reti (decisive contro Atletico Catania e Torres) nella rimonta del girone di ritorno conclusa soltanto nella finale playoff persa col Messina.
+
+L'apoteosi giunse nella [[02-cronistoria/stagioni/2001-2002|stagione 2001-2002]], attraversata da tre allenatori — [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]], [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]] e infine [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]] — fino al trionfo nei playoff di Serie C1. Baronchelli totalizzò **31 presenze**, un gol a L'Aquila e un assist, erigendo insieme a Gennaro Iezzo e [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] il muro inespugnabile nello [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|0-0 di ritorno a Taranto]] del 9 giugno 2002 che riportò i rossazzurri tra i cadetti dopo quindici anni. Dopo 5 ulteriori apparizioni nella travagliata Serie B [[02-cronistoria/stagioni/2002-2003|2002-2003]] prima del passaggio alla Fiorentina, lasciò l'Etna con **61 presenze**, **3 gol**, **2 assist** e 5.145 minuti.
 
 ---
 

@@ -87,7 +87,7 @@ aliases:
   </table>
 </div>
 
-**Lino De Petrillo** (Roccamonfina (CE), Italia, 1934) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1979-1981**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Quando la chiamata del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] spezzò un triennio di terza serie, **Lino De Petrillo** (Roccamonfina, 1934) trasformò un avvio incerto in una cavalcata impeccabile: tra il novembre 1979 e l'autunno 1980 guidò il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] alla conquista della cadetteria nella trionfale Serie C1 [[02-cronistoria/stagioni/1979-1980|1979-1980]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -99,11 +99,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Lino De Petrillo è l'allenatore che firmò la trionfale cavalcata verso la Serie B nella stagione 1979-1980. Subentrato alla 9ª giornata a Rambone, conquistò 33 punti in 26 giornate vincendo il campionato di Serie C1 al 1º posto.
+Ex centrocampista e tecnico pragmatico della terza serie, De Petrillo subentrò dopo l'8ª giornata del 1979-1980 a [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]]. Ereditò una squadra rinnovata e blindata tra i pali da [[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]], costruita attorno a [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]], [[03-tesserati/calciatori/archivio/p-r/renzo-castagnini|Renzo Castagnini]], [[03-tesserati/calciatori/archivio/d-f/eliseo-croci|Eliseo Croci]] e [[03-tesserati/calciatori/archivio/p-r/pasquale-casale|Pasquale Casale]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Il 25 maggio 1980 a Reggio Calabria guidò i rossazzurri nella vittoria per 1-0 davanti a 6.000 tifosi catanesi in trasferta che sigillò la matematica promozione cadetta.
+De Petrillo esordì con lo 0-0 di Livorno il 25 novembre 1979, raccogliendo 33 punti in 26 giornate e mantenendo imbattuto lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] (12 vittorie e 5 pareggi interni; appena 23 reti subite nel torneo). Sospinti da [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]] (8 gol) e dal capocannoniere [[03-tesserati/calciatori/archivio/m-o/marco-piga|Marco Piga]] (12 centri), gli etnei vinsero il derby col Siracusa (2-1), superarono il Livorno (1-0) e il 25 maggio 1980 espugnarono Reggio Calabria (1-0 su rigore di Piga davanti a 6.000 catanesi), chiudendo al 1º posto con 44 punti. Confermato in Serie B [[02-cronistoria/stagioni/1980-1981|1980-1981]], lasciò dopo tre giornate a [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

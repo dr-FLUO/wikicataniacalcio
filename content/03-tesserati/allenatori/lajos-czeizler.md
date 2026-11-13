@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Lajos Czeizler** (Heves, Ungheria, 1893 – 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1932-1933**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Prima di legare il proprio nome al Milan del leggendario trio Gre-No-Li e alla guida tecnica della Nazionale italiana ai Mondiali del 1954, **Lajos Czeizler** (Heves, 1893 – 1969) portò in Sicilia la cultura tattica del calcio danubiano: nell'annata [[02-cronistoria/stagioni/1932-1933|1932-1933]] il tecnico ungherese sedette sulla panchina della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] con il mandato di inseguire il salto in Serie B.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Lajos Czeizler è una delle figure più prestigiose del calcio europeo del Novecento. Prima di vincere lo Scudetto con il Milan del Gre-No-Li e guidare la Nazionale italiana ai Mondiali del 1954, allenò la SS Catania nella stagione 1932-1933.
+Figura di primo piano del calcio europeo tra le due guerre, Czeizler fu scelto nell'estate del 1932 dal commissario straordinario [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona di Misterbianco]], convinto di poter costruire un ciclo vincente attorno a una campagna acquisti ambiziosa. Sul terreno del [[04-strutture/campi-storici/index|Campo Piazza Esposizione]] arrivarono il diciannovenne attaccante [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]] e il portiere d'esperienza [[03-tesserati/allenatori/mario-sernagiotto|Mario Sernagiotto]], affiancati da elementi di spessore quali [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]] ed [[03-tesserati/calciatori/archivio/d-f/enrico-engel|Enrico Engel]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-A Catania Czeizler portò un rigore tattico senza precedenti e una concezione avanzata della manovra d'attacco, lasciando un segno indelebile nello sviluppo tecnico del club etneo prima di cedere il timone ad Armari.
+Czeizler introdusse criteri moderni nella preparazione atletica e nell'organizzazione offensiva, mettendo in mostra una squadra capace di imporre gioco e ritmo — come testimoniò il prestigioso 2-2 nell'amichevole disputata contro la Juventus campione d'Italia durante la sosta della massima serie. Sul fronte del girone I di Prima Divisione, dove il giovane Nicolosi esplose realizzando 14 reti, la squadra restò tuttavia ai margini della zona promozione; il 18 marzo 1933 il tecnico ungherese lasciò la guida a [[03-tesserati/allenatori/giorgio-armari|Giorgio Armari]], che completò il torneo al 4º posto con 22 punti (9 vittorie, 4 pareggi e 7 sconfitte).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

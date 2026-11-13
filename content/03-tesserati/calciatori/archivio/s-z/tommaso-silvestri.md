@@ -98,7 +98,8 @@ tm_id: 36753
   </table>
 </div>
 
-**Tommaso Silvestri** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+**Tommaso Silvestri**, nato nel 1992, ha legato il proprio nome alle battaglie più accese della terza serie vissute dal [[01-societa/matricola-11700|Calcio Catania]] tra il 2018 e il 2024. Centrale difensivo di grande temperamento e pericolosità sui calci piazzati, ha raccolto **119 partite ufficiali**, 5 reti e 6 assist in due distinti cicli, guadagnandosi sul campo i gradi di leader della retroguardia rossazzurra.
 
 ---
 
@@ -118,7 +119,10 @@ tm_id: 36753
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1992, il difensore **Tommaso Silvestri** ha militato nelle file rossazzurre per **4 stagioni** (2018–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **119 presenze ufficiali** (10.365' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2018-2019**, durante la quale è sceso in campo in 37 occasioni realizzando 2 reti.
+
+Arrivato nell'estate del 2018 sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], si mise subito in mostra nella [[02-cronistoria/stagioni/2018-2019|2018-2019]] di [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] (intervallata dalla parentesi di [[03-tesserati/allenatori/walter-novellino|Walter Novellino]]): 37 presenze, 2 assist e 2 gol, aperti dallo storico 2-0 in Coppa Italia contro l'Hellas Verona al Massimino fino alla semifinale play-off. Nella [[02-cronistoria/stagioni/2019-2020|2019-2020]], guidata da [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]] e poi da [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]], toccò il picco di 3.243 minuti in 37 gare (1 gol e 2 assist).
+
+Rimase anche nella complessa [[02-cronistoria/stagioni/2020-2021|2020-2021]] del passaggio societario a SIGI e [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura]], firmando 31 gare, 2 assist e due reti pesanti in trasferta contro Monopoli e Bisceglie agli ordini di [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]] e [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]]. Svincolatosi verso il Modena, tornò in rossazzurro nell'estate del 2023 con il club di [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]], aggiungendo altre 14 presenze nella [[02-cronistoria/stagioni/2023-2024|2023-2024]] culminata nella vittoria della Coppa Italia Serie C sotto la guida di [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]].
 
 ---
 

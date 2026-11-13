@@ -97,7 +97,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Gennaro Rambone** (Napoli, Italia, 1935 – 2010) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1974-1975, 1979-1980, 1985-1987**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Sanguigno, istrionico e viscerale come il pubblico del [[04-strutture/stadio-massimino/angelo-massimino|Cibali]], **Gennaro Rambone** (Napoli, 1935 – 2010) incarnò più di chiunque altro l'anima passionalmente meridionale di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] negli anni della presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -109,11 +109,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Gennaro Rambone è uno dei personaggi più celebri, passionali e vulcanici della storia del calcio meridionale e dell'era di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], protagonista sulla panchina del Catania in tre diverse epoche (1974, 1979-1980, 1985-1987).
+Ex attaccante napoletano e figura leggendaria del calcio del Sud, Rambone fu legato a Massimino da una stima profonda, che lo portò più volte sulla panchina rossazzurra tra gli anni Settanta e Ottanta. Dopo una fugace apparizione estiva nella Coppa Italia [[02-cronistoria/stagioni/1974-1975|1974-1975]], chiusa a fine agosto prima del richiamo di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], tornò nell'estate [[02-cronistoria/stagioni/1979-1980|1979-1980]] per aprire la Serie C1 poi vinta da [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1979-1980 avviò la cavalcata vincente in Serie C1 conquistando 11 punti nelle prime 8 gare prima dell'arrivo di De Petrillo; nel 1985-1986 e 1986-1987 fu il fiero condottiero dei rossazzurri in Serie B infiammando il pubblico del Cibali.
+Nel novembre 1979 lasciò dopo l'8ª giornata con 11 punti sul campo dopo il 2-1 sul Montevarchi (la cronistoria statistica gli assegna 34 panchine e 1,76 di media nell'arco dell'annata). Richiamato per la Serie B [[02-cronistoria/stagioni/1985-1986|1985-1986]], diresse le prime quattordici giornate e tornò nella volata finale dopo [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]] e [[03-tesserati/allenatori/antonio-colomban|Antonio Colomban]], conquistando la salvezza all'11º posto con 36 punti grazie anche alle 10 reti di [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]].
+
+Nel [[02-cronistoria/stagioni/1986-1987|1986-1987]] guidò fino all'aprile 1987 un organico rinnovato con [[03-tesserati/calciatori/archivio/m-o/orazio-sorbello|Orazio Sorbello]] (6 reti) prima di cedere il posto a [[03-tesserati/allenatori/bruno-pace|Bruno Pace]], chiudendo il ciclo complessivo a 97 panchine ufficiali e 1,33 punti di media.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

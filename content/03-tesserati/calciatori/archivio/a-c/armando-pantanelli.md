@@ -112,7 +112,8 @@ tm_id: 20745
   </table>
 </div>
 
-**Armando Pantanelli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+
+Tra i protagonisti della rinascita societaria inaugurata nell'estate 2004, **Armando Pantanelli** (Torino, 1º giugno 1971) custodì la porta del [[01-societa/matricola-11700|Calcio Catania]] per **120 gare ufficiali**, guidando la squadra dalla Serie B fino al ritorno nella massima divisione dopo ventitré anni d'attesa. Arrivato a parametro zero dal Cagliari, il portiere piemontese garantì esperienza, carisma e continuità tra i pali nelle stagioni della svolta.
 
 ---
 
@@ -132,7 +133,10 @@ tm_id: 20745
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Torino (classe 1971), **Armando Pantanelli** ha militato nelle file rossazzurre per **4 stagioni** (2004–2008). A guardia dei pali etnei ha collezionato **120 presenze ufficiali** (10.830' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2005-2006**, disputata con 42 presenze complessive.
+
+Ingaggiato all'alba dell'era di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], Pantanelli esordì nella [[02-cronistoria/stagioni/2004-2005|2004-2005]] collezionando 41 gettoni nel campionato cadetto, chiuso al dodicesimo posto dopo il cambio in panchina da [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]] a [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]]. La consacrazione giunse nella cavalcata della [[02-cronistoria/stagioni/2005-2006|2005-2006]] orchestrata da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]: mai sostituito, scese in campo in tutte le 42 gare (3.810 minuti), proteggendo le spalle al blocco formato da [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]], [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] fino al secondo posto che valse la promozione in Serie A.
+
+Nella [[02-cronistoria/stagioni/2006-2007|2006-2007]], ancora agli ordini di Marino, difese i pali rossazzurri in 37 incontri nel massimo torneo, contribuendo alla salvezza conquistata al tredicesimo posto con 41 punti. Rimasto in organico senza scendere in campo nella [[02-cronistoria/stagioni/2007-2008|2007-2008]] con l'arrivo di [[03-tesserati/calciatori/archivio/a-c/albano-bizzarri|Albano Bizzarri]], chiuse la sua esperienza etnea passando all'Avellino.
 
 ---
 

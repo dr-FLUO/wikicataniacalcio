@@ -50,6 +50,12 @@ Assunta la presidenza nell'estate 1936 raccogliendo l'eredità finanziaria del D
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+L'ingresso di Vittorio Emanuele Brusca alla guida dell'Associazione Fascista Calcio Catania nell'estate del 1936 coincise con il passaggio di consegne seguito all'imponente sforzo finanziario del Duca Trigona. Sotto l'inquadramento voluto dal CONI, la presidenza Brusca dovette subito fare i conti con un campionato cadetto livellato verso l'alto: nonostante i 15 gol di Brossi e l'accesso ai quarti di finale di Coppa Italia dopo il successo sulla Fiorentina, la [[02-cronistoria/stagioni/1936-1937|stagione 1936-1937]] si concluse con la retrocessione in Serie C al termine degli spareggi a quattro contro Messina, Venezia e Pro Vercelli.
+
+Anziché ripiegare, Brusca legò il proprio nome alla svolta infrastrutturale e tecnica del club. Il 28 novembre 1937 la squadra lasciò l'angusto campo di Piazza Esposizione per inaugurare il nuovo stadio di Cibali battendo il Foggia per 1-0, passo decisivo per radicamento urbano e incassi. Affidata la panchina a Giovanni Degni, la compagine rossazzurra — trascinata dai gol di Bellini, dall'esperienza di Rodolfo Brondi e dall'esordio di un giovane Carmelo Di Bella — vinse il girone H e il girone finale B nella [[02-cronistoria/stagioni/1938-1939|stagione 1938-1939]], riconquistando immediatamente la Serie B. L'ultimo atto della sua gestione, nel [[02-cronistoria/stagioni/1939-1940|1939-1940]] sotto la guida di György Orth, fu invece segnato dai richiami alle armi e dalla retrocessione all'alba della Seconda guerra mondiale.
+
 ## Tappe della Presidenza Brusca
 
 | Stagione | Campionato | Allenatore | Piazzamento e Risultato |

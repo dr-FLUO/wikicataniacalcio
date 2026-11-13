@@ -91,7 +91,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Antonio Renna** (Lecce, Italia, 1937 – 2019) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1984-1985**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Reduce dalla retrocessione dalla massima serie, il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] affidò a **Antonio Renna** (Lecce, 1937 – 2019), noto nel mondo del calcio come «Mimmo», la ricostruzione tecnica per l'intero campionato di Serie B [[02-cronistoria/stagioni/1984-1985|1984-1985]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Ala
@@ -103,11 +103,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Antonio Renna condusse il Catania per l'intero campionato di Serie B 1984-1985, portando la squadra a una tranquilla salvezza chiusa a quota 35 punti al 14º posto.
+Nato a Lecce nel 1937, ex ala di spessore nei campionati italiani, Antonio Renna si affermò come allenatore pragmatico e profondo conoscitore del torneo cadetto, qualità che spinsero la dirigenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] a consegnargli le chiavi della squadra nell'estate del 1984. Diresse il Catania in tutte le quarantatré gare ufficiali della stagione, sommando alle trentotto giornate di campionato le cinque sfide della fase a gironi di Coppa Italia.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico pragmatico e specialista del campionato cadetto, seppe gestire una fase di transizione post-retrocessione valorizzando elementi di categoria come Pedrinho e Mastalli.
+La stagione di Serie B [[02-cronistoria/stagioni/1984-1985|1984-1985]] ebbe due volti ben distinti. Nel girone d'andata la formazione rossazzurra raccolse 22 punti restando a contatto con la zona promozione, grazie alle vittorie interne su Bologna, Empoli (3-1), Cagliari (3-1), Pisa (2-1), Arezzo e Monza. Nella seconda parte del torneo arrivò invece una netta flessione realizzativa: una sola vittoria nel girone di ritorno, l'1-0 sul Padova alla ventiquattresima giornata, compensata però da una lunga serie di pareggi. Sostenuta da [[03-tesserati/calciatori/archivio/p-r/pedrinho|Pedrinho]] — miglior marcatore con sette reti in campionato —, [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]], [[03-tesserati/calciatori/archivio/d-f/ennio-mastalli|Ennio Mastalli]], [[03-tesserati/calciatori/archivio/d-f/franco-ermini|Franco Ermini]] e [[03-tesserati/calciatori/archivio/g-l/guglielmo-coppola|Guglielmo Coppola]], la squadra chiuse quattordicesima a quota 35 punti, centrando la salvezza.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

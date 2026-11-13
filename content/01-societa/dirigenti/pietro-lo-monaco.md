@@ -68,6 +68,12 @@ aliases:
 
 <div class="wiki-clearfix"></div>
 
+## Profilo Storico e Gestione Societaria
+
+Chiamato da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] nell'estate del 2004 per raccogliere l'eredità organizzativa lasciata dalla famiglia Gaucci, Pietro Lo Monaco impose da subito una linea operativa fondata sull'autofinanziamento, sullo scouting internazionale e sulla valorizzazione delle plusvalenze. Dopo il dodicesimo posto della [[02-cronistoria/stagioni/2004-2005|stagione 2004-2005]], l'intuizione di affidare la panchina a Pasquale Marino e il fiuto sul mercato (dal bomber Gionatha Spinesi a Giuseppe Mascara, da Davide Baiocco a Fabio Caserta) produssero il secondo posto da 78 punti nel 2005-2006 e il ritorno in Serie A atteso dal 1984.
+
+Nel massimo campionato l'architettura del direttore generale resse anche all'urto della tragedia del 2 febbraio 2007 e dell'esilio in campo neutro, inaugurando la lunga stagione del [[01-societa/epoche/catania-degli-argentini|Catania degli Argentini]]. La capacità di individuare profili sudamericani poco costosi ma rivendibili — da Mariano Izco a Matías Silvestre, fino ad Alejandro Gómez e Gonzalo Bergessio — si affiancò alla costruzione del centro sportivo di [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]], inaugurato il 18 maggio 2011. Dopo la rottura con Pulvirenti del maggio 2012, il ritorno del 2016 ebbe tutt'altra fisionomia: in Serie C, al fianco di [[01-societa/presidenti/davide-franco|Davide Franco]], Lo Monaco dovette gestire la sopravvivenza economica del club tra penalizzazioni, il secondo posto da 70 punti del [[02-cronistoria/stagioni/2017-2018|2017-2018]] e la lunga battaglia legale contro il [[01-societa/vicende-legali/blocco-ripescaggi-2018|blocco dei ripescaggi in Serie B]], prima di dimettersi nel novembre 2019.
+
 ## I Due Cicli Dirigenziali a Catania (2004–2012 e 2016–2019)
 
 | Periodo | Ruolo | Principali Operazioni Tecniche e Allenatori Scelti | Risultati Sportivi |

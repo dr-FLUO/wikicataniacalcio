@@ -106,7 +106,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Mario Petrone** (Napoli, Italia, 1973) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Mario Petrone** (Napoli, Italia, 1973) vive una fugace ma intensa parentesi sulla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella primavera del **2016-2017**, durante l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], provando a rilanciare i rossazzurri nella fase centrale del campionato di Lega Pro.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -118,11 +118,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Petrone diresse il Catania per tre gare nel febbraio-marzo 2017 (26ª-28ª giornata) durante la stagione di Lega Pro 2016-2017.
+Nato a Napoli nel 1973, **Mario Petrone** si mette in evidenza nei campionati interregionali e di terza serie per carattere diretto, pragmatismo tattico e attenzione alla fase di transizione, maturando esperienze significative tra San Marino, Bassano Virtus e Ascoli. Il **13 febbraio 2017** viene chiamato dalla dirigenza etnea presieduta da Davide Franco per subentrare a [[03-tesserati/allenatori/giuseppe-rigoli|Giuseppe Rigoli]] all'indomani del ko nel derby con l'Akragas, con l'obiettivo di consolidare la zona play-off della squadra nonostante la penalizzazione di **7 punti** in classifica.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante la brevità dell'esperienza concluse la sua avventura rassegnando le dimissioni per favorire la soluzione interna con [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]].
+L'avventura di Petrone sulla panchina etnea nella [[02-cronistoria/stagioni/2016-2017|Lega Pro 2016-2017]] dura esattamente **tre giornate** di campionato, dalla 26ª alla 28ª, per un bottino di **4 punti** e una media di **1,33 punti a partita**. Dopo il pareggio interno a reti inviolate (**0-0**) contro il Taranto all'esordio al Massimino, firma la preziosa vittoria per **2-1** sul campo del Messina nel derby dello Stretto, prima di incappare nella sconfitta casalinga per **0-2** contro il Melfi. Preso atto della difficoltà di invertire rapidamente la rotta, l'**8 marzo 2017** rassegna le dimissioni favorendo la scelta interna di [[03-tesserati/allenatori/giovanni-pulvirenti|Giovanni Pulvirenti]], promosso dalla Berretti per condurre il gruppo guidato dai gol di Andrea Mazzarani fino al 1º turno dei play-off.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

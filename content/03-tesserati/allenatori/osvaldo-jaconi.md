@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Osvaldo Jaconi** (Mandello del Lario (LC), Italia, 1947) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1987-1988**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+**Osvaldo Jaconi** (Mandello del Lario (LC), Italia, 1947) approda per la prima volta sulla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'estate **1987-1988** durante l'Era Massimino, prima di farvi un fugace ritorno nell'avvio della stagione **2002-2003**.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Osvaldo Jaconi, detentore del record italiano di promozioni conquistate tra i professionisti, guidò il Catania nelle prime 9 giornate della Serie C1 1987-1988.
+Nato a Mandello del Lario nel 1947, dopo l'attività agonistica da centrocampista **Osvaldo Jaconi** diventa uno degli allenatori più vincenti della storia delle serie minori italiane, conquistando il primato nazionale di promozioni tra i professionisti grazie a disciplina tattica, ritmo agonistico e grande capacità di gestire gli spogliatoi. Nel luglio 1987 viene scelto dalla dirigenza presieduta da Angelo Attaguile per ricostruire la squadra all'indomani dell'amara retrocessione dalla Serie B.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Avviò la ricostruzione tecnica del gruppo etneo dopo la retrocessione dalla Serie B, prima di cedere il timone a Santin e successivamente a Pace.
+Nella [[02-cronistoria/stagioni/1987-1988|Serie C1 1987-1988]] (girone B), Jaconi dirige il Catania nelle prime battute della stagione, avviando il rinnovamento tecnico attorno ad elementi come Adriano Polenta prima del doppio avvicendamento che vedrà subentrare [[03-tesserati/allenatori/pietro-santin|Pietro Santin]] alla 10ª giornata e poi Bruno Pace fino al vittorioso spareggio salvezza contro la Nocerina. Torna fugacemente in rossazzurro nell'estate **2002**, sotto l'[[01-societa/epoche/2000-era-gaucci|era Gaucci]], guidando la squadra nelle 3 gare del girone 7 di Coppa Italia (**0-0** a Crotone, **0-4** con il Bari e **1-3** a Cosenza) fino alla risoluzione dell'**11 settembre 2002**: nel computo storico complessivo totalizza **9 panchine ufficiali** (6 nel 1987-1988 e 3 nel 2002-2003) con **0,89 punti di media**.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

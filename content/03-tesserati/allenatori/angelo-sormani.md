@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Angelo Sormani** (Jaú, Brasile, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1989-1991**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Dal palcoscenico dei Mondiali del 1962 e dai trionfi europei con il Milan alla provincia ambiziosa della Serie C1: **Angelo Benedicto Sormani** (Jaú, 1939), noto come «Il Pelé Bianco», portò prestigio internazionale sulla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] tra il 1989 e il 1991.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -104,11 +104,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Angelo Benedicto Sormani, fuoriclasse italo-brasiliano vincitore della Coppa dei Campioni e dell'Intercontinentale con il Milan e azzurro ai Mondiali 1962, ha allenato il Catania in Serie C1 dal gennaio 1990 fino al termine della stagione 1990-1991.
+Nato in Brasile e naturalizzato italiano, Sormani aveva vinto Coppa dei Campioni e Coppa Intercontinentale con il Milan, vestendo anche la maglia azzurra ai Mondiali del 1962. Da tecnico raccolse la chiamata del presidente [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]] nell'inverno del [[02-cronistoria/stagioni/1989-1990|1989-1990]], rilevando [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]] dalla 18ª giornata con la squadra ferma a metà classifica in Serie C1.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1989-1990 condusse gli etnei al sesto posto; nel 1990-1991 guidò la squadra fino alle soglie della zona promozione chiudendo all'undicesimo posto con 36 punti.
+Sul piano tattico puntò su ordine e valorizzazione offensiva, svoltando dopo un avvio incerto con il colpo esterno di Ischia firmato dalla tripletta di [[03-tesserati/calciatori/archivio/g-l/loriano-cipriani|Loriano Cipriani]] (12 reti stagionali). I rossazzurri conclusero al 6º posto con 39 punti, raggiungendo anche gli ottavi di Coppa Italia di Serie C contro il Palermo.
+
+Confermato nel [[02-cronistoria/stagioni/1990-1991|1990-1991]], Sormani chiuse il ciclo etneo con 68 panchine ufficiali e 1,40 punti di media: ai 18 punti dell'andata, illuminati dall'1-0 interno al [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] nel derby contro i rosanero, seguì un girone di ritorno da 15 punti che valse la salvezza all'11º posto (33 punti; Cipriani ancora capocannoniere a quota 11).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

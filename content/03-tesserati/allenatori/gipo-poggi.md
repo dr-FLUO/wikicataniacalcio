@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Gipo Poggi** (Genova, Italia, 1908 – 1992) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1956-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Allenatore di solida cultura calcistica ligure, Ernesto Matteo **«Gipo» Poggi** (Genova, 1908 – 1992) portò il [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] a un passo dalla promozione nella stagione [[02-cronistoria/stagioni/1956-1957|1956-1957]], proseguendo il lavoro nell'avvio della Serie B [[02-cronistoria/stagioni/1957-1958|1957-1958]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Ernesto «Gipo» Poggi guidò il Catania in Serie B nella stagione 1956-1957 (chiusa con un solido 4º posto a quota 42 punti) e nelle prime 11 giornate del torneo 1957-1958.
+Ex difensore di scuola genovese capace di trasferire in panchina equilibrio tattico e senso della misura, Ernesto «Gipo» Poggi venne scelto nell'estate del 1956 dalla presidenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]] per inaugurare un nuovo ciclo dopo le partenze di elementi storici come [[03-tesserati/calciatori/archivio/g-l/guido-klein|Guido Klein]] ed [[03-tesserati/calciatori/archivio/d-f/ezio-bardelli|Ezio Bardelli]]. Nell'arco di diciassette mesi accumulò quarantacinque panchine ufficiali con una media di 1,56 punti in proiezione a tre punti.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Allenatore di profonda intelligenza tattica proveniente dalla scuola calcistica ligure, seppe mantenere il Catania stabilmente nelle prime posizioni del calcio di Serie B.
+Nella Serie B [[02-cronistoria/stagioni/1956-1957|1956-1957]], Poggi valorizzò innesti come [[03-tesserati/calciatori/archivio/m-o/mauro-bicicli|Mauro Bicicli]], Sebastiano Buzzin, [[03-tesserati/calciatori/archivio/p-r/renzo-uzzecchini|Renzo Uzzecchini]] e [[03-tesserati/calciatori/archivio/a-c/celestino-celio|Celestino Celio]], mantenendo i rossazzurri in lotta per la Serie A fino all'ultima giornata — conclusa al quarto posto con 42 punti dopo il ko decisivo a Modena — e guidando la squadra anche nell'amichevole di lusso del 16 dicembre 1956 al Cibali contro la Honvéd Budapest di Ferenc Puskás. Confermato nel [[02-cronistoria/stagioni/1957-1958|1957-1958]] tra le tensioni estive della rosa e l'arrivo di [[03-tesserati/calciatori/archivio/p-r/riccardo-carapellese|Riccardo Carapellese]], lasciò la panchina dopo undici turni e la sconfitta di Monza del 24 novembre 1957.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

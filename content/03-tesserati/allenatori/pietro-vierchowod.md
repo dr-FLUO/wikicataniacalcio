@@ -103,7 +103,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Pietro Vierchowod** (Calcinate (BG), Italia, 1959) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2002**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Il debutto da allenatore professionista di un campione del mondo del 1982 avvenne alle pendici dell'Etna: **Pietro Vierchowod** (Calcinate, 1959), «Lo Zar», raccolse nel dicembre 2001 la chiamata della [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] — nel [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] — nella Serie C1 [[02-cronistoria/stagioni/2001-2002|2001-2002]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore Centrale
@@ -115,11 +115,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Pietro Vierchowod, leggendario difensore Campione del Mondo a Spagna 1982 con l'Italia e Campione d'Europa con Juventus e Sampdoria, debuttò come allenatore professionista sulla panchina del Catania tra la 17ª e la 30ª giornata della Serie C1 2001-2002.
+Difensore di Sampdoria, Roma, Juventus e Milan — vincitore di due scudetti, una Coppa dei Campioni e del Mondiale 1982 in azzurro — Vierchowod subentrò il 19 dicembre 2001 ad [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]], che aveva lasciato i rossazzurri al quinto posto a quota 26 punti dopo sedici giornate. Allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] portò rigore atletico e la mentalità di un vincente.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con la sua immensa caratura e disciplina mantenne i rossazzurri in piena corsa per la Serie B, totalizzando 24 punti in 14 gare prima del passaggio di consegne a Graziani e Pellegrino.
+Fino al 22 aprile 2002 guidò il Catania in 16 partite ufficiali (media di 1,81 punti a gara, con 24 punti tra la 17ª e la 30ª giornata di campionato), mantenendo stabilmente il gruppo in zona play-off. Esaltando l'efficacia di [[03-tesserati/calciatori/archivio/d-f/eddy-baggio|Eddy Baggio]] (18 gol stagionali) e [[03-tesserati/calciatori/archivio/m-o/massimo-cicconi|Massimo Cicconi]] (10 reti), preparò il terreno su cui [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]] e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]] completarono poi la scalata alla Serie B dopo quindici anni.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

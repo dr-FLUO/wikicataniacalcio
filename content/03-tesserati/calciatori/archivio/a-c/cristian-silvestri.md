@@ -94,7 +94,7 @@ tm_id: 6445
   </table>
 </div>
 
-**Cristian Silvestri** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Difensore centrale e terzino di tempra agonistica, **Cristian Silvestri** ha accompagnato la scalata del [[01-societa/matricola-11700|Calcio Catania]] dalla Serie B alla stabilità in Serie A tra il 2004 e il 2009, totalizzando **132 presenze ufficiali** e **5 reti**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 6445
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Roma nel 1975, **Cristian Silvestri** ha militato nelle file rossazzurre per **5 stagioni** (2004–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **132 presenze ufficiali** (10.426' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
+Romano di nascita (21 gennaio 1975) e prelevato dal Lecce nella [[02-cronistoria/stagioni/2004-2005|Serie B 2004-2005]], prima stagione dell'era di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], si mise in mostra con 18 gare e 2 gol a Pescara e Cesena sotto [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]] e [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]]. Esplose nella trionfale [[02-cronistoria/stagioni/2005-2006|2005-2006]] diretta da [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]: con 37 presenze, 3.268 minuti e una rete al Modena fu uno degli uomini cardine del secondo posto e del [[02-cronistoria/partite-storiche/2005-2006/catania-albinoleffe-2-1|2-1 sull'AlbinoLeffe]] che riportò i rossazzurri in Serie A dopo ventitré anni.
+
+Nella massima serie fu protagonista di tre salvezze consecutive, raccogliendo 26 gettoni e 2 assist nel [[02-cronistoria/stagioni/2006-2007|2006-2007]] e toccando l'apice emotivo nella [[02-cronistoria/stagioni/2007-2008|2007-2008]] di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]]. Oltre alla rete nel 2-1 al Cagliari, timbrò al 29' della semifinale di ritorno di Coppa Italia contro la Roma e soprattutto firmò l'apparizione da titolare nel [[02-cronistoria/partite-storiche/2007-2008/catania-roma-1-1|decisivo 1-1 del 18 maggio 2008]], chiudendo poi l'esperienza etnea con 25 gare nella [[02-cronistoria/stagioni/2008-2009|2008-2009]].
 
 ---
 

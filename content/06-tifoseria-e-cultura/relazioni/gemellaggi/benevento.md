@@ -32,22 +32,19 @@ aliases:
 
 # Gemellaggio Catania-Benevento: Fratellanza del Sud
 
-Il rapporto che lega la tifoseria del Catania a quella del **Benevento** rappresenta uno dei **gemellaggi ufficiali** più solidi e sentiti del panorama meridionale, consolidatosi nel corso degli anni Duemila attraverso numerosi confronti nei campionati di Serie C e Serie B.
+Nella geografia delle alleanze meridionali, il rapporto tra la tifoseria del Catania e quella del **Benevento** occupa un posto di primo piano tra i **gemellaggi ufficiali** più solidi e sentiti. Maturato all'alba degli anni Duemila e consolidatosi attraverso numerosi incroci nei campionati di Serie C e Serie B, il legame ha trasformato ogni incrocio tra le due squadre in un appuntamento di fratellanza autentica sugli spalti.
 
 ---
 
 ## 1. Origini e Valori Condivisi
 
-- **Vicinanza Culturale:** L'alleanza tra sanniti ed etnei è nata sulla base di una comune appartenenza meridionale, caratterizzata dalla fierezza identitaria e dalla lotta sportiva contro i poteri forti del calcio peninsulare.
-- **Accoglienza e Rispetto:** In occasione di ogni confronto diretto tra lo Stadio Ciro Vigorito (ex Santa Colomba) e il Massimino, le due curve sono solite scambiarsi visite nei rispettivi settori popolari, condividendo pranzi sociali e cortei congiunti all'esterno degli impianti.
+L'intesa tra sanniti ed etnei nasce su una comune appartenenza meridionale, vissuta come fierezza identitaria e spirito di riscatto rispetto alle gerarchie tradizionali del calcio peninsulare. A cementare la stima reciproca ha contribuito il modo limpido con cui le due curve interpretano l'accoglienza: in occasione di ogni sfida tra lo Stadio Ciro Vigorito — già Santa Colomba — e il Massimino, le delegazioni delle due tifoserie si scambiano visite nei rispettivi settori popolari, condividendo pranzi sociali e cortei congiunti all'esterno degli impianti in un clima di festa e rispetto.
 
 ---
 
 ## 2. Solidarietà nei Momenti di Lutto
 
-La profondità del legame si è manifestata in maniera toccante nei momenti più difficili vissuti dalle due comunità:
-- Nel febbraio 2017, in occasione della scomparsa dello storico capo degli ultras catanesi [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] di Benevento ha esposto striscioni di profondo cordoglio e rispetto per onorare il leader etneo.
-- Analoghi attestati di vicinanza sono stati puntualmente tributati dalla [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e dalla Curva Sud di Catania nei confronti di militanti sanniti prematuramente scomparsi.
+La forza di questo legame si è rivelata soprattutto nei passaggi più dolorosi vissuti dalle due comunità. Nel febbraio 2017, alla scomparsa dello storico capo degli ultras catanesi [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] di Benevento espose striscioni di commosso cordoglio per rendere onore al leader rossazzurro. Allo stesso modo, la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] e la Curva Sud di Catania non hanno mai fatto mancare il proprio tributo di vicinanza e memoria verso militanti sanniti prematuramente scomparsi, confermando la profondità umana del gemellaggio.
 
 ---
 

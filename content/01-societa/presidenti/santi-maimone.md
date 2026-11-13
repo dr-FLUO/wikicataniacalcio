@@ -44,6 +44,12 @@ L'avvocato **Santi Maimone** è una figura cardine della storia rossazzurra, ave
 
 Sotto la sua oculata presidenza e con la guida tecnica dell'allenatore [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]], la squadra vinse il campionato di Serie B nella [[02-cronistoria/stagioni/1953-1954|stagione 1953-1954]], conquistando la prima, storica promozione in Serie A per la città di Catania. Maimone seppe allestire un organico solido e competitivo, guidando la società anche nel suo debutto nella massima serie nel [[02-cronistoria/stagioni/1954-1955|1954-1955]].
 
+## Profilo Storico e Gestione Societaria
+
+Il biennio di Santi Maimone segna uno spartiacque nella storia del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], il passaggio definitivo dalla dimensione cadetta alla ribalta del grande calcio italiano. Succedendo a una fase di vertice condivisa con [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]] e affiancato nei passaggi di gestione da dirigenti di lungo corso come Giuseppe Rizzo e Lorenzo Fazio, l'avvocato catanese consolidò la tenuta economica del club e perfezionò la campagna acquisti dell'estate 1953, consegnando ad [[03-tesserati/allenatori/piero-andreoli|Andreoli]] innesti decisivi come Vittorio Ghiandi e il danese Karl Aage Hansen accanto al blocco di Bearzot, Manenti e Klein.
+
+Il primato con 43 punti nella Serie B [[02-cronistoria/stagioni/1953-1954|1953-1954]] premiò una squadra quadrata (appena 31 reti subite in 34 gare), capace di aprire le porte del Cibali alle grandi firme del campionato italiano. Anche l'impatto con la Serie A nella [[02-cronistoria/stagioni/1954-1955|stagione 1954-1955]] confermò sul campo la bontà del progetto, chiudendo con 30 punti al dodicesimo posto nonostante il valore delle avversarie. Quell'equilibrio venne tuttavia spezzato fuori dal rettangolo di gioco nell'agosto-settembre 1955, quando il [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]] travolse i vertici societari con la retrocessione d'ufficio e la squalifica dei dirigenti coinvolti.
+
 ## Collegamenti Correlati
 * [[02-cronistoria/stagioni/1953-1954|Stagione 1953-1954 — La Prima Serie A]]
 * [[01-societa/presidenti/michele-finocchiaro|Michele Finocchiaro]]

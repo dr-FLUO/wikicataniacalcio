@@ -92,7 +92,8 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
   </table>
 </div>
 
-**Giuseppe Rizzo** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Tra Serie C e Serie D, la mediana del [[01-societa/matricola-11700|Calcio Catania]] ha trovato in **Giuseppe Rizzo** (nato nel 1991) un incontrista tenace e una mezzala di spiccato dinamismo nei due cicli compresi tra il 2017 e il 2024. Nelle cinque stagioni moderne in rossazzurro ha sommato 113 apparizioni, 4 reti e 8 assist, mentre il registro storico d'archivio porta il computo complessivo a **114 presenze** includendo una gara con gol del 1937-1938.
 
 ---
 
@@ -114,7 +115,10 @@ locked_by: quadratura_transfermarkt_dataset_1935_2026
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1991, il centrocampista **Giuseppe Rizzo** ha militato nelle file rossazzurre per **6 stagioni** (1937–2024). Punto di riferimento nello scacchiere etneo, ha totalizzato **114 presenze ufficiali** (7824' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2022-2023**, durante la quale è sceso in campo in 34 occasioni realizzando 3 reti.
+
+Ingaggiato dalla Salernitana nell'estate del 2017 sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], Rizzo esordì nella [[02-cronistoria/stagioni/2017-2018|2017-2018]] diretta da [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]] con 20 presenze, 1 gol (nel 6-1 al Rende) e 3 assist fino ai play-off di Serie C. Confermato nella [[02-cronistoria/stagioni/2018-2019|2018-2019]] tra [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] e [[03-tesserati/allenatori/walter-novellino|Walter Novellino]] (28 gare e 2 assist) e nella [[02-cronistoria/stagioni/2019-2020|2019-2020]] con [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]] e Lucarelli (25 presenze), chiuse così il primo triennio in terza serie.
+
+Dopo il fallimento del 2022, accettò con entusiasmo la chiamata del presidente [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] per la rinascita in Serie D nella [[02-cronistoria/stagioni/2022-2023|2022-2023]]: guidato da [[03-tesserati/allenatori/giovanni-ferraro|Giovanni Ferraro]] e affiancato da veterani come [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]], disputò 34 partite siglando 3 reti pesanti contro Licata, Canicattì e Trapani verso la promozione. Completò il percorso con 6 gare e un assist nella [[02-cronistoria/stagioni/2023-2024|2023-2024]] della vittoria in Coppa Italia Serie C.
 
 ---
 

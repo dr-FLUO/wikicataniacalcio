@@ -92,7 +92,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**György Orth** (Budapest, Ungheria, 1901 – 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1939-1940**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Nell'autunno del 1939, mentre l'Europa scivolava nella guerra, un celebre maestro della scuola danubiana approdò allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]: **György Orth** (Budapest, 1901 – 1962) assunse la guida dell'AFC Catania — erede della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] — nella Serie B [[02-cronistoria/stagioni/1939-1940|1939-1940]] presieduta da [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore (ex Attaccante)
@@ -104,11 +104,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-György Orth è stato uno dei più celebri fuoriclasse e tecnici del calcio mondiale, protagonista ai Mondiali del 1930 da c.t. del Cile e allenatore in Francia, Germania, Italia e Sudamerica. Guidò l'AFC Catania nella Serie B 1939-1940 a partire dalla 3ª giornata.
+Fuoriclasse dell'MTK Budapest negli anni Venti e pioniere della panchina internazionale — commissario tecnico del Cile al Mondiale 1930, poi tecnico tra Francia, Germania, Italia e Sudamerica — Orth giunse a Catania in una congiuntura d'emergenza. Il connazionale István Mészáros, inizialmente designato per la stagione cadetta, non poté infatti lasciare l'Ungheria perché richiamato alle armi allo scoppio del conflitto.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con la sua straordinaria visione tattica impostò una squadra rapida e tecnica sul terreno dello Stadio Cibali (inaugurato nel 1937), conducendo gli etnei attraverso un campionato cadetto di altissimo profilo competitivo.
+Dopo l'avvio provvisorio affidato a [[03-tesserati/allenatori/mario-sernagiotto|Mario Sernagiotto]], Orth subentrò all'inizio dell'ottobre 1939 trovando un organico falcidiato dalla mobilitazione militare, privo di titolari come Alcide Violi, [[03-tesserati/calciatori/archivio/m-o/oreste-rotta|Oreste Rotta]] e [[03-tesserati/calciatori/archivio/p-r/renzo-bettini|Renzo Bettini]]. Nonostante una serie di tre pareggi consecutivi per 1-1 contro Vigevano, Fanfulla e Palermo tra la 5ª e la 7ª giornata, la squadra non riuscì a invertire la rotta, chiudendo al 18º posto con 19 punti (3 vittorie, 13 pareggi, 18 sconfitte; capocannoniere Ravizzoli con 4 reti) e retrocedendo in Serie C.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

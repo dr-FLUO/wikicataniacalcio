@@ -46,6 +46,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Quando il Duca di Misterbianco Vespasiano Trigona assunse la presidenza nel gennaio del 1932, subentrando nel pieno della stagione 1931-1932 chiusa poi al sesto posto, la [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] era ancora un sodalizio provinciale di Prima Divisione bisognoso di mecenatismo e respiro nazionale. Nobile illuminato e appassionato di sport, Trigona scelse di investire capitali personali per trasformare Piazza Esposizione in un avamposto ambizioso del calcio meridionale, ingaggiando nel 1932 l'ala [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò "Cocò" Nicolosi]] e chiamando l'anno seguente un tecnico mitteleuropeo di scuola moderna come [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]].
+
+I frutti arrivarono nella [[02-cronistoria/stagioni/1933-1934|stagione 1933-1934]]: dominato il girone H e il raggruppamento finale contro Savona, Biellese e Reggina con 20 vittorie in 24 partite, 66 reti segnate e il quartetto offensivo Bodini-Pignattelli-Nicolosi-Casanova, il Catania conquistò la prima storica promozione in Serie B. Nei due campionati cadetti successivi — terzo posto nel girone A [[02-cronistoria/stagioni/1934-1935|1934-1935]] con 37 punti e ottavo posto nel girone unico [[02-cronistoria/stagioni/1935-1936|1935-1936]] a quota 33, impreziosito dalla vittoria sul Palermo in Coppa Italia — il Duca sostenne da solo il peso di una categoria ormai dispendiosa. L'esposizione personale raggiunse la cifra considerevole di 2.600.000 lire dell'epoca, rendendo inevitabile nel 1936 la riorganizzazione federale del club sotto l'egida dell'AFC Catania.
+
 ## Tappe della Presidenza del Duca Trigona (1932–1936)
 
 | Stagione | Categoria | Allenatore | Risultato e Impatto Storico |

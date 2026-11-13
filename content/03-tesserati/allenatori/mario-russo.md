@@ -88,7 +88,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Mario Russo** (Lecce, Italia, 1948 – 2017) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+**Mario Russo** (Lecce, Italia, 1948 – 2017) ritrova i colori rossazzurri di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione **1995-1996**, accettando la chiamata dell'Era Massimino per condurre la squadra nell'anno del ritorno tra i professionisti in Serie C2.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Mediano
@@ -100,11 +100,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Mario Russo, generoso mediano del Catania in Serie B nella stagione [[02-cronistoria/stagioni/1972-1973|1972-1973]], guidò gli etnei dalla 5ª alla 34ª giornata della Serie C2 1995-1996.
+Originario di Lecce, **Mario Russo** conosce bene la piazza etnea fin da calciatore, avendo vestito la maglia del Catania da generoso mediano in Serie B nella stagione [[02-cronistoria/stagioni/1972-1973|1972-1973]]. Appendendo gli scarpini al chiodo, intraprende una lunga carriera sulle panchine delle serie minori meridionali, formandosi come tecnico concreto e attento agli equilibri di spogliatoio. Nell'autunno 1995 accetta il ritorno al Cibali dopo le brevi parentesi di [[03-tesserati/allenatori/lamberto-leonardi|Lamberto Leonardi]] e Aldo Cerantola nelle prime quattro giornate di campionato.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua gestione la squadra sfiorò i play-off promozione chiudendo all'8º posto con 48 punti, in una stagione tragicamente segnata dalla scomparsa del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nel marzo 1996.
+Alla guida della squadra dalla 5ª alla 34ª giornata della [[02-cronistoria/stagioni/1995-1996|Serie C2 1995-1996]] (girone C), Russo raccoglie complessivamente **34 panchine ufficiali** nel computo storico del club con una media di **1,41 punti a partita**. Valorizzando le reti del capocannoniere Maurizio Naccari (10 gol), costruisce un cammino regolare che permette al Catania di sfiorare la zona play-off chiudendo all'**8º posto con 48 punti** (14 vittorie, 6 pareggi e 14 sconfitte, 41 reti segnate e 42 subite). L'intera annata resta tuttavia indelebilmente segnata dal lutto del **4 marzo 1996**, quando il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] perde la vita in un tragico incidente stradale sull'autostrada A19 Palermo-Catania.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

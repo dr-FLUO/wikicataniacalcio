@@ -46,6 +46,12 @@ Nel corso del torneo cadetto:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Quella di Salvatore Coco fu una presidenza breve quanto tormentata, consumata nell'arco della sola [[02-cronistoria/stagioni/1973-1974|stagione 1973-1974]], eppure centrale per comprendere le fragilità dell'[[01-societa/epoche/1967-calcio-catania-spa-massimino|era del Calcio Catania S.p.A.]] negli anni Settanta. Subentrato ad [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del 1973 al vertice di una cordata condivisa con i dirigenti Costa e Porto, il nuovo presidente avviò un profondo rinnovamento economico e tecnico che comportò cessioni pesanti verso la Reggiana — tra cui Montanari, Rado e Francesconi — e il passaggio di Scarpa al Cesena, controbilanciate dagli arrivi di Petrovic, Malaman e dell'attaccante Claudio Spagnolo.
+
+Sul rettangolo di gioco, tuttavia, la squadra non trovò mai stabilità. Dopo appena una vittoria e otto pareggi nelle prime quattordici giornate, l'allenatore Guido Mazzetti lasciò il posto a Luigi Valsecchi e infine all'ex bandiera Adelmo Prenna, senza riuscire a invertire la rotta di un attacco sterile nonostante i dieci centri di Spagnolo. Ad aggravare la stagione intervenne la squalifica del Cibali per tre turni dopo gli incidenti di Catania-Novara del 7 aprile 1974. Chiuso il torneo al ventesimo posto con 26 punti e cinque vittorie in trentotto giornate, la retrocessione in Serie C spinse le istituzioni cittadine e il sindaco a richiamare immediatamente Massimino per l'immediata risalita del [[02-cronistoria/stagioni/1974-1975|1974-1975]].
+
 ## Fonti e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 265–270.

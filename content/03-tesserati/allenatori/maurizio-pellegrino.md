@@ -119,7 +119,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/m-o/maurizio-pellegrino|Maurizio Pellegrino]]** (Siracusa, Italia, 1966) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2001-2003, 2013-2015**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci), Calcio Catania S.p.A. ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Dal rettangolo di gioco alla panchina, fino alla scrivania dell'area tecnica, **[[03-tesserati/calciatori/archivio/m-o/maurizio-pellegrino|Maurizio Pellegrino]]** (Siracusa, 1966) ha attraversato da protagonista oltre vent'anni di storia rossazzurra, legandosi prima alla [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] e poi ai momenti più drammatici dell'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore, Dirigente Sportivo e Centrocampista
@@ -131,11 +131,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Maurizio Pellegrino è una delle figure più legate alla storia recente del Catania: calciatore rossazzurro negli anni Novanta, vinse da co-allenatore con Ciccio Graziani la memorabile promozione in Serie B del 2002 e guidò la prima squadra in Serie A nel finale della stagione 2013-2014 e in Serie B nel 2014-2015.
+Centrocampista generoso in maglia etnea negli anni Novanta (31 presenze complessive), Pellegrino iniziò il proprio percorso in panchina accanto a [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]] nel finale della Serie C1 [[02-cronistoria/stagioni/2001-2002|2001-2002]], contribuendo alla vittoria nei play-off contro Pescara e Taranto (58 punti in stagione regolare, 18 reti di [[03-tesserati/calciatori/archivio/d-f/eddy-baggio|Eddy Baggio]]). Rimase in co-conduzione anche all'avvio della Serie B [[02-cronistoria/stagioni/2002-2003|2002-2003]] sotto la presidenza di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], prima dell'arrivo di [[03-tesserati/allenatori/john-toshack|John Toshack]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 2014 sfiorò un clamoroso miracolo salvezza in Serie A con tre vittorie consecutive contro Sampdoria, Roma (4-1) e Bologna; è stato in seguito anche Direttore dell'Area Tecnica etnea.
+Dopo aver guidato il settore giovanile, nell'aprile [[02-cronistoria/stagioni/2013-2014|2013-2014]] fu chiamato dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] a sostituire [[03-tesserati/allenatori/rolando-maran|Rolando Maran]] dalla 33ª alla 38ª giornata di Serie A. Pur retrocedendo al 18º posto con 32 punti, ridiede orgoglio al [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] battendo la Sampdoria (2-1) e centrando tre successi consecutivi nel finale contro Roma (4-1), Bologna (2-1) e Atalanta (2-1) con i gol di [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]]. Confermato all'inizio della Serie B [[02-cronistoria/stagioni/2014-2015|2014-2015]] e richiamato brevemente tra il 19 dicembre 2014 e il 3 gennaio 2015 tra [[03-tesserati/allenatori/giuseppe-sannino|Giuseppe Sannino]] e [[03-tesserati/allenatori/dario-marcolin|Dario Marcolin]] (14 panchine ufficiali complessive tra il 2014 e il 2015, media 1,21), ricoprì successivamente il ruolo di direttore dell'area tecnica.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -89,7 +89,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Antal Mally** (Budapest, Ungheria, 1890 – 1958) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1930-1931**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Con l'arrivo di **Antal Mally** (Budapest, 1890 – 1958) nell'estate del 1930, il calcio catanese abbracciò per la prima volta la scuola danubiana, affidando la prima squadra a un tecnico straniero già commissario della nazionale estone nel 1927.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore (ex Centrocampista)
@@ -101,11 +101,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Antal Mally fu il primo allenatore straniero della storia del Catania. Chiamato alla guida della SS Catania nella stagione 1930-1931 in Prima Divisione, portò alle falde dell'Etna i moderni metodi di allenamento e la raffinata tattica della celebre scuola danubiana.
+Cresciuto nella scuola calcistica magiara, Mally portò nella [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] metodi di preparazione atletica e organizzazione tattica d'avanguardia per il Mezzogiorno. Approdò alle falde dell'Etna per la stagione [[02-cronistoria/stagioni/1930-1931|1930-1931]], con il club iscritto alla Prima Divisione grazie a una sottoscrizione popolare e segnato dal passaggio dalla presidenza di [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]] ad Antonio Zingali fino al commissario Andrea Gaudioso.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Sotto la sua guida la squadra etnea conquistò un lusinghiero sesto posto nel girone E di Prima Divisione con 21 punti, inaugurando la lunga e prestigiosa tradizione di tecnici ungheresi sulla panchina rossazzurra.
+La sua gestione coincise con l'inaugurazione del [[04-strutture/campi-storici/index|Campo di Piazza Verga]], il «Campo dei cent'anni» (21 settembre 1930), segnando una netta crescita rispetto all'esordio. Nel girone E di Prima Divisione, il Catania si esaltò in casa travolgendo Bagnolese (7-1), Cosenza (7-1), Catanzarese (5-1) e Vomero (5-1), espugnando Salerno e superando 2-1 il Messina all'ultima giornata.
+
+Spinti dai 10 gol di [[03-tesserati/allenatori/lorenzo-bergia|Lorenzo Bergia]], i rossazzurri chiusero al 6º posto con 21 punti (10 vittorie, 1 pareggio, 11 sconfitte; 45 gol fatti e 36 subiti), inaugurando il filone danubiano a Catania.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

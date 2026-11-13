@@ -48,6 +48,12 @@ Durante il suo mandato dirigenziale:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Nell'autunno del 1955, mentre il calcio cittadino era ancora tramortito dalla retrocessione d'ufficio inflitta per il [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]] e dalle pesanti inibizioni che avevano colpito il vertice precedente, Agatino Pesce si fece carico di ricomporre il quadro dirigenziale insieme a Michele Giuffrida e Marco Orlando. La sua presidenza fu soprattutto un'opera di tenuta morale e finanziaria: occorreva trattenere l'entusiasmo di una piazza ferita dall'ingiustizia percepita, riordinare i conti dopo la perdita degli incassi della Serie A e mantenere il Catania competitivo nella Serie B a girone unico.
+
+In tre stagioni consecutive il club sfiorò la risalita pur tra risorse più contenute. Nel [[02-cronistoria/stagioni/1955-1956|1955-1956]], tra [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]] ed Enzo Bellini, i rossazzurri chiusero al quinto posto con 40 punti; nel [[02-cronistoria/stagioni/1956-1957|1956-1957]], affidati a Gipo Poggi e sostenuti dai dieci gol a testa di Buzzin e Uzzecchini, arrivarono al quarto posto a quota 42 frenati soltanto dallo scivolone finale di Modena. Nel [[02-cronistoria/stagioni/1957-1958|1957-1958]], nonostante l'arrivo di Riccardo Carapellese e l'alternanza in panchina fino a Nicolò Nicolosi e Francesco Capocasale, la squadra scivolò all'undicesimo posto con 30 punti, preparando la transizione verso [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e il lungo ciclo di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]].
+
 ## Tappe della Presidenza Pesce
 
 | Stagione | Campionato | Allenatore | Piazzamento Finale |

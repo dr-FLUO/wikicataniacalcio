@@ -94,7 +94,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giovanni Ferraro** (Vico Equense (NA), Italia, 1969) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2022-2023**, legando il proprio nome alla storia societaria di [[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD]] / Catania Football Club (2022-Oggi).
+Nell'estate della rifondazione, affidare la panchina a una guida esperta significava assicurare al calcio catanese un immediato ritorno tra i professionisti: **Giovanni Ferraro** (Vico Equense, 1969) raccolse la sfida della [[01-societa/epoche/2022-pelligra-catania-fc|Catania SSD]] nella stagione [[02-cronistoria/stagioni/2022-2023|2022-2023]], guidando il club di [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] con una marcia da primato.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -106,11 +106,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giovanni Ferraro è il timoniere della rinascita rossazzurra dopo il fallimento, condottiero del Catania SSD del presidente Rosario Pelligra nella stagione dei record di Serie D 2022-2023.
+Ex difensore e tecnico navigato della quarta serie, Ferraro approdò alle pendici dell'Etna nel luglio 2022 dopo aver appena vinto il girone G di Serie D con il Giugliano. Affiancato dal vicepresidente [[01-societa/dirigenti/vincenzo-grella|Vincenzo Grella]], dal direttore sportivo Antonello Laneri e dagli ex rossazzurri [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] (vice in panchina) e [[03-tesserati/calciatori/storici/marco-biagianti|Marco Biagianti]], governò fin dal ritiro di Ragalna le attese di una piazza capace di sottoscrivere 11.427 abbonamenti, primato per la categoria.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Ha conquistato la promozione matematica in Serie C con ben sei giornate d'anticipo a Caltanissetta il 19 marzo 2023, chiudendo il torneo con 88 punti in 34 gare (31 punti di distacco sulla seconda), 14 vittorie consecutive interne e il record assoluto di punti della storia della Serie D a 18 squadre.
+Ferraro plasmò una squadra continua e autoritaria, sorretta dai ritorni di [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] e [[03-tesserati/calciatori/archivio/a-c/andrea-russotto|Andrea Russotto]] e dai gol di [[03-tesserati/calciatori/archivio/m-o/manuel-sarao|Manuel Sarao]] (capocannoniere con nove reti), [[03-tesserati/calciatori/archivio/g-l/giuseppe-de-luca|Giuseppe De Luca]] e [[03-tesserati/calciatori/archivio/d-f/francesco-rapisarda|Francesco Rapisarda]]. La promozione in Serie C maturò con sei turni d'anticipo il 19 marzo 2023 a Caltanissetta (4-1 sul Canicattì). Il girone I fu chiuso a quota 88 punti in 34 gare (28 vittorie, 4 pareggi, 2 sconfitte; 74 gol fatti e 20 subiti), completando 37 panchine ufficiali tra campionato, Coppa Italia e Poule Scudetto.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

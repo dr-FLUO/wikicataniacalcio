@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giovanni Mei** (Fano (PU), Italia, 1953) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1996-1998**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Arrivato in corsa nel dicembre 1996 per risollevare il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] dalle sabbie mobili della quarta serie, **Giovanni Mei** (Fano, 1953) riportò i rossazzurri a sfiorare i play-off nella Serie C2 [[02-cronistoria/stagioni/1996-1997|1996-1997]], restando poi in carica fino all'autunno successivo nel torneo [[02-cronistoria/stagioni/1997-1998|1997-1998]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giovanni Mei condusse il Catania dal dicembre 1996 al dicembre 1997 in Serie C2, portando la squadra fino alla semifinale dei play-off promozione 1996-1997 contro l'Ancona.
+Ex difensore marchigiano nato a Fano nel 1953, Giovanni Mei costruì la propria reputazione tecnica sull'organizzazione difensiva e sulla capacità di compattare lo spogliatoio. Chiamato dalla presidenza di [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]] dopo l'esonero di [[03-tesserati/allenatori/angelo-busetta|Angelo Busetta]] seguito all'undicesima giornata, restò alle pendici dell'Etna per trentasei panchine ufficiali complessive, mantenendo una media di 1,53 punti.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Costruì una delle formazioni difensivamente più solide della categoria, valorizzando campioni come D'Isidoro e Brutto e totalizzando un quarto posto a quota 54 punti.
+Subito dopo il proprio insediamento nella Serie C2 [[02-cronistoria/stagioni/1996-1997|1996-1997]], Mei inanellò undici risultati utili consecutivi rilanciando un gruppo guidato dai gol di [[03-tesserati/calciatori/archivio/s-z/tiziano-disidoro|Tiziano D'Isidoro]] (capocannoniere con 13 reti in campionato) e dalla spinta di [[03-tesserati/calciatori/archivio/s-z/umberto-brutto|Umberto Brutto]], [[03-tesserati/calciatori/archivio/a-c/antonino-pannitteri|Antonino Pannitteri]] e [[03-tesserati/calciatori/storici/orazio-russo|Orazio Russo]]. La squadra chiuse quarta con 54 punti, uscendo in semifinale play-off contro la Turris (0-0 al Cibali davanti a ventimila spettatori e sconfitta 0-1 ad Avellino). Confermato per il [[02-cronistoria/stagioni/1997-1998|1997-1998]], fu esonerato il 21 dicembre 1997 dopo quindici giornate con 18 punti e sostituito da [[03-tesserati/allenatori/franco-gagliardi|Franco Gagliardi]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

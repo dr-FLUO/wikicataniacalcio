@@ -64,7 +64,9 @@ aliases:
 ---
 # Catania - AlbinoLeffe 2-1 (28 Maggio 2006)
 
-Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], rappresenta una delle pagine più gloriose della storia contemporanea del club etneo, sancendo la **promozione in Serie A dopo ventidue anni di attesa** (dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]).
+Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] per l'ultima giornata del campionato di Serie B [[02-cronistoria/stagioni/2005-2006|2005-2006]], chiude un'attesa lunga ventidue anni, riportando i colori rossazzurri in massima serie dalla stagione [[02-cronistoria/stagioni/1983-1984|1983-1984]]. Sotto la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], la squadra affidata a [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] aveva condotto un torneo d'alta classifica fin dall'autunno, chiudendo il girone d'andata a quota 40 punti e mantenendo con regolarità il passo promozione anche nel ritorno, fino al duello finale per il secondo posto dietro l'Atalanta.
+
+In un pomeriggio di fine maggio carico di tensione emotiva, al Catania serviva l'intera posta in palio per blindare i 78 punti e tagliare fuori dalla corsa diretta il Torino, evitando la lotteria dei play-off. Di fronte si ergeva l'AlbinoLeffe di Emiliano Mondonico, formazione compatta e organizzata, determinata a onorare l'impegno fino al novantesimo minuto davanti a un Cibali gremito da ventitremila spettatori in ogni ordine di posto.
 
 > [!abstract] La Partita della Liberazione e il Gol di Del Core
 > Davanti a oltre 23.000 spettatori che gremivano ogni ordine di posto al Massimino, il Catania di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] conquistò i tre punti decisivi per il 2º posto finale (78 punti) e la promozione diretta: al vantaggio iniziale di [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] (15') rispose al 41' il pareggio seriano di Cellini, prima del memorabile pallonetto vincente di **[[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]] al 54'** che scatenò una festa incontenibile in tutta la città.
@@ -93,10 +95,11 @@ Il match **Catania - AlbinoLeffe 2-1**, disputato domenica **28 maggio 2006** al
 
 ## Cronaca dei 90 Minuti
 
-1. **Il vantaggio di Spinesi (15'):** Su perfetto cross teso dalla fascia destra, il bomber Gionatha Spinesi insaccò con una deviazione sottomisura alle spalle di Ginestra, firmando la sua 23ª rete personale in campionato.
-2. **Il pari a sorpresa di Cellini (41'):** Sul finire del primo tempo, un contropiede orchestrato dalla formazione di Mondonico portò Marco Cellini al diagonale che valse l'1-1, gelando per qualche minuto gli spalti del Cibali.
-3. **Il sigillo di Del Core al 54' e l'apoteosi:** All'inizio della ripresa, una palla filtrante scavalcò la difesa seriana: Umberto Del Core controllò al limite dell'area e con uno splendido pallonetto superò il portiere in uscita, depositando nella porta sguarnita la rete del definitivo 2-1.
-4. **Il triplice fischio e il corteo trionfale:** Al fischio finale di Pieri, il Massimino fu invaso pacificamente da una marea di bandiere rossazzurre. Oltre centomila tifosi invasero piazza Duomo, via Etnea e la fontana dell'Elefante per celebrare il ritorno del Catania nell'élite del calcio italiano.
+L'approccio degli etnei fu subito autoritario, sostenuto dalla spinta incessante delle due curve e dal tridente offensivo disegnato da Marino. Già al 15', su un traversone teso scodellato dalla corsia destra, [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]] anticipò i centrali ospiti con una deviazione sottomisura alle spalle di Ginestra, firmando la sua ventitreesima rete in campionato e indirizzando il pomeriggio verso la festa. Il Catania continuò a gestire il possesso con le geometrie di Baiocco, Biso e Caserta, ma sul finire della prima frazione un'improvvisa ripartenza orchestrata dalla formazione di Mondonico consentì a Marco Cellini di trovare il diagonale dell'1-1 al 41', gelando per qualche minuto gli spalti del Cibali.
+
+La scossa arrivò all'inizio della ripresa, quando l'intensità della manovra rossazzurra spezzò nuovamente l'equilibrio seriano. Al 54', una verticalizzazione precisa tagliò fuori la linea difensiva bergamasca: [[03-tesserati/calciatori/archivio/s-z/umberto-del-core|Umberto Del Core]] agganciò al limite dell'area e, vista l'uscita di Ginestra, disegnò un pallonetto morbido destinato a spegnersi nella porta sguarnita per il definitivo 2-1.
+
+Negli ultimi minuti, con gli innesti di Orazio Russo e Roberto De Zerbi per [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], il Catania amministrò il vantaggio fino al triplice fischio di Tiziano Pieri. L'invasione pacifica di bandiere rossazzurre sul terreno di gioco fu soltanto il prologo di una notte storica: oltre centomila tifosi si riversarono tra piazza Duomo, via Etnea e la fontana dell'Elefante per celebrare il ritorno nell'élite del calcio italiano.
 
 ---
 

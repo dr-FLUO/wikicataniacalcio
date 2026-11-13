@@ -80,7 +80,7 @@ aliases:
   </table>
 </div>
 
-**Berardo Frisoni** (Brescia, Italia, 1904 – 1976) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1942-1944**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Quando la guerra travolse anche i campionati italiani, fu **Berardo Frisoni** (Brescia, 1904 – 1976) a guidare l'ultima cavalcata dell'AFC Catania prima dello scioglimento sotto le macerie dei bombardamenti del 1943.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -92,11 +92,13 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Berardo Frisoni, ex calciatore di Brescia e Genova 1893, ha guidato l'AFC Catania nella stagione di Serie C 1942-1943 e nel successivo Campionato bellico siciliano fino all'interruzione per lo sbarco alleato in Sicilia.
+Ex centrocampista di temperamento con trascorsi nel Brescia e nel Genova 1893, Frisoni venne scelto nell'autunno del 1942 dal presidente [[01-societa/presidenti/ottavio-teghini|Ottavio Teghini]] per rilanciare le ambizioni dell'AFC Catania ([[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]) nella Serie C [[02-cronistoria/stagioni/1942-1943|1942-1943]]. La società allestì un organico superiore alla categoria grazie agli arrivi di [[03-tesserati/calciatori/archivio/p-r/marco-romano|Marco Romano]], [[03-tesserati/calciatori/archivio/g-l/giordano-colaussi|Giordano Colaussi]] e [[03-tesserati/allenatori/nereo-marini|Nereo Marini]], oltre ai rientri di Gaetano Pinto, [[03-tesserati/calciatori/archivio/p-r/renzo-bettini|Renzo Bettini]] e Mario De Bartoli.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1942-1943 dominò il girone N di Serie C vincendo il campionato con 31 punti in 18 gare, prima della sospensione delle finali nazionali per cause di guerra.
+Nel girone N di Serie C, la formazione guidata da Frisoni esercitò un dominio netto, concludendo al 1º posto con 32 punti in 18 giornate frutto di 15 vittorie, 2 pareggi e una sola sconfitta, con 66 reti all'attivo e appena 8 subite. Allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] i rossazzurri offrirono prove travolgenti contro Mario Passamonte (9-0), Enna (7-0), Marinai d'Italia (6-0) e Nissena (6-0), spinti dalle 26 marcature del centravanti Romano.
+
+Iniziato il girone finale B con il pareggio di Terni ad aprile, i pesanti bombardamenti su Catania e il successivo sbarco alleato in Sicilia indussero la FIGC a escludere i club siciliani dal torneo, chiudendo l'attività ufficiale dopo l'ultimo impegno bellico isolano.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

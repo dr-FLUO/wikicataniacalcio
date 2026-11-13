@@ -79,7 +79,7 @@ aliases:
   </table>
 </div>
 
-**Pietro Colombati** (Torino, Italia, 1897) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1936-1938**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+**Pietro Colombati** (Torino, Italia, 1897) è il tecnico che guida l'AFC Catania – proseguimento storico della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] (1929-1943) – nel biennio **1936-1938**, accompagnando il club tra le emozioni della Serie B, l'impresa in Coppa Italia e l'alba dello Stadio Cibali.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore
@@ -91,11 +91,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Pietro Colombati ha guidato l'AFC Catania tra il 1936 e il 1938, conducendo la squadra sia nel campionato cadetto di Serie B sia in Serie C.
+Torinese di nascita (1897), dopo la carriera da calciatore **Pietro Colombati** matura una solida esperienza di campo alla guida di formazioni nazionali prima di approdare in Sicilia nel 1936 su indicazione del presidente [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca]]. Nel biennio etneo dimostra disciplina tattica e capacità di valorizzare attaccanti di peso come Brossi e Ravizzoli in una fase di intensa trasformazione per la società, ormai proiettata verso la costruzione del nuovo impianto di Cibali.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1936-1937 affrontò il campionato di Serie B con gli etnei, confermandosi all'inizio della stagione 1937-1938 in Serie C fino all'8ª giornata prima dell'avvicendamento con [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]].
+Nella [[02-cronistoria/stagioni/1936-1937|Serie B 1936-1937]] chiude la stagione regolare al **13º posto con 28 punti** (9 vittorie, 10 pareggi e 11 sconfitte, 15 gol di Brossi), cedendo poi negli spareggi salvezza di luglio contro Messina e Venezia dopo un quadrangolare terminato in perfetta parità. Nella stessa annata firma però una storica cavalcata fino ai **quarti di finale di Coppa Italia**, eliminando Cerignola (**1-0**), Fiorentina (**3-1**) e Liguria (**3-4**) prima dell'eliminazione contro il Genova 1893 (**4-0**). Confermato in [[02-cronistoria/stagioni/1937-1938|Serie C 1937-1938]], affronta sette trasferte consecutive in attesa dell'inaugurazione del Cibali (**28 novembre 1937**, **1-0** al Foggia con rete di Pulzone), lasciando poi il posto dopo l'8ª giornata a [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

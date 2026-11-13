@@ -32,22 +32,19 @@ aliases:
 
 # Gemellaggio Catania-Trapani: L'Asse Regionale Anti-Palermo
 
-Il legame tra la tifoseria del Catania e quella del **Trapani** costituisce una delle alleanze più rilevanti della geopolitica del tifo in Sicilia, maturata a metà degli anni Novanta e rinsaldata nel corso dei decenni successivi.
+All'interno di una mappa regionale storicamente segnata da aspri campanilismi provinciali, il legame tra la tifoseria del Catania e quella del **Trapani** rappresenta un'eccezione significativa e uno degli assi più rilevanti della geopolitica del tifo in Sicilia. Maturato a metà degli anni Novanta e preservato lungo tre decenni di incroci tra dilettanti e professionismo, il gemellaggio ha unito i due poli estremi dell'isola sotto un comune orizzonte di solidarietà.
 
 ---
 
 ## 1. La Genesi Geopolitica negli Anni Novanta
 
-Il gemellaggio è scaturito dall'incrocio di due fattori storici determinanti:
-1. **La Comune Avversione per il Palermo:** La viscerale rivalità etnea nel [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]] ha trovato una perfetta sponda a Trapani dopo la celebre vicenda del 1995, quando il passaggio in blocco di numerosi calciatori granata al Palermo (trainato da dinamiche societarie) fece esplodere un'inimicizia insanabile tra trapanesi e palermitani.
-2. **La Solidarietà nei Campionati Minori:** Durante la dolorosa permanenza del Catania nel Campionato Nazionale Dilettanti (CND) e in Serie C2 tra il 1995 e il 1998, le due tifoserie si avvicinarono spontaneamente, stringendo un patto d'onore suggellato da scambi di sciarpe e cori congiunti.
+A far scoccare l'intesa nel **1995** contribuì l'incrocio di due spinte convergenti. Da una parte operava la comune avversione per il capoluogo rosanero: la viscerale rivalità vissuta dai catanesi nel [[06-tifoseria-e-cultura/relazioni/rivalita/palermo|Derby di Sicilia]] trovò un'immediata sponda nella Sicilia occidentale quando il passaggio in blocco di numerosi calciatori granata al Palermo, maturato in seno alle dinamiche societarie del 1995, accese un'inimicizia insanabile tra trapanesi e palermitani. Dall'altra parte pesò la solidarietà maturata nei campionati minori: durante la difficile permanenza del Catania tra Campionato Nazionale Dilettanti e Serie C2 tra il 1995 e il 1998, le due curve si avvicinarono spontaneamente, stringendo un patto d'onore suggellato da scambi di sciarpe e cori condivisi.
 
 ---
 
 ## 2. Momenti Salienti e Rispetto Reciproco
 
-- Nelle sfide disputate al Polisportivo Provinciale di Erice e al Cibali/Massimino, le tifoserie hanno costantemente trasformato la partita in una festa di popolo, esponendo striscioni di fratellanza come *"Trapani e Catania un solo grido"* e intonando cori di scherno condivisi contro il comune rivale rosanero.
-- Il gemellaggio è rimasto saldo anche nelle categorie superiori, rappresentando un'eccezione luminosa di fratellanza all'interno di un panorama regionale storicamente frammentato da duri campanilismi provinciali.
+Negli anni successivi, tanto sul prato del Polisportivo Provinciale di Erice quanto sotto le curve del Cibali/Massimino, gli scontri diretti si sono trasformati in giornate di festa popolare. Le due tifoserie hanno esposto striscioni di fratellanza rimasti nella memoria collettiva come *"Trapani e Catania un solo grido"*, intonando cori comuni contro i rivali rosanero e mantenendo intatto il gemellaggio anche al momento del ritorno in categorie superiori.
 
 ---
 

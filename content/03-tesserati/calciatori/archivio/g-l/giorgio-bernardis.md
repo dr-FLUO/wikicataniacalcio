@@ -94,7 +94,7 @@ tm_id: 388629
   </table>
 </div>
 
-**Giorgio Bernardis** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Dalla linea verde di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] fino ai tornei cadetti di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], **Giorgio Bernardis** ha servito il [[01-societa/matricola-11700|Calcio Catania]] per cinque stagioni tra il 1968 e il 1973, con **154 presenze ufficiali** e **8 reti**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 388629
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Campolongo al Torre (classe 1945), **Giorgio Bernardis** ha militato nelle file rossazzurre per **5 stagioni** (1968–1973). Punto di riferimento nello scacchiere etneo, ha totalizzato **154 presenze ufficiali** (13.608' minuti effettivi) impreziosite da **8 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1971-1972**, durante la quale è sceso in campo in 41 occasioni realizzando 3 reti.
+Mediano friulano nato a Campolongo al Torre il 22 giugno 1945 e acquistato dalla Vis Pesaro nell'estate 1968, si affacciò in prima squadra con 6 apparizioni nella [[02-cronistoria/stagioni/1968-1969|Serie B 1968-1969]], la formazione più giovane della categoria plasmata da Rubino nell'ultimo anno di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]]. Conquistò la maglia da titolare nella [[02-cronistoria/stagioni/1969-1970|1969-1970]] del nuovo presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], totalizzando 34 presenze e una rete nella cavalcata verso la Serie A.
+
+In massima serie, nella [[02-cronistoria/stagioni/1970-1971|1970-1971]], disputò 33 partite e siglò due reti prestigiose, andando a bersaglio a San Siro contro l'Inter e firmando il colpo esterno per 0-1 sul campo del Varese. Sceso in Serie B ma confermato al centro del reparto insieme a [[03-tesserati/calciatori/archivio/p-r/romano-fogli|Romano Fogli]], toccò l'apice nella [[02-cronistoria/stagioni/1971-1972|1971-1972]] con 41 presenze, 3.690 minuti e 3 reti (doppietta alla Reggina sul neutro di Ragusa e gol a Modena), mantenendo lo stesso peso specifico nella [[02-cronistoria/stagioni/1972-1973|1972-1973]] con 40 gare e 2 marcature.
 
 ---
 

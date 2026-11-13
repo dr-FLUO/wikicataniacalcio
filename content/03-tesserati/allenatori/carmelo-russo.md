@@ -83,7 +83,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Carmelo Russo** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1988-1990**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Promosso dal vivaio in un momento di piena emergenza tecnica, **Carmelo Russo** rappresentò tra il 1988 e il 1990 la risposta interna del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] alle difficoltà del biennio di Serie C1 [[02-cronistoria/stagioni/1988-1989|1988-1989]] e [[02-cronistoria/stagioni/1989-1990|1989-1990]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -95,11 +95,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Carmelo Russo guidò il Catania in Serie C1 tra il 1988 e il 1990, subentrando a [[03-tesserati/allenatori/bruno-pace|Bruno Pace]] nel 1988-1989 e venendo confermato alla guida della squadra nel 1989-1990 per le prime 17 giornate.
+Tecnico siciliano cresciuto nei quadri tecnici del club etneo come allenatore della formazione Primavera, Carmelo Russo venne chiamato a guidare la prima squadra nel novembre 1988 durante la presidenza di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]]. In un momento delicato della storia rossazzurra, assicurò continuità di lavoro e conoscenza diretta dell'ambiente, totalizzando trentaquattro panchine ufficiali complessive tra campionati e coppe.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1988-1989 risalì la classifica fino a un dignitoso 10º posto finale con 31 punti, costruendo una squadra compatta e tenace.
+Nella Serie C1 [[02-cronistoria/stagioni/1988-1989|1988-1989]], Russo rilevò [[03-tesserati/allenatori/bruno-pace|Bruno Pace]] dopo quattro sconfitte consecutive alla dodicesima giornata, esordendo vittoriosamente per 1-0 contro la capolista Cagliari. Rinforzata nel mercato autunnale con gli arrivi di [[03-tesserati/calciatori/archivio/d-f/ennio-mastalli|Ennio Mastalli]], [[03-tesserati/calciatori/archivio/s-z/tommaso-napoli|Tommaso Napoli]] ed [[03-tesserati/calciatori/archivio/d-f/enrico-nieri|Enrico Nieri]] e spinta dalle cinque reti di [[03-tesserati/calciatori/archivio/g-l/giancarlo-marini|Giancarlo Marini]], la squadra travolse la Salernitana per 5-0 e risalì fino al decimo posto finale con 34 punti. Confermato per la stagione [[02-cronistoria/stagioni/1989-1990|1989-1990]], superò la fase a gironi della Coppa Italia Serie C e chiuse il girone d'andata a quota 18 punti alla diciassettesima giornata, prima di lasciare la guida tecnica ad [[03-tesserati/allenatori/angelo-sormani|Angelo Sormani]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

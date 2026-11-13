@@ -102,7 +102,8 @@ tm_id: 6446
   </table>
 </div>
 
-**Lorenzo Stovini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Guida tattica e voce autoritaria della linea difensiva, **Lorenzo Stovini** (Firenze, 24 novembre 1976) offrì tre stagioni di continuità ad altissimo livello al [[01-societa/matricola-11700|Calcio Catania]] in Serie A dal 2006 al 2009.
 
 ---
 
@@ -121,7 +122,9 @@ tm_id: 6446
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Firenze (classe 1976), **Lorenzo Stovini** ha militato nelle file rossazzurre per **3 stagioni** (2006–2009). Punto di riferimento nello scacchiere etneo, ha totalizzato **110 presenze ufficiali** (9748' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2007-2008**, durante la quale è sceso in campo in 42 occasioni realizzando 1 rete.
+Prelevato dal Lecce nell'estate del 2006 dalla dirigenza composta da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] per dare solidità al ritorno nella massima categoria dopo ventitré anni, il centrale toscano si prese subito il posto da titolare nello scacchiere di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]]. Nel campionato [[02-cronistoria/stagioni/2006-2007|2006-2007]] accumulò 35 presenze, 1 assist e 2 reti (ad Ascoli e contro il Chievo), vivendo in prima linea lo splendido girone d'andata chiuso al sesto posto e la sofferta salvezza sul campo neutro di Bologna.
+
+Nella [[02-cronistoria/stagioni/2007-2008|stagione 2007-2008]], sotto [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] prima e [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] poi, toccò il picco assoluto di utilizzo con **42 presenze ufficiali e 3.810 minuti**, trovando il gol a Marassi contro la Sampdoria e guidando la retroguardia fino alla semifinale di Coppa Italia e alla salvezza all'ultima curva. Nel [[02-cronistoria/stagioni/2008-2009|2008-2009]], formando una coppia complementare con [[03-tesserati/calciatori/storici/matias-silvestre|Matías Silvestre]], aggiunse altre 33 gare — compresa la notte memorabile dello [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|0-4 nel derby di Palermo]] — toccando quota **110 presenze e 3 reti**.
 
 ---
 

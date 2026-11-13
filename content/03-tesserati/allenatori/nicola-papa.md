@@ -78,7 +78,7 @@ aliases:
   </table>
 </div>
 
-**Nicola Papa** (Napoli, Italia, 1897) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1931-1932**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+**Nicola Papa** (Napoli, Italia, 1897) è tra i protagonisti tecnici delle origini della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]], guidando i rossazzurri sul campo e dalla panchina nel torneo di Prima Divisione **1931-1932**.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -90,11 +90,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Nicola Papa ha guidato la Società Sportiva Catania nella stagione di Prima Divisione 1931-1932, distinguendosi come figura di raccordo in campo e in panchina.
+Nato a Napoli nel 1897, **Nicola Papa** incarna la figura classica del giocatore-allenatore dei primi anni Trenta, capace di garantire solidità nel reparto arretrato e autorevolezza tattica nella gestione dello spogliatoio. Approdato alle falde dell'Etna per la stagione 1931-1932, opera a stretto contatto con l'ambiente rossazzurro sui campi di Piazza Esposizione e Piazza Verga, collaborando nella conduzione tecnica con il trainer austriaco [[03-tesserati/allenatori/walter-joackim|Walter Joackim]] in una fase cruciale per il consolidamento sportivo ed economico del club.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Durante la stagione 1931-1932 condusse gli etnei a un eccellente 6º posto finale con 34 punti, propiziando l'ingresso in società del presidente Vespasiano Trigona duca di Misterbianco.
+Nella [[02-cronistoria/stagioni/1931-1932|Prima Divisione 1931-1932]] (girone F), Papa conduce la squadra in una stagione di svolta anche sul piano dirigenziale, segnata a gennaio 1932 dal passaggio della presidenza da Andrea Gaudioso al mecenate Vespasiano Trigona duca di Misterbianco. Superato l'infortunio di Lorenzo Bergia nella trasferta di Messina dell'ottobre 1931, il Catania cambia marcia nel girone di ritorno (21 punti conquistati e prestigioso **4-1** casalingo proprio sull'AC Messina il **7 febbraio 1932**), chiudendo al **6º posto** con **32 punti** ufficiali in classifica (14 vittorie, 4 pareggi e 9 sconfitte, 49 gol fatti e 33 subiti) e lanciando le 15 reti del capocannoniere Ercole Cini.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

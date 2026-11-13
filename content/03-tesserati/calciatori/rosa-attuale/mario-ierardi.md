@@ -102,7 +102,7 @@ tm_id: 370704
   </table>
 </div>
 
-**Mario Ierardi** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+Difensore centrale roccioso nei duelli aerei e letale sui calci piazzati, **Mario Ierardi** (Magenta, 19 febbraio 1998) costituisce dal 2024 una colonna arretrata del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] targato [[01-societa/presidenti/ross-pelligra|Ross Pelligra]].
 
 ---
 
@@ -121,7 +121,9 @@ tm_id: 370704
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Magenta (MI), Italia (classe 1998), **Mario Ierardi** ha militato nelle file rossazzurre per **3 stagioni** (2024–). Punto di riferimento nello scacchiere etneo, ha totalizzato **66 presenze ufficiali** (5113' minuti effettivi) impreziosite da **8 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2024-2025**, durante la quale è sceso in campo in 28 occasioni realizzando 2 reti.
+Ingaggiato a parametro zero dal Vicenza nell'estate della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il centrale lombardo si legò subito alle idee difensive di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]], totalizzando **28 presenze e 2.238 minuti** impreziositi da **2 reti** importanti a Monopoli e nel turno playoff contro il Giugliano. Nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], divisa in panchina fra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]], Ierardi elevò ulteriormente il proprio contributo in entrambe le aree: disputò **27 gare (1.954 minuti)** e realizzò **4 gol** (a Foggia, ancora a Monopoli, nel derby vinto con il Siracusa e nel 3-3 playoff con il Lecco), aiutando il reparto a chiudere con la migliore retroguardia del girone C.
+
+Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], agli ordini di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], ha già sommato **12 gare e 1.011 minuti** con 2 reti pesanti a Picerno e al 93' a Caserta, toccando **67 presenze, 8 gol, 1 assist e 5.203 minuti**.
 
 ---
 

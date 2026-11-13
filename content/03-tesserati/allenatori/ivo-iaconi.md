@@ -90,7 +90,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Ivo Iaconi** (Teramo, Italia, 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2000-2001**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+All'alba del nuovo millennio, la proprietà umbra inaugurò una stagione di ambizioni immediate: **Ivo Iaconi** (Teramo, 1956) fu il primo tecnico scelto dalla [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] — nel [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] presieduto da [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] — per tentare la scalata alla Serie B nella Serie C1 [[02-cronistoria/stagioni/2000-2001|2000-2001]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -102,11 +102,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Ivo Iaconi fu il primo tecnico ingaggiato da Luciano e [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] nell'estate 2000 per dare l'assalto alla Serie B, guidando la squadra in due frazioni distinte del torneo di Serie C1 2000-2001.
+Ex difensore e tecnico affermato in terza serie dopo le esperienze con Giulianova e Fermana, Iaconi sbarcò in Sicilia nell'estate del 2000. La nuova proprietà gli affidò una rosa competitiva e ricca di personalità, imperniata su giocatori quali [[03-tesserati/calciatori/archivio/g-l/gennaro-iezzo|Gennaro Iezzo]], [[03-tesserati/calciatori/storici/giuseppe-baronchelli|Giuseppe Baronchelli]] e [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico rigoroso e metodico, gettò le basi della rosa che avrebbe poi raggiunto la finale play-off contro il Messina sotto la guida di [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]].
+La gestione Iaconi si snodò per sette giornate fino al 15 ottobre 2000, producendo 12 punti (tre vittorie, tre pareggi e una sconfitta, media di 1,71 a gara). Dopo lo 0-0 d'esordio con la Vis Pesaro, la squadra mostrò un notevole potenziale offensivo travolgendo la Fermana per 5-2 a Caltanissetta e rifilando un memorabile 4-0 al Messina nel derby del 1º ottobre 2000 allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]. Il pari interno con il Savoia anticipò tuttavia l'avvicendamento con [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], che guidò poi il Catania fino al 3º posto (55 punti) e alla finale play-off.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

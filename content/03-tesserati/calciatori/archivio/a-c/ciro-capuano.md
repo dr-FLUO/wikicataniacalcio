@@ -106,7 +106,7 @@ tm_id: 38584
   </table>
 </div>
 
-**Ciro  Capuano** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Sette stagioni consecutive, **134 presenze ufficiali**, **2 reti** e **9 assist** legano **Ciro Capuano** all'epoca di Serie A e al successivo passaggio cadetto del [[01-societa/matricola-11700|Calcio Catania]] tra il 2008 e il 2015.
 
 ---
 
@@ -129,7 +129,9 @@ tm_id: 38584
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Napoli, Italia nel 1981, il difensore **Ciro  Capuano** ha militato nelle file rossazzurre per **7 stagioni** (2008–2015). Punto di riferimento nello scacchiere etneo, ha totalizzato **134 presenze ufficiali** (10.059' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **2009-2010**, disputata con 33 presenze complessive.
+Terzino mancino nato a Napoli il 10 luglio 1981 e prelevato dal Palermo nel gennaio 2009 durante la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], si impose immediatamente nello scacchiere di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] nella [[02-cronistoria/stagioni/2008-2009|Serie A 2008-2009]]: collezionò 18 presenze, andò a segno contro la Reggina e servì il cross decisivo per il vantaggio di [[03-tesserati/calciatori/archivio/p-r/pablo-ledesma|Pablo Ledesma]] nello storico [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|0-4 nel derby di Palermo]].
+
+Nella [[02-cronistoria/stagioni/2009-2010|2009-2010]], tra [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], raggiunse il proprio picco di impiego con 33 partite, 2.683 minuti e 4 assist, partecipando da titolare anche al celebre [[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|3-1 sull'Inter]] del 12 marzo 2010. Nel [[02-cronistoria/stagioni/2010-2011|2010-2011]], diretto da [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]], disputò 23 gare siglando una rete a San Siro contro il Milan. Nelle annate successive, alternandosi sulla fascia con [[03-tesserati/calciatori/archivio/g-l/giovanni-marchese|Giovanni Marchese]], contribuì ai piazzamenti di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] e [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], fino alle 27 apparizioni della [[02-cronistoria/stagioni/2014-2015|Serie B 2014-2015]].
 
 ---
 

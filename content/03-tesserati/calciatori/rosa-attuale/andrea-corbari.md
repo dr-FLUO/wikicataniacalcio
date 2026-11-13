@@ -102,7 +102,7 @@ tm_id: 598098
   </table>
 </div>
 
-**Andrea Corbari** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Centrocampista**.
+Mezzala d'esperienza e temperamento, **Andrea Corbari** (Cremona, 26 aprile 1994) porta equilibrio e inserimenti nella mediana del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] dall'estate del 2025.
 
 ---
 
@@ -120,7 +120,9 @@ tm_id: 598098
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Cremona, Italia nel 1994, il centrocampista **Andrea Corbari** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **41 presenze ufficiali** (2093' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 33 occasioni realizzando 1 rete.
+Acquistato a titolo definitivo dalla Virtus Entella per duecentomila euro nell'ambito della campagna di rafforzamento della [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], il centrocampista cremonese portò subito solidità e lettura degli spazi al reparto costruito per il vertice da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]]. Impiegato con regolarità sia da [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] che da [[03-tesserati/allenatori/william-viali|William Viali]], chiuse quel torneo — culminato con il secondo posto nel girone C e la semifinale playoff — con **33 presenze e 1.699 minuti**, firmando la rete che sbloccò il 2-0 interno sul Crotone alla 17ª giornata.
+
+Con l'arrivo in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Corbari ha continuato a garantire sostanza e raccordo tra i reparti, aggiungendo **8 apparizioni ufficiali, 394 minuti e 1 assist** nelle prime sedici gare dell'annata. Il suo percorso complessivo in maglia rossazzurra registra così **41 presenze, 1 gol, 1 assist e 2.093 minuti** effettivi sul rettangolo verde.
 
 ---
 

@@ -93,7 +93,7 @@ tm_id: 510844
   </table>
 </div>
 
-**Adelchi Malaman** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+Tra i giocatori offensivi più duttili degli anni Settanta nel [[01-societa/matricola-11700|Calcio Catania]], **Adelchi Malaman** ha accumulato **150 presenze ufficiali** e **18 reti** tra il 1973 e il 1979.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 510844
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Castel d'Azzano nel 1951, il attaccante **Adelchi Malaman** ha militato nelle file rossazzurre per **6 stagioni** (1973–1979). Punto di riferimento nello scacchiere etneo, ha totalizzato **150 presenze ufficiali** (12.320' minuti effettivi) impreziosite da **18 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1975-1976**, durante la quale è sceso in campo in 34 occasioni realizzando 2 reti.
+Nato a Castel d'Azzano il 24 aprile 1951 e prelevato dalla Juve Stabia nell'estate del 1973, si mise in luce già al debutto nella travagliata [[02-cronistoria/stagioni/1973-1974|Serie B 1973-1974]] (presidenza di [[01-societa/presidenti/salvatore-coco|Salvatore Coco]], chiusa con la retrocessione nonostante le conduzioni di [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]]), segnando 3 gol tra cui il successo a Catanzaro e il pari di Palermo.
+
+Esplose nella [[02-cronistoria/stagioni/1974-1975|Serie C 1974-1975]], torneo del pronto ritorno in B sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e la guida di [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] ed [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]: con 8 reti in 30 gare formò assieme al capocannoniere [[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]] e a [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]] un reparto letale, firmando tra l'altro una doppietta nel 2-0 sul Messina. Rimase un punto fermo nelle due stagioni di B seguenti e nella [[02-cronistoria/stagioni/1977-1978|Serie C 1977-1978]] (34 presenze, 4 gol, spareggio perso con la Nocerina), congedandosi con 7 gare e un gol nella [[02-cronistoria/stagioni/1978-1979|1978-1979]] di [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]].
 
 ---
 

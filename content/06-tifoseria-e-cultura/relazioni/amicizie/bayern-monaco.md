@@ -31,14 +31,15 @@ aliases:
 
 # Il Ponte con Monaco di Baviera: Rapporti con il Bayern Monaco
 
-Oltre alla celebre alleanza con i Desperados del [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]], il movimento ultras etneo ha sviluppato relazioni di stima personale e rispetto con esponenti della celebre *Südkurve* del **Bayern Monaco** (*Club Bayern München*).
+Accanto al più noto asse con i Desperados del [[06-tifoseria-e-cultura/relazioni/amicizie/borussia-dortmund|Borussia Dortmund]], la rete internazionale del tifo organizzato etneo annovera un canale di stima personale e rispetto reciproco con frange attive nella celebre *Südkurve* del **Bayern Monaco** (*FC Bayern München*). Pur trattandosi di una relazione meno istituzionalizzata rispetto ai gemellaggi tradizionali di gradinata, il ponte tra la Sicilia orientale e la capitale bavarese poggia su legami umani coltivati ben lontano dai riflettori delle competizioni europee.
 
 ---
 
 ## 1. Origini e Testimonianze
 
-- **Contatti tra Emigrati e Bavaresi:** Monaco di Baviera ospita una delle comunità siciliane e catanesi più numerose della Germania federale, elemento che ha facilitato contatti stabili tra ultras etnei residenti all'estero e militanti del tifo bavarese.
-- **Lo Striscione all'Allianz Arena (Febbraio 2017):** In occasione della morte di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], nel settore caldo della *Südkurve* di Monaco di Baviera durante una partita ufficiale di Bundesliga è comparso uno striscione ufficiale in lingua italiana recante la scritta: *"Riposa in pace Ciccio, capo degli ultrà"*, a dimostrazione della statura mitica raggiunta dal fondatore della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] anche oltre le Alpi.
+La radice concreta di questo avvicinamento risiede nella geografia sociale dell'emigrazione italiana in Germania. Monaco di Baviera ospita infatti una delle comunità siciliane e catanesi più numerose della Repubblica Federale, un tessuto vivo di lavoratori, famiglie e seconde generazioni che ha reso naturali gli scambi quotidiani tra sostenitori rossazzurri residenti all'estero e militanti della curva bavarese, favorendo conoscenze dirette e frequentazioni comuni sugli spalti.
+
+La testimonianza pubblica più significativa di questa considerazione oltre confine arrivò nel **febbraio 2017**, nei giorni immediatamente successivi alla scomparsa di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]]. Durante una gara ufficiale di Bundesliga all'Allianz Arena, nel cuore della *Südkurve* comparve uno striscione scritto interamente in lingua italiana: *"Riposa in pace Ciccio, capo degli ultrà"*. Un gesto spontaneo e solenne che certificò come la statura carismatica del fondatore della [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] fosse riconosciuta e rispettata anche al di là delle Alpi.
 
 ---
 

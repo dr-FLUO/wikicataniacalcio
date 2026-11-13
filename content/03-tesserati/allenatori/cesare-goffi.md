@@ -98,7 +98,7 @@ seasons_count: 4
   </table>
 </div>
 
-**[[03-tesserati/calciatori/archivio/a-c/cesare-goffi|Cesare Goffi]]** (Torino, Italia, 1920 – 1995) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Estremo difensore di temperamento e figura ponte della rinascita postbellica, **[[03-tesserati/calciatori/archivio/a-c/cesare-goffi|Cesare Goffi]]** (Torino, 1920 – 1995) assunse anche la guida tecnica del neonato [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nel campionato di Serie C [[02-cronistoria/stagioni/1946-1947|1946-1947]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Portiere
@@ -110,11 +110,11 @@ seasons_count: 4
 
 ## 1. Profilo Biografico e Carriera
 
-Cesare Goffi, portiere di grande temperamento formatosi nelle categorie piemontesi, subentrò a Bergia guidando il Club Calcio Catania dalla 12ª alla 22ª giornata della Serie C 1946-1947.
+Nato a Torino nel 1920 e cresciuto nelle categorie piemontesi prima del trasferimento nell'isola, [[03-tesserati/calciatori/archivio/a-c/cesare-goffi|Cesare Goffi]] legò il proprio nome alla ricostruzione del calcio catanese dopo la seconda guerra mondiale. Rimase infatti a difesa dei pali rossazzurri fino alla stagione [[02-cronistoria/stagioni/1949-1950|1949-1950]], collezionando trentuno presenze in Serie B prima di passare al Marsala nell'estate successiva.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Riuscì a condurre il neonato sodalizio a un ottimo sesto posto finale nel girone C di Lega Sud di Serie C, consolidando la matricola federale 11700 nel panorama calcistico nazionale.
+Nella prima stagione successiva alla fondazione del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] con matricola federale `11700` sotto la presidenza di [[01-societa/presidenti/santi-manganaro-passanisi|Santi Manganaro-Passanisi]], Goffi svolse la doppia funzione di portiere e allenatore subentrando a [[03-tesserati/allenatori/lorenzo-bergia|Lorenzo Bergia]] tra la dodicesima e la ventiduesima giornata della Serie C [[02-cronistoria/stagioni/1946-1947|1946-1947]], girone C di Lega Sud. In un organico che aveva in Musmeci il principale realizzatore, guidò la squadra attraverso vittorie interne nette come il 4-1 sul Termini, il 2-0 sul Drepanum e l'1-0 sulla Reggina, conducendo il giovane sodalizio etneo fino al sesto posto finale con 20 punti (7 vittorie, 6 pareggi e 7 sconfitte).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

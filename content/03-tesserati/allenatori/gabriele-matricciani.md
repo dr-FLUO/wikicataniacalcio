@@ -84,7 +84,7 @@ aliases:
   </table>
 </div>
 
-**Gabriele Matricciani** (Pescara, Italia, 1951) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2003-2004**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Nell'inedita Serie B a ventiquattro squadre della stagione [[02-cronistoria/stagioni/2003-2004|2003-2004]], **Gabriele Matricciani** (Pescara, 1951) condivise la responsabilità tecnica sulla panchina del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nell'ultimo anno della gestione di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -96,11 +96,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Gabriele Matricciani guidò il Catania in Serie B nella titanica stagione a 24 squadre 2003-2004 (46 giornate), affiancando in panchina [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]].
+Ex difensore originario di Pescara, classe 1951, Gabriele Matricciani maturò una solida esperienza tra campo e panchina prima di essere inserito nello staff tecnico rossazzurro nell'estate del 2003. Nell'organigramma ufficiale della stagione ricoprì il ruolo di allenatore della prima squadra lavorando in stretto tandem con [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]], al termine di un campionato che vide nel maggio 2004 il passaggio proprietario da Gaucci ad [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse gli etnei a un eccellente 9º posto finale con 67 punti, valorizzando giocatori come [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]], [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Luis Oliveira]] e [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]].
+Nel maratona cadetto [[02-cronistoria/stagioni/2003-2004|2003-2004]] articolato su quarantasei giornate, la coppia tecnica guidò il Catania a un brillante nono posto finale con 67 punti (18 vittorie, 13 pareggi e 15 sconfitte, con 31 punti conquistati all'andata e 36 al ritorno). Valorizzando l'estro realizzativo di [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Luis Oliveira]] — entrambi capocannonieri con tredici gol — e la solidità a centrocampo di [[03-tesserati/calciatori/storici/gennaro-delvecchio|Gennaro Delvecchio]], la squadra firmò vittorie memorabili come il 3-0 a Venezia, il 4-1 a Como, il 3-0 sul Piacenza, il 3-1 a Genova e l'1-0 interno sul Napoli.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

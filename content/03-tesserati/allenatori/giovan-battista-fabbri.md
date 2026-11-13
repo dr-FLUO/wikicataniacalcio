@@ -87,7 +87,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giovan Battista Fabbri** (San Pietro in Casale (BO), Italia, 1926 – 2015) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1983-1984**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Quando nel dicembre 1983 la Serie A sembrava ormai sfuggire dalle mani di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] invocò l'inventiva calcistica di **Giovan Battista «Gibì» Fabbri** (San Pietro in Casale, 1926 – 2015), maestro riconosciuto del gioco propositivo.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -99,11 +99,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giovan Battista «Gibì» Fabbri, celebre maestro di calcio e Seminatore d'oro (artefice del secondo posto del Vicenza di Paolo Rossi in Serie A), subentrò a Di Marzio alla 13ª giornata della Serie A 1983-1984.
+Ex centrocampista e vincitore del Seminatore d'oro dopo l'indimenticabile secondo posto conquistato in Serie A con il Lanerossi Vicenza di Paolo Rossi, Fabbri incarnava una filosofia offensiva brillante e coraggiosa. Subentrò a [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] il 15 dicembre 1983, a partire dalla 13ª giornata della massima serie [[02-cronistoria/stagioni/1983-1984|1983-1984]], trovando una squadra già scivolata all'ultimo posto dopo la sconfitta con la Fiorentina.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante la difficile situazione di classifica, cercò sempre di proporre un calcio propositivo e coraggioso sul prato del Cibali contro i mostri sacri del massimo campionato.
+In 18 panchine ufficiali fino al termine della stagione (media di 0,33 punti a gara), Gibì Fabbri tentò di scuotere il gruppo affidandosi a giocatori di qualità come [[03-tesserati/calciatori/archivio/a-c/andrea-carnevale|Andrea Carnevale]], Pedrinho e [[03-tesserati/calciatori/storici/aldo-cantarutti|Aldo Cantarutti]] (capocannoniere rossazzurro con 4 reti). Nonostante le difficoltà e la squalifica del [[04-strutture/stadio-massimino/angelo-massimino|Cibali]] dopo l'invasione di campo contro il Milan del 12 febbraio 1984 — che costrinse i rossazzurri a disputare su campo neutro le ultime cinque gare interne — il Catania strappò pareggi orgogliosi contro Inter (0-0), Milan (1-1), Lazio (1-1) e Roma (2-2), chiudendo 16º con 12 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

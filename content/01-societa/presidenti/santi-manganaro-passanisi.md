@@ -47,6 +47,12 @@ aliases:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Nella Catania che tentava di rialzarsi dalle macerie dei bombardamenti e dal caos dei tornei regionali postbellici, l'unificazione delle forze cittadine rappresentava l'unica via per restituire alla città una squadra degna della propria storia. Il 24 settembre 1946, nei locali del CONI in via Pacini, la fusione tra U.S. Catanese Elefante e Virtus Catania diede vita al [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], registrato con la celebre [[01-societa/matricola-11700|matricola 11700]]. All'interno di quel processo fondativo, Santi Manganaro Passanisi rappresentò la garanzia di solidità istituzionale e amministrativa nella delicata ripartenza dalla Serie C meridionale.
+
+Dopo un campionato di assestamento chiuso al sesto posto nel [[02-cronistoria/stagioni/1946-1947|1946-1947]], sotto la sua presidenza la società costruì nella [[02-cronistoria/stagioni/1947-1948|stagione 1947-1948]] un gruppo capace di imporsi con autorità: affidata inizialmente ad Achille Piccini e poi all'ex bandiera [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]], la formazione rossazzurra conquistò il primo posto del proprio girone con 47 punti e 21 vittorie davanti alla Reggina, spinta dalle 18 reti di Arnaldo Cadei. Sebbene la riforma federale avesse bloccato le promozioni dirette in cadetteria, quel primato garantì l'ammissione alla nuova Serie C nazionale a quattro gironi e consegnò a Giuseppe Barreca una squadra già matura per il salto in Serie B.
+
 ## Fonti e Bibliografia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010, pp. 110–120.

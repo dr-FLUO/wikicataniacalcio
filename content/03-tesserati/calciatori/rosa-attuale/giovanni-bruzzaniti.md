@@ -102,7 +102,7 @@ tm_id: 420460
   </table>
 </div>
 
-**Giovanni Bruzzaniti** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Attaccante**.
+Dribbling secco a rientrare sul destro e fiuto sottoporta, **Giovanni Bruzzaniti** (Melito di Porto Salvo, 9 settembre 2000) arricchisce dal gennaio 2026 il fronte offensivo del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] con imprevedibilità sugli esterni.
 
 ---
 
@@ -120,7 +120,9 @@ tm_id: 420460
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Melito di Porto Salvo (RC), Italia (classe 2000), **Giovanni Bruzzaniti** ha militato nelle file rossazzurre per **2 stagioni** (2025–). Punto di riferimento nello scacchiere etneo, ha totalizzato **33 presenze ufficiali** (1606' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 22 occasioni realizzando 2 reti.
+Prelevato dal Pineto nella sessione invernale della [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]] con un investimento da quattrocentomila euro sostenuto dalla proprietà di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], l'attaccante calabrese si inserì rapidamente nelle rotazioni di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e poi di [[03-tesserati/allenatori/william-viali|William Viali]]. Nel girone di ritorno e negli spareggi chiusi in semifinale raccolse **22 presenze, 877 minuti, 2 assist e 2 reti**, andando a bersaglio consecutivamente nel mese di marzo contro il Casarano al Massimino e sul campo del Latina.
+
+Con il passaggio alla guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Bruzzaniti ha guadagnato maggiore centralità nel tridente offensivo, mettendo insieme **13 apparizioni, 815 minuti, 2 assist e altri 2 gol**, firmati a Picerno e nel 2-0 interno al Sorrento. Il suo bilancio rossazzurro conta **35 partite ufficiali, 4 reti, 4 assist e 1.692 minuti**.
 
 ---
 

@@ -93,7 +93,8 @@ tm_id: 390729
   </table>
 </div>
 
-**Remo Bicchierai** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Stopper roccioso cresciuto nella scuola calcistica toscana, **Remo Bicchierai** (Firenze, 18 agosto 1938) sbarcò in Sicilia nell'estate del 1962 proveniente dall'Inter per blindare la difesa del [[01-societa/matricola-11700|Calcio Catania]] nella stagione d'oro della massima serie. Nelle cinque annate trascorse all'ombra dell'Etna collezionò **118 presenze ufficiali** (10.575 minuti), confrontandosi con i più temuti centravanti della Serie A.
 
 ---
 
@@ -114,7 +115,10 @@ tm_id: 390729
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Firenze (classe 1938), **Remo Bicchierai** ha militato nelle file rossazzurre per **5 stagioni** (1962–1967). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **118 presenze ufficiali** (10.575' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1962-1963**, disputata con 28 presenze complessive.
+
+Inserito dal commissario straordinario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] nell'organico allenato da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], esordì nella [[02-cronistoria/stagioni/1962-1963|1962-1963]] con 28 apparizioni, contribuendo all'undicesimo posto in Serie A. Nella [[02-cronistoria/stagioni/1963-1964|1963-1964]], schierato stabilmente davanti al portiere [[03-tesserati/calciatori/storici/giuseppe-vavassori|Giuseppe Vavassori]] e accanto a [[03-tesserati/calciatori/archivio/p-r/renato-rambaldelli|Renato Rambaldelli]], disputò 25 incontri nella marcia chiusa all'ottavo posto.
+
+L'apice di quel ciclo coincise con la [[02-cronistoria/stagioni/1964-1965|1964-1965]], in cui Bicchierai collezionò 28 gettoni da marcatore implacabile alle spalle del tridente [[03-tesserati/calciatori/archivio/g-l/giancarlo-danova|Danova]]-[[03-tesserati/calciatori/archivio/a-c/carlo-facchin|Facchin]]-[[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Calvanese]], bissando l'ottavo posto solitario in massima serie. Con l'esaurirsi di quella generazione nella [[02-cronistoria/stagioni/1965-1966|1965-1966]], scese in campo 25 volte nell'annata della retrocessione in cadetteria tra Di Bella e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], per poi salutare il Cibali dopo le 12 partite disputate in Serie B nella [[02-cronistoria/stagioni/1966-1967|1966-1967]] sotto la direzione di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]].
 
 ---
 

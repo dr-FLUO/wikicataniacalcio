@@ -48,6 +48,12 @@ Durante la sua gestione al vertice del CDA:
 
 ---
 
+## Profilo Storico e Gestione Societaria
+
+Chiamato alla presidenza del consiglio d'amministrazione il 19 aprile 2016 in uno dei momenti più cupi seguiti all'inchiesta su [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]] e alle dimissioni di Pulvirenti, l'avvocato Davide Franco assunse la rappresentanza legale e istituzionale del club durante gli anni conclusivi della proprietà Finaria. Operando in stretto raccordo con [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], tornato nell'estate dello stesso anno come amministratore delegato, dovette gestire una lunga fase di contenimento del debito pregresso e di ricostruzione della credibilità federale.
+
+Sul piano agonistico, dopo la sofferta salvezza con penalizzazione di dieci punti nel [[02-cronistoria/stagioni/2015-2016|2015-2016]] e gli spareggi raggiunti nel 2016-2017, la società tornò protagonista ai vertici della Serie C: nella [[02-cronistoria/stagioni/2017-2018|stagione 2017-2018]] la squadra guidata da Cristiano Lucarelli toccò quota 70 punti arrivando a un passo dalla promozione diretta e perdendo la semifinale playoff ai rigori col Siena, mentre nella [[02-cronistoria/stagioni/2018-2019|2018-2019]] raggiunse un nuovo quarto posto. Parallelamente, nell'estate del 2018, Franco guidò la linea legale contro il [[01-societa/vicende-legali/blocco-ripescaggi-2018|blocco dei ripescaggi in Serie B]] e la riduzione del torneo cadetto a diciannove squadre, prima di rassegnare le dimissioni il 18 marzo 2020 alla vigilia della cessione alla [[01-societa/epoche/2020-sigi-e-fallimento|SIGI]].
+
 ## Tappe della Presidenza Davide Franco
 
 | Stagione | Categoria | Allenatori | Risultato Sportivo |

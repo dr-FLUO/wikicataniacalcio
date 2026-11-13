@@ -107,22 +107,7 @@ tm_id: 287710
   </table>
 </div>
 
-Nato a Milano il **10 agosto 1996**, **Gabriel Lunetta** è un centrocampista esterno di grande vigore atletico, abile sia nella fase di contenimento che negli inserimenti senza palla in area avversaria.
-
----
-
-## 1. Il Percorso nei Settori Giovanili e in Serie B
-
-Formatosi nella prestigiosa cantera dell'Atalanta, Lunetta ha maturato solida esperienza tra Serie C e Serie B con le maglie di Gubbio, Reggiana, Alessandria, Crotone e Südtirol:
-* Giunto a Catania nell'estate del **2024**, si è rapidamente imposto come uno degli interpreti ideali per il modulo 3-4-2-1 prediletto dall'allenatore [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]].
-
----
-
-## 2. Il Rendimento in Maglia Rossazzurra
-
-Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenza aerobica:
-* Garantisce copertura sull'out mancino e pericolosità sui calci piazzati offensivi.
-* Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], con l'avvento in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], si conferma pendolino insostituibile sulla corsia mancina con 15 presenze ufficiali, 1 rete (nel 4-0 interno al Cosenza) e 2 assist.
+Strappo atletico, stazza da incursore e mancino potente: dal 2024 **Gabriel Lunetta** (Milano, 10 agosto 1996) ara la fascia sinistra del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] con continuità realizzativa da attaccante aggiunto.
 
 ---
 
@@ -138,6 +123,13 @@ Grazie alla notevole struttura fisica (186 cm) unita a doti di corsa e resistenz
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **78 presenze ufficiali**, disputando **4574 minuti** di gioco effettivo, siglando **16 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
+## Profilo e Carriera in Rossazzurro
+
+Cresciuto nel settore giovanile dell'Atalanta e maturato fra Serie C e Serie B con Gubbio, Reggiana, Alessandria, Crotone, Südtirol e Lecco, sbarcò in Sicilia nell'estate della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]]. Negli schemi di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] si impose subito come esterno d'attacco e tuttafascia di forte impatto, chiudendo con **25 presenze e 6 gol** — tra cui le firme pesanti nei blitz esterni dei derby a Messina (0-1) e Trapani (0-3).
+
+La consacrazione statistica arrivò nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], affrontata tra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]] sotto la presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]]: con **9 reti e 6 assist in 38 partite ufficiali** (2.209 minuti), Lunetta risultò il miglior marcatore stagionale dei rossazzurri nella corsa al secondo posto e alla semifinale playoff. Confermatosi pedina chiave sulla corsia mancina anche nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]] con [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] (**15 apparizioni**, 2 assist e il gol nel 4-0 al Cosenza), vanta un bottino complessivo di **78 presenze, 16 gol, 9 assist e 4.574 minuti**.
+
+---
 
 ## Collegamenti e Voci Correlate
 

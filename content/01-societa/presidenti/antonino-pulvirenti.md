@@ -71,6 +71,12 @@ aliases:
 
 <div class="wiki-clearfix"></div>
 
+## Profilo Storico e Gestione Societaria
+
+Nell'arco di sedici anni alla guida della Finaria, Antonino Pulvirenti ha attraversato i due poli estremi della storia moderna rossazzurra: l'apice sportivo e infrastrutturale della Serie A e il baratro giudiziario della retrocessione d'ufficio. Rilevato il club dai Gaucci nel maggio 2004 e affidata la direzione generale a [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], raggiunse la massima serie nel [[02-cronistoria/stagioni/2005-2006|2005-2006]] con i 78 punti di Pasquale Marino e inaugurò otto stagioni consecutive nell'élite nazionale. Oltre alla stabilità garantita da tecnici come Walter Zenga, Siniša Mihajlović, Diego Simeone, Vincenzo Montella e [[03-tesserati/allenatori/rolando-maran|Rolando Maran]] — fino all'ottavo posto record da 56 punti del [[02-cronistoria/stagioni/2012-2013|2012-2013]] gestito con [[01-societa/dirigenti/sergio-gasparin|Sergio Gasparin]] — l'imprenditore di Belpasso dotò la società di un patrimonio storico come [[04-strutture/centri-sportivi/torre-del-grifo|Torre del Grifo Village]], inaugurato il 18 maggio 2011.
+
+L'equilibrio del gruppo si incrinò tuttavia tra il 2012 e il 2014, sotto la pressione del crac di Wind Jet, della rottura con Lo Monaco e della retrocessione del [[02-cronistoria/stagioni/2013-2014|2013-2014]]. Il punto di non ritorno arrivò nel giugno 2015 con l'inchiesta su [[01-societa/vicende-legali/treni-del-gol-2015|I Treni del Gol]]: l'ammissione davanti ai magistrati di aver pagato cinque partite del torneo di Serie B (contro Varese, Trapani, Latina, Ternana e Livorno) costò la retrocessione in Lega Pro, cinque anni di inibizione e 300.000 euro di ammenda. Rimasta comunque proprietaria attraverso [[01-societa/presidenti/davide-franco|Davide Franco]], Finaria mantenne il controllo fino all'asta fallimentare del luglio 2020 vinta dalla [[01-societa/epoche/2020-sigi-e-fallimento|cordata SIGI]].
+
 ## Cronologia della Presidenza e Proprietà Pulvirenti (2004–2020)
 
 | Data / Stagione | Snodo Storico, Sportivo e Giudiziario | Impatto sul [[01-societa/epoche/1967-calcio-catania-spa-massimino\|Calcio Catania S.p.A.]] |

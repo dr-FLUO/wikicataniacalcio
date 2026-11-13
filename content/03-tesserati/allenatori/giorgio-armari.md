@@ -83,7 +83,7 @@ aliases:
   </table>
 </div>
 
-**Giorgio Armari** (Ferrara, Italia, 1895 – 1956) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1929-1930, 1932-1933**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+All'alba del calcio federale etneo nell'autunno del 1929, fu **Giorgio Armari** (Ferrara, 1895 – 1956) a sedere per primo sulla panchina della neonata [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]], tenendo a battesimo la prima squadra cittadina.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore ed ex Calciatore
@@ -95,11 +95,13 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Giorgio Armari è stato il primo allenatore della storia ufficiale della Società Sportiva Catania, guidando la squadra nella neonata Seconda Divisione 1929-1930 a partire dalla 4ª giornata e subentrando nuovamente nella stagione 1932-1933 in Prima Divisione al posto di [[03-tesserati/allenatori/lajos-czeizler|Lajos Czeizler]].
+Ex calciatore ferrarese formatosi nella tradizione emiliana di inizio Novecento, Armari approdò alle falde dell'Etna nel [[02-cronistoria/stagioni/1929-1930|1929-1930]] sotto la presidenza di [[01-societa/presidenti/santi-quasimodo|Santi Quasimodo]]. Subentrato alla 4ª giornata del girone A della Seconda Divisione Sud, si trovò a guidare un club pionieristico impegnato sul campo del Dopolavoro Ferroviario nell'area di [[04-strutture/campi-storici/index|Piazza Esposizione]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1929-1930 prese le redini della squadra etnea conducendola attraverso il primo campionato federale della sua storia sul campo di [[04-strutture/campi-storici/index|Piazza Esposizione]], gettando le basi della prima identità calcistica cittadina.
+In un torneo d'esordio irto di difficoltà contro avversarie ben più rodate, Armari seppe trasmettere disciplina e spirito di gruppo: dopo le pesanti sconfitte iniziali, i rossazzurri trovarono il riscatto nel girone di ritorno con i larghi successi su Puteolana (7-1) e Peloro (5-1), sorretti dai 7 gol di [[03-tesserati/calciatori/archivio/p-r/piero-blengino|Piero Blengino]], e chiusero al 9º posto con 10 punti (4 vittorie, 2 pareggi, 12 sconfitte) mantenendo la categoria.
+
+Il suo legame con Catania si rinnovò nella Prima Divisione [[02-cronistoria/stagioni/1932-1933|1932-1933]], quando il commissario [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona di Misterbianco]] lo richiamò in sostituzione di [[03-tesserati/allenatori/lajos-czeizler|Lajos Czeizler]]: alla guida di una formazione trascinata dalle 14 reti del giovane [[03-tesserati/allenatori/nicolo-nicolosi|Nicolò Nicolosi]], concluse il girone I al 4º posto con 22 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

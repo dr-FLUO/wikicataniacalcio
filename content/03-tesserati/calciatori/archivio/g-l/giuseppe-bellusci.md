@@ -107,7 +107,8 @@ tm_id: 57354
   </table>
 </div>
 
-**Giuseppe  Bellusci** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Difensore centrale prestante (185 cm) e irruento nei duelli individuali, **Giuseppe Bellusci** (Trebisacce, 21 agosto 1989) maturò interamente in Serie A con la maglia del [[01-societa/matricola-11700|Calcio Catania]] dal 2009 al 2014. Acquistato giovanissimo dall'Ascoli per tre milioni di euro, totalizzò **106 presenze ufficiali** e 2 assist nel massimo campionato italiano.
 
 ---
 
@@ -128,7 +129,10 @@ tm_id: 57354
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Trebisacce (CS), Italia nel 1989, **Giuseppe  Bellusci** ha militato nelle file rossazzurre per **5 stagioni** (2009–2014). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **106 presenze ufficiali** (8118' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **2011-2012**, disputata con 33 presenze complessive.
+
+Inserito nella rosa di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], debuttò nella [[02-cronistoria/stagioni/2009-2010|2009-2010]] con 15 presenze e un assist nel torneo iniziato da [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e raddrizzato da [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] fino al tredicesimo posto. Dopo 9 apparizioni nella [[02-cronistoria/stagioni/2010-2011|2010-2011]] divisa tra [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]], conquistò definitivamente il centro della difesa nella [[02-cronistoria/stagioni/2011-2012|2011-2012]] di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]], toccando il proprio massimo di 33 presenze (2.793 minuti) nell'undicesimo posto.
+
+Nella storica [[02-cronistoria/stagioni/2012-2013|2012-2013]] orchestrata da [[03-tesserati/allenatori/rolando-maran|Rolando Maran]], disputò 29 gare (un assist) formando con [[03-tesserati/calciatori/archivio/m-o/nicolas-spolli|Nicolás Spolli]] una coppia rocciosa protagonista del record di 56 punti e dell'ottavo posto in Serie A. Concluse il quinquennio etneo con 20 presenze nella [[02-cronistoria/stagioni/2013-2014|2013-2014]] della retrocessione tra Maran, [[03-tesserati/allenatori/luigi-de-canio|Luigi De Canio]] e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]].
 
 ---
 

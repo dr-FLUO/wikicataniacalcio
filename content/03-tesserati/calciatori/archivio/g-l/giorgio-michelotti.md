@@ -93,7 +93,8 @@ tm_id: 488212
   </table>
 </div>
 
-**Giorgio Michelotti** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Terzino destro di straordinaria continuità e poi apprezzato tecnico sulla panchina etnea, **Giorgio Michelotti** (Bengasi, 20 gennaio 1936) legò la sua intera maturità sportiva ai colori del [[01-societa/matricola-11700|Calcio Catania]]. Tra il 1959 e il 1966 totalizzò **115 presenze ufficiali** (10.350 minuti) e una rete, vivendo da titolare la stagione della promozione e gli anni luminosi della Serie A.
 
 ---
 
@@ -115,7 +116,10 @@ tm_id: 488212
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Bengasi nel 1936, il difensore **Giorgio Michelotti** ha militato nelle file rossazzurre per **6 stagioni** (1959–1966). Punto di riferimento nello scacchiere etneo, ha totalizzato **115 presenze ufficiali** (10.350' minuti effettivi) impreziosite da **1 gol**. La sua annata di maggior rendimento sul piano statistico è stata la **1959-1960**, durante la quale è sceso in campo in 37 occasioni realizzando 1 rete.
+
+Prelevato dal Como nell'estate del 1959 dal commissario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] per l'organico di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Michelotti fu subito protagonista nella [[02-cronistoria/stagioni/1959-1960|1959-1960]] con 37 partite e la sua unica rete rossazzurra, decisiva nella corsa al terzo posto in Serie B che valse il ritorno in massima serie. Nella storica [[02-cronistoria/stagioni/1960-1961|1960-1961]], chiusa all'ottavo posto e immortalata dal celebre [[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali|«Clamoroso al Cibali!»]] nel successo sull'Inter, presidiò la corsia destra per 32 gare accanto a compagni come [[03-tesserati/calciatori/archivio/g-l/giuseppe-gaspari|Giuseppe Gaspari]] e [[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador Calvanese]].
+
+Rimasto fedele alla maglia di Di Bella nei tornei di Serie A [[02-cronistoria/stagioni/1961-1962|1961-1962]] (12 gettoni) e [[02-cronistoria/stagioni/1962-1963|1962-1963]] (5 gare), ritrovò spazio rilevante nella brillante [[02-cronistoria/stagioni/1964-1965|1964-1965]] dell'ottavo posto solitario con 22 apparizioni, prima di chiudere la carriera giocata dopo le 7 presenze della [[02-cronistoria/stagioni/1965-1966|1965-1966]]. Adottato dalla città, tornò poi come [[03-tesserati/allenatori/giorgio-michelotti|allenatore del Catania]] nei primi anni Ottanta.
 
 ---
 

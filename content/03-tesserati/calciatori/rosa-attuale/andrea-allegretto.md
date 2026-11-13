@@ -102,7 +102,7 @@ tm_id: 492786
   </table>
 </div>
 
-**Andrea Allegretto** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+Centrale difensivo di stazza imponente (188 cm), **Andrea Allegretto** (Napoli, 18 febbraio 2001) difende dal 2024 i colori del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], accompagnando la crescita della retroguardia etnea in Serie C.
 
 ---
 
@@ -121,7 +121,9 @@ tm_id: 492786
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Napoli, Italia nel 2001, **Andrea Allegretto** ha militato nelle file rossazzurre per **3 stagioni** (2024–). Punto di riferimento nello scacchiere etneo, ha totalizzato **36 presenze ufficiali** (2214' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **2025-2026**, disputata con 19 presenze complessive.
+Approdato dal Picerno nell'estate della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il difensore partenopeo si inserì gradualmente nei meccanismi difensivi di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]], raccogliendo **11 presenze e 488 minuti** nell'annata del ritorno ai playoff nazionali. La maturazione tattica e la pulizia negli anticipi emersero con maggiore continuità nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], quando l'undici rossazzurro, guidato prima da Toscano e poi da [[03-tesserati/allenatori/william-viali|William Viali]], conquistò il secondo posto in classifica con la migliore difesa del girone C e raggiunse la semifinale playoff: in quel percorso Allegretto mise insieme **19 gettoni e 1.255 minuti**.
+
+Nell'avvio della [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], sotto la conduzione tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] e la presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il centrale napoletano ha consolidato il proprio minutaggio trovando anche il primo sigillo personale in rossazzurro, decisivo al 96' sul campo del Potenza alla 10ª giornata. Il suo ruolino etneo tocca così **37 presenze ufficiali, 1 gol e 2.304 minuti**.
 
 ---
 

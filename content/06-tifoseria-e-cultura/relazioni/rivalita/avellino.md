@@ -39,30 +39,25 @@ aliases:
 
 # Rivalità Catania-Avellino (Tensioni Storiche del Meridione)
 
-La rivalità tra **Catania** e **Avellino** è una delle più radicate e vibranti del calcio del Mezzogiorno, alimentata da decenni di sfide decisive nei campionati di Serie B e C, dove le due tifoserie hanno sempre incarnato l'orgoglio popolare e l'ostinazione di due piazze caldissime.
+Quella tra **Catania** e **Avellino** è una delle rivalità più radicate, longeve e ad alta tensione del calcio meridionale. Alimentata da oltre quarant'anni di sfide pesanti tra Serie B e Serie C, la contrapposizione ha messo di fronte due piazze accomunate dal temperamento sanguigno ma divise da un antagonismo intransigente, tanto sul rettangolo verde quanto sugli spalti.
 
 ---
 
 ## 1. Genesi Negli Anni Ottanta e la Polarizzazione Campana
 
-Le prime frizioni tra le tifoserie risalgono alla prima metà degli anni Ottanta:
-- La complessa rete delle alleanze del tifo campano e il saldo gemellaggio che unisce i rossazzurri ad altre realtà del Sud hanno polarizzato l'antagonismo verso la tifoseria irpina.
-- Lo Stadio Partenio di Avellino e lo Stadio Cibali di Catania sono stati teatro di accoglienze incandescenti, con assedi ai pullman della squadra e delle carovane dei tifosi ospiti lungo i raccordi autostradali.
+Le prime frizioni significative tra le due tifoserie affondano nella prima metà degli anni Ottanta, quando il fitto mosaico delle alleanze campane e i solidi gemellaggi coltivati dai rossazzurri in altre province del Sud polarizzarono l'ostilità nei confronti della curva irpina. Fin da quelle stagioni, lo Stadio Partenio di Avellino e lo Stadio Cibali di Catania divennero scenari di accoglienze incandescenti, scandite da assedi ai pullman delle squadre e da scorte forzate per le carovane ospiti lungo i raccordi autostradali.
 
 ---
 
 ## 2. Gli Scontri al Partenio e al Cibali negli Anni Novanta e Duemila
 
-Tra gli anni Novanta e i primi anni Duemila:
-- La sfida assunse caratteri di aperto scontro ultras, con contatti fisici registrati nelle vie limitrofe a piazza Libertà ad Avellino e in via Cibele a Catania.
-- Nel 2005 e successivamente nei durissimi playoff di Serie C degli anni Duemilaventi, gli incontri hanno visto il coinvolgimento massiccio delle forze dell'ordine con lancio di lacrimogeni, fitto lancio di petardi e cariche di contenimento all'uscita dei varchi di sicurezza.
+Tra gli anni Novanta e i primi anni Duemila l'attrito assunse i contorni dello scontro ultras aperto, con contatti fisici documentati nelle strade limitrofe a piazza Libertà ad Avellino e in via Cibele a Catania. Tanto nel 2005 quanto nei tiratissimi incroci play-off di Serie C degli anni Duemilaventi — fino al doppio confronto della primavera [[02-cronistoria/stagioni/2023-2024|2023-2024]] —, le partite hanno richiesto imponenti cordoni delle forze dell'ordine tra fitti lanci di petardi, lacrimogeni e cariche di contenimento all'esterno dei varchi di sicurezza.
 
 ---
 
 ## 3. Clima Recente e Divieti di Trasferta
 
-L'intensità dell'ostilità non si è affievolita con il passare delle generazioni:
-- Ogni incrocio tra etnei e biancoverdi continua a essere monitorato con estrema attenzione dalle autorità di pubblica sicurezza, traducendosi regolarmente in divieti di trasferta per i residenti nella provincia avversaria o in stringenti limitazioni all'accesso per prevenire contatti su strada.
+Il ricambio generazionale non ha attenuato la carica conflittuale della sfida. Ogni incrocio in calendario tra etnei e biancoverdi continua a essere classificato ad alto rischio dalle autorità di pubblica sicurezza, traducendosi con regolarità in divieti di trasferta per i residenti nella provincia avversaria o in rigide limitazioni all'accesso per scongiurare contatti lungo le direttrici stradali.
 
 ---
 

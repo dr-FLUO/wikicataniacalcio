@@ -107,7 +107,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Cristiano Lucarelli** (Livorno, Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2017-2018, 2019-2020, 2023-2024**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]), [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] (2023-Oggi).
+Tra gli allenatori della storia recente rossazzurra, nessuno ha attraversato tante stagioni di passione e snodi societari quanto **Cristiano Lucarelli** (Livorno, 1975), tre volte al timone tra [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]) e [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centravanti
@@ -119,11 +119,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Cristiano Lucarelli, leggendario bomber di Livorno, Shakhtar Donetsk, Parma e della Nazionale italiana, è uno degli allenatori più amati e significativi della storia recente etnea, protagonista in tre differenti cicli (2017-2018, 2019-2020 e 2023-2024).
+Centravanti iconico di Livorno, Shakhtar Donetsk, Parma e Nazionale, Lucarelli portò in panchina temperamento sanguigno e immediata empatia con l'ambiente. Arrivò a Catania nel luglio 2017 sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], aprendo un percorso articolato in tre mandati fino al 2024, con 91 panchine ufficiali e una media di 1,71 punti a partita.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 2017-2018 condusse il Catania a 70 punti al secondo posto sfiorando la Serie B nella drammatica semifinale play-off ai rigori col Siena; nel 2023-2024 ha condotto la squadra fino alla finale di Coppa Italia Serie C, poi sollevata al cielo dal Massimino.
+Nella Serie C [[02-cronistoria/stagioni/2017-2018|2017-2018]] (43 gare, media 1,88), guidò una squadra imperniata su [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] e [[03-tesserati/calciatori/archivio/d-f/davis-curiale|Davis Curiale]] (15 gol) al 2º posto con 70 punti, arrendendosi ai rigori in semifinale play-off contro il Siena. Richiamato il 22 ottobre [[02-cronistoria/stagioni/2019-2020|2019-2020]] dopo [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]] (27 panchine, media 1,70), chiuse al 6º posto (45 punti con due di penalizzazione) nell'annata interrotta dal COVID-19, uscendo poi agli spareggi con la Ternana.
+
+Nel novembre [[02-cronistoria/stagioni/2023-2024|2023-2024]], la gestione di [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] lo richiamò fino al 7 marzo 2024 (21 partite, media 1,38): pur tra le difficoltà del campionato (13º posto finale a 45 punti), portò i rossazzurri in finale di Coppa Italia Serie C eliminando il Rimini al [[04-strutture/stadio-massimino/angelo-massimino|Massimino]], prima che [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]] alzasse il trofeo contro il Padova.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

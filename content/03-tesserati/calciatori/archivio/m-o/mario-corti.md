@@ -94,7 +94,7 @@ tm_id: 494003
   </table>
 </div>
 
-**Mario Corti** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Per sette campionati, dal 1957 al 1964, **Mario Corti** garantì equilibrio tattico e temperamento alla mediana del [[01-societa/matricola-11700|Calcio Catania]], chiudendo la propria traiettoria etnea con **190 presenze ufficiali**, **2 reti** e **17.100 minuti** giocati.
 
 ---
 
@@ -117,7 +117,9 @@ tm_id: 494003
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Genova (classe 1931), **Mario Corti** ha militato nelle file rossazzurre per **7 stagioni** (1957–1964). Punto di riferimento nello scacchiere etneo, ha totalizzato **190 presenze ufficiali** (17.100' minuti effettivi) impreziosite da **2 reti**. La sua annata con il minutaggio più elevato è stata la **1959-1960**, disputata con 34 presenze complessive.
+Mediano ligure nato a Genova il 16 novembre 1931 e ingaggiato dal Monza nell'estate del 1957, esordì nella [[02-cronistoria/stagioni/1957-1958|Serie B 1957-1958]] durante la presidenza di [[01-societa/presidenti/agatino-pesce|Agatino Pesce]], andando subito a segno all'89' nel 2-2 sul campo del Cagliari. Dopo la sofferta permanenza tra i cadetti della [[02-cronistoria/stagioni/1958-1959|1958-1959]], vissuta tra il cambio societario che portò alla guida [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e l'arrivo in panchina di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Corti divenne uno degli ingranaggi fissi dell'epoca d'oro rossazzurra.
+
+Nel [[02-cronistoria/stagioni/1959-1960|1959-1960]] disputò 34 partite contribuendo alla promozione in massima serie, confermandosi poi pilastro della squadra nei quattro campionati successivi in Serie A. Nella storica [[02-cronistoria/stagioni/1960-1961|1960-1961]], chiusa all'ottavo posto, scese in campo 30 volte con una rete all'attivo e figurò nell'undici titolare del [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|2-0 sull'Inter]] passato alla storia come «Clamoroso al Cibali!», formando il filtro di centrocampo davanti a [[03-tesserati/calciatori/archivio/d-f/elio-grani|Elio Grani]] e dietro [[03-tesserati/calciatori/archivio/a-c/alvaro-biagini|Alvaro Biagini]]. Seguirono altri due tornei da titolare fino alle ultime 13 apparizioni del [[02-cronistoria/stagioni/1963-1964|1963-1964]].
 
 ---
 

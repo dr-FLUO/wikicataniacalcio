@@ -100,7 +100,7 @@ tm_id: 21887
   </table>
 </div>
 
-**Giovanni  Marchese** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Tre diversi capitoli sportivi nell'arco di quindici anni legano **Giovanni Marchese** ai colori del [[01-societa/matricola-11700|Calcio Catania]]: **176 presenze ufficiali**, **7 reti** e **14 assist** tra Serie A, Serie B e Serie C.
 
 ---
 
@@ -125,7 +125,9 @@ tm_id: 21887
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore classe 1984, **Giovanni  Marchese** ha militato nelle file rossazzurre per **9 stagioni** (2005–2020). Punto di riferimento nello scacchiere etneo, ha totalizzato **176 presenze ufficiali** (13.958' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2017-2018**, durante la quale è sceso in campo in 36 occasioni realizzando 1 rete.
+Terzino sinistro di spinta e piede educato, nato nel 1984, arrivò una prima volta in prestito dal Chievo nella [[02-cronistoria/stagioni/2005-2006|Serie B 2005-2006]], disputando 14 partite nella squadra di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] e del presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] che centrò la promozione in Serie A. Tornò a titolo definitivo nell'estate del 2009, attraversando prima la salvezza del [[02-cronistoria/stagioni/2009-2010|2009-2010]] e poi il ciclo culminato nello storico [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0|4-0 nel derby col Palermo]] di [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]] nel [[02-cronistoria/stagioni/2010-2011|2010-2011]].
+
+Nel [[02-cronistoria/stagioni/2011-2012|2011-2012]] di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] firmò 3 reti (contro Napoli, Novara e Roma) in 33 gare, ripetendosi nella [[02-cronistoria/stagioni/2012-2013|stagione dei 56 punti]] con [[03-tesserati/allenatori/rolando-maran|Rolando Maran]] (32 presenze, 2 gol all'Olimpico con la Roma e contro l'Inter). Richiamato da svincolato nel gennaio 2017 durante la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], aggiunse esperienza alle campagne di terza serie fino al 2020: raggiunse i play-off nella [[02-cronistoria/stagioni/2016-2017|2016-2017]] e toccò le 36 presenze con 5 assist nella [[02-cronistoria/stagioni/2017-2018|2017-2018]] diretta da [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]], prima dei tornei [[02-cronistoria/stagioni/2018-2019|2018-2019]] e [[02-cronistoria/stagioni/2019-2020|2019-2020]].
 
 ---
 

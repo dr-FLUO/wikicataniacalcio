@@ -80,7 +80,7 @@ aliases:
   </table>
 </div>
 
-**Lorenzo Bergia** (Cuneo, Italia, 1908 – 1974) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1946-1947**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+**Lorenzo Bergia** (Cuneo, Italia, 1908 – 1974) è l'uomo che guida dalla panchina il primo vagito agonistico del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nell'autunno **1946-1947**, sancendo la ripartenza calcistica della città dopo la pausa bellica.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -92,11 +92,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Lorenzo Bergia fu il primissimo allenatore del Club Calcio Catania fondato il 24 settembre 1946 (matricola FIGC 11700), guidando la squadra nelle prime 11 giornate di Serie C 1946-1947.
+Nato a Cuneo nel 1908, **Lorenzo Bergia** era già entrato nel cuore della tifoseria etnea negli anni Trenta come generoso centravanti della [[01-societa/epoche/1929-ss-catania|SS Catania]], subendo anche una grave frattura della tibia nella trasferta di Messina dell'ottobre 1931. Profondo conoscitore dell'ambiente siciliano, al termine della Seconda guerra mondiale accetta di mettere la propria esperienza al servizio della rinascita del calcio catanese, raccolta attorno al neonato club costituito il **24 settembre 1946** con matricola FIGC **11700** sotto la presidenza di Santi Manganaro-Passanisi, affiancato dal vicepresidente Angelo Vasta e dal presidente onorario Vespasiano Trigona.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Già centravanti di spicco della [[01-societa/epoche/1929-ss-catania|SS Catania]] negli anni Trenta, mise la sua profonda conoscenza della piazza al servizio della rinascita sportiva etnea post-bellica.
+Nel campionato di [[02-cronistoria/stagioni/1946-1947|Serie C Sud 1946-1947]] (girone C), Bergia è il primissimo allenatore della nuova società rossazzurra, dirigendo la squadra nelle **prime 11 giornate** del torneo. In una fase pionieristica segnata dalla ricostruzione dell'organico e delle infrastrutture sportive cittadine, getta le basi atletiche e disciplinari di un gruppo che annovera tra i suoi protagonisti offensivi il capocannoniere Musmeci (5 reti). Avvicendato poi a stagione in corso da Cesare Goffi, lascia in eredità un'ossatura ordinata con cui il Catania chiuderà la stagione al **6º posto** con **20 punti** in 20 partite giocate.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

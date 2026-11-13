@@ -38,15 +38,15 @@ aliases:
 
 # Amicizia Internazionale Catania-Borussia Dortmund e Polonia Bytom
 
-La proiezione europea del movimento ultras catanese si esprime attraverso due consolidati rapporti di **amicizia e fratellanza internazionale** sviluppatisi a partire dagli anni Duemiladieci: il celebre asse con la *Südtribüne* del **Borussia Dortmund** (in particolare con il gruppo guida **Desperados 1999** e con **The Unity**) e il legame della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] con la tifoseria polacca del **Polonia Bytom**.
+La proiezione europea del movimento ultras catanese trova la sua espressione più emblematica in due rapporti di **amicizia e fratellanza internazionale** consolidatisi a partire dagli anni Duemiladieci: da un lato il celebre asse con la *Südtribüne* del **Borussia Dortmund** — segnatamente con il gruppo guida **Desperados 1999** e con **The Unity** — e dall'altro il legame maturato dalla [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] con la tifoseria polacca del **Polonia Bytom**. Due ponti costruiti sulla condivisione di un codice di curva rigoroso, indipendente da classifiche e categorie.
 
 ---
 
 ## 1. Diplomazia Ultras con il "Muro Giallo"
 
-Nonostante il Catania non abbia mai incrociato il Borussia Dortmund in gare ufficiali UEFA, la stima nata durante raduni internazionali e la mediazione dell'asse con [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]] hanno cementato un'amicizia indissolubile con il leggendario *Muro Giallo* del Westfalenstadion:
-- Decine di viaggi reciproci hanno visto drappi e sciarpe rossazzurre campeggiare in Bundesliga e in Champions League a Dortmund, così come striscioni gialloneri dei Desperados sono stati esposti al Massimino sia in [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] che in Curva Sud.
-- Nel febbraio 2017, la Südtribüne di Dortmund ha onorato la memoria di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]] con cori e striscioni in italiano, confermando l'universalità della figura del leader etneo.
+Sebbene il Catania non abbia mai incrociato il Borussia Dortmund in competizioni ufficiali UEFA, la stima nata in occasione di raduni europei e favorita dalla triangolazione con gli ultras di [[06-tifoseria-e-cultura/relazioni/amicizie/napoli|Napoli]] ha trasformato l'intesa iniziale in un'amicizia solida con il leggendario *Muro Giallo* del Westfalenstadion. A rendere vivo il patto sono stati decine di viaggi reciproci: drappi e sciarpe rossazzurre hanno più volte fatto capolino sulle balconate di Dortmund tra Bundesliga e Champions League, mentre gli stendardi gialloneri dei Desperados sono stati accolti sugli spalti del Massimino sia in [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] sia in Curva Sud.
+
+Il momento di maggiore intensità emotiva si consumò nel febbraio 2017, alla morte di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]]. Oltre a onorarne la figura sulla *Südtribüne* con cori e striscioni in italiano, una delegazione ufficiale dei *Desperados 1999* raggiunse la Sicilia per partecipare alle [[06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017|esequie al Massimino]], suggellando davanti all'intero panorama ultras europeo il rispetto tributato al fondatore del tifo organizzato etneo.
 
 ---
 

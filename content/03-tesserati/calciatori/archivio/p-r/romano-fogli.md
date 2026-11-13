@@ -94,7 +94,7 @@ tm_id: 235932
   </table>
 </div>
 
-**Romano Fogli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Campione d'Europa con il Milan e nazionale azzurro, **Romano Fogli** chiuse la propria parabola ad alto livello difendendo per quattro stagioni i colori del [[01-societa/matricola-11700|Calcio Catania]], dal 1970 al 1974, con **128 presenze ufficiali** e **5 reti**.
 
 ---
 
@@ -114,7 +114,9 @@ tm_id: 235932
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Santa Maria a Monte nel 1938, **Romano Fogli** ha militato nelle file rossazzurre per **4 stagioni** (1970–1974). Punto di riferimento nello scacchiere etneo, ha totalizzato **128 presenze ufficiali** (11.364' minuti effettivi) impreziosite da **5 reti**. La sua annata con il minutaggio più elevato è stata la **1972-1973**, disputata con 38 presenze complessive.
+Mediano toscano di grande eleganza geometrica, nato a Santa Maria a Monte il 21 gennaio 1938, approdò alle falde dell'Etna trentaduenne nell'estate del 1970 su iniziativa del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] per guidare il centrocampo nella [[02-cronistoria/stagioni/1970-1971|Serie A 1970-1971]] affidata a [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]]. Nonostante la retrocessione, Fogli mise in campo carisma ed esperienza in 29 gare impreziosite da 2 gol e restò a Catania anche dopo il declassamento.
+
+Nella [[02-cronistoria/stagioni/1971-1972|Serie B 1971-1972]], condotta prima da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]] e poi da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], offrì 34 presenze e 3 reti andando a segno contro Monza (due volte, di cui una dal dischetto) e Novara. Raggiunse il massimo impiego con 38 partite e 3.403 minuti nel quinto posto della [[02-cronistoria/stagioni/1972-1973|1972-1973]], congedandosi infine dopo 27 gare nella sfortunata [[02-cronistoria/stagioni/1973-1974|1973-1974]] sotto la presidenza di [[01-societa/presidenti/salvatore-coco|Salvatore Coco]].
 
 ---
 

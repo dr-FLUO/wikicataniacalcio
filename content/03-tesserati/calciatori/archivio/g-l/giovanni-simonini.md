@@ -93,7 +93,8 @@ tm_id: 492334
   </table>
 </div>
 
-**Giovanni Simonini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Laterale destro di grande resistenza atletica e applicazione difensiva, **Giovanni Simonini** (Castelvetro di Modena, 18 aprile 1949) difese la fascia del [[01-societa/matricola-11700|Calcio Catania]] per quattro campionati consecutivi tra il 1972 e il 1976. Nelle **113 presenze ufficiali** (9.775 minuti) messe a referto in rossazzurro trovò anche una rete decisiva nell'anno della risalita in cadetteria.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 492334
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Castelvetro di Modena (classe 1949), **Giovanni Simonini** ha militato nelle file rossazzurre per **4 stagioni** (1972–1976). Punto di riferimento nello scacchiere etneo, ha totalizzato **113 presenze ufficiali** (9775' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **1972-1973**, disputata con 40 presenze complessive.
+
+Prelevato dal Modena nell'estate del 1972 dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] per l'undici di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Simonini si guadagnò subito la titolarità nella [[02-cronistoria/stagioni/1972-1973|1972-1973]], collezionando 40 presenze (3.600 minuti) nel torneo di Serie B chiuso al quinto posto. Rimase a presidiare la corsia anche nella complessa [[02-cronistoria/stagioni/1973-1974|1973-1974]] gestita dal presidente [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] (25 apparizioni tra le panchine di [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]]), culminata nella retrocessione in Serie C.
+
+Nel campionato [[02-cronistoria/stagioni/1974-1975|1974-1975]], segnato dal ritorno di Massimino e dal trionfo di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], contribuì con 24 presenze al primo posto nel girone C, realizzando al Cibali il gol partita nell'1-0 sul Sorrento del novembre 1974. Chiuse l'esperienza etnea con altre 24 gare in Serie B nella [[02-cronistoria/stagioni/1975-1976|1975-1976]], garantendo equilibrio accanto a compagni come [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] nella salvezza raggiunta sotto la guida di Rubino e Mazzetti.
 
 ---
 

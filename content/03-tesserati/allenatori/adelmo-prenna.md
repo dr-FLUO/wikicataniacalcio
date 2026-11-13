@@ -97,7 +97,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**[[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]]** (Roma, Italia, 1930 – 2008) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1973-1974**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Dopo aver scritto pagine memorabili in campo con la maglia rossazzurra, **[[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]]** (1930 – 2008) tornò al servizio del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel finale drammatico della Serie B [[02-cronistoria/stagioni/1973-1974|1973-1974]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -109,11 +109,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Adelmo Prenna, mitico cannoniere rossazzurro autore di 48 reti tra Serie A e Serie B negli anni Cinquanta e Sessanta, allenò il Catania nelle ultime 11 giornate della Serie B 1973-1974.
+Prima di sedere sulla panchina etnea, [[03-tesserati/calciatori/storici/adelmo-prenna|Adelmo Prenna]] fu uno dei grandi protagonisti offensivi del Catania tra la fine degli anni Cinquanta e i primi anni Sessanta. In sei stagioni dal 1958 al 1964 disputò 148 partite ufficiali (di cui 93 in Serie A) con 45 reti registrate negli archivi statistici e 48 complessive secondo le ricostruzioni storiografiche, contribuendo da attaccante di riferimento ai successi dell'era di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] sotto le presidenze di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e [[01-societa/presidenti/agatino-pesce|Agatino Pesce]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Prese in mano la compagine etnea in un momento di estrema criticità societaria, guidandola con passione e dedizione sul rettangolo verde.
+Richiamato nella primavera del 1974 durante l'unica stagione alla guida del club di [[01-societa/presidenti/salvatore-coco|Salvatore Coco]], assunse la direzione tecnica per le ultime undici giornate della Serie B [[02-cronistoria/stagioni/1973-1974|1973-1974]], rilevando una squadra già allenata da [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Il debutto del 7 aprile 1974 contro il Novara (0-2) fu segnato da una grave intemperanza del pubblico che costò tre turni di squalifica al Cibali, costringendo i rossazzurri a giocare in campo neutro a Palermo e Reggio Calabria. Nonostante il successo interno sull'Avellino (1-0) e i pareggi contro Ascoli e Palermo, il Catania di [[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]] non riuscì a evitare il ventesimo posto con 26 punti e la retrocessione in Serie C.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

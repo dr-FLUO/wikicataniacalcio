@@ -94,7 +94,8 @@ tm_id: 20738
   </table>
 </div>
 
-**Gennaro Iezzo** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+
+Estremo difensore reattivo e dotato di forte personalità nel guidare il reparto arretrato, **Gennaro Iezzo** (Castellammare di Stabia, 8 giugno 1973) difese la porta del [[01-societa/matricola-11700|Calcio Catania]] per **108 partite ufficiali** tra il 1999 e il 2003. Le sue parate scandirono la transizione dalla Serie C1 al ritorno nella serie cadetta dopo quindici anni.
 
 ---
 
@@ -114,7 +115,10 @@ tm_id: 20738
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Castellammare di Stabia (classe 1973), **Gennaro Iezzo** ha militato nelle file rossazzurre per **4 stagioni** (1999–2003). A guardia dei pali etnei ha collezionato **108 presenze ufficiali** (9581' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **2001-2002**, disputata con 37 presenze complessive.
+
+Arrivato dal Verona nell'estate del 1999 sotto la presidenza di [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]], esordì nella [[02-cronistoria/stagioni/1999-2000|1999-2000]] allenata da [[03-tesserati/allenatori/gianni-simonelli|Gianni Simonelli]] con 27 presenze nel settimo posto di Serie C1. Confermato nella [[02-cronistoria/stagioni/2000-2001|2000-2001]] che inaugurò la gestione di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], scese in campo 25 volte agli ordini di [[03-tesserati/allenatori/ivo-iaconi|Ivo Iaconi]] e [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], arrendendosi solo alla doppia finale play-off contro il Messina.
+
+La consacrazione maturò nella storica [[02-cronistoria/stagioni/2001-2002|2001-2002]]: con 37 apparizioni (3.261 minuti) tra le panchine di [[03-tesserati/allenatori/aldo-ammazzalorso|Aldo Ammazzalorso]], [[03-tesserati/allenatori/pietro-vierchowod|Pietro Vierchowod]] e [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]], blindò la porta nei play-off vinti contro Pescara e nello [[02-cronistoria/partite-storiche/2001-2002/spareggio-taranto-catania-0-0|spareggio di Taranto]] che valse la Serie B. Nella convulsa [[02-cronistoria/stagioni/2002-2003|2002-2003]] tra i cadetti, segnata dai cambi tra [[03-tesserati/allenatori/edoardo-reja|Edoardo Reja]], [[03-tesserati/allenatori/john-toshack|John Toshack]], [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]] e Guerini, collezionò le ultime 19 gare in rossazzurro.
 
 ---
 

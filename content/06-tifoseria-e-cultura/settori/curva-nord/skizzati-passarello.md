@@ -38,22 +38,19 @@ aliases:
 
 # Skizzati Passarello (Curva Nord)
 
-Gli **Skizzati Passarello** costituiscono una delle espressioni più autentiche dell'intreccio tra identità rionale e tifo di curva all'interno della **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino. Radicati nel rione del **Passarello** — area popolare di cerniera tra i quartieri di Picanello, Ognina e il centro storico cittadino —, gli Skizzati hanno saputo mantenere una forte impronta identitaria fin dalla loro nascita nel 2004.
+Nato nel 2004 nel rione popolare del **Passarello** — crocevia urbano incastonato tra Picanello, Ognina e il centro storico cittadino —, il gruppo degli **Skizzati Passarello** incarna la saldatura diretta tra vita di quartiere e militanza nella **[[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]]** del Massimino. Fin dalle origini, l'aggregazione ha trasferito sui gradoni dello stadio i legami spontanei maturati tra i vicoli e le piazze della zona nord-orientale di Catania.
 
 ---
 
 ## 1. Militanza e Ruolo in Curva Nord
 
-- **Radicamento Territoriale:** Come molti altri clan rionali della Nord, l'aggregazione nasce dalla quotidianità dei vicoli del quartiere, dove l'appartenenza al rione si traduce direttamente in compattezza sui gradoni dello stadio.
-- **Ruolo nella Frattura del 2015:** Assieme ad *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]* e *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]*, gli Skizzati Passarello sono stati tra i firmatari dei comunicati di rifiuto della Tessera del Tifoso nel 2015, rivendicando con orgoglio la scelta di restare coerenti con il codice non scritto della tradizione ultras.
+Come per gli altri clan territoriali della Nord, la forza degli Skizzati poggia sulla quotidianità rionale: amicizie cresciute in strada che si trasformano la domenica in presenza compatta dietro il proprio striscione. Questa coerenza si è manifestata con chiarezza nello snodo cruciale del 2015, quando il gruppo — affiancandosi ad *[[06-tifoseria-e-cultura/settori/curva-nord/a-sostegno-di-una-fede|A Sostegno di una Fede]]* e *[[06-tifoseria-e-cultura/settori/curva-nord/nord-kaos|Nord Kaos]]* — sottoscrisse i comunicati di rifiuto della Tessera del Tifoso, rivendicando l'adesione al codice non scritto della tradizione ultras anche a costo di pesanti rinunce lontano da casa.
 
 ---
 
 ## 2. Il Presidio Rionale nella Stagione 2026
 
-All'interno della **stagione calcistica 2026**, il gruppo mantiene una collocazione stabile nel cuore della Curva Nord:
-- Rappresenta una sentinella generazionale tra i vicoli del Passarello e la gradinata, aggregando nuove leve attorno ai principi della lealtà verso la maglia rossazzurra e del presenzialismo al Cibali.
-- Partecipa alle iniziative solidali di quartiere promosse dalla Curva Nord e cura il materiale visivo con caratteri che richiamano l'identità marinara e rionale della zona nord-orientale di Catania.
+All'interno della **stagione calcistica 2026**, gli Skizzati Passarello conservano una collocazione stabile nel cuore della Curva Nord. Il gruppo continua a rappresentare un presidio generazionale tra il quartiere e lo stadio, raccogliendo nuove leve attorno alla fedeltà per la maglia rossazzurra, sostenendo le iniziative sociali di quartiere promosse dal settore e curando un corredo visivo dai tratti grafici legati all'identità marinara e popolare del Passarello.
 
 ---
 

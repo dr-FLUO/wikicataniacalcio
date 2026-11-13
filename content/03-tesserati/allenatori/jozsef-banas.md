@@ -91,7 +91,7 @@ aliases:
   </table>
 </div>
 
-**József Bánás** (Cifer, Impero Austro-Ungarico, 1894 – 1973) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1948-1949**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Dopo nove anni di assenza dalla cadetteria, il ritorno in Serie B del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] reca l'impronta tecnica di **József Bánás** (Cifer, Impero Austro-Ungarico, 1894 – 1973), maestro magiaro chiamato in corsa nella stagione [[02-cronistoria/stagioni/1948-1949|1948-1949]] per dare ordine e ambizioni a una squadra rinnovata.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Mediano
@@ -103,11 +103,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-József Bánás fu l'artefice principale della storica promozione del Catania in Serie B nella stagione 1948-1949. Subentrato alla 9ª giornata a [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]], guidò gli etnei a una travolgente rimonta conclusa con la vittoria dello spareggio promozione contro l'Avellino all'Arena Civica di Milano (1-0).
+Mediano del Milan negli anni Venti e tecnico di lunga esperienza sulle panchine italiane, Bánás rappresentava un profilo solido della scuola danubiana. La dirigenza presieduta dall'ingegnere Giuseppe Barreca — nell'anno della concessione comunale dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] — lo scelse alla 9ª giornata di Serie C al posto di [[03-tesserati/allenatori/giovanni-degni|Giovanni Degni]], affidandogli un organico rafforzato da [[03-tesserati/calciatori/archivio/a-c/amedeo-rega|Amedeo Rega]], [[03-tesserati/calciatori/archivio/m-o/nicola-fusco|Nicola Fusco]] e [[03-tesserati/calciatori/archivio/m-o/michele-andreolo|Michele Andreolo]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Ex colonna del Milan negli anni Venti, applicò a Catania un gioco spumeggiante ed efficace valorizzando talenti come Porcelli, Prevosti e Cadei e regalando alla città la prima promozione cadetta del dopoguerra.
+Sotto la sua guida i rossazzurri trovarono equilibrio e continuità, valorizzando i gol di [[03-tesserati/calciatori/archivio/g-l/giovanni-prevosti|Giovanni Prevosti]], Perrone e [[03-tesserati/calciatori/archivio/a-c/arnaldo-cadei|Arnaldo Cadei]] fino a chiudere le 34 giornate in vetta al girone D con 45 punti (16 vittorie, 13 pareggi, 5 sconfitte; 48 reti fatte e 27 subite) a pari merito con l'Avellino. Perso 1-0 lo spareggio di Milano del 29 giugno 1949, il Catania ottenne comunque primo posto e promozione in Serie B dopo la retrocessione d'ufficio degli irpini per illecito sportivo.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

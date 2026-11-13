@@ -36,27 +36,19 @@ aliases:
 
 # Alberto Cigalini: Il Corriere dello Sport, La Conduzione di Corner e l'Analisi Tattica
 
-Giornalista professionista e conduttore televisivo, **Alberto Cigalini** costituisce uno dei volti e delle firme più autorevoli e poliedriche dell'informazione calcistica catanese degli ultimi quindici anni.
-
-Attivo contemporaneamente sulla carta stampata nazionale e regionale e negli studi televisivi, Cigalini unisce il rigore cronachistico del corrispondente di un grande quotidiano sportivo alla fluidità e alla capacità di sintesi del conduttore televisivo da studio.
+Tra i giornalisti professionisti più versatili della scena sportiva etnea contemporanea, **Alberto Cigalini** ha saputo attraversare negli ultimi quindici anni tanto le redazioni della carta stampata quanto gli studi televisivi regionali. La sua cifra professionale nasce dall'incontro tra la precisione cronachistica dell'inviato di un grande quotidiano sportivo nazionale e la padronanza dei tempi televisivi propria del conduttore di dibattito.
 
 ---
 
 ## 1. La Presenza sulla Carta Stampata: *Corriere dello Sport* e *La Sicilia*
 
-Cigalini ha presidiato la piazza calcistica etnea per conto di due testate di primaria importanza:
-* **Corriere dello Sport - Stadio**: Storico corrispondente da Catania, ha curato la copertura capillare degli anni della Serie A, dei ritiri precampionato, delle sessioni milanesi di calciomercato e delle vicissitudini legate alla Serie C e alla Serie D.
-* **[[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]]**: Collaboratore delle pagine sportive, si è distinto per i corsivi d'analisi, le pagelle analitiche del lunedì e le inchieste sulle rose avversarie.
+Nel lavoro quotidiano su carta, Cigalini ha seguito da vicino le vicende rossazzurre per due testate centrali nel racconto calcistico cittadino. Come corrispondente da Catania del *Corriere dello Sport - Stadio*, ha firmato la copertura capillare delle stagioni di Serie A, dei ritiri estivi, delle trattative di calciomercato negli alberghi milanesi e dei difficili campionati di Serie C e Serie D. Parallelamente, sulle colonne sportive de [[07-media-e-comunicazione/testate/la-sicilia|La Sicilia]], si è distinto per i corsivi d'analisi, le pagelle ragionate del lunedì e gli approfondimenti dedicati all'assetto tecnico delle squadre avversarie.
 
 ---
 
 ## 2. Il Ruolo Televisivo a Telecolor e Globus Television
 
-Sul versante audiovisivo, Cigalini si è affermato come il conduttore di riferimento dei format sportivi di ***Telecolor*** e della piattaforma digitale *Siciliaweb*:
-
-* **La Conduzione di "Corner" e "Diretta Stadio"**: Ha guidato con ritmo e precisione i dibattiti del talk show del lunedì, orchestrando il confronto tra opinionisti, calciatori, ex glorie rossazzurre e collegamenti esterni.
-* **Sport Sicilia su Globus TV**: Ha ideato e condotto trasmissioni d'approfondimento sul circuito regionale di *Globus Television* (canale 15 DTT), valorizzando anche le discipline sportive etnee extra-calcistiche.
-* Nel corso della stagione 2026/2027, la sua conduzione dei pre e post-partita delle gare del [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] garantisce al pubblico un commento tattico equilibrato e profondo.
+Sul fronte audiovisivo, Cigalini è divenuto uno dei volti di riferimento dell'offerta sportiva di [[07-media-e-comunicazione/testate/telecolor|Telecolor]] e dell'ecosistema digitale *Siciliaweb*. Alla guida di *[[07-media-e-comunicazione/cinema-e-tv/corner|Corner]]* nel lunedì sera e di *[[07-media-e-comunicazione/cinema-e-tv/diretta-stadio|Diretta Stadio]]* la domenica pomeriggio, ha orchestrato con ritmo ed equilibrio il confronto in studio tra opinionisti, ex calciatori rossazzurri e inviati dai campi. Ha inoltre ideato e condotto *Sport Sicilia* su *Globus Television* (canale 15 DTT), dando spazio anche alle discipline etnee extra-calcistiche, mentre nella stagione 2026/2027 continua a guidare i pre e post-partita dedicati al [[01-societa/epoche/2022-pelligra-catania-fc|Catania FC]] con una lettura tattica misurata e puntuale.
 
 ---
 

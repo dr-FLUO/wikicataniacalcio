@@ -102,7 +102,7 @@ tm_id: 177188
   </table>
 </div>
 
-**Matteo Di Gennaro** è un calciatore del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], nel ruolo di **Difensore**.
+Guida tattica del pacchetto arretrato dall'alto dei suoi 191 centimetri, **Matteo Di Gennaro** (Sant'Elpidio a Mare, 2 giugno 1994) comanda dal 2024 la difesa del [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]].
 
 ---
 
@@ -121,7 +121,9 @@ tm_id: 177188
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Sant'Elpidio a Mare (FM), Italia nel 1994, il difensore **Matteo Di Gennaro** ha militato nelle file rossazzurre per **3 stagioni** (2024–). Punto di riferimento nello scacchiere etneo, ha totalizzato **56 presenze ufficiali** (4943' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2024-2025**, durante la quale è sceso in campo in 28 occasioni realizzando 2 reti.
+Prelevato dalla Carrarese per sessantamila euro nell'estate della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il centrale marchigiano portò carisma e senso della posizione nella linea a tre disegnata da [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]]. La sua prima annata alle pendici dell'Etna fu quella di più intenso impiego, con **28 presenze integrali o quasi (2.550 minuti)**, 2 assist e **2 gol** pesanti: uno nella sfida esterna di Foggia e l'altro nel successo di ritorno a Pescara durante i playoff nazionali.
+
+Confermato cardine difensivo nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], vissuta tra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]] sotto la presidenza di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], mise a referto **21 apparizioni (1.837 minuti)** e altri 2 sigilli al Massimino contro Team Altamura e Cavese nel cammino verso il secondo posto e la semifinale playoff. Nell'avvio della [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], guidato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], ha aggiunto **9 gare e 736 minuti**, raggiungendo complessivamente **58 presenze, 4 gol, 3 assist e 5.123 minuti**.
 
 ---
 

@@ -34,23 +34,19 @@ aliases:
 
 # Onda d'Urto Curva Sud (1982)
 
-**Onda d'Urto** è stata una delle prime formazioni organizzate del tifo rossazzurro a stabilirsi in modo permanente nei gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], fondata nell'autunno del **1982** nel corso dell'entusiasmante cavalcata agonistica che condusse il Catania di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] alla storica promozione in Serie A.
+Nell'autunno del **1982**, mentre la squadra di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] accendeva l'entusiasmo della città verso il ritorno in massima serie, sui gradoni della [[06-tifoseria-e-cultura/settori/curva-sud/index|Curva Sud]] dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] prese vita **Onda d'Urto**, tra le primissime sigle organizzate ad occupare stabilmente il settore meridionale. La sua apparizione segnò il passaggio dal tifo spontaneo di gradinata a una presenza strutturata e riconoscibile.
 
 ---
 
 ## 1. Il Contesto di Nascita e la Collocazione
 
-All'inizio degli anni Ottanta, mentre la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] era già solidamente presidiata dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] fondata da [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], il settore meridionale dello stadio etneo viveva una fase di fermento spontaneo:
-- Accanto ai pionieri dei [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], un collettivo di giovani provenienti dai quartieri popolari a sud della città (Zia Lisa, San Cristoforo, Angeli Custodi) decise di dotarsi di uno striscione dal forte impatto visivo ed emotivo: nacque così l'insegna *Onda d'Urto*.
-- Il gruppo occupò stabilmente i gradoni inferiori e centrali della Sud, caratterizzandosi per l'impiego massiccio di torce navali, tamburi a percussione pesante e bandiere a scacchi rossazzurri cucite artigianalmente.
+All'inizio degli anni Ottanta, mentre la [[06-tifoseria-e-cultura/settori/curva-nord/index|Curva Nord]] era già guidata dalla [[06-tifoseria-e-cultura/settori/curva-sud/falange-d-assalto|Falange d'Assalto]] di [[06-tifoseria-e-cultura/biografie/ciccio-famoso|Ciccio Famoso]], la Curva Sud attraversava una stagione di vivace fermento. Accanto ai pionieri dei [[06-tifoseria-e-cultura/settori/curva-sud/catania-raiders|Catania Raiders]], un collettivo di giovani cresciuti nei quartieri popolari meridionali — da Zia Lisa a San Cristoforo fino agli Angeli Custodi — scelse di raccogliersi dietro lo striscione *Onda d'Urto*, posizionandosi stabilmente nei gradoni inferiori e centrali della Sud tra torce navali, tamburi a percussione pesante e bandiere a scacchi rossazzurri cucite a mano.
 
 ---
 
 ## 2. L'Epopea del 1983 e lo Stile d'Urto
 
-Durante la stagione [[02-cronistoria/stagioni/1982-1983|1982-1983]] e la successiva annata in massima serie [[02-cronistoria/stagioni/1983-1984|1983-1984]]:
-- I militanti di Onda d'Urto furono protagonisti attivi dell'[[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|Esodo di Roma del 1983]], partecipando con propri striscioni e stendardi ai quarantamila cuori rossazzurri che invasero lo Stadio Olimpico per gli spareggi contro Como e Cremonese.
-- L'esperienza di Onda d'Urto introdusse in Curva Sud uno stile ribelle, tipico della prima generazione ultras italiana, gettando le fondamenta per la successiva fioritura delle sigle rionali e per l'approdo, quasi un decennio dopo, degli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]].
+Il battesimo del fuoco coincise con la memorabile annata [[02-cronistoria/stagioni/1982-1983|1982-1983]] e con la successiva stagione in Serie A [[02-cronistoria/stagioni/1983-1984|1983-1984]]. I militanti di Onda d'Urto presero parte con i propri stendardi all'[[06-tifoseria-e-cultura/eventi-e-giustizia/esodo-roma-1983|Esodo di Roma del 1983]], mescolandosi ai quarantamila catanesi che gremirono l'Olimpico negli spareggi contro Como e Cremonese. Con il suo stile ruvido e ribelle, tipico della prima generazione ultras italiana, il gruppo gettò le basi per la fioritura rionale della Sud e per la successiva nascita degli [[06-tifoseria-e-cultura/settori/curva-sud/irriducibili-1991|Irriducibili]].
 
 ---
 

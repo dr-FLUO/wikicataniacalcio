@@ -84,7 +84,7 @@ aliases:
   </table>
 </div>
 
-**Franco Vannini** (San Giovanni Valdarno (AR), Italia, 1947) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1991-1992**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Simbolo da calciatore del Perugia imbattuto in Serie A nel [[02-cronistoria/stagioni/1978-1979|1978-1979]], **Franco Vannini** (San Giovanni Valdarno, 1947) visse una breve ma intensa parentesi sulla panchina del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] all'alba della Serie C1 [[02-cronistoria/stagioni/1991-1992|1991-1992]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Mezzala
@@ -96,11 +96,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Franco Vannini, soprannominato "Il Condor" e leggendaria mezzala del Perugia dei miracoli imbattuto nel [[02-cronistoria/stagioni/1978-1979|1978-1979]], guidò il Catania per l'intero campionato di Serie C1 1991-1992.
+Nato a San Giovanni Valdarno nel 1947 e soprannominato «Il Condor», Franco Vannini legò il proprio nome da mezzala di qualità soprattutto all'epopea del Perugia dei miracoli, capace di chiudere senza sconfitte il torneo di massima serie [[02-cronistoria/stagioni/1978-1979|1978-1979]]. Intrapresa la carriera da allenatore, fu chiamato dalla dirigenza etnea sul finire dell'estate 1991 per prendere in mano la squadra in una fase di avvio già segnata da tensione tecnica.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Condusse i rossazzurri a un onorevole sesto posto finale con 34 punti, proponendo un calcio lineare e moderno.
+Vannini subentrò infatti a [[03-tesserati/allenatori/giuseppe-caramanno|Giuseppe Caramanno]] nel corso del girone eliminatorio di Coppa Italia Serie C, completando la competizione con una formazione ampiamente infarcita di elementi della Berretti (sconfitte con Leonzio, Licata e Giarre). Nelle prime cinque giornate del girone B di Serie C1 [[02-cronistoria/stagioni/1991-1992|1991-1992]], ottenne 4 punti frutto del successo esterno per 2-0 a Licata (doppietta di [[03-tesserati/calciatori/archivio/d-f/fabrizio-cipriani|Fabrizio Cipriani]]), dei pareggi interni contro Sambenedettese e Siracusa e delle sconfitte esterne a Barletta e Nola. Dopo la quinta giornata la società optò per il richiamo immediato di Caramanno, che condusse poi la squadra al sesto posto con 34 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

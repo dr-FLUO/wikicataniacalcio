@@ -90,7 +90,7 @@ citizenship: Regno d'Italia
   </table>
 </div>
 
-**Giovanni Degni** (Roma, Italia, 1900 – 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1937-1939, 1948-1949**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943), [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+A cavallo tra l'AFC Catania ([[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]]) e la rinascita postbellica del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]], **Giovanni Degni** (Roma, 1900 – 1975) seppe unire due epoche della panchina etnea nel segno della promozione in Serie B.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -102,11 +102,13 @@ citizenship: Regno d'Italia
 
 ## 1. Profilo Biografico e Carriera
 
-Giovanni Degni, storico centromediano della Roma e della Nazionale italiana, ha guidato il Catania in due cicli distinti: negli anni Trenta con l'AFC Catania (vincendo il girone E di Serie C nel 1938-1939 con promozione in Serie B) e nel dopoguerra con il neonato Club Calcio Catania nel 1948-1949.
+Già centromediano della Roma e della Nazionale italiana, Degni portò in Sicilia esperienza tattica e rigore da regista arretrato. Arrivato nel [[02-cronistoria/stagioni/1937-1938|1937-1938]] sotto la presidenza di [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca]], rilevò [[03-tesserati/allenatori/pietro-colombati|Pietro Colombati]] dopo le prime otto giornate nell'anno che segnò il debutto del nuovo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]], conducendo i rossazzurri al 4º posto in Serie C con 31 punti (Ravizzoli 11 reti).
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1938-1939 conquistò una trionfale promozione in Serie B vincendo il girone e le finali cadette; tornò nel 1948 alla guida degli etnei nelle prime 8 giornate della trionfale cavalcata verso la Serie B.
+Confermato per il [[02-cronistoria/stagioni/1938-1939|1938-1939]], Degni firmò il trionfo più limpido della sua gestione: dominato il girone H di Serie C con 36 punti davanti a Siracusa e Messina (16 vittorie, 4 pareggi, 2 sconfitte; Bellini capocannoniere con 12 reti), vinse anche il girone finale B con 7 punti, riportando Catania in Serie B insieme al Molinella.
+
+Nel dopoguerra, sotto la presidenza dell'ingegner Giuseppe Barreca, tornò al timone all'inizio della Serie C [[02-cronistoria/stagioni/1948-1949|1948-1949]] per le prime otto giornate prima di cedere la guida a [[03-tesserati/allenatori/jozsef-banas|József Bánás]], avviando la stagione poi coronata dal ritorno tra i cadetti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

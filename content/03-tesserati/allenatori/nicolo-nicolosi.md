@@ -105,7 +105,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 *Ritratto ufficiale di Nicolò Nicolosi — Licenza: Pubblico Dominio (Scadenza termini d'autore) — Crediti: Wikimedia Commons Contributors*
 
-**Nicolò Nicolosi** (Lercara Friddi (PA), Italia, 1912 – 1986) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1947-1948, 1957-1958**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+Prima ancora che la panchina ne chiamasse l'esperienza nei momenti di bisogno, **Nicolò Nicolosi** (Lercara Friddi, 1912 – 1986) aveva già scritto la storia del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] a suon di gol: con 78 reti ufficiali è il secondo miglior marcatore di sempre del club etneo, prima di guidare la prima squadra nelle stagioni [[02-cronistoria/stagioni/1947-1948|1947-1948]] e [[02-cronistoria/stagioni/1957-1958|1957-1958]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -117,11 +117,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Nicolò Nicolosi, soprannominato leggendariamente "Segnapiano" per la puntualità implacabile nel trafiggere i portieri avversari, è il secondo miglior marcatore della storia del Catania con 78 reti. Concluse la carriera agonistica diventando allenatore degli etnei nel 1947-1948 e nuovamente nel 1957-1958.
+Palermitano cresciuto calcisticamente tra Libia e Lazio e sbarcato a Catania appena diciannovenne nel 1932, Nicolosi — soprannominato «Segnapiano» per la freddezza implacabile sotto porta — divenne il simbolo offensivo della squadra prebellica e del primo dopoguerra. Appese le scarpette al chiodo proprio a ridosso della rifondazione societaria, mise il proprio carisma al servizio dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] anche nelle vesti di tecnico.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1947-1948 subentrò a Piccini vincendo il girone T di Serie C con 47 punti e sfiorando la promozione nelle finali; tornò poi in Serie B nel 1957-1958 per guidare la squadra nelle gare contro Triestina e Marzotto.
+Nella Serie C [[02-cronistoria/stagioni/1947-1948|1947-1948]], sotto la presidenza di [[01-societa/presidenti/santi-manganaro-passanisi|Santi Manganaro-Passanisi]], subentrò ad [[03-tesserati/allenatori/achille-piccini|Achille Piccini]] guidando il gruppo alla vittoria del girone T con 47 punti (21 vittorie, 5 pareggi e 5 sconfitte; 18 centri di [[03-tesserati/calciatori/archivio/a-c/arnaldo-cadei|Arnaldo Cadei]]), centrando l'ammissione alla nuova Serie C nazionale in un torneo senza promozioni dirette. Dieci anni più tardi, nella difficile Serie B [[02-cronistoria/stagioni/1957-1958|1957-1958]] presieduta da [[01-societa/presidenti/agatino-pesce|Agatino Pesce]], tornò temporaneamente in panchina tra il 5 e il 12 gennaio 1958 dopo [[03-tesserati/allenatori/gipo-poggi|Gipo Poggi]] e [[03-tesserati/allenatori/riccardo-carapellese|Riccardo Carapellese]], dirigendo le due trasferte di Lecco (1-1) e Novara (0-3) prima dell'arrivo di [[03-tesserati/allenatori/francesco-capocasale|Francesco Capocasale]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -101,9 +101,14 @@ tags:
   </table>
 </div>
 
-**Amedeo Biavati** (Bologna, 4 aprile 1915 – Bologna, 22 aprile 1979) è stato uno dei più grandi attaccanti della storia del calcio italiano, Campione del Mondo con l'Italia nel 1938 e celebre pioniere del *passo doppio*.
 
-Giunse a Catania nel 1935 in prestito dal Bologna per disputare due memorabili campionati di Serie B, collezionando 35 presenze e 6 reti con la maglia dell'[[01-societa/epoche/1929-ss-catania|S.S. Catania]] prima di tornare in Emilia e laurearsi campione del mondo agli ordini del C.T. Vittorio Pozzo.
+Ala destra bolognese destinata alla leggenda azzurra, **Amedeo Biavati** (Bologna, 4 aprile 1915 – Bologna, 22 aprile 1979) vestì la maglia dell'[[01-societa/epoche/1929-ss-catania|S.S. Catania]] tra il 1935 e il 1937, portando in Sicilia l'estro del *passo doppio* prima di consacrarsi Campione del Mondo nel 1938 con Vittorio Pozzo.
+
+## Profilo e Carriera in Rossazzurro
+
+Arrivato alle pendici dell'Etna in prestito dal Bologna nell'estate del 1935, il ventenne attaccante esterno trovò sul polveroso rettangolo del Campo dei cent'anni di piazza Verga la vetrina ideale per affinare dribbling, accelerazione sul breve e cambio di passo. Nel campionato di Serie B [[02-cronistoria/stagioni/1935-1936|1935-1936]], il primo tornato a girone unico, il tecnico ungherese [[03-tesserati/allenatori/geza-kertesz|Géza Kertész]] lo inserì nel fronte offensivo accanto al prolifico [[03-tesserati/calciatori/storici/nicolo-nicolosi|Nicolò Nicolosi]]: sotto la presidenza di [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona di Misterbianco]], i rossazzurri chiusero all'ottavo posto con 33 punti e raggiunsero gli ottavi di Coppa Italia dopo il successo interno sul Palermo.
+
+Confermato anche nella travagliata annata [[02-cronistoria/stagioni/1936-1937|1936-1937]], guidata dal presidente [[01-societa/presidenti/vittorio-emanuele-brusca|Vittorio Emanuele Brusca]] e dall'allenatore [[03-tesserati/allenatori/pietro-colombati|Pietro Colombati]], Biavati condivise il cammino fino ai quarti di finale di Coppa Italia — impreziosito dalle vittorie su Fiorentina e Sampierdarenese — e la drammatica coda estiva degli spareggi salvezza contro Messina, Pro Vercelli e Venezia, conclusa con la retrocessione in Serie C. Il bilancio complessivo in Sicilia toccò le **35 presenze e 6 reti**, preludio al rientro in Emilia e al trionfo iridato di Parigi.
 
 ## Collegamenti Correlati
 * [[02-cronistoria/stagioni/1935-1936|Stagione 1935-1936]]

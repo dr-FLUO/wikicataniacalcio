@@ -100,7 +100,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Gianluca Atzori** (Collepardo (FR), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2009-2010**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+Scelto nell'estate del 2009 per raccogliere la pesante eredità di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]], **Gianluca Atzori** (Collepardo, 1971) aprì la stagione di Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]] sulla panchina del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] durante l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -112,11 +112,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Gianluca Atzori guidò il Catania nelle prime 15 giornate del campionato di Serie A 2009-2010, dopo la brillante salvezza ottenuta a Ravenna in Serie C1.
+Ex difensore laziale nato a Collepardo nel 1971, Gianluca Atzori approdò nella massima serie dopo essersi messo in luce sulla panchina del Ravenna, guidato a una brillante salvezza in Serie C1. Il 10 giugno 2009 la società di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] gli affidò la guida tecnica della formazione etnea, puntando su un allenatore giovane e ambizioso per proseguire il ciclo nella massima categoria.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante le difficoltà di punteggio, curò l'inserimento in squadra di pedine fondamentali prima del subentro di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]].
+Tra Coppa Italia e prime quindici giornate della Serie A [[02-cronistoria/stagioni/2009-2010|2009-2010]], Atzori sedette in panchina per sedici incontri ufficiali. Nonostante alcune prestazioni coraggiose — tra cui la vittoria interna sul Cagliari per 2-1 e i pareggi contro Lazio, Roma, Napoli e nel derby esterno di Palermo (1-1) — la squadra faticò a trovare continuità di risultati, raccogliendo appena nove punti in campionato (una vittoria, sei pareggi e otto sconfitte) e scivolando all'ultimo posto. L'8 dicembre 2009 venne sollevato dall'incarico in favore di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], che condusse poi i rossazzurri fino al record di 45 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

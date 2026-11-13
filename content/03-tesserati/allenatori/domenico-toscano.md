@@ -102,7 +102,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Domenico Toscano** (Cardeto (RC), Italia, 1971) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2024-2026**, legando il proprio nome alla storia societaria di [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]] (2023-Oggi).
+Nell'estate del 2024, per imprimere una svolta vincente al progetto di [[01-societa/epoche/2022-pelligra-catania-fc|Catania Football Club]], il presidente [[01-societa/presidenti/ross-pelligra|Rosario Pelligra]] affidò la panchina a **Domenico Toscano** (Cardeto, 1971), il tecnico più titolato della Serie C moderna.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -114,11 +114,13 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Domenico «Mimmo» Toscano, detto "Il Cannibale" per aver conquistato quattro campionati di Serie C con Cosenza, Ternana, Novara e Reggina prima del trionfo con il Cesena, è stato ingaggiato da Rosario Pelligra nell'estate 2024 per guidare il Catania nel vertice della Serie C.
+Ex centrocampista calabrese, Domenico «Mimmo» Toscano si era guadagnato il soprannome di «Cannibale» con cinque promozioni dalla terza serie (Cosenza, Ternana, Novara, Reggina e Cesena, quest'ultima a 96 punti nel 2023-2024). Ufficializzato il 18 giugno 2024 con il ds [[01-societa/dirigenti/daniele-faggiano|Daniele Faggiano]], impose un gioco verticale e intenso.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 2024-2025 ha condotto la squadra a 64 punti fino ai play-off nazionali; confermato nel [[02-cronistoria/stagioni/2025-2026|2025-2026]] ha guidato la squadra a un sontuoso 2º posto a 75 punti qualificandosi alla semifinale dei play-off.
+Nella Serie C [[02-cronistoria/stagioni/2024-2025|2024-2025]], tra numerosi infortuni e un punto di penalizzazione, chiuse 5º a quota 53 punti (14 vittorie, 12 pareggi, 8 sconfitte; [[03-tesserati/calciatori/archivio/g-l/roberto-inglese|Roberto Inglese]] 11 gol), eliminando Giugliano e Potenza prima dello stop con il Pescara ai play-off nazionali.
+
+Confermato nel [[02-cronistoria/stagioni/2025-2026|2025-2026]], davanti ai 12.080 abbonati dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]], firmò goleade su Foggia (6-0) e Monopoli (4-0). Esonerato il 16 marzo 2026 a favore di [[03-tesserati/allenatori/william-viali|William Viali]] (74 panchine, media 1,76 nel primo ciclo), fu richiamato il 15 aprile chiudendo 2º con 70 punti ([[03-tesserati/calciatori/rosa-attuale/gabriel-lunetta|Gabriel Lunetta]] 9 reti), fino alla semifinale play-off persa con l'Ascoli dopo aver superato il Lecco (80 gare totali, media 1,72).
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

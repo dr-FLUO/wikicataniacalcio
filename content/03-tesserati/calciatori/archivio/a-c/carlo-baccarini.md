@@ -93,7 +93,8 @@ tm_id: 369418
   </table>
 </div>
 
-**Carlo Baccarini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Difensore di solida tempra e spiccato senso della posizione, **Carlo Baccarini** (Hayange, 11 novembre 1924) accompagnò l'ascesa del [[01-societa/matricola-11700|Calcio Catania]] dalla serie cadetta fino al debutto assoluto in massima serie, accumulando **123 apparizioni ufficiali** tra il 1950 e il 1955. Ingaggiato dalla Reggiana, si impose come interprete affidabile di una retroguardia capace di reggere l'urto dei campionati nazionali del dopoguerra.
 
 ---
 
@@ -114,7 +115,10 @@ tm_id: 369418
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Hayange (classe 1924), **Carlo Baccarini** ha militato nelle file rossazzurre per **5 stagioni** (1950–1955). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **123 presenze ufficiali** (11.070' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1951-1952**, disputata con 38 presenze complessive.
+
+Sotto la presidenza di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] e la guida tecnica di [[03-tesserati/allenatori/lajos-politzer|Lajos Politzer]], il terzino esordì nella [[02-cronistoria/stagioni/1950-1951|1950-1951]] con 19 gare in Serie B. L'anno successivo, la [[02-cronistoria/stagioni/1951-1952|1951-1952]], divenne un perno inamovibile della linea arretrata voluta dal nuovo presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], disputando tutte le 38 partite in calendario (3.420 minuti) tra i cambi in panchina di [[03-tesserati/allenatori/nereo-marini|Nereo Marini]], [[03-tesserati/allenatori/rodolfo-brondi|Rodolfo Brondi]] e [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]].
+
+Nella [[02-cronistoria/stagioni/1952-1953|1952-1953]] sfiorò il salto di categoria con 32 gettoni sotto la gestione di [[03-tesserati/allenatori/giulio-cappelli|Giulio Cappelli]] e Baldi, arrendendosi solo allo spareggio di Firenze contro il Legnano. Il riscatto arrivò nella trionfale [[02-cronistoria/stagioni/1953-1954|1953-1954]]: con altre 32 presenze, Baccarini blindò la difesa davanti al portiere [[03-tesserati/calciatori/archivio/a-c/antonio-seveso|Antonio Seveso]], contribuendo al primo posto finale e alla storica promozione in Serie A orchestrata da [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]]. Chiuse il ciclo etneo nella [[02-cronistoria/stagioni/1954-1955|1954-1955]] con le ultime 2 presenze nel massimo campionato, annata conclusa con la salvezza sul campo poi vanificata dal [[01-societa/vicende-legali/caso-scaramella-1955|Caso Scaramella]].
 
 ---
 

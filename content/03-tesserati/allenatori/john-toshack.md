@@ -93,7 +93,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**John Toshack** (Cardiff, Galles (Regno Unito), 1949) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2002-2003**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Gestione Gaucci).
+Tra i colpi a effetto di [[01-societa/presidenti/luciano-gaucci|Luciano]] e [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]] nel [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], l'ingaggio di **John Toshack** (Cardiff, 1949) resta un episodio unico per blasone internazionale: nel novembre [[02-cronistoria/stagioni/2002-2003|2002-2003]] il tecnico gallese accettò la panchina etnea in Serie B.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Attaccante
@@ -105,11 +105,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-John Benjamin Toshack, fuoriclasse del Liverpool e leggendario allenatore di Real Madrid, Real Sociedad e Sporting Lisbona, visse una clamorosa e discussa esperienza sulla panchina del Catania in Serie B 2002-2003 su chiamata di Luciano Gaucci.
+Centravanti iconico del Liverpool negli anni Settanta e allenatore vincente in Spagna con Real Sociedad e Real Madrid (campione nella Liga 1989-1990), Toshack fu chiamato dalla [[01-societa/epoche/2000-era-gaucci|Gestione Gaucci]] il 9 novembre 2002 per dare stabilità al Catania neopromosso in cadetteria, subentrando alla coppia formata da [[03-tesserati/allenatori/francesco-graziani|Francesco Graziani]] e [[03-tesserati/allenatori/maurizio-pellegrino|Maurizio Pellegrino]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-La sua presenza al Cibali rappresentò un unicum di visibilità internazionale nella turbolenta stagione cadetta 2002-2003 che avrebbe poi originato il famoso Caso Catania.
+La parentesi etnea durò dieci gare ufficiali fino al 28 gennaio 2003 (11ª-20ª giornata), chiudendosi con 4 vittorie e 6 sconfitte (12 punti, media 1,20). Spiccò su tutte la vittoria nel derby del 18 novembre 2002 allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] contro il Palermo (2-0 firmato da Cordone e dal bomber stagionale [[03-tesserati/calciatori/archivio/g-l/luis-oliveira|Luís Oliveira]], autore di 13 reti), seguita dai successi interni su Bari (1-0), Ternana (3-1) e Cagliari (2-1). Le difficoltà esterne portarono al ritorno di [[03-tesserati/allenatori/vincenzo-guerini|Vincenzo Guerini]], prima dell'epilogo estivo del [[01-societa/vicende-legali/caso-martinelli-2003|Caso Martinelli]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

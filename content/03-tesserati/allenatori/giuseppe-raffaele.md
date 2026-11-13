@@ -96,7 +96,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Giuseppe Raffaele** (Barcellona Pozzo di Gotto (ME), Italia, 1975) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2020-2021**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2020-sigi-e-fallimento|Gestione SIGI]]).
+**Giuseppe Raffaele** (Barcellona Pozzo di Gotto (ME), Italia, 1975) è l'allenatore chiamato a inaugurare sul campo il nuovo corso di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione **2020-2021**, la prima della [[01-societa/epoche/2020-sigi-e-fallimento|Gestione SIGI]] all'indomani dell'asta fallimentare di luglio.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -108,11 +108,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Giuseppe Raffaele fu il primo allenatore della rinascita societaria sotto la proprietà della SIGI S.p.A., guidando il Catania per 31 giornate nella Serie C 2020-2021.
+Nato a Barcellona Pozzo di Gotto nel 1975, **Giuseppe Raffaele** si afferma nei campionati del Mezzogiorno come tecnico pragmatico e preparato, capace di coniugare intensità atletica e organizzazione tattica tra Serie D e Serie C. Dopo essersi messo in luce sulle panchine di diverse piazze siciliane e meridionali, nell'estate 2020 approda alle falde dell'Etna in uno dei frangenti societari più complessi del dopoguerra: il salvataggio del club attraverso la cordata SIGI S.p.A. guidata dall'amministratore unico Nicola Le Mura e dal direttore Maurizio Pellegrino, nel pieno delle restrizioni sanitarie legate alla pandemia di COVID-19.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante le pesanti sanzioni e la pandemia di COVID-19, tenne la squadra stabilmente nelle prime posizioni della classifica prima del passaggio di consegne a [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]].
+Nominato il **14 agosto 2020**, Raffaele guida i rossazzurri dalla 1ª alla 31ª giornata del girone C di [[02-cronistoria/stagioni/2020-2021|Serie C 2020-2021]], totalizzando **30 panchine ufficiali** tra campionato (29 gare disputate, al netto di turni di riposo ed esclusioni dal girone) e Coppa Italia (sconfitta per **1-2** contro il Notaresco), con una media di **1,50 punti a partita**. Costretto a disputare le prime gare casalinghe allo stadio Angelino Nobile di Lentini e a fronteggiare una penalizzazione iniziale ridotta in seguito a **-2 punti**, plasma una squadra compatta attorno al capocannoniere Manuel Sarao (8 reti), cogliendo una lunga serie di vittorie esterne e il pareggio per **1-1** nel derby di Palermo del **9 novembre 2020**. Rimane stabilmente in zona play-off fino all'esonero del **18 marzo 2021**, cedendo il testimone a [[03-tesserati/allenatori/francesco-baldini|Francesco Baldini]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

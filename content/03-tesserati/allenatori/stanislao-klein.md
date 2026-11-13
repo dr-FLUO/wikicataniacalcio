@@ -89,7 +89,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Stanislao Klein** (Ungheria) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1949-1950**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967).
+**Stanislao Klein** (Ungheria) prosegue la grande tradizione dei maestri danubiani approdando alla guida del [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] nella stagione **1949-1950**, nel campionato di ritorno tra i cadetti.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -101,11 +101,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Stanislao Klein subentrò alla 16ª giornata della Serie B 1949-1950, conducendo il Catania a un memorabile campionato concluso a quota 40 punti al 12º posto, sfiorando per lunghi tratti la zona promozione in massima divisione.
+Formatosi nella scuola calcistica centroeuropea, l'allenatore ungherese **Stanislao Klein** porta a Catania rigore metodico, cura del palleggio e pragmatismo tattico. Nella seconda metà degli anni Quaranta, dopo la riconquista della Serie B al termine di una lunga battaglia sportiva, la dirigenza etnea presieduta da Lorenzo Fazio individua nel tecnico magiaro l'uomo giusto per dare continuità e mentalità vincente a una formazione neopromossa alle prese con un torneo cadetto selettivo e logorante, segnato dalla presenza di cinque retrocessioni.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Allenatore rigoroso e pragmatico di origine magiara, seppe esaltare la vena realizzativa della coppia d'attacco etnea e dare continuità di rendimento alla squadra.
+Subentrato a Mario Magnozzi alla **16ª giornata** della [[02-cronistoria/stagioni/1949-1950|Serie B 1949-1950]], Klein bagna il proprio esordio al Cibali il **18 dicembre 1949** con l'**1-0** sulla Salernitana. Da quel momento imprime un ritmo travolgente tra le mura amiche – spiccando i larghi successi per **5-0** sul Fanfulla e per **3-0** contro Alessandria e Modena – che spinge lungamente i rossazzurri a ridosso delle posizioni di vertice occupate da Napoli e Udinese. Esaltando il fiuto del gol di Serafino Romani (capocannoniere con 11 reti), guida il Catania a una salvezza serena al **12º posto con 40 punti** in 42 partite.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

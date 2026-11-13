@@ -99,7 +99,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Guido Mazzetti** (Bologna, Italia, 1916 – 1997) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1973-1974, 1975-1976, 1977-1978, 1980-1981, 1985-1986**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Pochi allenatori hanno incarnato la continuità della panchina rossazzurra quanto **Guido Mazzetti** (Bologna, 1916 – 1997), «Il Sor Guido». Richiamato in cinque stagioni tra il 1973 e il 1986 sotto le presidenze di [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] e [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], legò il proprio pragmatismo al [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], totalizzando 77 presenze ufficiali certificate nei tre cicli principali.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -111,11 +111,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Guido Mazzetti, detto "Il Sor Guido", è una figura leggendaria del calcio italiano e uno degli allenatori più ricorrenti e amati dell'era di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], chiamato alla guida tecnica in cinque differenti occasioni.
+Ex centrocampista bolognese di lungo corso, Mazzetti debuttò a Catania nella travagliata Serie B [[02-cronistoria/stagioni/1973-1974|1973-1974]] durante la breve presidenza di Salvatore Coco: pur valorizzando [[03-tesserati/calciatori/archivio/g-l/giampietro-spagnolo|Giampietro Spagnolo]] (10 reti), lasciò dopo la 22ª giornata a [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]] in un torneo chiuso all'ultimo posto.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nel 1977-1978 subentrò a Matteucci portando la squadra allo spareggio promozione di Catanzaro contro la Nocerina; nel 1980-1981 rilevò De Petrillo conducendo gli etnei a una tranquilla salvezza in Serie B.
+Con il ritorno di Massimino, Mazzetti divenne il tecnico d'emergenza per eccellenza. Nel marzo [[02-cronistoria/stagioni/1975-1976|1975-1976]] rilevò [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] dalla 26ª giornata, conducendo gli etnei alla salvezza in Serie B (16º posto a 35 punti, 11 gol di [[03-tesserati/calciatori/storici/claudio-ciceri|Claudio Ciceri]]). In Serie C [[02-cronistoria/stagioni/1977-1978|1977-1978]] subentrò ad aprile a [[03-tesserati/allenatori/carlo-matteucci|Carlo Matteucci]], raggiungendo lo spareggio promozione di Catanzaro perso 2-1 contro la Nocerina il 18 giugno 1978. Nell'autunno [[02-cronistoria/stagioni/1980-1981|1980-1981]] sostituì [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]], portando il gruppo al 13º posto cadetto (35 punti, capocannoniere [[03-tesserati/calciatori/archivio/g-l/lorenzo-barlassina|Lorenzo Barlassina]]), per poi collaborare ancora nella salvezza [[02-cronistoria/stagioni/1985-1986|1985-1986]] accanto a [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

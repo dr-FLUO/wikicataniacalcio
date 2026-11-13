@@ -93,7 +93,8 @@ tm_id: 480852
   </table>
 </div>
 
-**Ubaldo Spanio** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Dalla Sampdoria alla guida della difesa etnea, **Ubaldo Spanio** (Chioggia, 18 ottobre 1943) resse con autorevolezza il reparto arretrato del [[01-societa/matricola-11700|Calcio Catania]] per tre campionati cadetti consecutivi dal 1971 al 1974. Stopper di grande esperienza e senso dell'anticipo, raggiunse quota **111 presenze ufficiali** (9.740 minuti) dimostrando una tenuta atletica pressoché impeccabile.
 
 ---
 
@@ -112,7 +113,10 @@ tm_id: 480852
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Chioggia (classe 1943), **Ubaldo Spanio** ha militato nelle file rossazzurre per **3 stagioni** (1971–1974). Impiegato con continuità nelle rotazioni della squadra, ha totalizzato **111 presenze ufficiali** (9740' minuti effettivi) al servizio del collettivo. La sua annata con il minutaggio più elevato è stata la **1971-1972**, disputata con 41 presenze complessive.
+
+Ingaggiato nell'estate del 1971 dal presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] insieme a [[03-tesserati/calciatori/archivio/d-f/fulvio-francesconi|Fulvio Francesconi]] per rilanciare la squadra appena scesa dalla Serie A, Spanio esordì nella [[02-cronistoria/stagioni/1971-1972|1971-1972]] scendendo in campo in 41 occasioni (3.630 minuti) tra gli avvicendamenti in panchina di [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]] e [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], chiudendo all'ottavo posto in Serie B.
+
+Confermato titolare inamovibile da Di Bella nella [[02-cronistoria/stagioni/1972-1973|1972-1973]], collezionò altri 36 gettoni (3.177 minuti) al fianco di [[03-tesserati/calciatori/archivio/g-l/giovanni-simonini|Giovanni Simonini]] e [[03-tesserati/calciatori/archivio/p-r/pietro-baisi|Pietro Baisi]] nella brillante corsa al quinto posto, chiusa a un passo dalla zona promozione. Anche nella travagliata [[02-cronistoria/stagioni/1973-1974|1973-1974]], sotto la nuova dirigenza presieduta da [[01-societa/presidenti/salvatore-coco|Salvatore Coco]] e le guide tecniche di [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]], Valsecchi e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]], assicurò 34 apparizioni prima dell'amara retrocessione in Serie C.
 
 ---
 

@@ -106,7 +106,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Silvio Baldini** (Massa, Italia, 1958) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2007-2008**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Silvio Baldini** (Massa, Italia, 1958) siede sulla panchina di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione **2007-2008**, regalando all'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]] notti memorabili in Serie A e la prima storica semifinale di Coppa Italia.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -118,11 +118,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Silvio Baldini guidò il Catania in Serie A nella stagione 2007-2008 per 31 giornate, compiendo inoltre la storica impresa di raggiungere per la prima volta le semifinali di Coppa Italia eliminando Milan e Udinese.
+Massese classe 1958, **Silvio Baldini** arriva in Sicilia dopo aver costruito una reputazione di tecnico istintivo, passionale e tatticamente coraggioso sulle panchine di Chievo, Empoli, Palermo, Parma e Lecce. Nell'estate 2007 il presidente Antonino Pulvirenti gli affida l'eredità di Pasquale Marino con l'obiettivo di consolidare i rossazzurri nella massima serie, contando sulla sua capacità di creare un legame viscerale con il gruppo e con la tifoseria del Massimino.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Tecnico sanguigno e profondamente amato dai suoi calciatori, lasciò un segno indelebile per intensità e coraggio prima del passaggio di testimone a [[03-tesserati/allenatori/walter-zenga|Walter Zenga]].
+Alla guida dal **1° luglio 2007 al 31 marzo 2008**, Baldini dirige il Catania per **34 partite ufficiali** con una media di **1,03 punti a gara**, guidando la squadra fino alla 31ª giornata della [[02-cronistoria/stagioni/2007-2008|Serie A 2007-2008]]. Dopo il debutto esterno per **2-2** a Parma, firma un brillante girone d'andata da **22 punti** impreziosito dai pareggi per **1-1** a San Siro contro il Milan campione d'Europa e in casa con la Juventus, oltre al trionfo per **3-1** nel derby contro il Palermo del **2 dicembre 2007**, trascinato da Jorge Martínez (8 reti), Gionatha Spinesi, Giuseppe Mascara e Juan Manuel Vargas. Entra nella storia soprattutto per la cavalcata in Coppa Italia, eliminando Triestina, Milan (**2-1** e **1-1**) e Udinese (**2-3** e **2-1** firmato Takayuki Morimoto all'89') fino alle semifinali, prima dell'esonero seguito all'**1-2** con il Torino e del subentro di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

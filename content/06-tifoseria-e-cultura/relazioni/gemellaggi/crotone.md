@@ -32,15 +32,15 @@ aliases:
 
 # Gemellaggio Catania-Crotone: La Fratellanza dello Ionio
 
-Il gemellaggio ufficiale tra gli ultras del Catania e quelli del **Crotone** costituisce una delle alleanze più limpide, genuine e rispettate del panorama calcistico meridionale.
+Affacciate sullo stesso mare Ionio, le tifoserie organizzate di Catania e **Crotone** hanno costruito uno dei **gemellaggi ufficiali** più limpidi, genuini e rispettati dell'intero Mezzogiorno calcistico. Nato senza calcoli opportunistici e cresciuto sul terreno della lealtà reciproca, questo patto ha resistito alle alterne fortune sportive dei due club, rafforzando anche le rispettive posizioni negli equilibri del tifo calabro-siculo e in contrapposizione a rivali comuni come il [[06-tifoseria-e-cultura/relazioni/rivalita/catanzaro|Catanzaro]].
 
 ---
 
 ## 1. Origini e la Concessione dello Scida
 
-Nato nei primi anni Duemila durante i campionati di Serie C1, il legame ha trovato la sua massima e commovente espressione pratica in occasione di squalifiche del campo comminate al club etneo:
-- La società e la tifoseria del Crotone misero formalmente a disposizione il proprio impianto casalingo — lo **Stadio Ezio Scida** — permettendo al Catania di disputare le proprie gare interne a campo neutro in un clima di calorosa accoglienza fraterna.
-- Nelle sfide dirette, le due tifoserie sono solite rinnovare il patto con sfilate dei bandieroni lungo il campo e cori reciproci di stima.
+La fratellanza prese forma nei primi anni Duemila, durante i combattuti campionati di Serie C1, trasformandosi ben presto da semplice simpatia di curva in un sostegno concreto nei momenti di difficoltà logistica. Quando infatti il club etneo si trovò a scontare squalifiche del campo casalingo che imponevano la disputa di gare interne in sede neutra, la società e la tifoseria pitagorica misero formalmente a disposizione lo **Stadio Ezio Scida**, consentendo ai rossazzurri di giocare in un clima di accoglienza fraterna anziché ostile.
+
+Nelle sfide dirette di campionato, le due curve hanno sempre rinnovato il patto attraverso sfilate di bandieroni lungo le piste d'atletica e cori di stima reciproca. Nel febbraio 2017, una delegazione crotonese prese inoltre parte alle [[06-tifoseria-e-cultura/eventi-e-giustizia/esequie-ciccio-famoso-massimino-2017|esequie di Ciccio Famoso al Massimino]], ribadendo la profondità di un'amicizia fondata sui fatti.
 
 ---
 

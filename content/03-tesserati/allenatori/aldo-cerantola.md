@@ -83,7 +83,7 @@ aliases:
   </table>
 </div>
 
-**Aldo Cerantola** (Loria (TV), Italia, 1950) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1995-1996**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Appena due giornate di campionato bastarono a inscrivere il nome di **Aldo Cerantola** (Loria, 1950) nella concitata cronaca del ritorno tra i professionisti del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione [[02-cronistoria/stagioni/1995-1996|1995-1996]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Libero
@@ -95,11 +95,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Aldo Cerantola guidò il Catania per due giornate (3ª e 4ª) nel settembre 1995 in Serie C2, durante una concitata fase di avvio stagione segnata da continui cambiamenti societari.
+Veneto di Loria, classe 1950, Aldo Cerantola visse una lunga carriera da difensore e libero anche in Serie A, maturando poi una solida esperienza da allenatore nei campionati professionistici minori. Chiamato in Sicilia a campionato già iniziato nel settembre 1995, approdò in un club appena riammesso in Serie C2 dopo due stagioni dilettantistiche e impegnato in una difficile fase di assestamento tecnico e societario sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Ex libero di Serie A e stimato allenatore di categoria, lasciò la panchina a [[03-tesserati/allenatori/mario-russo|Mario Russo]].
+Nel girone C della Serie C2 [[02-cronistoria/stagioni/1995-1996|1995-1996]], Cerantola subentrò a [[03-tesserati/allenatori/lamberto-leonardi|Lamberto Leonardi]] dopo le prime due giornate e l'eliminazione in Coppa Italia Serie C nel derby contro l'[[06-tifoseria-e-cultura/relazioni/rivalita/atletico-catania|Atletico Catania]]. La sua breve gestione si consumò tra la terza e la quarta giornata: il 17 settembre 1995 i rossazzurri persero 2-1 in trasferta a Bisceglie nonostante la rete di D'Isidoro, mentre sette giorni più tardi caddero nuovamente per 2-1 al Cibali contro l'Avezzano, con gol etneo di Intrieri. Al termine della doppia sconfitta la panchina passò a [[03-tesserati/allenatori/mario-russo|Mario Russo]], che guidò poi il gruppo di [[03-tesserati/calciatori/archivio/m-o/maurizio-naccari|Maurizio Naccari]] fino all'ottavo posto con 48 punti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

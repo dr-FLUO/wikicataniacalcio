@@ -93,7 +93,8 @@ tm_id: 337414
   </table>
 </div>
 
-**Angelo Crialesi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+
+Attaccante rapido, estroso e micidiale negli spazi stretti, **Angelo Crialesi** (Roviano, 11 gennaio 1958) lasciò un'impronta profonda in sole tre stagioni con il [[01-societa/matricola-11700|Calcio Catania]] tra il 1981 e il 1984. Capace di accumulare **111 presenze ufficiali** e **18 reti** (8.356 minuti), formò uno dei reparti offensivi più amati dell'era massiminiana.
 
 ---
 
@@ -112,7 +113,10 @@ tm_id: 337414
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Roviano (classe 1958), **Angelo Crialesi** ha militato nelle file rossazzurre per **3 stagioni** (1981–1984). Punto di riferimento nello scacchiere etneo, ha totalizzato **111 presenze ufficiali** (8356' minuti effettivi) impreziosite da **18 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 45 occasioni realizzando 8 reti.
+
+Arrivato nell'estate del 1981 durante la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], Crialesi accese subito il Cibali nella [[02-cronistoria/stagioni/1981-1982|1981-1982]] diretta da [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]]: con 9 reti in 39 partite (10 complessive includendo le coppe nelle cronache dell'epoca) compose con [[03-tesserati/calciatori/storici/aldo-cantarutti|Aldo Cantarutti]] un tandem formidabile, spingendo i rossazzurri all'ottavo posto in Serie B.
+
+Nella memorabile [[02-cronistoria/stagioni/1982-1983|1982-1983]] di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]] non saltò neppure una gara ufficiale: 45 presenze su 45 (3.780 minuti) e 8 gol — pesantissimi quelli a Cibali contro Pistoiese, Arezzo, Monza e Foggia — fino alla gioia degli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]] che riportarono il Catania in Serie A. Nella massima serie [[02-cronistoria/stagioni/1983-1984|1983-1984]], conclusa con la retrocessione al sedicesimo posto tra Di Marzio e [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]], disputò 27 partite lasciando il sigillo nella rete interna contro l'Ascoli.
 
 ---
 

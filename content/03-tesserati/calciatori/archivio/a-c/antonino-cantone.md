@@ -93,7 +93,8 @@ tm_id: 454406
   </table>
 </div>
 
-**Antonino Cantone** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Cresciuto calcisticamente alle pendici dell'Etna e legato da un rapporto viscerale ai colori della sua città, **Antonino Cantone** (Catania, 14 giugno 1953) servì il [[01-societa/matricola-11700|Calcio Catania]] lungo un arco temporale compreso tra il 1973 e il 1982. Mediano generoso e disciplinato, raggiunse **109 presenze ufficiali** e **3 reti** tra Serie B e terza serie.
 
 ---
 
@@ -116,7 +117,10 @@ tm_id: 454406
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Catania (classe 1953), **Antonino Cantone** ha militato nelle file rossazzurre per **7 stagioni** (1973–1982). Punto di riferimento nello scacchiere etneo, ha totalizzato **109 presenze ufficiali** (8166' minuti effettivi) impreziosite da **3 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1977-1978**, durante la quale è sceso in campo in 32 occasioni realizzando 2 reti.
+
+Dopo il debutto in cadetteria nella sofferta [[02-cronistoria/stagioni/1973-1974|1973-1974]] (13 gare sotto [[01-societa/presidenti/salvatore-coco|Salvatore Coco]]) e una parentesi alla Massiminiana, rientrò alla base per la [[02-cronistoria/stagioni/1975-1976|1975-1976]] con [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] presidente e [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] in panchina, dando il suo apporto in 12 match verso la salvezza in Serie B.
+
+Il triennio successivo ne sancì la piena maturità da titolare: nella [[02-cronistoria/stagioni/1976-1977|1976-1977]] ([[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]) disputò 31 gare segnando nel derby interno pareggiato 1-1 con il Palermo; nella [[02-cronistoria/stagioni/1977-1978|1977-1978]] di Serie C guidata da [[03-tesserati/allenatori/carlo-matteucci|Carlo Matteucci]] e Mazzetti raccolse 32 gettoni e 2 gol (contro Reggina e Salernitana) fino allo spareggio di Catanzaro perso con la Nocerina; nella [[02-cronistoria/stagioni/1978-1979|1978-1979]] di [[03-tesserati/allenatori/adelmo-capelli|Adelmo Capelli]] giocò 20 volte in Serie C1. Tornò dall'Acireale per un'ultima presenza nella [[02-cronistoria/stagioni/1980-1981|1980-1981]], restando in rosa anche nella [[02-cronistoria/stagioni/1981-1982|1981-1982]].
 
 ---
 

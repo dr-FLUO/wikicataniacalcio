@@ -79,7 +79,7 @@ aliases:
   </table>
 </div>
 
-**Giacinto Bavazzano** (Genova, Italia, 1903 – 1962) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1931-1932**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Difensore di temperamento e figura carismatica dei primi anni della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]], **Giacinto Bavazzano** (Genova, 1903 – 1962) abbinò al rendimento sul campo anche funzioni di guida tecnica nella Prima Divisione [[02-cronistoria/stagioni/1931-1932|1931-1932]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Difensore
@@ -91,11 +91,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Giacinto Bavazzano è stato uno dei cardini difensivi della SS Catania degli anni Trenta, ricoprendo anche il ruolo di allenatore-giocatore durante la stagione 1931-1932.
+Nato a Genova nel 1903 e formatosi nella tenace scuola calcistica ligure, Giacinto Bavazzano arrivò alle pendici dell'Etna nei primi campionati della S.S. Catania, imponendosi subito per carisma ed esperienza nei reparti arretrati. Vestì stabilmente la maglia rossazzurra tra le stagioni [[02-cronistoria/stagioni/1930-1931|1930-1931]], [[02-cronistoria/stagioni/1931-1932|1931-1932]] e [[02-cronistoria/stagioni/1932-1933|1932-1933]], superando le cinquanta presenze ufficiali e diventando uno dei punti di riferimento più autorevoli dello spogliatoio etneo.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Difensore roccioso di scuola ligure, con la maglia etnea collezionò oltre 50 presenze ufficiali fungendo da leader carismatico dello spogliatoio rossazzurro.
+Nel campionato di Prima Divisione [[02-cronistoria/stagioni/1931-1932|1931-1932]], girone F, disputato sotto le presidenze di Andrea Gaudioso e di [[01-societa/presidenti/vespasiano-trigona|Vespasiano Trigona]], Bavazzano affiancò al ruolo di baluardo difensivo quello di allenatore-giocatore in campo a supporto della gestione tecnica guidata da [[03-tesserati/allenatori/nicola-papa|Nicola Papa]]. In un'annata caratterizzata dal prolifico attacco di Ercole Cini (15 reti), la S.S. Catania ottenne 14 vittorie, 4 pareggi e 9 sconfitte con 49 gol segnati e 33 subiti, chiudendo al sesto posto con 32 punti e consolidando la propria presenza ai vertici del calcio meridionale.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

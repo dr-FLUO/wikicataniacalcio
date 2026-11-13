@@ -103,7 +103,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Piero Cucchi** (Boffalora sopra Ticino (MI), Italia, 1939) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1998-1999**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Sei anni dopo l'esclusione del 1993, il [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] riconquistò la terza serie grazie alla disciplina di **Piero Cucchi** (Boffalora sopra Ticino, 1939), «Il Generale», scelto dalla presidente [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]] nella stagione [[02-cronistoria/stagioni/1998-1999|1998-1999]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Centrocampista
@@ -115,11 +115,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Piero Cucchi, carismatico condottiero soprannominato "Il Generale", guidò il Catania alla trionfale vittoria del campionato di Serie C2 1998-1999 con 59 punti, dominando il girone C e riconquistando la Serie C1 dopo anni di attesa.
+Ex centrocampista e allenatore di grande tempra, Cucchi arrivò in Sicilia con la fama di costruttore di gruppi compatti e pragmatici. In una società segnata dalla recente scomparsa di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], seppe interpretare le attese della piazza trasformando lo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino]] in un fortino sostenuto da oltre ventimila spettatori nelle gare decisive.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Con un calcio cinico, potente ed entusiasmante guidato dai gol di Cicconi e Passiatore e dalla regia di Biso, riaccese l'entusiasmo oceanico del Cibali con oltre 20.000 spettatori a partita.
+Nel girone C di Serie C2 il tecnico lombardo plasmò una squadra granitica in difesa (19 reti subite in 34 gare) e corale in attacco, con dodici marcatori diversi attorno alle giocate di [[03-tesserati/calciatori/archivio/m-o/massimo-cicconi|Massimo Cicconi]], alla regia di [[03-tesserati/calciatori/archivio/m-o/mattia-biso|Mattia Biso]] e ai gol di [[03-tesserati/calciatori/archivio/p-r/roberto-passiatore|Roberto Passiatore]] (capocannoniere etneo con 8 reti). Chiusa l'andata al comando a 32 punti, il Catania resse nel finale alla rimonta del Messina grazie a tre pareggi decisivi, conquistando il 1º posto con 59 punti (15 vittorie, 14 pareggi, 5 sconfitte; media 1,74) e la promozione diretta in Serie C1.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

@@ -93,7 +93,7 @@ tm_id: 306008
   </table>
 </div>
 
-**Paolo Montanari** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Regista difensivo dal senso della posizione sicuro, **Paolo Montanari** ha difeso i colori del [[01-societa/matricola-11700|Calcio Catania]] per sei campionati tra il 1966 e il 1973, raccogliendo **165 presenze ufficiali** e **1 rete**.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 306008
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Reggio Emilia (classe 1944), **Paolo Montanari** ha militato nelle file rossazzurre per **6 stagioni** (1966–1973). Punto di riferimento nello scacchiere etneo, ha totalizzato **165 presenze ufficiali** (14.399' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **1972-1973**, disputata con 36 presenze complessive.
+Nato a Reggio Emilia il 24 settembre 1944 e cresciuto calcisticamente nella Reggiana, approdò alle falde dell'Etna a ventidue anni nella [[02-cronistoria/stagioni/1966-1967|Serie B 1966-1967]], affermandosi subito come libero titolare sotto la guida di [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] e la gestione di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] (35 presenze e terzo posto finale). Nella [[02-cronistoria/stagioni/1967-1968|1967-1968]], diretta da Ballacci e poi da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], collezionò 31 gettoni firmando anche il proprio unico centro in maglia rossazzurra.
+
+Dopo una parentesi al Milan, fece ritorno in Sicilia nella [[02-cronistoria/stagioni/1969-1970|1969-1970]], partecipando con 21 presenze alla cavalcata che riportò il club in Serie A sotto la guida di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] e del nuovo presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]]. Chiusa con 14 apparizioni l'esperienza nella [[02-cronistoria/stagioni/1970-1971|Serie A 1970-1971]], ritrovò centralità tra i cadetti al fianco di [[03-tesserati/calciatori/archivio/p-r/rino-rado|Rino Rado]] e [[03-tesserati/calciatori/archivio/g-l/giorgio-bernardis|Giorgio Bernardis]]: nel [[02-cronistoria/stagioni/1971-1972|1971-1972]] scese in campo 28 volte, raggiungendo poi il proprio primato personale di impiego nella [[02-cronistoria/stagioni/1972-1973|1972-1973]] con 36 gare disputate alle dipendenze di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]].
 
 ---
 

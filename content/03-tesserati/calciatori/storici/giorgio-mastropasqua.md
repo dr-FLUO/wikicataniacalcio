@@ -99,7 +99,8 @@ tm_id: 304455
   </table>
 </div>
 
-**Giorgio Mastropasqua** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Elegante libero d'esperienza e tempismo negli anticipi, **Giorgio Mastropasqua** (Rivoli, 13 luglio 1951) guidò con autorevolezza la retroguardia del [[01-societa/matricola-11700|Calcio Catania]] tra il 1982 e il 1984, risultando decisivo nella promozione in Serie A.
 
 ---
 
@@ -117,7 +118,9 @@ tm_id: 304455
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Rivoli (classe 1951), **Giorgio Mastropasqua** ha militato nelle file rossazzurre per **2 stagioni** (1982–1984). Punto di riferimento nello scacchiere etneo, ha totalizzato **55 presenze ufficiali** (4643' minuti effettivi) impreziosite da **2 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 42 occasioni realizzando 2 reti.
+Prelevato dalla Lazio nell'estate del 1982 per innalzare il tasso di esperienza del reparto difensivo affidato a [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], il difensore piemontese si prese immediatamente le chiavi della linea arretrata davanti a [[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]]. Nella memorabile [[02-cronistoria/stagioni/1982-1983|stagione 1982-1983]] non saltò praticamente un appuntamento: totalizzò **42 presenze e 3.655 minuti** fra campionato, Coppa Italia e post-season, impreziositi da **2 reti** — la prima fulminea all'1' contro la Juventus in Coppa al Cibali e la seconda nel 3-0 sul Bari — oltre a un assist.
+
+Al culmine di quel torneo chiuso al terzo posto a quota 45 punti con Como e Cremonese, Mastropasqua diresse magistralmente il bunker etneo negli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi dell'Olimpico]] del giugno 1983: davanti a oltre trentamila tifosi rossazzurri, l'1-0 sul Como e lo 0-0 contro la Cremonese riportarono Catania nella massima divisione dopo tredici anni d'attesa. Confermato in Serie A nel [[02-cronistoria/stagioni/1983-1984|1983-1984]], disputò altre 13 gare tra Di Marzio e [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]] prima della retrocessione, chiudendo l'esperienza siciliana con **55 presenze ufficiali**.
 
 ---
 

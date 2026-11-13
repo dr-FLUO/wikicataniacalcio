@@ -93,7 +93,8 @@ tm_id: 84741
   </table>
 </div>
 
-**Davis Curiale** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+
+Con **29 reti e 11 assist in 103 presenze ufficiali**, **Davis Curiale**, nato nel 1988, ha guidato l'attacco del [[01-societa/matricola-11700|Calcio Catania]] nei campionati di Serie C dal 2017 al 2021. Centravanti d'area dal fiuto spiccato e generoso nella manovra offensiva, rappresentò la principale bocca da fuoco etnea nell'assalto alla promozione.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 84741
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato nel 1988, il attaccante **Davis Curiale** ha militato nelle file rossazzurre per **4 stagioni** (2017–2021). Punto di riferimento nello scacchiere etneo, ha totalizzato **103 presenze ufficiali** (5867' minuti effettivi) impreziosite da **29 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2017-2018**, durante la quale è sceso in campo in 38 occasioni realizzando 17 reti.
+
+Ingaggiato nell'estate del 2017 sotto la presidenza di [[01-societa/presidenti/davide-franco|Davide Franco]], Curiale firmò una prima stagione travolgente nella [[02-cronistoria/stagioni/2017-2018|2017-2018]] diretta da [[03-tesserati/allenatori/cristiano-lucarelli|Cristiano Lucarelli]]: 38 apparizioni (2.716 minuti), 5 assist e ben 17 reti complessive — miglior marcatore del gruppo insieme al regista [[03-tesserati/calciatori/storici/francesco-lodi|Francesco Lodi]] — conducendo la squadra al secondo posto nel girone C e alle semifinali play-off.
+
+Nella [[02-cronistoria/stagioni/2018-2019|2018-2019]], divisa tra [[03-tesserati/allenatori/andrea-sottil|Andrea Sottil]] e [[03-tesserati/allenatori/walter-novellino|Walter Novellino]], scese ancora in campo 38 volte contribuendo con 7 gol (tra cui il sigillo nella semifinale play-off di ritorno a Trapani) e 6 assist al quarto posto finale. Con [[03-tesserati/allenatori/andrea-camplone|Andrea Camplone]] e Lucarelli nella [[02-cronistoria/stagioni/2019-2020|2019-2020]] realizzò altre 5 reti in 26 incontri (a segno contro Cavese, Casertana e Avellino), prima di disputare una gara iniziale nella [[02-cronistoria/stagioni/2020-2021|2020-2021]] dell'era [[01-societa/presidenti/nicola-le-mura|Nicola Le Mura]] con [[03-tesserati/allenatori/giuseppe-raffaele|Giuseppe Raffaele]], cedendo poi al Catanzaro.
 
 ---
 

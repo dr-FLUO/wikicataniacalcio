@@ -78,7 +78,7 @@ aliases:
   </table>
 </div>
 
-**Walter Joackim** (Vienna, Austria) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1931-1932**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+**Walter Joackim** (Vienna, Austria) porta sui campi catanesi le conoscenze della raffinata scuola danubiana nella stagione **1931-1932**, affiancando la direzione tecnica della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] negli anni pionieristici della Prima Divisione.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -90,11 +90,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Walter Joackim (o Joachim) fu un allenatore austriaco che affiancò e collaborò alla guida tecnica della SS Catania nella transizione della stagione 1931-1932.
+Originario di Vienna e noto nelle cronache dell'epoca anche come Joachim, **Walter Joackim** appartiene a quella generazione di tecnici centroeuropei formati alla scuola del celebre *Wunderteam* austriaco che negli anni Trenta contribuì in maniera decisiva alla modernizzazione metodologica del calcio italiano. Approdato in Sicilia nella stagione 1931-1932, mette la propria competenza atletica e tattica al servizio di una società ancora giovane ma ambiziosa, collaborando sui terreni di Piazza Esposizione e Piazza Verga con il giocatore-allenatore [[03-tesserati/allenatori/nicola-papa|Nicola Papa]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Portò a Catania le nozioni della celebre scuola calcistica austriaca (Wunderteam), contribuendo a strutturare la preparazione atletica e la disciplina tattica del gruppo.
+Durante il campionato di [[02-cronistoria/stagioni/1931-1932|Prima Divisione 1931-1932]] (girone F), Joackim contribuisce a migliorare la tenuta fisica, la circolazione della palla e la disciplina di reparto del gruppo rossazzurro, particolarmente evidente nella brillante seconda parte di stagione chiusa con 21 punti nel solo girone di ritorno e il netto **4-1** sull'AC Messina del **7 febbraio 1932**. In un'annata segnata dal passaggio di consegne presidenziale da Andrea Gaudioso a Vespasiano Trigona duca di Misterbianco e dai 15 gol di Ercole Cini, il Catania conquista un prestigioso **6º posto** con **32 punti** ufficiali in 27 gare.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

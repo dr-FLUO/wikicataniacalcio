@@ -99,7 +99,8 @@ tm_id: 293887
   </table>
 </div>
 
-**Giuseppe Vavassori** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Portiere**.
+
+Estremo difensore di scuola classica, reattivo tra i pali e impeccabile nelle uscite, **Giuseppe Vavassori** (Rivoli, 29 giugno 1934) custodì la porta del [[01-societa/matricola-11700|Calcio Catania]] per sei stagioni dal 1961 al 1967, incarnando l'età dell'oro rossazzurra in Serie A.
 
 ---
 
@@ -121,7 +122,9 @@ tm_id: 293887
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Rivoli (classe 1934), **Giuseppe Vavassori** ha militato nelle file rossazzurre per **6 stagioni** (1961–1967). A guardia dei pali etnei ha collezionato **161 presenze ufficiali** (14.445' minuti effettivi), distinguendosi per affidabilità e presenza tra i pali. La sua annata con il minutaggio più elevato è stata la **1961-1962**, disputata con 34 presenze complessive.
+Prelevato dalla Juventus nell'estate del 1961 dal commissario straordinario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] per blindare l'ambiziosa formazione allenata da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], il portiere piemontese divenne immediatamente una garanzia assoluta allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]]. Nelle annate [[02-cronistoria/stagioni/1961-1962|1961-1962]] e [[02-cronistoria/stagioni/1962-1963|1962-1963]] disputò tutte le 34 partite di campionato, guidando la squadra al decimo e all'undicesimo posto e firmando prestazioni memorabili nei successi contro la sua ex Juventus (2-0 a Catania nel febbraio 1962 e 0-1 a Torino nell'aprile 1963).
+
+Con l'arrivo di compagni di spessore come Cinesinho, Danova e Facchin, Vavassori toccò l'apice del ciclo etneo nei campionati [[02-cronistoria/stagioni/1963-1964|1963-1964]] (24 presenze, ottavo posto ex aequo) e [[02-cronistoria/stagioni/1964-1965|1964-1965]], quando con 34 gare giocate contribuì allo storico ottavo posto solitario con 32 punti e al 4-0 rifilato alla Roma. Rimase a difesa dei pali anche nel triste epilogo della Serie A [[02-cronistoria/stagioni/1965-1966|1965-1966]] — guidata da Di Bella e poi da [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]] — e nelle prime 9 gare della Serie B [[02-cronistoria/stagioni/1966-1967|1966-1967]] con [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] prima di trasferirsi al Bologna, lasciando un'eredità di **161 presenze ufficiali** e **14.445 minuti**.
 
 ---
 

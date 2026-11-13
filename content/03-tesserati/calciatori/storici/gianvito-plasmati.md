@@ -103,7 +103,8 @@ tm_id: 44116
   </table>
 </div>
 
-**Gianvito Plasmati** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+
+Centravanti di stazza e generosità nei duelli aerei, **Gianvito Plasmati** (Matera, 28 gennaio 1983) ha legato il proprio nome a reti di grande peso specifico con il [[01-societa/matricola-11700|Calcio Catania]], dalla Serie A di Zenga e Mihajlović fino alla sofferta Lega Pro 2015-2016.
 
 ---
 
@@ -125,7 +126,9 @@ tm_id: 44116
 
 ## Profilo e Carriera in Rossazzurro
 
-Attaccante nato a Matera nel 1983, **Gianvito Plasmati** ha militato nelle file rossazzurre per **6 stagioni** (2006–2016). Punto di riferimento nello scacchiere etneo, ha totalizzato **48 presenze ufficiali** (1670' minuti effettivi) impreziosite da **7 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2009-2010**, durante la quale è sceso in campo in 16 occasioni realizzando 2 reti.
+Arrivato nel [[02-cronistoria/stagioni/2006-2007|2006-2007]], quando raccolse un fugace esordio in Serie A sotto [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]] prima dei prestiti a Crotone e Foggia, il lucano rientrò alla base nella [[02-cronistoria/stagioni/2008-2009|stagione 2008-2009]]. Utilizzato da [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] come riferimento avanzato capace di aprire varchi, mise a segno 2 reti di prestigio assoluto in 15 apparizioni: a San Siro contro l'Inter e all'Olimpico di Torino nel pareggio per 1-1 contro la Juventus, prima di passare temporaneamente all'Atalanta a gennaio.
+
+Tornato a disposizione nel [[02-cronistoria/stagioni/2009-2010|2009-2010]], tra [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] collezionò 16 presenze e 3 assist, firmando inoltre la doppietta lampo a Marassi che eliminò il Genoa agli ottavi di Coppa Italia. Dopo un lungo giro d'Italia, rispose alla chiamata di emergenza nella Lega Pro [[02-cronistoria/stagioni/2015-2016|2015-2016]], segnata dalla penalizzazione iniziale di nove punti e dai cambi tecnici tra [[03-tesserati/allenatori/giuseppe-pancaro|Giuseppe Pancaro]] e [[03-tesserati/allenatori/francesco-moriero|Francesco Moriero]] sotto la presidenza finale di [[01-societa/presidenti/davide-franco|Davide Franco]]: le sue **3 reti in 16 gare** (Akragas, Cosenza e il decisivo 1-0 all'86' sulla Lupa Castelli Romani) contribuirono alla salvezza diretta. In totale vestì il rossazzurro in **48 gare ufficiali** con **7 gol** e **3 assist**.
 
 ---
 

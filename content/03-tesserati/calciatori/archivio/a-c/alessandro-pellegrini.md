@@ -95,13 +95,14 @@ image: assets/images/players/439_sandro-pellegrini.jpg
   </table>
 </div>
 
-**Alessandro Pellegrini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Conosciuto anche come *Sandro Pellegrini*, **Alessandro Pellegrini** ha percorso la fascia sinistra del [[01-societa/matricola-11700|Calcio Catania]] tra il 1984 e il 1988, raccogliendo **132 presenze ufficiali** e **5 reti** in quattro stagioni.
 
-## Profilo Biografico e Carriera Sportiva
+## Profilo e Carriera in Rossazzurro
 
-Nato a Vercelli (1964-08-02), Alessandro Pellegrini ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
+Ala sinistra nata a Vercelli il 2 agosto 1964 e arrivata dal Torino appena ventenne, si conquistò subito un posto fisso nella [[02-cronistoria/stagioni/1984-1985|Serie B 1984-1985]] allenata da [[03-tesserati/allenatori/antonio-renna|Antonio Renna]] sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], collezionando 33 gettoni e 2.900 minuti giocati. La vena realizzativa sbocciò l'anno dopo, nella [[02-cronistoria/stagioni/1985-1986|1985-1986]] segnata dai cambi tra [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]], [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]] e [[03-tesserati/allenatori/antonio-colomban|Antonio Colomban]]: con 32 apparizioni firmò 3 reti tutte decisive allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], piegando nell'ordine Brescia, Catanzaro e Palermo nel derby vinto per 1-0 il 1º dicembre 1985.
 
-Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+Nella [[02-cronistoria/stagioni/1986-1987|1986-1987]], diretta da Rambone e [[03-tesserati/allenatori/bruno-pace|Bruno Pace]], toccò il massimo personale di 39 gare e 2 gol (tra cui il pari a Cremona), senza però evitare la retrocessione in Serie C1. Rimasto anche nella drammatica [[02-cronistoria/stagioni/1987-1988|1987-1988]] sotto la presidenza di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]], aggiunse 28 presenze nell'annata culminata con lo spareggio-salvezza di Cosenza vinto sulla Nocerina.
+
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 

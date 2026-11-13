@@ -95,7 +95,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Luigi Valsecchi** (Lecco, Italia, 1921 – 1989) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1965-1966, 1967-1968, 1971-1972, 1973-1974, 1976-1977**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] (1946-1967), [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Nell'album degli uomini che hanno servito il calcio catanese con dedizione silenziosa, **Luigi Valsecchi** (Lecco, 1921 – 1989) — «Lo Zio Gigi» — attraversò oltre un decennio tra [[01-societa/epoche/1946-club-calcio-catania|Club Calcio Catania]] e [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] come vice fidato e timoniere d'emergenza in cinque stagioni, raccogliendo 52 panchine ufficiali.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore e Vice-Allenatore
@@ -107,11 +107,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Luigi Valsecchi, affettuosamente noto a tutto il popolo catanese come "Zio Gigi", è una delle figure più pure e devote della storia rossazzurra. Storico vice di Di Bella, prese la guida della prima squadra in ben cinque cicli d'emergenza tra Serie A e Serie B.
+Storico collaboratore di [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], Valsecchi fu il riferimento interno chiamato a reggere la squadra nei passaggi più delicati sotto [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e [[01-societa/presidenti/salvatore-coco|Salvatore Coco]]. La prima chiamata arrivò nella Serie A [[02-cronistoria/stagioni/1965-1966|1965-1966]] alla 16ª giornata al posto dello stesso Di Bella: in 18 gare non evitò la retrocessione (22 punti, 17º posto), ma firmò lo storico 1-0 sulla Grande Inter del 20 febbraio 1966 con gol di [[03-tesserati/calciatori/archivio/a-c/carlo-facchin|Carlo Facchin]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Guidò il Catania in Serie A nel 1965-1966 e 1971-1972, e in Serie B nel 1967-1968, 1973-1974 e 1976-1977, incarnando la massima fedeltà ai colori sociali e totalizzando decine di panchine con straordinaria dedizione.
+Nel dicembre [[02-cronistoria/stagioni/1967-1968|1967-1968]] rilevò [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] debuttando con l'1-0 sul Padova al [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] e guidando 29 gare (media 1,55) fino al 10º posto in Serie B (40 punti). Nel [[02-cronistoria/stagioni/1971-1972|1971-1972]] affiancò formalmente [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]] prima del ritorno di Di Bella, nel marzo [[02-cronistoria/stagioni/1973-1974|1973-1974]] resse cinque turni tra [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] e [[03-tesserati/allenatori/adelmo-prenna|Adelmo Prenna]], e nel [[02-cronistoria/stagioni/1976-1977|1976-1977]] sostituì ancora Di Bella.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

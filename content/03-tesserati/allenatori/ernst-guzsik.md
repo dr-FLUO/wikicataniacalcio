@@ -82,7 +82,7 @@ locked_by: 'quadratura_storico_allenatori_dataset'
   </table>
 </div>
 
-**Ernst Guzsik** (Ungheria) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1940-1941**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]] / AFC Catania (1929-1943).
+Nel primo campionato disputato dall'Italia in tempo di guerra, l'allenatore ungherese **Ernst Guzsik** prese in mano l'eredità della [[01-societa/epoche/1929-ss-catania|Società Sportiva Catania]], guidando l'AFC Catania nella Serie C [[02-cronistoria/stagioni/1940-1941|1940-1941]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -94,11 +94,11 @@ locked_by: 'quadratura_storico_allenatori_dataset'
 
 ## 1. Profilo Biografico e Carriera
 
-Ernst Guzsik (spesso registrato come Guszik) fu il tecnico ungherese alla guida dell'AFC Catania nella Serie C 1940-1941, durante i difficili anni del secondo conflitto mondiale.
+Esponente della scuola tecnica danubiana molto apprezzata nel calcio italiano tra le due guerre, Ernst Guzsik — spesso registrato negli almanacchi anche con la grafia *Guszik* — assunse la guida dell'Associazione Fascista Calcio Catania nell'autunno del 1940, durante la transizione dirigenziale tra il reggente Ruggero Albanese e il presidente Filippo Cusmano, in un impianto allora intitolato a Italo Balbo.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Nonostante le gravi restrizioni belliche sui trasporti e sull'organico, condusse la squadra etnea a un dignitoso 6º posto nel girone H di Serie C.
+La stagione si aprì con l'eliminazione a tavolino in Coppa Italia contro il Siracusa (0-2 per posizione irregolare di [[03-tesserati/calciatori/archivio/a-c/angelo-oliviero|Angelo Oliviero]], nonostante il 3-0 maturato sul campo). Nel girone H della Serie C [[02-cronistoria/stagioni/1940-1941|1940-1941]], tra difficoltà logistiche dovute alle restrizioni belliche e ai richiami alle armi, Guzsik ottenne comunque un rendimento competitivo: nelle ventidue partite disputate il Catania colse 9 vittorie, 7 pareggi e 6 sconfitte, chiudendo al sesto posto con 25 punti (dietro al Brindisi solo per quoziente reti). Spiccarono il 5-0 casalingo sul Foggia e il successo per 2-0 a Taranto firmato da una doppietta del diciannovenne [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]], in un gruppo guidato sotto porta da Servello con sette reti.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

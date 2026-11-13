@@ -94,7 +94,7 @@ tm_id: 389984
   </table>
 </div>
 
-**Alvaro Biagini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Regista arretrato, mezzala d'inserimento e faro tattico del [[01-societa/matricola-11700|Calcio Catania]] negli anni Sessanta, **Alvaro Biagini** ha sommato **171 presenze ufficiali** e **13 reti** dal 1959 al 1966.
 
 ---
 
@@ -117,7 +117,9 @@ tm_id: 389984
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Montecatini Terme nel 1935, **Alvaro Biagini** ha militato nelle file rossazzurre per **7 stagioni** (1959–1966). Punto di riferimento nello scacchiere etneo, ha totalizzato **171 presenze ufficiali** (15.345' minuti effettivi) impreziosite da **13 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1959-1960**, durante la quale è sceso in campo in 33 occasioni realizzando 9 reti.
+Prelevato dal Palermo nell'estate del 1959, il centrocampista toscano nato a Montecatini Terme il 1º ottobre 1935 divenne subito l'uomo in più della [[02-cronistoria/stagioni/1959-1960|Serie B 1959-1960]] guidata da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] sotto la gestione di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]]: con 9 gol in 33 gare (tra cui doppiette a Mantova e Taranto) spinse i rossazzurri in Serie A.
+
+In massima serie arretrò il proprio raggio d'azione trasformandosi nel metronomo della manovra etnea. Nella [[02-cronistoria/stagioni/1960-1961|1960-1961]] collezionò 31 presenze e una rete, legando il proprio nome all'epico [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0|2-0 sull'Inter]] del 4 giugno 1961, quando al 70' orchestrò la ripartenza chiusa da [[03-tesserati/calciatori/archivio/s-z/salvador-calvanese|Salvador Calvanese]] per il definitivo raddoppio. Rimase un perno del centrocampo e tra i capitani dello spogliatoio nelle successive cinque stagioni in Serie A, superando quota venti gettoni sia nel [[02-cronistoria/stagioni/1961-1962|1961-1962]] sia nel biennio [[02-cronistoria/stagioni/1963-1964|1963-1964]] e [[02-cronistoria/stagioni/1964-1965|1964-1965]], quando andò a segno contro Roma e Atalanta nell'ottavo posto solitario record, prima di congedarsi dopo la retrocessione del [[02-cronistoria/stagioni/1965-1966|1965-1966]].
 
 ---
 

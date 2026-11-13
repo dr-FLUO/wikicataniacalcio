@@ -109,13 +109,16 @@ citizenship: Brasile
   </table>
 </div>
 
-**Sidney Cunha Cinesinho** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Genio brasiliano dalla visione di gioco superiore, **Sidney Cunha Cinesinho** (Rio Grande, 1935 – 16 aprile 2011) illuminò la manovra del [[01-societa/matricola-11700|Calcio Catania]] per due stagioni indimenticabili di Serie A tra il 1963 e il 1965.
 
 ---
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Rio Grande (classe 1935), **Sidney Cunha Cinesinho** ha militato nelle file rossazzurre per **2 stagioni** (1963–1965). Punto di riferimento nello scacchiere etneo, ha totalizzato **59 presenze ufficiali** (5310' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1963-1964**, durante la quale è sceso in campo in 30 occasioni realizzando 3 reti.
+Arrivato in Sicilia nell'estate del 1963 dopo l'esperienza al Modena, nell'operazione che portò il tedesco [[03-tesserati/calciatori/storici/horst-szymaniak|Horst Szymaniak]] all'Inter, il trequartista verdeoro trovò nell'età dell'oro del commissario [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]] e del tecnico [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] la cornice ideale per esprimere la propria classe. Nella [[02-cronistoria/stagioni/1963-1964|stagione 1963-1964]] collezionò 30 presenze ufficiali, dettando i tempi tra centrocampo e attacco e realizzando **3 reti** d'autore, tra cui il gol partita contro la Lazio (1-0) e una splendida doppietta su calcio di punizione nel pirotecnico 4-4 all'Olimpico contro la Roma, in un torneo concluso all'ottavo posto ex aequo.
+
+Nel campionato [[02-cronistoria/stagioni/1964-1965|1964-1965]] Cinesinho disegnò assist per il prolifico tridente formato da Carlo Facchin, Giancarlo Danova e [[03-tesserati/allenatori/salvador-calvanese|Salvador Calvanese]], impreziosendo le sue 29 gare con la rete che aprì il trionfale **4-0 alla Roma** al Cibali il 7 marzo 1965. Trascinati dall'ottavo posto solitario a 32 punti, i rossazzurri lo salutarono nell'estate 1965 verso la Juventus dopo **59 presenze, 4 gol e 5.310 minuti**.
 
 ---
 

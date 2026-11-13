@@ -93,7 +93,8 @@ tm_id: 335141
   </table>
 </div>
 
-**Ennio Mastalli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Attaccante**.
+
+Protagonista assoluto della leggendaria cavalcata verso la Serie A del 1983, **Ennio Mastalli** (Livorno, 31 ottobre 1958) vestì la maglia del [[01-societa/matricola-11700|Calcio Catania]] per **115 gare ufficiali** e **14 reti**, abbinando qualità di raccordo tra centrocampo e attacco a una notevole freddezza nei momenti chiave. In due diverse parentesi tra il 1982 e il 1989 seppe conquistare la curva etnea con generosità e talento.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 335141
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Livorno (classe 1958), **Ennio Mastalli** ha militato nelle file rossazzurre per **4 stagioni** (1982–1989). Punto di riferimento nello scacchiere etneo, ha totalizzato **115 presenze ufficiali** (9237' minuti effettivi) impreziosite da **14 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1982-1983**, durante la quale è sceso in campo in 45 occasioni realizzando 9 reti.
+
+Arrivato sotto la presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] nell'estate del 1982, Mastalli fu il motore instancabile della [[02-cronistoria/stagioni/1982-1983|1982-1983]] firmata da [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]]: sempre presente in tutte le 45 gare stagionali (3.964 minuti) e autore di 9 reti, trascinò i rossazzurri al fianco di [[03-tesserati/calciatori/storici/aldo-cantarutti|Aldo Cantarutti]] e [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] fino agli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi dell'Olimpico di Roma]] contro Como e Cremonese.
+
+Nella sfortunata [[02-cronistoria/stagioni/1983-1984|1983-1984]] in Serie A, conclusa al sedicesimo posto dopo il cambio tra Di Marzio e [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]], mise a referto 17 apparizioni e 1 gol. Tornato in cadetteria nella [[02-cronistoria/stagioni/1984-1985|1984-1985]] con [[03-tesserati/allenatori/antonio-renna|Antonio Renna]], disputò 39 incontri andando a segno 4 volte (decisivi i rigori contro Padova e Pescara) nella sofferta salvezza al quattordicesimo posto. Richiamato dal Lecce nel novembre del 1988 durante la presidenza di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]], disputò altre 14 gare in Serie C1 nella [[02-cronistoria/stagioni/1988-1989|1988-1989]] sotto [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]].
 
 ---
 

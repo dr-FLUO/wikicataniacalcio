@@ -107,13 +107,14 @@ tm_id: 51186
   </table>
 </div>
 
-**Nicolás Spolli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Centrale argentino di statura imponente e carisma difensivo, **Nicolás Spolli** ha indossato la maglia del [[01-societa/matricola-11700|Calcio Catania]] per sei stagioni dal 2009 al 2015, mettendo insieme **154 presenze ufficiali**, **7 gol** e **3 assist**.
 
-## Profilo Biografico e Carriera Sportiva
+## Profilo e Carriera in Rossazzurro
 
-Nato a Rosario (1983-02-20), Nicolás Spolli ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
+Nato a Rosario il 20 febbraio 1983 e giunto dal Newell's Old Boys nell'estate del 2009 durante la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], si affermò rapidamente nella [[02-cronistoria/stagioni/2009-2010|Serie A 2009-2010]] guidata da [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], decidendo con una sua rete il successo per 1-0 sul Bologna del 6 gennaio 2010. Nel [[02-cronistoria/stagioni/2010-2011|2010-2011]], tra le gestioni di [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Pablo Simeone]], confermò solidità al fianco di [[03-tesserati/calciatori/storici/matias-silvestre|Matías Silvestre]] partecipando anche allo storico [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0|4-0 nel derby contro il Palermo]].
 
-Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+Allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] visse i due anni più brillanti della sua permanenza: 33 presenze e 2 reti (al Napoli e al Milan) nella [[02-cronistoria/stagioni/2011-2012|2011-2012]] di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]], seguite da 29 apparizioni e altri 2 gol nella [[02-cronistoria/stagioni/2012-2013|2012-2013]] chiusa all'ottavo posto con 56 punti agli ordini di [[03-tesserati/allenatori/rolando-maran|Rolando Maran]]. Dopo la retrocessione del [[02-cronistoria/stagioni/2013-2014|2013-2014]] (21 presenze e una rete alla Lazio) e le 17 gare in [[02-cronistoria/stagioni/2014-2015|Serie B 2014-2015]], si trasferì in prestito alla Roma.
+
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 

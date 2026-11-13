@@ -93,7 +93,7 @@ tm_id: 480779
   </table>
 </div>
 
-**Mauro Vaiani** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Centrocampista di quantità e ordine tattico, **Mauro Vaiani** ha attraversato cinque campionati con il [[01-societa/matricola-11700|Calcio Catania]] tra il 1966 e il 1971, lasciando a referto **151 presenze ufficiali** e **4 reti**.
 
 ---
 
@@ -114,7 +114,9 @@ tm_id: 480779
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Livorno nel 1940, il centrocampista **Mauro Vaiani** ha militato nelle file rossazzurre per **5 stagioni** (1966–1971). Punto di riferimento nello scacchiere etneo, ha totalizzato **151 presenze ufficiali** (12.508' minuti effettivi) impreziosite da **4 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1967-1968**, durante la quale è sceso in campo in 39 occasioni realizzando 1 rete.
+Livornese di nascita (20 gennaio 1940) e ingaggiato dalla Torres nel 1966 dopo il ritorno del club tra i cadetti, debuttò nella [[02-cronistoria/stagioni/1966-1967|Serie B 1966-1967]] diretta da [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] sotto la guida commissariale di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]], disputando 34 incontri e andando a segno contro il Padova. L'anno seguente, nella [[02-cronistoria/stagioni/1967-1968|1967-1968]] tra Ballacci e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]], raggiunse il proprio tetto stagionale di 39 apparizioni e 3.510 minuti effettivi, firmando la rete decisiva nell'1-0 interno sul Perugia dell'11 febbraio 1968.
+
+Con l'arrivo in panchina di [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]] mantenne un ruolo centrale nella salvezza del [[02-cronistoria/stagioni/1968-1969|1968-1969]] (37 presenze e un gol nel 2-0 al Padova) e nella [[02-cronistoria/stagioni/1969-1970|1969-1970]] della presidenza di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], in cui accumulò 30 gettoni contribuendo al terzo posto che riportò i rossazzurri in Serie A. Chiuse il quinquennio etneo nella [[02-cronistoria/stagioni/1970-1971|Serie A 1970-1971]] con 11 presenze e il quarto sigillo della sua esperienza siciliana, realizzato al Cibali nel 3-1 sulla Lazio del 22 novembre 1970.
 
 ---
 

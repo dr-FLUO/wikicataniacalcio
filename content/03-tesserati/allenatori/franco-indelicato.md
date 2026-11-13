@@ -78,7 +78,7 @@ aliases:
   </table>
 </div>
 
-**Franco Indelicato** (Sicilia, Italia) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1993-1994**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+All'indomani della radiazione federale dell'estate 1993, toccò al tecnico siciliano **Franco Indelicato** ricostruire in campo la prima squadra del [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nel torneo di Eccellenza [[02-cronistoria/stagioni/1993-1994|1993-1994]].
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -90,11 +90,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Franco Indelicato fu l'allenatore a cui [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] affidò la guida della squadra nell'estate del drammatico declassamento in Eccellenza Siciliana 1993-1994 a seguito dell'esclusione estiva del 1993.
+Tecnico preparato dell'ambiente isolano, Franco Indelicato raccolse la sfida più amara della storia recente rossazzurra quando il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] gli affidò una formazione allestita in tutta fretta dopo la retrocessione d'ufficio nei campionati regionali del 1993. Accettò l'incarico con profondo senso di appartenenza, affrontando le difficoltà logistiche e ambientali della sesta serie nazionale.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Diresse la compagine etnea nelle prime 22 giornate, affrontando campi polverosi e condizioni logistiche estreme con profondo spirito di servizio per la maglia rossazzurra.
+Alla guida del Catania nelle prime ventidue giornate del girone A di Eccellenza Siciliana [[02-cronistoria/stagioni/1993-1994|1993-1994]], Indelicato lanciò la squadra con una serie convincente di risultati, nonostante l'incertezza iniziale e i campi difficili della provincia. Spiccò il rendimento offensivo attorno a [[03-tesserati/calciatori/archivio/g-l/giuseppe-mosca|Giuseppe Mosca]] (autore di 18 reti in campionato), protagonista nei successi esterni contro Nuova Plutia, Caltagirone e Juventina Gela nonché nelle goleade interne contro Rosolini (6-1), Gravina (3-0) e Pachino (8-0). Avvicendato poi da [[03-tesserati/allenatori/lorenzo-barlassina|Lorenzo Barlassina]], lasciò una squadra in piena zona vertice che chiuse al terzo posto con 47 punti, ottenendo infine la promozione nel CND tramite completamento degli organici.
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

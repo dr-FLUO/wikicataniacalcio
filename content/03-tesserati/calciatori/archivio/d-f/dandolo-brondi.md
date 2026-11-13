@@ -94,7 +94,8 @@ tm_id: 407772
   </table>
 </div>
 
-**Dandolo Brondi** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Mediano prolifico e generoso nei chilometri percorsi in mezzo al campo, **Dandolo Brondi** (Livorno, 20 settembre 1922) fu tra i grandi artefici del consolidamento del [[01-societa/matricola-11700|Calcio Catania]] in Serie B all'indomani del ripescaggio del 1949. In appena tre stagioni raggiunse **105 presenze ufficiali** (9.450 minuti) e ben **14 reti**.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 407772
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Livorno (classe 1922), **Dandolo Brondi** ha militato nelle file rossazzurre per **3 stagioni** (1949–1952). Punto di riferimento nello scacchiere etneo, ha totalizzato **105 presenze ufficiali** (9450' minuti effettivi) impreziosite da **14 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1950-1951**, durante la quale è sceso in campo in 40 occasioni realizzando 7 reti.
+
+Arrivato nell'estate del 1949 sotto la presidenza di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] insieme a compagni come [[03-tesserati/calciatori/archivio/a-c/alfredo-piram|Alfredo Piram]] e [[03-tesserati/calciatori/archivio/a-c/bruno-ziz|Bruno Ziz]], esordì nella [[02-cronistoria/stagioni/1949-1950|1949-1950]] guidata da [[03-tesserati/allenatori/mario-magnozzi|Mario Magnozzi]] e [[03-tesserati/allenatori/stanislao-klein|Stanislao Klein]]: 36 presenze e 2 reti decisive al Cibali contro Arsenaltaranto e Vicenza verso la salvezza al dodicesimo posto.
+
+Nella [[02-cronistoria/stagioni/1950-1951|1950-1951]] allenata da [[03-tesserati/allenatori/lajos-politzer|Lajos Politzer]] visse la sua stagione più esaltante: sempre presente in tutte le 40 gare (3.600 minuti), firmò 7 gol — indimenticabile la doppietta nel derby vinto 3-1 sul Siracusa, oltre ai sigilli contro Brescia e Venezia — trascinando la squadra al sesto posto. Confermò peso offensivo e tenuta nella [[02-cronistoria/stagioni/1951-1952|1951-1952]] targata [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], collezionando 29 apparizioni e 5 reti tra i cambi tecnici di [[03-tesserati/allenatori/nereo-marini|Nereo Marini]], [[03-tesserati/allenatori/rodolfo-brondi|Rodolfo Brondi]] e [[03-tesserati/allenatori/fioravante-baldi|Fioravante Baldi]] fino al quarto posto finale.
 
 ---
 

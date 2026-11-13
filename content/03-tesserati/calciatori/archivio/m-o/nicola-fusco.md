@@ -93,7 +93,7 @@ tm_id: 532721
   </table>
 </div>
 
-**Nicola Fusco** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+Capitano della prima promozione in massima serie, **Nicola Fusco** rappresenta il filo conduttore del [[01-societa/matricola-11700|Calcio Catania]] del dopoguerra: **191 presenze ufficiali** e **9 reti** distribuite in sei stagioni dal 1949 al 1955.
 
 ---
 
@@ -115,7 +115,9 @@ tm_id: 532721
 
 ## Profilo e Carriera in Rossazzurro
 
-Centrocampista nato a Roma nel 1924, **Nicola Fusco** ha militato nelle file rossazzurre per **6 stagioni** (1949–1955). Punto di riferimento nello scacchiere etneo, ha totalizzato **191 presenze ufficiali** (17.190' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1950-1951**, durante la quale è sceso in campo in 40 occasioni realizzando 2 reti.
+Romano di nascita (13 agosto 1924), legò il proprio nome alla rinascita cadetta iniziata nella [[02-cronistoria/stagioni/1949-1950|1949-1950]] sotto la presidenza di [[01-societa/presidenti/lorenzo-fazio|Lorenzo Fazio]] e i tecnici [[03-tesserati/allenatori/mario-magnozzi|Mario Magnozzi]] e [[03-tesserati/allenatori/stanislao-klein|Stanislao Klein]]. Con 33 presenze e 3 reti all'esordio, diventò l'architrave della mediana anche nella [[02-cronistoria/stagioni/1950-1951|1950-1951]] di [[03-tesserati/allenatori/lajos-politzer|Lajos Politzer]], toccando le 40 apparizioni e firmando una doppietta a Lodi contro il Fanfulla.
+
+Con l'avvento del presidente [[01-societa/presidenti/arturo-michisanti|Arturo Michisanti]], fu protagonista della scalata sfiorata tra il quarto posto del [[02-cronistoria/stagioni/1951-1952|1951-1952]], illuminato da una sua doppietta nel 4-1 sul Genoa, e lo spareggio perso contro il Legnano al termine della [[02-cronistoria/stagioni/1952-1953|1952-1953]]. L'appuntamento con la storia arrivò nella [[02-cronistoria/stagioni/1953-1954|Serie B 1953-1954]]: da capitano e leader dello spogliatoio di [[03-tesserati/allenatori/piero-andreoli|Piero Andreoli]], al fianco di compagni come [[03-tesserati/calciatori/archivio/d-f/enzo-bearzot|Enzo Bearzot]] e [[03-tesserati/calciatori/archivio/m-o/michele-manenti|Michele Manenti]], condusse i rossazzurri al primo posto e alla prima promozione in Serie A. Disputò infine 20 gare con 2 gol nella [[02-cronistoria/stagioni/1954-1955|Serie A 1954-1955]], conclusa con la salvezza sul campo prima della retrocessione d'ufficio.
 
 ---
 

@@ -102,7 +102,8 @@ tm_id: 28832
   </table>
 </div>
 
-**Fabio Caserta** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Mezzala d'inserimento dal tiro potente e dalla tempra generosa, **Fabio Caserta** (Melito di Porto Salvo, 24 settembre 1978) compì al [[01-societa/matricola-11700|Calcio Catania]] il salto decisivo della propria carriera, passando dalla Serie B fino alle luci della massima divisione. Nelle **107 gare ufficiali** disputate dal 2004 al 2008 firmò **13 gol e un assist**, molti dei quali pesantissimi.
 
 ---
 
@@ -122,7 +123,10 @@ tm_id: 28832
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Melito di Porto Salvo nel 1978, il centrocampista **Fabio Caserta** ha militato nelle file rossazzurre per **4 stagioni** (2004–2008). Punto di riferimento nello scacchiere etneo, ha totalizzato **107 presenze ufficiali** (8483' minuti effettivi) impreziosite da **13 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2005-2006**, durante la quale è sceso in campo in 36 occasioni realizzando 5 reti.
+
+Prelevato dall'Igea Virtus nell'estate del 2004 su intuizione di [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] all'inizio della presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], Caserta si guadagnò subito il posto nella [[02-cronistoria/stagioni/2004-2005|2004-2005]] guidata da [[03-tesserati/allenatori/maurizio-costantini|Maurizio Costantini]] e [[03-tesserati/allenatori/nedo-sonetti|Nedo Sonetti]], collezionando 33 gare e 2 reti (contro Ascoli e Vicenza). Nella trionfale [[02-cronistoria/stagioni/2005-2006|2005-2006]] di [[03-tesserati/allenatori/pasquale-marino|Pasquale Marino]], al fianco di [[03-tesserati/calciatori/storici/davide-baiocco|Davide Baiocco]], [[03-tesserati/calciatori/storici/giuseppe-mascara|Giuseppe Mascara]] e [[03-tesserati/calciatori/storici/gionatha-spinesi|Gionatha Spinesi]], firmò 36 presenze e 5 gol (contro Atalanta, Bologna e Cremonese) spingendo gli etnei al secondo posto e alla promozione in Serie A.
+
+Proprio nel massimo campionato [[02-cronistoria/stagioni/2006-2007|2006-2007]], ancora agli ordini di Marino, toccò l'apice realizzativo e di minutaggio: 36 partite (3.105 minuti), un assist e 6 reti — decisive nei successi interni su Livorno, Parma, Sampdoria ed Empoli — nella salvezza al tredicesimo posto. Dopo due apparizioni in avvio di [[02-cronistoria/stagioni/2007-2008|2007-2008]] con [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]], si trasferì al Palermo.
 
 ---
 

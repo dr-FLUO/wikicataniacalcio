@@ -128,7 +128,8 @@ tm_id: 20003
   </table>
 </div>
 
-**Matías Agustín Silvestre** (Mercedes, 25 settembre 1984) è un calciatore argentino con passaporto italiano, nel ruolo di difensore centrale. Prelevato dal Boca Juniors da [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]] nel gennaio **2008**, ha vestito la maglia rossazzurra per tre stagioni e mezzo fino al 2011, affermandosi come uno dei migliori centrali del campionato italiano di Serie A e indossando la fascia di capitano del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]].
+
+Dominatore dei duelli aerei e leader silenzioso, **Matías Agustín Silvestre** (Mercedes, 25 settembre 1984) indossò la fascia di capitano del [[01-societa/epoche/2004-era-pulvirenti|Calcio Catania S.p.A.]] tra il 2008 e il 2011, imponendosi come uno dei migliori centrali della Serie A.
 
 > [!abstract] Primati e Prestazioni in Massima Divisione
 > - **Presenze Ufficiali:** 126 presenze (118 in Serie A, 8 in Coppa Italia).
@@ -151,6 +152,11 @@ tm_id: 20003
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **126 presenze ufficiali**, disputando **11086 minuti** di gioco effettivo, siglando **7 gol** e servendo **1 assist** distribuiti su **4 stagioni sportive**.
 
+## Profilo e Carriera in Rossazzurro
+
+Individuato nel gennaio 2008 al Boca Juniors dal direttore generale [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], sotto la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]], il difensore argentino impiegò pochi mesi per adattarsi al calcio italiano. Dopo le 13 apparizioni della [[02-cronistoria/stagioni/2007-2008|stagione 2007-2008]], chiusa con la sofferta permanenza in Serie A nel passaggio da [[03-tesserati/allenatori/silvio-baldini|Silvio Baldini]] a [[03-tesserati/allenatori/walter-zenga|Walter Zenga]], nella [[02-cronistoria/stagioni/2008-2009|2008-2009]] divenne inamovibile: **39 presenze ufficiali** e 3.514 minuti giocati al fianco di [[03-tesserati/calciatori/storici/lorenzo-stovini|Lorenzo Stovini]], inclusa la serata storica dello [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4|0-4 a Palermo]].
+
+Sotto la guida di [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]] nel [[02-cronistoria/stagioni/2009-2010|2009-2010]] aggiunse 36 gare e il primo gol italiano, partecipando ai successi su Juventus e Inter. L'apoteosi arrivò nella [[02-cronistoria/stagioni/2010-2011|2010-2011]]: promosso capitano tra la gestione di [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e la scossa impressa da [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]], giocò tutte le **38 partite di campionato** siglando **6 reti** e 1 assist. Salutò Catania per il Palermo dopo **126 presenze, 7 gol e 11.086 minuti**.
 
 ## Fonti e Bibliografia
 * **Wikipedia Italia**, *[Voce Enciclopedica Ufficiale — Matías Silvestre](https://it.wikipedia.org/wiki/Mat%C3%ADas_Silvestre)*.

@@ -94,7 +94,7 @@ aliases:
   </table>
 </div>
 
-**Angelo Busetta** (Palermo, Italia, 1945) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **1994-1995, 1996-1997**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] (Era Massimino).
+Soprannominato «Il Professore» per la lucidità tattica e il rigore metodologico, **Angelo Busetta** (Palermo, 1945) rappresentò la svolta tecnica della risalita rossazzurra dalle categorie dilettantistiche a metà degli anni Novanta.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -106,11 +106,13 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Angelo Busetta, stimato maestro di calcio siciliano soprannominato "Il Professore", è l'eroe tecnico della resurrezione rossazzurra dal Campionato Nazionale Dilettanti. Subentrato a Mosti alla 12ª giornata del 1994-1995, infilò una serie leggendaria di vittorie che valse il 1º posto e il ritorno nei professionisti.
+Stimato tecnico del calcio siciliano, Busetta approdò alle pendici dell'Etna in una fase delicatissima per la sopravvivenza sportiva di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]], reduce dall'ammissione al Campionato Nazionale Dilettanti con la storica [[01-societa/matricola-11700|matricola 11700]] intatta. La chiamata di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] premiò la sua fama di allenatore pragmatico, capace di coniugare disciplina difensiva e gestione dello spogliatoio davanti al pubblico del [[04-strutture/stadio-massimino/angelo-massimino|Cibali]].
 
 ## 2. La Conduzione Tecnica del Catania
 
-Vincitore dello Scudetto Dilettanti e della promozione in Serie C2 nel 1995 al fianco del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], tornò sulla panchina etnea anche all'inizio del 1996-1997 in C2.
+Nel [[02-cronistoria/stagioni/1994-1995|1994-1995]] subentrò a [[03-tesserati/allenatori/pier-giuseppe-mosti|Pier Giuseppe Mosti]] alla 12ª giornata del girone I e trasformò la marcia della squadra in una progressione implacabile. Trascinati dalle 19 reti complessive di [[03-tesserati/calciatori/archivio/g-l/giuseppe-mosca|Giuseppe Mosca]] e da una retroguardia capace di incassare appena 15 gol in 34 incontri, gli etnei piegarono l'AS Messina (2-1) ed espugnarono Milazzo (1-2), chiudendo al 1º posto con 74 punti (21 vittorie, 11 pareggi, 2 sconfitte) e conquistando la promozione in Serie C2 prima della Poule Scudetto contro il Taranto.
+
+Richiamato nella Serie C2 [[02-cronistoria/stagioni/1996-1997|1996-1997]] sotto la presidenza di [[01-societa/presidenti/grazia-codiglione|Grazia Codiglione]], aprì la stagione con il successo per 4-3 sul Catanzaro dopo l'eliminazione in Coppa Italia contro l'Atletico Catania; una serie negativa culminata nella sconfitta di Frosinone (3-1) portò tuttavia all'avvicendamento con [[03-tesserati/allenatori/giovanni-mei|Giovanni Mei]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

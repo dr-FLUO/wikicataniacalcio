@@ -93,7 +93,8 @@ tm_id: 313503
   </table>
 </div>
 
-**Giancarlo Marini** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Trequartista dal sinistro educato e dal guizzo imprevedibile, **Giancarlo Marini** (Roma, 16 settembre 1964) accese la fantasia del pubblico etneo negli anni difficili della Serie C1, mettendo insieme **108 presenze ufficiali** e **10 reti** in due cicli tra il 1987 e il 1993 con la casacca del [[01-societa/matricola-11700|Calcio Catania]]. La sua classe rappresentò spesso la scintilla offensiva di squadre impegnate a difendere la categoria.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 313503
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Roma (classe 1964), **Giancarlo Marini** ha militato nelle file rossazzurre per **4 stagioni** (1987–1993). Punto di riferimento nello scacchiere etneo, ha totalizzato **108 presenze ufficiali** (8447' minuti effettivi) impreziosite da **10 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **1987-1988**, durante la quale è sceso in campo in 32 occasioni realizzando 5 reti.
+
+Approvato dalla nuova società di [[01-societa/presidenti/angelo-attaguile|Angelo Attaguile]], Marini si rivelò subito decisivo nella sofferta [[02-cronistoria/stagioni/1987-1988|1987-1988]]: 32 presenze e 5 gol, tra cui il successo interno sul Cagliari e la doppietta di Cosenza alla 31ª giornata, preludio allo spareggio salvezza vinto 2-0 contro la Nocerina tra i cambi tecnici di [[03-tesserati/allenatori/osvaldo-jaconi|Osvaldo Jaconi]], [[03-tesserati/allenatori/pietro-santin|Pietro Santin]] e [[03-tesserati/allenatori/bruno-pace|Bruno Pace]].
+
+Nella [[02-cronistoria/stagioni/1988-1989|1988-1989]], divisa tra Pace e [[03-tesserati/allenatori/carmelo-russo|Carmelo Russo]], bissò il bottino di 32 gare e 5 reti laureandosi capocannoniere etneo del torneo chiuso al decimo posto. Confermato nella [[02-cronistoria/stagioni/1989-1990|1989-1990]] di Russo e [[03-tesserati/allenatori/angelo-sormani|Angelo Sormani]], raccolse 28 presenze contribuendo al sesto posto in classifica e andando a segno nel derby di Coppa Italia di Serie C contro il Palermo. Rientrato dal Gubbio nella [[02-cronistoria/stagioni/1992-1993|1992-1993]] allenata da [[03-tesserati/allenatori/salvatore-bianchetti|Salvatore Bianchetti]] sotto [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], aggiunse 16 apparizioni prima dell'esclusione estiva del 1993.
 
 ---
 

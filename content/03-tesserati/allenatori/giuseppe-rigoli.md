@@ -89,7 +89,7 @@ aliases:
   </table>
 </div>
 
-**Giuseppe Rigoli** (Raccuja (ME), Italia, 1961) è stato un esponente della guida tecnica del club etneo. Ha guidato la prima squadra del Catania nel periodo **2016-2017**, legando il proprio nome alla storia societaria di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] ([[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]]).
+**Giuseppe Rigoli** (Raccuja (ME), Italia, 1961) assume la guida tecnica di [[01-societa/epoche/1967-calcio-catania-spa-massimino|Calcio Catania S.p.A.]] nella stagione **2016-2017**, durante l'[[01-societa/epoche/2004-era-pulvirenti|Era Pulvirenti]], con l'incarico di rilanciare le ambizioni rossazzurre in Lega Pro partendo da un pesante handicap disciplinare.
 
 > [!abstract] Scheda di Sintesi e Percorso in Rossazzurro
 > - **Ruolo:** Allenatore
@@ -101,11 +101,11 @@ aliases:
 
 ## 1. Profilo Biografico e Carriera
 
-Giuseppe «Pino» Rigoli, tecnico messinese autore del miracolo Akragas, guidò il Catania nelle prime 25 giornate della Lega Pro 2016-2017, gestendo l'ennesima partenza con punti di penalizzazione (-7).
+Originario di Raccuja, in provincia di Messina, **Giuseppe «Pino» Rigoli** si costruisce una solida reputazione nelle categorie dilettantistiche e professionistiche siciliane grazie a una carriera culminata sulla panchina dell'Akragas, dove ottiene risultati di rilievo valorizzando organizzazione difensiva e spirito di sacrificio. Nell'estate 2016 viene scelto dalla dirigenza guidata dal presidente Davide Franco per guidare il Catania nella complessa fase di ricostruzione tecnica post-retrocessione, affidando a un conoscitore profondo del calcio meridionale il compito di ricompattare lo spogliatoio e riportare entusiasmo tra i tifosi.
 
 ## 2. La Conduzione Tecnica del Catania
 
-Impostò una squadra solida e organizzata attorno a elementi come Biagianti, Lodi e Mazzarani, mantenendo la squadra costantemente agganciata alla zona play-off.
+Alla guida della prima squadra dal **1° luglio 2016**, Rigoli dirige il Catania nelle prime 25 giornate del girone C di [[02-cronistoria/stagioni/2016-2017|Lega Pro 2016-2017]] e nei 3 impegni di Coppa Italia Lega Pro, per un totale di **28 panchine ufficiali** e una media di **1,64 punti a gara**. Nonostante la partenza con **7 punti di penalizzazione** (6 poi comminati e 1 ulteriore in corso d'opera, da cui i 54 punti conquistati sul campo scesi a 47), imposta una squadra solida intorno a Marco Biagianti, Francesco Lodi e al capocannoniere Andrea Mazzarani (9 reti), chiudendo il girone d'andata con la migliore difesa del campionato e cogliendo vittorie significative al Massimino come il **3-1** sulla Juve Stabia e il **2-0** sul Lecce. Resta stabilmente agganciato alla zona play-off fino al **13 febbraio 2017**, quando viene esonerato dopo il ko per **2-1** contro l'Akragas, lasciando la panchina a [[03-tesserati/allenatori/mario-petrone|Mario Petrone]].
 
 ### Scheda di Riepilogo della Gestione Tecnica
 

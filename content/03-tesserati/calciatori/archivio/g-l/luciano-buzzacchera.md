@@ -93,7 +93,7 @@ tm_id: 434324
   </table>
 </div>
 
-**Luciano Buzzacchera** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+Con **231 presenze ufficiali** raccolte nell'arco di sette campionati consecutivi, **Luciano Buzzacchera** occupa il secondo posto assoluto tra le colonne storiche di [[01-societa/matricola-11700|Calcio Catania]] nella fascia tra 127 e 256 gettoni, padrone della corsia destra dal 1965 al 1972.
 
 ---
 
@@ -116,7 +116,9 @@ tm_id: 434324
 
 ## Profilo e Carriera in Rossazzurro
 
-Difensore nato a Montecchio Precalcino nel 1939, **Luciano Buzzacchera** ha militato nelle file rossazzurre per **7 stagioni** (1965–1972). Punto di riferimento nello scacchiere etneo, ha totalizzato **231 presenze ufficiali** (20.725' minuti effettivi) impreziosite da **1 gol**. La sua annata con il minutaggio più elevato è stata la **1967-1968**, disputata con 39 presenze complessive.
+Terzino destro di temperamento e resistenza fisica, nato a Montecchio Precalcino il 23 marzo 1939, approdò in Sicilia dal Padova per la [[02-cronistoria/stagioni/1965-1966|Serie A 1965-1966]] guidata da [[03-tesserati/allenatori/carmelo-di-bella|Carmelo Di Bella]] e [[03-tesserati/allenatori/luigi-valsecchi|Luigi Valsecchi]]. Proprio al debutto in massima serie firmò l'unica rete della sua carriera etnea, sbloccando l'1-1 interno contro il Brescia il 23 gennaio 1966, in un'annata amara conclusa con la discesa tra i cadetti sotto il commissariamento di [[01-societa/presidenti/ignazio-marcoccio|Ignazio Marcoccio]].
+
+Rimasto fedele alla causa anche in Serie B con [[03-tesserati/allenatori/dino-ballacci|Dino Ballacci]] e poi con [[03-tesserati/allenatori/egizio-rubino|Egizio Rubino]], raggiunse la piena maturità agonistica tra il [[02-cronistoria/stagioni/1967-1968|1967-1968]] (39 apparizioni e 3.540 minuti) e il [[02-cronistoria/stagioni/1969-1970|1969-1970]]. Con la fascia di capitano al braccio e [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] alla presidenza, guidò il blocco difensivo insieme a [[03-tesserati/calciatori/archivio/p-r/rino-rado|Rino Rado]] alla conquista della Serie A nella [[02-cronistoria/stagioni/1969-1970|stagione 1969-1970]], accumulando 39 presenze complessive. Seguirono il torneo di massima serie [[02-cronistoria/stagioni/1970-1971|1970-1971]] e le ultime 21 gare del [[02-cronistoria/stagioni/1971-1972|1971-1972]], fino a toccare quota 20.725 minuti.
 
 ---
 

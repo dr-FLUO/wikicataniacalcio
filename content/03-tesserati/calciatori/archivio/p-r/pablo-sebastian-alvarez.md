@@ -102,13 +102,10 @@ tm_id: 55993
   </table>
 </div>
 
-**Pablo Sebastián Álvarez** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
 
-## Profilo Biografico e Carriera Sportiva
+Sbarcato ai piedi dell'Etna nel mercato invernale del 2008 dall'Estudiantes de La Plata insieme a [[03-tesserati/calciatori/storici/matias-silvestre|Matías Silvestre]], **Pablo Sebastián Álvarez** (Ciudad del Libertador General San Martín, 17 aprile 1984) divenne uno degli esterni difensivi più longevi nell'epopea in Serie A del [[01-societa/matricola-11700|Calcio Catania]]. Con **123 presenze ufficiali** e 2 assist, il terzino argentino incarnò la grinta sudamericana della corsia destra allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]].
 
-Nato a Ciudad del Libertador General San Martín (1984-04-17), Pablo Sebastián Álvarez ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
-
-Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+---
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
@@ -125,6 +122,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, **Pablo Álvarez** ha collezionato complessivamente **123 presenze ufficiali**, disputando **9551 minuti** di gioco effettivo, siglando **0 gol** e servendo **2 assist** distribuiti su **7 stagioni sportive**.
+
+
+## Profilo e Carriera in Rossazzurro
+
+Voluto dal presidente [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e dall'amministratore delegato [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], debuttò nella [[02-cronistoria/stagioni/2007-2008|2007-2008]] collezionando 8 presenze tra la salvezza targata [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] e la storica semifinale di Coppa Italia. Dopo 7 gare nella [[02-cronistoria/stagioni/2008-2009|2008-2009]] e una parentesi al Rosario Central, conquistò stabilmente la fascia nella [[02-cronistoria/stagioni/2009-2010|2009-2010]] (26 gettoni e un assist) sotto [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], confermandosi nella [[02-cronistoria/stagioni/2010-2011|2010-2011]] con 25 apparizioni e un passaggio vincente tra le gestioni di [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]].
+
+Impiegato in 9 incontri da [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] nella [[02-cronistoria/stagioni/2011-2012|2011-2012]] prima del prestito al Real Saragozza, rientrò per l'indimenticabile [[02-cronistoria/stagioni/2012-2013|2012-2013]] di [[03-tesserati/allenatori/rolando-maran|Rolando Maran]]: 30 presenze nell'anno del record di 56 punti e dell'ottavo posto al fianco di [[03-tesserati/calciatori/storici/mariano-andujar|Mariano Andújar]], [[03-tesserati/calciatori/storici/mariano-izco|Mariano Izco]] e [[03-tesserati/calciatori/storici/gonzalo-bergessio|Gonzalo Bergessio]], salutando poi la piazza dopo le 18 gare della sfortunata [[02-cronistoria/stagioni/2013-2014|2013-2014]].
 
 ---
 

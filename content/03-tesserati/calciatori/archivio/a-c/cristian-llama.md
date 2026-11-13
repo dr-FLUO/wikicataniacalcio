@@ -99,13 +99,10 @@ tm_id: 30882
   </table>
 </div>
 
-**Cristian Llama** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
 
-## Profilo Biografico e Carriera Sportiva
+Mancino raffinato, specialista dei calci piazzati e dei cambi di passo sulla fascia sinistra, **Cristian Llama** (Lomas de Zamora, 26 giugno 1986) divenne un beniamino dello [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]] in due distinti capitoli con il [[01-societa/matricola-11700|Calcio Catania]]. Tra Serie A e Serie C mise insieme **105 presenze ufficiali**, **3 reti** e **10 assist**.
 
-Nato a Lomas de Zamora (1986-06-26), Cristian Llama ha militato tra le file della formazione rossazzurra, scendendo in campo nei campionati professionistici nazionali. Nel corso della sua permanenza all'ombra dell'Etna si è distinto per dedizione tattica e spirito agonistico al servizio della squadra.
-
-Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massimino|Stadio Angelo Massimino (Cibali)]], contribuendo al percorso sportivo della società etnea nella sua categoria di appartenenza.
+---
 
 ### Rendimento Stagione per Stagione in Maglia Rossazzurra
 
@@ -123,6 +120,13 @@ Ha difeso i colori del Catania allo [[04-strutture/stadio-massimino/angelo-massi
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **105 presenze ufficiali**, disputando **4369 minuti** di gioco effettivo, siglando **3 gol** e servendo **10 assist** distribuiti su **8 stagioni sportive**.
+
+
+## Profilo e Carriera in Rossazzurro
+
+Arrivato ventunenne dall'Arsenal Sarandí nel 2007 sotto la presidenza di [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] e la direzione di [[01-societa/dirigenti/pietro-lo-monaco|Pietro Lo Monaco]], debuttò con una gara nella [[02-cronistoria/stagioni/2007-2008|2007-2008]] prima di rientrare dal prestito al Newell's Old Boys. Nella [[02-cronistoria/stagioni/2008-2009|2008-2009]] di [[03-tesserati/allenatori/walter-zenga|Walter Zenga]] offrì 17 presenze e 2 assist, esplodendo nella [[02-cronistoria/stagioni/2009-2010|2009-2010]] con [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]]: 25 partite, un assist e due perle contro Sampdoria e Bari.
+
+Nella [[02-cronistoria/stagioni/2010-2011|2010-2011]] tra [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]] servì 4 assist in 16 gare decidendo anche l'1-0 alla Sampdoria, per poi accumulare 17 gettoni e 2 assist nella [[02-cronistoria/stagioni/2011-2012|2011-2012]] di [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] prima del prestito alla Fiorentina nella [[02-cronistoria/stagioni/2012-2013|2012-2013]]. Richiamato nel 2018 dal Gimnasia (M) sotto [[01-societa/presidenti/davide-franco|Davide Franco]], portò esperienza e qualità in Serie C nella [[02-cronistoria/stagioni/2018-2019|2018-2019]] (15 gare e un assist) e nella [[02-cronistoria/stagioni/2019-2020|2019-2020]] (14 presenze) tra [[03-tesserati/allenatori/andrea-sottil|Sottil]], [[03-tesserati/allenatori/andrea-camplone|Camplone]] e [[03-tesserati/allenatori/cristiano-lucarelli|Lucarelli]].
 
 ---
 

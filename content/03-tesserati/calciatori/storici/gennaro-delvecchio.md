@@ -103,7 +103,8 @@ tm_id: 22080
   </table>
 </div>
 
-**Gennaro Delvecchio** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Centrocampista**.
+
+Centrocampista di struttura fisica imponente e spiccato senso dell'inserimento, **Gennaro Delvecchio** (Barletta, 25 marzo 1978) attraversò due epoche del [[01-societa/matricola-11700|Calcio Catania]], lasciando un'impronta netta sia nella cadetteria targata Gaucci sia nella Serie A di Pulvirenti.
 
 ---
 
@@ -124,7 +125,9 @@ tm_id: 22080
 
 ## Profilo e Carriera in Rossazzurro
 
-Originario di Barletta (classe 1978), **Gennaro Delvecchio** ha militato nelle file rossazzurre per **5 stagioni** (2000–2012). Punto di riferimento nello scacchiere etneo, ha totalizzato **69 presenze ufficiali** (3798' minuti effettivi) impreziosite da **9 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2003-2004**, durante la quale è sceso in campo in 27 occasioni realizzando 8 reti.
+Legato al club etneo già nella [[02-cronistoria/stagioni/2000-2001|stagione 2000-2001]] senza tuttavia debuttare prima dei prestiti formativi, il pugliese tornò protagonista in Sicilia nell'anomala Serie B a 24 squadre del [[02-cronistoria/stagioni/2003-2004|2003-2004]]. Agli ordini di [[03-tesserati/allenatori/stefano-colantuono|Stefano Colantuono]] e [[03-tesserati/allenatori/gabriele-matricciani|Gabriele Matricciani]], sotto la presidenza di [[01-societa/presidenti/riccardo-gaucci|Riccardo Gaucci]], disputò la sua stagione più prolifica: **27 presenze e ben 8 reti** nel torneo chiuso al nono posto alle spalle dei bomber Luís Oliveira e Giuseppe Mascara.
+
+Dopo l'ascesa fino alla Nazionale con la Sampdoria, nell'estate del 2009 la dirigenza guidata da [[01-societa/presidenti/antonino-pulvirenti|Antonino Pulvirenti]] lo riportò ai piedi dell'Etna per la massima serie. Nel [[02-cronistoria/stagioni/2009-2010|2009-2010]], tra la partenza difficile con [[03-tesserati/allenatori/gianluca-atzori|Gianluca Atzori]] e la rimonta-salvezza firmata [[03-tesserati/allenatori/sinisa-mihajlovic|Siniša Mihajlović]], collezionò 19 apparizioni servendo anche l'assist in contropiede a [[03-tesserati/calciatori/storici/jorge-martinez|Jorge Martínez]] nel leggendario [[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1|3-1 sull'Inter]]. Dopo 10 gare e 2 assist nel [[02-cronistoria/stagioni/2010-2011|2010-2011]] tra [[03-tesserati/allenatori/marco-giampaolo|Marco Giampaolo]] e [[03-tesserati/allenatori/diego-pablo-simeone|Diego Simeone]], chiuse il suo percorso rossazzurro nel [[02-cronistoria/stagioni/2011-2012|2011-2012]] con [[03-tesserati/allenatori/vincenzo-montella|Vincenzo Montella]] (13 presenze, gol a Firenze nel 2-2), totalizzando **69 gare, 9 reti e 3 assist**.
 
 ---
 

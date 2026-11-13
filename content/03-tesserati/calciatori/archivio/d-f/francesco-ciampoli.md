@@ -93,7 +93,8 @@ tm_id: 346222
   </table>
 </div>
 
-**Francesco Ciampoli** è stato un calciatore del [[01-societa/matricola-11700|Calcio Catania]], nel ruolo di **Difensore**.
+
+Marcatore ruvido e combattivo nel cuore dell'area di rigore, **Francesco Ciampoli** (Lanciano, 8 marzo 1951) arrivò dal Cagliari nel 1980 per diventare una delle colonne difensive del [[01-societa/matricola-11700|Calcio Catania]] verso il ritorno in Serie A. Tra il 1980 e il 1984 raccolse **106 apparizioni ufficiali** e **3 reti**, abbinando anticipo aereo e coraggio negli inserimenti.
 
 ---
 
@@ -113,7 +114,10 @@ tm_id: 346222
 
 ## Profilo e Carriera in Rossazzurro
 
-Nato a Lanciano nel 1951, il difensore **Francesco Ciampoli** ha militato nelle file rossazzurre per **4 stagioni** (1980–1984). Punto di riferimento nello scacchiere etneo, ha totalizzato **106 presenze ufficiali** (7855' minuti effettivi) impreziosite da **3 reti**. La sua annata con il minutaggio più elevato è stata la **1981-1982**, disputata con 35 presenze complessive.
+
+Ingaggiato dalla società di [[01-societa/presidenti/angelo-massimino|Angelo Massimino]], Ciampoli esordì nella [[02-cronistoria/stagioni/1980-1981|1980-1981]] diretta da [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] e [[03-tesserati/allenatori/guido-mazzetti|Guido Mazzetti]] disputando 30 partite nella Serie B a livello di «A2» con Milan e Lazio: indimenticabile la sua doppietta al Cibali nel pirotecnico derby del 3-3 contro il Palermo del dicembre 1980. Nella [[02-cronistoria/stagioni/1981-1982|1981-1982]] con Mazzetti e [[03-tesserati/allenatori/giorgio-michelotti|Giorgio Michelotti]] salì a 35 presenze (2.993 minuti) conducendo la difesa all'ottavo posto cadetto.
+
+Nella memorabile [[02-cronistoria/stagioni/1982-1983|1982-1983]] di [[03-tesserati/allenatori/gianni-di-marzio|Gianni Di Marzio]], affiancato in retroguardia da [[03-tesserati/calciatori/archivio/a-c/claudio-ranieri|Claudio Ranieri]] davanti a [[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]], giocò 32 partite siglando il gol decisivo nell'1-0 sul Campobasso prima del trionfo negli [[02-cronistoria/partite-storiche/1982-1983/spareggi-roma-1983|spareggi di Roma]]. Chiuse con 9 presenze in Serie A nella [[02-cronistoria/stagioni/1983-1984|1983-1984]] tra Di Marzio e [[03-tesserati/allenatori/giovan-battista-fabbri|Giovan Battista Fabbri]].
 
 ---
 

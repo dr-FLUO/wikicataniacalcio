@@ -103,7 +103,14 @@ locked_by: quadratura_riconciliazione_alias_dataset
   </table>
 </div>
 
-**Loris Boni** (Remedello, 14 gennaio 1953) è stato un brillante centrocampista del Calcio Catania durante la stagione trionfale di Serie C1 1979-1980 conclusasi con la promozione in Serie B sotto la guida del presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e dell'allenatore [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]]. Con 32 presenze e un gol pesantissimo, Boni fu il regista carismatico del centrocampo etneo.
+
+Esperienza, carisma e senso della posizione furono le armi con cui **Loris Boni** (Remedello, 14 gennaio 1953) prese per mano la mediana rossazzurra nella vittoriosa Serie C1 [[02-cronistoria/stagioni/1979-1980|1979-1980]], sotto il presidente [[01-societa/presidenti/angelo-massimino|Angelo Massimino]] e il tecnico [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]].
+
+## Profilo e Carriera in Rossazzurro
+
+Dopo tre campionati di sofferenza in terza serie seguiti alla retrocessione del 1977 e allo spareggio perso con la Nocerina, Massimino varò nell'estate del 1979 un organico costruito senza mezzi termini per riconquistare la Serie B. In mezzo al campo arrivò Boni, mezzala e mediano bresciano capace di dettare i tempi con lucidità e di reggere l'urto agonistico dei campi del girone B. Dopo una partenza incerta con [[03-tesserati/allenatori/gennaro-rambone|Gennaro Rambone]] in panchina, l'avvento alla nona giornata di [[03-tesserati/allenatori/lino-de-petrillo|Lino De Petrillo]] trasformò il volto della squadra, lanciandola in una cavalcata autoritaria chiusa al **primo posto davanti al Foggia** con uno [[04-strutture/stadio-massimino/angelo-massimino|Stadio Cibali]] mai violato in tutto il torneo (12 vittorie e 5 pareggi in 17 gare interne).
+
+Schierato al fianco di compagni generosi come [[03-tesserati/calciatori/storici/damiano-morra|Damiano Morra]] ed Eliseo Croci, a protezione di [[03-tesserati/calciatori/storici/roberto-sorrentino|Roberto Sorrentino]] e a sostegno della coppia gol formata da Marco Piga e [[03-tesserati/calciatori/storici/carlo-borghi|Carlo Borghi]], Boni non saltò un minuto delle sue **32 presenze ufficiali (2.880 minuti)**, arricchendo la promozione con **1 rete** pesantissima.
 
 ## Collegamenti Correlati
 * [[02-cronistoria/stagioni/1979-1980|Stagione 1979-1980 — Promozione in Serie B]]
