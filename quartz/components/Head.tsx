@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, getFileExtension, joinSegments, pathToRoot, simplifySlug } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -29,9 +29,12 @@ export default (() => {
     const faviconSvgPath = joinSegments(baseDir, "static/favicon.svg")
     const faviconIcoPath = joinSegments(baseDir, "favicon.ico")
 
-    // Url of current page
+    // Url canonico della pagina corrente allineato a simplifySlug / sitemap.xml (senza /index finale)
+    const canonicalSlug = fileData.slug === "404" ? "" : simplifySlug(fileData.slug!)
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404"
+        ? url.toString()
+        : joinSegments(url.toString(), encodeURI(canonicalSlug))
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,

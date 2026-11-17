@@ -1,4 +1,4 @@
-import { FullSlug, isRelativeURL, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, isRelativeURL, joinSegments, resolveRelative, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -6,7 +6,9 @@ import { VFile } from "vfile"
 import path from "path"
 
 async function* processFile(ctx: BuildCtx, file: VFile) {
-  const ogSlug = simplifySlug(file.data.slug!)
+  const fullSlug = file.data.slug!
+  const ogSlug = simplifySlug(fullSlug)
+  const base = ctx.cfg.configuration.baseUrl
 
   for (const aliasTarget of file.data.aliases ?? []) {
     const aliasTargetSlug = (
@@ -15,14 +17,17 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         : aliasTarget
     ) as FullSlug
 
+    if (aliasTargetSlug === fullSlug) continue
+
     const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
     const rootRelUrl = ("/" + (ogSlug === "index" ? "" : ogSlug)).replace(/\/+/g, "/")
+    const canonicalUrl = base ? `https://${joinSegments(base, encodeURI(ogSlug))}` : rootRelUrl
     const htmlContent = `
         <!DOCTYPE html>
         <html lang="it">
         <head>
         <title>${ogSlug}</title>
-        <link rel="canonical" href="${rootRelUrl}">
+        <link rel="canonical" href="${canonicalUrl}">
         <meta name="robots" content="noindex">
         <meta charset="utf-8">
         <meta http-equiv="refresh" content="0; url=${rootRelUrl}">
@@ -47,7 +52,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
     if (aliasTargetSlug !== "index") {
       if (aliasTargetSlug.endsWith("/index")) {
         const cleanSlug = aliasTargetSlug.slice(0, -"/index".length) as FullSlug
-        if (cleanSlug && cleanSlug !== ogSlug) {
+        if (cleanSlug && cleanSlug !== fullSlug && `${cleanSlug}/` !== ogSlug) {
           yield write({
             ctx,
             content: htmlContent,
@@ -57,7 +62,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         }
       } else {
         const indexSlug = (aliasTargetSlug + "/index") as FullSlug
-        if (indexSlug !== ogSlug) {
+        if (indexSlug !== fullSlug && `${aliasTargetSlug}/` !== ogSlug) {
           yield write({
             ctx,
             content: htmlContent,
