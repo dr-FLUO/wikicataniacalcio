@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Matteo Di Gennaro, d
 slug: 03-tesserati/calciatori/rosa-attuale/matteo-di-gennaro
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 total_appearances: 58
 seasons_count: 3
@@ -60,7 +60,7 @@ total_goals: 4
 total_assists: 3
 minutes_played: 5123
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 177188
 ---

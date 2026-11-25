@@ -1,14 +1,14 @@
 ---
 title: Gabriele Pagliai — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Gabriele Pagliai, difensore del Calcio Catania con 7 presenze
+description: Biografia, presenze e statistiche ufficiali di Gabriele Pagliai, difensore del Calcio Catania con 9 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/gabriele-pagliai
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 current_squad: true
-total_appearances: 7
+total_appearances: 9
 seasons_count: 1
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 401
+minutes_played: 518
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 696613
 ---
@@ -94,7 +94,7 @@ tm_id: 696613
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>7</td>
+        <td>9</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -110,11 +110,11 @@ tm_id: 696613
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Terzino destro | 7 | 0 | 0 | 0 | 0 | 401' |
-| **TOTALE** | — | **7** | **0** | **0** | **0** | **0** | **401'** |
+| **2026-2027** | Terzino destro | 9 | 0 | 0 | 0 | 0 | 518' |
+| **TOTALE** | — | **9** | **0** | **0** | **0** | **0** | **518'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **401 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **518 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

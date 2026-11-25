@@ -1,14 +1,14 @@
 ---
 title: Nicolò Cavuoti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista del Calcio Catania con 10 presenze
+description: Biografia, presenze e statistiche ufficiali di Nicolò Cavuoti, centrocampista del Calcio Catania con 12 presenze
   e 2 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 current_squad: true
-total_appearances: 10
+total_appearances: 12
 seasons_count: 1
 tags:
 - calciatori
@@ -50,9 +50,9 @@ aliases:
 - calciatori/nicolò-cavuoti
 total_goals: 2
 total_assists: 2
-minutes_played: 599
+minutes_played: 727
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 701842
 ---
@@ -86,7 +86,7 @@ tm_id: 701842
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>10</td>
+        <td>12</td>
         <th>Goal / Assist</th>
         <td>2 / 2</td>
       </tr>
@@ -102,11 +102,11 @@ tm_id: 701842
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Trequartista | 10 | 2 | 2 | 1 | 0 | 599' |
-| **TOTALE** | — | **10** | **2** | **2** | **1** | **0** | **599'** |
+| **2026-2027** | Trequartista | 12 | 2 | 2 | 1 | 0 | 727' |
+| **TOTALE** | — | **12** | **2** | **2** | **1** | **0** | **727'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **599 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **727 minuti** di gioco effettivo, siglando **2 gol** e servendo **2 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

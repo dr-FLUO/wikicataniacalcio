@@ -1,14 +1,14 @@
 ---
 title: Eddy Cabianca — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Eddy Cabianca, difensore del Calcio Catania con 5 presenze e 1
+description: Biografia, presenze e statistiche ufficiali di Eddy Cabianca, difensore del Calcio Catania con 8 presenze e 1
   gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/eddy-cabianca
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 current_squad: true
-total_appearances: 6
+total_appearances: 8
 seasons_count: 1
 image: assets/images/calciatori/eddy-cabianca.jpg
 image_credits:
@@ -45,9 +45,9 @@ aliases:
 - calciatori/eddy-cabianca
 total_goals: 1
 total_assists: 0
-minutes_played: 405
+minutes_played: 553
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 960966
 ---
@@ -81,7 +81,7 @@ tm_id: 960966
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>6</td>
+        <td>8</td>
         <th>Goal / Assist</th>
         <td>1 / 0</td>
       </tr>
@@ -97,11 +97,11 @@ tm_id: 960966
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Difensore centrale | 6 | 1 | 0 | 0 | 0 | 405' |
-| **TOTALE** | — | **6** | **1** | **0** | **0** | **0** | **405'** |
+| **2026-2027** | Difensore centrale | 8 | 1 | 0 | 0 | 0 | 553' |
+| **TOTALE** | — | **8** | **1** | **0** | **0** | **0** | **553'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **6 presenze ufficiali**, disputando **405 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **553 minuti** di gioco effettivo, siglando **1 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

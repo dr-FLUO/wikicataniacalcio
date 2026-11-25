@@ -1,14 +1,14 @@
 ---
 title: Daniele Donnarumma — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Daniele Donnarumma, difensore del Calcio Catania con 46 presenze
+description: Biografia, presenze e statistiche ufficiali di Daniele Donnarumma, difensore del Calcio Catania con 47 presenze
   e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/daniele-donnarumma
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 current_squad: true
-total_appearances: 46
+total_appearances: 47
 seasons_count: 2
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 3
 total_assists: 3
-minutes_played: 3210
+minutes_played: 3170
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 167900
 ---
@@ -94,7 +94,7 @@ tm_id: 167900
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>46</td>
+        <td>47</td>
         <th>Goal / Assist</th>
         <td>3 / 3</td>
       </tr>
@@ -111,18 +111,18 @@ Mancino educato e terzino di corsa continua, **Daniele Donnarumma** (Gragnano, 1
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Terzino sinistro | 39 | 3 | 3 | 3 | 0 | 2790' |
-| **2026-2027** | Terzino sinistro | 7 | 0 | 0 | 1 | 0 | 420' |
-| **TOTALE** | — | **46** | **3** | **3** | **4** | **0** | **3210'** |
+| **2026-2027** | Terzino sinistro | 8 | 0 | 0 | 1 | 0 | 380' |
+| **TOTALE** | — | **47** | **3** | **3** | **4** | **0** | **3170'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **46 presenze ufficiali**, disputando **3210 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **47 presenze ufficiali**, disputando **3170 minuti** di gioco effettivo, siglando **3 gol** e servendo **3 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
 
 Arrivato dal Cesena nell'estate del 2025 per innalzare il tasso tecnico delle corsie laterali volute da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], il laterale campano ebbe un impatto immediato nella [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]]. Schierato da quinto o terzino sinistro prima con [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e poi con [[03-tesserati/allenatori/william-viali|William Viali]], collezionò **39 presenze e 2.790 minuti**, abbinando **3 assist e 3 reti** pesanti: bagnò l'esordio con un gol nel travolgente 6-0 sul Foggia, colpì nel 2-2 di Caserta e andò a segno anche nel pirotecnico 3-3 dei playoff contro il Lecco, torneo chiuso al secondo posto e in semifinale spareggi.
 
-Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], inserito nei meccanismi tattici di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Donnarumma ha messo a referto **7 presenze e 420 minuti** nella prima parte dell'annata, portando il suo rendimento complessivo sotto l'Etna a **46 partite ufficiali, 3 gol, 3 assist e 3.210 minuti** giocati.
+Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], inserito nei meccanismi tattici di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]], Donnarumma ha messo a referto **8 presenze e 380 minuti** nella prima parte dell'annata, portando il suo rendimento complessivo sotto l'Etna a **47 partite ufficiali, 3 gol, 3 assist e 3.170 minuti** giocati.
 
 ---
 

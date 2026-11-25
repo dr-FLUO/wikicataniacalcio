@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Filippo Rinaldi, por
 slug: 03-tesserati/calciatori/rosa-attuale/filippo-rinaldi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Portiere
 current_squad: true
 total_appearances: 5
@@ -60,7 +60,7 @@ total_goals: 0
 total_assists: 0
 minutes_played: 450
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 604207
 ---

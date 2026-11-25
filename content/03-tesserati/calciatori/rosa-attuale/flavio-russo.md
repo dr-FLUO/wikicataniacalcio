@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Flavio Russo, attacc
 slug: 03-tesserati/calciatori/rosa-attuale/flavio-russo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Attaccante
 current_squad: true
 total_appearances: 8
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 3
 total_assists: 1
-minutes_played: 528
+minutes_played: 517
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 908788
 ---
@@ -111,11 +111,11 @@ tm_id: 908788
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2021-2022** | Punta centrale | 1 | 0 | 0 | 0 | 0 | 18' |
-| **2026-2027** | Punta centrale | 7 | 3 | 1 | 1 | 0 | 510' |
-| **TOTALE** | — | **8** | **3** | **1** | **1** | **0** | **528'** |
+| **2026-2027** | Punta centrale | 7 | 3 | 1 | 1 | 0 | 499' |
+| **TOTALE** | — | **8** | **3** | **1** | **1** | **0** | **517'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **528 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **8 presenze ufficiali**, disputando **517 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ---

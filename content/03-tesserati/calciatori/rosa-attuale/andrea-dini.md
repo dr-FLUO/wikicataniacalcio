@@ -1,14 +1,14 @@
 ---
 title: Andrea Dini — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Dini, portiere del Calcio Catania con 69 presenze e 0 gol
+description: Biografia, presenze e statistiche ufficiali di Andrea Dini, portiere del Calcio Catania con 73 presenze e 0 gol
   registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-dini
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Portiere
 current_squad: true
-total_appearances: 71
+total_appearances: 73
 seasons_count: 3
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 6390
+minutes_played: 6570
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 355444
 ---
@@ -94,7 +94,7 @@ tm_id: 355444
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>71</td>
+        <td>73</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -112,18 +112,18 @@ Estremo difensore di grande reattività e comando dell'area, **Andrea Dini** (Ca
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Portiere | 17 | 0 | 0 | 4 | 0 | 1530' |
 | **2025-2026** | Portiere | 43 | 0 | 0 | 3 | 0 | 3870' |
-| **2026-2027** | Portiere | 11 | 0 | 0 | 0 | 0 | 990' |
-| **TOTALE** | — | **71** | **0** | **0** | **7** | **0** | **6390'** |
+| **2026-2027** | Portiere | 13 | 0 | 0 | 0 | 0 | 1170' |
+| **TOTALE** | — | **73** | **0** | **0** | **7** | **0** | **6570'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **71 presenze ufficiali**, disputando **6390 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **73 presenze ufficiali**, disputando **6570 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **3 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
 
 Giunto dal Catanzaro nel corso della [[02-cronistoria/stagioni/2024-2025|stagione 2024-2025]], il portiere romagnolo raccolse immediatamente la fiducia di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] disputando **17 partite ufficiali e 1.530 minuti** senza saltare un istante delle gare giocate. L'anno seguente rappresentò la sua definitiva consacrazione fra i pali del Massimino: nella [[02-cronistoria/stagioni/2025-2026|2025-2026]], vissuta tra Toscano e [[03-tesserati/allenatori/william-viali|William Viali]], Dini difese la porta etnea per **43 incontri interi e 3.870 minuti**, risultando un pilastro della migliore difesa del girone C (soltanto 25 reti incassate nella stagione regolare) nella corsa fino al secondo posto e alla semifinale playoff.
 
-Rimasto guardiano titolare anche nell'avvio della [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]] con [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] sotto l'egida di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], ha già accumulato **11 presenze (990 minuti)** mantenendo inviolata la porta in quattro gare di campionato. Il suo totale rossazzurro sale così a **71 presenze ufficiali e 6.390 minuti**.
+Rimasto guardiano titolare anche nell'avvio della [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]] con [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] sotto l'egida di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], ha già accumulato **13 presenze (1.170 minuti)** mantenendo inviolata la porta in cinque gare di campionato. Il suo totale rossazzurro sale così a **73 presenze ufficiali e 6.570 minuti**.
 
 ---
 

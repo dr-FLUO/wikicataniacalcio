@@ -5,7 +5,7 @@ description: Bilanci storici, statistiche comparative, vittorie memorabili e pre
 slug: 02-cronistoria/partite-storiche/precedenti
 entity_type: thematic_dossier
 status: verified
-last_verified_date: 2026-11-11
+last_verified_date: 2026-11-25
 tags:
 - precedenti
 - partite-storiche
@@ -35,7 +35,7 @@ aliases:
 In questa sezione sono raccolti i dossier monografici sui confronti diretti disputati dal Catania contro club rivali o storici, con il dettaglio di vittorie, pareggi, sconfitte e gol segnati.
 
 > [!tip] Classifica Perpetua delle 45 Squadre più Affrontate (1929–Oggi)
-> La graduatoria completa delle **274 avversarie** affrontate dal Catania nelle **3.342 gare ufficiali** censite nei 95 fascicoli stagionali (guidata da **Messina** con 89 sfide, **Palermo** con 82, **Catanzaro** con 66, **Reggina** con 59 e **Taranto** con 57) è consultabile direttamente nella pagina principale **[[02-cronistoria/partite-storiche/index#2-archivio-storico-dei-precedenti-e-classifica-delle-squadre-piu-affrontate-1929oggi|Tabellini Storici e Classifica Perpetua degli Avversari]]**.
+> La graduatoria completa delle **274 avversarie** affrontate dal Catania nelle **3.344 gare ufficiali** censite nei 95 fascicoli stagionali (guidata da **Messina** con 89 sfide, **Palermo** con 82, **Catanzaro** con 66, **Reggina** con 59 e **Taranto** con 57) è consultabile direttamente nella pagina principale **[[02-cronistoria/partite-storiche/index#2-archivio-storico-dei-precedenti-e-classifica-delle-squadre-piu-affrontate-1929oggi|Tabellini Storici e Classifica Perpetua degli Avversari]]**.
 
 ---
 
@@ -44,7 +44,7 @@ In questa sezione sono raccolti i dossier monografici sui confronti diretti disp
 | Club Avversario | Categoria Principale Confronti | Gare nei Tabellini | Sfida più Iconica | Documento Correlato |
 | :--- | :--- | :---: | :--- | :--- |
 | **[[02-cronistoria/partite-storiche/precedenti/palermo\|Palermo]]** | Serie A, Serie B, Serie C, Coppa Italia | **82** *(+ Coppe reg.)* | [[06-tifoseria-e-cultura/relazioni/rivalita/derby-di-sicilia\|Derby di Sicilia]] (4-0 al Barbera 2009, 4-0 al Massimino 2011) | [[02-cronistoria/partite-storiche/precedenti/palermo\|Bilancio Precedenti Palermo]] |
-| **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Salernitana]]** | Serie B, Serie C, Coppa Italia | **47** | Sfide promozione e scontri diretti al Cibali e all'Arechi | [[02-cronistoria/partite-storiche/precedenti/salernitana\|Bilancio Precedenti Salernitana]] |
+| **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Salernitana]]** | Serie B, Serie C, Coppa Italia | **48** | Sfide promozione e scontri diretti al Cibali e all'Arechi | [[02-cronistoria/partite-storiche/precedenti/salernitana\|Bilancio Precedenti Salernitana]] |
 | **[[02-cronistoria/partite-storiche/precedenti/inter\|Inter]]** | Serie A, Coppa Italia | **31** *(+ Coppe)* | «[[07-media-e-comunicazione/firme-e-voci/clamoroso-al-cibali\|Clamoroso al Cibali!]]» (2-0 1961), 3-1 nel 2010 | [[02-cronistoria/partite-storiche/precedenti/inter\|Bilancio Precedenti Inter]] |
 | **[[02-cronistoria/partite-storiche/precedenti/casarano\|Casarano]]** | Serie C1, Serie C2, Serie C | **20** | Sfide storiche anni '80, '90 e 2020 | [[02-cronistoria/partite-storiche/precedenti/casarano\|Bilancio Precedenti Casarano]] |
 | **[[02-cronistoria/partite-storiche/precedenti/atalanta-u23\|Atalanta U23]]** | Serie C (Campionato e Playoff) | **4** | Fase Nazionale Playoff Serie C [[02-cronistoria/stagioni/2023-2024\|2023-2024]] | [[02-cronistoria/partite-storiche/precedenti/atalanta-u23\|Bilancio Precedenti Atalanta U23]] |

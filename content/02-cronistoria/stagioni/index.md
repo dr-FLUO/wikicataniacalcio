@@ -6,7 +6,7 @@ description: Almanacco cronologico delle stagioni agonistiche del Calcio Catania
 slug: 02-cronistoria/stagioni/index
 entity_type: section_index
 status: verified
-last_verified_date: 2026-10-27
+last_verified_date: 2026-11-25
 tags:
 - stagioni
 - serie-a
@@ -41,7 +41,7 @@ Almanacco cronologico delle stagioni ufficiali disputate dal Catania dal 1929 a 
 
 | Stagione | Categoria | Gare | Punti | Piazzamento |
 | :--- | :--- | :---: | :---: | :---: |
-| **[[02-cronistoria/stagioni/2026-2027\|2026-2027]]** | Serie C | 13 (16) | 22 | 2º (in corso) |
+| **[[02-cronistoria/stagioni/2026-2027\|2026-2027]]** | Serie C | 15 (18) | 23 | 5º (in corso) |
 | **[[02-cronistoria/stagioni/2025-2026\|2025-2026]]** | Serie C | 38 (43) | 70 | 2º |
 | **[[02-cronistoria/stagioni/2024-2025\|2024-2025]]** | Serie C | 34 (41) | 53 | 5º |
 | **[[02-cronistoria/stagioni/2023-2024\|2023-2024]]** | Serie C | 38 (50) | 45 | 13º |

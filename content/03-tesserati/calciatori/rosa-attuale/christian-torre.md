@@ -5,9 +5,9 @@ description: Biografia, presenze e statistiche ufficiali di Christian Torre, cen
 slug: 03-tesserati/calciatori/rosa-attuale/christian-torre
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
-current_squad: true
+current_squad: false
 total_appearances: 0
 seasons_count: 1
 tags:
@@ -50,7 +50,7 @@ total_goals: 0
 total_assists: 0
 minutes_played: 0
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 1235978
 ---

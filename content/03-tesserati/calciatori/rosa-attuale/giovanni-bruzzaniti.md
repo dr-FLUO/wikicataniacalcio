@@ -1,14 +1,14 @@
 ---
 title: Giovanni Bruzzaniti — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Giovanni Bruzzaniti, attaccante del Calcio Catania con 35 presenze
+description: Biografia, presenze e statistiche ufficiali di Giovanni Bruzzaniti, attaccante del Calcio Catania con 38 presenze
   e 4 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Attaccante
 current_squad: true
-total_appearances: 35
+total_appearances: 38
 seasons_count: 2
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 4
 total_assists: 4
-minutes_played: 1692
+minutes_played: 1897
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 420460
 ---
@@ -94,7 +94,7 @@ tm_id: 420460
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>35</td>
+        <td>38</td>
         <th>Goal / Assist</th>
         <td>4 / 4</td>
       </tr>
@@ -111,18 +111,18 @@ Dribbling secco a rientrare sul destro e fiuto sottoporta, **Giovanni Bruzzaniti
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Ala sinistra | 22 | 2 | 2 | 1 | 0 | 877' |
-| **2026-2027** | Ala sinistra | 13 | 2 | 2 | 2 | 0 | 815' |
-| **TOTALE** | — | **35** | **4** | **4** | **3** | **0** | **1692'** |
+| **2026-2027** | Ala sinistra | 16 | 2 | 2 | 3 | 0 | 1020' |
+| **TOTALE** | — | **38** | **4** | **4** | **4** | **0** | **1897'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **35 presenze ufficiali**, disputando **1692 minuti** di gioco effettivo, siglando **4 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **1897 minuti** di gioco effettivo, siglando **4 gol** e servendo **4 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
 
 Prelevato dal Pineto nella sessione invernale della [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]] con un investimento da quattrocentomila euro sostenuto dalla proprietà di [[01-societa/presidenti/ross-pelligra|Ross Pelligra]], l'attaccante calabrese si inserì rapidamente nelle rotazioni di [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e poi di [[03-tesserati/allenatori/william-viali|William Viali]]. Nel girone di ritorno e negli spareggi chiusi in semifinale raccolse **22 presenze, 877 minuti, 2 assist e 2 reti**, andando a bersaglio consecutivamente nel mese di marzo contro il Casarano al Massimino e sul campo del Latina.
 
-Con il passaggio alla guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Bruzzaniti ha guadagnato maggiore centralità nel tridente offensivo, mettendo insieme **13 apparizioni, 815 minuti, 2 assist e altri 2 gol**, firmati a Picerno e nel 2-0 interno al Sorrento. Il suo bilancio rossazzurro conta **35 partite ufficiali, 4 reti, 4 assist e 1.692 minuti**.
+Con il passaggio alla guida tecnica di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Bruzzaniti ha guadagnato maggiore centralità nel tridente offensivo, mettendo insieme **16 apparizioni, 1.020 minuti, 2 assist e altri 2 gol**, firmati a Picerno e nel 2-0 interno al Sorrento. Il suo bilancio rossazzurro conta **38 partite ufficiali, 4 reti, 4 assist e 1.897 minuti**.
 
 ---
 

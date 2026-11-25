@@ -1,10 +1,10 @@
 ---
 title: "Tabellini Storici, Classifica Perpetua degli Avversari e Archivio dei Precedenti"
-description: "Archivio dei tabellini storici certificati, classifica perpetua delle squadre più affrontate (3.342 gare ufficiali contro 274 avversarie dal 1929 a oggi) e bilancio dei precedenti del Calcio Catania."
+description: "Archivio dei tabellini storici certificati, classifica perpetua delle squadre più affrontate (3.344 gare ufficiali contro 274 avversarie dal 1929 a oggi) e bilancio dei precedenti del Calcio Catania."
 slug: 02-cronistoria/partite-storiche
 entity_type: section_index
 status: verified
-last_verified_date: 2026-11-11
+last_verified_date: 2026-11-25
 tags:
 - partite
 - tabellini
@@ -22,7 +22,7 @@ sources:
   title: Spoglio integrale dei 95 fascicoli stagionali ufficiali (1929-2027)
   publisher: Wiki Calcio Catania
   year: 2026
-  reference: Censimento di 3.342 incontri ufficiali tra campionati, spareggi/play-off e coppe
+  reference: Censimento di 3.344 incontri ufficiali tra campionati, spareggi/play-off e coppe
 - author: Archivio Storico Ufficiale della Lega Serie A, Lega B, Lega Pro e FIGC
   title: Referti e Comunicati Ufficiali (1929-2026)
   publisher: FIGC, Roma
@@ -65,7 +65,7 @@ Questa sezione raccoglie i **tabellini certificati** delle partite spartiacque d
 ## 2. Archivio Storico dei Precedenti e Classifica delle Squadre più Affrontate (1929–Oggi)
 
 > [!abstract] Censimento Perpetuo su 95 Stagioni Ufficiali (1929–2027)
-> Dall'analisi integrale di tutte le **[[02-cronistoria/stagioni/index|95 stagioni agonistiche]]** in archivio — dalla Seconda Divisione [[02-cronistoria/stagioni/1929-1930|1929-1930]] fino alla 13ª giornata della stagione in corso [[02-cronistoria/stagioni/2026-2027|2026-2027]] — risultano censite **3.342 partite ufficiali** (tra campionati nazionali e regionali, spareggi/play-off, Coppa Italia e Coppa Italia Serie C/D) disputate contro **274 società avversarie** distinte, unificando per ciascun club le diverse denominazioni storiche assunte nel corso dei decenni.
+> Dall'analisi integrale di tutte le **[[02-cronistoria/stagioni/index|95 stagioni agonistiche]]** in archivio — dalla Seconda Divisione [[02-cronistoria/stagioni/1929-1930|1929-1930]] fino alla 15ª giornata della stagione in corso [[02-cronistoria/stagioni/2026-2027|2026-2027]] — risultano censite **3.344 partite ufficiali** (tra campionati nazionali e regionali, spareggi/play-off, Coppa Italia e Coppa Italia Serie C/D) disputate contro **274 società avversarie** distinte, unificando per ciascun club le diverse denominazioni storiche assunte nel corso dei decenni.
 
 ### 2.1 Curiosità e Primati Statistici sui Confronti Diretti
 
@@ -75,12 +75,12 @@ Questa sezione raccoglie i **tabellini certificati** delle partite spartiacque d
    * Completano il quadro dei grandi derby isolani il **Siracusa** (**53 gare**, 7º assoluto con 23 vittorie rossazzurre e 13 sconfitte) e il **Trapani** (**38 gare**, 19º assoluto con un nettissimo bilancio di 18 vittorie, 9 pareggi, 11 sconfitte e **+24** di differenza reti).
 2. **Il Podio del Sud (Calabria, Puglia e Campania):**
    * Le prime cinque posizioni assolute appartengono interamente a classiche del Mezzogiorno: dietro Messina e Palermo si collocano le due storiche rivali calabresi **Catanzaro** (**66 gare** in 34 stagioni, con 26 vittorie etnee contro 24) e **Reggina** (**59 gare** in 30 stagioni, con un netto **27 a 16** nelle vittorie a favore del Catania), seguite dal **Taranto** (**57 gare**, 24 vittorie a 16) e più avanti dal **Cosenza** (**34 gare**, perfetto equilibrio: 14 vittorie per parte e 56 gol a testa).
-   * In Puglia spiccano anche **Bari** (**52 gare**, perfetto equilibrio con 18 vittorie per parte e 16 pareggi), **Foggia** (**50 gare**, di cui ben 24 pareggi) e **Lecce** (**35 gare**, bilancio positivo con 11 vittorie a 10); in Campania guidano **[[02-cronistoria/partite-storiche/precedenti/salernitana|Salernitana]]** (**47 gare**, 20 vittorie etnee a 13) e **Avellino** (**42 gare**, 19 vittorie a 15).
+   * In Puglia spiccano anche **Bari** (**53 gare**, perfetto equilibrio con 18 vittorie per parte e 17 pareggi), **Foggia** (**50 gare**, di cui ben 24 pareggi) e **Lecce** (**35 gare**, bilancio positivo con 11 vittorie a 10); in Campania guidano **[[02-cronistoria/partite-storiche/precedenti/salernitana|Salernitana]]** (**48 gare**, 20 vittorie etnee a 14) e **Avellino** (**42 gare**, 19 vittorie a 15).
 3. **Le Rivali di Serie A e Serie B fuori dal Mezzogiorno:**
-   * Il **Cagliari** (**56 gare** in 30 stagioni, 6º assoluto con 22 vittorie rossazzurre contro 17) è la compagine non meridionale più affrontata nella storia del Catania, tallonata da **Genoa** (**53 gare**, 8º assoluto, inclusa la finale di Coppa delle Alpi 1964), **Brescia** (**52 gare**, 10º), **Hellas Verona** (**48 gare**, 12º) e **Atalanta** (**47 gare**, 14º, in perfetta parità: 15 vittorie a testa, 16 pareggi e 48 gol per parte).
+   * Il **Cagliari** (**56 gare** in 30 stagioni, 6º assoluto con 22 vittorie rossazzurre contro 17) è la compagine non meridionale più affrontata nella storia del Catania, tallonata da **Genoa** (**53 gare**, 8º assoluto, inclusa la finale di Coppa delle Alpi 1964), **Brescia** (**52 gare**, 10º), **[[02-cronistoria/partite-storiche/precedenti/salernitana|Salernitana]]** (**48 gare**, 12º) e **Hellas Verona** (**48 gare**, 13º), davanti ad **Atalanta** (**47 gare**, 14º, in perfetta parità: 15 vittorie a testa, 16 pareggi e 48 gol per parte).
    * Tra le «grandi» storiche della Serie A, la più incrociata è la **Lazio** (**46 gare**, 15 vittorie rossazzurre), seguita da **Milan** (**38 gare**), **Sampdoria** (**36 gare**), **Bologna** e **Roma** (**33 gare**), **Napoli** e **Fiorentina** (**32 gare**), e dal terzetto a quota **31 gare** composto da **Torino**, **Juventus** e **[[02-cronistoria/partite-storiche/precedenti/inter|Inter]]**.
 4. **Gli Incroci Attivi nella Stagione 2026–2027:**
-   * Nel campionato in corso il Catania sta incrementando i propri bilanci secolari contro ben nove club presenti nella Top 35: **Bari** (52), **Foggia** (50), **Salernitana** (47), **Potenza** (salito a 34), **Cosenza** (salito a 34), **Parma** (salito a 34 dopo la gara di Coppa Italia), **Crotone** (salito a 33), **Casertana** (salito a 33) e **Monopoli** (salito a 32).
+   * Nel campionato in corso il Catania sta incrementando i propri bilanci secolari contro ben nove club presenti nella Top 35: **Bari** (salito a 53), **Foggia** (50), **Salernitana** (salito a 48), **Potenza** (salito a 34), **Cosenza** (salito a 34), **Parma** (salito a 34 dopo la gara di Coppa Italia), **Crotone** (salito a 33), **Casertana** (salito a 33) e **Monopoli** (salito a 32).
 
 ---
 
@@ -98,11 +98,11 @@ Questa sezione raccoglie i **tabellini certificati** delle partite spartiacque d
 | **6º** | **Cagliari** | **56** | **22** | **17** | **17** | 65 | 60 | +5 | 30 | [[02-cronistoria/stagioni/1934-1935\|1934-35]] → [[02-cronistoria/stagioni/2014-2015\|2014-15]] |
 | **7º** | **Siracusa** *(AS/US Siracusa)* | **53** | **23** | **17** | **13** | 64 | 59 | +5 | 24 | 1930-31 → [[02-cronistoria/stagioni/2025-2026\|2025-26]] |
 | **8º** | **Genoa** *(Genova 1893, Genoa CFC)* | **53** | **21** | **14** | **18** | 66 | 69 | -3 | 27 | [[02-cronistoria/stagioni/1951-1952\|1951-52]] → [[02-cronistoria/stagioni/2013-2014\|2013-14]] |
-| **9º** | **Bari** | **52** | **18** | **16** | **18** | 58 | 51 | +7 | 26 | [[02-cronistoria/stagioni/1939-1940\|1939-40]] → 2021-22 |
+| **9º** | **Bari** | **53** | **18** | **17** | **18** | 58 | 51 | +7 | 27 | [[02-cronistoria/stagioni/1939-1940\|1939-40]] → 2026-27 |
 | **10º** | **Brescia** | **52** | **17** | **16** | **19** | 54 | 66 | -12 | 26 | 1936-37 → 2014-15 |
 | **11º** | **Foggia** *(Foggia Incedit, US Foggia)* | **50** | **12** | **24** | **14** | 48 | 47 | +1 | 25 | [[02-cronistoria/stagioni/1935-1936\|1935-36]] → 2025-26 |
-| **12º** | **Hellas Verona** *(Verona)* | **48** | **11** | **18** | **19** | 43 | 62 | -19 | 25 | 1935-36 → [[02-cronistoria/stagioni/2018-2019\|2018-19]] |
-| **13º** | **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Salernitana]]** | **47** | **20** | **14** | **13** | 50 | 37 | +13 | 24 | 1930-31 → 2025-26 |
+| **12º** | **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Salernitana]]** | **48** | **20** | **14** | **14** | 50 | 38 | +12 | 25 | 1930-31 → 2026-27 |
+| **13º** | **Hellas Verona** *(Verona)* | **48** | **11** | **18** | **19** | 43 | 62 | -19 | 25 | 1935-36 → [[02-cronistoria/stagioni/2018-2019\|2018-19]] |
 | **14º** | **Atalanta** | **47** | **15** | **16** | **16** | 48 | 48 | 0 | 24 | 1935-36 → 2013-14 |
 | **15º** | **Lazio** | **46** | **15** | **11** | **20** | 45 | 55 | -10 | 25 | [[02-cronistoria/stagioni/1954-1955\|1954-55]] → 2013-14 |
 | **16º** | **Avellino** | **42** | **19** | **8** | **15** | 57 | 45 | +12 | 19 | [[02-cronistoria/stagioni/1948-1949\|1948-49]] → 2024-25 |
@@ -147,7 +147,7 @@ Per l'analisi dettagliata dei singoli incroci storici, consulta le schede monogr
 | Dossier Avversaria | Categorie di Confronto | Gare nei Tabellini | Partita Simbolo in Archivio |
 | :--- | :--- | :---: | :--- |
 | **[[02-cronistoria/partite-storiche/precedenti/palermo\|Derby di Sicilia (Catania – Palermo)]]** | Serie A, Serie B, Serie C, Coppa Italia | **82** *(+ Coppe reg.)* | [[02-cronistoria/partite-storiche/2008-2009/palermo-catania-0-4\|Palermo - Catania 0-4 (2009)]] e [[02-cronistoria/partite-storiche/2010-2011/catania-palermo-4-0\|Catania - Palermo 4-0 (2011)]] |
-| **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Precedenti Catania – Salernitana]]** | Serie B, Serie C / Prima Divisione, Coppa Italia | **47** | Sfide promozione e scontri diretti al Cibali e all'Arechi |
+| **[[02-cronistoria/partite-storiche/precedenti/salernitana\|Precedenti Catania – Salernitana]]** | Serie B, Serie C / Prima Divisione, Coppa Italia | **48** | Sfide promozione e scontri diretti al Cibali e all'Arechi |
 | **[[02-cronistoria/partite-storiche/precedenti/inter\|Precedenti Catania – Inter]]** | Serie A, Coppa Italia | **31** *(+ Coppe)* | [[02-cronistoria/partite-storiche/1960-1961/catania-inter-2-0\|Catania - Inter 2-0 (1961)]] e [[02-cronistoria/partite-storiche/2009-2010/catania-inter-3-1\|Catania - Inter 3-1 (2010)]] |
 | **[[02-cronistoria/partite-storiche/precedenti/casarano\|Precedenti Catania – Casarano]]** | Serie C1, Serie C | **20** | Classiche degli anni '80 e '90 in terza serie |
 | **[[02-cronistoria/partite-storiche/precedenti/atalanta-u23\|Precedenti Catania – Atalanta U23]]** | Serie C (Campionato e Play-off) | **4** | Secondo Turno Nazionale Play-off Serie C 2023-2024 |
@@ -157,5 +157,5 @@ Per l'analisi dettagliata dei singoli incroci storici, consulta le schede monogr
 ## Fonti e Metodologia
 
 1. **Antonio Buemi, Carlo Fontanelli, Roberto Quartarone, Alessandro Russo, Filippo Solarino**, *Tutto il Catania minuto per minuto (1929–2010)*, GEO Edizioni, Empoli, 2010.
-2. **Archivio Storico Wiki Calcio Catania**, *Spoglio algebrico integrale dei 95 fascicoli stagionali ufficiali (1929–2027)*, aggiornamento alla 13ª giornata della stagione 2026-2027.
+2. **Archivio Storico Wiki Calcio Catania**, *Spoglio algebrico integrale dei 95 fascicoli stagionali ufficiali (1929–2027)*, aggiornamento alla 15ª giornata della stagione 2026-2027.
 3. **Archivio Storico Ufficiale della Lega Serie A, Lega B, Lega Pro e FIGC**, Roma/Milano/Firenze.

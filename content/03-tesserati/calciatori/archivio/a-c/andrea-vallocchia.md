@@ -1,14 +1,14 @@
 ---
 title: Andrea Vallocchia — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Vallocchia, centrocampista del Calcio Catania con 11 presenze
+description: Biografia, presenze e statistiche ufficiali di Andrea Vallocchia, centrocampista del Calcio Catania con 13 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/a-c/andrea-vallocchia
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 current_squad: true
-total_appearances: 11
+total_appearances: 13
 seasons_count: 1
 image: assets/images/calciatori/andrea-vallocchia.jpg
 image_credits:
@@ -45,9 +45,9 @@ aliases:
 - calciatori/andrea-vallocchia
 total_goals: 0
 total_assists: 1
-minutes_played: 800
+minutes_played: 902
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 355929
 ---
@@ -81,7 +81,7 @@ tm_id: 355929
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>11</td>
+        <td>13</td>
         <th>Goal / Assist</th>
         <td>0 / 1</td>
       </tr>
@@ -97,11 +97,11 @@ tm_id: 355929
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Centrocampista | 11 | 0 | 1 | 1 | 0 | 800' |
-| **TOTALE** | — | **11** | **0** | **1** | **1** | **0** | **800'** |
+| **2026-2027** | Centrocampista | 13 | 0 | 1 | 1 | 0 | 902' |
+| **TOTALE** | — | **13** | **0** | **1** | **1** | **0** | **902'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **800 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **13 presenze ufficiali**, disputando **902 minuti** di gioco effettivo, siglando **0 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Michael Liguori, att
 slug: 03-tesserati/calciatori/rosa-attuale/michael-liguori
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Attaccante
 current_squad: true
 total_appearances: 11
@@ -61,7 +61,7 @@ total_goals: 1
 total_assists: 1
 minutes_played: 261
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 484703
 ---

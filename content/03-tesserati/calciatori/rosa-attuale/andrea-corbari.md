@@ -1,14 +1,14 @@
 ---
 title: Andrea Corbari — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Andrea Corbari, centrocampista del Calcio Catania con 41 presenze
+description: Biografia, presenze e statistiche ufficiali di Andrea Corbari, centrocampista del Calcio Catania con 42 presenze
   e 1 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/andrea-corbari
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 current_squad: true
-total_appearances: 41
+total_appearances: 42
 seasons_count: 2
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 1
 total_assists: 1
-minutes_played: 2093
+minutes_played: 2109
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 598098
 ---
@@ -94,7 +94,7 @@ tm_id: 598098
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>41</td>
+        <td>42</td>
         <th>Goal / Assist</th>
         <td>1 / 1</td>
       </tr>
@@ -111,18 +111,18 @@ Mezzala d'esperienza e temperamento, **Andrea Corbari** (Cremona, 26 aprile 1994
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Centrocampista | 33 | 1 | 0 | 5 | 0 | 1699' |
-| **2026-2027** | Centrocampista | 8 | 0 | 1 | 0 | 0 | 394' |
-| **TOTALE** | — | **41** | **1** | **1** | **5** | **0** | **2093'** |
+| **2026-2027** | Centrocampista | 9 | 0 | 1 | 0 | 0 | 410' |
+| **TOTALE** | — | **42** | **1** | **1** | **5** | **0** | **2109'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **41 presenze ufficiali**, disputando **2093 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **42 presenze ufficiali**, disputando **2109 minuti** di gioco effettivo, siglando **1 gol** e servendo **1 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
 
 Acquistato a titolo definitivo dalla Virtus Entella per duecentomila euro nell'ambito della campagna di rafforzamento della [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], il centrocampista cremonese portò subito solidità e lettura degli spazi al reparto costruito per il vertice da [[01-societa/presidenti/ross-pelligra|Ross Pelligra]]. Impiegato con regolarità sia da [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] che da [[03-tesserati/allenatori/william-viali|William Viali]], chiuse quel torneo — culminato con il secondo posto nel girone C e la semifinale playoff — con **33 presenze e 1.699 minuti**, firmando la rete che sbloccò il 2-0 interno sul Crotone alla 17ª giornata.
 
-Con l'arrivo in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Corbari ha continuato a garantire sostanza e raccordo tra i reparti, aggiungendo **8 apparizioni ufficiali, 394 minuti e 1 assist** nelle prime sedici gare dell'annata. Il suo percorso complessivo in maglia rossazzurra registra così **41 presenze, 1 gol, 1 assist e 2.093 minuti** effettivi sul rettangolo verde.
+Con l'arrivo in panchina di [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], Corbari ha continuato a garantire sostanza e raccordo tra i reparti, aggiungendo **9 apparizioni ufficiali, 410 minuti e 1 assist** nelle prime diciotto gare dell'annata. Il suo percorso complessivo in maglia rossazzurra registra così **42 presenze, 1 gol, 1 assist e 2.109 minuti** effettivi sul rettangolo verde.
 
 ---
 

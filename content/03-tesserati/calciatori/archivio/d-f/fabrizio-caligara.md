@@ -1,14 +1,14 @@
 ---
 title: Fabrizio Caligara — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Fabrizio Caligara, centrocampista del Calcio Catania con 5 presenze
+description: Biografia, presenze e statistiche ufficiali di Fabrizio Caligara, centrocampista del Calcio Catania con 7 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/d-f/fabrizio-caligara
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 current_squad: true
-total_appearances: 5
+total_appearances: 7
 seasons_count: 1
 image: assets/images/calciatori/fabrizio-caligara.jpg
 image_credits:
@@ -45,9 +45,9 @@ aliases:
 - calciatori/fabrizio-caligara
 total_goals: 0
 total_assists: 0
-minutes_played: 207
+minutes_played: 310
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 386574
 ---
@@ -81,7 +81,7 @@ tm_id: 386574
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>5</td>
+        <td>7</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -97,11 +97,11 @@ tm_id: 386574
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Centrocampista | 5 | 0 | 0 | 1 | 0 | 207' |
-| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **207'** |
+| **2026-2027** | Centrocampista | 7 | 0 | 0 | 1 | 0 | 310' |
+| **TOTALE** | — | **7** | **0** | **0** | **1** | **0** | **310'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **207 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **7 presenze ufficiali**, disputando **310 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

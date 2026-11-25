@@ -1,14 +1,14 @@
 ---
 title: Edoardo Masciangelo — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Edoardo Masciangelo, difensore del Calcio Catania con 10 presenze
+description: Biografia, presenze e statistiche ufficiali di Edoardo Masciangelo, difensore del Calcio Catania con 13 presenze
   e 0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/edoardo-masciangelo
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 current_squad: true
-total_appearances: 10
+total_appearances: 13
 seasons_count: 1
 tags:
 - calciatori
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 4
-minutes_played: 674
+minutes_played: 719
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 286293
 ---
@@ -94,7 +94,7 @@ tm_id: 286293
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>10</td>
+        <td>13</td>
         <th>Goal / Assist</th>
         <td>0 / 4</td>
       </tr>
@@ -110,11 +110,11 @@ tm_id: 286293
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Terzino sinistro | 10 | 0 | 4 | 1 | 1 | 674' |
-| **TOTALE** | — | **10** | **0** | **4** | **1** | **1** | **674'** |
+| **2026-2027** | Terzino sinistro | 13 | 0 | 4 | 1 | 1 | 719' |
+| **TOTALE** | — | **13** | **0** | **4** | **1** | **1** | **719'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **674 minuti** di gioco effettivo, siglando **0 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **13 presenze ufficiali**, disputando **719 minuti** di gioco effettivo, siglando **0 gol** e servendo **4 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

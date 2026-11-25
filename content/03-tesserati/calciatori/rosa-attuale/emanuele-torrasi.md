@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Emanuele Torrasi, ce
 slug: 03-tesserati/calciatori/rosa-attuale/emanuele-torrasi
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 current_squad: true
 total_appearances: 5
@@ -58,9 +58,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 287
+minutes_played: 271
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 315870
 ---
@@ -110,11 +110,11 @@ tm_id: 315870
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Mediano | 5 | 0 | 0 | 1 | 0 | 287' |
-| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **287'** |
+| **2026-2027** | Mediano | 5 | 0 | 0 | 1 | 0 | 271' |
+| **TOTALE** | — | **5** | **0** | **0** | **1** | **0** | **271'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **287 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **5 presenze ufficiali**, disputando **271 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

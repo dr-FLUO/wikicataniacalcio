@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Kaleb Jiménez, cent
 slug: 03-tesserati/calciatori/archivio/g-l/kaleb-jimenez
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-10-30'
+last_verified_date: '2026-11-25'
 role: Centrocampista
 total_appearances: 77
 seasons_count: 3
@@ -51,7 +51,7 @@ total_goals: 11
 total_assists: 11
 minutes_played: 4933
 locked: true
-locked_date: '2026-10-30'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 724437
 ---
@@ -103,8 +103,8 @@ tm_id: 724437
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2024-2025** | Centrocampista | 34 | 6 | 8 | 4 | 0 | 2359' |
 | **2025-2026** | Centrocampista | 39 | 5 | 3 | 7 | 0 | 2259' |
-| **2026-2027** | Centrocampista | 4 | 0 | 0 | 0 | 0 | 315' |
-| **TOTALE** | — | **77** | **11** | **11** | **11** | **0** | **4933'** |
+| **2026-2027** | Centrocampista | 4 | 0 | 0 | 1 | 0 | 315' |
+| **TOTALE** | — | **77** | **11** | **11** | **12** | **0** | **4933'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
 > In maglia rossazzurra, il calciatore ha collezionato complessivamente **77 presenze ufficiali**, disputando **4933 minuti** di gioco effettivo, siglando **11 gol** e servendo **11 assist** distribuiti su **3 stagioni sportive**.

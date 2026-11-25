@@ -1,14 +1,14 @@
 ---
 title: Marco Perrotta — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Marco Perrotta, difensore del Calcio Catania con 9 presenze e
+description: Biografia, presenze e statistiche ufficiali di Marco Perrotta, difensore del Calcio Catania con 11 presenze e
   0 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/marco-perrotta
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Difensore
 current_squad: true
-total_appearances: 10
+total_appearances: 11
 seasons_count: 1
 image: assets/images/calciatori/marco-perrotta.jpg
 image_credits:
@@ -53,9 +53,9 @@ catania_periods:
 - 2024-
 total_goals: 0
 total_assists: 0
-minutes_played: 807
+minutes_played: 872
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 171696
 ---
@@ -89,7 +89,7 @@ tm_id: 171696
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>10</td>
+        <td>11</td>
         <th>Goal / Assist</th>
         <td>0 / 0</td>
       </tr>
@@ -105,11 +105,11 @@ tm_id: 171696
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Difensore centrale | 10 | 0 | 0 | 1 | 0 | 807' |
-| **TOTALE** | — | **10** | **0** | **0** | **1** | **0** | **807'** |
+| **2026-2027** | Difensore centrale | 11 | 0 | 0 | 1 | 0 | 872' |
+| **TOTALE** | — | **11** | **0** | **0** | **1** | **0** | **872'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **10 presenze ufficiali**, disputando **807 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **11 presenze ufficiali**, disputando **872 minuti** di gioco effettivo, siglando **0 gol** e servendo **0 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

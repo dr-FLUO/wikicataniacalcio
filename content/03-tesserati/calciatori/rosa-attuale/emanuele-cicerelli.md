@@ -1,11 +1,11 @@
 ---
 title: Emmanuele Pio Cicerelli — Attaccante Esterno e Uomo Fantasia del Catania FC
 description: Biografia, presenze e statistiche ufficiali di Emanuele Cicerelli, attaccante esterno / ala sinistra del Calcio
-  Catania con 68 presenze e 15 gol registrati in maglia rossazzurra.
+  Catania con 70 presenze e 15 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/rosa-attuale/emanuele-cicerelli
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 birth_date: '1994-08-12'
 birth_place: San Giovanni Rotondo (FG), Italia
 nationality: Italia
@@ -13,7 +13,7 @@ role: Attaccante esterno / Ala sinistra
 current_squad: true
 catania_periods:
 - 2024-
-total_appearances: 68
+total_appearances: 70
 league_appearances: 38
 total_goals: 15
 league_goals: 8
@@ -52,9 +52,9 @@ seasons_count: 3
 height: 176 cm
 foot: Destro
 total_assists: 9
-minutes_played: 4286
+minutes_played: 4452
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 265320
 tags:
@@ -92,7 +92,7 @@ tags:
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>68</td>
+        <td>70</td>
         <th>Goal / Assist</th>
         <td>15 / 9</td>
       </tr>
@@ -110,17 +110,17 @@ Estro nello stretto, cambio di passo fulmineo e calcio velenoso dalla distanza: 
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2023-2024** | Ala sinistra | 26 | 3 | 2 | 5 | 1 | 1434' |
 | **2025-2026** | Ala sinistra | 26 | 6 | 3 | 4 | 0 | 1552' |
-| **2026-2027** | Ala sinistra | 16 | 6 | 4 | 1 | 0 | 1300' |
-| **TOTALE** | — | **68** | **15** | **9** | **10** | **1** | **4286'** |
+| **2026-2027** | Ala sinistra | 18 | 6 | 4 | 1 | 0 | 1466' |
+| **TOTALE** | — | **70** | **15** | **9** | **10** | **1** | **4452'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **68 presenze ufficiali**, disputando **4286 minuti** di gioco effettivo, siglando **15 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **70 presenze ufficiali**, disputando **4452 minuti** di gioco effettivo, siglando **15 gol** e servendo **9 assist** distribuiti su **3 stagioni sportive**.
 
 ## Profilo e Carriera in Rossazzurro
 
 Formatosi tra Foggia e Salernitana e temprato in oltre duecento gare tra Serie A e Serie B con Salernitana, Frosinone, Reggina e Lazio, approdò alle pendici dell'Etna nel gennaio della [[02-cronistoria/stagioni/2023-2024|stagione 2023-2024]]. Fu subito determinante nella conquista della Coppa Italia Serie C: segnò in semifinale contro il Rimini e firmò un gol nella [[02-cronistoria/partite-storiche/2023-2024/finale-coppa-catania-padova-4-2|finale vinta per 4-2 ai supplementari contro il Padova]] sotto [[03-tesserati/allenatori/michele-zeoli|Michele Zeoli]], chiudendo l'annata con **26 presenze, 3 gol e 2 assist**.
 
-Dopo una parentesi in prestito alla Ternana nel 2024-2025, rientrò a Catania per la [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], contribuendo con **6 reti e 3 assist in 26 partite** al secondo posto e alla semifinale playoff tra [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e [[03-tesserati/allenatori/william-viali|William Viali]]. Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], guidato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] alle spalle di [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]], ha già firmato **6 gol** (5 in Serie C contro Cosenza, Picerno, Casertana, Giugliano e Sorrento, più 1 a Vicenza) e 4 assist in 16 gare, salendo a **68 presenze, 15 reti, 9 assist e 4.286 minuti**.
+Dopo una parentesi in prestito alla Ternana nel 2024-2025, rientrò a Catania per la [[02-cronistoria/stagioni/2025-2026|stagione 2025-2026]], contribuendo con **6 reti e 3 assist in 26 partite** al secondo posto e alla semifinale playoff tra [[03-tesserati/allenatori/domenico-toscano|Domenico Toscano]] e [[03-tesserati/allenatori/william-viali|William Viali]]. Nella [[02-cronistoria/stagioni/2026-2027|stagione 2026-2027]], guidato da [[03-tesserati/allenatori/emilio-longo|Emilio Longo]] alle spalle di [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]], ha già firmato **6 gol** (5 in Serie C contro Cosenza, Picerno, Casertana, Giugliano e Sorrento, più 1 a Vicenza) e 4 assist in 18 gare, salendo a **70 presenze, 15 reti, 9 assist e 4.452 minuti**.
 
 ---
 

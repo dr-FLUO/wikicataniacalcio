@@ -5,7 +5,7 @@ description: Biografia, presenze e statistiche ufficiali di Christian De falco, 
 slug: 03-tesserati/calciatori/rosa-attuale/christian-de-falco
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Portiere
 current_squad: true
 total_appearances: 0
@@ -51,7 +51,7 @@ total_goals: 0
 total_assists: 0
 minutes_played: 0
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_riconciliazione_alias_dataset
 ---
 # Christian De falco — Scheda Giocatore nel Calcio Catania

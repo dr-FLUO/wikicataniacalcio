@@ -1,12 +1,12 @@
 ---
 title: Emilio Longo — Allenatore del Catania FC (2026–2027)
 description: Biografia, carriera e conduzione tecnica di Emilio Longo sulla panchina
-  del Catania Football Club nella stagione 2026-2027 in Serie C (16 panchine ufficiali,
-  2º posto in classifica dopo 13 giornate).
+  del Catania Football Club nella stagione 2026-2027 in Serie C (18 panchine ufficiali,
+  5º posto in classifica dopo 15 giornate).
 slug: 03-tesserati/allenatori/emilio-longo
 entity_type: allenatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Allenatore
 birth_date: '1973-05-18'
 birth_place: Salerno, Italia
@@ -34,7 +34,7 @@ sources:
   publisher: Transfermarkt GmbH & Co. KG
   year: 2026
   url: https://www.transfermarkt.it/catania-fc/startseite/verein/1627
-  reference: Bilancio aggiornato al 9 novembre 2026 (16 gare ufficiali)
+  reference: Bilancio aggiornato al 25 novembre 2026 (18 gare ufficiali)
 - author: Wikipedia Italia
   title: Catania Football Club 2026-2027 e Scheda Tecnica Emilio Longo
   publisher: Wikimedia Foundation
@@ -53,10 +53,10 @@ aliases:
 - emilio-longo
 - tesserati/emilio-longo
 
-total_matches: 16
+total_matches: 18
 
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: 'quadratura_storico_allenatori_dataset'
 ---
 
@@ -85,9 +85,9 @@ locked_by: 'quadratura_storico_allenatori_dataset'
       </tr>
       <tr class="nfc-stats-row">
         <th>Partite</th>
-        <td>16</td>
+        <td>18</td>
         <th>Media Punti</th>
-        <td>1,56 (1,69 in C)</td>
+        <td>1,44 (1,53 in C)</td>
       </tr>
     </tbody>
   </table>
@@ -107,8 +107,8 @@ Tecnico pragmatico, profondo conoscitore delle dinamiche tattiche del girone mer
 
 ## 2. La Stagione 2026-2027 al Cibali
 
-Sulla panchina rossazzurra, dopo un avvio con il 4-3-3 e il 4-2-3-1, Longo ha adottato stabilmente il **3-4-2-1** a partire dall'8ª giornata, valorizzando il peso offensivo di [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]], [[03-tesserati/calciatori/rosa-attuale/emanuele-cicerelli|Emanuele Cicerelli]] e [[03-tesserati/calciatori/archivio/p-r/roberto-insigne|Roberto Insigne]], oltre ai giovani [[03-tesserati/calciatori/rosa-attuale/flavio-russo|Flavio Russo]], [[03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti|Nicolò Cavuoti]] e [[03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti|Giovanni Bruzzaniti]]:
-* Nelle prime **13 giornate di campionato** (aggiornamento al 9 novembre 2026) ha condotto il Catania al **2º posto in classifica** con **22 punti** (7 vittorie, 1 pareggio, 5 sconfitte; 26 gol fatti e 13 subiti), spiccando per le vittorie esterne a Picerno (2-4), Caserta (1-2) e Altamura (0-3) e per i successi interni contro Cosenza (4-0), Crotone (2-1), Giugliano (6-0) e Sorrento (2-0).
+Sulla panchina rossazzurra, dopo un avvio con il 4-3-3 e il 4-2-3-1 e una parentesi col 3-4-3, Longo ha adottato stabilmente il **3-4-2-1** dall'8ª alla 15ª giornata, valorizzando il peso offensivo di [[03-tesserati/calciatori/rosa-attuale/massimo-coda|Massimo Coda]], [[03-tesserati/calciatori/rosa-attuale/emanuele-cicerelli|Emanuele Cicerelli]] e [[03-tesserati/calciatori/archivio/p-r/roberto-insigne|Roberto Insigne]], oltre ai giovani [[03-tesserati/calciatori/rosa-attuale/flavio-russo|Flavio Russo]], [[03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti|Nicolò Cavuoti]] e [[03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti|Giovanni Bruzzaniti]]:
+* Nelle prime **15 giornate di campionato** (aggiornamento al 25 novembre 2026) ha condotto il Catania al **5º posto in classifica** con **23 punti** (7 vittorie, 2 pareggi, 6 sconfitte; 26 gol fatti e 14 subiti), spiccando per le vittorie esterne a Picerno (2-4), Caserta (1-2) e Altamura (0-3) e per i successi interni contro Cosenza (4-0), Crotone (2-1), Giugliano (6-0) e Sorrento (2-0), oltre allo 0-0 interno col Bari davanti a 17.475 spettatori alla 15ª giornata.
 * In Coppa Italia Frecciarossa ha superato il turno preliminare espugnando Vicenza ai calci di rigore (1-1, 4-5 d.c.r.), prima di cedere ai trentaduesimi sul campo del Parma (2-0).
 * Il suo staff comprende il vice-allenatore Vincenzo Migliaccio e il collaboratore tecnico Ivan Moschella.
 
@@ -134,6 +134,6 @@ Sulla panchina rossazzurra, dopo un avvio con il 4-3-3 e il 4-2-3-1, Longo ha ad
 
 | Periodo / Date Ufficiali | Durata Incarico | Panchine Ufficiali | Bilancio Complessivo (V-N-P) | Media Punti (Campionato) |
 | :--- | :--- | :---: | :---: | :---: |
-| 03/07/2026 — in carica | 129 giorni | **16** (13 C + 3 Coppe) | 8 V – 1 N – 7 P *(7-2-7 nei 90')* | **1,56** (**1,69** in Serie C) |
+| 03/07/2026 — in carica | 145 giorni | **18** (15 C + 3 Coppe) | 8 V – 2 N – 8 P *(7-3-8 nei 90')* | **1,44** (**1,53** in Serie C) |
 
-*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC (aggiornati al 9 novembre 2026).*
+*Dati storici e rendimento tecnico certificati da verbale ufficiale e archivio gare del Catania FC (aggiornati al 25 novembre 2026).*

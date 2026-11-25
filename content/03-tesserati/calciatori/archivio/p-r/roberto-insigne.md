@@ -1,14 +1,14 @@
 ---
 title: Roberto Insigne — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Roberto Insigne, attaccante del Calcio Catania con 9 presenze
+description: Biografia, presenze e statistiche ufficiali di Roberto Insigne, attaccante del Calcio Catania con 12 presenze
   e 3 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/p-r/roberto-insigne
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Attaccante
 current_squad: true
-total_appearances: 9
+total_appearances: 12
 seasons_count: 1
 tags:
 - calciatori
@@ -50,9 +50,9 @@ aliases:
 - calciatori/roberto-insigne
 total_goals: 3
 total_assists: 1
-minutes_played: 396
+minutes_played: 468
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 200174
 ---
@@ -86,7 +86,7 @@ tm_id: 200174
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>9</td>
+        <td>12</td>
         <th>Goal / Assist</th>
         <td>3 / 1</td>
       </tr>
@@ -102,11 +102,11 @@ tm_id: 200174
 
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **2026-2027** | Ala destra | 9 | 3 | 1 | 1 | 0 | 396' |
-| **TOTALE** | — | **9** | **3** | **1** | **1** | **0** | **396'** |
+| **2026-2027** | Ala destra | 12 | 3 | 1 | 1 | 0 | 468' |
+| **TOTALE** | — | **12** | **3** | **1** | **1** | **0** | **468'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **9 presenze ufficiali**, disputando **396 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **12 presenze ufficiali**, disputando **468 minuti** di gioco effettivo, siglando **3 gol** e servendo **1 assist** distribuiti su **1 stagioni sportive**.
 
 
 ---

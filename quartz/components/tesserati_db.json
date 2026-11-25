@@ -126,7 +126,7 @@
     "i": "A",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 36,
+    "a": 38,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/andrea-allegretto",
     "img": "assets/images/calciatori/andrea-allegretto.jpg"
@@ -841,8 +841,8 @@
     "i": "B",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 12,
-    "s": 1,
+    "a": 26,
+    "s": 2,
     "u": "03-tesserati/calciatori/archivio/p-r/roberto-jose-battaglia",
     "img": ""
   },
@@ -1238,7 +1238,7 @@
     "r": "Centrocampista / Mediano",
     "cr": "Centrocampista",
     "a": 284,
-    "s": 12,
+    "s": 11,
     "u": "03-tesserati/calciatori/storici/marco-biagianti",
     "img": "assets/images/calciatori/marco-biagianti.jpg"
   },
@@ -1600,7 +1600,7 @@
     "i": "B",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 0,
+    "a": 5,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/carmelo-bonanno",
     "img": ""
@@ -1666,7 +1666,7 @@
     "i": "B",
     "r": "Centrocampista / Mediano",
     "cr": "Centrocampista",
-    "a": 0,
+    "a": 32,
     "s": 1,
     "u": "03-tesserati/calciatori/storici/loris-boni",
     "img": ""
@@ -2007,7 +2007,7 @@
     "i": "B",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 33,
+    "a": 38,
     "s": 2,
     "u": "03-tesserati/calciatori/rosa-attuale/giovanni-bruzzaniti",
     "img": "assets/images/calciatori/giovanni-bruzzaniti.jpg"
@@ -2150,7 +2150,7 @@
     "i": "B",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 35,
+    "a": 0,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/adrian-bic-b-dan",
     "img": ""
@@ -2172,7 +2172,7 @@
     "i": "C",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 5,
+    "a": 8,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/eddy-cabianca",
     "img": "assets/images/calciatori/eddy-cabianca.jpg"
@@ -2282,7 +2282,7 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 1,
+    "a": 2,
     "s": 2,
     "u": "03-tesserati/calciatori/archivio/p-r/roberto-calanna",
     "img": ""
@@ -2370,7 +2370,7 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 3,
+    "a": 7,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/fabrizio-caligara",
     "img": "assets/images/calciatori/fabrizio-caligara.jpg"
@@ -2821,7 +2821,7 @@
     "i": "C",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 1,
+    "a": 0,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/antonio-caruso",
     "img": ""
@@ -2975,8 +2975,8 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 94,
-    "s": 3,
+    "a": 9,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/francesco-castro",
     "img": ""
   },
@@ -3063,7 +3063,7 @@
     "i": "C",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 34,
+    "a": 38,
     "s": 2,
     "u": "03-tesserati/calciatori/archivio/s-z/salvatore-caturano",
     "img": "assets/images/calciatori/salvatore-caturano.jpg"
@@ -3085,7 +3085,7 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 8,
+    "a": 12,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/m-o/nicolò-cavuoti",
     "img": "assets/images/calciatori/nicolò-cavuoti.jpg"
@@ -3338,7 +3338,7 @@
     "i": "C",
     "r": "Attaccante esterno / Ala sinistra",
     "cr": "Centrocampista",
-    "a": 66,
+    "a": 70,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/emanuele-cicerelli",
     "img": "assets/images/calciatori/emanuele-cicerelli.jpg"
@@ -3415,7 +3415,7 @@
     "i": "C",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 9,
+    "a": 14,
     "s": 1,
     "u": "03-tesserati/calciatori/rosa-attuale/massimo-coda",
     "img": "assets/images/calciatori/massimo-coda.jpg"
@@ -3602,7 +3602,7 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 31,
+    "a": 0,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/m-o/marco-coppa",
     "img": ""
@@ -3646,7 +3646,7 @@
     "i": "C",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 41,
+    "a": 42,
     "s": 2,
     "u": "03-tesserati/calciatori/rosa-attuale/andrea-corbari",
     "img": "assets/images/calciatori/andrea-corbari.jpg"
@@ -4240,7 +4240,7 @@
     "i": "D",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 1,
+    "a": 0,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/s-z/tommaso-de-cara",
     "img": "assets/images/calciatori/tommaso-de-cara.jpg"
@@ -4746,8 +4746,8 @@
     "i": "D",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 57,
-    "s": 2,
+    "a": 0,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/m-o/marco-di-fatta",
     "img": ""
   },
@@ -4757,7 +4757,7 @@
     "i": "D",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 56,
+    "a": 58,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/matteo-di-gennaro",
     "img": "assets/images/calciatori/matteo-di-gennaro.jpg"
@@ -4955,7 +4955,7 @@
     "i": "D",
     "r": "Portiere",
     "cr": "Portiere",
-    "a": 69,
+    "a": 73,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/andrea-dini",
     "img": "assets/images/calciatori/andrea-dini.jpg"
@@ -5054,7 +5054,7 @@
     "i": "D",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 46,
+    "a": 47,
     "s": 2,
     "u": "03-tesserati/calciatori/rosa-attuale/daniele-donnarumma",
     "img": "assets/images/calciatori/daniele-donnarumma.jpg"
@@ -5725,7 +5725,7 @@
     "i": "F",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 5,
+    "a": 1,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/giuseppe-finocchiaro",
     "img": ""
@@ -5813,8 +5813,8 @@
     "i": "F",
     "r": "Portiere",
     "cr": "Portiere",
-    "a": 14,
-    "s": 2,
+    "a": 2,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/m-o/mario-fontana",
     "img": ""
   },
@@ -6660,8 +6660,8 @@
     "i": "G",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 57,
-    "s": 3,
+    "a": 2,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/cesar-maximiliano-grabinski",
     "img": "assets/images/calciatori/cesar-maximiliano-grabinski.jpg"
   },
@@ -7012,7 +7012,7 @@
     "i": "I",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 6,
+    "a": 5,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/giovanni-iapicone",
     "img": ""
@@ -7023,7 +7023,7 @@
     "i": "I",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 66,
+    "a": 69,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/mario-ierardi",
     "img": "assets/images/calciatori/mario-ierardi.jpg"
@@ -7089,7 +7089,7 @@
     "i": "I",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 7,
+    "a": 12,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/p-r/roberto-insigne",
     "img": "assets/images/calciatori/roberto-insigne.jpg"
@@ -7342,8 +7342,8 @@
     "i": "L",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 36,
-    "s": 2,
+    "a": 0,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/graziano-la-terra",
     "img": ""
   },
@@ -7562,7 +7562,7 @@
     "i": "L",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 10,
+    "a": 11,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/michael-liguori",
     "img": "assets/images/calciatori/michael-liguori.jpg"
@@ -7705,7 +7705,7 @@
     "i": "L",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 18,
+    "a": 21,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/fernando-lomi",
     "img": "assets/images/calciatori/fernando-lomi.jpg"
@@ -7848,7 +7848,7 @@
     "i": "L",
     "r": "Esterno di centrocampo / Cursore sinistro",
     "cr": "Centrocampista",
-    "a": 76,
+    "a": 79,
     "s": 3,
     "u": "03-tesserati/calciatori/rosa-attuale/gabriel-lunetta",
     "img": "assets/images/calciatori/gabriel-lunetta.jpg"
@@ -8442,7 +8442,7 @@
     "i": "M",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 14,
+    "a": 8,
     "s": 2,
     "u": "03-tesserati/calciatori/archivio/m-o/michele-marino",
     "img": ""
@@ -8640,7 +8640,7 @@
     "i": "M",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 8,
+    "a": 13,
     "s": 1,
     "u": "03-tesserati/calciatori/rosa-attuale/edoardo-masciangelo",
     "img": "assets/images/calciatori/edoardo-masciangelo.jpg"
@@ -8651,7 +8651,7 @@
     "i": "M",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 78,
+    "a": 80,
     "s": 3,
     "u": "03-tesserati/calciatori/archivio/m-o/nana-addo-welbeck-maseko",
     "img": "assets/images/calciatori/nana-addo-welbeck-maseko.jpg"
@@ -9410,7 +9410,7 @@
     "i": "M",
     "r": "Centrocampista / Mediano",
     "cr": "Centrocampista",
-    "a": 308,
+    "a": 321,
     "s": 9,
     "u": "03-tesserati/calciatori/storici/damiano-morra",
     "img": "assets/images/calciatori/figurine/damiano-morra-calcio-catania-figurina-panini-1975-1984.webp"
@@ -9663,8 +9663,8 @@
     "i": "N",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 120,
-    "s": 4,
+    "a": 14,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/lido-nelli",
     "img": ""
   },
@@ -9718,8 +9718,8 @@
     "i": "N",
     "r": "Attaccante (Centravanti / Ala)",
     "cr": "Centrocampista",
-    "a": 7,
-    "s": 2,
+    "a": 156,
+    "s": 8,
     "u": "03-tesserati/calciatori/storici/nicolo-nicolosi",
     "img": ""
   },
@@ -10004,7 +10004,7 @@
     "i": "P",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 6,
+    "a": 9,
     "s": 1,
     "u": "03-tesserati/calciatori/rosa-attuale/gabriele-pagliai",
     "img": "assets/images/calciatori/gabriele-pagliai.jpg"
@@ -10158,8 +10158,8 @@
     "i": "P",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 57,
-    "s": 3,
+    "a": 0,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/cesare-panebianco",
     "img": "assets/images/calciatori/cesare-panebianco.jpg"
   },
@@ -10510,8 +10510,8 @@
     "i": "P",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 56,
-    "s": 2,
+    "a": 1,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/dario-pellegrino",
     "img": ""
   },
@@ -10620,8 +10620,8 @@
     "i": "P",
     "r": "Attaccante / Ala",
     "cr": "Centrocampista",
-    "a": 1,
-    "s": 1,
+    "a": 65,
+    "s": 3,
     "u": "03-tesserati/calciatori/archivio/a-c/armando-perrone",
     "img": ""
   },
@@ -10642,7 +10642,7 @@
     "i": "P",
     "r": "Difensore",
     "cr": "Difensore",
-    "a": 9,
+    "a": 11,
     "s": 1,
     "u": "03-tesserati/calciatori/rosa-attuale/marco-perrotta",
     "img": "assets/images/calciatori/marco-perrotta.jpg"
@@ -10752,7 +10752,7 @@
     "i": "P",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 9,
+    "a": 5,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/m-o/marco-piampiani",
     "img": "assets/images/calciatori/marco-piampiani.jpg"
@@ -11489,7 +11489,7 @@
     "i": "Q",
     "r": "Regista / Mediano metodista / Difensore centrale",
     "cr": "Difensore",
-    "a": 125,
+    "a": 129,
     "s": 4,
     "u": "03-tesserati/calciatori/rosa-attuale/alessandro-quaini",
     "img": "assets/images/calciatori/alessandro-quaini.jpg"
@@ -11742,7 +11742,7 @@
     "i": "R",
     "r": "Portiere",
     "cr": "Portiere",
-    "a": 0,
+    "a": 26,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/d-f/domenico-rescigno",
     "img": ""
@@ -11918,8 +11918,8 @@
     "i": "R",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 114,
-    "s": 6,
+    "a": 13,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/juan-rizzo",
     "img": ""
   },
@@ -11929,8 +11929,8 @@
     "i": "R",
     "r": "Portiere",
     "cr": "Portiere",
-    "a": 114,
-    "s": 6,
+    "a": 0,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/p-r/rosario-rizzo",
     "img": ""
   },
@@ -12006,8 +12006,8 @@
     "i": "R",
     "r": "Attaccante",
     "cr": "Attaccante",
-    "a": 0,
-    "s": 2,
+    "a": 45,
+    "s": 4,
     "u": "03-tesserati/calciatori/archivio/p-r/marco-romano",
     "img": "assets/images/calciatori/marco-romano.jpg"
   },
@@ -12743,8 +12743,8 @@
     "i": "S",
     "r": "Portiere",
     "cr": "Portiere",
-    "a": 56,
-    "s": 4,
+    "a": 5,
+    "s": 1,
     "u": "03-tesserati/calciatori/archivio/g-l/giuseppe-sciuto",
     "img": "assets/images/players/327_giuseppe-sciuto.jpg"
   },
@@ -14085,7 +14085,7 @@
     "i": "V",
     "r": "Centrocampista",
     "cr": "Centrocampista",
-    "a": 9,
+    "a": 13,
     "s": 1,
     "u": "03-tesserati/calciatori/archivio/a-c/andrea-vallocchia",
     "img": "assets/images/calciatori/andrea-vallocchia.jpg"

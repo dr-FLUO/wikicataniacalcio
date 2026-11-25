@@ -1,14 +1,14 @@
 ---
 title: Salvatore Caturano — Scheda Giocatore e Statistiche nel Calcio Catania
-description: Biografia, presenze e statistiche ufficiali di Salvatore Caturano, attaccante del Calcio Catania con 36 presenze
+description: Biografia, presenze e statistiche ufficiali di Salvatore Caturano, attaccante del Calcio Catania con 38 presenze
   e 5 gol registrati in maglia rossazzurra.
 slug: 03-tesserati/calciatori/archivio/s-z/salvatore-caturano
 entity_type: calciatore
 status: verified
-last_verified_date: '2026-11-09'
+last_verified_date: '2026-11-25'
 role: Attaccante
 current_squad: true
-total_appearances: 36
+total_appearances: 38
 seasons_count: 2
 tags:
 - calciatori
@@ -50,9 +50,9 @@ aliases:
 - calciatori/salvatore-caturano
 total_goals: 5
 total_assists: 2
-minutes_played: 1254
+minutes_played: 1324
 locked: true
-locked_date: '2026-11-09'
+locked_date: '2026-11-25'
 locked_by: quadratura_transfermarkt_dataset_1935_2026
 tm_id: 56898
 ---
@@ -86,7 +86,7 @@ tm_id: 56898
       </tr>
       <tr class="nfc-stats-row">
         <th>Presenze</th>
-        <td>36</td>
+        <td>38</td>
         <th>Goal / Assist</th>
         <td>5 / 2</td>
       </tr>
@@ -103,16 +103,16 @@ tm_id: 56898
 | Stagione | Ruolo Tattico | Presenze | Gol | Assist | Ammonizioni | Espulsioni | Minuti Giocati |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **2025-2026** | Punta centrale | 29 | 4 | 2 | 0 | 0 | 1082' |
-| **2026-2027** | Punta centrale | 7 | 1 | 0 | 1 | 0 | 172' |
-| **TOTALE** | — | **36** | **5** | **2** | **1** | **0** | **1254'** |
+| **2026-2027** | Punta centrale | 9 | 1 | 0 | 2 | 0 | 242' |
+| **TOTALE** | — | **38** | **5** | **2** | **2** | **0** | **1324'** |
 
 > [!info] Dettaglio di Rendimento Agonistico
-> In maglia rossazzurra, il calciatore ha collezionato complessivamente **36 presenze ufficiali**, disputando **1254 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
+> In maglia rossazzurra, il calciatore ha collezionato complessivamente **38 presenze ufficiali**, disputando **1324 minuti** di gioco effettivo, siglando **5 gol** e servendo **2 assist** distribuiti su **2 stagioni sportive**.
 
 
 ## Profilo e Carriera in Rossazzurro
 
-Attaccante classe 1990, **Salvatore Caturano** ha militato nelle file rossazzurre per **2 stagioni** (2025–2027). Punto di riferimento nello scacchiere etneo, ha totalizzato **34 presenze ufficiali** (1209' minuti effettivi) impreziosite da **5 reti**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 29 occasioni realizzando 4 reti.
+Attaccante classe 1990, **Salvatore Caturano** milita nelle file rossazzurre da **2 stagioni** (2025–oggi). Punto di riferimento nello scacchiere etneo, ha totalizzato **38 presenze ufficiali** (1.324' minuti effettivi) impreziosite da **5 reti** e **2 assist**. La sua annata di maggior rendimento sul piano statistico è stata la **2025-2026**, durante la quale è sceso in campo in 29 occasioni realizzando 4 reti.
 
 ---
 
