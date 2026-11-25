@@ -1,10 +1,40 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot, simplifySlug } from "../util/path"
+import { getFileExtension, joinSegments, simplifySlug } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import { buildPageJsonLd, isNoIndexPage } from "../util/seo"
+
+function buildCompactTitle(slug: string | undefined, rawFrontmatterTitle: unknown, suffix: string, fallback: string): string {
+  if (slug === "index") {
+    return "Wiki Catania Calcio — Enciclopedia & Archivio Storico (1929–Oggi)"
+  }
+  let rawTitle = String(rawFrontmatterTitle ?? fallback).replace(/\s+/g, " ").trim()
+  rawTitle = rawTitle.replace(
+    / — Scheda Giocatore e Statistiche nel Calcio Catania$/i,
+    " — Statistiche Calcio Catania",
+  )
+  if (rawTitle.length + suffix.length <= 65) {
+    return rawTitle + suffix
+  }
+  if (rawTitle.length <= 65) {
+    return rawTitle
+  }
+  const cut = rawTitle.slice(0, 64)
+  const lastSpace = cut.lastIndexOf(" ")
+  return (lastSpace > 40 ? cut.slice(0, lastSpace) : cut).replace(/[\s—–-]+$/, "") + "…"
+}
+
+function buildCompactDescription(rawDesc: string): string {
+  const clean = rawDesc.replace(/\s+/g, " ").trim()
+  if (clean.length <= 160) return clean
+  const cut = clean.slice(0, 157)
+  const lastSpace = cut.lastIndexOf(" ")
+  return (lastSpace > 100 ? cut.slice(0, lastSpace) : cut).trimEnd() + "…"
+}
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -13,21 +43,21 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
-    const description =
+    const title = buildCompactTitle(
+      fileData.slug,
+      fileData.frontmatter?.title,
+      titleSuffix,
+      i18n(cfg.locale).propertyDefaults.title,
+    )
+    const rawDescription =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const description = buildCompactDescription(String(rawDescription))
 
     const { css, js, additionalHead } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-    const path = url.pathname as FullSlug
-    const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
-    const faviconSvgPath = joinSegments(baseDir, "static/favicon.svg")
-    const faviconIcoPath = joinSegments(baseDir, "favicon.ico")
 
     // Url canonico della pagina corrente allineato a simplifySlug / sitemap.xml (senza /index finale)
     const canonicalSlug = fileData.slug === "404" ? "" : simplifySlug(fileData.slug!)
@@ -60,8 +90,36 @@ export default (() => {
     const cleanExt = ogExtRaw.replace(/^\./, "").toLowerCase()
     const ogMimeType = `image/${cleanExt === "jpg" ? "jpeg" : cleanExt || "png"}`
 
+    const fmObj = fileData.frontmatter as Record<string, any> | undefined
+    const noIndex = isNoIndexPage(fileData.slug, fmObj)
+    const modifiedIso =
+      fileData.dates?.modified?.toISOString() ??
+      (typeof fmObj?.last_verified_date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(fmObj.last_verified_date)
+        ? fmObj.last_verified_date
+        : undefined)
+    const jsonLd =
+      !noIndex && cfg.baseUrl
+        ? buildPageJsonLd({
+            slug: (fileData.slug ?? "index") as string,
+            baseUrl: cfg.baseUrl,
+            title,
+            description,
+            socialUrl,
+            imageUrl: pageOgImage,
+            fm: fmObj,
+            modifiedIso,
+          })
+        : null
+
     return (
       <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{title}</title>
+        <meta
+          name="robots"
+          content={noIndex ? "noindex, follow" : "index, follow, max-image-preview:large, max-snippet:-1"}
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -92,8 +150,6 @@ export default (() => {
             `,
           }}
         />
-        <title>{title}</title>
-        <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -104,7 +160,6 @@ export default (() => {
             )}
           </>
         )}
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
@@ -143,6 +198,14 @@ export default (() => {
         <link rel="apple-touch-icon" sizes="180x180" href="/static/icon.png" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {jsonLd && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c"),
+            }}
+          />
+        )}
 
         {cfg.analytics?.provider === "umami" && (
           <script

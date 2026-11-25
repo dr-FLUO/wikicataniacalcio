@@ -540,6 +540,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
   searchButton.addEventListener("click", () => showSearch("basic"))
   window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  const prewarm = () => {
+    void ensureDataReady()
+  }
+  searchButton.addEventListener("mouseenter", prewarm, { passive: true })
+  searchButton.addEventListener("focus", prewarm, { passive: true })
+  window.addCleanup(() => {
+    searchButton.removeEventListener("mouseenter", prewarm)
+    searchButton.removeEventListener("focus", prewarm)
+  })
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
@@ -551,16 +560,5 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
     await setupSearch(element, currentSlug)
-  }
-
-  // Pre-warm search index during idle time (without blocking initial page render)
-  if ("requestIdleCallback" in window) {
-    (window as any).requestIdleCallback(() => {
-      ensureDataReady()
-    }, { timeout: 4000 })
-  } else {
-    setTimeout(() => {
-      ensureDataReady()
-    }, 4000)
   }
 })

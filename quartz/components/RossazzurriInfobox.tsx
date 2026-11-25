@@ -219,7 +219,8 @@ export default (() => {
         )}
         <div class="infobox-footer">
           <a
-            href={`${reportHref}?voce=${encodeURIComponent(String(fm.slug ?? fileData.slug ?? ""))}`}
+            href={`${reportHref}#voce=${encodeURIComponent(String(fm.slug ?? fileData.slug ?? ""))}`}
+            rel="nofollow"
             class="report-correction-btn"
             aria-label={`Segnala un errore o proponi un aggiornamento con fonte per ${fm.title}`}
           >

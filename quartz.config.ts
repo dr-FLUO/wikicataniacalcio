@@ -11,7 +11,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Wiki Catania Calcio",
-    pageTitleSuffix: " — Magazine & Archivio Storico (1929–Oggi)",
+    pageTitleSuffix: " | Wiki Catania Calcio",
     enableSPA: true,
     enablePopovers: false,
     analytics: {

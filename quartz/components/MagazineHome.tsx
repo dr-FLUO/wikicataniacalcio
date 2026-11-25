@@ -1414,7 +1414,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     strip.style.opacity = "0.2";
     setTimeout(function() {
       strip.innerHTML = numbers.map(function(stat) {
-        return '<a href="' + stat.href + '" class="nfc-number-cell" data-stat-id="' + stat.id + '">' +
+        return '<a hr' + 'ef="' + stat.href + '" class="nfc-number-cell" data-stat-id="' + stat.id + '">' +
           '<div class="nfc-number-cell__header">' +
             '<span class="nfc-number-cell__kicker">' + stat.kicker + '</span>' +
             '<span class="nfc-number-cell__arrow" aria-hidden="true">↗</span>' +
@@ -1448,7 +1448,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     setTimeout(function() {
       storiesGrid.innerHTML = stories.map(function(s) {
         return '<article class="nfc-story-card" data-story-id="' + s.id + '">' +
-          '<a href="' + s.href + '" class="nfc-story-card__link">' +
+          '<a hr' + 'ef="' + s.href + '" class="nfc-story-card__link">' +
             '<div class="nfc-story-card__media">' +
               '<img src="' + s.image + '" alt="' + s.title.replace(/"/g, '&quot;') + '" loading="lazy" />' +
               '<div class="nfc-story-card__badge">' +
@@ -1478,7 +1478,7 @@ const MagazineHome: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     portraitsGrid.style.opacity = "0.2";
     setTimeout(function() {
       portraitsGrid.innerHTML = portraits.map(function(p) {
-        return '<a href="' + p.href + '" class="nfc-portrait-card" data-person-id="' + p.id + '">' +
+        return '<a hr' + 'ef="' + p.href + '" class="nfc-portrait-card" data-person-id="' + p.id + '">' +
           '<div class="nfc-portrait-card__img-wrap">' +
             '<img src="' + p.image + '" alt="' + p.name.replace(/"/g, '&quot;') + '" loading="lazy" />' +
             '<span class="nfc-portrait-card__stat">' + p.stat + '</span>' +

@@ -28,9 +28,15 @@ CorrectionForm.afterDOMLoaded = `
     var statusEl = document.getElementById("nfc-form-status");
     var submitBtn = document.getElementById("nfc-submit-btn");
 
-    // Pagina di provenienza da ?voce=... (ignora la home "index")
-    var params = new URLSearchParams(window.location.search);
-    var voce = params.get("voce") || params.get("page") || "";
+    // Pagina di provenienza da #voce=... (o fallback legacy ?voce=... / ?page=..., ignora la home "index")
+    var hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
+    var searchParams = new URLSearchParams(window.location.search);
+    var voce =
+      hashParams.get("voce") ||
+      hashParams.get("page") ||
+      searchParams.get("voce") ||
+      searchParams.get("page") ||
+      "";
     if (voce && voce !== "index") {
       if (targetInput) targetInput.value = voce;
       if (targetBadge) {

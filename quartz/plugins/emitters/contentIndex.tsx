@@ -7,6 +7,7 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
+import { isNoIndexPage } from "../../util/seo"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
@@ -19,6 +20,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  noindex?: boolean
 }
 
 interface Options {
@@ -46,6 +48,7 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string
     ${content.date && `<lastmod>${content.date.toISOString()}</lastmod>`}
   </url>`
   const urls = Array.from(idx)
+    .filter(([_, content]) => !content.noindex)
     .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
     .join("")
   return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
@@ -115,6 +118,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               : undefined,
             date: date,
             description: file.data.description ?? "",
+            noindex: isNoIndexPage(slug, file.data.frontmatter as Record<string, any> | undefined),
           })
         }
       }
@@ -138,21 +142,70 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       }
 
       const fp = joinSegments("static", "contentIndex") as FullSlug
+      const navFp = joinSegments("static", "navIndex") as FullSlug
+      const explorerFp = joinSegments("static", "explorerIndex") as FullSlug
       const simplifiedIndex = Object.fromEntries(
         Array.from(linkIndex).map(([slug, content]) => {
-          // remove description and from content index as nothing downstream
-          // actually uses it. we only keep it in the index as we need it
-          // for the RSS feed
+          // remove description, date, noindex and from content index as nothing downstream
+          // actually uses them. we only keep them in the index for RSS/sitemap
           delete content.description
           delete content.date
+          delete content.noindex
           return [slug, content]
         }),
+      )
+
+      const navIndex = Object.fromEntries(
+        Array.from(linkIndex).map(([slug, content]) => [
+          slug,
+          {
+            slug: content.slug,
+            filePath: content.filePath,
+            title: content.title,
+            links: content.links,
+            tags: content.tags,
+            content: "",
+          },
+        ]),
+      )
+
+      const explorerIndex = Object.fromEntries(
+        Array.from(linkIndex)
+          .filter(
+            ([slug]) =>
+              !(
+                slug.startsWith("03-tesserati/calciatori/archivio/") &&
+                slug !== "03-tesserati/calciatori/archivio/index"
+              ),
+          )
+          .map(([slug, content]) => [
+            slug,
+            {
+              slug: content.slug,
+              filePath: content.filePath,
+              title: content.title,
+            },
+          ]),
       )
 
       yield write({
         ctx,
         content: JSON.stringify(simplifiedIndex),
         slug: fp,
+        ext: ".json",
+      })
+
+      yield write({
+        ctx,
+        content: JSON.stringify(navIndex),
+        slug: navFp,
+        ext: ".json",
+      })
+
+      yield write({
+        ctx,
+        content: JSON.stringify(explorerIndex),
+        slug: explorerFp,
         ext: ".json",
       })
     },

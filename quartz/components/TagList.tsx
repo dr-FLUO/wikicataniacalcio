@@ -16,7 +16,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
             const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
             return (
               <li>
-                <a href={linkDest} class="internal tag-link" aria-label={`Consulta tutti i contenuti con tag ${tag}`}>
+                <a href={linkDest} rel="nofollow" class="internal tag-link" aria-label={`Consulta tutti i contenuti con tag ${tag}`}>
                   <span class="tag-hash">#</span>
                   {tag}
                 </a>

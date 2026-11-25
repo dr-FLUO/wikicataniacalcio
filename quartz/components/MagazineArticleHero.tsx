@@ -842,7 +842,7 @@ const MagazineArticleHero: QuartzComponent = ({ fileData, tree, allFiles }: Quar
           <span class="nfc-meta-inline-label">Fonti:</span> {primarySourceLabel}
         </span>
         <span class="nfc-meta-sep">·</span>
-        <a href={`${reportHref}?page=${encodeURIComponent(slug)}`} class="nfc-meta-inline-action">
+        <a href={`${reportHref}#voce=${encodeURIComponent(slug)}`} rel="nofollow" class="nfc-meta-inline-action">
           ✎ Segnala correzione →
         </a>
       </div>

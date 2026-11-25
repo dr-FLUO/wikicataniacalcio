@@ -10,6 +10,7 @@ import { trieFromAllFiles } from "../../util/ctx"
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative } from "../../util/path"
 import { getEditorialFolderInfo } from "../../util/editorialFolders"
+import { stripRedundantBodyH1 } from "../../util/seo"
 
 interface FolderContentOptions {
   showFolderCount: boolean
@@ -132,7 +133,9 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
     // Markdown content from index.md (if present)
     const hasMarkdownContent = tree && (tree as Root).children.length > 0
-    const renderedContent = hasMarkdownContent ? (htmlToJsx(fileData.filePath!, tree) as ComponentChildren) : null
+    const renderedContent = hasMarkdownContent
+      ? (htmlToJsx(fileData.filePath!, stripRedundantBodyH1(tree as Root)) as ComponentChildren)
+      : null
 
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = cssClasses.join(" ")

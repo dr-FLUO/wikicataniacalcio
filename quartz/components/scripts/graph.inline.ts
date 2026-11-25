@@ -90,7 +90,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+    Object.entries<ContentDetails>(await fetchNavData).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),
@@ -581,6 +581,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
     for (const container of localGraphContainers) {
+      if ((container as HTMLElement).offsetParent === null) continue
       localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
     }
   }

@@ -56,7 +56,7 @@ const TesseratiArchive: QuartzComponent = ({ fileData }: QuartzComponentProps) =
           <span class="tess-pill-brand">ARCHIVIO ANAGRAFICO UFFICIALE</span>
           <span class="tess-pill-count">{totalCount} Tesserati Registrati</span>
         </div>
-        <h2 class="tess-header-title">Registro Generale Tesserati (1929–2027)</h2>
+        <h1 class="tess-header-title">Registro Generale Tesserati (1929–2027)</h1>
         <p class="tess-header-desc">
           Tutti i calciatori e gli allenatori della storia del Catania, rigorosamente indicizzati e ordinati
           per <strong>Cognome</strong>. Utilizza la barra di ricerca rapida, i filtri per lettera iniziale,

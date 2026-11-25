@@ -47,7 +47,8 @@ export default ((opts?: Options) => {
         </div>
         <div class="footer-action-row">
           <a
-            href={`${reportHref}?voce=${encodeURIComponent(String(fileData.slug ?? "index"))}`}
+            href={`${reportHref}#voce=${encodeURIComponent(String(fileData.slug ?? "index"))}`}
+            rel="nofollow"
             class="footer-redazione-btn"
             title="Contatta la redazione, invia una correzione o proponi una fonte"
           >
@@ -63,7 +64,10 @@ export default ((opts?: Options) => {
             <a href={legalHref}>Privacy (GDPR), Cookie-Less, Accessibilità &amp; Copyright</a>
           </li>
           <li>
-            <a href={`${reportHref}?voce=${encodeURIComponent(String(fileData.slug ?? "index"))}`}>
+            <a
+              href={`${reportHref}#voce=${encodeURIComponent(String(fileData.slug ?? "index"))}`}
+              rel="nofollow"
+            >
               Segnala Errore / Proponi Fonte
             </a>
           </li>

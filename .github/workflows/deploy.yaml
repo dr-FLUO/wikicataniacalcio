@@ -35,7 +35,7 @@ jobs:
       - name: Ensure CNAME and SEO robots.txt
         run: |
           echo "wikicataniacalcio.com" > public/CNAME
-          printf "User-agent: *\nAllow: /\n\nSitemap: https://wikicataniacalcio.com/sitemap.xml\n" > public/robots.txt
+          printf "User-agent: *\nAllow: /\nDisallow: /segnala-correzione?*\nDisallow: /*?voce=\nDisallow: /*?page=\n\nSitemap: https://wikicataniacalcio.com/sitemap.xml\n" > public/robots.txt
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

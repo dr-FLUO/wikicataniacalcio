@@ -28,6 +28,8 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const navIndexPath = joinSegments(baseDir, "static/navIndex.json")
+  const explorerIndexPath = joinSegments(baseDir, "static/explorerIndex.json")
   const contentIndexScript = `let _contentIndexPromise = null;
 const fetchData = {
   then: function(onFulfilled, onRejected) {
@@ -35,6 +37,24 @@ const fetchData = {
       _contentIndexPromise = fetch("${contentIndexPath}").then(function(res) { return res.json(); });
     }
     return _contentIndexPromise.then(onFulfilled, onRejected);
+  }
+};
+let _navIndexPromise = null;
+const fetchNavData = {
+  then: function(onFulfilled, onRejected) {
+    if (!_navIndexPromise) {
+      _navIndexPromise = fetch("${navIndexPath}").then(function(res) { return res.json(); });
+    }
+    return _navIndexPromise.then(onFulfilled, onRejected);
+  }
+};
+let _explorerIndexPromise = null;
+const fetchExplorerData = {
+  then: function(onFulfilled, onRejected) {
+    if (!_explorerIndexPromise) {
+      _explorerIndexPromise = fetch("${explorerIndexPath}").then(function(res) { return res.json(); });
+    }
+    return _explorerIndexPromise.then(onFulfilled, onRejected);
   }
 };`
 
